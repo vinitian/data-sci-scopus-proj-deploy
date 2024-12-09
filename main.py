@@ -270,7 +270,7 @@ with col1:
     with co5:
         subject_area = st.multiselect("Subject Area", subject_areas)
 
-    #---AI---#
+    #---AI START---#
 
     subject_area_mapping = {
     '10': "Multidisciplinary",
@@ -329,12 +329,15 @@ with col1:
 
     st.header(f"Fund Percentage: {round(yes_probability * 100, 2)}% " )
 
-    #---AI---#
+    #---AI END---#
 
- 
+    st.divider()
+
     st.header("Funded Papers By Different Affiliations")
     st.bar_chart(ogfdf.set_index('index')['sum'])
-  
+    
+    st.divider()
+    
     st.header("Funded Subject Areas by Chulalongkorn University")
     st.bar_chart(ogfdf2_tran['Chulalongkorn University'])
 
