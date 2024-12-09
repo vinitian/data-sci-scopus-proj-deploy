@@ -11,6 +11,7 @@ from itertools import combinations
 import numpy as np
 import random
 import pickle
+import sklearn
 
 st.set_page_config(layout="wide")
 
