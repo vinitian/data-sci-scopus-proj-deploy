@@ -331,6 +331,14 @@ with col1:
 
     #---AI---#
 
+    o1, o2 = st.columns(2)
+    with o1:
+        st.header("Funded Papers By Different Affiliations")
+        st.bar_chart(ogfdf.set_index('index')['sum'])
+    with o2:
+        st.header("Funded Subject Areas by Chulalongkorn University")
+        st.bar_chart(ogfdf2_tran['Chulalongkorn University'])
+
 with col2:
     st.title("Network Graph of Top Keywords")
     st.plotly_chart(fig, use_container_width=True)
@@ -433,10 +441,4 @@ with col2:
     elif op2 == "Funding":
         st.bar_chart(subjdf['funding'], height=500)
 
-    o1, o2 = st.columns(2)
-    with o1:
-        st.header("Funded Papers By Different Affiliations")
-        st.bar_chart(ogfdf.set_index('index')['sum'])
-    with o2:
-        st.header("Funded Subject Areas by Chulalongkorn University")
-        st.bar_chart(ogfdf2_tran['Chulalongkorn University'])
+
