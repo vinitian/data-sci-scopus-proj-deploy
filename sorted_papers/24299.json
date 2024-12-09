@@ -1,0 +1,94 @@
+{
+    "eid": "2-s2.0-85071723308",
+    "title": "Formal verification of the accounting information interfaces using colored petri net",
+    "cover-date": "2019-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Food Science",
+            "@code": "1106",
+            "@abbrev": "AGRI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        }
+    ],
+    "keywords": [
+        "Accounting Information System",
+        "Business Transaction",
+        "Colored Petri Net",
+        "Formal Verification",
+        "General Ledger"
+    ],
+    "authors": [
+        "Worawit Poolsawasdi",
+        "Chanon Dechsupa"
+    ],
+    "citedby-count": 2,
+    "ref-count": 11,
+    "ref-list": [
+        "Hierarchical verification for the BPMN design model using state space analysis",
+        "Colored Petri nets: A graphical language for formal modeling and validation of concurrent systems",
+        "Enterprise resource planning: Implementation procedures and critical success factors",
+        "Formal semantics of BPMN process models using CPN",
+        "Transformation of the BPMN design model into a colored petri net using the partitioning approach",
+        "Bpmn-based business process model feasibility analysis: A petri net approach",
+        "Formal semantics and verification of BPMN transaction and compensation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chonburi",
+            "@id": "60009116",
+            "affilname": "Burapha University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009116",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

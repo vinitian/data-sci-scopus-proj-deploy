@@ -1,0 +1,108 @@
+{
+    "eid": "2-s2.0-85137561320",
+    "title": "CLOVER Robot: A Minimally Actuated Jumping Robotic Platform",
+    "cover-date": "2022-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "jumping locomotion",
+        "mechanism design",
+        "robotics in hazardous fields",
+        "space robotics and automation"
+    ],
+    "authors": [
+        "Alejandro Macario-Rojas",
+        "Ben Parslew",
+        "Andrew Weightman",
+        "Katharine Lucy Smith"
+    ],
+    "citedby-count": 0,
+    "ref-count": 36,
+    "ref-list": [
+        "The MIT Humanoid Robot: Design, Motion Planning, and Control For Acrobatic Behaviors",
+        "Controllability and stability analysis of planar snake robot locomotion",
+        "Design and mobility evaluation of tracked lunar vehicle",
+        "Surface navigation and mobility intelligence on the Mars Exploration Rovers",
+        "Robot mobility systems for planetary surface exploration\u2013state-of-the-art and future outlook: A literature survey",
+        "Hopper concepts for small body landers",
+        "A bipedal walking robot that can fly, slackline, and skateboard",
+        "Robotic vertical jumping agility via series-elastic power modulation",
+        "A bipedal jumping and landing robot with an artificial musculoskeletal system",
+        "Design exploration and kinematic tuning of a power modulating jumping monopod",
+        "Biologically inspired jumping robots: A comprehensive review",
+        "Hayabusa2 mission overview",
+        "MASCOT\u2014The mobile asteroid surface scout onboard the HAYABUSA2 mission",
+        "A dynamics and stability framework for avian jumping take-off",
+        "Simulation of the Landing Buffer of a Three-Legged Jumping Robot",
+        "The Artemis program: An overview of NASA\u2019s activities to return humans to the moon",
+        "Environment robot interaction the basis for mobility in planetary micro-rovers",
+        "Untethered one-legged hopping in 3D using linear elastic actuator in parallel (LEAP)",
+        "MSU jumper: A single-motor-actuated miniature steerable jumping robot",
+        "A minimally actuated hopping rover for exploration of celestial bodies",
+        "Design and demonstration of a bio-inspired flapping-wing-assisted jumping robot",
+        "An integrated jumping-crawling robot using height-adjustable jumping module",
+        "Design and experimental evaluation of a single-actuator continuous hopping robot using the geared symmetric multi-bar mechanism",
+        "Mobility analysis part-1",
+        "Jumping robots: A biomimetic solution to locomotion across rough terrain",
+        "A Biologically Inspired Jumping and Rolling Robot",
+        "Material properties of Thera-Band tubing",
+        "Thermodynamics of rubber elasticity"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Manchester",
+            "@id": "60003771",
+            "affilname": "The University of Manchester",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003771",
+            "affiliation-country": "United Kingdom"
+        }
+    ],
+    "funding": [
+        "FAIR-SPACE",
+        "University of Manchester Research Institute",
+        "University of Manchester"
+    ]
+}

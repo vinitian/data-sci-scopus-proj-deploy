@@ -1,0 +1,102 @@
+{
+    "eid": "2-s2.0-85098137762",
+    "title": "Spectral proper orthogonal decomposition analysis of the turbulent wake of a disk at Re = 50 000 SPECTRAL PROPER ORTHOGONAL DECOMPOSITION ... S. NIDHAN et al.",
+    "cover-date": "2020-12-21",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computational Mechanics",
+            "@code": "2206",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Fluid Flow and Transfer Processes",
+            "@code": "1507",
+            "@abbrev": "CENG"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "S. Nidhan",
+        "K. Chongsiripinyo",
+        "O. T. Schmidt",
+        "S. Sarkar"
+    ],
+    "citedby-count": 13,
+    "ref-count": 53,
+    "ref-list": [
+        "Visual observations of the flow past a sphere at Reynolds numbers between (Equation presented) and (Equation presented)",
+        "Observations of large-scale structures in wakes behind axisymmetric bodies",
+        "Turbulence memory in self-preserving wakes",
+        "On the universality of turbulent axisymmetric wakes",
+        "Large-scale coherent structures in the wake of axisymmetric bodies",
+        "Coherent vortex structures in the wake of a sphere and a circular disk at rest and under forced vibrations",
+        "Proper orthogonal decomposition of an axisymmetric turbulent wake behind a disk",
+        "The structure of inhomogeneous turbulent flows",
+        "The far downstream evolution of the high-Reynolds-number axisymmetric wake behind a disk. Part 2. Slice proper orthogonal decomposition",
+        "LES and DES investigations of turbulent flow over a sphere at Re = 10,000",
+        "On the identification of a vortex",
+        "Vortical structures behind a sphere at subcritical Reynolds numbers",
+        "Direct numerical simulation of the flow over a sphere at (Equation presented) = 3700",
+        "Effect of stratification on the turbulent wake behind a sphere at Re = 10,000",
+        "An application of Lumley's orthogonal decomposition to the axisymmetric jet mixing layer",
+        "Coherent structures in the axisymmetric turbulent jet mixing layer",
+        "An orthogonal decomposition of the axisymmetric jet mixing layer utilizing cross-wire velocity measurements",
+        "Stochastic estimation and proper orthogonal decomposition: Complementary techniques for identifying structure",
+        "The proper orthogonal decomposition of pressure fluctuations surrounding a turbulent jet",
+        "Coherent structure in the turbulent planar jet. Part 1. Extraction of proper orthogonal decomposition eigenmodes and their self-similarity",
+        "Reconstruction of the global velocity field in the axisymmetric mixing layer utilizing the proper orthogonal decomposition",
+        "Coherent structure in the turbulent planar jet. Part 2. Structural topology via POD eigenmode projection",
+        "Coherent structure in a turbulent jet via a vector implementation of the proper orthogonal decomposition",
+        "Dynamics of (Equation presented) = 0 and (Equation presented) = 1 modes and of streamwise vortices in a turbulent axisymmetric mixing layer",
+        "Examination of large-scale structures in a turbulent plane mixing layer. Part 1. Proper orthogonal decomposition",
+        "Examination of large-scale structures in a turbulent plane mixing layer. Part 2. Dynamical systems model",
+        "Three-component vectorial proper orthogonal decomposition of axisymmetric wake behind a disk",
+        "Turbulence and the dynamics of coherent structures. I. Coherent structures",
+        "Spectral proper orthogonal decomposition and its relationship to dynamic mode decomposition and resolvent analysis",
+        "Wavepackets and trapped acoustic modes in a turbulent jet: Coherent structure eduction and global stability",
+        "Spectral analysis of jet turbulence",
+        "Large-scale streaky structures in turbulent jets",
+        "Resolvent-based modeling of coherent wave packets in a turbulent jet",
+        "Decay of turbulent wakes behind a disk in homogeneous and stratified fluids",
+        "Modeling complex boundaries using an external force field on fixed Cartesian grids in large-eddy simulations",
+        "An embedded-boundary formulation for large-eddy simulation of turbulent flows interacting with moving boundaries",
+        "A parallel fast direct solver for block tridiagonal systems with separable matrices of arbitrary dimension",
+        "A dynamic subgridscale eddy viscosity model",
+        "A simple boundary condition for unbounded hyperbolic flows",
+        "Analysis of land surface heat fluxes using the orthonormal wavelet approach",
+        "Autocorrelation functions and the determination of integral length with reference to experimental and numerical data",
+        "Guide to spectral proper orthogonal decomposition",
+        "Equilibrium similarity, effects of initial conditions and local Reynolds number on the axisymmetric wake",
+        "Self-similarity of the large-scale motions in turbulent pipe flow",
+        "Numerical study on coherent structure behind a circular disk",
+        "Resolvent analysis of separated and attached flows around an airfoil at transitional Reynolds number",
+        "Resolvent-analysis-based design of airfoil separation control"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "San Diego",
+            "@id": "60030612",
+            "affilname": "University of California, San Diego",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030612",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Office of Naval Research"
+    ]
+}

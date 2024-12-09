@@ -1,0 +1,105 @@
+{
+    "eid": "2-s2.0-85143272445",
+    "title": "MHCVision: estimation of global and local false discovery rate for MHC class I peptide binding prediction",
+    "cover-date": "2021-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Statistics and Probability",
+            "@code": "2613",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Phorutai Pearngam",
+        "Sira Sriswasdi",
+        "Trairak Pisitkun",
+        "Andrew R. Jones"
+    ],
+    "citedby-count": 1,
+    "ref-count": 27,
+    "ref-list": [
+        "Mass spectrometry profiling of HLA-associated peptidomes in mono-allelic cells enables more accurate epitope prediction",
+        "Gapped sequence alignment using artificial neural networks: application to the MHC class I system",
+        "UniProt: the universal protein knowledgebase",
+        "The HLA ligandome landscape of chronic myeloid leukemia delineates novel T-cell epitopes for immunotherapy",
+        "NetMHCpan-4.0: improved peptide-MHC class I interaction predictions integrating eluted ligand and peptide binding affinity data",
+        "Posterior error probabilities and false discovery rates: two sides of the same coin",
+        "NetMHCcons: a consensus method for the major histocompatibility complex class I predictions",
+        "Common and well-documented HLA alleles: 2012 update to the CWD catalogue",
+        "NetMHCpan-3.0; improved prediction of binding to MHC class I molecules integrating information from multiple receptor and peptide length datasets",
+        "Quantitative predictions of peptide binding to any HLA-DR molecule of known sequence: netMHCIIpan",
+        "MHCflurry: open-source class I MHC binding affinity prediction",
+        "Benchmarking predictions of MHC class I restricted T cell epitopes in a comprehensively studied model system",
+        "MHCSeqNet: a deep neural network model for universalMHC binding prediction",
+        "NetMHCpan-4.1 and NetMHCIIpan-4.0: improved predictions of MHC antigen presentation by concurrent motif deconvolution and integration of MS MHC eluted ligand data",
+        "IPD-IMGT/HLA database",
+        "A large peptidome dataset improves HLA class I epitope prediction across most of the human population",
+        "A comprehensive analysis of constitutive naturally processed and presented HLA-C 04: 01 (Cw4)-specific peptides",
+        "A hybrid parameter estimation algorithm for beta mixtures and applications to methylation state classification",
+        "High-throughput prediction of MHC class i and ii neoantigens withMHCnuggets",
+        "Mass spectrometry based immunopeptidomics leads to robust predictions of phosphorylated HLA class I ligands",
+        "From antigen processing to peptide-MHC binding",
+        "A systematic assessment of MHC class II peptide binding predictions and evaluation of a consensus approach",
+        "Major histocompatibility complex (MHC) class I and MHC class II proteins: conformational plasticity in antigen presentation",
+        "Immunodominance in major histocompatibility complex class I-restricted T lymphocyte responses",
+        "Quantification of uncertainty in peptide-MHC binding prediction improves high-affinity peptide Selection for therapeutic design",
+        "Toward more accurate pan-specific MHC-peptide binding prediction: a review of current methods and tools",
+        "Systematically benchmarking peptide-MHC binding predictors: from synthetic to naturally processed epitopes"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Liverpool",
+            "@id": "60020661",
+            "affilname": "University of Liverpool",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020661",
+            "affiliation-country": "United Kingdom"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,104 @@
+{
+    "eid": "2-s2.0-84902381610",
+    "title": "Parametric survival densities from phase-type models",
+    "cover-date": "2014-01-01",
+    "subject-areas": [
+        {
+            "$": "General Medicine",
+            "@code": "2700"
+        },
+        {
+            "$": "Applied Mathematics",
+            "@code": "2604"
+        }
+    ],
+    "keywords": [
+        "EM algorithm",
+        "Flowgraph model",
+        "Latent class model",
+        "Markov chain",
+        "Maximum likelihood",
+        "Right-censored survival data",
+        "Transition intensity"
+    ],
+    "authors": [
+        "Eric V. Slud"
+    ],
+    "citedby-count": 6,
+    "ref-count": 55,
+    "ref-list": [
+        "Scand J Stat",
+        "Understanding the shape of the hazard rate: A process point of view",
+        "Statistical Models for Counting Processes",
+        "Effects of estrogen receptor expression and histopathology on annual hazard rates of death from breast cancer",
+        "The age distribution of cancer and a multi-stage theory of carcinogenesis",
+        "Inference for phase-type distributions",
+        "Proceedings of ISI",
+        "Ann Prob",
+        "Fitting Phase-type Distributions via the EM Algorithm",
+        "Bayesian estimation for the M/G/1 queue using a phase-type approximation",
+        "Int Stat Rev",
+        "The estimation of phase-type related functionals using markov chain monte carlo methods",
+        "Acyclic discrete phase type distributions: Properties and a parameter estimation algorithm",
+        "Matching three moments with minimal acyclic phase type distributions",
+        "Long-range trends in adult mortality: Models and projection methods",
+        "Mortality Modelling and Forecasting: a Review of Methods",
+        "Actuarial Mathematics",
+        "Trans Soc Actuar",
+        "KPC-Toolbox: Best recipes for automatic trace fitting using Markovian Arrival Processes",
+        "A use of complex probabilities in the theory of stochastic processes",
+        "Actuar: An R package for Actuarial Science",
+        "Analyzing data on lengths of stay of hospital patients using phase-type distributions",
+        "Introduction to Probability Theory and Its Applications",
+        "Philos Trans R Soc Lond",
+        "Philos Trans R Soc Lond",
+        "J Inst Actuar",
+        "In 3rd international conference on matrix-analytic methods in stochastic models",
+        "PhFit: A general phase-type fitting tool",
+        "Flowgraph models for generalized phase type distributions having non-exponential waiting times",
+        "Flowgraph Models for Multistate Time-to-Event Data",
+        "ORSA J Comput",
+        "Mutation and cancer: statistical study of retinoblastoma.",
+        "Evaluating and extending the Lee-Carter model for mortality forecasting: Bootstrap confidence interval",
+        "Threshold regression for survival analysis: Modeling event times by a stochastic process reaching a boundary",
+        "Modeling and forecasting U.S. mortality",
+        "Modeling and evaluating insurance losses via mixtures of erlang distributions",
+        "Markov Aging Process and Phase-Type Law of Mortality",
+        "Modeling in Biopharmaceutics, Pharmacokinetics, and Pharmacodynamics",
+        "J Inst Actuar Assur",
+        "A two-disease model of female breast cancer: Mortality in 1969 among white females in the United States",
+        "Simulating Coxian phase-type distributions for patient survival",
+        "A fully Bayesian approach to inference for Coxian phase-type distributions with covariate dependent mean",
+        "Commentary: Fifty years of the multistage model: Remarks on a landmark paper",
+        "Liber Amicorum Prof. Emeritus H. Florin, Department of Mathematics",
+        "Matrix Geometric Solutions in Stochastic Models: An Algorithmic Approach",
+        "Direct calculation of the information matrix via the EM algorithm",
+        "On non-uniqueness of representations of phase-type distributions",
+        "Estimation of Phase-type Distributions from Censored Data",
+        "The EMpht programme",
+        "R Foundation for Statistical Computing",
+        "Adv Appl Probab",
+        "IMS Lecture notes: Monograph series",
+        "Monte Carlo studies for evaluating phase-type parameter estimation, and a Fisher information calculation",
+        "Modeling US cause-specific mortality using an age-segmented Lee-Carter model",
+        "A novel approach for phase-type fitting with the EM algorithm"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "College Park",
+            "affilname": "University of Maryland, College Park",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": null,
+            "affilname": "Census Bureau CSRM",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": []
+}

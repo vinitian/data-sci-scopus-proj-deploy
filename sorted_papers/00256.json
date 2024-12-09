@@ -1,0 +1,83 @@
+{
+    "eid": "2-s2.0-85133390339",
+    "title": "Adaptive Modulation and Power Allocation in Green Cognitive Radio Networks",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Cognitive radio network",
+        "Lagrange dual decomposition",
+        "OFDM",
+        "power allocation"
+    ],
+    "authors": [
+        "M. Z. Siddiqi",
+        "L. Wuttisittikulkij",
+        "I. S. Mirza",
+        "S. Chaudhary",
+        "A. Paranianifard"
+    ],
+    "citedby-count": 0,
+    "ref-count": 6,
+    "ref-list": [
+        "Cognitive radio networks: A survey\", in",
+        "Optimal adaptive bit loading and subcarrier allocation techniques for ofdm based cognitive radio systems",
+        "Power/bit loading in ofdm-based cognitive networks with comprehensive interference considerations: The single-su case",
+        "Adaptive bit loading in relay-Aided cognitive radio network",
+        "Resource allocation in relay-Aided ofdm cognitive radio networks",
+        "Energy-efficient wireless communications: From energy modeling to performance evaluation"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "TSRI Fund",
+        "Chulalongkorn University"
+    ]
+}

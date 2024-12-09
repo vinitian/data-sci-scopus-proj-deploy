@@ -1,0 +1,82 @@
+{
+    "eid": "2-s2.0-85169807359",
+    "title": "Vectorcardiographic Reconstruction from Standard 12-Lead Electrocardiogram Using Convolutional Neural Network",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Graphics and Computer-Aided Design",
+            "@code": "1704",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "convolutional neural network (CNN)",
+        "standard 12-lead ECG",
+        "VCG reconstruction",
+        "vectorcardiography"
+    ],
+    "authors": [
+        "Tanawan Tearwattanarattikal",
+        "Apiwat Lek-Uthai"
+    ],
+    "citedby-count": 0,
+    "ref-count": 19,
+    "ref-list": [
+        "An accurate, clinically practical system for spatial vectorcardiography",
+        "Methods for derivation of orthogonal leads from 12-lead electrocardiogram: A review",
+        "Comparison of Frank vectorcardiogram with two different vectorcardiograms derived from conventional ECG-leads",
+        "Multilead ECG analysis",
+        "Derivation of the 12-lead electrocardiogram and 3-lead vectorcardiogram",
+        "Vectorcardiogram synthesized from a 12-lead ECG: superiority of the inverse Dower matrix",
+        "Reconstruction of the Frank vectorcardiogram from standard electrocardiographic leads: diagnostic comparison of different methods",
+        "Comparison of different electrocardiography with vectorcardiography transformations",
+        "Novel Method for Deriving Vectorcardiographic Leads Based on Artificial Neural Networks",
+        "PhysioBank, PhysioToolkit, and PhysioNet: components of a new research resource for complex physiologic signals",
+        "Comparison of Baseline Wander Correction Methods for Handheld ECG with Motion Artefacts",
+        "New standards for ECG equipment",
+        "Steep slope method for real time QRS detection",
+        "Performance of a qrs detector on self-collected database using a handheld twoelectrode ecg",
+        "Pytorch: An imperative style, high-performance deep learning library",
+        "Experiment tracking with weights and biases",
+        "Practical bayesian optimization of machine learning algorithms"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

@@ -1,0 +1,72 @@
+{
+    "eid": "2-s2.0-85082681753",
+    "title": "RUN-ONCO: A highly extensible software platform for cancer precision medicine",
+    "cover-date": "2019-11-13",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Analysis plugin",
+        "Cancer",
+        "Ecnomics",
+        "Highly extensible plugin",
+        "Precision medicine",
+        "Software platform",
+        "Visualization plugin"
+    ],
+    "authors": [
+        "Neda Peyrone",
+        "Duangdao Wichadakul"
+    ],
+    "citedby-count": 2,
+    "ref-count": 17,
+    "ref-list": [
+        "Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries",
+        "Cancer etiology. Variation in cancer risk among tissues can be explained by the number of stem cell divisions",
+        "Precision cancer medicine: The future is now, only better",
+        "GENIPAC: A genomic information portal for head and neck cancer cell systems",
+        "Web-TCGA: An online platform for integrated analysis of molecular cancer data sets",
+        "CanEvolve: A web portal for integrative oncogenomics",
+        "The Cancer Genome Atlas Clinical Explorer: A web and mobile interface for identifying clinical-genomic driver associations",
+        "Research electronic data capture (REDCap)-a metadata-driven methodology and workflow process for providing translational research informatics support",
+        "The NCI Genomic Data Commons as an engine for precision medicine",
+        "OncoKB: A precision oncology knowledge base",
+        "The STRING database in 2011: Functional interaction networks of proteins, globally integrated and scored",
+        "KEGG: Kyoto encyclopedia of genes and genomes",
+        "Clustergrammer, a web-based heatmap visualization and analysis tool for high-dimensional biological data",
+        "Cytoscape.js: A graph theory library for visualisation and analysis"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "National Research Council of Thailand"
+    ]
+}

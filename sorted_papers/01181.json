@@ -1,0 +1,68 @@
+{
+    "eid": "2-s2.0-85097951150",
+    "title": "Evaluation of multipath mitigation performance using signal-to-noise ratio (SNR) based signal selection methods",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (miscellaneous)",
+            "@code": "2201",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Earth and Planetary Sciences (miscellaneous)",
+            "@code": "1901",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [
+        "Multipath",
+        "NLOS",
+        "Satellite signal selection",
+        "SNR",
+        "SPP"
+    ],
+    "authors": [
+        "Valanon Uaratanawong",
+        "Chalermchon Satirapod",
+        "Toshiaki Tsujii"
+    ],
+    "citedby-count": 4,
+    "ref-count": 17,
+    "ref-list": [
+        "Wavelet transform application to C/A Code multipath mitigation at GPS reference stations for improved differential GPS corrections",
+        "A GNSS satellite selection method based on SNR fluctuation in multipath environments",
+        "GNSS solutions: multipath vs. NLOS signals. How does non-line-of-sight reception differ from multipath interference",
+        "NLOS correction/exclusion for GNSS measurement using RAIM and city models",
+        "Estimation and exclusion of multipath range error for robust positioning",
+        "Multipath mitigation by wavelet analysis for GPS base station applications",
+        "Multipath detection with the combination of SNR measurements - example from urban environment",
+        "Using multiple GNSS constellations with strict quality constraints for more accurate positioning in urban environments",
+        "Efficient satellite selection method for instantaneous RTK-GNSS in challenging environments",
+        "Optimization technique for pseudorange multipath mitigation using different signal selection methods"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Osaka",
+            "@id": "60270122",
+            "affilname": "Osaka Metropolitan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60270122",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

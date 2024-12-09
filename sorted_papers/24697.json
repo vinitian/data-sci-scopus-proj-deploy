@@ -1,0 +1,65 @@
+{
+    "eid": "2-s2.0-85125995029",
+    "title": "Classification of database technology problems on stack overflow",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Machine learning",
+        "Natural language processing",
+        "Software maintenance",
+        "Stack overflow",
+        "Text classification"
+    ],
+    "authors": [
+        "Nuttanai Suwonchoochit",
+        "Twittie Senivongse"
+    ],
+    "citedby-count": 2,
+    "ref-count": 12,
+    "ref-list": [
+        "Sotorrent: Reconstructing and analyzing the evolution of Stack Overflow posts",
+        "Sotagrec: A combined tag recommendation approach for Stack Overflow",
+        "Scalable tag recommendation for software information sites",
+        "We need to talk about Microservices: An analysis from the discussions on StackOverflow",
+        "Toward empirically investigating non-functional requirements of iOS developers on Stack Overflow"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

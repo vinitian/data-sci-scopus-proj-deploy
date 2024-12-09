@@ -1,0 +1,99 @@
+{
+    "eid": "2-s2.0-85104407434",
+    "title": "A bim-database-integrated system for construction cost estimation",
+    "cover-date": "2021-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Environmental Engineering",
+            "@code": "2305",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Chemical Engineering (all)",
+            "@code": "1500",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geotechnical Engineering and Engineering Geology",
+            "@code": "1909",
+            "@abbrev": "EART"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "5D BIM",
+        "Building Information Modeling (BIM)",
+        "Building procurement",
+        "Construction cost estimation",
+        "Relational database management",
+        "Visual programming"
+    ],
+    "authors": [
+        "Hang Thu Thi Le",
+        "Veerasak Likhitruangsilp",
+        "Nobuyoshi Yabuki"
+    ],
+    "citedby-count": 6,
+    "ref-count": 38,
+    "ref-list": [
+        "Duties and responsibilities of quantity surveyors in the procurement of building services engineering",
+        "Computer-integrated system for estimating the costs of building projects",
+        "Embedding life cycle costing in 5D BIM",
+        "Building information modelling (BIM): Now and beyond",
+        "BIM adoption across the Chinese AEC industries: An extended BIM adoption model",
+        "Challenges in cost estimating with building information modeling",
+        "Advantages and challenges of using BIM: A cost consultant's perspective",
+        "Quantitative evaluation of the BIM-assisted construction detailed cost estimates",
+        "Creating cost certainty and better buildings",
+        "Comparative Analysis of Creating Traditional Quantity Takeoff Method and Using a BIM Tool",
+        "Impact of information included in the BIM on preparation of bill of quantities",
+        "An investigation of the impact of building orientation on energy consumption in a domestic building using emerging BIM (Building Information Modelling)",
+        "The digital natives debate: A critical review of the evidence",
+        "BIM & the 5D project cost manager",
+        "BIM-based integrated framework for detailed cost estimation and schedule planning of construction projects",
+        "Semi-automatic and specification-compliant cost estimation for tendering of building projects based on IFC data of design model",
+        "A relational database management system for life-cycle cost analysis of BIM projects",
+        "An Integrated System For Building Life-Cycle Cost Analysis",
+        "Architecture-Driven Modelling Methodologies",
+        "A BIM-integrated relational database management system for evaluating building life-cycle costs"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Suita",
+            "@id": "60024322",
+            "affilname": "Osaka University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024322",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Department of Civil Engineering, Faculty of Engineering, Chulalongkorn University"
+    ]
+}

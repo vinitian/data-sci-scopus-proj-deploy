@@ -1,0 +1,96 @@
+{
+    "eid": "2-s2.0-85164924776",
+    "title": "Efficient Deep Attentive Pixels Network in Face Super-Resolution at Scale Factor of 16",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Face prior",
+        "Face super-resolution",
+        "Image super-resolution"
+    ],
+    "authors": [
+        "Hein Htet Aung",
+        "Supavadee Aramvith"
+    ],
+    "citedby-count": 0,
+    "ref-count": 29,
+    "ref-list": [
+        "Learning spatial attention for face super-resolution",
+        "Complex heatmaps reveal patterns and correlations in multidimensional genomic data",
+        "Annotated facial landmarks in the wild: A large-scale, realworld database for facial landmark localization",
+        "Fsrnet: End-toend learning face super-resolution with facial priors",
+        "Deep face superresolution with iterative collaboration between attentive recovery and landmark estimation",
+        "Deep attentive pixels for face super-resolution",
+        "Image super-resolution using deep convolutional networks",
+        "Image super-resolution using dense skip connections",
+        "Residual dense network for image super-resolution",
+        "Feedback network for image super-resolution",
+        "Squeeze-and-excitation networks",
+        "Image super-resolution using very deep residual channel attention networks",
+        "ViT-HGR: Vision transformer-based hand gesture recognition from high density surface EMG signals",
+        "Swinir: Image restoration using swin transformer",
+        "Selfattention learning network for face super-resolution",
+        "Stacked hourglass network for robust facial landmark localisation",
+        "Robust face alignment by multi-order high-precision hourglass network",
+        "Openface 2. 0: Facial behavior analysis toolkit",
+        "Stacked hourglass networks for human pose estimation",
+        "Large-scale celebfaces attributes (celeba) dataset",
+        "Interactive facial feature localization",
+        "A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics",
+        "Enhanced deep residual networks for single image super-resolution",
+        "Face hallucination via split-attention in splitattention network"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

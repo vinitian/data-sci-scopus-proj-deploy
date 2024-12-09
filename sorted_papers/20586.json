@@ -1,0 +1,162 @@
+{
+    "eid": "2-s2.0-85149371383",
+    "title": "Determination of conditioning factors for mapping nickel contamination susceptibility in groundwater in Kanchanaburi Province, Thailand, using random forest and maximum entropy",
+    "cover-date": "2023-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Environmental Engineering",
+            "@code": "2305",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Environmental Chemistry",
+            "@code": "2304",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Water Science and Technology",
+            "@code": "2312",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Environmental Science (all)",
+            "@code": "2300",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geochemistry and Petrology",
+            "@code": "1906",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [
+        "Groundwater",
+        "Maximum entropy",
+        "Nickel",
+        "Random forest",
+        "Recursive feature elimination",
+        "Thailand"
+    ],
+    "authors": [
+        "Nguyen Ngoc Thanh",
+        "Srilert Chotpantarat",
+        "Nam Thang Ha",
+        "Nguyen H. Trung"
+    ],
+    "citedby-count": 1,
+    "ref-count": 76,
+    "ref-list": [
+        "Analysis and application of the interpolating element free Galerkin (IEFG) method to simulate the prevention of groundwater contamination with application in fluid flow",
+        "Prediction of heavy metals concentration in the groundwater resources in Razan Plain: Extreme learning machine vs. artificial neural network and multivariate adaptive regression spline",
+        "Use of Maximum Entropy Modeling in Wildlife Research",
+        "Mapping groundwater contamination risk of multiple aquifers using multi-model ensemble of machine learning algorithms",
+        "Colloid and heavy metal transport at landfill sites in direct contact with groundwater",
+        "Integrative artificial intelligence models for Australian coastal sediment lead prediction: An investigation of in-situ measurements and meteorological parameters effects",
+        "Factors controlling the release of metals and a metalloid from the tailings of a gold mine in Thailand",
+        "Random forests",
+        "Decision variants for the automatic determination of optimal feature subset in RF-RFE",
+        "random forests for landslide prediction in Tsengwen river watershed",
+        "Effects of soil water characteristic curves on simulation of nitrate vertical transport in a Thai agricultural soil",
+        "Heavy metal contamination of groundwater and surrounding soils by tailing leachates from a gold mine in Thailand",
+        "Multivariate statistical analysis of hydrochemical data and stable isotopes of groundwater contaminated with nitrate at Huay Sai Royal Development Study Center and adjacent areas in Phetchaburi Province Thailand",
+        "Natural and anthropogenic factors influencing hydrochemical characteristics and heavy metals in groundwater surrounding a gold mine",
+        "Using recursive feature elimination in random forest to account for correlated variables in high dimensional data",
+        "Neuro-particle swarm optimization based in-situ prediction model for heavy metals concentration in groundwater and surface water",
+        "Heavy metals pollution source identification and probabilistic health risk assessment of shallow groundwater in Onitsha, Nigeria",
+        "Machine Learning Algorithm for Prediction of Heavy Metal Contamination in the Groundwater in the Arak Urban Area",
+        "Evaluation of interpolation methods for mapping pH of groundwater",
+        "Effect of heavy metal (Ni) on plants and soil: A review",
+        "The effect of sample size and species characteristics on performance of different species distribution modeling methods",
+        "A study of heavy metal pollution in China: Current status, pollution-control policies and countermeasures",
+        "Machine learning algorithms for modeling and mapping of groundwater pollution risk: A study to reach water security and sustainable development (Sdg) goals in a mediterranean aquifer system",
+        "Information theory and statistical mechanics",
+        "Hybrid-recursive feature elimination for efficient feature selection",
+        "Species distribution modeling and prediction: A class imbalance problem",
+        "A comparison between Ensemble and MaxEnt species distribution modelling approaches for conservation: A case study with Egyptian medicinal plants",
+        "Investigation of physicochemical characteristics and heavy metal distribution profile in groundwater system around the open dump site",
+        "Predicting the sorption efficiency of heavy metal based on the biochar characteristics, metal sources, and environmental conditions using various novel hybrid machine learning models",
+        "Philosophical analysis of the meaning and nature of entropy and negative entropy theories",
+        "Urban flood hazard mapping using machine learning models: GARP, RF MaxEnt and NB",
+        "Assessment of regression kriging for spatial interpolation\u2014comparisons of seven GIS interpolation methods",
+        "Spatiotemporal risk assessment of soil pollution in a lignite mining region using a Bayesian maximum entropy (BME) approach",
+        "Heavy metal contamination in groundwater around industrial estate vs residential areas in Coimbatore, India",
+        "Susceptibility prediction of groundwater hardness using ensemble machine learning models",
+        "Groundwater salinity susceptibility mapping using classifier ensemble and Bayesian machine learning models",
+        "Maxent data mining technique and its comparison with a bivariate statistical model for predicting the potential distribution of Astragalus Fasciculifolius Boiss. in Fars, Iran",
+        "Application of support vector machine, random forest, and genetic algorithm optimized random forest models in groundwater potential mapping",
+        "Spatial distribution and health risk assessment of As and Pb contamination in the groundwater of Rayong Province Thailand",
+        "Regional probabilistic risk assessment of heavy metals in different environmental media and land uses: An urbanization-affected drinking water supply area",
+        "Ensemble modeling of landslide susceptibility using random subspace learner and different decision tree classifiers",
+        "Maximum entropy modeling of species geographic distributions",
+        "Groundwater arsenic distribution in India by machine learning geospatial modeling",
+        "Application of GIS-based data driven random forest and maximum entropy models for groundwater potential mapping: A case study at Mehran Region Iran",
+        "A quick review of machine learning algorithms",
+        "A novel machine learning-based approach for the risk assessment of nitrate groundwater contamination",
+        "The risk assessment of arsenic contamination in the urbanized coastal aquifer of Rayong groundwater basin, Thailand using the machine learning approach",
+        "Study of major and trace elements in groundwater of Birsinghpur Area, Satna District Madhya Pradesh",
+        "A mathematical theory of communication",
+        "Assessment of spatial interpolation techniques on groundwater contamination",
+        "A review of supervised machine learning algorithms",
+        "Effectiveness of groundwater heavy metal pollution indices studies by deep-learning",
+        "Prediction of groundwater quality using efficient machine learning technique",
+        "Assessment of landslide susceptibility along mountain highways based on different machine learning algorithms and mapping units by hybrid factors screening and sample optimization",
+        "A hybrid optimization method of factor screening predicated on GeoDetector and random forest for landslide susceptibility mapping",
+        "Mapping groundwater potential zones in Kanchanaburi Province, Thailand by integrating of analytic hierarchy process, frequency ratio, and random forest",
+        "Global review of groundwater potential models in the last decade: Parameters, model techniques, and validation",
+        "Risk assessment of arsenic from contaminated soils to shallow groundwater in Ong Phra Sub-District, Suphan Buri Province, Thailand",
+        "A hybrid computational intelligence approach to groundwater spring potential mapping",
+        "Exploring machine learning models in predicting irrigation groundwater quality indices for effective decision making in medjerda River Basin, Tunisia",
+        "Aquifer vulnerability assessment to heavy metals using ordinal logistic regression",
+        "Impact of road transport on groundwater quality",
+        "Assessment of groundwater contamination in an industrial city",
+        "Modelling assessment of regional groundwater contamination due to historic smelter emissions of heavy metals",
+        "Assessment and distribution of metals contamination in groundwater: A case study of Busan City, Korea",
+        "Maximum entropy estimation of a Benzene contaminated plume using ecotoxicological assays",
+        "Impacts of salinity level and flood irrigation on Cd mobility through a Cd-contaminated soil, Thailand: experimental and modeling techniques",
+        "Identifying potentially contaminated areas with MaxEnt model for petrochemical industry in China",
+        "Extraction of Kenyan grassland information using PROBA-V based on RFE-RF algorithm",
+        "Multivariate statistical analysis of the hydrochemical characteristics of a volcano sedimentary aquifer in Saraburi Province, Thailand",
+        "Heavy metal contamination and human health risk assessment in drinking water from shallow groundwater wells in an agricultural area in Ubon Ratchathani province, Thailand",
+        "New method for landslide susceptibility mapping supported by spatial logistic regression and GeoDetector: A case study of Duwen Highway Basin, Sichuan Province, China",
+        "Comparison of four spatial interpolation methods for estimating soil moisture in a complex terrain catchment",
+        "Exploring the advantages of the maximum entropy model in calibrating cellular automata for urban growth simulation: A comparative study of four methods",
+        "Landslide susceptibility mapping using hybrid random forest with GeoDetector and RFE for factor optimization"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hue",
+            "@id": "60071368",
+            "affilname": "University of Agriculture and Forestry, Hue University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071368",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Brisbane",
+            "@id": "60011019",
+            "affilname": "Queensland University of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011019",
+            "affiliation-country": "Australia"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University, Centre for Agriculture",
+        "Hue University of Agriculture and Forestry",
+        "Ratchadapisek Sompoch Endowment Fund",
+        "Queensland University of Technology",
+        "Chulalongkorn University",
+        "National Research Council of Thailand",
+        "Hue University"
+    ]
+}

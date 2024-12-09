@@ -1,0 +1,75 @@
+{
+    "eid": "2-s2.0-85024090206",
+    "title": "Recovering polyp shape from an endoscope image using two light sources",
+    "cover-date": "2017-04-01",
+    "subject-areas": [
+        {
+            "$": "Artificial Intelligence",
+            "@code": "1702"
+        },
+        {
+            "$": "Computer Graphics and Computer-Aided Design",
+            "@code": "1704"
+        },
+        {
+            "$": "Computer Networks and Communications",
+            "@code": "1705"
+        },
+        {
+            "$": "Computer Science Applications",
+            "@code": "1706"
+        },
+        {
+            "$": "Software",
+            "@code": "1712"
+        }
+    ],
+    "keywords": [
+        "Lambertian reflectance",
+        "Polyp shape",
+        "Shape recovery",
+        "Two light sources endoscope"
+    ],
+    "authors": [
+        "Hiroyasu Usami"
+    ],
+    "citedby-count": 0,
+    "ref-count": 15,
+    "ref-list": [
+        "Orthogonal Least Squares Learning Algorithm for Radial Basis Function Networks",
+        "Shape from Shading",
+        "Reconstructing shape from shading images under point light source illumination",
+        "3D shape recovery from endoscope image based on both photometric and geometric constraints",
+        "Principal components analysis and neural network implementation of photometric stereo",
+        "Optimal algorithm for shape from shading and path planning",
+        "3D reconstruction of the operating field for image overlay in 3D-endoscopic surgery",
+        "Three-dimensional measurement endoscope system with virtual rulers",
+        "A Mathematical and Algorithmic Study of the Lambertian SFS Problem for Orthographic and Pinhole Cameras",
+        "Unifying approaches and removing unrealistic assumptions in shape from shading: Mathematics can help",
+        "Proceedings of the International Workshop on Advanced Image Technology (IWAIT '13)",
+        "Proceedings of TheFalk Symposium",
+        "Recovering size and shape of polyp from endoscope image by RBF-NN modification",
+        "A Direct Numerical Approach to Perspective Shape-from-Shading",
+        "A multi-image shape-from-shading framework for near-lighting perspective endoscopes"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Kasugai",
+            "affilname": "Chubu University",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Nagakute",
+            "affilname": "Aichi Medical University",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Japan Society for the Promotion of Science"
+    ]
+}

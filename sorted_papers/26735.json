@@ -1,0 +1,63 @@
+{
+    "eid": "2-s2.0-85101671274",
+    "title": "Short-Term Travel Time Prediction from GPS Trace Data using Recurrent Neural Networks",
+    "cover-date": "2020-09-18",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Deep neural network",
+        "GPS data",
+        "Intelligent transportation system",
+        "Long short-term memory",
+        "Travel time"
+    ],
+    "authors": [
+        "Charnwith Jakteerangkool",
+        "Veera Muangsin"
+    ],
+    "citedby-count": 3,
+    "ref-count": 15,
+    "ref-list": [
+        "On limits of travel time predictions: Insights from a New York city case study",
+        "Travel-time prediction methods: A review",
+        "Travel time prediction with lstm neural network",
+        "Short-term travel time prediction by deep learning: A comparison of different lstm-dnn models",
+        "Travel time prediction using speed profiles for road network of Croatia",
+        "Improving urban traffic speed prediction using data source fusion and deep learning",
+        "Public transit travel time analysis using GPS data: A case study of mysore its",
+        "Taxi trip travel time prediction with isolated xgboost regression",
+        "Deep neural networks for predicting vehicle travel times",
+        "Analysis of travel time patterns in urban using taxi GPS data",
+        "Prediction of Indonesian palm oil production using long short-term memory recurrent neural network (lstm-rnn)",
+        "Recurrent neural network and its various architecture types",
+        "Predicting the travel time in using recurrent neural networks: A case study of fuzhou",
+        "Travel time forecasting with combination of spatial-temporal and time shifting correlation in cnn-lstm neural network",
+        "Short-term load forecasting model of gru network based on deep learning framework"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

@@ -1,0 +1,90 @@
+{
+    "eid": "2-s2.0-85169292323",
+    "title": "A Comparative Study on Out of Scope Detection for Chest X-ray Images",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Chest radiography",
+        "Image classification",
+        "Image preprocessing",
+        "Out-of-Distribution"
+    ],
+    "authors": [
+        "Nuttapol Kamolkunasiri",
+        "Proadpran Punyabukkana",
+        "Ekapol Chuangsuwanich"
+    ],
+    "citedby-count": 0,
+    "ref-count": 38,
+    "ref-list": [
+        "Image data validation for medical systems",
+        "Towards open set deep networks",
+        "A novelty detection approach to classification",
+        "Autoencoders for unsupervised anomaly segmentation in brain MR images: a comparative study",
+        "Unsupervised anomaly detection with generative adversarial networks to guide marker discovery",
+        "Tiny imagenet challenge",
+        "Gradient-based learning applied to document recognition",
+        "No-reference image quality metrics for structural MRI",
+        "Quality control of diffusion weighted images",
+        "Outlier detection and handling for robust 3-D active shape models search",
+        "Detecting and locating gastrointestinal anomalies using deep learning and iterative cluster unification",
+        "A random forest based approach for one class classification in medical imaging",
+        "Confidence-based out-of-distribution detection: a comparative study and analysis",
+        "Out of distribution detection for medical images",
+        "A simple unified framework for detecting out-of-distribution samples and adversarial attacks",
+        "Deep residual learning for image recognition",
+        "Densely connected convolutional networks",
+        "Improved image classification explainability with high-accuracy heatmaps",
+        "Adversarially learned anomaly detection",
+        "f-AnoGAN: Fast unsupervised anomaly detection with generative adversarial networks",
+        "Wasserstein generative adversarial networks",
+        "Ganomaly: Semi-supervised anomaly detection via adversarial training",
+        "HealthyGAN: Learning from unannotated medical images to detect anomalies associated with human disease",
+        "Image-to-image translation with conditional adversarial networks",
+        "Two public chest x-ray datasets for computer-aided screening of pulmonary diseases",
+        "The RSNA pediatric bone age machine learning challenge",
+        "Augmenting the national institutes of health chest radiograph dataset with expert annotations of possible pneumonia"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University",
+        "Health Systems Research Institute"
+    ]
+}

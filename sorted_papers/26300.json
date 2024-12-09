@@ -1,0 +1,89 @@
+{
+    "eid": "2-s2.0-85115158645",
+    "title": "Reducing Spelling Inconsistencies in Code-Switching Asr Using Contextualized Ctc Loss",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Code-switching",
+        "Connectionist temporal classification",
+        "Context prediction",
+        "End-to-end speech recognition"
+    ],
+    "authors": [
+        "Burin Naowarat",
+        "Thananchai Kongthaworn",
+        "Korrawe Karunratanakul",
+        "Sheng Hui Wu",
+        "Ekapol Chuangsuwanich"
+    ],
+    "citedby-count": 4,
+    "ref-count": 29,
+    "ref-list": [
+        "Connectionist temporal classification: Labelling unsegmented sequence data with recurrent neural networks",
+        "Multilingual adaptation of RNN based ASR systems",
+        "Crosslingual adaptation of a CTC-based multilingual acoustic model",
+        "End-to-End mandarin speech recognition combining CNN and BLSTM",
+        "Domain robust feature extraction for rapid low resource ASR development",
+        "End-to-end speech recognition for languages with ideographic characters",
+        "Towards Code-switching ASR for End-to-end CTC Models",
+        "Exploration of end-to-end framework for code-switching speech recognition task: Challenges and enhancements",
+        "End-toend code-switching asr for low-resourced language pairs",
+        "Transliteration based approaches to improve code-switched speech recognition performance",
+        "On the end-to-end solution to mandarin-english code- switching speech recognition",
+        "Investigating end-to-end speech recognition for Mandarin-English code-switching",
+        "Autoregressive product of multi-frame predictions can improve the accuracy of hybrid models",
+        "Speech recognition with prediction-adaptation-correction recurrent neural networks",
+        "Prediction-adaptation-correction recurrent neural networks for low-resource language speech recognition",
+        "Towards using context-dependent symbols in CTC without state-tying decision trees",
+        "Adam: A method for stochastic optimization",
+        "KenLM: Faster and smaller language model queries",
+        "Listen, attend and spell: A neural network for large vocabulary conversational speech recognition",
+        "Sequence-to-sequence automatic speech recognition with word embedding regularization and fused decoding",
+        "Hybrid CTC/attention architecture for end-to-end speech recognition",
+        "Librispeech: An ASR corpus based on public domain audio books",
+        "Wav2letter++: A fast open-source speech recognition system"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Zurich ZH,",
+            "@id": "60025858",
+            "affilname": "ETH Z\u00fcrich",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025858",
+            "affiliation-country": "Switzerland"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "126598061",
+            "affilname": "New Era Ai Robotics",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126598061",
+            "affiliation-country": "Taiwan"
+        }
+    ],
+    "funding": []
+}

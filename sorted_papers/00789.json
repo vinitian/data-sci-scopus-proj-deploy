@@ -1,0 +1,67 @@
+{
+    "eid": "2-s2.0-85057314464",
+    "title": "Novel Three-Level Back-to-Back Converters: Structure, Modulation Method, and Experiment",
+    "cover-date": "2018-10-22",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "modulation method",
+        "switching loss reduction",
+        "symmetrical dc link",
+        "Three-level back-to-back converters"
+    ],
+    "authors": [
+        "S. Sangwongwanich",
+        "K. Niyomsatian",
+        "S. Samermurn",
+        "S. Nuchnoi",
+        "S. Suwankawin"
+    ],
+    "citedby-count": 1,
+    "ref-count": 16,
+    "ref-list": [
+        "Novel 20-mw downhill conveyor system using three-level converters",
+        "Design of a Back-to-Back NPC Converter Interface for Wind Turbines with Squirrel-Cage Induction Generator",
+        "Three-Level Three-Phase Neutral-Point-Clamped Back-to-Back Converter Applied to a Wind Emulator",
+        "Predictive Control of a Back-to-Back NPC Converter-Based Wind Power System",
+        "Modulation methods for neutral-point-clamped wind power converter achieving loss and thermal redistribution under low-voltage ride-through",
+        "Advanced Control Scheme to Improve the Efficiency of 3-Level Active Front End Inverters for Servo Drives",
+        "A survey on neutral-point-clamped inverters",
+        "Comparative evaluation of three-phase AC-AC matrix converter and voltage dc-link back-to-back converter systems",
+        "Review of three-phase PWM AC-AC converter topologies",
+        "Novel topologies for three-level back-to-back converters based on matrix converter theory",
+        "A novel approach to the generation and optimization of three-level PWM wave forms",
+        "A new modulation strategy for capacitor voltage balancing in three-level NPC inverters based on matrix converter theory",
+        "Double-carrier-based modulation theory of three-level inverters and a new discontinuous PWM for neutral-point voltage balancing",
+        "A unified PWM method for matrix converters and its carrier-based realization using dipolar modulation technique"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Leuven",
+            "@id": "60121275",
+            "affilname": "Departement Elektrotechniek (ESAT)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60121275",
+            "affiliation-country": "Belgium"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

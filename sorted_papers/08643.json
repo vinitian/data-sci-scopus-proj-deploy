@@ -1,0 +1,82 @@
+{
+    "eid": "2-s2.0-85059947487",
+    "title": "Semantic segmentation on remotely sensed images using an enhanced global convolutional network with channel attention and domain specific transfer learning",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Earth and Planetary Sciences (all)",
+            "@code": "1900",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [
+        "Channel attention",
+        "Deep convolutional neural networks",
+        "Global convolutional network",
+        "ISPRS Vaihingen",
+        "Landsat-8",
+        "Multi-class segmentation",
+        "Transfer learning"
+    ],
+    "authors": [
+        "Teerapong Panboonyuen",
+        "Kulsawasd Jitkajornwanich",
+        "Siam Lawawirojwong",
+        "Panu Srestasathiern",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 67,
+    "ref-count": 38,
+    "ref-list": [
+        "Semantic labeling in very high resolution images via a self-cascaded convolutional neural network",
+        "Gated convolutional neural network for semantic segmentation in high-resolution images",
+        "Deep learning in remote sensing: A comprehensive review and list of resources",
+        "An Enhanced Deep Convolutional Encoder-Decoder Network for Road Segmentation on Aerial Imagery",
+        "Deep residual learning for image recognition",
+        "Road Segmentation of Remotely-Sensed Images Using Deep Convolutional Neural Networks with Landscape Metrics and Conditional Random Fields",
+        "Mask r-cnn",
+        "Fully convolutional networks for semantic segmentation",
+        "Learning deconvolution network for semantic segmentation",
+        "U-net: Convolutional networks for biomedical image segmentation",
+        "Large kernel matters-Improve semantic segmentation by global convolutional network",
+        "How transferable are features in deep neural networks?",
+        "Sparse Deep Transfer Learning for Convolutional Neural Network",
+        "Adapnet: Adaptive semantic segmentation in adverse environmental conditions",
+        "Context encoding for semantic segmentation",
+        "Dense Decoder Shortcut Connections for Single-Pass Semantic Segmentation",
+        "DenseASPP for Semantic Segmentation in Street Scenes",
+        "Pyramid scene parsing network",
+        "Instance-aware semantic segmentation via multi-task network cascades",
+        "The spectral response of the Landsat-8 operational land imager",
+        "Tensorflow: A system for large-scale machine learning",
+        "Imagenet classification with deep convolutional neural networks",
+        "Caffe: Convolutional architecture for fast feature embedding"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60091494",
+            "affilname": "Geo-Informatics and Space Technology Development Agency",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091494",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ladkrabang Bangkok",
+            "@id": "60021543",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021543",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

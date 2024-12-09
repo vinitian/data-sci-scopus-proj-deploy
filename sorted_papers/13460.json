@@ -1,0 +1,90 @@
+{
+    "eid": "2-s2.0-85148457990",
+    "title": "A note on linear recursions",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Chemistry (all)",
+            "@code": "1600",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mathematics (all)",
+            "@code": "2600",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry, Genetics and Molecular Biology (all)",
+            "@code": "1300",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Environmental Science (all)",
+            "@code": "2300",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Agricultural and Biological Sciences (all)",
+            "@code": "1100",
+            "@abbrev": "AGRI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy (all)",
+            "@code": "2100",
+            "@abbrev": "ENER"
+        }
+    ],
+    "keywords": [
+        "Fibonacci Number",
+        "Linear Recursion",
+        "Recurrence relation"
+    ],
+    "authors": [
+        "Saeree Wananiyakul",
+        "Janyarak Tongsomporn"
+    ],
+    "citedby-count": 0,
+    "ref-count": 10,
+    "ref-list": [
+        "Golden ratio and Fibonacci sequence: Universal footprints of the golden flow",
+        "Fibonacci sequence found in Parkfield earthquake",
+        "Phyllotaxis",
+        "A Fibonacci-like universe expansion on time-scale",
+        "Beschreibung des Symphytum Zeyheri und seiner zwei deutschen Verwandten der S. bulbosum Schimper und S. tuberosum Jacq, Geiger\u2019s Mag",
+        "The Fibonacci numbers and its amazing applications",
+        "Fractal analysis of polar bear hairs",
+        "The Fibonacci sequence in mathematics courses"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tha Sala",
+            "@id": "60026526",
+            "affilname": "Walailak University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026526",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "National Research Council of Thailand",
+        "Walailak University"
+    ]
+}

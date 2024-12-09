@@ -1,0 +1,77 @@
+{
+    "eid": "2-s2.0-85169291663",
+    "title": "Using Buses as Edge Nodes in Vehicular Networks",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "bus as an infrastructure",
+        "edge computing",
+        "edge nodes",
+        "public buses",
+        "public transport",
+        "vehicular ad hoc networks"
+    ],
+    "authors": [
+        "Natthanon Manop",
+        "Karnkitti Kittikamron",
+        "Adsadawut Chanakitkarnchok",
+        "Kultida Rojviboonchai"
+    ],
+    "citedby-count": 0,
+    "ref-count": 14,
+    "ref-list": [
+        "VANET applications: Past, present, and future",
+        "Edge computing: Vision and challenges",
+        "Edge Computing in 5G: A Review",
+        "Mobile edge computing: A survey on architecture and computation offloading",
+        "DRLD-SP: A Deep-Reinforcement-Learning-Based Dynamic Service Placement in edge-eenabled internet of vehicles",
+        "Integrated service discovery and placement in information-centric vehicular network slices",
+        "Dimensioning and layout planning of 5G-based vehicular edge computing networks towards intelligent transportation",
+        "Large-scale many-objective deployment optimization of edge servers",
+        "Edge server placement for vehicular ad hoc networks in metropolitans",
+        "BUS-VANET: A bus vehicular network integrated with traffic infrastructure",
+        "BRT: Bus-based Routing Technique in urban vehicular networks",
+        "Routing in taxi and public transport based heterogeneous vehicular networks"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

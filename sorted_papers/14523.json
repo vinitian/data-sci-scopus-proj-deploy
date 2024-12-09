@@ -1,0 +1,100 @@
+{
+    "eid": "2-s2.0-85088667520",
+    "title": "Air traffic control capacity planning under demand and capacity provision uncertainty",
+    "cover-date": "2020-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Transportation",
+            "@code": "3313",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "Air transportation",
+        "Capacity ordering policies",
+        "Decomposition methods",
+        "Integer programming applications"
+    ],
+    "authors": [
+        "Stefano Starita",
+        "Arne K. Strauss",
+        "Xin Fei",
+        "Radosav Jovanovi\u0107",
+        "Nikola Ivanov",
+        "Goran Pavlovi\u0107",
+        "Frank Fichert"
+    ],
+    "citedby-count": 16,
+    "ref-count": 34,
+    "ref-list": [
+        "The organisation and operation of European airspace",
+        "The air traffic flow management problem with enroute capacities",
+        "The design of a market mechanism to allocate air traffic flow management slots",
+        "Scheduling air traffic controllers",
+        "The air traffic flow management problem with time windows",
+        "Controller time and delay costs-A trade-off analysis",
+        "Recent advances in robust optimization: An overview",
+        "Lagrangean relaxation for integer programming",
+        "Step toward remote tower center deployment: Optimizing staff schedules",
+        "Large-scale network slot allocation with dynamic time horizons",
+        "The European air traffic flow management problem",
+        "En-route sector capacity estimation methodologies: An international survey",
+        "The newsvendor problem: Review and directions for future research",
+        "An airspace planning and collaborative decision-making model: Part I-Probabilistic conflicts, workload, and equity considerations",
+        "An airspace-planning and collaborative decision-making model: Part II-Cost model, data considerations, and computations",
+        "Coordinated capacity and demand management in a redesigned ATM value chain: Strategic network capacity planning under demand uncertainty",
+        "Optimizing airspace sectors for varying demand patterns using multi-controller staffing",
+        "Enhancing cost-efficiency and reducing capacity shortages: Strategic planning and dynamic shift management",
+        "Simultaneous optimization of airway and sector design for air traffic management"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60138776",
+            "affilname": "Sasin School of Management, Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60138776",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Coventry",
+            "@id": "60115484",
+            "affilname": "Warwick Business School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60115484",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Belgrade",
+            "@id": "60068815",
+            "affilname": "University of Belgrade",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60068815",
+            "affiliation-country": "Serbia"
+        },
+        {
+            "affiliation-city": "Worms",
+            "@id": "60029327",
+            "affilname": "Fachhochschule Worms",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029327",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Vallendar",
+            "@id": "60012481",
+            "affilname": "WHU - Otto Beisheim School of Management",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012481",
+            "affiliation-country": "Germany"
+        }
+    ],
+    "funding": [
+        "European Union's research and innovation programme Horizon 2020",
+        "European Union\u2019s research and innovation programme Horizon 2020",
+        "Alan Turing Institute",
+        "Ministry of Education and Science of the Republic of Serbia"
+    ]
+}

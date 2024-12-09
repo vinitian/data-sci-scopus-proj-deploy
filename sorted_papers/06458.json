@@ -1,0 +1,82 @@
+{
+    "eid": "2-s2.0-85165631196",
+    "title": "Portioning Algorithm Using the Bisection Method for Slicing Food",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "bisection",
+        "depth camera",
+        "food portioning",
+        "point could",
+        "python"
+    ],
+    "authors": [
+        "Jetnipat Thongprasith",
+        "Poom Separattananan",
+        "Phumrpee Meyer",
+        "Ratchatin Chanchareon"
+    ],
+    "citedby-count": 2,
+    "ref-count": 22,
+    "ref-list": [
+        "Accuracy of food portion size estimation from digital pictures acquired by a chest-worn camera",
+        "A study of high pressure water jets for cutting chicken breast meat",
+        "Research on fish slicing method based on simulated annealing algorithm",
+        "Automated vision system for cutting fixed-weight or fixed-length frozen fish portions",
+        "High-speed weight estimation of whole herring (clupea harengus) using 3d machine vision",
+        "Machine vision sensing for meat processing automation",
+        "Two-view 3d reconstruction for food volume estimation",
+        "Cutting of food products by ice-particles in a waterjet",
+        "Quality of waterjet- and blade-cut romaine salad",
+        "Smart knife: Integrated intelligence for robotic meat cutting",
+        "Deep learning-based visual defect-inspection system for reinforced concrete bridge substructure: A case of Thailand's department of highways",
+        "Bridge substructure defect inspection assistance by using deep learning",
+        "Intelligent system for estimation of the spatial position of apples based on YOLOv3 and real sense depth camera D415",
+        "A novel 3d facial recognition for digital payments",
+        "Matplotlib and seaborn",
+        "Online ladle lining temperature estimation by using bounded jacobian nonlinear observer",
+        "Observer for descriptor nonlinear systems with nonlinear output equations",
+        "Real-time automotive slip angle estimation with nonlinear observer",
+        "Design of the robot application for slicing food into equalmass slices",
+        "Web-based teleoperation system for enhanced precision and efficiency in food industry applications"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

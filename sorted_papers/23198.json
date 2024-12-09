@@ -1,0 +1,166 @@
+{
+    "eid": "2-s2.0-85110738803",
+    "title": "Identification of differential RNA modifications from nanopore direct RNA sequencing with xPore",
+    "cover-date": "2021-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biotechnology",
+            "@code": "1305",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Bioengineering",
+            "@code": "1502",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Microbiology and Biotechnology",
+            "@code": "2402",
+            "@abbrev": "IMMU"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Medicine",
+            "@code": "1313",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biomedical Engineering",
+            "@code": "2204",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Ploy N. Pratanwanich",
+        "Fei Yao",
+        "Ying Chen",
+        "Casslynn W.Q. Koh",
+        "Yuk Kei Wan",
+        "Christopher Hendra",
+        "Polly Poon",
+        "Yeek Teck Goh",
+        "Phoebe M.L. Yap",
+        "Jing Yuan Chooi",
+        "Wee Joo Chng",
+        "Sarah B. Ng",
+        "Alexandre Thiery",
+        "W. S.Sho Goh",
+        "Jonathan G\u00f6ke"
+    ],
+    "citedby-count": 77,
+    "ref-count": 46,
+    "ref-list": [
+        "ALKBH5 is a mammalian RNA demethylase that impacts RNA metabolism and mouse fertility",
+        "N6-methyladenosine modification destabilizes developmental regulators in embryonic stem cells",
+        "FTO-dependent demethylation of N6-methyladenosine regulates mRNA splicing and is required for adipogenesis",
+        "Stem cells. m6A mRNA methylation facilitates resolution of na\u00efve pluripotency toward differentiation",
+        "m6A RNA methylation is regulated by microRNAs and promotes reprogramming to pluripotency",
+        "Mettl3-mediated m6A regulates spermatogonial differentiation and meiosis initiation",
+        "FTO-dependent N6-methyladenosine regulates cardiac function during remodeling and repair",
+        "FTO plays an oncogenic role in acute myeloid leukemia as a N6-methyladenosine RNA demethylase",
+        "R-2HG exhibits anti-tumor activity by targeting FTO/mA/MYC/CEBPA signaling",
+        "RNA N6-methyladenosine modification in cancers: current status and perspectives",
+        "N6-methyladenosine-dependent regulation of messenger RNA stability",
+        "5\u2032 UTR m6A promotes cap-independent translation",
+        "N6-methyladenosine marks primary microRNAs for processing",
+        "HNRNPA2B1 is a mediator of m6A-dependent nuclear RNA processing events",
+        "Atlas of quantitative single-base-resolution",
+        "A unified model for the function of YTHDF proteins in regulating m6A-modified mRNA",
+        "METTL4 catalyzes m6Am methylation in U2 snRNA to regulate pre-mRNA splicing",
+        "Small-molecule inhibition of METTL3 as a strategy against myeloid leukaemia",
+        "Reading, writing and erasing mRNA methylation",
+        "Single-nucleotide-resolution mapping of m6A and m6Am throughout the transcriptome",
+        "DART-seq: an antibody-free method for global m6A detection",
+        "Highly parallel direct RNA sequencing on an array of nanopores",
+        "Nanopore direct RNA sequencing maps the complexity of Arabidopsis mRNA processing and m6A modification",
+        "Accurate detection of m6A RNA modifications in native RNA sequences",
+        "Minimap2: pairwise alignment for nucleotide sequences",
+        "A complete bacterial genome assembled de novo using only nanopore sequencing data",
+        "Detecting DNA cytosine methylation using nanopore sequencing",
+        "Variational Bayesian model selection for mixture distributions",
+        "Direct RNA sequencing enables m6A detection in endogenous transcript isoforms at base-specific resolution",
+        "Probing N6-methyladenosine RNA modification status at single nucleotide resolution in mRNA and long noncoding RNA",
+        "Limits in the detection of m6A changes using MeRIP/m6A-seq",
+        "Topology of the human and mouse m6A RNA methylomes revealed by m6A-seq",
+        "Comprehensive analysis of mRNA methylation reveals enrichment in 3\u2032 UTRs and near stop codons",
+        "A majority of m6A residues are in the last exons, allowing the potential for 3\u2032 UTR regulation",
+        "Deciphering the \u2018m6A code\u2019 via antibody-independent quantitative profiling",
+        "A metabolic labeling method detects m6A transcriptome-wide at single base resolution",
+        "Gaussian mixture model-based unsupervised nucleotide modification number detection using nanopore-sequencing readouts",
+        "Direct RNA sequencing reveals m6A modifications on adenovirus RNA are necessary for efficient splicing",
+        "The architecture of SARS-CoV-2 transcriptome",
+        "Nanopore native RNA sequencing of a human poly(A) transcriptome",
+        "VarScan 2: somatic mutation and copy number alteration discovery in cancer by exome sequencing",
+        "M6A at individual-nucleotide resolution using crosslinking and immunoprecipitation (MiCLIP). Methods Mol"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60017161",
+            "affilname": "National University of Singapore",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017161",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Shenzhen",
+            "@id": "60272276",
+            "affilname": "Shenzhen Bay Laboratory",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60272276",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60106366",
+            "affilname": "National University Health System",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60106366",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60106362",
+            "affilname": "Cancer Science Institute of Singapore",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60106362",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60031809",
+            "affilname": "National Cancer Centre, Singapore",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031809",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60031198",
+            "affilname": "A-Star, Genome Institute of Singapore",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031198",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60026680",
+            "affilname": "NUS Yong Loo Lin School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026680",
+            "affiliation-country": "Singapore"
+        }
+    ],
+    "funding": [
+        "A\u2217STAR",
+        "Agency for Science, Technology and Research",
+        "National Medical Research Council",
+        "Singapore Ministry of Health",
+        "Thailand Research Fund"
+    ]
+}

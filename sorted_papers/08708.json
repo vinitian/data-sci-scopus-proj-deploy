@@ -1,0 +1,104 @@
+{
+    "eid": "2-s2.0-85098798932",
+    "title": "Application of artificial intelligence in chronic liver diseases: a systematic review and meta-analysis",
+    "cover-date": "2021-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Gastroenterology",
+            "@code": "2715",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Artificial intelligence",
+        "Cirrhosis",
+        "Computer-assisted",
+        "Deep learning",
+        "Fatty liver",
+        "Liver fibrosis",
+        "Liver steatosis",
+        "Machine learning",
+        "NAFLD",
+        "Non-invasive diagnostic tests"
+    ],
+    "authors": [
+        "Pakanat Decharatanachart",
+        "Roongruedee Chaiteerakij",
+        "Thodsawit Tiyarattanachai",
+        "Sombat Treeprasertsuk"
+    ],
+    "citedby-count": 33,
+    "ref-count": 44,
+    "ref-list": [
+        "Burden of liver diseases in the world",
+        "The global, regional, and national burden of cirrhosis by cause in 195 countries and territories, 1990\u20132017: a systematic analysis for the Global Burden of Disease Study 2017",
+        "Changes in the prevalence of hepatitis C virus infection, nonalcoholic steatohepatitis, and alcoholic liver disease among patients with cirrhosis or liver failure on the waitlist for liver transplantation",
+        "Global epidemiology of non-alcoholic fatty liver disease/non-alcoholic steatohepatitis: what we need in the future",
+        "Modeling the epidemic of nonalcoholic fatty liver disease demonstrates an exponential increase in burden of disease",
+        "Intraobserver and interobserver variations in liver biopsy interpretation in patients with chronic hepatitis C",
+        "All-cause mortality in people with cirrhosis compared with the general population: a population-based cohort study",
+        "Complications following percutaneous liver biopsy. A multicentre retrospective study on 68,276 biopsies",
+        "Observer variation in assessment of liver biopsies including analysis by kappa statistics",
+        "Serum biochemical markers accurately predict liver fibrosis in HIV and hepatitis C virus co-infected patients",
+        "Diagnostic value of combined serum biomarkers for the evaluation of liver fibrosis in chronic hepatitis C infection: a multicenter, noninterventional, observational study",
+        "Comparison of laboratory tests, ultrasound, or magnetic resonance elastography to detect fibrosis in patients with nonalcoholic fatty liver disease: a meta-analysis",
+        "Optical classification of neoplastic colorectal polyps\u2014a computer-assisted approach (the COACH study)",
+        "Deep learning localizes and identifies polyps in real time with 96% accuracy in screening colonoscopy",
+        "Applying machine learning in liver disease and transplantation: a comprehensive review",
+        "Application of artificial intelligence to gastroenterology and hepatology",
+        "American Gastroenterological Association Institute Technical Review on the role of elastography in chronic liver diseases",
+        "QUADAS-2: a revised tool for the quality assessment of diagnostic accuracy studies",
+        "Measuring the accuracy of diagnostic systems",
+        "Deep learning with ultrasonography: automated classification of liver fibrosis using a deep convolutional neural network",
+        "Multiparametric ultrasomics of significant liver fibrosis: a machine learning-based analysis",
+        "Transfer learning with deep convolutional neural network for liver steatosis assessment in ultrasound images",
+        "Artificial neural network aided non-invasive grading evaluation of hepatic fibrosis by duplex ultrasonography",
+        "Extreme learning machine framework for risk stratification of fatty liver disease using ultrasound tissue characterization",
+        "Machine-learning-based classification of real-time tissue elastography for hepatic fibrosis in patients with chronic hepatitis B",
+        "Deep learning Radiomics of shear wave elastography significantly improved diagnostic performance for assessing liver fibrosis in chronic hepatitis B: a prospective multicentre study",
+        "Development and validation of a deep learning system for staging liver fibrosis by using contrast agent-enhanced CT images in the liver",
+        "Deep learning for staging liver fibrosis on CT: a pilot study",
+        "Detecting liver fibrosis using a machine learning-based approach to the quantification of the heart-induced deformation in tagged MR images",
+        "Liver fibrosis: deep convolutional neural network for staging by using gadoxetic acid-enhanced hepatobiliary phase MR images",
+        "Clinical prediction of HBV and HCV related hepatic fibrosis using machine learning",
+        "Data mining and machine learning algorithms using IL28B genotype and biochemical markers best predicted advanced liver fibrosis in chronic hepatitis C",
+        "A diagnostic model for cirrhosis in patients with non-alcoholic fatty liver disease: an artificial neural network approach",
+        "Identification of the risk for liver fibrosis on CHB patients using an artificial neural network based on routine and serum markers",
+        "Prediction of significant fibrosis in hepatitis C virus infected liver transplant recipients by artificial neural network analysis of clinical factors",
+        "Machine learning assessment for severity of liver fibrosis for chronic hbv based on physical layer with serum markers",
+        "A novel method for diagnosing cirrhosis in patients with chronic hepatitis B: artificial neural network approach",
+        "Diagnostic accuracy of texture analysis and machine learning for quantification of liver fibrosis in MRI: correlation with MR elastography and histopathology",
+        "Performance of transient elastography for the staging of liver fibrosis: a meta-analysis",
+        "Elastography for the diagnosis of severity of fibrosis in chronic liver disease: a meta-analysis of diagnostic accuracy",
+        "Diagnostic accuracy of real-time tissue elastography for the staging of liver fibrosis: a meta-analysis",
+        "Comparison of diagnostic accuracy of aspartate aminotransferase to platelet ratio index and fibrosis-4 index for detecting liver fibrosis in adult patients with chronic hepatitis B virus infection: a systemic review and meta-analysis"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Ratchadapisek Sompoch Endowment Fund",
+        "Chulalongkorn University"
+    ]
+}

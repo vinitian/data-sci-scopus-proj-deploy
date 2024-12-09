@@ -1,0 +1,74 @@
+{
+    "eid": "2-s2.0-85061833492",
+    "title": "Hierarchical Verification for the BPMN Design Model Using State Space Analysis",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "BPMN",
+        "colored Petri net",
+        "Formal verification",
+        "hierarchical verification",
+        "model transformation"
+    ],
+    "authors": [
+        "C. Dechsupa",
+        "W. Vatanawood",
+        "A. Thongtak"
+    ],
+    "citedby-count": 17,
+    "ref-count": 34,
+    "ref-list": [
+        "Coloured Petri nets and CPN tools for modelling and validation of concurrent systems",
+        "Transformation of the BPMN design model into a colored Petri net using the partitioning approach",
+        "Formal verification of web service orchestration using colored Petri net",
+        "Analyzing control-flow and data-flow in workflow processes in a Unified way",
+        "Modeling structured and unstructured processes: An empirical evaluation",
+        "Hierarchical verification of WS-BPEL",
+        "Petri net",
+        "A sweep-line method for state space exploration",
+        "The sweep-line state space exploration method",
+        "BPMN-based business process model feasibility analysis: A Petri net approach",
+        "Formal semantics of BPMN process models using CPN",
+        "BPMN Formalisation using coloured Petri nets",
+        "Formal verification of complex business processes based on high-level Petri nets",
+        "Liveness and reachability analysis of BPMN process models",
+        "Detecting data-flow errors in BPMN 2.0",
+        "Diagnosing and repairing data anomalies in process models",
+        "Enabling model checking for collaborative process analysis: From BPMN to Network of Timed Automata,'",
+        "An automatic approach to transform BPMN models to Pi-Calculus",
+        "VerChor: A framework for the design and verification of choreographies",
+        "Workflow partitioning and deployment on the cloud using orchestra",
+        "The minimal coverability graph for Petri nets",
+        "Symbolic specification and verification of data-aware BPMN processes using rewriting modulo SMT",
+        "A holistic approach for soundness verification of decision-aware process models (extended version)"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

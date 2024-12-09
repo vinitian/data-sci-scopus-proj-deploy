@@ -1,0 +1,74 @@
+{
+    "eid": "2-s2.0-85119173646",
+    "title": "Quantum diffusion map for nonlinear dimensionality reduction",
+    "cover-date": "2021-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Apimuk Sornsaeng",
+        "Ninnat Dangniam",
+        "Pantita Palittapongarnpim",
+        "Thiparat Chotibut"
+    ],
+    "citedby-count": 4,
+    "ref-count": 44,
+    "ref-list": [
+        "A global geometric framework for nonlinear dimensionality reduction",
+        "Laplacian eigenmaps and spectral techniques for embedding and clustering",
+        "UMAP: Uniform manifold approximation and projection",
+        "Non-linear PCA: A missing data approach",
+        "Visualizing data using t-SNE",
+        "Diffusion maps",
+        "Diffusion maps, spectral clustering and eigenfunctions of Fokker-Planck operators",
+        "Visualizing structure and transitions in high-dimensional biological data",
+        "multiPhATE: Bioinformatics pipeline for functional annotation of phage isolates",
+        "Identifying topological order through unsupervised machine learning",
+        "Unsupervised Manifold Clustering of Topological Phononics",
+        "Unsupervised Machine Learning of Quantum Phase Transitions Using Diffusion Maps",
+        "Automatic learning of topological phase boundaries",
+        "Topological quantum phase transitions retrieved through unsupervised machine learning",
+        "Unsupervised learning of topological phase transitions using the Calinski-Harabaz index",
+        "Quantum singular-value decomposition of nonsparse low-rank matrices",
+        "Quantum principal component analysis",
+        "Quantum algorithm for the nonlinear dimensionality reduction with arbitrary kernel",
+        "Quantum speedup for graph sparsification, cut approximation and Laplacian solving",
+        "Quantum spectral clustering",
+        "q-means: A quantum algorithm for unsupervised machine learning",
+        "Generalized coherent states, reproducing kernels, and quantum support vector machines",
+        "Compiling basic linear algebra subroutines for quantum computers",
+        "Quantum Algorithm for Linear Systems of Equations",
+        "Quantum discriminant analysis for dimensionality reduction and classification",
+        "Optimal Hamiltonian Simulation by Quantum Signal Processing",
+        "Quantum Random Access Memory",
+        "Quantum machine learning",
+        "A quantum interior point method for LPs and SDPs",
+        "Coupon collector problem for non-uniform coupons and random quotas",
+        "Quantum coupon collector",
+        "Quantum singular value transformation and beyond: Exponential improvements for quantum matrix arithmetics",
+        "Quantum Support Vector Machine for Big Data Classification",
+        "Learning with optimized random features: Exponential speedup by quantum machine learning without sparsity and low-rank assumptions",
+        "Experimental realization of 105-qubit random access quantum memory",
+        "Hardware-Efficient Quantum Random Access Memory with Hybrid Quantum Acoustic Systems",
+        "Fault-tolerant resource estimation of quantum random-access memories",
+        "Resilience of quantum random access memory to generic noise"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "NSRF",
+        "National Science, Research and Innovation Fund",
+        "Chulalongkorn University"
+    ]
+}

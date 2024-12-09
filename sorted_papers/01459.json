@@ -1,0 +1,63 @@
+{
+    "eid": "2-s2.0-85140329513",
+    "title": "An ambiguous sequence-based allele of SE33",
+    "cover-date": "2022-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Pathology and Forensic Medicine",
+            "@code": "2734",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [
+        "Allele designation",
+        "Forensic",
+        "Next generation sequencing",
+        "SE33",
+        "Short tandem repeat"
+    ],
+    "authors": [
+        "Tikumphorn Sathirapatya",
+        "Hasnee Noh",
+        "Poonyapat Sukawutthiya",
+        "Wikanda Worrapitirungsi",
+        "Kornkiat Vongpaisarnsin"
+    ],
+    "citedby-count": 0,
+    "ref-count": 7,
+    "ref-list": [
+        "Massively parallel sequencing of forensic STRs: considerations of the DNA commission of the International Society for Forensic Genetics (ISFG) on minimal nomenclature requirements",
+        "Exploring STR sequencing for forensic DNA intelligence databasing using the Austrian National DNA Database as an example",
+        "Characterization of genetic sequence variation of 58 STR loci in four major population groups",
+        "STR allele sequence variation: current knowledge and future issues",
+        "Sequence-based US population data for the SE33 locus",
+        "Fast STR allele identification with STRait Razor 3.0",
+        "STRSeq: a catalog of sequence diversity at human identification Short Tandem Repeat loci"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

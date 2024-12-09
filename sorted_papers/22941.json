@@ -1,0 +1,93 @@
+{
+    "eid": "2-s2.0-84923931107",
+    "title": "Spectral CT using multiple balanced K-edge filters",
+    "cover-date": "2015-03-01",
+    "subject-areas": [
+        {
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208"
+        },
+        {
+            "$": "Computer Science Applications",
+            "@code": "1706"
+        },
+        {
+            "$": "Radiological and Ultrasound Technology",
+            "@code": "3614"
+        },
+        {
+            "$": "Software",
+            "@code": "1712"
+        }
+    ],
+    "keywords": [
+        "K-edge filters",
+        "rainbow-CT",
+        "ross spectrometer",
+        "spectral CT",
+        "transmission matrix"
+    ],
+    "authors": [
+        "Yothin Rakvongthai"
+    ],
+    "citedby-count": 21,
+    "ref-count": 25,
+    "ref-list": [
+        "The upper limits of the SNR in radiography and CT with polyenergetic x-rays",
+        "Accuracies of the synthesized monochromatic CT numbers and effective atomic numbers obtained with a rapid kVp switching dual energy CT scanner",
+        "Metal artifact reduction by dual-energy computed tomography using energetic extrapolation: A systematically optimized protocol",
+        "Extracting atomic numbers and electron densities from a dual source dual energy CT scanner: Experiments and a simulation model",
+        "Experimental feasibility of multi-energy photon-counting K-edge imaging in pre-clinical computed tomography",
+        "Material separation in x-ray CT with energy resolved photon-counting detectors",
+        "Optimization of K-edge imaging with spectral CT",
+        "Spectral CT imaging of vulnerable plaque with two independent biomarkers",
+        "Photon counting spectral CT versus conventional CT: Comparative evaluation for breast imaging application",
+        "Modeling the performance of a photon counting x-ray detector for CT: Energy response and pulse pileup effects",
+        "Image-based spectral distortion correction for photon-counting x-ray detectors",
+        "Perspective. Tunable monochromatic X rays: A new paradigm in medicine",
+        "Experimental spectral measurements of heavy K-edge filtered beams for x-ray computed mammotomography",
+        "Phys. Rev.",
+        "CT artifacts: Causes and reduction techniques",
+        "Low-cost, robust, filtered spectrometer for absolute intensity measurements in the soft x-ray region",
+        "Quasimonochromatic x-ray computed tomography by the balanced filter method using a conventional x-ray source",
+        "Imaging of nanoparticles with dual-energy computed tomography",
+        "On the theory and use of Ross filters",
+        "Experimental verification of ion stopping power prediction from dual energy CT data in tissue surrogates",
+        "Spektr: A computational tool for x-ray spectral analysis and imaging system optimization",
+        "Computed Tomography: Principles, Design, Artifacts, Recent Advances",
+        "A hybrid approach to reducing computed tomography metal artifacts in intracavitary brachytherapy",
+        "XCOM: Photon Cross Sections Database [Online]",
+        "A novel NIR camera with extended dynamic range"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "New York",
+            "affilname": "The Fu Foundation School of Engineering and Applied Science",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Boston",
+            "affilname": "Massachusetts General Hospital",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Boston",
+            "affilname": "Harvard Medical School",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Boxborough",
+            "affilname": "PHOTO DIAGNOSTIC SYSTEMS, INC.",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "National Institutes of Health",
+        "National Cancer Institute"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "eid": "2-s2.0-85170513881",
+    "title": "iEdgeDTA: integrated edge information and 1D graph convolutional neural networks for binding affinity prediction",
+    "cover-date": "2023-08-24",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Chemistry (all)",
+            "@code": "1600",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Chemical Engineering (all)",
+            "@code": "1500",
+            "@abbrev": "CENG"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Natchanon Suviriyapaisal",
+        "Duangdao Wichadakul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 38,
+    "ref-list": [
+        "SMT-DTA: Improving Drug-Target Affinity Prediction with Semi-supervised Multi-task Training",
+        "The UniProt Consortium"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University Technology Center",
+        "UTC",
+        "National Research Council of Thailand",
+        "Office of National Higher Education Science Research and Innovation Policy Council, Thailand"
+    ]
+}

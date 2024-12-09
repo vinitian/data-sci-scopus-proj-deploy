@@ -1,0 +1,87 @@
+{
+    "eid": "2-s2.0-85149154397",
+    "title": "Improved Delineation of Colorectal Cancer Molecular Subtypes and Functional Profiles with a 62-Gene Panel",
+    "cover-date": "2023-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Medicine (all)",
+            "@code": "2700",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Dhup Bhukdee",
+        "Pattarin Nuwongsri",
+        "Nipan Israsena",
+        "Sira Sriswasdi"
+    ],
+    "citedby-count": 0,
+    "ref-count": 43,
+    "ref-list": [
+        "The consensus molecular subtypes of colorectal cancer",
+        "Consensus molecular subtypes and the evolution of precision medicine in colorectal cancer",
+        "The prognostic impact of consensus molecular subtypes (CMS) and its predictive effects for bevacizumab benefit in metastatic colorectal cancer: molecular analysis of the AGITG MAX clinical trial",
+        "Consensus molecular subtypes of colorectal cancer and their clinical implications",
+        "Clinical value of consensus molecular subtypes in colorectal cancer: a systematic review and meta-analysis",
+        "Implications of intratumor heterogeneity on consensus molecular subtype (CMS) in colorectal cancer",
+        "Reference component analysis of single-cell transcriptomes elucidates cellular heterogeneity in human colorectal tumors",
+        "Single-cell transcriptomic landscape reveals tumor-specific innate lymphoid cells associated with colorectal cancer progression",
+        "Representation learning: a review and new perspectives",
+        "Latent representation learning in biology and translational medicine",
+        "Factorized embeddings learns rich and biologically meaningful embedding spaces using factorized tensor decomposition",
+        "Unsupervised and supervised learning with neural network for human transcriptome analysis and cancer diagnosis",
+        "Toward a shared vision for cancer genomic data",
+        "Fast unfolding of communities in large networks",
+        "Single-cell and bulk transcriptome sequencing identifies two epithelial tumor cell states and refines the consensus molecular classification of colorectal cancer",
+        "Stromal contribution to the colorectal cancer transcriptome",
+        "The intestinal stem cell signature identifies colorectal cancer stem cells and predicts disease relapse",
+        "Cellular senescence: when bad things happen to good cells",
+        "The senescence-associated secretory phenotype: the dark side of tumor suppression",
+        "An integrated database of genes responsive to the Myc oncogenic transcription factor: identification of direct genomic targets",
+        "Molecular signatures database (MSigDB) 3.0",
+        "Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles",
+        "KEGG: kyoto encyclopedia of genes and genomes",
+        "Most random gene expression signatures are significantly associated with breast cancer outcome",
+        "RNA sequencing-based cell proliferation analysis across 19 cancers identifies a subset of proliferation-informative cancers with a common survival signature",
+        "Analytical validation of multiplex biomarker assay to stratify colorectal cancer into molecular subtypes",
+        "DeepCC: a novel deep learning-based framework for cancer molecular subtype classification",
+        "Colorectal cancer intrinsic subtypes predict chemotherapy benefit, deficient mismatch repair and epithelial-to-mesenchymal transition",
+        "Poor-prognosis colon cancer is defined by a molecularly distinct subtype and develops from serrated precursor lesions",
+        "Gene expression classification of colon cancer into molecular subtypes: characterization, validation, and prognostic value",
+        "SNAIL1-mediated downregulation of FOXA proteins facilitates the inactivation of transcriptional enhancer elements at key epithelial genes in colorectal cancer cells",
+        "Atypical role of sprouty in colorectal cancer: sprouty repression inhibits epithelial\u2013mesenchymal transition",
+        "Inhibition of VEGF induces cellular senescence in colorectal cancer cells",
+        "VEGFR2 signaling prevents colorectal cancer cell senescence to promote tumorigenesis in mice with colitis",
+        "Smad4 and epithelial\u2013mesenchymal transition proteins in colorectal carcinoma: an immunohistochemical study",
+        "Knockdown GREM1 suppresses cell growth, angiogenesis, and epithelial\u2013mesenchymal transition in colon cancer",
+        "Sprouty2 suppresses epithelial\u2013mesenchymal transition of human lens epithelial cells through blockade of Smad2 and ERK1/2 pathways",
+        "Upregulation of macrophage wnt gene expression in adenoma\u2013carcinoma progression of human colorectal cancer",
+        "Autocrine WNT2 signaling in fibroblasts promotes colorectal cancer progression",
+        "The basics of epithelial\u2013mesenchymal transition",
+        "Regulation of EMT in colorectal cancer: a culprit in metastasis",
+        "PIK3CA in colorectal cancer",
+        "Development and validation of a gene signature classifier for consensus molecular subtyping of colorectal carcinoma in a CLIA-certified setting"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60012718",
+            "affilname": "Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012718",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "NVIDIA Corporation"
+    ]
+}

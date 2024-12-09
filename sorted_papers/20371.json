@@ -1,0 +1,94 @@
+{
+    "eid": "2-s2.0-85139821901",
+    "title": "Compact Genetic Algorithm with Quantum-Assisted Feasibility Enforcement",
+    "cover-date": "2022-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Compact Genetic Algorithm (cGA)",
+        "Grover's Search Algo-rithm",
+        "Quantum Com-puting",
+        "Traveling Salesman Problem"
+    ],
+    "authors": [
+        "Kamonluk Suksen",
+        "Naphan Benchasattabuse",
+        "Prabhas Chongstitvatana"
+    ],
+    "citedby-count": 0,
+    "ref-count": 53,
+    "ref-list": [
+        "Offspring Population Size Matters when Comparing Evolutionary Algorithms with Self-Adjusting Mutation Rates",
+        "A memory-efficient elitist genetic algorithm",
+        "Memory-efficient genetic algorithm for path optimization in embedded systems",
+        "Improving the efficiency of genetic algorithm approach to virtual machine alloca-tion",
+        "Embedded genetic algorithm for low-power, low-cost, and low-size-memory de-vices",
+        "Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer",
+        "A fast quantum mechanical algorithm for database search",
+        "Grover\u2019s quantum algorithm applied to global optimization",
+        "Solving np-complete problems with quantum search",
+        "Quantum algorithm for polynomial root finding problem",
+        "Application of grover\u2019s algorithm on the ibmqx4 quantum computer to rule-based al-gorithmic music composition",
+        "Quantum-inspired genetic algorithms",
+        "A quantum-inspired genetic algorithm for solving the antenna positioning problem",
+        "Quantum-inspired evolutionary approach for the quadratic assign-ment problem",
+        "Simulation of implementable quantum-assisted genetic algorithm",
+        "Quantum genetic optimization",
+        "The im-provement of quantum genetic algorithm and its application on function optimization",
+        "An implementation of compact genetic algorithm on a quantum com-puter",
+        "Evolving cellular au-tomata by parallel quantum genetic algorithm",
+        "Ising formulations of many NP problems",
+        "2019 Evolutionary Algorithms Review",
+        "A hardware implementation of the compact genetic algorithm",
+        "Hybrid Neural Network Models for Hydrologic Time Series Fore-casting Based on Genetic Algorithm",
+        "Using a set of elite individuals in a genetic algorithm",
+        "Grover Mixers for QAOA: Shifting Complexity from Mixer Design to State Preparation",
+        "Automated optimization of large quantum circuits with continuous parameters",
+        "Efficient Three Variables Reversible Logic Synthesis Using Mixed-polarity Toffoli Gate",
+        "Relative Building-Block Fitness and the Building-Block Hypothesis"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025997",
+            "affilname": "Keio University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025997",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "NSRF",
+        "MEXT"
+    ]
+}

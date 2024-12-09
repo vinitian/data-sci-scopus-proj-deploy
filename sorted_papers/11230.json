@@ -1,0 +1,70 @@
+{
+    "eid": "2-s2.0-85074795386",
+    "title": "Translation-based embedding model for rating conversion in recommender systems",
+    "cover-date": "2019-10-14",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Collaborative Filtering",
+        "Rating Conversion",
+        "Recommender Systems"
+    ],
+    "authors": [
+        "Phannakan Tengkiattrakul",
+        "Saranya Maneeroj",
+        "Atsuhiro Takasu"
+    ],
+    "citedby-count": 2,
+    "ref-count": 18,
+    "ref-list": [
+        "Horting hatches an egg: A New Graph-theoretic Approach to Collaborative Filtering",
+        "Translating Embeddings for Modeling Multi-relational Data",
+        "Rating pattern formation for better recommendation",
+        "Openke: An open toolkit for knowledge embedding",
+        "Knowledge graph embedding via dynamic mapping matrix",
+        "A study of methods for normalizing user ratings in collaborative filtering",
+        "Collaborative filtering with decoupled models for preferences and ratings",
+        "Matrix factorization techniques for recommender systems",
+        "Trust-based collaborative filtering",
+        "Learning entity and relation embeddings for knowledge graph completion",
+        "Translational models for item recommendation",
+        "A tutorial on principal component analysis",
+        "Complex embeddings for simple link prediction",
+        "Knowledge graph embedding: A survey of approaches and applications",
+        "Constrained preference embedding for item recommendation",
+        "Knowledge graph embedding by translating on hyperplanes",
+        "Learning over knowledge-base embeddings for recommendation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hayama",
+            "@id": "60021523",
+            "affilname": "The Graduate University for Advanced Studies",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021523",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "AI-enabled",
+        "New Energy and Industrial Technology Development Organization"
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "eid": "2-s2.0-85074731195",
+    "title": "Energy management of wind-PV-storage-grid based large electricity consumer using robust optimization technique",
+    "cover-date": "2020-02-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Demand response program (DRP)",
+        "Large electricity consumers (LEC)",
+        "Photovoltaic panel (PV)",
+        "Robust optimization approach (RO)",
+        "Wind turbine"
+    ],
+    "authors": [
+        "Dongmin Yu",
+        "Tao Zhang",
+        "Guixiong He",
+        "Sayyad Nojavan",
+        "Kittisak Jermsittiparsert",
+        "Noradin Ghadimi"
+    ],
+    "citedby-count": 135,
+    "ref-count": 44,
+    "ref-list": [
+        "Bidding strategy for a battery storage in the German secondary balancing power market",
+        "Techno-economic analysis of a hybrid renewable energy system for an energy poor rural community",
+        "A two-stage stochastic model for energy storage planning in a microgrid incorporating bilateral contracts and demand response program",
+        "Energy procurement for large consumers in electricity markets",
+        "Risk-based electricity procurement for large consumers",
+        "Electricity procurement for large consumers based on information gap decision theory",
+        "A stochastic programming approach to electric energy procurement for large consumers",
+        "Stochastic energy procurement of large electricity consumer considering photovoltaic, wind-turbine, micro-turbines, energy storage system in the presence of demand response program",
+        "Risk-assessment of photovoltaic-wind-battery-grid based large industrial consumer using information gap decision theory",
+        "Self-scheduling of large consumers with second-order stochastic dominance constraints",
+        "Robust integer optimization and scheduling problems for large electricity consumers",
+        "Robust optimal offering strategy of large consumer using IGDT considering demand response programs",
+        "Robust optimisation approach for bidding strategy of renewable generation-based microgrid under demand side management",
+        "Selling price determination by electricity retailer in the smart grid under demand side management in the presence of the electrolyser and fuel cell as hydrogen storage system",
+        "Stochastic multiperiod OPF model of power systems with HVDC-connected intermittent wind power generation",
+        "Techno-economic feasibility of hybrid diesel/PV/wind/battery electricity generation systems for non-residential large electricity consumers under southern Iran climate conditions",
+        "Robust scheduling of thermal, cooling and electrical hub energy system under market price uncertainty",
+        "Demand side management of industrial electricity consumption: promoting the use of renewable energy through real-time pricing",
+        "Prediction of short-term PV power output and uncertainty analysis",
+        "A mathematical approach to minimizing the cost of energy for large utility wind turbines",
+        "Constrained consumption shifting management in the distributed energy resources scheduling considering demand response",
+        "Risk-based scheduling of smart apartment building under market price uncertainty using robust optimization approach",
+        "Uncertainty-based electricity procurement by retailer using robust optimization approach in the presence of demand response exchange",
+        "Interval optimization based performance of photovoltaic/wind/FC/electrolyzer/electric vehicles in energy price determination for customers by electricity retailer",
+        "Game-theoretic approach to demand-side energy management for a smart neighbourhood in Sydney incorporating renewable resources",
+        "Optimal stochastic energy management of retailer based on selling price determination under smart grid environment in the presence of demand response program",
+        "Optimal performance of CCHP based microgrid considering environmental issue in the presence of real time demand response",
+        "Robust bidding and offering strategies of electricity retailer under multi-tariff pricing",
+        "Evaluation of business possibilities of energy storage at commercial and industrial consumers\u2013A case study",
+        "A cost-emission framework for hub energy system under demand response program",
+        "AC pump drives with static-converter slip-power recovery system for the Lake Constance water supply scheme",
+        "Information gap decision theory-based risk-constrained scheduling of smart home energy consumption in the presence of solar thermal storage system",
+        "Risk-based energy management of renewable-based microgrid using information gap decision theory in the presence of peak load management",
+        "Scenario-based security-constrained hydrothermal coordination with volatile wind power generation",
+        "Optimal operation scheduling of wind power integrated with compressed air energy storage (CAES)",
+        "Optimal bidding strategy for microgrids considering renewable energy and building thermal dynamics",
+        "Large consumer electricity acquisition considering time-of-use rates demand response programs",
+        "Demand response modeling considering interruptible/curtailable loads and capacity market programs",
+        "Modeling and prioritizing demand response programs in power markets",
+        "Offering strategy via robust optimization",
+        "Robust discrete optimization and network flows",
+        "The price of robustness",
+        "Optimal offering strategy for a concentrating solar power plant",
+        "Optimal bidding and offering strategies of merchant compressed air energy storage in deregulated electricity market using robust optimization approach"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bonab",
+            "@id": "60108382",
+            "affilname": "University of Bonab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60108382",
+            "affiliation-country": "Iran"
+        },
+        {
+            "affiliation-city": "Jilin",
+            "@id": "60073562",
+            "affilname": "Northeast Electric Power University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60073562",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ardabil",
+            "@id": "60000994",
+            "affilname": "Islamic Azad University, Ardabil Branch",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000994",
+            "affiliation-country": "Iran"
+        },
+        {
+            "affiliation-city": "Beijing",
+            "@id": "112813629",
+            "affilname": "Electric Power Research Institute of China",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112813629",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": [
+        "Open Fund of State Key Laboratory of Power Grid Safety and Energy Conservation",
+        "China Electric Power Research Institute"
+    ]
+}

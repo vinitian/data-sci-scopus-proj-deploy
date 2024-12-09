@@ -1,0 +1,151 @@
+{
+    "eid": "2-s2.0-85133611583",
+    "title": "A Survey of Blockchain Technology: Architecture, Applied Domains, Platforms, and Security Threats",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Social Sciences (all)",
+            "@code": "3300",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Library and Information Sciences",
+            "@code": "3309",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Law",
+            "@code": "3308",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "blockchain",
+        "cryptocurrency",
+        "decentralization",
+        "distributed",
+        "hyperledger",
+        "immutability",
+        "Internet of Thing",
+        "privacy",
+        "security",
+        "transparency"
+    ],
+    "authors": [
+        "Ayesha Altaf",
+        "Faiza Iqbal",
+        "Rabia Latif",
+        "Bello Musa Yakubu",
+        "Seemab Latif",
+        "Hamza Samiullah"
+    ],
+    "citedby-count": 6,
+    "ref-count": 106,
+    "ref-list": [
+        "Blockchain technology in healthcare: A systematic review",
+        "Hyperledger",
+        "Blockchain applications in banking industry: A mini-review",
+        "The effect of propagation delay on the dynamic evolution of the Bitcoin blockchain",
+        "The principle and core Technology of Blockchain",
+        "Blockchain in global supply chains and cross border trade: A critical synthesis of the state-of-the-art, challenges and opportunities",
+        "Blockchain application in banking system",
+        "A two-tier blockchain framework to increase protection and autonomy of smart objects in the IoT",
+        "Hybrid blockchain platforms for the internet of things (IoT): A systematic literature review",
+        "PBFT versus proof-of-authority: Applying the CAP theorem to permissioned blockchain",
+        "The byzantine generals problem",
+        "Banking on blockchain: An evaluation of innovation decision making",
+        "Elastic smart contracts in blockchains",
+        "Byzantine resilient protocol for the IoT",
+        "Defining supply chain management",
+        "Blockchain and cryptocurrencies: A classification and comparison of architecture drivers",
+        "Peer-to-peer energy trading method for multiple microgrids considering characteristics of smart Building",
+        "EC-ElGamal and genetic algorithm-based enhancement for lightweight scalable Blockchain in IoT domain",
+        "Privacy preservation in blockchain based IoT systems: Integration issues, prospects, challenges, and future research directions",
+        "Blockchain-based untrusted business process monitoring with optimized computational Infrastructure",
+        "Modelling and analysing the impact of circular economy; internet of things and ethical business practices in the VUCA world: Evidence from the food processing industry",
+        "Research and applied perspective to blockchain technology: A comprehensive survey",
+        "Blockchain corda-based IoT-oriented information-sharing system for agricultural worker physical movement data with multiple sensor unit",
+        "IoT security: Review, blockchain solutions, and open challenges",
+        "Marlowe: Implementing and Analysing financial contracts on blockchain",
+        "A comprehensive review of blockchain consensus mechanisms",
+        "Consortium blockchain for secure energy trading in industrial internet of things",
+        "BCDP: A blockchain-based credible data publishing system",
+        "Enhancing privacy and data security across healthcare applications using blockchain and distributed ledger concepts",
+        "Renovating blockchain with distributed databases: An open source system",
+        "Blockchain anchored supply chain automation",
+        "Network layer aspects of permissionless blockchains",
+        "Ensuring protocol compliance and data transparency in clinical trials using blockchain smart contracts",
+        "Blockchain for healthcare: The next generation of medical records?",
+        "Runtime verification for business processes utilizing the Bitcoin blockchain",
+        "Privacy-preserving mechanism in smart home using blockchain",
+        "Investigating the use of blockchain technology in facilitating international fund transfer with respect to banking sector of sultanate of Oman",
+        "Copyright in the blockchain era: Promises and challenges",
+        "Blockchain based solutions to secure IoT: Background, integration trends and a way forward",
+        "A comprehensive survey on attacks, security issues and blockchain solutions for IoT and IIoT",
+        "Fast, dynamic and robust byzantine fault tolerance protocol for consortium blockchain",
+        "A blockchain-based authentication protocol for cooperative vehicular ad hoc network",
+        "The impact of blockchain on e-commerce: A framework for salient research topics",
+        "Demystifying blockchain: A critical analysis of challenges, applications and opportunities",
+        "T-Smart: Trust model for blockchain based smart marketplace",
+        "Recent advances in consensus protocols for blockchain: A survey",
+        "Healthchain: A privacy protection system for medical data based on blockchain",
+        "A maturity model for blockchain adoption",
+        "A survey on consensus mechanisms and mining strategy management in blockchain networks",
+        "Bitcoin: A peer-to-peer electronic cash system",
+        "The healthchain blockchain for electronic health records: Development study",
+        "BGPcoin: Blockchain-based internet number resource authority and BGP security solution",
+        "Blockchain-based secure multi-resource trading model for smart marketplace",
+        "RiceChain: Secure and traceable rice supply chain framework using blockchain technology",
+        "Towards secure e-voting using ethereum blockchain"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Gujrat",
+            "@id": "60121546",
+            "affilname": "University of Gujrat",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60121546",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Islamabad",
+            "@id": "60117496",
+            "affilname": "School of Electrical Engineering and Computer Science",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60117496",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Lahore",
+            "@id": "60056462",
+            "affilname": "University of Engineering and Technology, Lahore",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60056462",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Riyadh",
+            "@id": "60015723",
+            "affilname": "Prince Sultan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015723",
+            "affiliation-country": "Saudi Arabia"
+        }
+    ],
+    "funding": [
+        "Prince Sultan University",
+        "Artificial Intelligence Data Analytics Lab"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "eid": "2-s2.0-85140376751",
+    "title": "A Simple Statistical Model for Forecasting COVID-19 Infections with Application to South and Southeast Asian Countries",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Mathematics (all)",
+            "@code": "2600",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "COVID-19",
+        "Forecasting",
+        "Natural Cubic Spline",
+        "South and South-East Asian"
+    ],
+    "authors": [
+        "Ameen Mhamad",
+        "Nurin Dureh",
+        "Areena Hazanee"
+    ],
+    "citedby-count": 0,
+    "ref-count": 15,
+    "ref-list": [
+        "A novel coronavirus from patients with pneumonia in China, 2019",
+        "COVID19: an announced pandemic",
+        "Effects of public health interventions on the epidemiological spread during the first wave of the COVID-19 outbreak in Thailand",
+        "Forecasting the spreading of COVID-19 across nine countries from Europe, Asia, and the American continents using the ARIMA models",
+        "Forecasting daily COVID-19 confirmed, deaths and recovered cases using univariate time series models: A case of Pakistan study",
+        "Statistical analysis of forecasting COVID-19 for upcoming month in Pakistan",
+        "Deep learning methods for forecasting COVID-19 time-Series data: A Comparative study",
+        "Prediction and analysis of COVID-19 positive cases using deep learning models: A descriptive case study of India",
+        "Neural network powered COVID-19 spread forecasting model",
+        "Partial derivative nonlinear global pandemic machine learning prediction of covid 19",
+        "Spline interpolation of demographic data revisited",
+        "Why Does Indonesia Have a High Covid-19 Case Fatality Rate",
+        "A predictive model for daily cumulative COVID-19 cases in Ghana"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hatyai",
+            "@id": "60006314",
+            "affilname": "Prince of Songkla University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006314",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "faculty of science and technology"
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "eid": "2-s2.0-85135053313",
+    "title": "Many-objective Assembly-Line Parts Feeding decisions in Automotive Industry",
+    "cover-date": "2022-04-28",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Mixed-model assembly line",
+        "MOEA/D",
+        "Multi-objective Parts Feeding",
+        "NSGA-III",
+        "Part Feeding policy",
+        "Scheduling and Routing"
+    ],
+    "authors": [
+        "Chayanee Prakong",
+        "Parames Chutima"
+    ],
+    "citedby-count": 0,
+    "ref-count": 14,
+    "ref-list": [
+        "Just-in-Time supermarkets for part supply in the automobile industry",
+        "Optimally routing and scheduling tow trains for JITsupply of mixed-model assembly lines",
+        "Optimally loading tow trains for just-intime supply of mixed-model assembly lines",
+        "A modified particle swarm optimisation algorithm to solve the part feeding problem at assembly lines",
+        "Improved multi-objective cuckoo search algorithm with novel search strategies for point-to-point part feeding scheduling problems of automotive assembly lines",
+        "Eco-efficient management of a feeding system in an automobile assembly-line",
+        "A novel artificial bee colony algorithm for the workforce scheduling and balancing problem in sub-assembly lines with limited buffers",
+        "Scheduling electric vehicles making milk-runs for just-in-time delivery",
+        "Solving Many-Objective Car Sequencing Problems on Two-Sided Assembly Lines Using an Adaptive Differential Evolutionary Algorithm",
+        "Productivity improvement with parallel adjacent U-shaped assembly lines",
+        "Loading tow trains ergonomically for just-in-time part supply",
+        "Prediction of metabolic rates for manual materials handling jobs",
+        "An Evolutionary Many-Objective Optimization Algorithm Using Reference-Point-Based Nondominated Sorting Approach, Part I: Solving Problems With Box Constraints",
+        "Multi-objective two-sided mixed-model assembly line balancing using particle swarm optimisation with negative knowledge"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "North Bangkok",
+            "@id": "112866858",
+            "affilname": "Royal Society of Thailand",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112866858",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,124 @@
+{
+    "eid": "2-s2.0-85125482136",
+    "title": "Two-phase ESO and comprehensive learning PSO method for structural optimization with discrete steel sections",
+    "cover-date": "2022-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Comprehensive learning",
+        "Discrete constraint",
+        "Evolutionary structural optimization",
+        "Integer program",
+        "Metaheuristic algorithm",
+        "Particle swarm optimization"
+    ],
+    "authors": [
+        "Thu Huynh Van",
+        "Sawekchai Tangaramvong",
+        "Suchart Limkatanyu",
+        "Hung Nguyen Xuan"
+    ],
+    "citedby-count": 10,
+    "ref-count": 60,
+    "ref-list": [
+        "A level set method for topology optimization of continuum structures with bounded design domains",
+        "Optimum design analysis of hybrid cable-stayed suspension bridges",
+        "Topology optimization of strut-and-tie models in reinforced concrete structures using an evolutionary procedure",
+        "Optimization problems with equilibrium constraints and their numerical solution",
+        "Topology optimization of softening structures under displacement constraints as an MPEC",
+        "Optimal performance-based rehabilitation of steel frames using braces",
+        "Design of nonlinear framed structures using genetic optimization",
+        "Design of steel frames using ant colony optimization",
+        "Optimum design of steel frames using harmony search algorithm",
+        "Optimum design of skeletal structures using imperialist competitive algorithm",
+        "A discrete big bang-big crunch algorithm for optimal design of skeletal structures",
+        "Design of planar steel frames using teaching\u2013learning based optimization",
+        "Optimal design of planar steel frame structures utilizing meta-heuristic optimization algorithms",
+        "Charged system search for optimal design of frame structures",
+        "Design-driven harmony search (DDHS) in steel frame optimization",
+        "An accelerated water evaporation optimization formulation for discrete optimization of skeletal structures",
+        "Optimum design of planar steel frames using the search group algorithm",
+        "An enhanced honey bee mating optimization algorithm for design of side sway steel frames",
+        "Pezeshk S. School based optimization algorithm for design of steel frames",
+        "Balancing composite motion optimization",
+        "American Institute of Steel Construction",
+        "An improved ant colony optimization for the design of planar steel frames",
+        "A novel hybrid method combining electromagnetism-like mechanism and firefly algorithms for constrained design optimization of discrete truss structures",
+        "Upper bound strategy for metaheuristic based design optimization of steel frames",
+        "Enhanced colliding bodies optimization for design problems with continuous and discrete variables",
+        "A comparative study of CBO and ECBO for optimal design of skeletal structures",
+        "Optimum design of frame structures using the eagle strategy with differential evolution",
+        "Design optimization of real world steel space frames using artificial bee colony algorithm with levy flight distribution",
+        "An enhanced imperialist competitive algorithm for optimum design of skeletal structures",
+        "Optimum design of large steel skeletal structures using chaotic firefly optimization algorithm based on the Gaussian map",
+        "Hybrid Tabu search algorithm for weight optimization of planar steel frames",
+        "An adaptive hybrid evolutionary firefly algorithm for shape and size optimization of truss structures with frequency constraints",
+        "Q-learning-based parameter control in differential evolution for structural optimization",
+        "An evolutionary symbiotic organisms search for multiconstraint truss optimization under free vibration and transient behaviour",
+        "Basic evolutionary structural optimization. Evolutionary Structural Optimization",
+        "A simple evolutionary procedure for structural optimization",
+        "Particle swarm optimization",
+        "Comprehensive learning particle swarm optimizer for global optimization of multimodal functions",
+        "A note on solving MINLP's using formulation space search",
+        "Optimal design of steel structures using standard sections",
+        "A survey of swarm intelligence for dynamic optimization: algorithms and applications",
+        "Metaheuristic research: a comprehensive survey",
+        "Stoa: a bio-inspired based optimization algorithm for industrial engineering problems",
+        "A further review of ESO type methods for topology optimization",
+        "Bi-directional evolutionary structural optimization on advanced structures and materials: a comprehensive review",
+        "Topology optimization of multiphase materials with dynamic and static characteristics by BESO method",
+        "Bi-directional evolutionary topology optimization of continuum structures subjected to inertial loads",
+        "A new approach to eliminating enclosed voids in topology optimization for additive manufacturing",
+        "Bi-directional evolutionary stress-based topology optimization of material nonlinear structures",
+        "Bidirectional evolutionary structural optimization for nonlinear structures under dynamic loads",
+        "Elasto-Plastic limit analysis of reliability based geometrically nonlinear bi-directional evolutionary topology optimization",
+        "Optimum design of unbraced steel frames to LRFD\u2013AISC using particle swarm optimization",
+        "Optimal retrofit of moment resisting frames using braces accounting for geometric nonlinearity and serviceability conditions",
+        "An evolutionary structural optimization method for sizing problems with discrete design variables",
+        "Optimum design of frames with multiple constraints using an evolutionary method",
+        "Evolutionary structural optimization for problems with stiffness constraints",
+        "Comprehensive learning particle swarm optimizer for solving multiobjective optimization problems",
+        "Evaluation of comprehensive learning particle swarm optimizer",
+        "Comparison of non-deterministic search techniques in the optimum design of real size steel frames",
+        "American Institute of Steel Construction"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60071399",
+            "affilname": "Ho Chi Minh City University of Technology - HUTECH",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071399",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hatyai",
+            "@id": "60006314",
+            "affilname": "Prince of Songkla University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006314",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "Thailand Research Fund"
+    ]
+}

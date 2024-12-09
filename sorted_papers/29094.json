@@ -1,0 +1,64 @@
+{
+    "eid": "2-s2.0-85050382156",
+    "title": "Investigation of sign language recognition performance by integration of multiple feature elements and classifiers",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Classifiers",
+        "Color gloves",
+        "Ensemble learning",
+        "Feature element",
+        "Optical camera",
+        "Sign language"
+    ],
+    "authors": [
+        "Tatsunori Ozawa",
+        "Yuna Okayasu",
+        "Maitai Dahlan",
+        "Hiromitsu Nishimura",
+        "Hiroshi Tanaka"
+    ],
+    "citedby-count": 2,
+    "ref-count": 15,
+    "ref-list": [
+        "Comparing sensor based and vision based techniques for dynamic gesture recognition",
+        "American sign language recognition with the Kinect",
+        "Words in Thai Sign Language using flex sensors and gyroscopes",
+        "Hand gestures recognition system for deaf, dumb and blind people",
+        "Hand gesture recognition based on Karhunen-Loeve transform",
+        "Investigation of feature elements and performance improvement for sign language recognition by hidden Markov model",
+        "Ensemble methods in machine learning",
+        "Basic investigation into hand shape recognition using colored gloves taking account of the peripheral environment",
+        "Performance enhancement by combining visual clues to identify sing language motions"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Atsugi",
+            "@id": "60001409",
+            "affilname": "Kanagawa Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001409",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

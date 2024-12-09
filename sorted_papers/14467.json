@@ -1,0 +1,108 @@
+{
+    "eid": "2-s2.0-85103392791",
+    "title": "A large English\u2013Thai parallel corpus from the web and machine-generated text",
+    "cover-date": "2022-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Language and Linguistics",
+            "@code": "1203",
+            "@abbrev": "ARTS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Education",
+            "@code": "3304",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Linguistics and Language",
+            "@code": "3310",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Library and Information Sciences",
+            "@code": "3309",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "Machine translation",
+        "Parallel corpus",
+        "Pretraining",
+        "Thai language",
+        "Transformer"
+    ],
+    "authors": [
+        "Lalita Lowphansirikul",
+        "Charin Polpanumas",
+        "Attapol T. Rutherford",
+        "Sarana Nutanong"
+    ],
+    "citedby-count": 6,
+    "ref-count": 39,
+    "ref-list": [
+        "The AMARA corpus: Building parallel language resources for the educational domain",
+        "JW300: A wide-coverage parallel corpus for low-resource languages",
+        "). Low-resource corpus filtering using multilingual sentence embeddings",
+        "Creating a live, public short message service corpus: The nus sms corpus",
+        "A massively parallel corpus: The bible in 100 languages",
+        "Automatically constructing a corpus of sentential paraphrases",
+        "Bitextor, a free/open-source software to harvest translation memories from multilingual websites",
+        "ParaCrawl: Web-scale parallel corpora for the languages of the EU",
+        "A program for aligning sentences in bilingual corpora",
+        "Europarl: A parallel corpus for statistical machine translation",
+        "Best 2009: Thai word segmentation software contest",
+        "). SentencePiece: A simple and language independent subword tokenizer and detokenizer for neural text processing",
+        "(",
+        "Nltk: The natural language toolkit",
+        "Fairseq: A fast, extensible toolkit for sequence modeling",
+        "Bleu: A method for automatic evaluation of machine translation",
+        "A call for clarity in reporting BLEU scores",
+        "Thai sentence-breaking for large-scale smt. In",
+        "Orchid: Thai part-of-speech tagged corpus",
+        "Contextual behaviour features and grammar rules for thai sentence-breaking",
+        "Vecalign: Improved sentence alignment in linear time and space",
+        "(",
+        "Parallel corpora for medium density languages",
+        "The united nations parallel corpus v1.0"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Rayong",
+            "@id": "60110787",
+            "affilname": "Vidyasirimedhi Institute of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60110787",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "125957281",
+            "affilname": "Teaching and Learning Thai as a Foreign Language Group",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125957281",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "125315156",
+            "affilname": "pyThaiNLP",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125315156",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Digital Economy Promotion Agency Thailand",
+        "National Economic and Social Development Council",
+        "Chulalongkorn university",
+        "Thailand Research Fund"
+    ]
+}

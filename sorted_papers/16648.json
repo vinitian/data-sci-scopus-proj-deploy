@@ -1,0 +1,74 @@
+{
+    "eid": "2-s2.0-85129144010",
+    "title": "Robust Fragment-Based Framework for Cross-lingual Sentence Retrieval",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Language and Linguistics",
+            "@code": "1203",
+            "@abbrev": "ARTS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Linguistics and Language",
+            "@code": "3310",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Nattapol Trijakwanich",
+        "Peerat Limkonchotiwat",
+        "Raheem Sarwar",
+        "Wannaphong Phatthiyaphaibun",
+        "Ekapol Chuangsuwanich",
+        "Sarana Nutanong"
+    ],
+    "citedby-count": 5,
+    "ref-count": 20,
+    "ref-list": [
+        "The AMARA corpus: Building parallel language resources for the educational domain",
+        "JW300: A widecoverage parallel corpus for low-resource languages",
+        "Unsupervised neural machine translation",
+        "On the cross-lingual transferability of monolingual representations",
+        "Marginbased parallel corpus mining with multilingual sentence embeddings",
+        "Massively multilingual sentence embeddings for zeroshot cross-lingual transfer and beyond",
+        "Breaking through the 80% glass ceiling: Raising the state of the art in word sense disambiguation by incorporating knowledge graph information",
+        "Cross-lingual language model pretraining",
+        "Multilingual machine translation: Closing the gap between shared and language-specific encoder-decoders",
+        "Unsupervised multilingual sentence embeddings for parallel corpus mining",
+        "Cross-lingual and supervised learning approach for Indonesian word sense disambiguation task",
+        "Making monolingual sentence embeddings multilingual using knowledge distillation",
+        "Shallow discourse parsing for underresourced languages: Combining machine translation and annotation projection",
+        "Parallel data, tools and interfaces in OPUS",
+        "Multilingual universal sentence encoder for semantic retrieval",
+        "Improving multilingual sentence embedding using bidirectional dual encoder with additive margin softmax",
+        "Improving massively multilingual neural machine translation and zero-shot translation",
+        "A Multilingual Dataset for Evaluating Parallel Sentence Extraction from Comparable Corpora"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Wolverhampton",
+            "@id": "60007173",
+            "affilname": "University of Wolverhampton",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007173",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "116353786",
+            "affilname": "VISTEC",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/116353786",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

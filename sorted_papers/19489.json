@@ -1,0 +1,110 @@
+{
+    "eid": "2-s2.0-85151706145",
+    "title": "Spatio-temporal Data Mining",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Economics, Econometrics and Finance (all)",
+            "@code": "2000",
+            "@abbrev": "ECON"
+        },
+        {
+            "@_fa": "true",
+            "$": "Business, Management and Accounting (all)",
+            "@code": "1400",
+            "@abbrev": "BUSI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Earth and Planetary Sciences (all)",
+            "@code": "1900",
+            "@abbrev": "EART"
+        },
+        {
+            "@_fa": "true",
+            "$": "Social Sciences (all)",
+            "@code": "3300",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "Artificial intelligence",
+        "Clustering",
+        "Data mining",
+        "Machine learning",
+        "Prediction",
+        "Spatio-temporal",
+        "Visualization"
+    ],
+    "authors": [
+        "Tao Cheng",
+        "James Haworth",
+        "Berk Anbaroglu",
+        "Garavig Tanaksaranond",
+        "Jiaqiu Wang"
+    ],
+    "citedby-count": 0,
+    "ref-count": 33,
+    "ref-list": [
+        "A spatio-temporal prediction model based on support vector machine regression: Ambient Black Carbon in three New England States",
+        "Geovisual analytics for spatial decision support: Setting the research agenda",
+        "Spatio-temporal data mining: A survey of problems and methods",
+        "ST-DBSCAN: An algorithm for clustering spatial-temporal data",
+        "Modifiable temporal unit problem (MTUP) and its effect on spacetime cluster detection",
+        "A hybrid framework for space-time modeling of environmental data",
+        "Spatio-temporal autocorrelation of road network data",
+        "Exploratory visualisation of congestion evolutions on urban transport networks",
+        "A dynamic spatial weight matrix and localized space-time autoregressive integrated moving average for network modeling",
+        "Spatial panel data models",
+        "Neural networks. A class of flexible non-linear models for regression and classification",
+        "Geographical and temporal weighted regression (GTWR)",
+        "Spatio-temporal point process statistics: A review",
+        "What about people in regional science?",
+        "Local online kernel ridge regression for forecasting of urban travel times",
+        "Space-time geostatistics",
+        "Geographically and temporally weighted regression for modeling spatio-temporal variation in house prices",
+        "Pitfalls in higher order model extensions of basic spatial regression methodology",
+        "Geospatial big data handling theory and methods: A review and research challenges",
+        "Geovisualization for knowledge construction and decision support",
+        "A measurement theory for time geography",
+        "Strategies for the visualization of geographic time-series data",
+        "Expectation-based scan statistics for monitoring spatial time series data",
+        "A three-stage iterative procedure for space-time modelling",
+        "Variance of the sample space-time autocorrelation function",
+        "Spatiotemporal data mining: A computational perspective",
+        "Mining spatial-temporal clusters from geo-databases",
+        "Spatially ordered treemaps"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "London",
+            "@id": "60159931",
+            "affilname": "Barts Health NHS Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60159931",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60022148",
+            "affilname": "University College London",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022148",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Ankara",
+            "@id": "60020484",
+            "affilname": "Hacettepe \u00dcniversitesi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020484",
+            "affiliation-country": "Turkey"
+        }
+    ],
+    "funding": []
+}

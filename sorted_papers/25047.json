@@ -1,0 +1,72 @@
+{
+    "eid": "2-s2.0-85133359793",
+    "title": "An Analysis of Python Serialization towards Distributed Systems",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Eakasit Tangmunchittham",
+        "Krerk Piromsopa"
+    ],
+    "citedby-count": 0,
+    "ref-count": 16,
+    "ref-list": [
+        "Ray: A Distributed Framework for Emerging AI Applications",
+        "Building a Framework for Predictive Science",
+        "PySpark Documentation-PySpark 3.2.0 documentation",
+        "Using IPython for parallel computing-ipyparallel 8.2.0.dev documentation",
+        "Joblib: Running Python functions as pipeline jobs-joblib 1.2.0.dev0 documentation",
+        "Pickle-Python object serialization-Python 3.10.2 documentation"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

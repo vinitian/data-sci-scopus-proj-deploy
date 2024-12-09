@@ -1,0 +1,124 @@
+{
+    "eid": "2-s2.0-85072999939",
+    "title": "Micromonospora musae sp. nov., an endophytic actinomycete isolated from roots of Musa species",
+    "cover-date": "2019-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Microbiology",
+            "@code": "2404",
+            "@abbrev": "IMMU"
+        },
+        {
+            "@_fa": "true",
+            "$": "Ecology, Evolution, Behavior and Systematics",
+            "@code": "1105",
+            "@abbrev": "AGRI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Microbiology and Biotechnology",
+            "@code": "2402",
+            "@abbrev": "IMMU"
+        }
+    ],
+    "keywords": [
+        "Average nucleotide identity",
+        "Endophytic actinomycetes",
+        "Micromonospora",
+        "Musa sp."
+    ],
+    "authors": [
+        "Nattakorn Kuncharoen",
+        "Takuji Kudo",
+        "Masahiro Yuki",
+        "Moriya Okuma",
+        "Auttaporn Booncharoen",
+        "Somboon Tanasupawat"
+    ],
+    "citedby-count": 3,
+    "ref-count": 53,
+    "ref-list": [
+        "SPAdes: a new genome assembly algorithm and its applications to single-cell sequencing",
+        "Uncovering production of specialized metabolites by Streptomyces argillaceus: activation of cryptic biosynthesis gene clusters using nutritional and genetic approaches",
+        "antiSMASH 5.0: update to the secondary metabolite genome mining pipeline",
+        "Genome-based classification of Micromonosporaceae with a focus on their biotechnological and ecological potential",
+        "Distribution of menaquinones in actinomycetes and corynebacteria",
+        "Estimating phylogenetic trees from distance matrices",
+        "Evolutionary trees from DNA sequences: a maximum likelihood approach",
+        "Confidence limits on phylogenies: an approach using the bootstrap",
+        "Toward defining the course of evolution: minimum change for specific tree topology",
+        "Micromonospora pisi sp. nov., isolated from root nodules of Pisum sativum",
+        "Genus I Micromonospora \u00d8rskov 1923, 156AL",
+        "DNA-DNA hybridization values and their relationship to whole genome sequence similarities",
+        "BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98 NT",
+        "Colour harmony manual 4th",
+        "Intrageneric relationships among Micromonospora species deduced from gyrB-based phylogeny and DNA relatedness",
+        "Simple method for estimating evolutionary rate of base substitutions through comparative studies of nucleotide sequences",
+        "Micromonospora oryzae sp. nov., isolated from roots of upland rice",
+        "Fatty acid and menaquinone analysis of actinomycetes and related organisms",
+        "Description of four new species of the genus Kineosporia: Kineosporia succinea sp. nov., Kineosporia rhizophila sp. nov., Kineosporia mikuniensis sp. nov. and Kineosporia rhamnosa sp. nov., isolated from plant samples, and amended description of the genus Kineosporia",
+        "MEGA7: molecular evolutionary genetics analysis version 7.0 for bigger datasets",
+        "Micromonospora globbae sp. nov., an endophytic actinomycete isolated from roots of Globba winitii C. H. Wright",
+        "Selection of media for the isolation of Streptomycetes",
+        "16S/23S rRNA sequencing",
+        "Chemotaxonomy of aerobic actinomycetes: phospholipid composition",
+        "Himastatin, a new antitumour antibiotic from Streptomyces hygroscopicus III. structural elucidation",
+        "FastME 2.0: a comprehensive, accurate, and fast distance-based phylogeny inference program",
+        "TYGS is an automated high-throughput platform for state-of-the-art genome-based taxonomy",
+        "Genome sequence-based species delimitation with confidence intervals and improved distance functions",
+        "Post-column fluorometric detection of reducing sugar in high-performance liquid chromatography using arginine",
+        "An integrated procedure for the extraction of bacterial isoprenoid quinones and polar lipids",
+        "Lymphostin (LK6-A), a novel immunosuppressant from Streptomyces sp. KYI 1783: taxonomy of the producing organism, fermentation, isolation and biological activities",
+        "Investigations into the morphology of the ray fungi",
+        "List of prokaryotic names with standing in nomenclature (bacterio.net), 20 years on",
+        "Micromonospora fluostatini sp. nov., isolated from marine sediment",
+        "Hopanoids are formed during transition from substrate to aerial hyphae in Streptomyces coelicolor A3(2)",
+        "Sioxanthin, a novel glycosylated carotenoid reveals an unusual subclustered biosynthetic pathway",
+        "Shifting the genomics gold standard for the prokaryotic species definition",
+        "JspeciesWS: a web server for prokaryotic species circumscription based on pairwise genome comparison",
+        "The neighbor-joining method: a new method for reconstructing phylogenetic trees",
+        "Identification of bacteria by gas chromatography of cellular fatty acids. Technical note 101",
+        "Prokka: rapid prokaryotic genome annotation",
+        "Methods for characterization of Streptomyces species",
+        "Proposal for a new hierarchic classification system, Actinobacteria classis nov",
+        "Simplified approach to identification of aerobic actinomycetes by thin-layer chromatography",
+        "Planotetraspora thailandica sp. nov., isolated from soil in Thailand",
+        "Analysis of bacterial menaquinone mixtures by high performance liquid chromatography",
+        "Micromonospora marina sp. nov., isolated from sea sand",
+        "Mycolic acid composition and thermally adaptative changes in Nocardia asteroids",
+        "Micromonospora coriariae sp. nov., isolated from root nodules of Coriaria myrtifolia",
+        "An improved method for the glycolate test for simple identification of the acyl type of bacterial cell walls",
+        "Genomic fingerprinting of bacteria using repetitive sequence-based polymerase reaction",
+        "Lipstatin, an inhibitor of pancreatic lipase produced by Streptomyces toxytricini",
+        "Introducing EzBiocloud: a taxonomically united database of 16S rRNA and whole genome assemblies"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Tsukuba",
+            "@id": "60211264",
+            "affilname": "Riken BRC Microbe Division (JCM)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60211264",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011947",
+            "affilname": "Thailand National Center for Genetic Engineering and Biotechnology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011947",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Department of Drug Discovery, Kitasato University",
+        "Chulalongkorn University",
+        "Thailand Research Fund"
+    ]
+}

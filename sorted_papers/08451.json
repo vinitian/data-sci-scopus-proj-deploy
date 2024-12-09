@@ -1,0 +1,133 @@
+{
+    "eid": "2-s2.0-85078789485",
+    "title": "A new LQG optimal control strategy applied on a hybrid wind turbine/solid oxide fuel cell/ in the presence of the interval uncertainties",
+    "cover-date": "2020-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Chebyshev inclusion method",
+        "Gas turbine",
+        "Hybrid",
+        "Interval analysis",
+        "LQG control design",
+        "Solid oxide fuel cell",
+        "Uncertainty"
+    ],
+    "authors": [
+        "Dongmin Yu",
+        "Yingying Mao",
+        "Bing Gu",
+        "Sayyad Nojavan",
+        "Kittisak Jermsittiparsert",
+        "Maryam Nasseri"
+    ],
+    "citedby-count": 67,
+    "ref-count": 39,
+    "ref-list": [
+        "Risk-assessment of photovoltaic-wind-battery-grid based large industrial consumer using information gap decision theory",
+        "Planning in microgrids with conservation of voltage reduction",
+        "Concordant controllers based on FACTS and FPSS for solving wide-area in multi-machine power system",
+        "A new formulation to reduce the number of variables and constraints to expedite SCUC in bulky power systems",
+        "Robust optimization based optimal chiller loading under cooling demand uncertainty",
+        "Reliability based optimal allocation of distributed generations in transmission systems under demand response program",
+        "Hybrid PSOTVAC/BFA technique for tuning of robust PID controller of fuel cell voltage",
+        "Comparative study of different fuel cell technologies",
+        "Comparative life cycle assessment of hydrogen fuel cell passenger vehicles in different Canadian provinces",
+        "Fuzzy-based heat and power hub models for cost-emission operation of an industrial consumer using compromise programming",
+        "Risk-assessment of photovoltaic-wind-battery-grid based large industrial consumer using information gap decision theory",
+        "Control design for a bottoming solid oxide fuel cell gas turbine hybrid system",
+        "Control of Fuel Cell Power Systems: Principles, Modeling, Analysis and Feedback Design",
+        "Using LQG/LTR optimal control method for car suspension system",
+        "An advanced LMI-based-LQR design for voltage control of grid-connected wind farm",
+        "A novel method using imperialist competitive algorithm (ICA) for controlling pitch angle in hybrid wind and PV array energy production system",
+        "Comparison of LQR and pole placement design controllers for controlling the inverted pendulum",
+        "A new lqr optimal control for a single-link flexible joint robot manipulator based on grey wolf optimizer",
+        "Data\u2013driven control techniques for renewable energy conversion systems: Wind turbine and hydroelectric plants",
+        "Novel heteropolar hybrid radial magnetic bearing with dou-ble-layer stator for flywheel energy storage system",
+        "Voltage control of PEMFC using a new controller based on reinforcement learning",
+        "Genetically tuning of lead\u2013lag controller in order to control of fuel cell voltage",
+        "Solution of the Hamilton jacobi bellman uncertainties by the interval version of adomian decomposition method",
+        "Optimal control of two-wheeled self-balancing robot with interval uncertainties using Chebyshev inclusion method",
+        "Introduction to Interval Analysis",
+        "Inverse interval matrix: A new approach",
+        "Interval uncertain method for multibody mechanical systems using Chebyshev inclusion functions",
+        "Numerical solutions of fractional differential equations by using fractional Taylor basis",
+        "A Hermite-Lobatto pseudospectral method for optimal control",
+        "An Introduction to the Approximation of Functions",
+        "Mehler integral transforms associated with Jacobi functions with respect to the dual variable",
+        "A Chebyshev interval method for nonlinear dynamic systems under uncertainty",
+        "Dynamic simulation of an integrated solid oxide fuel cell system including current-based fuel flow control",
+        "Dynamic simulation of a pressurized 220kw solid oxide fuel-cell\u2013gas-turbine hybrid system: modeled performance compared to measured results",
+        "Stability analysis of dynamic interval systems",
+        "Introduction to Model Order Reduction, in Model Order Reduction: Theory, Research Aspects and Applications",
+        "Robust stabilization of linear interval systems",
+        "Uncertainty analysis and optimization by using the orthogonal polynomials",
+        "Linear quadratic regulator for a bottoming solid oxide fuel cell gas turbine hybrid system"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Jilin",
+            "@id": "60073562",
+            "affilname": "Northeast Electric Power University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60073562",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Bonab",
+            "@id": "60108382",
+            "affilname": "University of Bonab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60108382",
+            "affiliation-country": "Iran"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ardabil",
+            "@id": "60000994",
+            "affilname": "Islamic Azad University, Ardabil Branch",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000994",
+            "affiliation-country": "Iran"
+        },
+        {
+            "affiliation-city": "Beijing",
+            "@id": "112813629",
+            "affilname": "Electric Power Research Institute of China",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112813629",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": [
+        "State Key Laboratory of Power Grid Safety and Energy Conservation",
+        "China Electric Power Research Institute",
+        "China Electric Power Research Institute"
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "eid": "2-s2.0-85091886142",
+    "title": "A Comparison of Cuff-less Blood Pressure Estimation between Pulse Arrival Time and Pulse Transit Time Using Photoplethysmography",
+    "cover-date": "2020-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Cuff-less Blood Pressure Monitoring",
+        "Photoplethysmography",
+        "Pulse Arrival Time",
+        "Pulse Transit Time"
+    ],
+    "authors": [
+        "Tipnirin Vajanarat",
+        "Apiwat Lek-Uthai"
+    ],
+    "citedby-count": 2,
+    "ref-count": 10,
+    "ref-list": [
+        "Cuff-less and continuous blood pressure monitoring: A methodological review",
+        "Cuff-less estimation of blood pressure using pulse transit time and pre-ejection period",
+        "Cuff-less continuous blood pressure monitoring system using pulse transit time techniques",
+        "Cuffless estimation of systolic blood pressure for short effort bicycle tests: The prominent role of the pre-ejection period",
+        "Pre-ejection period: Measuring beta-adrenergic influences upon the heart",
+        "Performance of a qrs detector on self-collected database using ahandheld two-electrode ECG"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

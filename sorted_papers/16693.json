@@ -1,0 +1,62 @@
+{
+    "eid": "2-s2.0-85150677559",
+    "title": "Learning Physics with a Hierarchical Graph Network",
+    "cover-date": "2022-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Graphics and Computer-Aided Design",
+            "@code": "1704",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "CCS Concepts",
+        "Physical simulation",
+        "\u2022 Computing methodologies \u2192 Neural networks"
+    ],
+    "authors": [
+        "Nuttapong Chentanez",
+        "Stefan Jeschke",
+        "Matthias M\u00fcller",
+        "Miles Macklin"
+    ],
+    "citedby-count": 0,
+    "ref-count": 57,
+    "ref-list": [
+        "A momentum-conserving implicit material point method for surface tension with contact angles and spatial gradients",
+        "Revisiting integration in the material point method: A scheme for easier separation and less dissipation",
+        "A moving least squares material point method with displacement discontinuity and two-way rigid body coupling",
+        "Taichi: a language for high-performance computation on spatially sparse data structures",
+        "Quantaichi: A compiler for quantized simulations",
+        "The affine particle-in-cell method",
+        "Graph neural network-accelerated lagrangian fluid simulation",
+        "Graph neural networks accelerated molecular dynamics",
+        "Deepphysics: A physics aware deep learning framework for real-time simulation",
+        "Proceedings of the 37th International Conference on Machine Learning",
+        "A material point method for snow simulation",
+        "A unified second-order accurate in time mpm formulation for simulating viscoelastic liquids with phase change",
+        "Application of a particle-in-cell method to solid mechanics",
+        "Manipulation of granular materials by learning particle interactions",
+        "Data-driven particle-based liquid simulation with deep learning utilizing subpixel convolution",
+        "Anisompm: Animating anisotropic damage mechanics",
+        "A massively parallel and scalable multi-gpu material point method"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Santa Clara",
+            "@id": "60076695",
+            "affilname": "NVIDIA",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60076695",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

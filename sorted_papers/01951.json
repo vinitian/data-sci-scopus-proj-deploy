@@ -1,0 +1,44 @@
+{
+    "eid": "2-s2.0-85046994997",
+    "title": "Translating TOSCA into docker-compose YAML file using ANTLR",
+    "cover-date": "2018-04-19",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "ANTLR",
+        "Docker",
+        "Docker-compose",
+        "service template",
+        "TOSCA"
+    ],
+    "authors": [
+        "Kitti Klinbua",
+        "Wiwat Vatanawood"
+    ],
+    "citedby-count": 6,
+    "ref-count": 12,
+    "ref-list": [
+        "An introduction to Docker for reproducible research",
+        "Leveraging microservices architecture by using Docker technology",
+        "Autonomic vertical elasticity of docker containers with elasticdocker",
+        "On developing and deploying large-file upload services of personal cloud storage",
+        "A cloud service template for enabling accurate cloud adoption and migration",
+        "Creating portable tosca archive for iknow university management system",
+        "Formal verification of cloud orchestration design with TOSCA and BPEL",
+        "Design and implementation for SQL parser based on ANTLR"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

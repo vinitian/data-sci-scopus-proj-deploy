@@ -1,0 +1,138 @@
+{
+    "eid": "2-s2.0-85156088089",
+    "title": "Decision Support System for Predicting Mortality in Cardiac Patients Based on Machine Learning",
+    "cover-date": "2023-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Process Chemistry and Technology",
+            "@code": "1508",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Fluid Flow and Transfer Processes",
+            "@code": "1507",
+            "@abbrev": "CENG"
+        }
+    ],
+    "keywords": [
+        "feature ranking",
+        "heart morality",
+        "imbalance classes",
+        "random forest"
+    ],
+    "authors": [
+        "Ashir Javeed",
+        "Muhammad Asim Saleem",
+        "Ana Luiza Dallora",
+        "Liaqat Ali",
+        "Johan Sanmartin Berglund",
+        "Peter Anderberg"
+    ],
+    "citedby-count": 0,
+    "ref-count": 40,
+    "ref-list": [
+        "Real-world data to generate evidence about healthcare interventions",
+        "Data mining in clinical big data: The frequently used databases, steps, and methodological models",
+        "An optimized stacked support vector machines based expert system for the effective prediction of heart failure",
+        "Machine learning-based automated diagnostic systems developed for heart failure prediction using different types of data modalities: A systematic review and future directions",
+        "Machine learning techniques for heart disease prediction",
+        "A patient-centred, comprehensive model for the care for heart failure: The 360 heart failure centre",
+        "A Clinical Decision Support System (CDSS) for Unbiased Prediction of Caesarean Section Based on Features Extraction and Optimized Classification",
+        "Development of hepatitis disease detection system by exploiting sparsity in linear support vector machine to improve strength of AdaBoost ensemble model",
+        "An Intelligent Learning System for Unbiased Prediction of Dementia Based on Autoencoder and AdaBoost Ensemble Learning",
+        "Early Prediction of Dementia Using Feature Extraction Battery (FEB) and Optimized Support Vector Machine (SVM) for Classification",
+        "Heart risk failure prediction using a novel feature selection method for feature refinement and neural network for classification",
+        "An automated diagnostic system for heart disease prediction based on \u03c72statistical model and optimally configured deep neural network",
+        "An intelligent learning system based on random search algorithm and optimized random forest model for improved heart disease detection",
+        "Smart heart monitoring: Early prediction of heart problems through predictive analysis of ECG signals",
+        "Remote health monitoring of heart failure with data mining via CART method on HRV features",
+        "Diagnosis of heart disease using fuzzy resolution mechanism",
+        "Predictive modeling of hospital mortality for patients with heart failure by using an improved random survival forest",
+        "Survival prediction among heart patients using machine learning techniques",
+        "Multi-Machine Learning Binary Classification, Feature Selection and Comparison Technique for Predicting Death Events Related to Heart Disease",
+        "Grid search in hyperparameter optimization of machine learning models for prediction of HIV/AIDS test results",
+        "Chi2: Feature selection and discretization of numeric attributes",
+        "Addressing data complexity for imbalanced datasets: Analysis of SMOTE-based oversampling and evolutionary undersampling",
+        "SMOTE: Synthetic minority over-sampling technique",
+        "Imbalanced-learn: A python toolbox to tackle the curse of imbalanced datasets in machine learning",
+        "Number of trees in random forest",
+        "Osteoarthritis disease prediction based on random forest",
+        "Instance reduction for avoiding overfitting in decision trees",
+        "Sooty Tern Optimization Algorithm-Based Deep Learning Model for Diagnosing NSCLC Tumours",
+        "Effective diagnosis of heart disease through neural networks ensembles",
+        "Adaptive weighted fuzzy rule-based system for the risk level assessment of heart disease",
+        "The Matthews correlation coefficient (MCC) is more reliable than balanced accuracy, bookmaker informedness, and markedness in two-class confusion matrix evaluation",
+        "The ROC curve and the area under it as performance measures",
+        "Receiver operating characteristic (ROC) curve analysis for medical diagnostic test evaluation",
+        "Reliable Parkinson\u2019s disease detection by analyzing handwritten drawings: Construction of an unbiased cascaded learning system based on feature selection and adaptive boosting model",
+        "An investigation of missing data methods for classification trees applied to binary response data",
+        "Predicting Dementia Risk Factors Based on Feature Selection and Neural Networks",
+        "Machine Learning for Dementia Prediction: A Systematic Review and Future Research Directions"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bannu",
+            "@id": "60070624",
+            "affilname": "University of Science and Technology Bannu",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60070624",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Karlskrona",
+            "@id": "60016636",
+            "affilname": "Blekinge Tekniska H\u00f6gskola",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016636",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "Stockholm",
+            "@id": "60012311",
+            "affilname": "Karolinska Institutet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012311",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "Skovde",
+            "@id": "60010345",
+            "affilname": "H\u00f6gskolan i Sk\u00f6vde",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010345",
+            "affiliation-country": "Sweden"
+        }
+    ],
+    "funding": [
+        "National E-Infrastructure for Aging Research"
+    ]
+}

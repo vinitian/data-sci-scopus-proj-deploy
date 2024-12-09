@@ -1,0 +1,79 @@
+{
+    "eid": "2-s2.0-85099319879",
+    "title": "Reduction of Current and Voltage Distortions under Overmodulation for Matrix Converters",
+    "cover-date": "2020-11-24",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Carrier-based PWM",
+        "Matrix converters",
+        "Overmodulation",
+        "Space vector PWM"
+    ],
+    "authors": [
+        "Paiboon Kiatsookkanatorn",
+        "Somboon Sangwongwanich"
+    ],
+    "citedby-count": 1,
+    "ref-count": 11,
+    "ref-list": [
+        "A novel control strategy for matrix converter in the over-modulation range",
+        "Comparison of two overmodulation strategies in an indirect matrix converter",
+        "Matrix converter overmodulation using carrier-based control: Maximizing the voltage transfer ratio",
+        "Over-modulation strategy of matrix converter based on multi-orbit vector weighted",
+        "Research on a new indirect space-vector overmodulation strategy in matrix converter",
+        "Space vector modulated three-phase to three-phase matrix converter with input power factor correction",
+        "Space vector modulated matrix convener with minimized number of switchings and a feed forward compensation of input voltage unbalance",
+        "An approach to reduce common-mode voltage in matrix converter",
+        "On continuous control of PWM inverters in the over-modulation range including the six-step-mode",
+        "A unified PWM method for matrix converters and its carrier-based realization using dipolar modulation technique",
+        "Carrierbased overmodulation for matrix converters"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Phra Nakhon si Ayutthaya",
+            "@id": "60269766",
+            "affilname": "Rajamangala University of Technology Suvarnabhumi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60269766",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85053923328",
+    "title": "Sequence-based searching of custom proteome and transcriptome databases",
+    "cover-date": "2018-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Physiology",
+            "@code": "1314",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Physiology (medical)",
+            "@code": "2737",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "BLAST",
+        "database",
+        "IMCD",
+        "kidney"
+    ],
+    "authors": [
+        "Barbara Medvar",
+        "Abhijit Sarkar",
+        "Mark Knepper",
+        "Trairak Pisitkun"
+    ],
+    "citedby-count": 0,
+    "ref-count": 23,
+    "ref-list": [
+        "Basic local alignment search tool",
+        "Proteomic analysis of long-term vasopressin action in the inner medullary collecting duct of the Brattleboro rat",
+        "Phosphoproteomic profiling reveals vasopressin-regulated phosphorylation sites in collecting duct",
+        "Large scale protein identification in intracellular aquaporin-2 vesicles from renal inner medullary collecting duct",
+        "Use of LC-MS/MS and Bayes\u2019 theorem to identify protein kinases that phosphorylate aquaporin-2 at Ser256",
+        "Application of difference gel electrophoresis to the identification of inner medullary collecting duct proteins",
+        "Quantitative phosphoproteomics of vasopressin-sensitive renal cells: regulation of aquaporin-2 phosphorylation at two sites",
+        "Dynamics of the G protein-coupled vasopressin V2 receptor signaling network revealed by quantitative phosphoproteomics",
+        "Global analysis of the effects of the V2 receptor antagonist satavaptan on protein phosphorylation in collecting duct",
+        "Combined proteomics and pathways analysis of collecting duct reveals a protein regulatory network activated in vasopressin escape",
+        "Deep sequencing in microdissected renal tubules identifies nephron segment-specific transcriptomes",
+        "Serine/threonine phosphatases and aquaporin-2 regulation in renal collecting duct",
+        "Comprehensive database of human E3 ubiquitin ligases: application to aquaporin-2 regulation",
+        "Proteomic profiling of nuclear fractions from native renal inner medullary collecting duct cells",
+        "High-throughput identification of IMCD proteins using LC-MS/MS",
+        "LC-MS/MS analysis of differential centrifugation fractions from native inner medullary collecting duct of rat",
+        "In vacuo isotope coded alkylation technique (IVICAT); an N-terminal stable isotopic label for quantitative liquid chromatography/mass spectrometry proteomics",
+        "Proteomic profiling of nuclei from native renal inner medullary collecting duct cells using LC-MS/MS",
+        "Early targets of lithium in rat kidney inner medullary collecting duct include p38 and ERK1/2",
+        "Transcriptional profiling of native inner medullary collecting duct cells from rat kidney",
+        "LC-MS/MS analysis of apical and basolateral plasma membranes of rat renal collecting duct cells",
+        "Large-scale phosphotyrosine proteomic profiling of rat renal collecting duct epithelium reveals predominance of proteins involved in cell polarity determination"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Washington, D.C.",
+            "@id": "60020444",
+            "affilname": "The Catholic University of America",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020444",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bethesda",
+            "@id": "60005281",
+            "affilname": "National Heart, Lung, and Blood Institute (NHLBI)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005281",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn Academic Advancement",
+        "Thailand Research Fund"
+    ]
+}

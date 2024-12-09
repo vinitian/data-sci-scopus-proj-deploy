@@ -1,0 +1,56 @@
+{
+    "eid": "2-s2.0-85074871509",
+    "title": "Football match result prediction using the random forest classifier",
+    "cover-date": "2019-08-28",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Football match result prediction",
+        "Random forests",
+        "The English Premier League"
+    ],
+    "authors": [
+        "Pakawan Pugsee",
+        "Pattarachai Pattawong"
+    ],
+    "citedby-count": 2,
+    "ref-count": 11,
+    "ref-list": [
+        "Predicting football match results with logistic regression",
+        "Predicting football scores using machine learning techniques",
+        "Predicting sports results using latent features: A case study",
+        "An improved prediction system for football a match result"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

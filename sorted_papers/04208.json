@@ -1,0 +1,93 @@
+{
+    "eid": "2-s2.0-85008154368",
+    "title": "Mining high utility itemsets with regular occurrence",
+    "cover-date": "2016-01-01",
+    "subject-areas": [
+        {
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208"
+        },
+        {
+            "$": "Information Systems and Management",
+            "@code": "1802"
+        },
+        {
+            "$": "General Computer Science",
+            "@code": "1700"
+        }
+    ],
+    "keywords": [
+        "Association rule mining",
+        "Data mining",
+        "High utility itemsets",
+        "Occurrence behavior",
+        "Regularity constraint",
+        "Utility-list structure"
+    ],
+    "authors": [
+        "Komate Amphawan"
+    ],
+    "citedby-count": 10,
+    "ref-count": 36,
+    "ref-list": [
+        "Mining Association Rules Between Sets of Items in Large Databases",
+        "Proceedings of the 1994 ACM SIGMOD International Conference on Management of Data",
+        "Discovering periodic-frequent patterns in transactional databases",
+        "Mining high utility itemsets",
+        "Pushing regularity constraint on high utility itemsets mining",
+        "A two-phase algorithm for fast discovery of high utility itemsets",
+        "Mining high utility itemsets without candidate generation",
+        "An effective tree structure for mining high utility itemsets",
+        "UP-Growth: An efficient algorithm for high utility itemset mining",
+        "Efficient mining of a concise and lossless representation of high utility itemsets",
+        "Efficient tree structures for high utility pattern mining in incremental databases",
+        "Efficient updating of discovered high-utility itemsets for transaction deletion in dynamic databases",
+        "A fast updated algorithm to maintain the discovered high-utility itemsets for transaction modification",
+        "UT-Tree: Efficient mining of high utility itemsets from data streams",
+        "Fast and memory efficient mining of high-utility itemsets from data streams: With and without negative item profits",
+        "FHN: Efficient mining of High-Utility itemsets with negative unit profits",
+        "Mining top-K high utility itemsets",
+        "Top-k high utility pattern mining with effective threshold raising strategies",
+        "Efficient Algorithms for Mining Top-K High Utility Itemsets",
+        "Proceedings of the International Workshop on Constraint-Based Mining and Learning at ECML/PKDD",
+        "The International Journal of Science & Technology",
+        "Detecting periodic patterns in unevenly spaced gene expression time series using Lomb-Scargle periodograms",
+        "Serologic markers compared with liver biopsy for monitoring disease activity in autoimmune hepatitis",
+        "Medical data mining for discovering periodically frequent diseases from transactional databases",
+        "Mining periodic patterns in manufacturing test data",
+        "Mining periodic behaviors for moving objects",
+        "Periodic episode discovery over event streams",
+        "Mining regular patterns in incremental transactional databases",
+        "Proceedings of IEEE International Conference on Computational Intelligence Computing Research",
+        "Mining top-K periodic-frequent pattern from transactional databases without support threshold",
+        "Mining top-k regular-frequent itemsets using database partitioning and support estimation",
+        "Mining top-k frequent-regular closed patterns",
+        "Towards efficient mining of periodic-frequent patterns in transactional databases",
+        "An efficient approach to mine periodic-frequent patterns in transactional databases",
+        "Mining top-k Regular Episodes from Sensor Streams",
+        "Spmf: An Open-Source Data Mining Library"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Brest",
+            "affilname": "Laboratoire des Sciences et Techniques de l'Information, de la Communication et de la Connaissance (Lab-Sticc)",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chonburi",
+            "affilname": "Burapha University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "KNUTNB",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

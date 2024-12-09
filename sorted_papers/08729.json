@@ -1,0 +1,82 @@
+{
+    "eid": "2-s2.0-85164951321",
+    "title": "Unscented Kalman Filter for State of Charge Estimation of Lithium Titanate Battery",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "battery management systems",
+        "energy storage systems",
+        "Lithium Titanate battery",
+        "state of charge",
+        "unscented Kalman filter"
+    ],
+    "authors": [
+        "Joshua Chun Ken Dardchuntuk",
+        "David Banjerdpongchai"
+    ],
+    "citedby-count": 0,
+    "ref-count": 9,
+    "ref-list": [
+        "Kalman filter based state-of-charge estimation for lithium-ion batteries in hybrid electric vehicles using pulse charging",
+        "A state-of-charge estimation method of the power lithium-ion battery in complex conditions based on adaptive square root extended Kalman filter",
+        "State of charge estimation with the adaptive unscented Kalman filter based on an accurate equivalent circuit model",
+        "Estimation of the State of Charge of Lithium Batteries Based on Adaptive Unscented Kalman Filter Algorithm",
+        "Estimation of state-of-charge based on unscented Kalman particle filter for storage lithium-ion battery",
+        "Unscented Kalman Filtering for spacecraft attitude state and parameter estimation",
+        "State-of-charge estimation of valve regulated lead acid battery based on multi-state Unscented Kalman Filter",
+        "State of Charge Estimation of Battery Energy Storage Systems Based on Adaptive Unscented Kalman Filter With a Noise Statistics Estimator"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

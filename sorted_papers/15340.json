@@ -1,0 +1,58 @@
+{
+    "eid": "2-s2.0-85048787887",
+    "title": "Feature based analysis friendly video coding scheme for HEVC",
+    "cover-date": "2018-03-26",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Media Technology",
+            "@code": "2214",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Sovann Chen",
+        "Htoo Maung Maung",
+        "Supavadee Aramvith"
+    ],
+    "citedby-count": 1,
+    "ref-count": 6,
+    "ref-list": [
+        "Keypoint encoding for improved feature extraction from compressed video at low bitrates",
+        "From visual search to video compression: A compact representation framework for video feature descriptors",
+        "SIFT feature-preserving bit allocation for H.264/AVC video compression",
+        "Domain rate control algorithm for high efficiency video coding",
+        "Distinctive image features from scale-invariant keypoints",
+        "Random sample consensus: A paradigm for model fitting with applications to image analysis and automated cartography"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Yangon, Myanmar",
+            "@id": "126508165",
+            "affilname": "Ministry of Education",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126508165",
+            "affiliation-country": "Myanmar"
+        }
+    ],
+    "funding": []
+}

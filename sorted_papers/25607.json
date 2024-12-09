@@ -1,0 +1,152 @@
+{
+    "eid": "2-s2.0-85141703932",
+    "title": "Detection of m6A from direct RNA sequencing using a multiple instance learning framework",
+    "cover-date": "2022-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biotechnology",
+            "@code": "1305",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Cell Biology",
+            "@code": "1307",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Christopher Hendra",
+        "Ploy N. Pratanwanich",
+        "Yuk Kei Wan",
+        "W. S.Sho Goh",
+        "Alexandre Thiery",
+        "Jonathan G\u00f6ke"
+    ],
+    "citedby-count": 13,
+    "ref-count": 65,
+    "ref-list": [
+        "Nucleoside-5\u2032-phosphates from ribonucleic acid",
+        "Ribonucleic acids from pancreas which contain new components",
+        "MODOMICS: a database of RNA modification pathways. 2017 update",
+        "MODOMICS: a database of RNA modification pathways",
+        "Existence of methylated messenger RNA in mouse L cells",
+        "Dynamic RNA modifications in gene expression regulation",
+        "N 6-methyladenosine-dependent RNA structural switches regulate RNA\u2013protein interactions",
+        "N 6-methyladenosine-dependent regulation of messenger RNA stability",
+        "M6A mRNA modifications are deposited in nascent pre-mRNA and are not required for splicing but do specify cytoplasmic turnover",
+        "Nuclear m6A reader YTHDC1 regulates mRNA splicing",
+        "N 6 -methyladenosine modulates messenger RNA translation efficiency",
+        "N 6-methyladenosine modification destabilizes developmental regulators in embryonic stem cells",
+        "METTL14 inhibits hematopoietic stem/progenitor differentiation and promotes leukemogenesis via mRNA m6A modification",
+        "Mettl3-mediated m6A regulates spermatogonial differentiation and meiosis initiation",
+        "Hypoxia induces the breast cancer stem cell phenotype by HIF-dependent and ALKBH5-mediated m6A-demethylation of NANOG mRNA",
+        "Small-molecule inhibition of METTL3 as a strategy against myeloid leukaemia",
+        "The N6-methyladenosine (m6A)-forming enzyme METTL3 controls myeloid differentiation of normal hematopoietic and leukemia cells",
+        "m6A RNA modification controls cell fate transition in mammalian embryonic stem cells",
+        "Temporal control of mammalian cortical neurogenesis by m6A methylation",
+        "Epitranscriptomic influences on development and disease",
+        "The RNA modification landscape in human disease",
+        "Comprehensive analysis of mRNA methylation reveals enrichment in 3\u2032 UTRs and near stop codons",
+        "Topology of the human and mouse m6A RNA methylomes revealed by m6A-seq",
+        "High-resolution N6-methyladenosine (m6A) map using photo-crosslinking-assisted m6A sequencing",
+        "A majority of m6A residues are in the last exons, allowing the potential for 3\u2032 UTR regulation",
+        "Single-nucleotide-resolution mapping of m6A and m6A throughout the transcriptome",
+        "m6A-LAIC-seq reveals the census and complexity of the m6A epitranscriptome",
+        "Atlas of quantitative single-base-resolution N6-methyl-adenine methylomes",
+        "Multiplexed profiling facilitates robust m6A quantification at site, gene and sample resolution",
+        "Pseudouridine profiling reveals regulated mRNA pseudouridylation in yeast and human cells",
+        "AlkAniline\u2010Seq: profiling of m7G and m3C RNA modifications at single nucleotide resolution",
+        "Deciphering the \u2018m6A Code\u2019 via antibody-independent quantitative profiling",
+        "Single-base mapping of m6A by an antibody-independent method",
+        "DART-seq: an antibody-free method for global m6A detection",
+        "HAMR: high-throughput annotation of modified ribonucleotides",
+        "Highly parallel direct on an array of nanopores",
+        "Beyond sequencing: Machine learning algorithms extract biology hidden in Nanopore signal data",
+        "Direct RNA sequencing reveals m6A modifications on adenovirus RNA are necessary for efficient splicing",
+        "RNA modifications detection by comparative Nanopore direct RNA sequencing",
+        "Decoding the epitranscriptional landscape from native RNA sequences",
+        "Identification of differential RNA modifications from nanopore direct RNA sequencing with xPore",
+        "Accurate detection of m6A RNA modifications in native RNA sequences",
+        "EpiNano: Detection of m6A RNA modifications using Oxford nanopore direct RNA sequencing",
+        "Direct RNA sequencing enables m6A detection in endogenous transcript isoforms at base-specific resolution",
+        "Quantitative profiling of N-methyladenosine at single-base resolution in stem-differentiating xylem of Populus trichocarpa using Nanopore direct RNA sequencing",
+        "Quantitative profiling of pseudouridylation dynamics in native RNAs with nanopore sequencing",
+        "Solving the multiple instance problem with axis-parallel rectangles",
+        "A Framework for Multiple-Instance Learning",
+        "A complete bacterial genome assembled de novo using only nanopore sequencing data",
+        "Nanopore direct RNA sequencing maps the complexity of Arabidopsis mRNA processing and m6A modification",
+        "RNALocate: a resource for RNA subcellular localizations",
+        "Detection of differential RNA modifications from direct RNA sequencing of human cell lines",
+        "Distinguishing RNA modifications from noise in epitranscriptome maps",
+        "Limits in the detection of m6A changes using MeRIP/m6A-seq",
+        "Determination of isoform-specific RNA structure with nanopore long reads",
+        "YTorch: An Imperative Style, High-Performance Deep Learning Library",
+        "Scikit-learn: machine learning in Python"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60017161",
+            "affilname": "National University of Singapore",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017161",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Shenzhen",
+            "@id": "60272276",
+            "affilname": "Shenzhen Bay Laboratory",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60272276",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60031809",
+            "affilname": "National Cancer Centre, Singapore",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031809",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60031198",
+            "affilname": "A-Star, Genome Institute of Singapore",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031198",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60026680",
+            "affilname": "NUS Yong Loo Lin School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026680",
+            "affiliation-country": "Singapore"
+        }
+    ],
+    "funding": [
+        "Institute of Data Science",
+        "A*STAR",
+        "National Medical Research Council",
+        "Singapore Ministry of Health",
+        "NUS"
+    ]
+}

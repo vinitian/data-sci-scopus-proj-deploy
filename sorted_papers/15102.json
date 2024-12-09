@@ -1,0 +1,115 @@
+{
+    "eid": "2-s2.0-85089821895",
+    "title": "Molecular modelling investigation for drugs and nutraceuticals against protease of SARS-CoV-2",
+    "cover-date": "2020-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Spectroscopy",
+            "@code": "1607",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Physical and Theoretical Chemistry",
+            "@code": "1606",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Graphics and Computer-Aided Design",
+            "@code": "1704",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Chemistry",
+            "@code": "2505",
+            "@abbrev": "MATE"
+        }
+    ],
+    "keywords": [
+        "Herbal medicines",
+        "Molecular docking",
+        "Molecular dynamics simulation",
+        "Protease inhibitors",
+        "SARS-CoV-2"
+    ],
+    "authors": [
+        "Kanchanok Kodchakorn",
+        "Yong Poovorawan",
+        "Kamol Suwannakarn",
+        "Prachya Kongtawelert"
+    ],
+    "citedby-count": 23,
+    "ref-count": 36,
+    "ref-list": [
+        "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China",
+        "Statement on the second meeting of the international health regulations (2005) emergency committee regarding the outbreak of novel coronavirus (2019-nCoV)",
+        "A novel coronavirus from patients with pneumonia in China, 2019",
+        "Tracking coronavirus: Map, data and timeline. Report of BNO News, Tracking coronavirus: Map, data and timeline",
+        "Another decade, another coronavirus",
+        "Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding",
+        "hina confirms human-to-human transmission of new coronavirus",
+        "Origin and evolution of pathogenic coronaviruses",
+        "Coronaviruses: an overview of their replication and pathogenesis",
+        "China starts using antiviral drug Remdesivir in clinical trials against Wuhan virus",
+        "A proteomic analysis of the anti-dengue virus activity of andrographolide",
+        "Activity of antibacterial, antiviral, anti-inflammatory in compounds andrographolide salt",
+        "Effect of sesamin against cytokine production from influenza type A H1N1-induced peripheral blood mononuclear cells: computational and experimental studies",
+        "Sesamin suppresses LPS-induced microglial activation via regulation of TLR4 expression",
+        "Hesperidin structurally modified by gamma irradiation induces apoptosis in murine melanoma B16BL6 cells and inhibits both subcutaneous tumor growth and metastasis in C57BL/6 mice",
+        "Enhancement of cellular uptake and cytotoxicity of curcumin-loaded PLGA nanoparticles by conjugation with anti-P-glycoprotein in drug resistance cancer cells",
+        "Python: a programming language for software integration and development",
+        "AMBER 2018",
+        "AutoDock Vina: improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading",
+        "Routine microsecond molecular dynamics simulations with AMBER on GPUs. 1. Generalized born",
+        "Routine microsecond molecular dynamics simulations with AMBER on GPUs. 2. Explicit solvent particle mesh Ewald",
+        "Molecular dynamics simulations of a polyalanine octapeptide under Ewald boundary Conditions: influence of artificial periodicity on peptide conformation",
+        "Particle mesh Ewald: An N\u22c5log(N) method for Ewald sums in large systems",
+        "A smooth particle mesh Ewald method",
+        "PTRAJ and CPPTRAJ: software for processing and analysis of molecular dynamics trajectory data",
+        "Calculating structures and free energies of complex Molecules: combining molecular mechanics and continuum models",
+        "Fluctuation and cross-correlation analysis of protein motions observed in nanosecond molecular dynamics simulations",
+        "Genomic and protein structure modelling analysis depicts the origin and infectivity of 2019-nCoV, a new coronavirus which caused a pneumonia outbreak in Wuhan, China",
+        "Production of authentic SARS-CoV M(pro) with enhanced activity: application as a novel tag-cleavage endopeptidase for protein overproduction",
+        "A Novel Coronavirus Associated with a Respiratory Disease in Wuhan of Hubei Province, China: Wuhan Seafood Market Pneumonia Virus Isolate Wuhan-Hu-1, Complete Genome (GenBank: MN908947.3)",
+        "Clustal W and clustal X version 2.0",
+        "Wuhan coronavirus 2019-nCoV - what we can find out on a structural bioinformatics level, Innophore, GmbH, Austria",
+        "End-point binding free energy calculation with MM/PBSA and MM/GBSA: strategies and applications in drug design",
+        "A trial of lopinavir-ritonavir in adults hospitalized with Severe Covid-19",
+        "Allosteric inhibition induces an open WPD-loop: a new avenue towards glioblastoma therapy",
+        "A novel approach of dynamic cross correlation analysis on molecular dynamics simulations and its application to Ets1 dimer-DNA complex"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60011189",
+            "affilname": "Faculty of Medicine Siriraj Hospital, Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011189",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chaing Mai",
+            "@id": "60000881",
+            "affilname": "Chiang Mai University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000881",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Center of Excellence in Clinical Virology",
+        "Department of Biochemistry",
+        "Thailand Excellence Center for Tissue Engineering and Stem Cells",
+        "Chulalongkorn University",
+        "National Science and Technology Development Agency",
+        "Faculty of Medicine, Chiang Mai University"
+    ]
+}

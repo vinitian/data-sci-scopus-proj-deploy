@@ -1,0 +1,98 @@
+{
+    "eid": "2-s2.0-85049063852",
+    "title": "AbDesigner3D: A structure-guided tool for peptide-based antibody production",
+    "cover-date": "2018-06-15",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Statistics and Probability",
+            "@code": "2613",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Thammakorn Saethang",
+        "Kenneth Hodge",
+        "Ingorn Kimkong",
+        "D. Michael Payne",
+        "Mark A. Knepper",
+        "Trairak Pisitkun"
+    ],
+    "citedby-count": 2,
+    "ref-count": 10,
+    "ref-list": [
+        "Strategies and challenges for the next generation of antibody-drug conjugates",
+        "Antibody validation",
+        "Prediction of residues in discontinuous B-cell epitopes using protein 3D structures",
+        "Antigenic determinants in proteins coincide with surface regions accessible to large probes (antibody domains)",
+        "Antibody-drug conjugates: Current status and future directions",
+        "Integrated design of antibodies for systems biology using Ab designer",
+        "NHLBI-AbDesigner: An online tool for design of peptide-directed antibodies",
+        "BioJava: An open-source framework for bioinformatics in 2012",
+        "Antibody therapy of cancer",
+        "Location of 'continuous' antigenic determinants in the protruding regions of proteins"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60021944",
+            "affilname": "Kasetsart University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021944",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bethesda",
+            "@id": "60005281",
+            "affilname": "National Heart, Lung, and Blood Institute (NHLBI)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005281",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "CUAASC",
+        "Chulalongkorn academic advancement",
+        "Rachadapisek Sompot Fund for",
+        "bureau foundation",
+        "National Institutes of Health",
+        "National Heart, Lung and Blood Institute",
+        "Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,241 @@
+{
+    "eid": "2-s2.0-85098236599",
+    "title": "High-Resolution Manometry Thresholds and Motor Patterns Among Asymptomatic Individuals",
+    "cover-date": "2022-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Hepatology",
+            "@code": "2721",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Gastroenterology",
+            "@code": "2715",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Distal Contractile Integral",
+        "Distal Latency",
+        "High-Resolution Manometry",
+        "Integrated Relaxation Pressure"
+    ],
+    "authors": [
+        "Arvind Rengarajan",
+        "Benjamin D. Rogers",
+        "Zhiqin Wong",
+        "Salvatore Tolone",
+        "Daniel Sifrim",
+        "Jordi Serra",
+        "Edoardo Savarino",
+        "Sabine Roman",
+        "Jose M. Remes-Troche",
+        "Rosa Ramos",
+        "Julio Perez de la Serna",
+        "Ans Pauwels",
+        "Ana Maria Leguizamo",
+        "Yeong Yeh Lee",
+        "Osamu Kawamura",
+        "Jamal Hayat",
+        "Albis Hani",
+        "Sutep Gonlachanvit",
+        "Daniel Cisternas",
+        "Dustin Carlson",
+        "Serhat Bor",
+        "Shobna Bhatia",
+        "Luiz Abrahao",
+        "John Pandolfino",
+        "C. Prakash Gyawali"
+    ],
+    "citedby-count": 17,
+    "ref-count": 15,
+    "ref-list": [
+        "High resolution manometry: the Ray Clouse legacy",
+        "How to effectively use high-resolution esophageal manometry",
+        "Indications and interpretation of esophageal function testing",
+        "The Chicago Classification of esophageal motility disorders, v3.0",
+        "Normal values for esophageal high-resolution manometry",
+        "Normal esophageal pressure topography metrics for data derived from the Sandhill-Unisensor high-resolution manometry assembly in supine and sitting positions",
+        "Fragmented and failed swallows on esophageal high-resolution manometry associate with abnormal reflux burden better than weak swallows",
+        "Contraction reserve with ineffective esophageal motility on esophageal high resolution manometry is associated with lower acid exposure times compared with absent contraction reserve",
+        "Characterization of idiopathic esophagogastric junction outflow obstruction",
+        "What is the clinical significance of esophagogastric junction outflow obstruction? evaluation of 60 patients at a tertiary referral center",
+        "Characterization and follow-up of esophagogastric junction outflow obstruction detected by high resolution manometry",
+        "Rapid drink challenge test during esophageal high resolution manometry in patients with esophago-gastric junction outflow obstruction",
+        "Esophagogastric junction distensibility identifies achalasia subgroup with manometrically normal esophagogastric junction relaxation",
+        "Ineffective esophageal motility: Concepts, future directions, and conclusions from the Stanford 2018 symposium",
+        "Chicago classification criteria of esophageal motility disorders defined in high resolution esophageal pressure topography"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Lyon",
+            "@id": "60102126",
+            "affilname": "Universit\u00e9 de Lyon",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60102126",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Bogota",
+            "@id": "60040006",
+            "affilname": "Hospital Universitario San Ignacio",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60040006",
+            "affiliation-country": "Colombia"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60032542",
+            "affilname": "St George's University Hospitals NHS Foundation Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032542",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Madrid",
+            "@id": "60032461",
+            "affilname": "Hospital Cl\u00ednico San Carlos",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032461",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Badalona",
+            "@id": "60028462",
+            "affilname": "Hospital Universitari Germans Trias i Pujol",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028462",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Naples",
+            "@id": "60026777",
+            "affilname": "Universit\u00e0 degli Studi della Campania Luigi Vanvitelli",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026777",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "3000 Leuven",
+            "@id": "60025063",
+            "affilname": "KU Leuven",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025063",
+            "affiliation-country": "Belgium"
+        },
+        {
+            "affiliation-city": "St. Louis",
+            "@id": "60022756",
+            "affilname": "Washington University School of Medicine in St. Louis",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022756",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Izmir",
+            "@id": "60022028",
+            "affilname": "Ege \u00dcniversitesi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022028",
+            "affiliation-country": "Turkey"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60021435",
+            "affilname": "Barts and The London School of Medicine and Dentistry",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021435",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Chicago",
+            "@id": "60013227",
+            "affilname": "Northwestern University Feinberg School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013227",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60010426",
+            "affilname": "St George's Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010426",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Xalapa",
+            "@id": "60007909",
+            "affilname": "Universidad Veracruzana",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007909",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Kubang Kerian",
+            "@id": "60002512",
+            "affilname": "School of Medical Sciences, Universiti Sains Malaysia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002512",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Buenos Aires",
+            "@id": "60001904",
+            "affilname": "Hospital Britanico de Buenos Aires",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001904",
+            "affiliation-country": "Argentina"
+        },
+        {
+            "affiliation-city": "Bangi",
+            "@id": "60001821",
+            "affilname": "Universiti Kebangsaan Malaysia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001821",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Padua",
+            "@id": "60000481",
+            "affilname": "Universit\u00e0 degli Studi di Padova",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000481",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Santiago",
+            "@id": "60000146",
+            "affilname": "Clinica Alemana",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000146",
+            "affiliation-country": "Chile"
+        },
+        {
+            "affiliation-city": "Rio de Janeiro",
+            "@id": "60000036",
+            "affilname": "Universidade Federal do Rio de Janeiro",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000036",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Minakami",
+            "@id": "121816458",
+            "affilname": "Kamimoku Spa Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/121816458",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Mumbai",
+            "@id": "115539263",
+            "affilname": "Sir HN Reliance Foundation Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/115539263",
+            "affiliation-country": "India"
+        }
+    ],
+    "funding": [
+        "Alfa Sigma Italy",
+        "Jinshan Technology China",
+        "Quintiles",
+        "Reckitt Benckiser UK",
+        "AstraZeneca",
+        "Bayer",
+        "Medtronic",
+        "AbbVie",
+        "MSD",
+        "Allergan",
+        "Takeda",
+        "Janssen"
+    ]
+}

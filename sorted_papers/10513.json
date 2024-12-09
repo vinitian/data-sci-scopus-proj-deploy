@@ -1,0 +1,91 @@
+{
+    "eid": "2-s2.0-85118942127",
+    "title": "ESRA: Explainable scientific research assistant",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Linguistics and Language",
+            "@code": "3310",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Language and Linguistics",
+            "@code": "1203",
+            "@abbrev": "ARTS"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Pollawat Hongwimol",
+        "Peeranuth Kehasukcharoen",
+        "Pasit Laohawarutchai",
+        "Piyawat Lertvittayakumjorn",
+        "Aik Beng Ng",
+        "Zhangsheng Lai",
+        "Timothy Liu",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 25,
+    "ref-list": [
+        "Construction of the literature graph in semantic scholar",
+        "SemEval 2017 task 10: ScienceIE - extracting keyphrases and relations from scientific publications",
+        "BERT: Pre-training of deep bidirectional transformers for language understanding",
+        "Span-based joint entity and relation extraction with transformer pre-training",
+        "DeepLife: An entity-aware search, analytics and exploration platform for health and life sciences",
+        "Unsupervised relation extraction in specialized corpora using sequence mining",
+        "SemEval-2018 task 7: Semantic relation extraction and classification in scientific papers",
+        "Open research knowledge graph: Next generation infrastructure for semantic scholarly knowledge",
+        "A survey on scholarly data: From big data perspective",
+        "Multi-task identification of entities, relations, and coreference for scientific knowledge graph construction",
+        "The rise of open access",
+        "Biotextquest+: a knowledge integration platform for literature mining and concept discovery",
+        "Knowledge graph refinement: A survey of approaches and evaluation methods",
+        "Sentence-BERT: Sentence embeddings using Siamese BERT-networks",
+        "Life-iNet: A structured network-based knowledge exploration and analytics system for life sciences",
+        "Discovering factions in the computational linguistics community",
+        "An overview of microsoft academic service (mas) and applications",
+        "Acemap: A novel approach towards displaying relationship among academic literatures",
+        "Entity, relation, and event extraction with contextualized span representations",
+        "Scholarly big data information extraction and integration in the citeseer \u03c7 digital library",
+        "Explicit semantic ranking for academic search via knowledge graph embedding"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Santa Clara",
+            "@id": "60076695",
+            "affilname": "NVIDIA",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60076695",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60015150",
+            "affilname": "Imperial College London",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015150",
+            "affiliation-country": "United Kingdom"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85163458782",
+    "title": "Drug Repurposing for Type 2 Diabetes Using Combined Textual and Structural Graph Representation Based on Transformer",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Deep learning",
+        "drug repurposing",
+        "graph embedding",
+        "link prediction",
+        "transformer",
+        "type 2 diabetes"
+    ],
+    "authors": [
+        "Sothornin Mam",
+        "Duangdao Wichadakul",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 45,
+    "ref-list": [
+        "Drug repurposing: Progress, challenges and recommendations",
+        "Computational identification of repurposed drugs against viruses causing epidemics and pandemics via drug-target network analysis",
+        "Drug repurposing for COVID-19 via knowledge graph completion",
+        "Modern computational intelligence based drug repurposing for diabetes epidemic",
+        "SemMedDB: A PubMed-scale repository of biomedical semantic predications",
+        "Recent advances in convolutional neural networks",
+        "Attention is all you need",
+        "Speech-transformer: A no-recurrence sequence-to-sequence model for speech recognition",
+        "Improving biomedical named entity recognition with syntactic information",
+        "Structureaugmented text representation learning for efficient knowledge graph completion",
+        "HittER: Hierarchical transformers for knowledge graph embeddings",
+        "Knowledge graph representation with jointly structural and textual encoding",
+        "Translating embeddings for modeling multi-relational data",
+        "Complex embeddings for simple link prediction",
+        "Acomputational approach to drug repurposing using graph neural networks",
+        "BERT: Pre-training of deep bidirectional transformers for language understanding",
+        "Broad-coverage biomedical relation extraction with SemRep",
+        "The unified medical language system (UMLS): Integrating biomedical terminology",
+        "Simple embedding for link prediction in knowledge graphs",
+        "Canonical tensor decomposition for knowledge base completion",
+        "BioBERT: A pre-trained biomedical language representation model for biomedical text mining",
+        "Transformers: State-of-the-art natural language processing",
+        "Dietary triterpenes in the treatment of type 2 diabetes: To date",
+        "The role of triterpenes in the management of diabetes mellitus and its complications",
+        "Herbal medicine Sho-saiko-to (TJ-9) prevent liver fibrosis and enzymealtered lesions in rat liver cirrhosis induced by a choline-deficient l-amino acid-defined diet",
+        "Tolbutamide",
+        "[Effects of traditional Chinese medicines (dai-saiko-to, sho-saiko-to and hachimizio-gan) on spontaneously diabetic rat (WBN/Kob) with experimentally induced lipid and mineral disorders]",
+        "Inhibitors of the phosphatidylinositol 3-kinase pathway",
+        "PI3Kinases in diabetes mellitus and its related complications",
+        "28-Female sex hormones",
+        "Sex hormones, obesity and type 2 diabetes: Is there a link?",
+        "Inhibition of p38 mitogenactivated protein kinase exerts a hypoglycemic effect by improving \u03b2 cell function via inhibition of \u03b2 cell apoptosis in db/db mice"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

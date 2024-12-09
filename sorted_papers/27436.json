@@ -1,0 +1,77 @@
+{
+    "eid": "2-s2.0-85098291262",
+    "title": "Wellhead Compressor Failure Prediction Using Attention-based Bidirectional LSTMs with Data Reduction Techniques",
+    "cover-date": "2020-03-09",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Attention Mechanism",
+        "Deep Learning",
+        "Failure Prediction",
+        "Long Short-Term Memory",
+        "Machine Learning",
+        "Wellhead Compressor"
+    ],
+    "authors": [
+        "Wirasak Chomphu",
+        "Boonserm Kijsirikul"
+    ],
+    "citedby-count": 1,
+    "ref-count": 33,
+    "ref-list": [
+        "2016 Deep Learning and Its Parallelization",
+        "2016 A Study on Estimating the Next Failure Time of Compressor Equipment in an Offshore Plant",
+        "2019 Bidirectional handshaking LSTM for remaining useful life prediction",
+        "2001 A Comparison of waveform fractal dimension algorithms",
+        "2016 Construction of hierarchical diagnosis network based on deep learning and its application in the fault pattern recognition of rolling element bearings",
+        "Study on the Application of Wellhead Compression in Offshore Facilities. In",
+        "1997 Long short-Term memory",
+        "2016 Principal component analysis: A review and recent developments",
+        "2017 Introduction and background",
+        "2019 A deep learning approach for anomaly detection based on SAE and LSTM in mechanical equipment",
+        "2019 Remaining useful life predictions for turbofan engine degradation using semi-supervised deep architecture",
+        "2019 Reciprocating compressor prognostics of an instantaneous failure mode utilising temperature only measurements",
+        "SIMILARITY-BASED METHODS for MACHINE DIAGNOSIS",
+        "Research on fault diagnosis of turbine generator unit based on improved CPN neural network. In",
+        "Kolmogorov complexity of finite sequences and recognition of different preictal EEG patterns. In",
+        "2018 Intelligent bearing performance degradation assessment and remaining useful life prediction based on self-organising map and support vector regression",
+        "Attention Mechanism: Benefits and Applications",
+        "2000 Physiological timeseries analysis using approximate and sample entropy",
+        "2011 Prediction of tractor repair and maintenance costs using Artificial Neural Network",
+        "2018 Remaining useful life estimation of engineered systems using vanilla LSTM neural networks",
+        "2019 Remaining useful life estimation using a bidirectional recurrent neural network based autoencoder scheme",
+        "2011 Review of life prediction for mechanical major equipments"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

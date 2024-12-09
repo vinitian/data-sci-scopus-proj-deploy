@@ -1,0 +1,92 @@
+{
+    "eid": "2-s2.0-85128487396",
+    "title": "Mathematical Modeling for Evaluating Inherent Parameters Affecting UVC Decontamination of Indicator Bacteria",
+    "cover-date": "2022-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biotechnology",
+            "@code": "1305",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Food Science",
+            "@code": "1106",
+            "@abbrev": "AGRI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Ecology",
+            "@code": "2303",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Microbiology and Biotechnology",
+            "@code": "2402",
+            "@abbrev": "IMMU"
+        }
+    ],
+    "keywords": [
+        "Chick-Watson inactivation model",
+        "death kinetic rate constant",
+        "indicator bacteria",
+        "modified Chick-Watson model",
+        "UVC inactivation",
+        "Weibull model"
+    ],
+    "authors": [
+        "Phetcharat Jaiaue",
+        "Jirabhorn Piluk",
+        "Kanokon Sawattrakool",
+        "Jesnipit Thammakes",
+        "Chacriya Malasuk",
+        "Sitanan Thitiprasert",
+        "Nuttha Thongchul",
+        "Siwaruk Siwamogsatham"
+    ],
+    "citedby-count": 3,
+    "ref-count": 17,
+    "ref-list": [
+        "Mathematical modeling used to evaluate the effect of UV-C light treatment on microorganisms in liquid foods",
+        "Recent advances on the application of UV-LED technology for microbial inactivation: progress and mechanism",
+        "UV-heat treatments for the control of foodborne microbial pathogens in chicken broth",
+        "UV-C radiation as a factor reducing microbiological contamination of fish meal",
+        "Impact of UV irradiation at full scale on bacterial communities in drinking water",
+        "The efficacy of vacuumultraviolet light decontamination of some common environmental pathogens",
+        "Inactivation of airborne bacteria using different UV sources: performance modeling, energy utilization, and endotoxin degradation",
+        "A focus on the death kinetics in predictive microbiology: benefits and limits of the most important models and some tools dealing with their application in foods",
+        "Modeling inactivation kinetics of liquid egg white exposed to UV-C irradiation",
+        "Structural analysis of Bacillus subtilis spore peptidoglycan during sporulation",
+        "Inactivation kinetics and efficiencies of UVLEDs against Pseudomonas aeruginosa, Legionella pneumophila, and surrogate microorganisms",
+        "Mechanisms investigation on bacterial inactivation through combinations of UV wavelengths",
+        "The cluster model of ultraviolet decontamination explains tailing kinetics",
+        "Evaluation of an ultraviolet C (UVC) light-emitting device for decontamination of high touch surfaces in hospital critical areas",
+        "Comparative evaluation of operating room terminal cleaning by two methods: focused multivector ultraviolet (FMUV) versus manual-chemical decontamination",
+        "UV-LED fluence determination by numerical method for microbial inactivation studies",
+        "Efficacy of ozone in combination with UV for inactivation of selective foodborne pathogen"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60004391",
+            "affilname": "Thailand National Science and Technology Development Agency",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004391",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "National Security and Dual-Use Technology Center",
+        "National Science and Technology Development Agency",
+        "Thailand Research Fund",
+        "National Research Council of Thailand"
+    ]
+}

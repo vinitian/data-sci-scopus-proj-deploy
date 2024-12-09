@@ -1,0 +1,82 @@
+{
+    "eid": "2-s2.0-85057759345",
+    "title": "Online Emerging Topic Detection on Twitter Using Random Forest with Stock Indicator Features",
+    "cover-date": "2018-09-06",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Classification",
+        "Online emerging topics detection",
+        "Random forest",
+        "Stock indicator"
+    ],
+    "authors": [
+        "Ekapop Verasakulvong",
+        "Peerapon Vateekul",
+        "Apivadee Piyatumrong",
+        "Chatchawal Sangkeettrakarn"
+    ],
+    "citedby-count": 4,
+    "ref-count": 13,
+    "ref-list": [
+        "Twittermonitor: Trend detection over the twitter stream",
+        "SigniTrend: Scalable detection of emerging topics in textual streams by hashed significance thresholds",
+        "Discovering key moments in social media streams",
+        "New concepts in technical trading systems",
+        "Lanes stochastics",
+        "Earthquake shakes twitter users: Real-time event detection by social sensors",
+        "Burst: A dynamic term weighting scheme for mining microblogging messages",
+        "An automatic topic ranking approach for event detection on microblogging messages",
+        "Event detection in twitter",
+        "See whats enBlogue: Real-time emergent topic identification in social media",
+        "Twevent: Segment-based event detection from tweets",
+        "Mining multi-label data"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011525",
+            "affilname": "Thailand National Electronics and Computer Technology Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011525",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

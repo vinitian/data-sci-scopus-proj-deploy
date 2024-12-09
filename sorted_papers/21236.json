@@ -1,0 +1,70 @@
+{
+    "eid": "2-s2.0-85069440912",
+    "title": "Parameterization of simultaneously stabilizing controllers for two-stage compensator systems",
+    "cover-date": "2019-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Closed-loop systems",
+        "Input characteristics Parameterization",
+        "Two-stage compensator systems"
+    ],
+    "authors": [
+        "Tatsuki Morikawa",
+        "Nicha Wongyimyong",
+        "Kotaro Hashikura",
+        "Takaaki Suzuki",
+        "David Banjerdpongchai",
+        "Kou Yamada"
+    ],
+    "citedby-count": 2,
+    "ref-count": 18,
+    "ref-list": [
+        "Control loop design for two-stage DC-DC converters with low voltage/highcurrent output",
+        "DC-bus design and controlfor a single-phase grid-connected renewable converter with a small energy storage component",
+        "Two-stage compensator design \u2013A factorization approach\u2013",
+        "Capability of two-stage compensator designs",
+        "Two-stage compensator designs with partial feedbacks, World Academy of Science, Engineeringand Technology",
+        "Simultaneous controller design for time-varying linear systems",
+        "A parameterization for the class of all stabilizing controllers forlinear minimum phase plants",
+        "Pole placement and the observer-based controller parameterization",
+        "Robust controller interpolation via parameterization",
+        "The class of strongly stabilizable plants",
+        "The parameterization of all robust stabilizing repetitive controllers",
+        "The parametrization forthe class of all proper internally stabilizing controllers for multiple-input/multiple-output minimumphase systems",
+        "The parameterizationof all robust stabilizing simple repetitive controllers for multiple-input/multiple-output plants",
+        "Simultaneous stabilizing controller with robust servo characteristic",
+        "Controller parameterization for SISO and MIMO plants withtime delay",
+        "Parametrization of all strictly causal stabilizing controllers",
+        "Parameterization of stabilizing controllers over commutative rings with application tomultidimensional systems"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Maebashi",
+            "@id": "60014756",
+            "affilname": "Gunma University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014756",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

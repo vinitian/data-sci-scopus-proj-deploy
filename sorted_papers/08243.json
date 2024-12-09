@@ -1,0 +1,108 @@
+{
+    "eid": "2-s2.0-85133423820",
+    "title": "Genome of Varanus salvator macromaculatus (Asian Water Monitor) Reveals Adaptations in the Blood Coagulation and Innate Immune System",
+    "cover-date": "2022-06-09",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Ecology, Evolution, Behavior and Systematics",
+            "@code": "1105",
+            "@abbrev": "AGRI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Ecology",
+            "@code": "2303",
+            "@abbrev": "ENVI"
+        }
+    ],
+    "keywords": [
+        "10\u00d7 linked-read sequencing",
+        "Asian water monitor lizard",
+        "draft genome assembly and annotation",
+        "PacBio sequencing",
+        "Varanus salvator"
+    ],
+    "authors": [
+        "Wanna Chetruengchai",
+        "Worapong Singchat",
+        "Chalurmpon Srichomthong",
+        "Adjima Assawapitaksakul",
+        "Kornsorn Srikulnath",
+        "Syed Farhan Ahmad",
+        "Chureerat Phokaew",
+        "Vorasuk Shotelersuk"
+    ],
+    "citedby-count": 0,
+    "ref-count": 34,
+    "ref-list": [
+        "Gut bacteria of water monitor lizard (Varanus salvator) are a potential source of antibacterial compound(s)",
+        "RaGOO: fast and accurate reference-guided scaffolding of draft genomes",
+        "Basic local alignment search tool",
+        "MAKER: an easy-to-use annotation pipeline designed for emerging model organism genomes",
+        "Highly species-specific centromeric repetitive DNA sequences in lizards: molecular cytogenetic characterization of a novel family of satellite DNA sequences isolated from the water monitor lizard (Varanus salvator macromaculatus, Platynota)",
+        "Contiguous and accurate de novo assembly of metazoan genomes with modest long read coverage",
+        "OrthoFinder: solving fundamental biases in whole genome comparisons dramatically improves orthogroup inference accuracy",
+        "Sensing of transposable elements by the antiviral innate immune system",
+        "Genome-wide synteny through highly sensitive sequence alignment: satsuma",
+        "Identifying and removing haplotypic duplication in primary genome assemblies",
+        "QUAST: quality assessment tool for genome assemblies",
+        "How and why chromosome inversions evolve",
+        "Canu: scalable and accurate long-read assembly via adaptive k-mer weighting and repeat separation",
+        "TimeTree: a resource for timelines, timetrees, and divergence times",
+        "Fast and accurate short read alignment with Burrows-Wheeler transform",
+        "Genome of the Komodo dragon reveals adaptations in the cardiovascular and chemosensory systems of monitor lizards",
+        "An algorithm for progressive multiple alignment of sequences with insertions",
+        "How to usefully compare homologous plant genes and chromosomes as DNA sequences",
+        "A fast, lock-free approach for efficient parallel counting of occurrences of k-mers",
+        "IQ-TREE: a fast and effective stochastic algorithm for estimating maximum-likelihood phylogenies",
+        "Redundans: an assembly pipeline for highly heterozygous genomes",
+        "InterProScan: protein domains identifier",
+        "GenomeScope 2.0 and Smudgeplot for reference-free profiling of polyploid genomes",
+        "Merqury: reference-free quality, completeness, and phasing assessment for genome assemblies",
+        "\u201cImmunology of Reptiles,\u201d",
+        "Commercial harvesting of giant lizards: the biology of water monitors Varanus salvator in southern Sumatra",
+        "Karyotype evolution in monitor lizards: cross-species chromosome mapping of cDNA reveals highly conserved synteny and gene order in the Toxicofera clade",
+        "PAL2NAL: robust conversion of protein sequence alignments into the corresponding codon alignments",
+        "PANTHER: a browsable database of gene products organized by biological function, using curated protein family and subfamily classification",
+        "The coagulation system and its function in early immune defense",
+        "Pilon: an integrated tool for comprehensive microbial variant detection and genome assembly improvement",
+        "OrthoVenn2: a web server for whole-genome comparison and annotation of orthologous clusters across multiple species"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60021944",
+            "affilname": "Kasetsart University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021944",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "TSRI Fund",
+        "Chulalongkorn University",
+        "Health Systems Research Institute"
+    ]
+}

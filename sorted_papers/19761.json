@@ -1,0 +1,154 @@
+{
+    "eid": "2-s2.0-85132875770",
+    "title": "Data efficient reinforcement learning and adaptive optimal perimeter control of network traffic dynamics",
+    "cover-date": "2022-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Automotive Engineering",
+            "@code": "2203",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Transportation",
+            "@code": "3313",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Management Science and Operations Research",
+            "@code": "1803",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "Adaptive optimal perimeter control",
+        "Closed-loop stability",
+        "Experience replay",
+        "Heterogeneous data resolution",
+        "Integral reinforcement learning",
+        "Macroscopic fundamental diagram"
+    ],
+    "authors": [
+        "C. Chen",
+        "Y. P. Huang",
+        "W. H.K. Lam",
+        "T. L. Pan",
+        "S. C. Hsu",
+        "A. Sumalee",
+        "R. X. Zhong"
+    ],
+    "citedby-count": 8,
+    "ref-count": 67,
+    "ref-list": [
+        "Analytical optimal solution of perimeter traffic flow control based on MFD dynamics: A Pontryagin's maximum principle approach",
+        "Perimeter and boundary flow control in multi-reservoir heterogeneous networks",
+        "Nonlinear H2/H-Infinity Constrained Feedback Control: A Practical Design Approach using Neural Networks",
+        "Nearly optimal control laws for nonlinear systems with saturating actuators using a neural network HJB approach",
+        "Neurodynamic programming and zero-sum games for constrained control systems",
+        "A simulation-based traffic signal control for congested urban traffic networks",
+        "Urban gridlock: Macroscopic modeling and mitigation approaches",
+        "Macroscopic relations of urban traffic variables: Bifurcations, multivaluedness and instability",
+        "An analytical approximation for the macroscopic fundamental diagram of urban traffic",
+        "Perimeter control for congested areas of a large-scale traffic network: A method against state degradation risk",
+        "Feedback Control of Dynamic Systems",
+        "Hierarchical perimeter control with guaranteed stability for dynamically coupled heterogeneous urban traffic",
+        "Analysis of traffic flow characteristics on signalized arterials",
+        "Clockwise hysteresis loops in the macroscopic fundamental diagram: an effect of network instability",
+        "On the impacts of locally adaptive signal control on urban network stability and the macroscopic fundamental diagram",
+        "The effect of variability of urban systems characteristics in the network capacity",
+        "Existence of urban-scale macroscopic fundamental diagrams: Some experimental findings",
+        "Optimal perimeter control for two urban regions with macroscopic fundamental diagrams: A model predictive approach",
+        "The mechanism of a road network",
+        "Robust constrained control of uncertain macroscopic fundamental diagram networks",
+        "Optimal coupled and decoupled perimeter control in one-region cities",
+        "Optimal perimeter control synthesis for two urban regions with aggregate boundary queue dynamics",
+        "On the stability of traffic perimeter control in two-region urban cities",
+        "Adaptive perimeter traffic control of urban road networks based on MFD model with time delays",
+        "Cooperative traffic control of a mixed network with two urban regions and a freeway",
+        "Robust perimeter control design for an urban region",
+        "Adaptive perimeter control for multi-region accumulation-based models with state delays",
+        "Derivation of a fundamental diagram for urban traffic flow",
+        "The SCOOT on-line traffic signal optimisation technique",
+        "Investigating the shape of the macroscopic fundamental diagram using simulation data",
+        "On the spatial partitioning of urban transportation networks",
+        "Exploiting the fundamental diagram of urban networks for feedback-based gating",
+        "Controller design for gating traffic control in presence of time-delay in urban road networks",
+        "Urban congestion gating control based on reduced operational network fundamental diagrams",
+        "Multiple concentric gating traffic control in large-scale urban networks",
+        "Flow: Deep reinforcement learning for control in sumo",
+        "Enhancing model-based feedback perimeter control with data-driven online adaptive optimization",
+        "Macroscopic fundamental diagrams: A cross-comparison of estimation methods",
+        "Data-driven model free adaptive perimeter control for multi-region urban traffic networks with route choice",
+        "Optimal Control",
+        "Robust perimeter control with cordon queues and heterogeneous transfer flows",
+        "Understanding traffic capacity of urban networks",
+        "Microscopic traffic simulation using sumo",
+        "The sydney cooridinated adaptive traffic (SCAT) system-principles, methodology, algorithm",
+        "Constrained optimization and control of nonlinear systems: new results in optimal control",
+        "Optimal control of nonlinear continuous-time systems: design of bounded controllers via generalized nonquadratic functionals",
+        "Resilient multivariable perimeter control of urban road networks under cyberattacks",
+        "Human-level control through deep reinforcement learning",
+        "Integral reinforcement learning and experience replay for adaptive optimal control of partially-unknown constrained-input continuous-time systems",
+        "Review of road traffic control strategies",
+        "Dynamics of heterogeneity in urban networks: aggregated traffic modeling and hierarchical control",
+        "Data driven model free adaptive iterative learning perimeter control for large-scale urban road networks",
+        "Dynamic clustering and propagation of congestion in heterogeneously congested urban traffic networks",
+        "An extended Kalman filter approach for real-time state estimation in multi-region MFD urban networks",
+        "Mastering the game of Go with deep neural networks and tree search",
+        "Nonlinear moving horizon estimation for large-scale urban road networks",
+        "Stabilization of city-scale road traffic networks via macroscopic fundamental diagram-based model predictive perimeter control",
+        "Modeling, estimation, and control in large-scale urban road networks with remaining travel distance dynamics",
+        "Neuro-dynamic programming for optimal control of macroscopic fundamental diagram systems",
+        "Reinforcement Learning: An Introduction",
+        "Adaptive optimal control for continuous-time linear systems based on policy iteration",
+        "Approximating dynamic equilibrium conditions with macroscopic fundamental diagrams",
+        "Robust perimeter control for two urban regions with macroscopic fundamental diagrams: a control-lyapunov function approach",
+        "Boundary conditions and behavior of the macroscopic fundamental diagram based network traffic dynamics: A control systems perspective",
+        "Optimal and robust strategies for freeway traffic management under demand and supply uncertainties: an overview and general theory",
+        "Two-level hierarchical model-based predictive control for large-scale urban traffic networks",
+        "Model-free perimeter metering control for two-region urban networks using deep reinforcement learning"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Guangzhou",
+            "@id": "60021182",
+            "affilname": "Sun Yat-Sen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021182",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "60008928",
+            "affilname": "The Hong Kong Polytechnic University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008928",
+            "affiliation-country": "Hong Kong"
+        },
+        {
+            "affiliation-city": "Shenzhen",
+            "@id": "60000937",
+            "affilname": "Shenzhen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000937",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": [
+        "National Natural Science Foundation of China",
+        "Research Grants Council of Hong Kong",
+        "National Key R&D Program of China"
+    ]
+}

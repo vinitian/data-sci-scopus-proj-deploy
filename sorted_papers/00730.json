@@ -1,0 +1,97 @@
+{
+    "eid": "2-s2.0-85149622595",
+    "title": "Heterogeneous data analysis of hypertrophic cardiomyopathy to prioritize important genes",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "gene expression",
+        "hypertrophic cardiomyopathy",
+        "microarray",
+        "ranking method",
+        "RNA-Seq"
+    ],
+    "authors": [
+        "Panisa Janyasupab",
+        "Apichat Suratanee",
+        "Kitiporn Plaimas"
+    ],
+    "citedby-count": 0,
+    "ref-count": 20,
+    "ref-list": [
+        "Diagnosis and evaluation of hypertrophic cardiomyopathy: JACC state-of-the-art review",
+        "Integration of RNA-Seq data with heterogeneous microarray data for breast cancer profiling",
+        "Integration of transcriptomic data identifies key hallmark genes in hypertrophic cardiomyopathy",
+        "A forward-looking approach to compare ranking methods for sports",
+        "Network diffusion with centrality measures to identify disease-related genes",
+        "A novel application of PageRank and user preference algorithms for assessing the relative performance of track athletes in competition",
+        "Properties of sports ranking methods",
+        "A network diffusion ranking family that includes the methods of Markov, Massey, and Colley",
+        "NCBI GEO: Archive for functional genomics data sets-update",
+        "LIMMA: Linear models for microarray data",
+        "Statistical models applied to the rating of sports teams",
+        "The Perron-Frobenius theorem and the ranking of football teams",
+        "A proposed voting scheme to reduce the sensitivity of the Markov method",
+        "The anatomy of a large-scale hypertextual web search engine",
+        "Identification of key modules and hub genes in hypertrophic cardiomyopathy based on integrative weighted gene coexpression",
+        "Microtubule associated protein 4 phosphorylation leads to pathological cardiac remodeling in mice",
+        "Association between non-coding polymorphisms of HOPX gene and syncope in hypertrophic cardiomyopathy"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Faculty of Applied Science",
+        "King Mongkut\u2019s",
+        "King Mongkut's University of Technology North Bangkok"
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "eid": "2-s2.0-85070566526",
+    "title": "Development of automated platform for image capturing and counting algorithm for viral plaque",
+    "cover-date": "2019-02-23",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Image counting",
+        "Image segmentation",
+        "Optical Inspection, Well plate",
+        "Viral plaque",
+        "Watersheds"
+    ],
+    "authors": [
+        "Pannawich Premsattham",
+        "Saran Salakij",
+        "Siwaporn Boonyasuppayalorn",
+        "Gridsada Phanomchoeng"
+    ],
+    "citedby-count": 3,
+    "ref-count": 13,
+    "ref-list": [
+        "Simplified dengue virus microwell plaque assay using an automated quantification program",
+        "Adaptive gain control for a two-axis, H-frame-type, positioningsystem",
+        "Contouring accuracy improvement using a tangential contouring controller with a fuzzy logic-based feedrate regulator",
+        "Contouring accuracy improvement using cross-coupled control and position error compensator",
+        "Research of a novel xy-table based on error compensation",
+        "Setting up PID DC motor speed control alteration parameters using particle swarm optimization strategy",
+        "Tuning of PID controller using Ziegler-Nichols method for speed control of DC motor",
+        "Image segmentation of ovitraps for automatic counting of Aedes aegypti eggs",
+        "The watershed transformation applied to image segmentation",
+        "Segmentation of overlapping/aggregating nuclei cells in biological images",
+        "Red blood cell segmentation using masking and watershed algorithm: A preliminary study",
+        "Segmenting overlapping cell nuclei in digital histopathology images"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

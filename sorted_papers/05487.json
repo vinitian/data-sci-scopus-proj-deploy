@@ -1,0 +1,87 @@
+{
+    "eid": "2-s2.0-85125389874",
+    "title": "Application for Roof Type Analysis and Component Counting from Roof Plan Image",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Strategy and Management",
+            "@code": "1408",
+            "@abbrev": "BUSI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Corner Detection",
+        "Image processing",
+        "Roof plan image",
+        "Roof type analysis"
+    ],
+    "authors": [
+        "T. Arphacharas",
+        "N. Cooharojananone",
+        "P. Kruachottikul",
+        "P. Wantanasiri",
+        "D. Mahasiriwattanakij"
+    ],
+    "citedby-count": 0,
+    "ref-count": 10,
+    "ref-list": [
+        "Roof Type Classification Using Deep Convolutional Neural Networks on Low Resolution Photogrammetric Point Clouds from Aerial Imagery",
+        "A Fast Level Set Algorithm for Building Roof Recognition from High Spatial Resolution Panchromatic Images",
+        "Automatic urban building boundary extraction from high resolution aerial images using an innovative model of active contours",
+        "Automatic rooftop extraction in nadir aerial imagery of suburban regions using corners and variational level set evolution",
+        "Roof Classification from 3-D LiDAR Point Clouds Using Multiview CNN with Self-Attention",
+        "A Hierarchical Connection Graph Algorithm for Gable-Roof Detection in Aerial Image",
+        "Spectral Clustering of Straight-Line Segments for Roof Plane Extraction from Airborne LiDAR Point Clouds",
+        "K-Plane-Based Classification of Airborne LiDAR Data for Accurate Building Roof Measurement",
+        "Topological structural analysis of digitized binary images by border following",
+        "Bridge Sub Structure Defect Inspection Assistance by using Deep Learning"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "127781626",
+            "affilname": "SCG Roofing",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/127781626",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

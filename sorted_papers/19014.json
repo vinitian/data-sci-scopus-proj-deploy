@@ -1,0 +1,105 @@
+{
+    "eid": "2-s2.0-85131746326",
+    "title": "Travel Time Prediction on Long-Distance Road Segments in Thailand",
+    "cover-date": "2022-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Process Chemistry and Technology",
+            "@code": "1508",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Fluid Flow and Transfer Processes",
+            "@code": "1507",
+            "@abbrev": "CENG"
+        }
+    ],
+    "keywords": [
+        "GPS data analytics",
+        "machine learning",
+        "smart mobility",
+        "travel time prediction"
+    ],
+    "authors": [
+        "Rathachai Chawuthai",
+        "Nachaphat Ainthong",
+        "Surasee Intarawart",
+        "Niracha Boonyanaet",
+        "Agachai Sumalee"
+    ],
+    "citedby-count": 2,
+    "ref-count": 29,
+    "ref-list": [
+        "The emerging data\u2013driven Smart City and its innovative applied solutions for sustainability: The cases of London and Barcelona",
+        "Survey on traffic prediction in smart cities",
+        "Real-time traffic accidents post-impact prediction: Based on crowdsourcing data",
+        "Travel time prediction with LSTM neural network",
+        "Short-term travel-time prediction on highway: A review on model-based approach",
+        "Machine Learning Based Short-Term Travel Time Prediction: Numerical Results and Comparative Analyses",
+        "Bluetooth Traffic Data for Urban Travel Time Forecast",
+        "Real-time road traffic state prediction based on ARIMA and Kalman filter",
+        "Forecasting short-term relative changes in travel time on a freeway",
+        "Travel Time Prediction in a Multimodal Freight Transport Relation Using Machine Learning Algorithms",
+        "Urban Arterial Travel Time Prediction Using Support Vector Regression",
+        "Application on traffic flow prediction of machine learning in intelligent transportation",
+        "An LSTM-Based Method with Attention Mechanism for Travel Time Prediction",
+        "Towards Attention-Based Convolutional Long Short-Term Memory for Travel Time Prediction of Bus Journeys",
+        "Bus Arrival Time Estimation for Public Transportation System Using LSTM",
+        "Joint prediction of next location and travel time from urban vehicle trajectories using long short-term memory neural networks",
+        "Learning heterogeneous traffic patterns for travel time prediction of bus journeys",
+        "Research on Lane-level Travel Time Prediction Method Based on Gated Recurrent Neural Network",
+        "DeepTRANS: A deep learning system for public bus travel time estimation using traffic forecasting",
+        "Constructing Cooperative Intelligent Transport Systems for Travel Time Prediction with Deep Learning Approaches",
+        "Bus Arrival Time Prediction with LSTM Neural Network",
+        "Neural network model based on travel planning for travel time prediction",
+        "Developing a Neural\u2013Kalman Filtering Approach for Estimating Traffic Stream Density Using Probe Vehicle Data",
+        "Kalman-LSTM Model for Short-term Traffic Flow Forecasting",
+        "Support vector regression",
+        "A review on the long short-term memory model",
+        "Design of Deep Convolutional Neural Network Architectures for Denoising Electrocardiographic Signals",
+        "Numerical Differentiation of Noisy Data: A Unifying Multi-Objective Optimization Framework"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ladkrabang Bangkok",
+            "@id": "60021543",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021543",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

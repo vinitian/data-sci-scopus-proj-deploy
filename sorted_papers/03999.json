@@ -1,0 +1,166 @@
+{
+    "eid": "2-s2.0-85128044050",
+    "title": "A Skin Cancer Classification Approach using GAN and RoI-Based Attention Mechanism",
+    "cover-date": "2023-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Generative adversarial networks",
+        "Image segmentation",
+        "RoI-Based Attention Mechanism",
+        "Skin cancer"
+    ],
+    "authors": [
+        "Arthur A.M. Teodoro",
+        "Douglas H. Silva",
+        "Renata L. Rosa",
+        "Muhammad Saadi",
+        "Lunchakorn Wuttisittikulkij",
+        "Rao Asad Mumtaz",
+        "Dem\u00f3stenes Z. Rodr\u00edguez"
+    ],
+    "citedby-count": 1,
+    "ref-count": 79,
+    "ref-list": [
+        "Global cancer statistics 2020: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries",
+        "Recognising skin cancer in primary care",
+        "Skin cancer detection technology",
+        "Dermoscopy for skin cancer detection",
+        "Dermoscopy for melanoma",
+        "Training primary care physicians in dermoscopy for skin cancer detection: a scoping review",
+        "Diagnostic accuracy of dermoscopy",
+        "Voice quality assessment in mobile devices considering different fading models",
+        "A novel dissimilarity of activity biomarker and functional connectivity analysis for the epilepsy diagnosis",
+        "Big data analytics for critical information classification in online social networks using classifier chains",
+        "Event detection system based on user behavior changes in online social networks: Case of the covid-19 pandemic",
+        "An analysis of image features extracted by cnns to design classification models for covid-19 and non-covid-19",
+        "Blockchain-empowered secure spectrum sharing for 5g heterogeneous networks",
+        "Brain tumor classification using deep CNN features via transfer learning",
+        "Computer-assisted medical image classification for early diagnosis of oral cancer employing deep learning algorithm",
+        "Guided soft attention network for classification of breast cancer histopathology images",
+        "Deep learning assisted efficient AdaBoost algorithm for breast cancer detection and early diagnosis",
+        "A CNN-based model for early melanoma detection",
+        "Melanoma diagnosis using deep learning techniques on dermatoscopic images",
+        "Skin cancer classification using transfer learning",
+        "Deep convolutional neural network (DCNN) for skin cancer classification",
+        "Performance of multi layer perceptron and deep neural networks in skin cancer classification",
+        "B-SegNet",
+        "Dense encoder-decoder\u2013based architecture for skin lesion segmentation",
+        "(",
+        "Data collection using unmanned aerial vehicles for internet of things platforms",
+        "An online cognitive intervention tool for the patients with mild cognitive impairment using virtual reality",
+        "Energy-efficient resource allocation for energy harvesting-based cognitive machine-to-machine communications",
+        "Generative adversarial networks",
+        "Computer-aided diagnosis of skin cancer based on soft computing techniques",
+        "Computer-aided diagnosis of skin cancer: A review",
+        "Prevalent signs and symptoms in patients with skin cancer and nursing diagnoses",
+        "Optimization of the convolutional neural networks for automatic detection of skin cancer",
+        "Skin lesion synthesis with generative adversarial networks",
+        "Controllable skin lesion synthesis using texture patches, b\u00e9zier curves and conditional gans",
+        "A gan-based image synthesis method for skin lesion classification",
+        "High-resolution image synthesis and semantic manipulation with conditional gans",
+        "Conditional generative adversarial nets",
+        "A style-based generator architecture for generative adversarial networks",
+        "Latent space manipulation for high-resolution medical image synthesis via the stylegan",
+        "A study analysis on the different image segmentation techniques",
+        "A survey on medical image segmentation",
+        "Lightweight pvidnet: a priority vehicles detection network model based on deep learning for intelligent traffic lights",
+        "Skin lesion segmentation based on improved u-net",
+        "Light-field imaging reconstruction using deep learning enabling intelligent autonomous transportation system",
+        "U-net: Convolutional networks for biomedical image segmentation",
+        "Fully convolutional networks for semantic segmentation",
+        "A drl agent for jointly optimizing computation offloading and resource allocation in mec",
+        "Rtfn: A robust temporal feature network for time series classification",
+        "Attention wave-u-net for speech enhancement",
+        "Automatic COVID-19 CT segmentation using u-net integrated spatial and channel attention mechanism",
+        "On the automatic generation of medical imaging reports",
+        "Medical transformer: Gated axial-attention for medical image segmentation",
+        "Convolutional neural network based alzheimer\u2019s disease classification from magnetic resonance brain images",
+        "Sentimeter-br: A new social web analysis metric to discover consumers\u2019 sentiment",
+        "Trcsvm: A novel approach for the classification of melanoma skin cancer using transfer learning",
+        "Recommendation system using sentiment analysis considering the polarity of the adverb",
+        "A cnn approach for skin cancer classification",
+        "Vgg16-t: A novel deep convolutional neural network with boosting to identify pathological type of lung cancer in early stage by ct images",
+        "Efficientnet: Rethinking model scaling for convolutional neural networks",
+        "Hard-attention for scalable image classification",
+        "A patient-centric dataset of images and metadata for identifying melanomas using clinical context",
+        "The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions",
+        "Skin hair removal in dermoscopic images using soft color morphology",
+        "A fuzzy filter for high-density salt and pepper noise removal",
+        "Differentiable augmentation for data-efficient GAN training",
+        "Adam: A method for stochastic optimization",
+        "Dilated convolution neural network with leakyrelu for environmental sound classification",
+        "Analyzing and improving the image quality of stylegan",
+        "Decoupled weight decay regularization",
+        "Gans trained by a two time-scale update rule converge to a local nash equilibrium",
+        "Ensemble of deep convolutional neural network for skin lesion classification in dermoscopy images",
+        "Transfer learning using a multi-scale and multi-network ensemble for skin lesion classification"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Peshawar",
+            "@id": "60172655",
+            "affilname": "Khyber Medical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60172655",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Lahore",
+            "@id": "60103839",
+            "affilname": "University of Central Punjab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103839",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Lavras",
+            "@id": "60017841",
+            "affilname": "Universidade Federal de Lavras",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017841",
+            "affiliation-country": "Brazil"
+        }
+    ],
+    "funding": []
+}

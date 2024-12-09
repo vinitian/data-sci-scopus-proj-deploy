@@ -1,0 +1,89 @@
+{
+    "eid": "2-s2.0-85129998932",
+    "title": "Biomarker-Based Management of AKI: Fact or Fantasy?",
+    "cover-date": "2022-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Physiology",
+            "@code": "1314",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Nephrology",
+            "@code": "2727",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Physiology (medical)",
+            "@code": "2737",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Urology",
+            "@code": "2748",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Acute kidney injury",
+        "Biomarkers"
+    ],
+    "authors": [
+        "Marlies Ostermann",
+        "Emma Karsten",
+        "Nuttha Lumlertgul"
+    ],
+    "citedby-count": 5,
+    "ref-count": 19,
+    "ref-list": [
+        "Assessment of KDIGO definitions in patients with histopathologic evidence of acute renal disease",
+        "Biomarkers and surrogate endpoints: preferred definitions and conceptual framework",
+        "Molecular nephrology: types of acute tubular injury",
+        "Association between urinary dickkopf-3, acute kidney injury, and subsequent loss of kidney function in patients undergoing cardiac surgery: an observational cohort study",
+        "Prevention of cardiac surgery-associated AKI by implementing the KDIGO guidelines in high risk patients identified by biomarkers: the Prev AKI randomized controlled trial",
+        "Biomarker-guided intervention to prevent acute kidney injury after major surgery: the prospective randomized BigpAK Study",
+        "Prevention of cardiac surgery-associated acute kidney injury by implementing the KDIGO guidelines in high-risk patients identified by biomarkers: the PrevAKI-multicenter randomized controlled trial",
+        "Diagnostic and prognostic stratification in the emergency department using urinary biomarkers of nephron damage: a multicenter prospective cohort study",
+        "Worsening renal function in patients with acute heart failure undergoing aggressive diuresis is not associated with tubular injury",
+        "Recommendations on acute kidney injury biomarkers from the acute disease quality initiative consensus conference: a consensus statement",
+        "Biomarkers predict progression of acute kidney injury after cardiac surgery",
+        "Proenkephalin A 119-159 (Penkid) is an early biomarker of septic acute kidney injury: the kidney in sepsis and septic shock (Kid-SSS) study",
+        "Identification and validation of biomarkers of persistent acute kidney injury: the RUBY study",
+        "Biomarkers for prediction of renal replacement therapy in acute kidney injury: a systematic review and meta-analysis",
+        "Renal biomarker qualification submission: a dialog between the FDA-EMEA and predictive safety testing consortium",
+        "One-year prognosis of kidney injury at discharge from the ICU: a multicenter observational study",
+        "Tissue inhibitor metalloproteinase-2 (TIMP-2)IGF-binding protein-7 (IGFBP7) levels are associated with adverse long-term outcomes in patients with AKI",
+        "The Japanese clinical practice guideline for acute kidney injury 2016",
+        "Clinical use of (TIMP-2) \u00d7 (IGFBP7) biomarker testing to assess risk of acute kidney injury in critical care: guidance from an expert panel"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "London",
+            "@id": "60005518",
+            "affilname": "Guy's and St Thomas' NHS Foundation Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005518",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "NIDDK-funded University of Alabama"
+    ]
+}

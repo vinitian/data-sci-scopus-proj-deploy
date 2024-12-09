@@ -1,0 +1,63 @@
+{
+    "eid": "2-s2.0-85077494795",
+    "title": "Cloud Infrastructure Design Model for Green Smart City: Case Study of Electricity Generating Authority of Thailand",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Cloud infrastructure",
+        "Design model",
+        "Green computing",
+        "Renewable energy",
+        "Smart city",
+        "Smart grid"
+    ],
+    "authors": [
+        "Ririnda Thirasupa",
+        "Chaiyachet Saivichit",
+        "Chaodit Aswakul"
+    ],
+    "citedby-count": 3,
+    "ref-count": 15,
+    "ref-list": [
+        "Development and reliability testing of IEEE1888 gateway for ZigBee wireless sensor network in Chulalongkorn University\u2019s building energy management system (Excellent paper award)",
+        "Development of smart meter for building energy management system based on the IEEE 1888 standard with Wi-Fi communication",
+        "Optimal cloud computing resource allocation for demand side management",
+        "Pack your sack for the cloud",
+        "Energy-aware virtual machine allocation for cloud with resource reservation",
+        "Energy-efficient management of data center resources for cloud computing: A vision, architectural elements, and open challenges",
+        "Matching renewable energy supply and demand in green datacenters",
+        "Distributed (Green) data centers: A new concept for energy, computing, and telecommunications",
+        "Green-aware workload scheduling in geographically distributed data centers",
+        "Evaluation of containers as a virtualisation alternative for HEP workloads",
+        "Application container security guide"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nontaburi",
+            "@id": "60022674",
+            "affilname": "Electricity Generating Authority of Thailand",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022674",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Ministry of Energy",
+        "MOE",
+        "Energy Policy and Planning Office",
+        "Electricity Generating Authority of Thailand"
+    ]
+}

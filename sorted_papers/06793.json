@@ -1,0 +1,141 @@
+{
+    "eid": "2-s2.0-85099006661",
+    "title": "MetGEMs Toolbox: Metagenome-scale models as integrative toolbox for uncovering metabolic functions and routes of human gut microbiome",
+    "cover-date": "2021-01-06",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Ecology, Evolution, Behavior and Systematics",
+            "@code": "1105",
+            "@abbrev": "AGRI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Ecology",
+            "@code": "2303",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Cellular and Molecular Neuroscience",
+            "@code": "2804",
+            "@abbrev": "NEUR"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Preecha Patumcharoenpol",
+        "Massalin Nakphaichit",
+        "Gianni Panagiotou",
+        "Anchalee Senavonge",
+        "Narissara Suratannon",
+        "Wanwipa Vongsangnak"
+    ],
+    "citedby-count": 6,
+    "ref-count": 41,
+    "ref-list": [
+        "The role of the microbiome for human health: from basic science to clinical applications",
+        "Gut microbiome structure and metabolic activity in inflammatory bowel disease",
+        "Gut microbiota profile in children affected by atopic dermatitis and evaluation of intestinal persistence of a probiotic mixture",
+        "Faecalibacterium prausnitzii subspecies\u2013level dysbiosis in the human gut microbiome underlying atopic dermatitis",
+        "The microbial metabolites, short-chain fatty acids, regulate colonic Treg cell homeostasis",
+        "Colorectal cancer and the human gut microbiome: reproducibility with whole-genome shotgun sequencing",
+        "Species-level functional profiling of metagenomes and metatranscriptomes",
+        "Microbial abundance, activity and population genomic profiling with mOTUs2",
+        "Predictive functional profiling of microbial communities using 16S rRNA marker gene sequences",
+        "PICRUSt2 for prediction of metagenome functions",
+        "Tax4Fun2: a R-based tool for the rapid prediction of habitat-specific functional profiles and functional redundancy based on 16S rRNA gene marker gene sequences",
+        "Piphillin: improved prediction of metagenomic content by direct inference from human microbiomes",
+        "CowPI: a rumen microbiome focussed version of the PICRUSt functional inference software",
+        "PanFP: pangenome-based functional profiles for microbial communities",
+        "Microbial communities can be described by metabolic structure: A general framework and application to a seasonally variable, depth-stratified microbial community from the coastal West Antarctic Peninsula",
+        "BugBase predicts organism level microbiome phenotypes",
+        "Removing contaminants from databases of draft genomes",
+        "Likelihood-based gene annotations for gap filling and quality assessment in genome-scale metabolic models",
+        "How accurate is automated gap filling of metabolic models?",
+        "Generation of genome-scale metabolic reconstructions for 773 members of the human gut microbiota",
+        "Systematic assessment of secondary bile acid metabolism in gut microbes reveals distinct metabolic capabilities in inflammatory bowel disease",
+        "Metabolic functions of gut microbes associate with efficacy of tumor necrosis factor antagonists in patients with inflammatory bowel diseases",
+        "Nutritional preferences of human gut bacteria reveal their metabolic idiosyncrasies",
+        "Parkinson\u2019s disease-associated alterations of the gut microbiome predict disease-relevant changes in metabolic functions",
+        "Structure, function and diversity of the healthy human microbiome",
+        "Interactive Tree Of Life (iTOL) v4: recent updates and new developments",
+        "Species abundance information improves sequence taxonomy classification accuracy",
+        "Consumption of Fermented Foods Is Associated with Systematic Differences in the Gut Microbiome and Metabolome",
+        "Butyrate-producing bacteria supplemented in vitro to Crohn\u2019s disease patient microbiota increased butyrate production and enhanced intestinal epithelial barrier integrity",
+        "Macronutrient metabolism by the human gut microbiome: major fermentation by-products and their impact on host health",
+        "The relationship between cigarette smoking and the tongue microbiome in an East Asian population",
+        "Multi-omics of the gut microbial ecosystem in inflammatory bowel diseases",
+        "Urban diets linked to gut microbiome and metabolome alterations in children: A comparative cross-sectional study in Thailand",
+        "The role of microbial amino acid metabolism in host metabolism",
+        "The immune modifying effects of amino acids on gut-associated lymphoid tissue",
+        "Improvements to PATRIC, the all-bacterial bioinformatics database and analysis resource center",
+        "DADA2: high-resolution sample inference from Illumina amplicon data",
+        "Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2",
+        "An improved Greengenes taxonomy with explicit ranks for ecological and evolutionary analyses of bacteria and archaea",
+        "Current guidelines for the evaluation and management of atopic dermatitis\u2013a comparison of the Joint Task Force Practice Parameter and American Academy of Dermatology Guidelines",
+        "A parsimony approach to biological pathway reconstruction/inference for genomes and metagenomes"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60021944",
+            "affilname": "Kasetsart University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021944",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "60114497",
+            "affilname": "The University of Hong Kong, State Key Laboratory of Pharmaceutical Biotechnology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60114497",
+            "affiliation-country": "Hong Kong"
+        },
+        {
+            "affiliation-city": "Jena",
+            "@id": "60072518",
+            "affilname": "Hans-Knoll-Institute (HKI)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60072518",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "60006541",
+            "affilname": "The University of Hong Kong",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006541",
+            "affiliation-country": "Hong Kong"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

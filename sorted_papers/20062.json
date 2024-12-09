@@ -1,0 +1,90 @@
+{
+    "eid": "2-s2.0-85140738980",
+    "title": "A Case Study to Predict Structural Health of a Gasoline Pipeline Using ANN and GPR Approaches",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Automotive Engineering",
+            "@code": "2203",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Aerospace Engineering",
+            "@code": "2202",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Fluid Flow and Transfer Processes",
+            "@code": "1507",
+            "@abbrev": "CENG"
+        }
+    ],
+    "keywords": [
+        "Artificial neural networks",
+        "Oil and gas",
+        "Pipeline",
+        "Prediction",
+        "Regression"
+    ],
+    "authors": [
+        "Nagoor Basha Shaik",
+        "Srinivasa Rao Pedapati",
+        "Abdul Rahim Othman",
+        "Faizul Azly B.A. Dzubir"
+    ],
+    "citedby-count": 1,
+    "ref-count": 20,
+    "ref-list": [
+        "An integration method using kernel principal component analysis and cascade support vector data description for pipeline leak detection with multiple operating modes",
+        "Prediction of remaining strength of corroded pressurised pipelines",
+        "Life prediction estimation of an underground pipeline using alternate current impedance and reliability analysis",
+        "Prediction of corrosion defect growth on operating pipelines",
+        "Forecast of the remaining life of corrosive oil and gas pipelines based on Grey-Markov theory",
+        "Fatigue life prediction due to slug flow in extra long submarine gas pipelines",
+        "Predictive model for pitting corrosion in buried oil and gas pipelines",
+        "Predicting corrosion remaining life of underground pipelines with a mechanically-based probabilistic model",
+        "A model for predicting failure of oil pipelines",
+        "Assessment of remaining useful life of pipelines using different artificial neural networks models",
+        "Remaining-life prediction and reliability assessment of buried gas pipelines under corrosion and alternating loads",
+        "An ANN-based failure pressure prediction method for buried high-strength pipes with stray current corrosion defect",
+        "Application of ANN to predict the apparent viscosity of waxy crude oil",
+        "Wax deposition and prediction in petroleum pipelines",
+        "Modeling failure of oil pipelines",
+        "A feed-forward back propagation neural network approach to predict the life condition of crude oil pipeline",
+        "Remaining useful life prediction of a piping system using artificial neural networks: A case study",
+        "An intelligent model to predict the life condition of crude oil pipelines using artificial neural networks"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Seri Iskandar",
+            "@id": "60001278",
+            "affilname": "Universiti Teknologi PETRONAS",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001278",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Kuala Lumpur",
+            "@id": "123796692",
+            "affilname": "Petroliam Nasional Berhad",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/123796692",
+            "affiliation-country": "Malaysia"
+        }
+    ],
+    "funding": []
+}

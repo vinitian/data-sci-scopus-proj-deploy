@@ -1,0 +1,59 @@
+{
+    "eid": "2-s2.0-85134256719",
+    "title": "A Position-Sensorless Control of Doubly Fed Induction Machine by Stator-Equation-Based Adaptive Reduced-Order Observer",
+    "cover-date": "2022-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Adaptive reduced-order observer",
+        "doubly fed induction machines (DFIM)",
+        "robustness",
+        "sensorless control",
+        "stability",
+        "stator equation",
+        "tracking performance"
+    ],
+    "authors": [
+        "Suppasorn Munphal",
+        "Surapong Suwankawin"
+    ],
+    "citedby-count": 0,
+    "ref-count": 21,
+    "ref-list": [
+        "Overview of control systems for the operation of DFIGs in wind energy applications",
+        "An improved direct decoupled power control of doubly fed induction machine without rotor position sensor and with robustness to parameter variation",
+        "Sensorless direct slip position estimator of a DFIM based on the air gap pq vector-Sensitivity study",
+        "MRAS observers for sensorless control of doubly-fed induction generators",
+        "Sensorless control of doubly-fed induction generators using a rotor-current-based MRAS observer",
+        "AnMRAS observer for sensorless DFIM drives with direct estimation of the torque and flux rotor current components",
+        "Simple low-speed sensorless dual DTC for double fed induction machine drive",
+        "Air-gap-power-vector-based sensorless method for DFIG control without flux estimator",
+        "A rotor-current-based slip angle estimator for grid-connected doubly fed induction generator requiring the stator inductance only",
+        "Stator current-based sliding-mode observer for sensorless vector control of doubly-fed induction generators",
+        "Sensorless control of the doubly-fed induction generator for wind energy generations using a speed-adaptive full-order flux observer",
+        "A speed-adaptive reduced-order observer for sensorless vector control of doubly fed induction generator-based variable-speed wind turbines",
+        "A class of flux observers for doubly-fed induction generators used in small power wind generation systems",
+        "Sensorless vector control of doubly fed induction machine using a reduced order observer estimating rotor speed and stator variables",
+        "Effects of mismatched parameters in MRAS sensorless doubly fed induction machine drives",
+        "Adaptive tuning of the stator inductance in a rotor-currentbased MRAS observer for sensorless doubly fed induction-machine drives",
+        "Stator inductance self-tuning in an air-gap-power-vector-based observer for the sensorless control of doubly fed induction machines",
+        "Enhancement of robustness to inductance variation for rotor-position estimation of doubly-fed induction machine by regressor-vector selection",
+        "Complete stability of reduced-order and full-order observers for sensorless IMdrives",
+        "Design of a globally stable position estimator for surface permanent-magnet synchronous motors",
+        "A stator-equation-based reduced-order observer for position-sensorless vector control system of doubly-fed inductionmachines"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

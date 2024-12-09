@@ -1,0 +1,93 @@
+{
+    "eid": "2-s2.0-85123572309",
+    "title": "Multidimensional Fibonacci Coding",
+    "cover-date": "2022-02-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Mathematics (all)",
+            "@code": "2600",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Data compression",
+        "Fibonacci code",
+        "Gaussian integers",
+        "Prefix code",
+        "Z-module",
+        "Zeckendorf\u2019s theorem"
+    ],
+    "authors": [
+        "Perathorn Pooksombat",
+        "Patanee Udomkavanich",
+        "Wittawat Kositwattanarerk"
+    ],
+    "citedby-count": 0,
+    "ref-count": 38,
+    "ref-list": [
+        "A Method for the Construction of Minimum Redundancy Codes",
+        "Fast and Flexible Word Searching on Compressed text",
+        "An Efficient Compression Code for Text Databases",
+        "Variable-Length Prefix Codes With Multiple Delimiters",
+        "Robust Transmission of Unbounded Strings Using Fibonacci Representations",
+        "Robust Universal Complete Codes for Transmission and Compression",
+        "On Coding by (2, q)-Distance Fibonacci Numbers",
+        "Fast Fibonacci Encoding Algorithm",
+        "Fast Decoding Algorithms for Variable-Lengths Codes",
+        "Economical Encoding of Commas Between Strings",
+        "Universal Codeword Sets and Representations of the Integers",
+        "Some Algebraic Aspects of Morse Code Sequences",
+        "Fibonacci Sequence and its Generalizations Hidden in Algorithms for Generating Morse Codes, Applications of Fibonacci Numbers",
+        "Random Access to Fibonacci Encoded Files",
+        "An Application of p-Fibonacci Error-Correcting Codes to Cryptography",
+        "On the Usefulness of Fibonacci Compression Codes",
+        "Zeckendorf Representations Using Negative Fibonacci Numbers",
+        "Fibonacci Multiplication",
+        "Fibonacci Representations of Higher Order",
+        "Generalizing Zeckendorf\u2019s Theorem to f-decompositions",
+        "Generalized Zeckendorf Expansions",
+        "Gaussian Behavior of the Number of Summands in Zeckendorf Decompositions in Small Intervals",
+        "From Fibonacci Numbers to Central Limit Type Theorems",
+        "Voorstelling van natuurlyke getallen door een som van getallen van Fibonacci",
+        "A Probabilistic Approach to Generalized Zeckendorf Decompositions",
+        "Gaussian Fibonacci Numbers",
+        "Complex Fibonacci and Lucas Numbers, Continued Fractions, and the Square Root of the Golden Ratio",
+        "Gaussian Fibonacci and Lucas Numbers",
+        "Complex Fibonacci Numbers",
+        "The Fibonacci Number Fuwhere u is not an Integer",
+        "A Fibonacci function",
+        "Generalized Fibonacci Numbers and Associated Matrices",
+        "Almost Instantaneous Fixed-to-Variable Length Codes"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60012718",
+            "affilname": "Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012718",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60001884",
+            "affilname": "Ministry of Higher Education, Science, Research and Innovation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001884",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Centre of Excellence in Mathematics",
+        "Commission on Higher Education, Thailand",
+        "Department of Mathematics",
+        "Mahidol University",
+        "Thailand Research Fund"
+    ]
+}

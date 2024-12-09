@@ -1,0 +1,78 @@
+{
+    "eid": "2-s2.0-85062235082",
+    "title": "Supervisory robust model predictive control for linear systems subject to parametric uncertainty and application to level control process",
+    "cover-date": "2019-01-18",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Level control process",
+        "Linear fractional transformation",
+        "Minimax problem",
+        "Robust model predictive control"
+    ],
+    "authors": [
+        "Pongsorn Keadtipod",
+        "David Banjerdpongchai"
+    ],
+    "citedby-count": 1,
+    "ref-count": 10,
+    "ref-list": [
+        "Robust linear programming and optimal control",
+        "Disturbance observer based multi-variable control of ball mill grinding circuits",
+        "Design of disturbance observer and model predictive control for non-minimum phase time-delay system with application to industrial boilers",
+        "Parameter and state estimation for uncertain linear systems by multiple observers"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University",
+        "S\u00e4hk\u00f6tekniikan Korkeakoulu, Aalto-yliopisto"
+    ]
+}

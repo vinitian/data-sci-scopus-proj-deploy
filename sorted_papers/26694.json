@@ -1,0 +1,85 @@
+{
+    "eid": "2-s2.0-85049104807",
+    "title": "Scaled boundary finite element method with exact defining curves for two-dimensional linear multi-field media",
+    "cover-date": "2019-02-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Architecture",
+            "@code": "2216",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "defining curve",
+        "exact geometry",
+        "general boundary conditions",
+        "multi-field problems",
+        "SBFEM"
+    ],
+    "authors": [
+        "Jaroon Rungamornrat",
+        "Chung Nguyen Van"
+    ],
+    "citedby-count": 3,
+    "ref-count": 36,
+    "ref-list": [
+        "A virtual work derivation of the scaled boundary finite-element method for elastostatics",
+        "Symmetric Galerkin boundary element methods",
+        "A scaled boundary finite element method applied to electrostatic problems",
+        "Fracture analysis of piezoelectric materials using the scaled boundary finite element method",
+        "Using fundamental solutions in the scaled boundary finite element method to solve problems with concentrated loads",
+        "A scaled boundary polygon formulation for elasto-plastic analyses",
+        "Adaptive coupling of the finite-element and scaled boundary finite-element methods for non-linear analysis of unbounded media",
+        "A novel solution for heat conduction problems by extending scaled boundary finite element method",
+        "Study of offshore monopole behavior due to ocean waves",
+        "Radiation and diffraction of water waves by an infinite horizontal structure with a sidewall using SBFEM",
+        "The computation of dispersion relations for axisymmetric waveguides using the scaled boundary finite element method",
+        "SBFEM for fracture analysis of piezoelectric composites under thermal load",
+        "The scaled boundary finite-element method \u2014alias consistent infinitesimal finite-element cell method\u2014for elastodynamics",
+        "The scaled boundary finite-element method: A fundamental solution-less boundary-element method",
+        "Prescribed side-face displacements in the scaled boundary finite-element method",
+        "Body loads in scaled boundary finite-element method",
+        "An element-free Galerkin (EFG) scaled boundary method",
+        "Use of higher-order shape functions in the scaled boundary finite element method",
+        "Use of Fourier shape functions in the scaled boundary method",
+        "An h-hierarchical adaptive procedure for the scaled boundary finite-element method",
+        "A p-adaptive scaled boundary finite element method based on maximization of the error decrease rate",
+        "A meshless local Petrov-Galerkin scaled boundary method",
+        "Scaled boundary finite element method for two-dimensional linear multi-field media",
+        "Automatic modelling of cohesive crack propagation in concrete using polygon scaled boundary finite elements",
+        "Dynamic crack propagation simulation with scaled boundary polygon elements and automatic remeshing technique",
+        "A new scaled boundary finite element formulation for the computation of singularity orders at cracks and notches in arbitrarily laminated composites",
+        "Isogeometric analysis enhanced by the scaled boundary finite element method",
+        "Isogeometric symmetric Galerkin boundary element method for three-dimensional elasticity problems",
+        "An isogeometric symmetric Galerkin boundary element method for two-dimensional crack problems",
+        "A combination of isogeometric technique and scaled boundary method for solution of the steady-state heat transfer problems in arbitrary plane domain with Robin boundary",
+        "The scaled boundary finite element analysis of seepage problems in multi-material regions"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60112735",
+            "affilname": "HCMC University of Technology and Education",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60112735",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "CU Scholarship",
+        "Thailand Research Fund"
+    ]
+}

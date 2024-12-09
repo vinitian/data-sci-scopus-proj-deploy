@@ -1,0 +1,103 @@
+{
+    "eid": "2-s2.0-85132423443",
+    "title": "Real-time semantic segmentation of gastric intestinal metaplasia using a deep learning approach",
+    "cover-date": "2022-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Medicine (miscellaneous)",
+            "@code": "2701",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Gastroenterology",
+            "@code": "2715",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Artificial intelligence",
+        "Deep learning",
+        "Gastric intestinal metaplasia",
+        "Real-time",
+        "Semantic segmentation"
+    ],
+    "authors": [
+        "Vitchaya Siripoppohn",
+        "Rapat Pittayanon",
+        "Kasenee Tiankanon",
+        "Natee Faknak",
+        "Anapat Sanpavat",
+        "Naruemon Klaikaew",
+        "Peerapon Vateekul",
+        "Rungsun Rerknimitr"
+    ],
+    "citedby-count": 4,
+    "ref-count": 36,
+    "ref-list": [
+        "Inflammation, atrophy, and gastric cancer",
+        "Correlation between endoscopic and histological diagnoses of gastric intestinal metaplasia",
+        "Diagnostic capabilities of high-definition white light endoscopy for the diagnosis of gastric intestinal metaplasia and correlation with histologic and clinical data",
+        "Classification and grading of gastritis. The updated Sydney System. International Workshop on the Histopathology of Gastritis, Houston 1994",
+        "A multicenter randomized comparison between high-definition white light endoscopy and narrow band imaging for detection of gastric lesions",
+        "A prospective randomized tandem gastroscopy pilot study of linked color imaging versus white light imaging for detection of upper gastrointestinal lesions",
+        "Narrow-band imaging with magnifying endoscopy is accurate for detecting gastric intestinal metaplasia",
+        "The learning curve of gastric intestinal metaplasia interpretation on the images obtained by probe-based confocal laser endomicroscopy",
+        "Accurate gastric cancer segmentation in digital pathology images using deformable convolution and multi-scale embedding networks",
+        "GT-Net: a deep learning network for gastric tumor diagnosis",
+        "Encoder-decoder with atrous separable convolution for semantic image segmentation",
+        "U-Net: convolutional networks for biomedical image segmentation",
+        "Real-time artificial intelligence-based histologic classification of colorectal polyps with augmented visualization",
+        "Localizing and identifying intestinal metaplasia based on deep learning in oesophagoscope",
+        "Colorectal polyp segmentation by U-Net with dilation convolution",
+        "How transferable are features in deep neural networks?",
+        "LabelMe: a database and web-based tool for image annotation",
+        "WM-DOVA maps for accurate polyp highlighting in colonoscopy: validation vs. saliency maps from physicians",
+        "Kvasir-SEG: a segmented polyp dataset",
+        "Contrast limited adaptive histogram equalization",
+        "BiSeNet: bilateral segmentation network for real-time semantic segmentation",
+        "Gradient-based learning applied to document recognition",
+        "Deep learning in gastric tissue diseases: a systematic review",
+        "Artificial intelligence in colonoscopy: now on the market. What's next?",
+        "Application of artificial intelligence using a convolutional neural network for detecting gastric cancer in endoscopic images",
+        "Convolutional neural network for the diagnosis of early gastric cancer based on magnifying narrow band imaging",
+        "Diagnosis of gastric lesions through a deep convolutional neural network",
+        "Artificial intelligence for cancer detection of the upper gastrointestinal tract",
+        "Artificial intelligence in the diagnosis of gastric precancerous conditions by image-enhanced endoscopy: a multicenter, diagnostic study (with video)",
+        "Deep residual learning for image recognition",
+        "Very deep convolutional networks for large-scale image recognition",
+        "Densely connected convolutional networks",
+        "EfficientNet: rethinking model scaling for convolutional neural networks",
+        "ASGE Technology Committee systematic review and meta-analysis assessing the ASGE PIVI thresholds for adopting real-time endoscopic assessment of the histology of diminutive colorectal polyps",
+        "British Society of Gastroenterology guidelines on the diagnosis and management of patients at risk of gastric adenocarcinoma"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Center of Excellence in Gastrointestinal Oncology, Chulalongkorn University",
+        "University Technology Center",
+        "Chulalong-korn University",
+        "National Research Council of Thailand"
+    ]
+}

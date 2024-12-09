@@ -1,0 +1,103 @@
+{
+    "eid": "2-s2.0-85050100034",
+    "title": "A simulation tool for vertical transportation systems using python",
+    "cover-date": "2018-06-20",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Business, Management and Accounting (miscellaneous)",
+            "@code": "1401",
+            "@abbrev": "BUSI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Social Sciences (miscellaneous)",
+            "@code": "3301",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Management Science and Operations Research",
+            "@code": "1803",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "elevator group control",
+        "kinematic",
+        "poison batch",
+        "simulation tool",
+        "vertical transportation"
+    ],
+    "authors": [
+        "Nathaporn Chaosangket",
+        "Pruk Sasithong",
+        "Sanika K. Wijayasekara",
+        "Widhyakorn Asdornwised",
+        "Lunchakorn Wuttisittikulkij",
+        "Pisit Vanichchanunt",
+        "Muhammad Saadi"
+    ],
+    "citedby-count": 4,
+    "ref-count": 12,
+    "ref-list": [
+        "A survey of elevator group control systems for vertical transportation",
+        "Study on the arrival process of lift passengers in a multi-storey office building",
+        "Recent trends in elevator group control systems",
+        "Elevator selection with destination control"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Lahore",
+            "@id": "60103839",
+            "affilname": "University of Central Punjab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103839",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103476",
+            "affilname": "King Mongkuts University of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103476",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

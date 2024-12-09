@@ -1,0 +1,70 @@
+{
+    "eid": "2-s2.0-85081692157",
+    "title": "Classification of Risk Attitudes from Customer Behavior with Machine Learning",
+    "cover-date": "2019-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Media Technology",
+            "@code": "2214",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "customer behavior",
+        "Ensemble Model",
+        "Gradient Boosting",
+        "Random Forest",
+        "Risk Attitudes",
+        "XGBoost"
+    ],
+    "authors": [
+        "Teeranai Sriparkdee",
+        "Prabhas Chongstitvatana"
+    ],
+    "citedby-count": 1,
+    "ref-count": 15,
+    "ref-list": [
+        "Chapter5 classification",
+        "Chapter 40 data mining for imbalanced datasets: An overview",
+        "A review on imbalance data handling using undersampling and oversampling technique",
+        "Smote: Synthetic minority over-sampling technique",
+        "Borderline-smote: A new over-sampling method in imbalanced data sets learning",
+        "Smote: Synthetic minority over-sampling technique",
+        "Large-scale ensemble model for customer churn prediction in search ads",
+        "ADASYN: Adaptive synthetic sampling approach for imbalanced learning",
+        "A study of the behavior of several methods for balancing machine learning training data"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

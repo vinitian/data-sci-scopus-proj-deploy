@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85054090216",
+    "title": "Assessment of quiet T2 weighted PROPELLER sequence in pediatric abdominal imaging",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Abdominal",
+        "Acoustic",
+        "MRI",
+        "Pediatric",
+        "Quiet",
+        "T2"
+    ],
+    "authors": [
+        "Ethan Zaccagnino",
+        "Craig Devincent",
+        "Nattinee Leelakanok",
+        "Andrew S. Phelps",
+        "Matthew Zapala",
+        "Pauline Wong Worters",
+        "Jesse Courtier"
+    ],
+    "citedby-count": 5,
+    "ref-count": 19,
+    "ref-list": [
+        "ART PROPELLER MRI techniques match the quality of conventional PROPELLER brain imaging techniques",
+        "Auditory noise associated with MR procedures: a review",
+        "Potential hearing loss resulting from MR imaging",
+        "Inaudible functional MRI using a truly mute gradient echo sequence",
+        "Effect of MRI noise on cochlear function",
+        "Acoustic noise reduction in MRI using Silent Scan: an initial experience",
+        "Image quality assessment of silent T2 PROPELLER sequence for brain imaging in infants",
+        "Paediatric MRI under sedation: is it necessary? What is the evidence for the alternatives?",
+        "T2-weighted MRI of the upper abdomen: comparison of four fat-suppressed T2-weighted sequences including PROPELLER (BLADE) technique",
+        "PROPELLER technique to improve image quality of MRI of the shoulder",
+        "MRI artifact reduction and quality improvement in the upper abdomen with PROPELLER and prospective acquisition correction (PACE) technique",
+        "Quiet MR sequences in clinical routine: initial experience in abdominal imaging",
+        "Active acoustic screening: design principles for quiet gradient coils in MRI",
+        "Parallel imaging-based reduction of acoustic noise for clinical magnetic resonance imaging",
+        "Evaluation of motion correction effect and image quality with the periodically rotated overlapping parallel lines with enhanced reconstruction (PROPELLER) (BLADE) and parallel imaging acquisition technique in the upper abdomen",
+        "Multishot PROPELLER for high-field preclinical MRI",
+        "Noise removal in magnetic resonance diffusion tensor imaging"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Chicago",
+            "@id": "60106890",
+            "affilname": "GE Healthcare United States",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60106890",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "San Francisco",
+            "@id": "60033399",
+            "affilname": "UCSF Benioff Children\u2018s Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60033399",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "San Francisco",
+            "@id": "60023691",
+            "affilname": "University of California, San Francisco",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023691",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "GE Healthcare Waukesha"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "eid": "2-s2.0-85042103079",
+    "title": "Real-Time Polyps Segmentation for Colonoscopy Video Frames Using Compressed Fully Convolutional Network",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Colonoscopy",
+        "Convolutional network",
+        "Polyp detection",
+        "Real-time detection",
+        "Video frame segmentation"
+    ],
+    "authors": [
+        "Itsara Wichakam",
+        "Teerapong Panboonyuen",
+        "Can Udomcharoenchaikit",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 8,
+    "ref-count": 14,
+    "ref-list": [
+        "Comparative validation of polyp detection methods in video colonoscopy: Results from the MICCAI 2015 endoscopic vision challenge",
+        "Polyp miss rate determined by tandem colonoscopy: A systematic review",
+        "Imagenet classification with deep convolutional neural networks",
+        "Very deep convolutional networks for large-scale image recognition",
+        "Deep residual learning for image recognition",
+        "A survey on deep learning in medical image analysis. Med",
+        "Fully convolutional networks for semantic segmentation",
+        "Traffic sign recognition with hinge loss trained convolutional neural networks",
+        "ImageNet large scale visual recognition challenge",
+        "Pruning filters for efficient convnets",
+        "Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs",
+        "Dermatologist-level classification of skin cancer with deep neural networks",
+        "The pascal visual object classes challenge: A retrospective"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

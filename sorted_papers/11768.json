@@ -1,0 +1,75 @@
+{
+    "eid": "2-s2.0-85077990946",
+    "title": "Feature-based and Deep Learning-based Classification of Environmental Sound",
+    "cover-date": "2019-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Media Technology",
+            "@code": "2214",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Chinnavat Jatturas",
+        "Sornsawan Chokkoedsakul",
+        "Pisitpong Devahasting Na Avudhva",
+        "Sukit Pankaew",
+        "Cherdkul Sopavanit",
+        "Widhyakorn Asdornwised"
+    ],
+    "citedby-count": 2,
+    "ref-count": 20,
+    "ref-list": [
+        "Multiclass support vector machines for environmental sound classification in visual domain based on log-gabor filters",
+        "Environmental sound classification with convolutional neural networks, machine learning for signal processing (MLSP)",
+        "Environmental sound classification using spectral dynamic features",
+        "On the use of time-frequency reassignment and SVM-based classifier for audio surveillance applications",
+        "Daily sound recognition using a combination of GMM and SVM for home automation",
+        "Improved one-class SVM classifier for sounds classification",
+        "Mixed type audio classification with support vector machine",
+        "Deep convolutional neural networks and data augmentation for environmental sound classification",
+        "Comparison of techniques for environmental sound recognition",
+        "Environmental sound recognition: A survey",
+        "Scikit-learn: Machine learning in python",
+        "Deep convolutional neural networks for image classification: A comprehensive review"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "STAR",
+        "Smart Wireless Communication Ecosystem Research Group",
+        "STAR",
+        "Chulalongkorn University"
+    ]
+}

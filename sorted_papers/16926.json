@@ -1,0 +1,116 @@
+{
+    "eid": "2-s2.0-85138693198",
+    "title": "An integration of autonomic computing with multicore systems for performance optimization in Industrial Internet of Things",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Surendra Kumar Shukla",
+        "Bhaskar Pant",
+        "Wattana Viriyasitavat",
+        "Devvret Verma",
+        "Sandeep Kautish",
+        "Gaurav Dhiman",
+        "Amandeep Kaur",
+        "Kannan Srihari",
+        "Sachi Nandan Mohanty"
+    ],
+    "citedby-count": 6,
+    "ref-count": 37,
+    "ref-list": [
+        "Mapping techniques in multicore processors: current and future trends",
+        "Investigating policies for performance of multi-core processors",
+        "A Design space exploration methodology for parameter optimization in multicore processors",
+        "Trends in on-chip dynamic resource management",
+        "Multicore performance optimization using partner cores",
+        "The autonomic computing paradigm",
+        "Addressing shared resource contention in multicore processors via scheduling",
+        "Optimization in Autonomic Computing and Resource Management",
+        "Memory bandwidth management for efficient performance isolation in multi-core platforms",
+        "Hybrid application mapping for composable many-core systems: Overview and future perspective",
+        "Performance evaluation of application mapping approaches for network-on-chip designs",
+        "Online memory access pattern analysis on an application profiling tool",
+        "Evaluating thread placement based on memory access patterns for multi-core processors",
+        "Adaptive time-triggered Multi-core architecture",
+        "Synthesis of self-adaptable energy aware software for heterogeneous multicore embedded systems",
+        "Algorithm for Multi-core device of autonomous train system for adaptive braking control",
+        "QUAREM: Maximising QoE through adaptive resource management in mobile MPSoC platforms",
+        "Proactive hybrid learning and optimisation in self-adaptive systems: The swarm-fleet infrastructure scenario",
+        "Decision-making under uncertainty: be aware of your priorities",
+        "Toward a holistic software systems engineering approach for dependable autonomous systems",
+        "Hybrid planning with receding horizon: A case for meta-self-awareness",
+        "Supporting IoT semantic interoperability with autonomic computing",
+        "Global optimization of distillation columns using explicit and implicit surrogate models",
+        "Sova: A software-defined autonomic framework for virtual network allocations",
+        "Autonomic computing in manufacturing process coordination in industry 4.0 context",
+        "Wavelength assignment in optical fiber with intelligent optimization and assignment scheme for static and dynamic traffic intensity based Photonic networks",
+        "A systematic review on generalized fuzzy numbers and its applications: Past, present and future",
+        "Novel big data networking framework using multihoming optimization for distributed stream computing",
+        "A fog-cluster based load-balancing technique",
+        "CNN based multiclass brain tumor detection using medical imaging",
+        "Mining social media text for disaster resource management using a feature selection based on forest optimization",
+        "A DRL-based service offloading approach using DAG for edge computational orchestration",
+        "Internet of Things based koch fractal curve fractal antennas for wireless applications",
+        "Prediction of diabetic retinopathy using health records with machine learning classifiers and data science",
+        "Building trust of Blockchain-based Internet-of-Thing services using public key infrastructure",
+        "An efficient quantum based D2D computation and communication approach for the Internet of Things"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Dehradun",
+            "@id": "60103785",
+            "affilname": "Graphic Era Deemed to be University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103785",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199583",
+            "affilname": "Chulalongkorn Business School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199583",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Amaravati",
+            "@id": "60119614",
+            "affilname": "VIT-AP University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60119614",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Coimbatore",
+            "@id": "60114304",
+            "affilname": "SNS College of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60114304",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Mohali",
+            "@id": "60111704",
+            "affilname": "Chandigarh University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60111704",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Kathmandu",
+            "@id": "124515587",
+            "affilname": "Lord Buddha Education Foundation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/124515587",
+            "affiliation-country": "Nepal"
+        }
+    ],
+    "funding": []
+}

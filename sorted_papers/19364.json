@@ -1,0 +1,101 @@
+{
+    "eid": "2-s2.0-85025823869",
+    "title": "Investigation of Stability and Failure Mechanism of Undercut Slopes by Three-Dimensional Finite Element Analysis",
+    "cover-date": "2018-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "3D finite element analysis",
+        "hardening soil material",
+        "interface element",
+        "physical model",
+        "undercut slope"
+    ],
+    "authors": [
+        "Boonchai Ukritchon",
+        "Rithy Ouch",
+        "Thirapong Pipatpongsa",
+        "Mohammad Hossein Khosravi"
+    ],
+    "citedby-count": 12,
+    "ref-count": 41,
+    "ref-list": [
+        "A comparative study of various commercially available programs in slope stability analysis",
+        "Damage and fracture algorithm using the screened Poisson equation and local remeshing",
+        "A constitutivebased element-by-element crack propagation algorithm with local mesh refinement",
+        "Finite strain fracture of 2D problems with injected anisotropic softening elements",
+        "Element-wise fracture algorithm based on rotation of edges",
+        "Evaluation of slope stability with topography and slope stability analysis method",
+        "A simplified method for 3D slope stability analysis",
+        "A three-dimensional slope stability analysis method using the upper bound theorem: Part I: theory and methods",
+        "A three-dimensional slope stability analysis method using the upper bound theorem Part II: Numerical approaches, applications and extensions",
+        "Two-dimensional slope stability analysis by limit equilibrium and strength reduction methods",
+        "Extended limit design theorems for continuous media",
+        "State of the art: limit equilibrium and finiteelement analysis of slopes",
+        "Stability charts for uniform slopes in soils with nonlinear failure envelopes",
+        "Slope stability analysis by finite elements",
+        "Ground movement prediction for deep excavations in soft clay",
+        "Numerical analyses of piles subjected to lateral soil movement",
+        "The evaluation of three-dimensional effects on slope stability by the strength reduction method",
+        "Arching effect in geomaterials with applications to retaining walls and undercut slopes",
+        "Arch action over an excavated pit on a stable scarp investigated by physical model tests",
+        "Performance of counterweight balance on stability of undercut slope evaluated by physical modeling",
+        "Semi-Lagrangian reproducing kernel particle method for slope stability analysis and post-failure simulation",
+        "Finite element analysis of a deep excavation: A case study from the Bangkok MRT",
+        "A dimensionless parameter determining slip surfaces in homogeneous slopes",
+        "Slope stability analysis based on a multigrid method using a nonlinear 3D finite element model",
+        "Stability of soil block on low interface friction plane with and without side supports",
+        "Experimental investigations of shear pin arrangement on soil slope resting on low interface friction plane",
+        "Physical modeling of arch action in undercut slopes with actual engineering practice to Mae Moh open-pit mine of Thailand",
+        "A new approach for modelling slip lines in geological materials with cohesive models",
+        "Cracking particles: A simplified meshfree method for arbitrary evolving cracks",
+        "A simple and robust three-dimensional cracking-particle method without enrichment",
+        "Analysis on failure of slope and landslide dam",
+        "2D numerical simulations of soil nail walls",
+        "Geotechnical stability analysis",
+        "Stiffness and strength parameters for hardening soil model of soft and stiff Bangkok clays",
+        "Slip mechanisms and interface shear strength between moist silica sand and acrylic plate",
+        "A software framework for probabilistic sensitivity analysis for computationally expensive models",
+        "Stability analysis of a high loess slope reinforced by the combination system of soil nails and stabilization piles",
+        "Two-dimensional stability analysis of a soil slope using the finite element method and the limit equilibrium principle",
+        "Limit analysis versus limit equilibrium for slope stability",
+        "High rock slope stability analysis using the enriched meshless Shepard and least squares method"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tehran",
+            "@id": "60022927",
+            "affilname": "University of Tehran",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022927",
+            "affiliation-country": "Iran"
+        },
+        {
+            "affiliation-city": "Kyoto",
+            "@id": "60011001",
+            "affilname": "Kyoto University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011001",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Phnom Penh",
+            "@id": "101111992",
+            "affilname": "Institute of Technology of Cambodia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101111992",
+            "affiliation-country": "Cambodia"
+        }
+    ],
+    "funding": []
+}

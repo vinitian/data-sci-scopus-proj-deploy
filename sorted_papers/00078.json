@@ -1,0 +1,71 @@
+{
+    "eid": "2-s2.0-85078350061",
+    "title": "Encoder Control Enhancement in HEVC Based on R-Lambda Coefficient Distribution",
+    "cover-date": "2019-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Media Technology",
+            "@code": "2214",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Encoder Control",
+        "GOP",
+        "HEVC",
+        "R-Lambda Rate Control",
+        "Video Coding Standard"
+    ],
+    "authors": [
+        "Sovann Chen",
+        "Supavadee Aramvith",
+        "Yoshikazu Miyanaga"
+    ],
+    "citedby-count": 2,
+    "ref-count": 15,
+    "ref-list": [
+        "Overview of the mpeg-4 standard",
+        "Overview of the h.264/avc video coding standard",
+        "Overview of the high efficiency video coding (hevc) standard",
+        "Performance and computational complexity assessment of high-efficiency video encoders",
+        "Performance comparison of h.265/mpeg-hevc, vp9, and h.264/mpeg-avc encoders",
+        "Lambda domain rate control algorithm for high efficiency video coding",
+        "Rate control of mpeg video coding and recording by rate-quantization modeling",
+        "Low-delay rate control for dct video coding via rho-domain source modeling"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Sapporo",
+            "@id": "60014652",
+            "affilname": "Hokkaido University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014652",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Fostering Joint International Research",
+        "Ministry of Education, Science, Sports and Culture",
+        "JICA",
+        "Ministry of Internal Affairs and Communications"
+    ]
+}

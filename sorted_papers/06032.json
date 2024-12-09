@@ -1,0 +1,50 @@
+{
+    "eid": "2-s2.0-85147453279",
+    "title": "Proteomics dataset for the analysis of the effects of Grammatophyllum speciosum extracts on RAW 264.7 cells",
+    "cover-date": "2023-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Multidisciplinary",
+            "@code": "1000",
+            "@abbrev": "MULT"
+        }
+    ],
+    "keywords": [
+        "LC-MS/MS",
+        "Macrophage",
+        "Tiger orchid",
+        "Traditional plant"
+    ],
+    "authors": [
+        "Yodying Yingchutrakul",
+        "Sucheewin Krobthong"
+    ],
+    "citedby-count": 0,
+    "ref-count": 6,
+    "ref-list": [
+        "Review, evaluation, and discussion of the challenges of missing value imputation for mass spectrometry-based label-free global proteomics",
+        "Tryptic digestion of in-gel proteins for mass spectrometry analysis",
+        "UniProt: a hub for protein information",
+        "The abc's (and xyz's) of peptide sequencing",
+        "Cosmeceutical potentials of grammatophyllum speciosum extracts: anti-inflammations and anti-collagenase activities with phytochemical profile analysis using an untargeted metabolomics approach",
+        "The PRoteomics IDEntifications (PRIDE) database and associated tools: status in 2013"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60004391",
+            "affilname": "Thailand National Science and Technology Development Agency",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004391",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

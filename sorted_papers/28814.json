@@ -1,0 +1,82 @@
+{
+    "eid": "2-s2.0-85078860934",
+    "title": "Joint timing offset and delay spread estimation for OFDM symbol synchronization over multipath fading channels",
+    "cover-date": "2019-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Cyclic prefix",
+        "OFDM",
+        "Synchronization",
+        "Timing offset estimation."
+    ],
+    "authors": [
+        "Pruk Sasithong",
+        "Lunchakorn Wuttisittikulkij",
+        "Pisit Vanichchanunt"
+    ],
+    "citedby-count": 2,
+    "ref-count": 8,
+    "ref-list": [
+        "ML estimation of time and frequency offset in OFDM systems",
+        "A non-data-aided algorithm based on ML for OFDM synchronization",
+        "Joint estimation of symbol timing and carrier frequency offset of OFDM signals over fast time-varying multipath channels",
+        "ML estimation of timing and frequency offsets using distinctive correlation characteristics of OFDM signals over Dispersive Fading Channels",
+        "On maximum-likelihood blind synchronization over wssus channels for OFDM systems",
+        "Blind symbol synchronization based on cyclic prefix for OFDM systems",
+        "A modified symbol timing and frequency synchronization method based on cyclic prefix for OFDM systems"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

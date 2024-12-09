@@ -1,0 +1,60 @@
+{
+    "eid": "2-s2.0-85079901860",
+    "title": "Identification of software problem report types using multiclass classification",
+    "cover-date": "2019-12-09",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Multiclass Classification",
+        "Problem Report",
+        "Text Classification"
+    ],
+    "authors": [
+        "Phatcharaporn Kaewnoo",
+        "Twittie Senivongse"
+    ],
+    "citedby-count": 1,
+    "ref-count": 11,
+    "ref-list": [
+        "Automated configuration bug report prediction using text mining",
+        "Identification of security related bug reports via text mining using supervised and unsupervised classification",
+        "Bug or not? Bug report classification using n-gram IDF",
+        "Combining text mining and data mining for bug report classification",
+        "Classifying the bugs using multi-class semi supervised support vector machine",
+        "SMOTE: Synthetic minority over-sampling technique"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Freewill Solutions Company Limited"
+    ]
+}

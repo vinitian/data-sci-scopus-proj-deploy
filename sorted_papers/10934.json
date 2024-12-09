@@ -1,0 +1,142 @@
+{
+    "eid": "2-s2.0-85140933315",
+    "title": "End-to-End Deep Convolutional Recurrent Models for Noise Robust Waveform Speech Enhancement",
+    "cover-date": "2022-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analytical Chemistry",
+            "@code": "1602",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Convolutional Encode-Decoder",
+        "Convolutional Recurrent Network",
+        "E2E speech processing",
+        "intelligibility",
+        "speech quality"
+    ],
+    "authors": [
+        "Rizwan Ullah",
+        "Lunchakorn Wuttisittikulkij",
+        "Sushank Chaudhary",
+        "Amir Parnianifard",
+        "Shashi Shah",
+        "Muhammad Ibrar",
+        "Fazal E. Wahab"
+    ],
+    "citedby-count": 3,
+    "ref-count": 57,
+    "ref-list": [
+        "A hybrid speech enhancement algorithm for voice assistance application",
+        "On Improvement of Speech Intelligibility and Quality: A Survey of Unsupervised Single Channel Speech Enhancement Algorithms",
+        "Gammatone Filter Bank-Deep Neural Network-based Monaural speech enhancement for unseen conditions",
+        "Fundamentals, present and future perspectives of speech enhancement",
+        "Learning complex spectral mapping with gated convolutional recurrent networks for monaural speech enhancement",
+        "A regression approach to speech enhancement based on deep neural networks",
+        "An experimental study on speech enhancement based on deep neural networks",
+        "Speech enhancement by LSTM-based noise suppression followed by CNN-based speech restoration",
+        "Wiener filtering based speech enhancement with weighted denoising auto-encoder and noise classification",
+        "A new framework for CNN-based speech enhancement in the time domain",
+        "Self-attending RNN for speech enhancement to improve cross-corpus generalization",
+        "Text-independent speaker recognition using LSTM-RNN and speech enhancement",
+        "Multi-objective long-short term memory recurrent neural networks for speech enhancement",
+        "Learning Complex Spectral Mapping for Speech Enhancement with Improved Cross-Corpus Generalization",
+        "Speech enhancement using progressive learning-based convolutional recurrent neural network",
+        "Speech enhancement based on simple recurrent unit network",
+        "PACDNN: A phase-aware composite deep neural network for speech enhancement",
+        "PhaseNet: Discretized Phase Modeling with Deep Neural Networks for Audio Source Separation",
+        "Raw waveform-based speech enhancement by fully convolutional networks",
+        "Single channel speech enhancement using temporal convolutional recurrent neural networks",
+        "End-to-end waveform utterance enhancement for direct evaluation metrics optimization by fully convolutional neural networks",
+        "Attention wave-u-net for speech enhancement",
+        "A wavenet for speech denoising",
+        "Time-domain speech enhancement using generative adversarial networks",
+        "A time\u2013frequency smoothing neural network for speech enhancement",
+        "Multi-scale decomposition based supervised single channel deep speech enhancement",
+        "On learning spectral masking for single channel speech enhancement using feedforward and recurrent neural networks",
+        "Residual recurrent neural network for speech enhancement",
+        "Wavecrn: An efficient convolutional recurrent neural network for end-to-end speech enhancement",
+        "TCNN: Temporal convolutional neural network for real-time speech enhancement in the time domain",
+        "On loss functions for supervised monaural time-domain speech enhancement",
+        "Time-domain speech enhancement with generative adversarial learning",
+        "Librispeech: An asr corpus based on public domain audio books",
+        "Speech database development at MIT: TIMIT and beyond",
+        "The voice bank corpus: Design, collection and data analysis of a large regional accent speech database",
+        "Assessment for automatic speech recognition: II. NOISEX-92: A database and an experiment to study the effect of additive noise on speech recognition systems",
+        "The diverse environments multi-channel acoustic noise database (demand): A database of multichannel environmental noise recordings",
+        "Perceptual evaluation of speech quality (PESQ)-a new method for speech quality assessment of telephone networks and codecs",
+        "A short-time objective intelligibility measure for time-frequency weighted noisy speech",
+        "Evaluation of objective quality measures for speech enhancement",
+        "Long short-term memory for speaker generalization in supervised speech separation",
+        "Phase-aware speech enhancement based on deep neural networks",
+        "Single channel speech enhancement using convolutional neural network",
+        "Time-frequency mask-based speech enhancement using convolutional generative adversarial network",
+        "An integrated CNN-GRU framework for complex ratio mask estimation in speech enhancement",
+        "A fully convolutional neural network for complex spectrogram processing in speech enhancement",
+        "Low-rank and sparsity analysis applied to speech enhancement via online estimated dictionary",
+        "Auditory mask estimation by RPCA for monaural speech enhancement",
+        "Speech enhancement using a minimum-mean square error short-time spectral amplitude estimator",
+        "Comparing speech recognition systems (Microsoft API, Google API and CMU Sphinx)",
+        "Spectral phase estimation based on deep neural networks for single channel speech enhancement"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Hefei",
+            "@id": "60133708",
+            "affilname": "National Engineering Laboratory for Speech and Language Information Processing",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60133708",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Peshawar",
+            "@id": "60106555",
+            "affilname": "Islamia College, Peshawar",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60106555",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Thailand Science Research and Innovation Fund Chulalongkorn University",
+        "Chulalongkorn University"
+    ]
+}

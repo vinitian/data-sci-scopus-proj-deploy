@@ -1,0 +1,61 @@
+{
+    "eid": "2-s2.0-85062797130",
+    "title": "Chest X-ray analysis of tuberculosis by convolutional neural networks with affine transforms",
+    "cover-date": "2018-12-08",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Affine Transforms",
+        "Computer-Aided Diagnosis",
+        "Convolutional Neural Network",
+        "Tuberculosis"
+    ],
+    "authors": [
+        "Tawansongsang Karnkawinpong",
+        "Yachai Limpiyakorn"
+    ],
+    "citedby-count": 10,
+    "ref-count": 16,
+    "ref-list": [
+        "ImageNet classification with deep convolutional neural networks",
+        "Deep residual learning for image recognition",
+        "A novel approach for tuberculosis screening based on deep convolutional neural networks",
+        "Improving tuberculosis diagnostics using deep learning and mobile health technologies among resource-poor and marginalized communities",
+        "Going deeper with convolutions",
+        "Deep-learning: A potential method for tuberculosis detection using chest radiography",
+        "TX-CNN: Detecting tuberculosis in chest X-ray images using convolutional neural network",
+        "Automated tuberculosis classification of chest radiographs by using convolutional neural networks"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

@@ -1,0 +1,94 @@
+{
+    "eid": "2-s2.0-85140653786",
+    "title": "Analysis & Estimation of Soil for Crop Prediction using Decision Tree and Random Forest Regression Methods",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "crop production",
+        "decision tree regression",
+        "prediction algorithm",
+        "Random forest regression"
+    ],
+    "authors": [
+        "Manoj Tolani",
+        "Ambar Bajpai",
+        "Arun Balodi",
+        " Sunny",
+        "Lunchakorn Wuttisittikulkij",
+        "Piya Kovintavewat"
+    ],
+    "citedby-count": 2,
+    "ref-count": 11,
+    "ref-list": [
+        "Prediction of crop harvest soil composition using vector distance analysis And multi linear regression",
+        "Soil Classification Using Machine Learning Methods and Crop Suggestion Based on Soil Series",
+        "A Comparative Analysis of Supervised Machine Learning Algorithm for Agriculture Crop Prediction",
+        "IoT-based Irrigation Management for Smallholder Farmers in Rural Sub-Saharan Africa, Procedia",
+        "Precision agriculture using IoT data analytics and machine learning",
+        "Effective monitoring and protecting system for agriculture farming using IoT and raspberry pi",
+        "Role of 6G Networks: Use Cases and Research Directions",
+        "Energy Efficient Hybrid Medium Access Control Protocol for Wireless Sensor Network",
+        "Energy efficient adaptive bit-map-assisted medium access control protocol"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60021938",
+            "affilname": "Nakhon Pathom Rajabhat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021938",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bengaluru",
+            "@id": "116700753",
+            "affilname": "Atria Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/116700753",
+            "affiliation-country": "India"
+        }
+    ],
+    "funding": []
+}

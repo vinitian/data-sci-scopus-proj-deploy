@@ -1,0 +1,69 @@
+{
+    "eid": "2-s2.0-85037827588",
+    "title": "Ontology-Based Framework to Support Recommendation Rule Management Using Spreadsheet",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Decision table",
+        "Knowledge engineering",
+        "Recommender system",
+        "Rule editor"
+    ],
+    "authors": [
+        "Marut Buranarach",
+        "Thanyalak Rattanasawad",
+        "Taneth Ruangrajitpakorn"
+    ],
+    "citedby-count": 1,
+    "ref-count": 11,
+    "ref-list": [
+        "D2RQ-treating non-RDF databases as virtual RDF graphs",
+        "OAM: An ontology application management framework for simplifying ontology-based semantic web application development",
+        "Ontology design approaches for development of an excise duty recommender system",
+        "Involving domain experts in authoring OWL ontologies",
+        "The KANAL-system: An intelligent rule editor supporting the knowledge acquisition process",
+        "Visual design of drools rule bases using the XTT2 method",
+        "Graph-based rule editor",
+        "A clinical rule editor in an electronic medical record setting: Development, design, and implementation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60012521",
+            "affilname": "Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012521",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011525",
+            "affilname": "Thailand National Electronics and Computer Technology Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011525",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Excise Department",
+        "National Science and Technology Development Agency"
+    ]
+}

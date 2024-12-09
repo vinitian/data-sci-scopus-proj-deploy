@@ -1,0 +1,52 @@
+{
+    "eid": "2-s2.0-85105847423",
+    "title": "Cloud-based Machine Learning Framework for Residential HVAC Control System",
+    "cover-date": "2021-01-21",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "HVAC control system",
+        "occupancy forecast",
+        "smart buildings",
+        "thermal comfort"
+    ],
+    "authors": [
+        "Atthawut Issaraviriyakul",
+        "Wanchalerm Pora",
+        "Napong Panitantum"
+    ],
+    "citedby-count": 1,
+    "ref-count": 11,
+    "ref-list": [
+        "Space cooling in buildings in hot and humid climates-A review of the effect of humidity on the applicability of existing cooling techniques",
+        "An IoTbased thermal model learning framework for smart buildings",
+        "A review of thermal comfort and method of using Fanger?s PMV equation",
+        "A neural network evaluation model for individual thermal comfort",
+        "Towards an energy-efficient framework for location-Triggered mobile application",
+        "Keeping the resident in the loop: Adapting the smart home to the user",
+        "Location based service for presence system using haversine method",
+        "Time series data prediction using sliding window based rbf neural network",
+        "Influence of Weather Factors on Thermal Comfort in Subtropical Urban Environments",
+        "Sparse ordinal logistic regression and its application to brain decoding"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

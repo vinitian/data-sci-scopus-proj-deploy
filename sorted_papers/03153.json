@@ -1,0 +1,86 @@
+{
+    "eid": "2-s2.0-85140632786",
+    "title": "Fault detection and identification for centrifugal compressor by ensemble model",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "centrifugal compressor",
+        "ensemble model",
+        "fault detection",
+        "fault identification"
+    ],
+    "authors": [
+        "Titipat Sonthipo",
+        "Tutpol Ardsomang",
+        "Ratchatin Chancharoen"
+    ],
+    "citedby-count": 2,
+    "ref-count": 17,
+    "ref-list": [
+        "Machine condition prediction based on adaptive neuro-fuzzy and high-order particle filtering",
+        "Performance-based health monitoring, diagnostics and prognostics for condition-based maintenance of gas turbines: A review",
+        "A robust pattern recognition-based fault detection and diagnosis (FDD) method for chillers",
+        "Fault detection and rul estimation for railway hvac systems using a hybrid model-based approach",
+        "A survey of knowledge-based intelligent fault diagnosis techniques",
+        "Machine learning applications in cancer prognosis and prediction",
+        "Bridge sub structure defect inspection assistance by using deep learning",
+        "Dynamic simulation, numerical control and analysis of a novel bottom flashing scheme in batch distillation",
+        "Failure analysis of an impeller blade",
+        "Deep learning-based visual defect-inspection system for reinforced concrete bridge substructure: A case of Thailand's department of highways",
+        "Modelling of the non-reactive deposits impact on centrifugal compressor aerothermo dynamic performance"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Rayong",
+            "@id": "114437449",
+            "affilname": "Digital Asset Solution Rayong Engineering and Plant Services",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/114437449",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

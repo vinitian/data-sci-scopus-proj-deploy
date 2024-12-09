@@ -1,0 +1,72 @@
+{
+    "eid": "2-s2.0-85126025813",
+    "title": "Molecular self-diffusivity and separation of CH4/H2S in metal organic framework MIL-47(V)",
+    "cover-date": "2022-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Chemistry (all)",
+            "@code": "1600",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Condensed Matter Physics",
+            "@code": "3104",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanics of Materials",
+            "@code": "2211",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Diffusion",
+        "Hydrogen sulfide",
+        "Metal organic frameworks",
+        "Methane",
+        "Molecular dynamics simulations"
+    ],
+    "authors": [
+        "Rungroj Chanajaree",
+        "Wutthigrai Sailuam",
+        "Kompichit Seehamart"
+    ],
+    "citedby-count": 2,
+    "ref-count": 44,
+    "ref-list": [
+        "The DL_POLY_2 User Manual",
+        "Understanding Molecular Simulation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Nakhon Ratchasima",
+            "@id": "60092136",
+            "affilname": "Rajamangala University of Technology Isan",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60092136",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60091507",
+            "affilname": "Metallurgy and Materials Research Institute Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091507",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Department of Applied Physics",
+        "Thailand Science Research and Innovation Fund Chulalongkorn University",
+        "MMRI",
+        "Chulalongkorn University",
+        "SLRI"
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "eid": "2-s2.0-85097837416",
+    "title": "Simultaneous and non-simultaneous quenching for a system of multi-dimensional semi-linear heat equations",
+    "cover-date": "2020-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Chemistry (miscellaneous)",
+            "@code": "1601",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mathematics (all)",
+            "@code": "2600",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Physics and Astronomy (miscellaneous)",
+            "@code": "3101",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Nonsimultaneous quenching",
+        "Semi-linear parabolic system",
+        "Simultaneous quenching"
+    ],
+    "authors": [
+        "Ratinan Boonklurb",
+        "Tawikan Treeyaprasert",
+        "Aong Art Wanna"
+    ],
+    "citedby-count": 0,
+    "ref-count": 9,
+    "ref-list": [
+        "On solutions of initial boundary problem for ut= uxx+ 1\u2212u1",
+        "Nonsimultaneous quenching",
+        "Quenching for a parabolic system with general singular terms",
+        "Simultaneous quenching for semilinear parabolic system with localized sources in a square domain",
+        "Blow-up for a semilinear reaction-diffusion system coupled in both equations and boundary conditions",
+        "Quenching behavior of a semilinear reaction-diffusion system with singular boundary condition"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60012521",
+            "affilname": "Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012521",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,96 @@
+{
+    "eid": "2-s2.0-85077062551",
+    "title": "Analysis of the equivalent dipole moment of red blood cell by using the boundary element method",
+    "cover-date": "2020-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analysis",
+            "@code": "2603",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Boundary element method",
+        "Equivalent dipole moment",
+        "Intracellular conductivity",
+        "Membrane capacitance",
+        "Red blood cell"
+    ],
+    "authors": [
+        "Nitipong Panklang",
+        "Boonchai Techaumnat",
+        "Anurat Wisitsoraat"
+    ],
+    "citedby-count": 5,
+    "ref-count": 25,
+    "ref-list": [
+        "Electrorheology of a zeolite/silicone oil suspension with dc and ac fields",
+        "Dielectrophoretic force: a comparison of theory and experiment",
+        "Breast cancer cell obatoclax response characterization using passivated-electrode insulator-based dielectrophoresis",
+        "Characterization of drug effect on leukemia cells through single cell assay with optical tweezers and dielectrophoresis",
+        "Dielectrophoretic capture of low abundance cell population using thick electrodes",
+        "Electromechanics of particles",
+        "Numerical determination of the effective moments of non-spherical particles",
+        "Attitude and positioning control of elliptical particle using induced-charge electrophoresis for reading information",
+        "Dielectrophoretic interaction of two particles in a uniform electric field",
+        "Analysis of the effects of an orifice plate on the membrane potential in electroporation and electrofusion of cells",
+        "Numerical analysis of DC-field-induced transmembrane potential of spheroidal cells in axisymmetric orientations",
+        "Strain energy function of red blood cell membranes",
+        "Microsample preparation by dielectrophoresis: isolation of malaria",
+        "The molecular basis of erythrocyte invasion by malaria parasites",
+        "Boundary element techniques: theory and applications in engineering",
+        "Classical electrodynamics",
+        "Dielectrophoretic interaction of two spherical particles calculated by equivalent multipole-moment method",
+        "Basic theory of dielectrophoresis and electrorotation",
+        "Numerical analysis of the influence of experimental conditions on the accuracy of dielectric parameters derived from electrorotation measurements",
+        "A dielectric theory of \u201cmulti-stratified shell\u201d model with its application to a lymphoma cell",
+        "Polarisation and membrane voltage of ellipsoidal particle with a constant membrane thickness: a series expansion approach",
+        "The pathogenic basis of malaria",
+        "Electro-rotation: development of a technique for dielectric measurements on individual cells and particles",
+        "Dielectric spectroscopy of schizosaccharomyces pombe using electrorotation and electroorientation",
+        "Dielectrophoretic detection of changes in erythrocyte membranes following malarial infection"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011525",
+            "affilname": "Thailand National Electronics and Computer Technology Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011525",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Ratchadaphisek somphot Endowment Fund",
+        "Thailand Science Research and Innovation",
+        "Chulalongkorn University Fund",
+        "Mahidol University",
+        "National Research Council of Thailand",
+        "University of Tokyo"
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "eid": "2-s2.0-85092709311",
+    "title": "Numerical methods for jump-extended Cox-Ingersoll-Ross and constant elasticity of variance models",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (miscellaneous)",
+            "@code": "2201",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "It\u00f4 transformation",
+        "jump-adapted method",
+        "Jump-extended CIR and CEV models",
+        "weak order of convergence"
+    ],
+    "authors": [
+        "Purin Klunklar",
+        "Raywat Tanadkithirun",
+        "Petarpa Boonserm"
+    ],
+    "citedby-count": 0,
+    "ref-count": 8,
+    "ref-list": [
+        "Pricing American interest rate options under the jump-extended constant-elasticity-of-variance short rate models.",
+        "A theory of the term structure of interest rates.",
+        "The valuation of options for alternative stochastic processes",
+        "Approximation of jump diffusions in finance and economics.",
+        "Notes on stochastic finance lecture notes",
+        "A transformed jump-adapted backward euler method for jump-extended cir and cev models"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "DPST",
+        "Development and Promotion of Science and Technology Talents Project"
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "eid": "2-s2.0-85096759809",
+    "title": "Robust tuning and sensitivity analysis of stochastic integer and fractional-order PID control systems: application of surrogate-based robust simulation-optimization",
+    "cover-date": "2021-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Kriging",
+        "robust design",
+        "simulation experiments",
+        "stochastic PID controller",
+        "uncertainty management"
+    ],
+    "authors": [
+        "Amir Parnianifard",
+        "Mourad Fakhfakh",
+        "Mouna Kotti",
+        "Ali Zemouche",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 6,
+    "ref-count": 97,
+    "ref-list": [
+        "Multi-objective optimization of PID controller using pareto-based surrogate modeling algorithm for MIMO evaporator system",
+        "PID tuning for improved performance",
+        "Kriging-assisted robust black-box simulation optimization in direct speed control of DC motor under uncertainty",
+        "Pareto optimal robust design of fractional-order PID controllers for systems with probabilistic uncertainties",
+        "Robust design optimization of electrical machines considering hybrid random and interval uncertainties",
+        "Metamodel-based robust simulation-optimization assisted optimal design of multiloop integer and fractional-order PID controller",
+        "Robust control of nonlinear systems with parametric uncertainty",
+        "Searching for robust minimal-order compensators",
+        "PID control system analysis, design, and technology",
+        "Genetic tuning of digital PID controllers",
+        "Optimization of control parameters for genetic algorithms",
+        "Grey wolf optimizer algorithm-based tuning of fuzzy control systems with reduced parametric sensitivity",
+        "Position control of DC motor using genetic algorithm based PID controller",
+        "DSP-based laboratory implementation of hybrid fuzzy-PID controller using genetic optimization for high-performance motor drives",
+        "Velocity control of DC motor based intelligent methods and optimal integral state feed back controller",
+        "Tuning PID controller using multiobjective ant colony optimization",
+        "Enhanced speed control of a DC servo system using PI + DF controller tuned by stochastic fractal search technique",
+        "RAPID: the end of heuristic PID tuning",
+        "Hybrid simulation optimization methods a taxonomy and discussion",
+        "Simulation-optimization of complex systems: methods and applications",
+        "No free lunch theorems for optimization",
+        "Grey wolf optimizer",
+        "Internal model control and process uncertainty: mapping uncertainty regions for SISO controller design",
+        "A Monte Carlo approach to the analysis of control system robustness",
+        "Stochastic robustness synthesis applied to a benchmark control problem",
+        "Automatic tuning and adaptation for PID controllers\u2014a survey",
+        "Theoretical consideration of retarded control",
+        "Refinements of the Ziegler\u2013Nichols tuning formula",
+        "Optimum settings for automatic controllers",
+        "Optimal design of I-PD controller for DC motor speed control system by cuckoo search",
+        "First application of symbiotic organisms search algorithm to off-line optimization of PI parameters for DSP-based DC motor drives",
+        "PID controller tuning using metaheuristic optimization algorithms for benchmark problems",
+        "Optimal design of PID controller for the speed control of DC motor by using Metaheuristic techniques",
+        "Optimal design and tuning of novel fractional order PID power system stabilizer using a new metaheuristic Bat algorithm",
+        "A metaheuristic optimization approach for tuning of fractional-order PID controller for speed control of sensorless BLDC motor",
+        "An overview on robust design hybrid metamodeling: advanced methodology in process optimization under uncertainty",
+        "Recent developments in metamodel based robust black-box simulation optimization: an overview",
+        "Rotor pole design in spoke-type brushless DC motor by response surface method",
+        "Application of response surface methodology as a new PID tuning method in an electrocoagulation process control case",
+        "Design and analysis of computer experiments using polynomial regression and Latin hypercube sampling in optimal design of PID controller",
+        "Kriging assisted on-line torque calculation for brushless DC motors used in electric vehicles",
+        "Kriging and Latin hypercube sampling assisted simulation optimization in optimal design of PID controller for speed control of DC motor",
+        "Crossing weighted uncertainty scenarios assisted distribution-free metamodel-based robust simulation optimization",
+        "Comparison of three methods for selecting values of input variables in the analysis of output from a computer code",
+        "Comparative study of metamodeling and sampling design for expensive and semi-expensive simulation models under uncertainty",
+        "Design and analysis of computer experiments",
+        "A tutorial on Latin hypercube design of experiments",
+        "Efficient global optimization for high-dimensional constrained problems by using the Kriging models combined with the partial least squares method",
+        "Mixed-fidelity efficient global optimization applied to design of supersonic wing",
+        "Generation of surrogate models of Pareto-optimal performance trade-offs of planar inductors",
+        "A systematic comparison of metamodeling techniques for simulation optimization in decision support systems",
+        "Review of metamodeling techniques in support of engineering design optimization",
+        "Advances in surrogate based modeling, feasibility analysis, and optimization: a review",
+        "Resampling methods",
+        "Robust optimization in simulation: Taguchi and Krige combined",
+        "Monotonicity-preserving bootstrapped Kriging metamodels for expensive simulations",
+        "FOMCON: a MATLAB toolbox for fractional-order system identification and control",
+        "DACE\u2014a Matlab Kriging toolbox (version 2.0)",
+        "Robustness of Kriging when interpolating in random simulation with heterogeneous variances: some experiments",
+        "Tuning rules for optimal PID and fractional-order PID controllers",
+        "A comparative study of fractional order PI\u03bb/PI\u03bbD\u03bc tuning rules for stable first order plus time delay processes",
+        "FOPID controllers and their industrial applications: a survey of recent results 1",
+        "The ant lion optimizer",
+        "Optimal design of fractional-order PID controller for five bar linkage robot using a new particle swarm optimization algorithm",
+        "Optimization of fractional order PID controller using Grey wolf optimizer",
+        "Optimal fractional order PID controller design using Ant Lion Optimizer",
+        "A comprehensive review of swarm optimization algorithms",
+        "Biases in particle swarm optimization",
+        "Stochastic stability of particle swarm optimisation",
+        "Stochastic ranking for constrained evolutionary optimization",
+        "Self-adjusting parameter control for surrogate-assisted constrained optimization under limited budgets",
+        "Constrained optimization by radial basis function interpolation for high-dimensional expensive black-box problems with infeasible initial points",
+        "Benchmarking derivative-free optimization algorithms",
+        "Review of fractional PID controller"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Nancy",
+            "@id": "60104289",
+            "affilname": "Universit\u00e9 de Lorraine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104289",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Gabes",
+            "@id": "60070314",
+            "affilname": "Universit\u00e9 de Gab\u00e8s",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60070314",
+            "affiliation-country": "Tunisia"
+        },
+        {
+            "affiliation-city": "Sfax",
+            "@id": "60064746",
+            "affilname": "University of Sfax",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60064746",
+            "affiliation-country": "Tunisia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Chulalongkorn University"
+    ]
+}

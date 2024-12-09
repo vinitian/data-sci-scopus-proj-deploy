@@ -1,0 +1,101 @@
+{
+    "eid": "2-s2.0-85084321875",
+    "title": "Improving the accuracy of real-time precipitable water vapour using country-wide meteorological model with precise point positioning in Thailand",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Geography, Planning and Development",
+            "@code": "3305",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy (all)",
+            "@code": "2100",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atmospheric Science",
+            "@code": "1902",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [
+        "Kalman filtering",
+        "Modified BNC software",
+        "spherical-harmonics function"
+    ],
+    "authors": [
+        "Chaiyut Charoenphon",
+        "Chalermchon Satirapod"
+    ],
+    "citedby-count": 6,
+    "ref-count": 56,
+    "ref-list": [
+        "Estimating trends in atmospheric water vapor and temperature time series over Germany",
+        "Accuracy assessment of free web-based online GPS processing services and relative GPS solution software",
+        "Operational assimilation of GPS Zenith total delay observations into the met office numerical weather prediction models",
+        "GPS meteorology: mapping Zenith wet delays onto precipitable water",
+        "GPS meteorology: remote sensing of atmospheric water vapor using the global positioning system",
+        "Development of an improved empirical model for slant delays in the troposphere (GPT2w)",
+        "Troposphere mapping functions for GPS and very long baseline interferometry from European centre for medium-range weather forecasts operational analysis data",
+        "Near real-time estimation of water vapour in the troposphere using ground GNSS and the meteorological data",
+        "Monitoring precipitable water vapor in real-time using kinematic GPS precise point positioning in Thailand",
+        "Research on a method of real-time combination of precise GPS clock corrections",
+        "Geodesy by radio interferometry: effects of atmospheric modeling errors on estimates of baseline length",
+        "National/regional operational procedures of GPS water vapour networks and agreed international procedures",
+        "Real-time zenith tropospheric delays in support of numerical weather prediction applications",
+        "How well can online GPS PPP post-processing services be used to establish geodetic survey control networks?",
+        "Assessment of PPP for establishment of CORS network for municipal surveying in Middle East",
+        "Near real time GPS water vapor monitoring for numerical weather prediction in Germany",
+        "Real time precise point positioning: are we there yet",
+        "The role of ground-based GPS meteorological observations in numerical weather prediction",
+        "Retrieving precipitable water vapor data using GPS Zenith delays and global reanalysis data in China",
+        "Tropospheric refraction estimation using various models, radiosonde measurements and permanent GPS data",
+        "Precise tropospheric delay map of Thailand using GNSS precise point positioning technique",
+        "Precise point positioning using IGS orbit and clock products",
+        "GPT2: empirical slant delay model for radio space geodetic techniques",
+        "VMF3/GPT3: refined discrete and empirical troposphere mapping functions",
+        "The CNES real-time PPP with undifferenced integer ambiguity resolution demonstrator",
+        "A new global zenith tropospheric delay model IGGtrop for GNSS applications",
+        "Multi-GNSS meteorology: real-time retrieving of atmospheric water vapor from BeiDou, Galileo, GLONASS, and GPS observations",
+        "Real-time retrieval of precipitable water vapor from GPS and BeiDou observations",
+        "Program to calculate the least-squares estimates of the spherical harmonic expansion coefficients of an equally angular-gridded scalar field",
+        "Ocean tide loading (OTL) displacements from global and local grids: comparisons to GPS estimates over the shelf of Brittany, France",
+        "Analysing the Zenith tropospheric delay estimates in on-line precise point positioning (PPP) services and PPP software packages",
+        "Analysis of web-based online services for GPS relative and precise point positioning techniques",
+        "A comparative study of zenith tropospheric delay and precipitable water vapor estimates using scientific GPS processing software and web based automated PPP service",
+        "Evaluation of AIRS precipitable water vapor against ground-based GPS measurements over the Tibetan plateau and its surroundings",
+        "Ground-based GNSS ZTD/IWV estimation system for numerical weather prediction in challenging weather conditions",
+        "Refractive index formula for radio waves",
+        "Contributions to the theory of atmospheric refraction. Part II. Refraction corrections in satellite geodesy",
+        "Real-time GPS precise point positioning-based precipitable water vapor estimation for rainfall monitoring and forecasting",
+        "Impacts of real-time satellite clock errors on GPS precise point positioning-based troposphere zenith delay estimation",
+        "Deriving the mean tropospheric temperature model using AIRS and AMSU for GNSS precipitable water vapour estimation",
+        "Impact of a priori zenith hydrostatic delay errors on GPS estimates of station heights and zenith total delays",
+        "Impact of ground based GPS data on numerical weather prediction",
+        "Water vapor-weighted mean temperature and its impact on the determination of precipitable water vapor and its linear trend",
+        "A comprehensive comparison of atmospheric mapping functions for GPS measurements in Egypt",
+        "Real-time retrieval of precipitable water vapor from GPS precise point positioning",
+        "GPS PPP\u2010derived precipitable water vapor retrieval based on Tm/Ps from multiple sources of meteorological datasets in China",
+        "Precipitable water vapor retrieval and analysis by multiple data sources: ground-based GNSS, radio occultation, radiosonde, microwave satellite, and NWP reanalysis data",
+        "Consistency evaluation of precipitable water vapor derived from ERA5, ERA\u2010interim, GNSS, and radiosondes over China"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "DPT",
+        "Department of Land",
+        "Department of Public Works and Town & Country Planning",
+        "Hydro Informatics Institute",
+        "NRCT-NSFC",
+        "NRCT-NSFC"
+    ]
+}

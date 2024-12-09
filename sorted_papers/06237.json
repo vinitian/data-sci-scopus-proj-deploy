@@ -1,0 +1,136 @@
+{
+    "eid": "2-s2.0-85132918469",
+    "title": "Recurrent neural network-based model for estimating the life condition of a dry gas pipeline",
+    "cover-date": "2022-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Environmental Engineering",
+            "@code": "2305",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Environmental Chemistry",
+            "@code": "2304",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Chemical Engineering (all)",
+            "@code": "1500",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Oil and gas",
+        "Pipeline",
+        "Prediction",
+        "Recurrent neural networks",
+        "Safety"
+    ],
+    "authors": [
+        "Nagoor Basha Shaik",
+        "Watit Benjapolakul",
+        "Srinivasa Rao Pedapati",
+        "Kishore Bingi",
+        "Ngoc Thien Le",
+        "Widhyakorn Asdornwised",
+        "Surachai Chaitusaney"
+    ],
+    "citedby-count": 11,
+    "ref-count": 65,
+    "ref-list": [
+        "A robust risk assessment methodology for safety analysis of marine structures under storm conditions",
+        "An integrated method for human error probability assessment during the maintenance of offshore facilities",
+        "Forecasting particulate matter concentration using linear and non-linear approaches for air quality decision support",
+        "An integrated approach for dynamic economic risk assessment of process systems",
+        "Operational safety assessment of offshore pipeline with multiple MIC defects",
+        "Dynamic risk analysis of marine and offshore systems suffering microbial induced stochastic degradation",
+        "Offshore pipeline integrity assessment considering material and parametric uncertainty",
+        "Risk assessment of offshore crude oil pipeline failure",
+        "Film former corrosion inhibitors for oil and gas pipelines\u2013a technical review",
+        "Oil pipeline spill cause analysis: a classification tree approach",
+        "Future prediction & estimation of faults occurrences in oil pipelines by using data clustering with time series forecasting",
+        "Prediction of the critical gas flow rate for avoiding liquid accumulation in natural gas pipelines",
+        "A novel methodology for forecasting gas supply reliability of natural gas pipeline systems",
+        "Emission factor estimation for oil and gas facilities",
+        "Risk-based maintenance model for offshore oil and gas pipelines: a case study",
+        "Condition prediction models for oil and gas pipelines using regression analysis",
+        "Artificial neural network models for predicting condition of offshore oil and gas pipelines",
+        "A condition assessment model for oil and gas pipelines using integrated simulation and analytic network process",
+        "A novel fuzzy dynamic Bayesian network for dynamic risk assessment and uncertainty propagation quantification in uncertainty environment",
+        "Pipeline risk assessment using artificial intelligence: a case from the colombian oil network",
+        "Inspection and maintenance of oil & gas pipelines: a review of policies",
+        "Risk-based pipeline integrity management: a road map for the resilient pipelines",
+        "Advanced methods of risk assessment and management: an overview",
+        "Gas leakage detection using spatial and temporal neural network model",
+        "Analysis on accident-causing factors of urban buried gas pipeline network by combining DEMATEL, ISM and BN methods",
+        "Predicting corrosion remaining life of underground pipelines with a mechanically-based probabilistic model",
+        "A data-driven corrosion prediction model to support digitization of subsea operations",
+        "Risk assessment of offshore fire accidents caused by subsea gas release",
+        "Probabilistic fatigue failure assessment of free spanning subsea pipeline using dynamic Bayesian network",
+        "Quantitative assessment of leakage orifices within gas pipelines using a Bayesian network",
+        "Dynamic risk assessment of reservoir production using data-driven probabilistic approach",
+        "The role of human error in risk analysis: application to pre-and post-maintenance procedures of process facilities",
+        "Safety, Reliability and Risks Associated with Water, Oil and Gas Pipelines",
+        "SHIPP methodology: predictive accident modeling approach. Part I: Methodology and model description",
+        "SHIPP methodology: predictive accident modeling approach. Part II. Validation with case study",
+        "Real-time water level prediction of cascaded channels based on multilayer perception and recurrent neural network",
+        "Advanced intelligence frameworks for predicting maximum pitting corrosion depth in oil and gas pipelines",
+        "A model for predicting failure of oil pipelines",
+        "Risk analysis for oil & gas pipelines: a sustainability assessment approach using fuzzy based bow-tie analysis",
+        "A feed-forward back propagation neural network approach to predict the life condition of crude oil pipeline",
+        "Classification of faults in oil and gas pipelines using support vector machines",
+        "An intelligent model to predict the life condition of crude oil pipelines using artificial neural networks",
+        "Review on methods to fix number of hidden neurons in neural networks",
+        "A methodology for risk-based inspection planning of oil and gas pipes based on fuzzy logic framework",
+        "Corrosion risk assessment using adaptive bow-tie (ABT) analysis",
+        "Risk identification and quantitative evaluation method for asset integrity management of offshore platform equipment and facilities",
+        "Estimation of high energy steam piping degradation using hybrid recurrent neural networks",
+        "A review on pipeline corrosion, in-line inspection (ILI), and corrosion growth rate models",
+        "Life prediction",
+        "Failure probability analysis of the urban buried gas pipelines using Bayesian networks",
+        "Dynamic failure probability analysis of urban gas pipeline network",
+        "A review on pipeline integrity management utilizing in-line inspection data",
+        "SCADA system application and optimization for long-distance natural gas pipeline",
+        "Corrosion induced failure analysis of subsea pipelines",
+        "A review of risk-based decision-making models for microbiologically influenced corrosion (MIC) in offshore pipelines",
+        "A review of failure prediction models for oil and gas pipelines"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Vellore",
+            "@id": "60010618",
+            "affilname": "Vellore Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010618",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Seri Iskandar",
+            "@id": "60001278",
+            "affilname": "Universiti Teknologi PETRONAS",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001278",
+            "affiliation-country": "Malaysia"
+        }
+    ],
+    "funding": [
+        "Machine Learning",
+        "Ratchadapisek Somphot Fund for Artificial Intelligence",
+        "Second Century Fund",
+        "Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "eid": "2-s2.0-85124713792",
+    "title": "LOTR: Face Landmark Localization Using Localization Transformer",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Artificial neural networks",
+        "computer vision",
+        "deep learning",
+        "face recognition",
+        "image processing",
+        "machine learning"
+    ],
+    "authors": [
+        "Ukrit Watchareeruetai",
+        "Benjaphan Sommana",
+        "Sanjana Jain",
+        "Pavit Noinongyao",
+        "Ankush Ganguly",
+        "Aubin Samacoits",
+        "Samuel W.F. Earp",
+        "Nakarin Sritrakool"
+    ],
+    "citedby-count": 3,
+    "ref-count": 76,
+    "ref-list": [
+        "Attribute and simile classifiers for face verification",
+        "Similarity scores based on background samples",
+        "Deep face recognition",
+        "FaceNet: A unified embedding for face recognition and clustering",
+        "SphereFace: Deep hypersphere embedding for face recognition",
+        "CosFace: Large margin cosine loss for deep face recognition",
+        "ArcFace: Additive angular margin loss for deep face recognition",
+        "Partial FC: Training 10 million identities on a single machine",
+        "Fast quadtree-based pose estimation for security applications using face biometrics",
+        "One millisecond face alignment with an ensemble of regression trees",
+        "3D shape regression for real-Time facial animation",
+        "Unconstrained 3D face reconstruction",
+        "End-To-end 3D face reconstruction with deep neural networks",
+        "Joint 3D face reconstruction and dense alignment with position map regression network",
+        "Exposing GAN-synthesized faces using landmark locations",
+        "Facial expression recognition using facial landmarks and random forest classifier",
+        "3D facial landmarking under expression, pose, and occlusion variations",
+        "Active shape models-Their training and application",
+        "Active appearance models",
+        "Face alignment via component-based discriminative search",
+        "Face detection, pose estimation, and landmark localization in the wild",
+        "Optimal landmark detection using shape models and branch and bound",
+        "Localizing parts of faces using a consensus of exemplars",
+        "Facial component-landmark detection",
+        "Deep convolutional network cascade for facial point detection",
+        "Extensive facial landmark localization with coarse-To-fine convolutional network cascade",
+        "Coarse-To-fine auto-encoder networks (CFAN) for real-Time face alignment",
+        "Learning deep representation for face alignment with auxiliary attributes",
+        "HyperFace: A deep multitask learning framework for face detection, landmark localization, pose estimation, and gender recognition",
+        "Deep alignment network: A convolutional neural network for robust face alignment",
+        "Gaussian vector: An efficient solution for facial landmark detection",
+        "Attention is all you need",
+        "End-To-end object detection with transformers",
+        "Look at boundary: A boundary-Aware face alignment algorithm",
+        "Wing loss for robust facial landmark localisation with convolutional neural networks",
+        "Frontal to profile face verification in the wild",
+        "IARPA Janus benchmark-B face dataset",
+        "IARPA janus benchmark-C: Face dataset and protocol",
+        "Facial landmark detection by deep multi-Task learning",
+        "Style aggregated network for facial landmark detection",
+        "LUVLi face alignment: Estimating landmarks' location, uncertainty, and visibility likelihood",
+        "Stacked hourglass networks for human pose estimation",
+        "Convolutional pose machines",
+        "Simple baselines for human pose estimation and tracking",
+        "Distribution-Aware coordinate representation for human pose estimation",
+        "Grand challenge of 106-point facial landmark localization",
+        "Adaptive wing loss for robust face alignment via heatmap regression",
+        "Robust face landmark estimation under occlusion",
+        "Rich feature hierarchies for accurate object detection and semantic segmentation",
+        "Microsoft COCO: Common objects in context",
+        "Fast R-CNN",
+        "MobileNetV2: Inverted residuals and linear bottlenecks",
+        "Deep residual learning for image recognition",
+        "Deep high-resolution representation learning for visual recognition",
+        "300 faces in-The-wild challenge: The first facial landmark localization challenge",
+        "300 faces in-The-wild challenge: Database and results",
+        "Interactive facial feature localization",
+        "A semiautomatic methodology for facial landmark annotation",
+        "WIDER FACE: A face detection benchmark",
+        "ImageNet: A large-scale hierarchical image database",
+        "Dropout: A simple way to prevent neural networks from overfitting",
+        "Delving deep into rectifiers: Surpassing human-level performance on ImageNet classification",
+        "Large batch optimization for deep learning: Training BERT in 76 minutes",
+        "GluonCV and GluonNLP: Deep learning in computer vision and natural language processing",
+        "Labeled faces in the wild: A database for studying face recognition in unconstrained environments"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "127789176",
+            "affilname": "Sertis Vision Lab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/127789176",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "127789155",
+            "affilname": "QIS Capital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/127789155",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

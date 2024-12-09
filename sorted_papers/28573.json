@@ -1,0 +1,64 @@
+{
+    "eid": "2-s2.0-85079102942",
+    "title": "Model Predictive Control of Energy Management System for Economic Dispatch with Application to MHS Microgrid in Normal Operation",
+    "cover-date": "2019-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "economic dispatch",
+        "energy management system",
+        "load forecast",
+        "microgrid",
+        "model predictive control",
+        "recurrent neural network"
+    ],
+    "authors": [
+        "Tanwalai Panapongpakorn",
+        "David Banjerdpongchai"
+    ],
+    "citedby-count": 4,
+    "ref-count": 10,
+    "ref-list": [
+        "State space modeling of inverter based microgrids considering distributed secondary voltage control",
+        "Optimal dispatch strategy of hybrid power generation with battery energy storage system in islanding mode",
+        "Ems power dispatch of pv system installed in smart buildings with ev parking lot and vrb hybrid storage in distribution systems",
+        "Mixed iterative adaptive dynamic programming for optimal battery energy control in smart residential microgrids",
+        "Energy management system of hybrid power generation with battery energy storage and application to mhs smart grid project",
+        "Short-term load forecast for energy management system using neural networks with mutual information method of input selection",
+        "Design of cogeneration and analysis of economic and environmental optimal operations for building energy management system",
+        "Energy management and optimization of a pv/diesel/battery hybrid energy system using a combined dispatch strategy",
+        "Model predictive control energy dispatch to optimize renewable penetration for a microgrid with battery and thermal storage"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

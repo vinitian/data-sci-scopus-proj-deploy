@@ -1,0 +1,105 @@
+{
+    "eid": "2-s2.0-85168483053",
+    "title": "Review of flow accelerated corrosion mechanism, numerical analysis, and control measures",
+    "cover-date": "2023-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Chemistry (all)",
+            "@code": "1600",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Chemical Engineering (all)",
+            "@code": "1500",
+            "@abbrev": "CENG"
+        }
+    ],
+    "keywords": [
+        "Computational fluid dynamics",
+        "Flow accelerated corrosion",
+        "Fluid structure interaction",
+        "High pressure economizer",
+        "Process modelling"
+    ],
+    "authors": [
+        "Phuris Khunphakdee",
+        "Benjapon Chalermsinsuwan"
+    ],
+    "citedby-count": 0,
+    "ref-count": 78,
+    "ref-list": [
+        "The hydrodynamic effects of single-phase flow on flow accelerated corrosion in a 90-degree elbow",
+        "Predictions of hydrodynamic characteristics and corrosion rates using CFD in the piping systems of pressurized-water reactor power plant",
+        "Flow and mass transfer downstream of an orifice under flow accelerated corrosion conditions",
+        "Pipe wall thickness prediction with CFD based mass transfer coefficient and degradation feedback for flow accelerated corrosion",
+        "Flow accelerated corrosion: forms, mechanisms and case studies",
+        "Fundamentals of Fluid Mechanics",
+        "Influence of chromium on the flow-accelerated corrosion behavior of low alloy steels in 3.5% NaCl solution",
+        "Effect of chromium on the corrosion behaviour of low Cr-bearing alloy steel under an extremely high flow rate",
+        "Flow-accelerated corrosion assessment for SA106 and SA335 pipes with elbows and welds",
+        "Turbulent Flows",
+        "Proposal of a reynolds stress model for gas-particle turbulent flows and its application to cylone separators",
+        "Modelling Turbulence in Engineering and the Environment: Second-Moment Routes to Closure",
+        "A note on secondary flow in bends and bend combinations",
+        "Using computational fluid dynamics in combating erosion\u2013corrosion",
+        "Complexities in predicting erosion corrosion",
+        "Development of turbulence models for shear flows by a double expansion technique",
+        "Numerical prediction of erosion-corrosion in bends",
+        "Correlations for prediction of molecular diffusivities in liquids",
+        "A new turbulence model for predicting fluid flow and heat transfer in separating and reattaching flows\u2014I. Flow field calculations",
+        "The local enhancement of mass transfer at 180\u00b0 bends",
+        "The role of flow in flow accelerated corrosion under nuclear power plant conditions",
+        "Fluid Mechanics. International Edition ed",
+        "Fluid structure interaction analysis on wall thinned pipes",
+        "7 - Fatigue design rules for welded structures",
+        "Fluid\u2013structure-interaction analysis for welded pipes with flow-accelerated corrosion wall thinning",
+        "Flow-accelerated corrosion of pressure vessels in fossil plants",
+        "On-line monitoring system development for single-phase flow accelerated corrosion",
+        "- Modern energy conversion technologies",
+        "Comparison and validation of three process simulation programs during warm start-up procedure of a combined cycle power plant",
+        "Influence of bend geometry on flow accelerated corrosion under neutral pH conditions",
+        "Influence of flow velocity and temperature on flow accelerated corrosion rate at an elbow pipe",
+        "Hydrodynamic effects on flow accelerated corrosion at 120 \u00b0C and neutral pH conditions",
+        "Effect of hydrodynamics on the flow accelerated corrosion (FAC) and electrochemical impedance behavior of line pipe steel for petroleum industry",
+        "Effect of water chemistry factors on flow accelerated corrosion: pH, DO, hydrazine",
+        "Mathematical modeling of orifice downstream flow under flow-accelerated corrosion",
+        "Experimental investigation of flow accelerated corrosion under two-phase flow conditions",
+        "Machine learning and data-driven techniques for the control of smart power generation systems: an uncertainty handling perspective",
+        "A methodology for diagnosing FAC induced pipe thinning using accelerometers and deep learning models",
+        "Support-Vector Networks",
+        "7 - Deep convolutional neural network\u2013based image classification for COVID-19 diagnosis",
+        "Chapter six - data heterogeneity mitigation in healthcare robotic systems leveraging the Nelder\u2013Mead method",
+        "Note on the Cook's distance",
+        "Opportunities and challenges in using particle circulation loops for concentrated solar power applications",
+        "Characteristics of flow distribution in compact parallel flow heat exchangers, part I: Typical inlet header"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199582",
+            "affilname": "Center of Excellence on Petrochemical and Materials Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199582",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nontaburi",
+            "@id": "60022674",
+            "affilname": "Electricity Generating Authority of Thailand",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022674",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "National Research Council of Thailand and Chulalongkorn University",
+        "Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "eid": "2-s2.0-85047340848",
+    "title": "Measurement of characteristic parameters of 10 Gb/s bidirectional optical amplifier for XG-PON",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Condensed Matter Physics",
+            "@code": "3104",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Bidirectional Optical Amplifier",
+        "EDFA",
+        "SOA",
+        "XG-PON"
+    ],
+    "authors": [
+        "Suchaj Rakkammee",
+        "Budsara Boriboon",
+        "Duang Rudee Worasucheep",
+        "Naoya Wada"
+    ],
+    "citedby-count": 0,
+    "ref-count": 7,
+    "ref-list": [
+        "Active devices in passive optical networks: A review [invited]",
+        "0.73-W extremely low-power-consumption optical amplifier repeater for 10G-EPON systems",
+        "Long-reach and high-splitting-ratio 10G-EPON system with semiconductor optical amplifier and N:1 OSU protection [invited]",
+        "All-optical burst-mode power equalizer based on cascaded SOAs for 10-Gb/s EPONs"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Koganei",
+            "@id": "60032325",
+            "affilname": "Japan National Institute of Information and Communications Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032325",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

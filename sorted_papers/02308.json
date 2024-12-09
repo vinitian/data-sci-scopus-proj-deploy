@@ -1,0 +1,101 @@
+{
+    "eid": "2-s2.0-84948128179",
+    "title": "Hierarchical multi-label classification with SVMs: A case study in gene function prediction",
+    "cover-date": "2014-01-01",
+    "subject-areas": [
+        {
+            "$": "Artificial Intelligence",
+            "@code": "1702"
+        },
+        {
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707"
+        },
+        {
+            "$": "Theoretical Computer Science",
+            "@code": "2614"
+        }
+    ],
+    "keywords": [
+        "gene-function prediction",
+        "Hierarchical multi-label classification",
+        "support vector machines"
+    ],
+    "authors": [
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 17,
+    "ref-count": 52,
+    "ref-list": [
+        "Exploiting label dependency for hierarchical multi-label classification",
+        "Multi-label classification on tree- and DAG-structured hierarchies",
+        "Decision trees for hierarchical multilabel classification: A case study in functional genomics",
+        "Proceedings of the 15th International Conference on Machine Learning",
+        "Training Text Classifiers with Svm on Very Few Positive Examples",
+        "Predicting gene function in Saccharomyces cerevisiae",
+        "A review of performance evaluation measures for hierarchical classifiers",
+        "The Little SAS Book: A Primer",
+        "Irrelevant attributes and imbalanced classes in multi-label text-categorization domains",
+        "Hierarchical classification of web content",
+        "Improving protein function prediction using the hierarchical structure of the gene ontology",
+        "Proceedings of the 3rd Language Technology Conference",
+        "Selecting negative examples for hierarchical text classification: An experimental comparison",
+        "Accurate SVM text classification for highly skewed data using threshold tuning and query-expansion-based feature selection",
+        "An introduction to variable and feature selection",
+        "OHSUMED: An interactive retrieval evaluation and new large test collection for research",
+        "Z-SVM: An SVM for improved classification of imbalanced data",
+        "Prediction of human protein function from post-translational modifications and localization features",
+        "Text categorization with support vector machines: Learning with many relevant features",
+        "Principal Component Analysis",
+        "Proc of the BioLINK SIG: Linking Literature, Information and Knowledge for Biology (held at ISMB-05)",
+        "Proceedings of ICML-97, 14th International Conference on Machine Learning",
+        "Proceedings of the Fourteenth International Conference on Machine Learning",
+        "RCV1: A new benchmark collection for text categorization research",
+        "Gene classification using an improved SVM classifier with soft decision boundary",
+        "Proceedings of the Fifteenth International Conference on Machine Learning",
+        "Machine Learning on Non-homogeneous, Distributed Text Data",
+        "Text Classification for DAG-Structured Categories, of Lecture Notes in Computer Science",
+        "Incorporating functional inter-relationships into protein function prediction algorithms",
+        "Proceeding of Seventh Text REtrieval Conference (TREC-7)",
+        "Induction of Decision Trees",
+        "C4.5: Programs for Machine Learning (Morgan Kaufmann Series in Machine Learning)",
+        "Functions of the gene products of Escherichia coli",
+        "Combining subclassifiers in text categorization: A DST-based solution and a case study",
+        "Predicting gene function using hierarchical multi-label decision tree ensembles",
+        "3rd UK Data Mining and Knowledge Discovery Symposium UKKDD 2007 Canterbury",
+        "Boosting support vector machines for text classification through parameter-free threshold relaxation",
+        "SVM optimization: Inverse dependence on training set size",
+        "Data Mining and Knowledge Discovery",
+        "Estimating 3D hand pose using hierarchical multi-label classification",
+        "Hierarchical text classification and evaluation",
+        "On strategies for imbalanced text classification using SVM: A comparative study",
+        "Information Retrieval",
+        "The Nature of Statistical Learning Theory",
+        "Improving SVM performance in multi-label domains: Threshold adjustment",
+        "Fast induction of multiple decision trees in text categorization from large scale, imbalanced, and multi-label data",
+        "Decision trees for hierarchical multi-label classification",
+        "Support Vector Machines: Theory and Applications",
+        "Neural networks for protein classification",
+        "A new method of support vector machine for class imbalance problem",
+        "An evaluation of statistical approaches to text categorization",
+        "A Scalability Analysis of Classifiers in Text Categorization"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Coral Gables",
+            "affilname": "University of Miami College of Engineering",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Hydro and Agro Informatics Institute",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

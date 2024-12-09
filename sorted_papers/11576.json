@@ -1,0 +1,81 @@
+{
+    "eid": "2-s2.0-85024109215",
+    "title": "Probabilistic background model by density forests for tracking",
+    "cover-date": "2017-04-01",
+    "subject-areas": [
+        {
+            "$": "Artificial Intelligence",
+            "@code": "1702"
+        },
+        {
+            "$": "Computer Graphics and Computer-Aided Design",
+            "@code": "1704"
+        },
+        {
+            "$": "Computer Networks and Communications",
+            "@code": "1705"
+        },
+        {
+            "$": "Computer Science Applications",
+            "@code": "1706"
+        },
+        {
+            "$": "Software",
+            "@code": "1712"
+        }
+    ],
+    "keywords": [
+        "Background model",
+        "Density forests",
+        "Image processing",
+        "Object tracking",
+        "Particle filter"
+    ],
+    "authors": [
+        "Daimu Oiwa"
+    ],
+    "citedby-count": 0,
+    "ref-count": 10,
+    "ref-list": [
+        "Imaging",
+        "Random forests",
+        "Decision Forests: A Unified Framework for Classification, Regression, Density Estimation, Manifold Learning and Semi-supervised Learning",
+        "Particle filter-based visual tracking with a first order dynamic model and uncertainty adaptation",
+        "Robust tracking method to intersections of objects with similar patterns",
+        "CONDENSATION - Conditional Density Propagation for Visual Tracking",
+        "An MCMC-based particle filter for tracking multiple interacting targets",
+        "Semi-supervised Learning Scheme Using Dirichlet Process EM-algorithm",
+        "Color indexing",
+        "Robust tracking method based on particle filter for crossing of targets with similar appearances"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Kariya",
+            "affilname": "Aichi University of Education",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Nagoya",
+            "affilname": "Nagoya Institute of Technology",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Guwahati",
+            "affilname": "Indian Institute of Technology Guwahati",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Kasugai",
+            "affilname": "Chubu University",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Japan Society for the Promotion of Science"
+    ]
+}

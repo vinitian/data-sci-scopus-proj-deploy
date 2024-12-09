@@ -1,0 +1,99 @@
+{
+    "eid": "2-s2.0-85143979794",
+    "title": "Sugarcane Classification for On-Site Assessment Using Computer Vision",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Decision Sciences (miscellaneous)",
+            "@code": "1801",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "agricultural technology",
+        "agritech",
+        "agtech",
+        "computer vision",
+        "convolutional neural networks",
+        "sugarcane"
+    ],
+    "authors": [
+        "Piyapoj Kasempakdeepong",
+        "Pondsulee Ponchaiyapruek",
+        "Pattamon Viriyothai",
+        "Anuwat Songchumrong",
+        "Pittipol Kantavat",
+        "Prasertsak Pungprasertying"
+    ],
+    "citedby-count": 0,
+    "ref-count": 11,
+    "ref-list": [
+        "Very deep convolutional networks for large-scale image recognition",
+        "A Survey on Image Data Augmentation for Deep Learning",
+        "MobileNets: Efficient convolutional neural networks for mobile vision applications",
+        "Xception: Deep learning with depthwise separable convolutions",
+        "Going deeper with convolutions",
+        "Metrics for multi-class classification: An overview"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Saraburi",
+            "@id": "127086733",
+            "affilname": "Ltd.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/127086733",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pitsanulok",
+            "@id": "124932585",
+            "affilname": "Independent Researcher",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/124932585",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

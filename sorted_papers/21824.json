@@ -1,0 +1,64 @@
+{
+    "eid": "2-s2.0-85127442642",
+    "title": "EVALUATION of SATELLITE IMAGERY DATA for CROP YIELD SIMULATION in SARABURI PROVINCE, THAILAND",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "CC",
+        "Crop model",
+        "Landsat 8",
+        "Saraburi",
+        "Vegetation Index"
+    ],
+    "authors": [
+        "Kulapramote Prathumchai",
+        "Masahiko Nagai",
+        "Kullachart Prathumchai",
+        "Anisara Pensuk Tibkaew"
+    ],
+    "citedby-count": 0,
+    "ref-count": 25,
+    "ref-list": [
+        "Huaykahmin:Thailand first smart farm model on rice field, Hot Issue of the Month",
+        "AquaCrop-The FAO crop model to simulate yield response to water: III. Parameterization and testing for maize",
+        "Estimation of winter wheat biomass and yield by combining the aquacrop model and field hyperspectral data",
+        "Estimation of rice yield by SIMRIW-RS, a model that integrates remote sensing data into a crop growth model",
+        "Application of remote sensors in mapping rice area and forecasting its production: a review",
+        "European Rice Cropland Mapping with Sentinel-1 Data: The Mediterranean Region Case Study",
+        "Forecasting Transplanted Rice Yield at the Farm Scale Using Moderate-Resolution Satellite Imagery and the AquaCrop Model: A Case Study of a Rice Seed Production Community in Thailand",
+        "Crop yield estimation: integrating RS, GIS and field measurement for supporting smart farm project in Huaykhamin, Saraburi, Thailand",
+        "Calibration and validation of AquaCrop for full and deficit irrigation of hot paper",
+        "Evaluation of the AquaCrop model for Simulation Yield Response of inter Wheat to Water on the Southern Loess Plateau of China"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60021944",
+            "affilname": "Kasetsart University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021944",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Yamaguchi",
+            "@id": "60020739",
+            "affilname": "Yamaguchi University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020739",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

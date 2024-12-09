@@ -1,0 +1,102 @@
+{
+    "eid": "2-s2.0-85169151764",
+    "title": "Sensorless Estimation of Human Joint Torque for Robust Tracking Control of Lower-Limb Exoskeleton Assistive Gait Rehabilitation",
+    "cover-date": "2023-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "extended state observer",
+        "gait cycle tracking",
+        "human torque estimation",
+        "integral sliding mode control",
+        "rehabilitation robot"
+    ],
+    "authors": [
+        "Auwalu Muhammad Abdullahi",
+        "Ronnapee Chaichaowarat"
+    ],
+    "citedby-count": 0,
+    "ref-count": 51,
+    "ref-list": [
+        "Review of control strategies for lower-limb exoskeletons to assist gait",
+        "Sensors and Actuation Technologies in Exoskeletons: A Review",
+        "Effects of control strategies on gait in robot-assisted post-stroke lower limb rehabilitation: A systematic review",
+        "A Review on Lower Limb Rehabilitation Exoskeleton Robots",
+        "Structure design of active power-assist lower limb exoskeleton APAL robot",
+        "Simulation-based biomechanical assessment of unpowered exoskeletons for running",
+        "Passive Knee Exoskeleton Using Brake Torque to Assist Stair Ascent",
+        "Cycling-enhanced Knee Exoskeleton Using Planar Spiral Spring",
+        "Variable Damping Actuator Using an Electromagnetic Brake for Impedance Modulation in Physical Human\u2013Robot Interaction",
+        "Activity Classification Feasibility Using Wearables: Considerations for Hip Fracture",
+        "Use of Machine Learning for Early Detection of Knee Osteoarthritis and Quantifying Effectiveness of Treatment Using Force Platform",
+        "Estimation of Knee Assistive Moment in a Gait Cycle Using Knee Angle and Knee Angular Velocity through Machine Learning and Artificial Stiffness Control Strategy (MLASCS)",
+        "A User-Friendly Nonmotorized Device for Ankle Rehabilitation",
+        "Bayesian human intention estimator for exoskeleton system",
+        "On the EMG-based torque estimation for humans coupled with a force-controlled elbow exoskeleton",
+        "A Practical and Adaptive Method to Achieve EMG-Based Torque Estimation for a Robotic Exoskeleton",
+        "Shoulder girdle recognition using electrophysiological and low frequency anatomical contraction signals for prosthesis control",
+        "EMG/EEG Signals-based Control of Assistive and Rehabilitation Robots",
+        "Human-machine interfaces based on EMG and EEG applied to robotic systems",
+        "A Human Joint Torque Estimation Method for Elbow Exoskeleton Control",
+        "Design of a Passive Gravity-Balanced Assistive Device for Sit-to-Stand Tasks",
+        "A Simplified Inverse Dynamics Modelling Method for a Novel Rehabilitation Exoskeleton with Parallel Joints and Its Application to Trajectory Tracking",
+        "Inverse dynamics learned gait planning of an exoskeleton to negotiate uneven terrains using neural networks",
+        "Neural-Network Inverse Dynamic Online Learning Control on Physical Exoskeleton",
+        "A nonlinear disturbance observer for robotic manipulators",
+        "Macro-Mini Linear Actuator Using Electrorheological-Fluid Brake for Impedance Modulation in Physical Human\u2013Robot Interaction",
+        "Design and Modeling of a Variable-Stiffness Spring Mechanism for Impedance Modulation in Physical Human\u2013Robot Interaction",
+        "Work in the Time of COVID-19: Actuators and Sensors for Rehabilitation Robotics",
+        "Human-Robot Interaction: Controller Design and Stability",
+        "Gait Neural Network for Human-Exoskeleton Interaction",
+        "A Neural Network-Based Gait Phase Classification Method Using Sensors Equipped on Lower Limb Exoskeleton Robots",
+        "Assistive robotic exoskeleton using recurrent neural networks for decision taking for the robust trajectory tracking",
+        "Humanoid control of lower limb exoskeleton robot based on human gait data with sliding mode neural network",
+        "Periodic event-triggered sliding mode control for lower limb exoskeleton based on human\u2013robot cooperation",
+        "External Torque Estimation Using Higher Order Sliding-Mode Observer for Robot Manipulators",
+        "Position and stiffness control of an antagonistic variable stiffness actuator with input delay using super-twisting sliding mode control",
+        "A linear discrete-time extended state observer-based intelligent PD controller for a 12 DOFs lower limb exoskeleton LLE-RePA",
+        "Sliding mode control combined with extended state observer for an ankle exoskeleton driven by electrical motor",
+        "Extended State Observer-Based Nonlinear Terminal Sliding Mode Control with Feedforward Compensation for Lower Extremity Exoskeleton",
+        "An admittance controller based on assistive torque estimation for a rehabilitation leg exoskeleton",
+        "Admittance Control of Powered Exoskeletons Based on Joint Torque Estimation",
+        "Patterns of whole-body muscle activations following vertical perturbations during standing and walking",
+        "Rectus femoris hyperreflexia contributes to Stiff-Knee gait after stroke",
+        "Robot-assisted gait training: More randomized controlled trials are needed! Or maybe not?",
+        "Analysis and design of integral sliding manifolds for systems with unmatched perturbations",
+        "Assistive Mobility Control of a Robotic Hip-Knee Exoskeleton for Gait Training",
+        "Efficient control of a 3D overhead crane with simultaneous payload hoisting and wind disturbance: Design, simulation and experiment",
+        "Mathematical modeling and control of lower extremity exoskeleton",
+        "A model-free control method for estimating the joint angles of the knee exoskeleton",
+        "Transformable Wheelchair\u2013Exoskeleton Hybrid Robot for Assisting Human Locomotion"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Second Century Fund",
+        "Chulalongkorn University",
+        "Thailand Science Research and Innovation Fund"
+    ]
+}

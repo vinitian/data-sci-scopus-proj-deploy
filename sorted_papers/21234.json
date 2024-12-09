@@ -1,0 +1,114 @@
+{
+    "eid": "2-s2.0-85088963600",
+    "title": "Robust short-term electrical load forecasting framework for commercial buildings using deep recurrent neural networks",
+    "cover-date": "2020-11-15",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Building and Construction",
+            "@code": "2215",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy (all)",
+            "@code": "2100",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Management, Monitoring, Policy and Law",
+            "@code": "2308",
+            "@abbrev": "ENVI"
+        }
+    ],
+    "keywords": [
+        "Deep learning",
+        "Ensemble model",
+        "Sensitivity analysis",
+        "Short-term electrical load forecasting",
+        "Uncertainties in weather forecasts",
+        "Unsupervised clustering"
+    ],
+    "authors": [
+        "Gopal Chitalia",
+        "Manisa Pipattanasomporn",
+        "Vishal Garg",
+        "Saifur Rahman"
+    ],
+    "citedby-count": 96,
+    "ref-count": 64,
+    "ref-list": [
+        "Heating and cooling energy trends and drivers in buildings",
+        "Deep learning for estimating building energy consumption",
+        "Short-term forecasting of the Abu Dhabi electricity load using multiple weather variables",
+        "Smart distribution grid multistage expansion planning under load forecasting uncertainty",
+        "An energy management model to study energy and peak power savings from pv and storage in demand responsive buildings",
+        "Dr-advisor: A data-driven demand response recommender system",
+        "Demand management to mitigate impacts of plug-in electric vehicle fast charge in buildings with renewables",
+        "Integrated automation for optimal demand management in commercial buildings considering occupant comfort",
+        "Integration of distributed energy resources into low voltage grid: A market-based multiperiod optimization model",
+        "Comparative analysis of auction mechanisms and bidding strategies for p2p solar transactive energy markets",
+        "Multiobjective intelligent energy management for a microgrid",
+        "A comprehensive overview on the data driven and large scale based approaches for forecasting of building energy demand: A review",
+        "State of the art in building modelling and energy performances prediction: A review",
+        "Electricity consumption forecasting models for administration buildings of the uk higher education sector",
+        "Pattern-based local linear regression models for short-term load forecasting",
+        "Nonparametric regression based short-term load forecasting",
+        "Short-term load forecasting for the holidays using fuzzy linear regression method",
+        "Short term electricity load forecasting for institutional buildings",
+        "Short-term load forecasting of australian national electricity market by an ensemble model of extreme learning machine",
+        "A strategy for short-term load forecasting by support vector regression machines",
+        "Short-term prediction of electric demand in building sector via hybrid support vector regression",
+        "Forecasting energy consumption of multi-family residential buildings using support vector regression: Investigating the impact of temporal and spatial monitoring granularity on performance accuracy",
+        "Development of prediction models for next-day building energy consumption and peak power demand using data mining techniques",
+        "Short-term transmission-loss forecast for the slovenian transmission power system based on a fuzzy-logic decision approach",
+        "Short term load forecasting using wavelet transform combined with holt-winters and weighted nearest neighbor models",
+        "Hybrid methodologies for electricity load forecasting: entropy-based feature selection with machine learning and soft computing techniques",
+        "A hybrid method based on wavelet, ann and arima model for short-term load forecasting",
+        "Modeling and forecasting of cooling and electricity load demand",
+        "Short-term load forecasting in a non-residential building contrasting models and attributes",
+        "A review and analysis of regression and machine learning models on commercial building electricity load forecasting",
+        "Uncertainty estimation improves energy measurement and verification proceduresforecasting",
+        "Clustering-based analysis for residential district heating data",
+        "Predicting electricity consumption for commercial and residential buildings using deep recurrent neural networks",
+        "Short-term load forecasts using lstm networks",
+        "Neural network model for short-term and very-short-term load forecasting in district buildings",
+        "A short-term building cooling load prediction method using deep learning algorithms",
+        "Recurrent inception convolution neural network for multi short-term load forecasting",
+        "Deep learning for household load forecasting\u2013a novel pooling deep RNN",
+        "Deep learning framework to forecast electricity demand",
+        "Modeling and forecasting building energy consumption: A review of data-driven techniques",
+        "Long short-term memory"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Blacksburg",
+            "@id": "60027090",
+            "affilname": "Virginia Polytechnic Institute and State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027090",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Hyderabad",
+            "@id": "60000163",
+            "affilname": "International Institute of Information Technology, Hyderabad",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000163",
+            "affiliation-country": "India"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,155 @@
+{
+    "eid": "2-s2.0-85165558438",
+    "title": "Analysis of brain edema in RHAPSODY",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Neurology",
+            "@code": "2808",
+            "@abbrev": "NEUR"
+        },
+        {
+            "@_fa": "true",
+            "$": "Neurology (clinical)",
+            "@code": "2728",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "edema",
+        "imaging markers",
+        "Ischemic stroke"
+    ],
+    "authors": [
+        "Riana L. Schleicher",
+        "Pongpat Vorasayan",
+        "Megan E. McCabe",
+        "Matthew B. Bevers",
+        "Thomas P. Davis",
+        "John H. Griffin",
+        "Archana Hinduja",
+        "Ashutosh P. Jadhav",
+        "Jin Moo Lee",
+        "Robert N. Sawyer",
+        "Berislav V. Zlokovic",
+        "Kevin N. Sheth",
+        "Janel K. Fedler",
+        "Patrick Lyden",
+        "W. Taylor Kimberly"
+    ],
+    "citedby-count": 0,
+    "ref-count": 21,
+    "ref-list": [
+        "Ischaemic brain oedema",
+        "Brain oedema in focal ischaemia: molecular pathophysiology and theoretical implications",
+        "Brain edema predicts outcome after nonlacunar ischemic stroke",
+        "CSF volumetric analysis for quantification of cerebral edema after hemispheric infarction",
+        "Intravenous glibenclamide reduces lesional water uptake in large hemispheric infarction",
+        "Computed tomography\u2013based quantification of lesion water uptake identifies patients within 4.5 hours of stroke onset: a multicenter observational study",
+        "Quantitative lesion water uptake in acute stroke computed tomography is a predictor of malignant infarction",
+        "Quantifying infarct growth and secondary injury volumes: comparing multimodal image registration measures",
+        "Lateral displacement of the brain and level of consciousness in patients with an acute hemispheral mass",
+        "Brain shift, level of consciousness, and restoration of consciousness in patients with acute intracranial hematoma",
+        "Midline shift greater than 3 mm independently predicts outcome after ischemic stroke",
+        "Mass effect and death from severe acute stroke",
+        "Comparative analysis of markers of mass effect after ischemic stroke",
+        "Final results of the RHAPSODY trial: a multi-center, phase 2 trial using a continual reassessment method to determine the safety and tolerability of 3K3A-APC, a recombinant variant of human activated protein C, in combination with tissue plasminogen activator, mechanical thrombectomy or both in moderate to severe acute ischemic stroke",
+        "Selecting patients for intra-arterial therapy in the context of a clinical trial for neuroprotection",
+        "Safety and efficacy of intravenous glyburide on brain swelling after large hemispheric infarction (GAMES-RP): a randomised, double-blind, placebo-controlled phase 2 trial",
+        "Validating imaging biomarkers of cerebral edema in patients with severe ischemic stroke",
+        "Reduction in cerebrospinal fluid volume as an early quantitative biomarker of cerebral edema after ischemic stroke",
+        "Brain edema after ischaemic stroke",
+        "Quantitative serial CT imaging-derived features improve prediction of malignant cerebral edema after ischemic stroke",
+        "Correlation between computed tomography-based tissue net water uptake and volumetric measures of cerebral edema after reperfusion therapy"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Los Angeles",
+            "@id": "60015183",
+            "affilname": "Keck School of Medicine of USC",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015183",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Buffalo",
+            "@id": "60101632",
+            "affilname": "Jacobs School of Medicine and Biomedical Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60101632",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60029929",
+            "affilname": "Massachusetts General Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029929",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Iowa City",
+            "@id": "60024324",
+            "affilname": "University of Iowa",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024324",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "St. Louis",
+            "@id": "60022756",
+            "affilname": "Washington University School of Medicine in St. Louis",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022756",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "New Haven",
+            "@id": "60017994",
+            "affilname": "Yale School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017994",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60016782",
+            "affilname": "Brigham and Women's Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016782",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Columbus",
+            "@id": "60015140",
+            "affilname": "The Ohio State University Wexner Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015140",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Tucson",
+            "@id": "60001805",
+            "affilname": "The University of Arizona Health Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001805",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Phoenix",
+            "@id": "60001362",
+            "affilname": "Barrow Neurological Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001362",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "San Diego",
+            "@id": "109457933",
+            "affilname": "Scripps Research",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/109457933",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Biogen"
+    ]
+}

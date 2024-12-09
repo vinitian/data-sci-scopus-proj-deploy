@@ -1,0 +1,81 @@
+{
+    "eid": "2-s2.0-85147661938",
+    "title": "Local limit theorems without assuming finite third moment",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analysis",
+            "@code": "2603",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Discrete Mathematics and Combinatorics",
+            "@code": "2607",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Characteristic function",
+        "Lattice random variable",
+        "Local limit theorem",
+        "Normal density function",
+        "Rate of convergence"
+    ],
+    "authors": [
+        "Punyapat Kammoo",
+        "Kittipong Laipaporn",
+        "Kritsana Neammanee"
+    ],
+    "citedby-count": 2,
+    "ref-count": 19,
+    "ref-list": [
+        "An improvement of convergence rate in the local limit theorem for integral-valued random variables",
+        "A local limit theorem for Poisson binomial random variables",
+        "Limit theorems for densities and asymptotic decompositions for distributions of sums of independent random variables",
+        "Lower and upper bounds for characteristic functions",
+        "An estimate of the modulus of the characteristic function of a lattice distribution with application to remainder term estimates in local limit theorems",
+        "An upper bound for characteristic functions of lattice distributions with applications to survival probabilities of quantum states",
+        "Bound for characteristic functions and Laplace transforms of probability distributions",
+        "The local limit theorem: a historical perspective",
+        "Convergence rate estimates in local limit theorems for Poisson random sums",
+        "Approximate local limit theorems with effective rate and application to random walks in random scenery",
+        "On a bound of absolute constant in the Berry-Esseen inequality for i.i.d. Bernoulli random variables",
+        "On the approximation of a binomial random sum",
+        "Partitions into distinct large parts"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tha Sala",
+            "@id": "60026526",
+            "affilname": "Walailak University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026526",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60001884",
+            "affilname": "Ministry of Higher Education, Science, Research and Innovation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001884",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "DPST",
+        "Development and Promotion of Science and Technology Talents Project"
+    ]
+}

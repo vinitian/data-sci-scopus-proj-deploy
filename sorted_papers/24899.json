@@ -1,0 +1,83 @@
+{
+    "eid": "2-s2.0-85049593866",
+    "title": "Neural network based application with particle swarm optimization algorithm in prediction model of L. Vannamei Shrimp cultivation system",
+    "cover-date": "2018-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Building and Construction",
+            "@code": "2215",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Artificial neural network",
+        "Particle swarm optimization (PSO)",
+        "Shrimp cultivation system"
+    ],
+    "authors": [
+        "Thanapat Yeekhaday",
+        "Veera Muangsin",
+        "Chupun Gowanich"
+    ],
+    "citedby-count": 0,
+    "ref-count": 22,
+    "ref-list": [
+        "Swarm intelligence in optimal management of aquaculture farms",
+        "A stochastic nonlinear model for coordinated bird flocks",
+        "A new optimizer using particle swarm theory",
+        "Fundamentals of particle swarm optimization techniques",
+        "Importance of controlling community structure of living organism in intensive shrimp culture ponds",
+        "Survival and growth performance of pacific white shrimp litopenaeus vannamei (Boone1931) under different stocking densities",
+        "Modeling and simulation of post-evaluation based on rough setneural network",
+        "Neural network model with particle swarn optimization for prediction in gas metering systems",
+        "Design optimization based on neural network and genetic algorithm",
+        "Analysis of particle swarm optimization algorithm",
+        "Particle swarm optimization and its applications in power systems",
+        "Application of neural network based on PSO algorithm in prediction model for dissolved oxygen in fishpond",
+        "Pattern classification and prediction of water quality by neural network with particle swarm optimization",
+        "Prediction of uniaxial compressive strength of rock samples using hybrid particle swarm optimization-based artificial neural networks Measurement",
+        "Multi - Objective particle swarm optimization for flexible job shop scheduling problem",
+        "A novel approach to optimal design of pi controller of doubly fed induction generator using particle swarm optimization",
+        "Topology and parameter selection of particle swarm optimization- A heuristics study"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "120948045",
+            "affilname": "MaungThai Insurance PCL",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/120948045",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "National Research University Project",
+        "Office of Higher Education Commission",
+        "Chulalongkorn University"
+    ]
+}

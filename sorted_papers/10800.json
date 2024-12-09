@@ -1,0 +1,65 @@
+{
+    "eid": "2-s2.0-85107791818",
+    "title": "Fault Cause Classification on PEA 33 kV Distribution System using Supervised Machine Learning compared to Artificial Neural Network",
+    "cover-date": "2021-03-10",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "artificial neural network",
+        "fault cause classification",
+        "machine learning",
+        "waveform analysis"
+    ],
+    "authors": [
+        "Witsanu Promrat",
+        "Wuttiphong Pupatanan",
+        "Watit Benjapolakul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 9,
+    "ref-list": [
+        "Recognizing animal-caused faults in power distribution systems using artificial neural networks",
+        "Classification of transmission line faults with waveform characterization",
+        "Application of big data and machine learning in smart grid, and associated security concerns: A review",
+        "Machine learning",
+        "The application of fault signature analysis in tenaga nasional berhad malaysia",
+        "A review of supervised machine learning algorithms",
+        "Feature selection using sequential forward selection and classification applying artificial metaplasticity neural network",
+        "Estimation of prediction error by using k-fold cross-validation",
+        "Machine learning based fault type identification in the active distribution network"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "PEA"
+    ]
+}

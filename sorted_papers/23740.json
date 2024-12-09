@@ -1,0 +1,69 @@
+{
+    "eid": "2-s2.0-85082456398",
+    "title": "Draft genome sequence and annotation of paracoccus versutus MAL 1HM19, a nitrate-reducing, sulfide-oxidizing bacterium",
+    "cover-date": "2020-03-05",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Immunology and Microbiology (miscellaneous)",
+            "@code": "2401",
+            "@abbrev": "IMMU"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Wannapawn Watsuntorn",
+        "Thammaporn Kojonna",
+        "Eldon R. Rene",
+        "Piet N.L. Lens",
+        "Warawut Chulalaksananukul"
+    ],
+    "citedby-count": 2,
+    "ref-count": 12,
+    "ref-list": [
+        "Sulfur-oxidizing bacteria in environmental technology",
+        "Genome sequence of Paracoccus sp. Strain TRP, a chlorpyrifos biodegrader",
+        "Nitrate-dependent [Fe(II)EDTA]2oxidation by Paracoccus ferrooxidans sp. Nov., isolated from a denitrifying bioreactor",
+        "Isolation and characterization of a new Gram-negative, acetone-degrading, nitrate-reducing bacterium from soil, Paracoccus solventivorans sp. Nov",
+        "Microbial degradation of pyridine by Paracoccus sp. Isolated from contaminated soil",
+        "Microbial degradation mechanism of pyridine by Paracoccus sp. NJUST30 newly isolated from aerobic granules",
+        "Paracoccus indicus sp. Nov., isolated from surface seawater in the Indian Ocean",
+        "Hydrogen sulfide oxidation under anoxic conditions by a nitrate-reducing, sulfide-oxidizing bacterium isolated from the Mae Um Long Luang hot spring, Thailand",
+        "The genome sequence of the highly acetic acid-tolerant Zygosaccharomyces bailii-derived interspecies hybrid strain ISA1307, isolated from a sparkling wine plant",
+        "Fast and accurate long-read alignment with Burrows-Wheeler transform",
+        "De novo assembly of human genomes with massively parallel short read sequencing",
+        "NCBI prokaryotic genome annotation pipeline"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Delft",
+            "@id": "60022091",
+            "affilname": "IHE Delft Institute for Water Education",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022091",
+            "affiliation-country": "Netherlands"
+        }
+    ],
+    "funding": [
+        "Omics Sciences & Bioinformatics Center",
+        "Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "eid": "2-s2.0-85102681508",
+    "title": "An automated framework for bpmn model verification achieving branch coverage",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "BPMN",
+        "Colored Petri net",
+        "Formal verification",
+        "Model checking",
+        "Software model"
+    ],
+    "authors": [
+        "Chanon Dechsupa",
+        "Wiwat Vatanawood",
+        "Arthit Thongtak"
+    ],
+    "citedby-count": 2,
+    "ref-count": 50,
+    "ref-list": [
+        "An introduction to the theoretical aspects of coloured Petri net",
+        "Coloured Petri nets and CPN tools for modelling and validation of concurrent systems",
+        "Hierarchical verification for the BPMN design model using state space analysis",
+        "Business process verification: The application of model checking and timed automata",
+        "VBPMN: Automated verification of BPMN processes (Tool Paper)",
+        "Soundness of workflow nets: classification, decidability, and analysis",
+        "A survey of formal business process verification: From soundness to variability",
+        "Black box and white box testing techniques-a literature review",
+        "Generating test data for branch coverage",
+        "Temporal logic patterns for querying dynamic models of cellular interaction networks",
+        "Coloured Petri nets: Basic concepts, analysis methods and practical use",
+        "On reachability graphs of Petri nets",
+        "Test case generation from BPMN models for automated testing of Web-based BPM applications",
+        "Modeling test cases in BPMN for behavior-driven development",
+        "A Weak mutation testing framework for BPMN",
+        "Test case generation of web service composition based on CP-nets",
+        "GAmera: A tool for WS-BPEL composition testing using mutation analysis",
+        "Design of a tool for generating test cases from BPMN",
+        "A tool for generating test case from BPMN diagram with a BPEL diagram",
+        "A tool for the automatic verification of bpmn choreographies",
+        "BProVe: A formal verification framework for business process models",
+        "Formal analysis of BPMN models using Event-B",
+        "An approach to construct formal model of business process model from BPMN workflow patterns",
+        "Verification of business process entailment constraints using SPIN",
+        "CPN ML programming",
+        "Framework for business process verification",
+        "Detecting data-flow errors in BPMN 2.0",
+        "Overview of verification tools for business process models",
+        "Process mining and verification of properties: An approach based on temporal logic",
+        "Verification of BPMN 2.0 process models: an event log-based approach",
+        "Lola a low level analyser",
+        "The ProM framework: A new era in process mining tool support",
+        "NuSMV: A new symbolic model verifier",
+        "Cash withdrawal from ATM machine using mobile banking",
+        "An algorithm for subgraph isomorphism"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

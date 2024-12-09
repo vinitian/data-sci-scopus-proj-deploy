@@ -1,0 +1,61 @@
+{
+    "eid": "2-s2.0-85081287147",
+    "title": "Large-scale complex network analysis to investigate associations of disordered proteins and scale-free network",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Degree distribution",
+        "Disordered protein",
+        "Power-law form",
+        "Protein-protein interaction network",
+        "Scale-free network"
+    ],
+    "authors": [
+        "Satanat Kitsiranuwat",
+        "Kitiporn Plaimas",
+        "Apichat Suratanee"
+    ],
+    "citedby-count": 0,
+    "ref-count": 12,
+    "ref-list": [
+        "OMIM.org: Online Mendelian Inheritance in Man (OMIM \u00ae), an online catalog of human genes and genetic disorders",
+        "Power and centrality: a family of measures",
+        "SMOTE: Synthetic minority over-sampling technique",
+        "Intrinsic disorder is a common feature of hub proteins from four eukaryotic interactomes",
+        "Comparison of centralities for biological network",
+        "An overview of predictors for intrinsically disordered proteins over 2010-2014",
+        "Identifying essential genes in bacterial metabolic networks with machine learning methods",
+        "Yeast protein- protein interaction network model based on biological experimental data",
+        "DisProt: The database of disordered proteins",
+        "Network clustering coefficient without degree-correlation biases",
+        "Identification of inflammatory bowel disease-related proteins using a reverse k- nearest neighbor search",
+        "STRING v10: Protein- protein interaction networks, integrated over the tree of life"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Faculty of Applied Science",
+        "King Mongkut\u2019 s University of Technology North Bangkok"
+    ]
+}

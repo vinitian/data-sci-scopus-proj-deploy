@@ -1,0 +1,107 @@
+{
+    "eid": "2-s2.0-85095582019",
+    "title": "Human-Robot Interaction: Controller Design and Stability",
+    "cover-date": "2020-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biomedical Engineering",
+            "@code": "2204",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Satoshi Nishimura",
+        "Ronnapee Chaichaowarat",
+        "Hermano Igo Krebs"
+    ],
+    "citedby-count": 5,
+    "ref-count": 14,
+    "ref-list": [
+        "Progress and prospects of the human-robot collaboration",
+        "Voice coil actuators for human-robot interaction",
+        "A hybrid hydrostatic transmission and human-safe haptic telepresence robot",
+        "Humanrobot interaction control of rehabilitation robots with series elastic actuators",
+        "High-precision robust force control of a series elastic actuator",
+        "Parallel-coupled micromacro actuators",
+        "Impedance control: An approach to manipulation: Part i-theory",
+        "Stability and performance limits of interaction controllers",
+        "Modeling of force sensing and validation of disturbance observer for force control",
+        "Complementary stability and loop shaping for improved humanrobot interaction"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Toyoake",
+            "@id": "60026940",
+            "affilname": "Fujita Health University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026940",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Newcastle",
+            "@id": "60026712",
+            "affilname": "University of Newcastle upon Tyne, Faculty of Medical Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026712",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Suita",
+            "@id": "60024322",
+            "affilname": "Osaka University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024322",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Cambridge",
+            "@id": "60022195",
+            "affilname": "Massachusetts Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022195",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Seoul",
+            "@id": "60018257",
+            "affilname": "Sogang University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018257",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Baltimore",
+            "@id": "60012957",
+            "affilname": "University of Maryland School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012957",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Loughborough",
+            "@id": "60000891",
+            "affilname": "Loughborough University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000891",
+            "affiliation-country": "United Kingdom"
+        }
+    ],
+    "funding": [
+        "Shanghai Electric Group Co. Ltd.",
+        "Shanghai Electric Group Co. Ltd., Shanghai, China"
+    ]
+}

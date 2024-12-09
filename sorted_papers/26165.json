@@ -1,0 +1,78 @@
+{
+    "eid": "2-s2.0-85122095163",
+    "title": "Differential Private Motion Sensor and Wasted Energy in Building Energy Management System",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Data integration",
+        "data privacy",
+        "differential privacy",
+        "energy consumption",
+        "energy management",
+        "motion sensor"
+    ],
+    "authors": [
+        "Siravit Kwankajornkeat",
+        "Chaodit Aswakul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 32,
+    "ref-list": [
+        "Development and reliability testing of IEEE1888 gateway for ZigBee wireless sensor network in Chulalongkorn University's building energy management system",
+        "Development of smart meter for building energy management system based on the IEEE 1888 standard withWi-Fi communication",
+        "CU-BEMS, smart building electricity consumption and indoor environmental sensor datasets",
+        "Development of IoTcloudServe@TEIN smart-energy@Chula service gateway: Case study of secured on-demand building energy management system data platform using NETPIE",
+        "Application of simple computer board game with gesture sensor input for increasing awareness in electrical energy consumption",
+        "IEEE1888 interactive display as a service (IDaaS): Example in building energy management system",
+        "Development of data analytic program for building energy management system with wasted energy analysis using motion sensor",
+        "EPIC: A differential privacy framework to defend smart Homes against internet traffic analysis",
+        "Differential privacy techniques for cyber physical systems: A survey",
+        "Privacy preservation in big data from the communication perspective_A survey",
+        "A technique to provide differential privacy for appliance usage in smart metering",
+        "Differential privacy: A primer for a non-technical audience",
+        "Enforcing differential privacy for shared collaborative filtering",
+        "The algorithmic foundations of differential privacy",
+        "Di-PriDA: Differentially private distributed load balancing control for the smart grid",
+        "Privacy preserving in non-intrusive load monitoring: A differential privacy perspective",
+        "Enhancing privacy and availability for data clustering in intelligent electrical service of IoT",
+        "Privacyfunctionality trade-off: A privacy-preserving multi-channel smart metering system",
+        "Lightweight privacy-preserving data aggregation scheme for smart grid metering infrastructure protection",
+        "Privacypreservation mechanisms for smart energy metering devices based on differential privacy",
+        "Cost-friendly differential privacy for smart meters: Exploiting the dual roles of the noise",
+        "Lightweight privacy for smart metering data by adding noise",
+        "Composable and versatile privacy via truncated CDP",
+        "Regression analysis with differential privacy preserving",
+        "Differential privacy: An economic method for choosing epsilon",
+        "Optimal data-independent noise for differential privacy",
+        "How much is enough? Choosing for differential privacy"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "TEIN"
+    ]
+}

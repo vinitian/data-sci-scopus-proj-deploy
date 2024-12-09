@@ -1,0 +1,141 @@
+{
+    "eid": "2-s2.0-85124496891",
+    "title": "Work in the Time of Covid-19: Actuators and Sensors for Rehabilitation Robotics",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Automotive Engineering",
+            "@code": "2203",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Body-weight support system",
+        "Planar motor",
+        "Rehabilitation robotics",
+        "Tactile sensor",
+        "Variable stiffness actuator"
+    ],
+    "authors": [
+        "Ronnapee Chaichaowarat",
+        "Satoshi Nishimura",
+        "Takahiro Nozaki",
+        "Hermano Igo Krebs"
+    ],
+    "citedby-count": 7,
+    "ref-count": 62,
+    "ref-list": [
+        "Robot-aided neurorehabilitation",
+        "Robot-aided neurorehabilitation: A robot for wrist rehabilitation",
+        "Design and Characterization of Hand Module for Whole-Arm Rehabilitation Following Stroke",
+        "Robot-Aided Neurorehabilitation: A Robot for Ankle Rehabilitation",
+        "MIT-Skywalker: A novel gait neurorehabilitation robot for stroke and cerebral palsy",
+        "Robot-Aided Neurorehabilitation: A Pediatric Robot for Ankle Rehabilitation",
+        "The Effect of Robot Assisted Therapy & Rehabilitative Training on Motor Recovery Following a Stroke",
+        "A Novel Approach to Stroke Rehabilitation: Robot Aided Sensorymotor Stimulation",
+        "Robot-Assisted Therapy for Long-Term Upper-Limb Impairment after Stroke",
+        "Robot assisted training for the upper limb after stroke (RATULS): A multicentre randomised controlled trial",
+        "Robot-Assisted Arm Training in Chronic Stroke: Addition of Transition-to-Task Practice",
+        "Rehabilitation Robotics: Performance-based Progressive Robot-Assisted Therapy",
+        "Adaptive Impedance Control Applied to Robot-Aided Neuro-Rehabilitation of the Ankle",
+        "Kinematic Robot-Based Evaluation Scales and Clinical Counterparts to Measure Upper Limb Motor Performance in Patients with Chronic Stroke",
+        "Robotic Measurement of Arm Movements After Stroke Establishes Biomarkers of Motor Recovery",
+        "Accurate prediction of clinical stroke scales and improved biomarkers of motor impairment from robotic measurements",
+        "Human-Robot Interaction: Controller Design and Stability",
+        "Design and modeling of a variable-stiffness spring mechanism for impedance modulation in physical human-robot interaction",
+        "Development of Optical Sensor Capable of Measuring Distance, Tilt, and Contact Force",
+        "Human-robot interaction: Controller design for stability and backdrivability",
+        "Complementary stability and loop shaping for improved humanrobot interaction",
+        "Design and development of a new robot joint using a mechanical impedance adjuster",
+        "Design of a quasi-passive ankle-foot prosthesis with biomimetic, variable stiffness",
+        "Development of one-DOF robot arm equipped with mechanical impedance adjuster",
+        "Energy-efficient variable stiffness actuators",
+        "A novel intrinsically energy efficient actuator with adjustable stiffness (AwAS)",
+        "The variable stiffness actuator vsaUT-II: Mechanical design, modeling, and identification",
+        "A novel variable stiffness mechanism capable of an infinite stiffness range and unlimited decoupled output motion",
+        "A variable stiffness joint using leaf springs for robot manipulators",
+        "A novel design of variable stiffness linkage with distributed leaf springs",
+        "Variable stiffness spring actuators for low-energy-cost human augmentation",
+        "Reducing the energy cost of human walking using an unpowered exoskeleton",
+        "Evaluation of the Achilles ankle exoskeleton",
+        "Design of a quasi-passive knee exoskeleton to assist running",
+        "Unpowered knee exoskeleton reduces quadriceps activity during cycling",
+        "On the estimation of the large deflection of a cantilever beam",
+        "Design & analysis of novel actuation mechanism with controllable stiffness",
+        "A simple stiffness equation for a variable stiffness joint using a leaf spring",
+        "A comprehensive elliptic integral solution to the large deflection problems of thin beams in compliant mechanisms",
+        "A springembedded planetary-geared parallel elastic actuator",
+        "An experimental study of electro-rheological torque transmission",
+        "Basic study on rehabilitation training system using ER actuators",
+        "Design, control and human testing of an active knee rehabilitation orthotic device",
+        "Verification of device modes of a strength training machine using an electrorheological fluid brake",
+        "fMRI-compatible rehabilitation hand device",
+        "Electro-rheological fluids: A systematic approach to classifying modes of operation",
+        "Dual-differential rheological actuator for high-performance physical robotic interaction",
+        "Design and development of a hybrid magneto-rheological clutch for safe robotic applications",
+        "On the feasibility and suitability ofMR fluid clutches in human-friendly manipulators",
+        "Design and performance evaluation of a prototype MRF-based haptic interface for medical applications",
+        "Design and development of a safe robot manipulator using a new actuation concept",
+        "Preliminary studies of variable impedance control with an electrorheological fluid device",
+        "An electrorheological fluid for rehabilitation robotics",
+        "Analysis and Experimental Verification of Crosscoupled 2-DOF SPM Motor with Halbach Array",
+        "Modeling of Magnetically Levitated Planar Actuators With Moving Magnets",
+        "Robotic Therapy and the Paradox of the Diminishing Number of Degrees of Freedom",
+        "Magnetically Levitated Planar Actuator With Moving Magnets",
+        "Human-friendly Acceleration Control for Mobile Cart with Torque Sensor Built in Driving Shaft",
+        "Identification of Contact Position and Force Estimation on Manipulator Using Force Sensor Implemented on Base Frame"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025997",
+            "affilname": "Keio University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025997",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Cambridge",
+            "@id": "60022195",
+            "affilname": "Massachusetts Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022195",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Shanghai Electric Group Co. Ltd.",
+        "MIT",
+        "JSPS"
+    ]
+}

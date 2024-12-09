@@ -1,0 +1,330 @@
+{
+    "eid": "2-s2.0-85090415111",
+    "title": "R&D of a real-size mosaic MRPC within the framework of the CMS muon upgrade",
+    "cover-date": "2019-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mathematical Physics",
+            "@code": "2610",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Gaseous detectors",
+        "Instrumentation and methods for time-of-flight (TOF) spectroscopy",
+        "Resistive-plate chambers"
+    ],
+    "authors": [
+        "Y. Yu",
+        "D. Han",
+        "Y. Wang",
+        "B. Guo",
+        "P. Lyu",
+        "X. Chen",
+        "C. Shen",
+        "F. Wang",
+        "Y. Li",
+        "A. Cimmino",
+        "S. Crucy",
+        "A. Fagot",
+        "M. Gul",
+        "A. A.O. Rios",
+        "M. Tytgat",
+        "N. Zaganidis",
+        "S. Aly",
+        "Y. Assran",
+        "A. Radi",
+        "A. Sayed",
+        "G. Singh",
+        "M. Abbrescia",
+        "G. Iaselli",
+        "M. Maggi",
+        "G. Pugliese",
+        "P. Verwilligen",
+        "W. Van Doninck",
+        "S. Colafranceschi",
+        "A. Sharma",
+        "L. Benussi",
+        "S. Bianco",
+        "D. Piccolo",
+        "F. Primavera",
+        "V. Bhatnagar",
+        "R. Kumari",
+        "A. Mehta",
+        "J. Singh",
+        "A. Ahmad",
+        "W. Ahmed",
+        "M. I. Asghar",
+        "I. M. Awan",
+        "R. Hoorani",
+        "S. Muhammad",
+        "H. Shahzad",
+        "M. A. Shah",
+        "S. W. Cho",
+        "S. Y. Choi",
+        "B. Hong",
+        "M. H. Kang",
+        "K. S. Lee",
+        "J. H. Lim",
+        "S. K. Park",
+        "M. S. Kim",
+        "S. Carpinteyro Bernardino",
+        "I. Pedraza",
+        "C. Uribe Estrada",
+        "S. Carrillo Moreno",
+        "F. Vazquez Valencia",
+        "L. M. Pant",
+        "S. Buontempo",
+        "N. Cavallo",
+        "M. Esposito",
+        "F. Fabozzi",
+        "G. Lanza",
+        "I. Orso",
+        "L. Lista",
+        "S. Meola",
+        "M. Merola",
+        "P. Paolucci",
+        "F. Thyssen",
+        "A. Magnani",
+        "A. Magnani",
+        "P. Montagna",
+        "C. Riccardi",
+        "P. Salvini",
+        "I. Vai",
+        "P. Vitulo",
+        "Y. Ban",
+        "S. J. Qian",
+        "M. Choi",
+        "Y. Choi",
+        "J. Goh",
+        "D. Kim",
+        "A. Aleksandrov",
+        "R. Hadjiiska",
+        "P. Iaydjiev",
+        "M. Rodozov",
+        "S. Stoykova",
+        "G. Sultanov",
+        "M. Vutova",
+        "A. Dimitrov",
+        "L. Litov",
+        "B. Pavlov",
+        "P. Petkov",
+        "I. Bagaturia",
+        "D. Lomidze",
+        "C. Avila",
+        "A. Cabrera",
+        "J. C. Sanabria",
+        "I. Crotty",
+        "J. Vaitkus"
+    ],
+    "citedby-count": 1,
+    "ref-count": 12,
+    "ref-list": [
+        "The CMS Experiment at the CERN LHC",
+        "Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC",
+        "Development of high-rate MRPCs for high resolution time-of-flight systems",
+        "Development and test of a real-size MRPC for CBM-TOF",
+        "A real-size MRPC developed for CBM-TOF",
+        "Performance study of a Mosaic high rate MRPC",
+        "Performance study of new style mosaic MRPC",
+        "STAR time of flight readout electronics, DAQ, and cosmic ray test stand",
+        "The radiation field in the Gamma Irradiation Facility GIF++ at CERN",
+        "Streamer suppression with SF-6 in RPCs operated in avalanche mode",
+        "Effect of adding SF-6 to the gas mixture in a multigap resistive plate chamber"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Cairo",
+            "@id": "60115114",
+            "affilname": "Academy of Scientific Research &amp; Technology, Cairo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60115114",
+            "affiliation-country": "Egypt"
+        },
+        {
+            "affiliation-city": "Bari",
+            "@id": "60114715",
+            "affilname": "Istituto Nazionale di Fisica Nucleare, Sezione di Bari",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60114715",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Pavia",
+            "@id": "60114685",
+            "affilname": "Istituto Nazionale di Fisica Nucleare, Sezione di Pavia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60114685",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Naples",
+            "@id": "60113231",
+            "affilname": "Istituto Nazionale di Fisica Nucleare, Sezione di Napoli",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60113231",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Tbilisi",
+            "@id": "60071909",
+            "affilname": "Ivane Javakhishvili Tbilisi State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071909",
+            "affiliation-country": "Georgia"
+        },
+        {
+            "affiliation-city": "Islamabad",
+            "@id": "60064058",
+            "affilname": "Quaid-i-Azam University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60064058",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Vilnius",
+            "@id": "60059987",
+            "affilname": "Vilniaus Universitetas",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60059987",
+            "affiliation-country": "Lithuania"
+        },
+        {
+            "affiliation-city": "Bogota",
+            "@id": "60052106",
+            "affilname": "Universidad de Los Andes, Colombia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60052106",
+            "affiliation-country": "Colombia"
+        },
+        {
+            "affiliation-city": "Mumbai",
+            "@id": "60033473",
+            "affilname": "Bhabha Atomic Research Centre",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60033473",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Ghent",
+            "@id": "60033316",
+            "affilname": "Universiteit Gent",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60033316",
+            "affiliation-country": "Belgium"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Seoul",
+            "@id": "60027652",
+            "affilname": "University of Seoul",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027652",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Brussels",
+            "@id": "60026810",
+            "affilname": "Vrije Universiteit Brussel",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026810",
+            "affiliation-country": "Belgium"
+        },
+        {
+            "affiliation-city": "Beijing",
+            "@id": "60025278",
+            "affilname": "Tsinghua University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025278",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Puebla",
+            "@id": "60024830",
+            "affilname": "Benemerita Universidad Autonoma de Puebla",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024830",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Sofia",
+            "@id": "60019878",
+            "affilname": "Sofia University St. Kliment Ohridski",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019878",
+            "affiliation-country": "Bulgaria"
+        },
+        {
+            "affiliation-city": "Geneva",
+            "@id": "60019778",
+            "affilname": "Organisation Europ\u00e9enne pour la Recherche Nucl\u00e9aire",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019778",
+            "affiliation-country": "Switzerland"
+        },
+        {
+            "affiliation-city": "Chandigarh",
+            "@id": "60018526",
+            "affilname": "Panjab University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018526",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Frascati",
+            "@id": "60016340",
+            "affilname": "INFN, Laboratori Nazionali Di Frascati",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016340",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Beijing",
+            "@id": "60014966",
+            "affilname": "Peking University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014966",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Sofia",
+            "@id": "60013236",
+            "affilname": "Institute for Nuclear Research and Nuclear Energy Bulgarian Academy of Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013236",
+            "affiliation-country": "Bulgaria"
+        },
+        {
+            "affiliation-city": "Daegu",
+            "@id": "60012704",
+            "affilname": "Kyungpook National University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012704",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Mexico City",
+            "@id": "60011923",
+            "affilname": "Universidad Iberoamericana",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011923",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Seoul",
+            "@id": "60007511",
+            "affilname": "Sungkyunkwan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007511",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Seoul",
+            "@id": "60005273",
+            "affilname": "Korea University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005273",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Madison",
+            "@id": "112585088",
+            "affilname": "University of Wisconsin",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112585088",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "National Natural Science Foundation of China",
+        "Ministry of Science and Technology"
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "eid": "2-s2.0-85115606551",
+    "title": "Automatic Detection of LST-Type Polyp by CNN Using Depth Map",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Library and Information Sciences",
+            "@code": "3309",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "3D shape",
+        "Endoscope image",
+        "LST-type polyp",
+        "Segmentation",
+        "U-Net"
+    ],
+    "authors": [
+        "Yuji Iwahori",
+        "Shota Miyazaki",
+        "Hiroyasu Usami",
+        "M. K. Bhuyan",
+        "Boonserm Kijsirikul",
+        "Aili Wang",
+        "Naotaka Ogasawara",
+        "Kunio Kasugai"
+    ],
+    "citedby-count": 1,
+    "ref-count": 10,
+    "ref-list": [
+        "Polyp detection in colonoscopy video using elliptical shape feature",
+        "Automatic Detection of LST-type Polyp using U-Net, P134, Poster, Intelligent Image Processing",
+        "U-net: Convolutional networks for biomedical image segmentation",
+        "RGB-D-based action recognition datasets: A survey",
+        "A large-scale hierarchical multi-view RGB-D object dataset",
+        "Generating Lambertian image by removing specular reflection component and difference of reflectance factor using HSV",
+        "Optimal algorithm for shape from Shading and path planning"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Harbin",
+            "@id": "60024758",
+            "affilname": "Harbin University of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024758",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Guwahati",
+            "@id": "60010126",
+            "affilname": "Indian Institute of Technology Guwahati",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010126",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Kasugai",
+            "@id": "60007976",
+            "affilname": "Chubu University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007976",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Nagakute",
+            "@id": "60004395",
+            "affilname": "Aichi Medical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004395",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Japan Society for the Promotion of Science",
+        "Chubu University"
+    ]
+}

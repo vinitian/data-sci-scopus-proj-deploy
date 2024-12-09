@@ -1,0 +1,115 @@
+{
+    "eid": "2-s2.0-85139864010",
+    "title": "Evaluation of machine learning models for load-carrying capacity assessment of semi-rigid steel structures",
+    "cover-date": "2022-12-15",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Deep learning",
+        "Failure analysis",
+        "Machine learning",
+        "Semi-rigid steel connection",
+        "Tree-based ensemble method"
+    ],
+    "authors": [
+        "Viet Hung Truong",
+        "Hoang Anh Pham",
+        "Thu Huynh Van",
+        "Sawekchai Tangaramvong"
+    ],
+    "citedby-count": 2,
+    "ref-count": 65,
+    "ref-list": [
+        "The semi-rigid behavior of three-dimensional steel beam-to-column joints subjected to proportional loading. Part I. experimental evaluation",
+        "Experimental and numerical validation of a new design for three-dimensional semi-rigid joints",
+        "Manual of steel construction \u2013 load and resistance factor design",
+        "Mathematical programming approaches for the safety assessment of semirigid elastoplastic frames",
+        "The influence of geometric effects on the behavior of strain softening frames",
+        "Second-order plastic-hinge analysis of space semi-rigid steel frames",
+        "Nonlinear inelastic analysis of space frames",
+        "Practical advanced analysis software for nonlinear inelastic dynamic analysis of space steel structures",
+        "Nonlinear inelastic time-history analysis of three-dimensional semi-rigid steel frames",
+        "Second-order refined plastic-hinge analysis for frame design",
+        "Reliability evaluation of semirigid steel frames using advanced analysis",
+        "An efficient method for optimizing space steel frames with semi-rigid joints using practical advanced analysis and the micro-genetic algorithm",
+        "A robust method for optimization of semi-rigid steel frames subject to seismic loading",
+        "Optimum seismic design of steel frames considering the connection types",
+        "Minimum cost design of steel frames with semi-rigid connections and column bases via genetic optimization",
+        "Energy-based design optimization of steel building frameworks using nonlinear response history analysis",
+        "Inelastic analysis for the post-collapse behavior of concrete encased steel composite columns under axial compression",
+        "UAV-aided bridge inspection protocol through machine learning with improved visibility images",
+        "Machine learning in the quantum realm: the state-of-the-art, challenges, and future vision",
+        "Machine learning techniques and data for stock market forecasting: a literature review",
+        "An adaptive surrogate model to structural reliability analysis using deep neural network",
+        "Machine learning algorithms in civil structural health monitoring: a systematic review",
+        "Seismic damage identification in buildings using neural networks and modal data",
+        "Automatic crack detection for tunnel inspection using deep learning and heuristic image post-processing",
+        "Machine learning applications for building structural design and performance assessment: state-of-the-art review",
+        "On the application of machine learning techniques to derive seismic fragility curves",
+        "A machine learning framework for assessing post-earthquake structural safety",
+        "Classification of failure mode and prediction of shear strength for reinforced concrete beam-column joints using machine learning techniques",
+        "Data-driven machine-learning-based seismic failure mode identification of reinforced concrete shear walls",
+        "Automated damage index estimation of reinforced concrete columns for post-earthquake evaluations",
+        "Vision-based detection of loosened bolts using the Hough transform and support vector machines",
+        "Assessment of structural damage detection methods for steel structures using full-scale experimental data and nonlinear analysis",
+        "Classifying earthquake damage to buildings using machine learning",
+        "Machine learning-based methods in structural reliability analysis: a review",
+        "The structural reliability analysis using explicit neural state functions",
+        "Simultaneous approximations of multivariate functions and their derivatives by neural networks with one hidden layer",
+        "A new adaptive sequential sampling method to construct surrogate models for efficient reliability analysis",
+        "A general framework for fatigue reliability analysis of a high temperature component",
+        "Reliability analysis of self-anchored suspension bridge by improved response surface method",
+        "Slope reliability analysis using a support vector machine",
+        "An adaptive divergence-based method for structural reliability analysis via multiple Kriging models",
+        "Machine learning-based prediction of CFST columns using gradient tree boosting algorithm",
+        "Strength prediction of concrete-filled steel tubular columns using Categorical Gradient Boosting algorithm",
+        "5400. Steel, Concrete and Composite Bridges - Part 3: Code of Practice for Design of Steel Bridges",
+        "Predicting the patch load resistance of stiffened plate girders using machine learning algorithms",
+        "A robust method for safety evaluation of steel trusses using Gradient Tree Boosting algorithm",
+        "Comparison of machine learning algorithms for regression and classification of ultimate load-carrying capacity of steel frames",
+        "Data-driven shear strength prediction of steel fiber reinforced concrete beams using machine learning approach",
+        "Capacity prediction of cold-formed stainless steel tubular columns using machine learning methods",
+        "Machine learning assisted characterisation and simulation of compressive damage in composite laminates",
+        "Bagging predictors",
+        "Selecting training sets for support vector machine: a review",
+        "Deep learning",
+        "Catboost: unbiased boosting with categorical features",
+        "Stability design of semi-rigid frames",
+        "Nonlinear finite element analysis of top- and seat-angle with double web-angle connections",
+        "Yield surface applications in nonlinear steel frame analysis",
+        "Second-order flexibility-based model for nonlinear inelastic analysis of 3D semi-rigid steel frameworks"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Hanoi",
+            "@id": "60272386",
+            "affilname": "Thuyloi University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60272386",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Hanoi",
+            "@id": "60071395",
+            "affilname": "National University of Civil Engineering",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071395",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "Thailand Science Research and Innovation"
+    ]
+}

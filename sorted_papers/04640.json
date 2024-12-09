@@ -1,0 +1,72 @@
+{
+    "eid": "2-s2.0-85085021281",
+    "title": "Implementation and Verification of IEEE-754 64-bit Floating-Point Arithmetic Library for 8-bit Soft-Core Processors",
+    "cover-date": "2020-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "8-bit Soft-Core",
+        "Double Precision Floating Point",
+        "FPGA Implementation",
+        "PicoBlaze",
+        "Software Library"
+    ],
+    "authors": [
+        "Ehsan Ali",
+        "Wanchalerm Pora"
+    ],
+    "citedby-count": 5,
+    "ref-count": 16,
+    "ref-list": [
+        "Fingers or fists? The choice of decimal or binary representation",
+        "A software implementation of the ieee 754r decimal floating-point arithmetic using the binary encoding format",
+        "Open-source variable-precision floating-point library for major commercial FPGAS",
+        "Parameterizable floating-point library for arithmetic operations in FPGAS",
+        "Mpfr: A multiple-precision binary floating-point library with correct rounding",
+        "A software implementation of the ieee 754r decimal floatingpoint arithmetic using the binary encoding format",
+        "A floating-point library for integer processors",
+        "Ieee standard for floating-point arithmetic",
+        "Performance evaluation of inter-processor communication for an embedded heterogeneous multi-core processor"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn Academic Advancement",
+        "Chulalongkorn University"
+    ]
+}

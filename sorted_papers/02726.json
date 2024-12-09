@@ -1,0 +1,90 @@
+{
+    "eid": "2-s2.0-85164966806",
+    "title": "Virtual Reality for Railway Signaling System Training",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "railway signaling system",
+        "railway signaling training",
+        "railway traffic control",
+        "virtual reality"
+    ],
+    "authors": [
+        "Pisit Vanichchanunt",
+        "Tanakorn Tanmalaporn",
+        "Chatchai Suthamvijit",
+        "Suebphong Noisri",
+        "Lunchakorn Wuttisittikulkij",
+        "Witthawas Pongyart",
+        "Sukritta Paripurana"
+    ],
+    "citedby-count": 1,
+    "ref-count": 5,
+    "ref-list": [
+        "Design and Development of a Virtual Reality Simulator for Advanced Cardiac Life Support Training",
+        "A virtual reality enhanced cyber-human framework for orthopedic surgical training",
+        "SlicerVR for medical intervention training and planning in immersive virtual reality",
+        "Synthesizing Personalized Construction Safety Training Scenarios for VR Training",
+        "Perception Engineering Learning with Virtual Reality"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,125 @@
+{
+    "eid": "2-s2.0-85072402816",
+    "title": "A wearable in-ear EEG device for emotion monitoring",
+    "cover-date": "2019-09-02",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analytical Chemistry",
+            "@code": "1602",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "EEG",
+        "Elderly caring",
+        "Emotion classification",
+        "Emotion monitoring",
+        "In-ear EEG",
+        "Machine learning",
+        "Outpatient caring"
+    ],
+    "authors": [
+        "Chanavit Athavipach",
+        "Setha Pan-Ngum",
+        "Pasin Israsena"
+    ],
+    "citedby-count": 46,
+    "ref-count": 51,
+    "ref-list": [
+        "Identifying Stable Patterns Over Time for Emotion Recognition from EEG",
+        "Measuring facial movement with the facial action coding system",
+        "A circumplex model of affect",
+        "Electroencephalography (EEG)",
+        "Real-Time EEG-Based Happiness Detection System",
+        "Emotion assessment: Arousal evaluation using EEG\u2019s and peripheral physiological signals",
+        "Remarks on Emotion Recognition from Bio-Potential",
+        "A Novel Emotion Elicitation Index Using Frontal Brain Asymmetry for Enhanced EEG-Based Emotion Recognition",
+        "A Real-Time Emotionality Assessment (RTEA) System Based on Psycho-Physiological Evaluation",
+        "Predicting the Three Major Dimensions of the Learner\u2019s Emotions from Brainwaves",
+        "A Real-Time Wearable Emotion Detection Headband Based on EEG measurement",
+        "A Real-Time Wireless Wearable Electroencephalography System Based on Support Vector Machine for Encephalopathy Daily Monitoring",
+        "The In-ear Recording Concept: User-Centered and Wearable Brain Monitoring",
+        "American electroencephalographic society guidelines for standard electrode position nomenclature",
+        "Single trial classification of EEG and peripheral physiological signals for recognition of emotions induced by music videos",
+        "Asymmetric spatial pattern for EEG-based emotion detection",
+        "Lu, B.L. EEG-based emotion recognition during watching movies",
+        "Short-term emotion assessment in a recall paradigm",
+        "EEG-based emotion recognition using frequency domain features and support vector machines",
+        "Emotion assessment from physiological signals for adaptation of game difficulty",
+        "Classification of EEG for affect recognition: An adaptive approach",
+        "Intelligent emotion recognition system using electroencephalography and active shape models",
+        "Soft, curved electrode systems capable of integration on the auricle as a persistent brain-computer interface",
+        "Wearable Electroencephalography",
+        "In-Ear EEG From Viscoelastic Generic Earpieces: Robust and Unobtrusive 24/7 Monitoring",
+        "Dry-Contact Electrode Ear-EEG",
+        "InEar BioFeedController: A headset for hands-free and eyes-free interaction with mobile devices",
+        "Earfieldsensing: A novel in-ear electric field sensing to enrich wearable gesture input through facial expressions",
+        "Heartphones: Sensor Earphones and Mobile Application for Non-obtrusive Health Monitoring",
+        "A lightweight and inexpensive in-ear sensing system for automatic whole-night sleep stage monitoring",
+        "Automatic sleep staging using ear-EEG",
+        "Ear-EEG from generic earpieces: A feasibility study",
+        "Early selective-attention effect on evoked potential reinterpreted",
+        "The mismatch Negativity (MMN): Towards the Optimal Paradigm",
+        "EEG Recorded from the Ear: Characterizing the Ear-EEG Method",
+        "New fast mismatch negativity paradigm for determining the neural prerequisites for musical ability",
+        "Systems Inc. Ground vs. Reference for EEG Recording",
+        "The Geneva Affective Picture Database (GAPED): A new 730-Picture Database Focusing on Valence and Normative Significance",
+        "Predicting Emotion from Music Audio Features Using Neural Networks",
+        "DEAP: A Database for Emotion Analysis Using Physiological Signals",
+        "Toward Machine Emotional Intelligence: Analysis of Affective Physiological State",
+        "Cross-Validatory Choice and Assessment of Statistical Predictions",
+        "The effects of attention monitoring with EEG biofeedback on university students\u2019 attention and self-efficacy: The case of anti-phishing instructional materials"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011525",
+            "affilname": "Thailand National Electronics and Computer Technology Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011525",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Department of Computer Engineering",
+        "Chulalongkorn University",
+        "Department of Computer Engineering, Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "eid": "2-s2.0-85111946546",
+    "title": "Predictive Analysis of the Building Damage from the 2011 Great East Japan Tsunami Using Decision Tree Classification Related Algorithms",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "2011 Great East Japan earthquake and tsunami",
+        "Building damages",
+        "data mining",
+        "decision tree algorithm"
+    ],
+    "authors": [
+        "Kumpol Saengtabtim",
+        "Natt Leelawat",
+        "Jing Tang",
+        "Wanit Treeranurat",
+        "Narunporn Wisittiwong",
+        "Anawat Suppasri",
+        "Kwanchai Pakoksung",
+        "Fumihiko Imamura",
+        "Noriyuki Takahashi",
+        "Ingrid Charvet"
+    ],
+    "citedby-count": 7,
+    "ref-count": 53,
+    "ref-list": [
+        "Building damage from the 2011 great East Japan tsunami: Quantitative assessment of in-uential factors",
+        "Loadresistance analysis: An alternative approach to tsunami damage assessment applied to the 2011 great East Japan tsunami",
+        "Building damage analysis from the 2011 Great East Japan tsunami",
+        "Building damage assessment and implications for future tsunami fragility estimations",
+        "Possible failure mechanism of buildings overturned during the 2011 great East Japan tsunami in the town of Onagawa",
+        "Classi-cations of structural types and damage patterns of buildings for earthquake -eld investigation",
+        "European macroseismic scale 1998",
+        "A study on the in-uential factors on building damage in Sri Lanka during the 2004 Indian ocean tsunami",
+        "Recovery curves for housing reconstruction in Sri Lanka after the 2004 Indian Ocean Tsunami",
+        "Vulnerability functions for buildings based on damage survey data in Sri Lanka after the 2004 Indian Ocean tsunami",
+        "Building damage characteristics based on surveyed data and fragility curves of the 2011 great East Japan tsunami",
+        "Empirical fragility assessment of buildings affected by the 2011 great East Japan tsunami using improved statistical models",
+        "New building damage assessment method based on numerical tsunami simulation and analytical force estimation: Case study of the 2011 Tohoku tsunami",
+        "Is -ow velocity a signi-cant parameter in -ood damage modelling?",
+        "Developing fragility functions for tsunami damage estimation using numerical model and post-tsunami data from Banda Aceh, Indonesia",
+        "Using landscape analysis to assess and model tsunami damage in Aceh province, Sumatra",
+        "Effects of coastal forest on tsunami hazard mitigation-A preliminary investigation",
+        "Fragility assessment of a RC structure under tsunami actions via nonlinear static and dynamic analyses",
+        "Tsunami hazard and structural damage inferred from the numerical model, aerial photos and SAR imageries",
+        "Is -ow velocity important in tsunami empirical fragility modeling?",
+        "A study on in-uential factors on building damage in Kesennuma, Japan from the 2011 great east Japan tsunami",
+        "A multivariate generalized linear tsunami fragility model for Kesennuma city based on maximum -ow depths, velocities and debris impact, with evaluation of predictive accuracy",
+        "Debris impact forces on -exible structures in extreme hydrodynamic conditions",
+        "The effect of buoyancy force on structural damage: A case study",
+        "Tsunami fragility inferred from the 1993 Hokkaido Nansei-oki earthquake tsunami disaster",
+        "Developing tsunami fragility curves using remote sensing and survey data of the 2010 Chilean tsunami in Dichato",
+        "Empirical fragility analysis of building damage caused by the 2011 Great East Japan tsunami in Ishinomaki city using ordinal regression, and in-uence of key geographical features",
+        "Damage characteristic and -eld survey of the 2011 Great East Japan tsunami in Miyagi prefecture",
+        "Decision tree classi-cation of land cover from remotely sensed data",
+        "Effective diagnosis of heart disease through bagging approach",
+        "Comparative analysis of serial decision tree classi-cation algorithms",
+        "Classi-cation and regression by randomforest",
+        "Random forest classi-cation for detecting Android malware",
+        "Random forests",
+        "Gene selection and classi-cation of microarray data using random forest",
+        "Random Forest ensembles for detection and prediction of Alzheimer's disease with a good between-cohort robustness",
+        "Boosting the margin: A new explanation for the effectiveness of voting methods",
+        "Horse race analysis in credit card fraud-Deep learning, logistic regression, and gradient boosted tree",
+        "Nationwide post event survey and analysis of the 2011 Tohoku earthquake tsunami",
+        "Plasticizer effects on physical-mechanical properties of solvent cast Soluplus -lms",
+        "Performance evaluation of k-means and heirarichal clustering in terms of accuracy and running time",
+        "Discovering students' academic performance based on GPA using K-means clustering algorithm",
+        "New ef-cient clustering quality indexes",
+        "Biostatistics 104: Correlational analysis",
+        "Maximum surface settlement based classi-cation of shallow tunnels in soft ground",
+        "A study of cross-validation and bootstrap for accuracy estimation and model selection",
+        "Estimating classi-cation error rate: Repeated cross-validation, repeated hold-out and bootstrap",
+        "Inundation -ow velocity of tsunami on land and its practical use"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Sendai",
+            "@id": "60008435",
+            "affilname": "Tohoku University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008435",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011220",
+            "affilname": "Sirindhorn International Institute of Technology, Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011220",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Los Angeles",
+            "@id": "123273782",
+            "affilname": "Praedicat, Inc.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/123273782",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "JSPS-NRCT",
+        "Ratchadapisek Sompoch Endowment Fund",
+        "JSPS",
+        "Chulalongkorn University"
+    ]
+}

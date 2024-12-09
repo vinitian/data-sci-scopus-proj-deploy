@@ -1,0 +1,101 @@
+{
+    "eid": "2-s2.0-85102716282",
+    "title": "A taxonomic revision of the genus Phrynoglossus in Indochina with the description of a new species and comments on the classification within Occidozyginae (Amphibia, Anura, Dicroglossidae)",
+    "cover-date": "2021-02-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Ecology, Evolution, Behavior and Systematics",
+            "@code": "1105",
+            "@abbrev": "AGRI"
+        }
+    ],
+    "keywords": [
+        "Amplexus mode",
+        "Bioacoustics",
+        "Cryptic species diversity; Dicroglossidae",
+        "Genome; Khorat Plateau",
+        "Myanmar",
+        "New species",
+        "Occidozyga; Phrynoglossus myanhessei sp. n",
+        "Thailand"
+    ],
+    "authors": [
+        "Gunther K\u00f6hler",
+        "Joseph Vargas",
+        "Ni Lar Than",
+        "Tilman Schell",
+        "Axel Janke",
+        "Steffen U. Pauls",
+        "Panupong Thammachoti"
+    ],
+    "citedby-count": 9,
+    "ref-count": 20,
+    "ref-list": [
+        "A fast, lock-free approach for efficient parallel counting of occurrences of k-mers",
+        "GenomeScope: fast reference-free genome profiling from short reads",
+        "Trimmomatic: a flexible trimmer for Illumina sequence data",
+        "Improved metagenomic analysis with Kraken 2",
+        "The sequence alignment/map format and SAMtools",
+        "Qualimap 2: advanced multi-sample quality control for high-throughput sequencing data",
+        "BEDTools: a flexible suite of utilities for comparing genomic features",
+        "NOVOPlasty: de novo assembly of organelle genomes from whole genome data",
+        "Fast, scalable generation of high-quality protein multiple sequence alignments using Clustal Omega",
+        "GeSeq\u2013versatile and accurate annotation of organelle genomes",
+        "Improved annotation of protein-coding genes boundaries in metazoan mitochondrial genomes",
+        "tRNAscan-SE: searching for tRNA genes in genomic sequences",
+        "tRNAscan-SE 2.0: improved detection and functional classification of transfer RNA genes",
+        "BlobTools: Interrogation of genome assemblies",
+        "BUSCO: assessing genome assembly and annotation completeness with single-copy orthologs",
+        "Informed and automated k-mer size selection for genome assembly",
+        "Velvet: algorithms for de novo short read assembly using de Bruijn graphs"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Frankfurt am Main",
+            "@id": "60116084",
+            "affilname": "Senckenberg Biodiversit\u00e4t und Klima Forschungszentrum",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60116084",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Yangon",
+            "@id": "60072899",
+            "affilname": "University of Yangon",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60072899",
+            "affiliation-country": "Myanmar"
+        },
+        {
+            "affiliation-city": "Frankfurt am Main",
+            "@id": "60072277",
+            "affilname": "Senckenberg Forschungsinstitut und Naturmuseum",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60072277",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Giessen",
+            "@id": "60017134",
+            "affilname": "Justus-Liebig-Universit\u00e4t Gie\u00dfen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017134",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Frankfurt am Main",
+            "@id": "121317969",
+            "affilname": "LOEWE Centre for Translational Biodiversity Genomics (LOEWE-TBG)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/121317969",
+            "affiliation-country": "Germany"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "Faculty of Science, Chulalongkorn University"
+    ]
+}

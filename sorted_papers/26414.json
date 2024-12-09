@@ -1,0 +1,65 @@
+{
+    "eid": "2-s2.0-85050354190",
+    "title": "Optimal Representation for Right-to-Left Parallel Scalar Point Multiplication",
+    "cover-date": "2018-04-23",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "binary representation",
+        "efficient implementation",
+        "elliptic curve cryptography",
+        "information and communication security",
+        "parallel algorithms",
+        "scalar point multiplication"
+    ],
+    "authors": [
+        "Kittiphon Phalakarn",
+        "Kittiphop Phalakarn",
+        "Vorapong Suppakitpaisarn"
+    ],
+    "citedby-count": 2,
+    "ref-count": 17,
+    "ref-list": [
+        "A survey of fast exponentiation methods",
+        "On addition chains (mn) \u2264 (n)-b and lower bounds for c(r)",
+        "Binary arithmetic",
+        "Speeding up elliptic cryptosystems by using a signed binary window method",
+        "Improved techniques for fast exponentiation",
+        "Parallel algorithm for multiplication on elliptic curves",
+        "Some remarks on parallel exponentiation",
+        "Parallel algorithms for modular multi-exponentiation",
+        "A fast parallel elliptic curve multiplication resistant against side channel attacks",
+        "Radix-r non-adjacent form and its application to pairing-based cryptosystem",
+        "Software implementation of parallelized ECSM over binary and prime fields",
+        "Notes on efficient and optimal algorithms",
+        "Twisted Edwards curves",
+        "SPA-resistant binary exponentiation with optimal execution time",
+        "On minimal expansions in redundant number systems: Algorithms and quantitative analysis"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

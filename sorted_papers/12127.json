@@ -1,0 +1,75 @@
+{
+    "eid": "2-s2.0-85103636568",
+    "title": "Mixed-integer linear programming model and heuristic for short-term scheduling of pressing process in multi-layer printed circuit board manufacturing",
+    "cover-date": "2021-03-02",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Mathematics (all)",
+            "@code": "2600",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Heuristic",
+        "Mixed-integer linear programming",
+        "Pressing process",
+        "Printed circuit board",
+        "Scheduling"
+    ],
+    "authors": [
+        "Teeradech Laisupannawong",
+        "Boonyarit Intiyot",
+        "Chawalit Jeenanunta"
+    ],
+    "citedby-count": 5,
+    "ref-count": 25,
+    "ref-list": [
+        "Multistage cutting stock problems of two and more dimensions",
+        "Arc-flow model for the two-dimensional guillotine cutting stock problem",
+        "A branch-and-price algorithm for the two-stage guillotine cutting stock problem",
+        "A computational study of LP-based heuristic algorithms for two-dimensional guillotine cutting stock problems",
+        "A column generation heuristic for the two-dimensional two-staged guillotine cutting stock problem with multiple stock size",
+        "Heuristics for two-dimensional rectangular guillotine cutting stock",
+        "A column generation on two-dimensional cutting stock problem with fixed-size usable leftover and multiple stock sizes",
+        "Optimal path for automated drilling operations by a new heuristic approach using particle swarm optimization",
+        "An ant colony system for routing in PCB holes drilling process",
+        "PCB drill path optimization by combinatorial cuckoo search algorithm",
+        "Application of a hybridized cuckoo search-genetic algorithm to path optimization for PCB holes drilling process",
+        "A genetic algorithm of determining cycle time for printed circuit board assembly lines",
+        "Optimal algorithm for minimizing production cycle time of a printed circuit board assembly line",
+        "Workload balancing in printed circuit board assembly",
+        "A heuristic algorithm to balance workloads of high-speed SMT machines in a PCB assembly line",
+        "Scheduling a capacitated batch-processing machine to minimize makespan",
+        "A particle swarm optimization algorithm for minimizing makespan of nonidentical parallel batch processing machines",
+        "Scheduling of printed circuit board (PCB) assembly systems with heterogeneous processors using simulation-based intelligent optimization methods",
+        "Scheduling non-identical parallel batch processing machines to minimize total weighted tardiness using particle swarm optimization",
+        "Mathematical models for job-shop scheduling problems with routing and process plan flexibility",
+        "An effective genetic algorithm for the flexible job-shop scheduling problem",
+        "An effective hybrid genetic algorithm and tabu search for flexible job shop scheduling problem",
+        "Optimizing the low-carbon flexible job shop scheduling problem with discrete whale optimization algorithm",
+        "A study of integer programming formulations for scheduling problems"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011220",
+            "affilname": "Sirindhorn International Institute of Technology, Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011220",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Center of Excellence in Logistics and Supply Chain Systems Engineering and Technology",
+        "Department of Mathematics and Computer Science, Faculty of Science, Chulalongkorn University",
+        "Sirindhorn International Institute of Technology",
+        "Thammasat University, Thailand"
+    ]
+}

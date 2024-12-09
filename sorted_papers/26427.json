@@ -1,0 +1,146 @@
+{
+    "eid": "2-s2.0-85091651355",
+    "title": "Robust simulation-optimization of dynamic-stochastic production/inventory control system under uncertainty using computational intelligence",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Management Information Systems",
+            "@code": "1404",
+            "@abbrev": "BUSI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Business and International Management",
+            "@code": "1403",
+            "@abbrev": "BUSI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Strategy and Management",
+            "@code": "1408",
+            "@abbrev": "BUSI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Statistics, Probability and Uncertainty",
+            "@code": "1804",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Management Science and Operations Research",
+            "@code": "1803",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "Computational Intelligence",
+        "Polynomial Regression",
+        "Production-Inventory System",
+        "Robust Simulation-Optimization",
+        "Stochastic Control"
+    ],
+    "authors": [
+        "Amir Parnianifard",
+        "Ali Zemouche",
+        "Muhammad Ali Imran",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 2,
+    "ref-count": 75,
+    "ref-list": [
+        "A Comprehensive Review of Swarm Optimization Algorithms",
+        "An MCDM framework for dynamic systems",
+        "Computational Intelligence and Its Applications in Uncertainty-Based Design Optimization",
+        "PID control system analysis, design, and technology",
+        "Automatic tuning and adaptation for PID controllers-a survey",
+        "Modern control theory applied to inventory control for a manufacturing system",
+        "Inventory Control for a Manufacturing System under Uncertainty: Adaptive Approach",
+        "Application of response surface methodology as a New PID tuning method in an electrocoagulation process control case",
+        "Design and Implement of the Recurrent Radial Basis Function Neural Network Control for Brushless DC Motor",
+        "Tuning PID Controller Using Multiobjective Ant Colony Optimization",
+        "Theoretical consideration of retarded control",
+        "Measuring and avoiding the bullwhip effect: A control theoretic approach",
+        "A nonlinear programming solution to the dual response problem",
+        "Kriging metamodel management in the design optimization of a CNG injection system",
+        "Particle swarm optimization",
+        "Multi-objective optimization of PID controller using pareto-based surrogate modeling algorithm for MIMO evaporator system",
+        "Hybrid simulation optimization methods a taxonomy and discussion",
+        "Inventory control of supply chains: Mitigating the bullwhip effect by centralized and decentralized Internal Model Control approaches",
+        "Inventory trigger control policies developed in terms of control theory",
+        "Refinements of the Ziegler\u2013Nichols tuning formula",
+        "A simulation-based optimisation approach for multi-objective inventory control of perishable products in closed-loop supply chains under uncertainty",
+        "Sequential improvement for robust optimization using an uncertainty measure for radial basis functions",
+        "The Design of a Motor Drive Based on Neural Network",
+        "Robust Cyber-Physical Systems: Concept, models, and implementation",
+        "Rotor Pole Design in Spoke-Type Brushless DC Motor by Response Surface Method",
+        "Comparative studies of metamodelling techniques under multiple modelling criteria",
+        "Limitations of multivariable controller tuning using genetic algorithms",
+        "Update scheme for sequential spatial correlation approximations in robust design optimisation",
+        "Kriging assisted on-line torque calculation for brushless DC motors used in electric vehicles",
+        "A kriging assisted direct torque control of brushless DC motor for electric vehicles",
+        "Comparison of three methods for selecting values of input variables in the analysis of output from a computer code",
+        "Tuning of PID Controller using Ziegler-Nichols Method for Speed Control of DC Motor",
+        "Grey Wolf Optimizer",
+        "A comparative study of PID controller tuning using GA, EP, PSO and ACO",
+        "Simulation-based optimization using computational intelligence",
+        "Stochastic control theory and operational research",
+        "Control theory applications to the production-inventory problem: A review",
+        "Recent developments in metamodel based robust black-box simulation optimization: An overview",
+        "Kriging-Assisted robust black-box simulation optimization in direct speed control of DC motor under uncertainty",
+        "An overview on robust design hybrid metamodeling: Advanced methodology in process optimization under uncertainty",
+        "Design and analysis of computer experiments using polynomial regression and latin hypercube sampling in optimal design of PID controller",
+        "Crossing weighted uncertainty scenarios assisted distribution-free metamodel-based robust simulation optimization",
+        "Comparative study of metamodeling and sampling design for expensive and semi-expensive simulation models under uncertainty",
+        "Kriging and Latin hypercube sampling assisted aimulation optimization in optimal design of PID controller for speed control of DC motor",
+        "A robust optimization approach to closed-loop supply chain network design under uncertainty",
+        "Evaluating PID control for supply chain management: A freshman design project",
+        "Optimizing control system based on integration of competing search optimization algorithms",
+        "Design and analysis of computer experiments",
+        "A process control approach to tactical inventory management in production-inventory systems",
+        "Optimal Control Theory-Applications to Management Science and Economics-3th Edittion",
+        "Metamodeling approach for PID controller optimization in an evaporator process",
+        "A parallel updating scheme for approximating and optimizing high fidelity computer simulations",
+        "Application of control theoretic principles to manage inventory replenishment in a supply chain",
+        "Robust parameter design of supply chain inventory policy considering the uncertainty of demand and lead time",
+        "Inventory control policy for a periodic review system with expediting",
+        "Position control of DC motor using genetic algorithm based PID controller",
+        "Some features common to inventory system and process controller design",
+        "Robust Planning: A New Paradigm for Demand Chain Planning",
+        "A tutorial on latin hypercube design of experiments",
+        "Review of metamodeling techniques in support of engineering design optimization",
+        "PID tuning for improved performance",
+        "Hybrid fuzzy-PID control of a nuclear Cyber-Physical System working under varying environmental conditions",
+        "Management of inventory using control theory",
+        "Inventory Control Systems Model for Strategic Capacity Acquisition",
+        "Optimum settings for automatic controllers"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Nancy",
+            "@id": "60104289",
+            "affilname": "Universit\u00e9 de Lorraine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104289",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Glasgow",
+            "@id": "60001490",
+            "affilname": "University of Glasgow",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001490",
+            "affiliation-country": "United Kingdom"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Chulalongkorn University"
+    ]
+}

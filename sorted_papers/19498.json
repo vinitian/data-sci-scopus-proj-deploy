@@ -1,0 +1,59 @@
+{
+    "eid": "2-s2.0-85102056436",
+    "title": "A Method of the Lagrange Polynomial Interpolation with Weighting Factors for Reducing Computational Time",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "extrapolation",
+        "initial guess value",
+        "iterative method",
+        "Lagrange polynomial interpolation",
+        "weighting factors"
+    ],
+    "authors": [
+        "Uthai Prasopchingchana"
+    ],
+    "citedby-count": 0,
+    "ref-count": 24,
+    "ref-list": [
+        "Computation of temperature distributions on uniform and non-uniform lattice sizes using mesoscopic lattice Boltzmann method",
+        "Accelerating iterative solution methods using reduced-order models as solution predictors",
+        "Time-extrapolation algorithm (TEA) for linear parabolic problems",
+        "Fast solvers for unsteady thermal fluid structure interaction",
+        "Extrapolation methods for accelerating unsteady partitioned fluid-structure interaction simulations",
+        "Int-Deep: A deep learning initialized iterative method for nonlinear problems",
+        "Large-scale numerical simulations of turbulent non-Newtonian thermal convection using method of characteristics",
+        "Deformation extrapolation and initial predictors in largedeformation finite element analysis",
+        "Model reduction-based initialization methods for solving the Poisson-Nernst-Plank equations in threedimensional ion channel simulations",
+        "Smooth initialization of lattice Boltzmann schemes",
+        "Extrapolation-based acceleration of iterative solvers: Application to simulation of 3D flows",
+        "A spectrally accurate method for overlapping grid solution of incompressible Navier-Stokes equations",
+        "Dynamic mode extrapolation to improve the efficiency of dual time stepping method",
+        "Benchmark spectral results on the lid-driven cavity flow",
+        "The 2D lid-driven cavity problem revisited",
+        "A new scheme for the finite volume method verified with two dimensional laminar natural convection in a square cavity",
+        "Towards a better understanding of wall-driven square cavity flows using the lattice Boltzmann method",
+        "Mesh-free multilevel iterative algorithm for Navier-Stokes equations",
+        "Meshfree methods on manifolds for hydrodynamic flows on curved surfaces: A Generalized Moving Least-Squares (GMLS) approach",
+        "A segregated spectral finite element method for the 2D transient incompressible Navier-Stokes equations",
+        "An octree structured finite volume based solver",
+        "Discretized pressure Poisson algorithm for steady incompressible flow on two-dimensional triangular unstructured grids",
+        "Optimized incompressible smoothed particle hydrodynamics methods and validations",
+        "Development of General Finite Differences for complex geometries using a sharp interface formulation"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

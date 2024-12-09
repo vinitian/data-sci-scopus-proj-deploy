@@ -1,0 +1,141 @@
+{
+    "eid": "2-s2.0-85000384188",
+    "title": "Critical Comments on EEG Sensor Space Dynamical Connectivity Analysis",
+    "cover-date": "2019-07-30",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Anatomy",
+            "@code": "2702",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiological and Ultrasound Technology",
+            "@code": "3614",
+            "@abbrev": "HEAL"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Neurology",
+            "@code": "2808",
+            "@abbrev": "NEUR"
+        },
+        {
+            "@_fa": "true",
+            "$": "Neurology (clinical)",
+            "@code": "2728",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Brain connectivity",
+        "Directed transfer function",
+        "EEG",
+        "Granger causality",
+        "MVAR"
+    ],
+    "authors": [
+        "Frederik Van de Steen",
+        "Luca Faes",
+        "Esin Karahan",
+        "Jitkomut Songsiri",
+        "Pedro A. Valdes-Sosa",
+        "Daniele Marinazzo"
+    ],
+    "citedby-count": 72,
+    "ref-count": 46,
+    "ref-list": [
+        "Partial directed coherence: a new concept in neural structure determination",
+        "Electromagnetic brain mapping",
+        "Granger causality for state space models",
+        "A tutorial review of functional connectivity analysis methods and their interpretational pitfalls",
+        "Volume conduction influences scalp-based connectivity estimates",
+        "Estimation of cortical connectivity from EEG using state-space models",
+        "Influence of the head model on EEG and MEG source connectivity analyses",
+        "Granger causality: basic theory and application to neuroscience",
+        "On the evaluation of information flow in multivariate systems by the directed transfer function",
+        "Causal inference in time series analysis",
+        "Assessing connectivity in the presence of instantaneous causality",
+        "Measuring connectivity in linear multivariate processes: definitions, interpretation, and practical analysis",
+        "Functional and effective connectivity: a review",
+        "Dynamic causal modelling",
+        "Analysing connectivity with Granger causality and dynamic causal modelling",
+        "Granger causality revisited",
+        "A solution to the dynamical inverse problem of EEG generation using spatiotemporal Kalman filtering",
+        "Measurement of linear dependence and feedback between multiple time series",
+        "Measuring directional coupling between EEG sources",
+        "Investigating causal relations by econometric models and cross-spectral methods",
+        "A simulation framework for benchmarking EEG-based brain connectivity estimation methodologies",
+        "Modeling sparse connectivity between underlying brain sources for eeg/meg",
+        "A critical assessment of connectivity measures for EEG data: a simulation study",
+        "Directed transfer function is not influenced by volume conduction-inexpedient pre-processing should be avoided",
+        "A new method of the description of the information flow in the brain structures",
+        "Evaluating causal relations in neural systems: granger causality, directed transfer function and statistical assessment of significance",
+        "Small-world directed networks in the human brain: multivariate Granger causality analysis of resting-state fMRI",
+        "Interactions between the prefrontal cortex and attentional systems during volitional affective regulation: an effective connectivity reappraisal study",
+        "Consistency of EEG source localization and connectivity estimates",
+        "Independent component analysis of electroencephalographic data",
+        "EEG source imaging",
+        "Robustly estimating the flow direction of information in complex physical systems",
+        "The five percent electrode system for high-resolution EEG and ERP measurements",
+        "Estimating directed connectivity from cortical recordings and reconstructed sources",
+        "Discrete, 3D distributed, linear imaging methods of electric neuronal activity",
+        "Wiener-Granger causality in network physiology with applications to cardiovascular control and neuroscience",
+        "Source connectivity analysis with MEG and EEG",
+        "Granger Causality analysis in neuroscience and neuroimaging",
+        "Functional connectivity as revealed by spatial independent component analysis of fMRI measurements during rest",
+        "How to detect the Granger-causal flow direction in the presence of additive noise?",
+        "Validity of time reversal for testing granger causality",
+        "Cortical functional connectivity is associated with the valence of affective states",
+        "Effective connectivity during visual processing is affected by emotional state",
+        "Recursive penalized least squares solution for dynamical inverse problems of EEG generation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Havana",
+            "@id": "60069786",
+            "affilname": "Cuban Neuroscience Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60069786",
+            "affiliation-country": "Cuba"
+        },
+        {
+            "affiliation-city": "Ghent",
+            "@id": "60033316",
+            "affilname": "Universiteit Gent",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60033316",
+            "affiliation-country": "Belgium"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Trento",
+            "@id": "60015986",
+            "affilname": "Universit\u00e0 di Trento",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015986",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Beijing",
+            "@id": "60001604",
+            "affilname": "Ministry of Education of the People's Republic of China",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001604",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": [
+        "FWO-V",
+        "Fund for Scientific Research-Flanders"
+    ]
+}

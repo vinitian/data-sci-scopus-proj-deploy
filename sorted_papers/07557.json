@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85062242881",
+    "title": "The modern mathematical equation for the lightning protection angle",
+    "cover-date": "2019-01-18",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Lightning protection angle",
+        "Modern equation"
+    ],
+    "authors": [
+        "Arnon Singhasathein",
+        "Weerapun Rungseevijitprapa",
+        "Aphibal Pruksanubal"
+    ],
+    "citedby-count": 6,
+    "ref-count": 10,
+    "ref-list": [
+        "Design and Construction of Surge Generator according to Standard IEC 61000-4-5 and 61000-4-12",
+        "The implication of the eletrogeometic model regarding effect of height of structure on the median amplitude of collected lightning strokes",
+        "Level, class, and prospected safety performance of a lightning protection system for a complex of structure (LPCS)",
+        "Weerapun rungseevijitprapa and aphibal pruksanubal the realistic approximation on equivalent attractive radius of lightning strike",
+        "Weerapun rungseevijitprapa and aphibal pruksanubal \"a novel approved mathematical equation for lightning protection angle"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

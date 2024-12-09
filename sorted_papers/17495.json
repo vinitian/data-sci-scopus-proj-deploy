@@ -1,0 +1,87 @@
+{
+    "eid": "2-s2.0-85069776266",
+    "title": "Design of Model Predictive Control with Nonlinear Disturbance Observer for Electric Power Steering System",
+    "cover-date": "2019-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "electric power steering",
+        "Model predictive control",
+        "nonlinear disturbance observer",
+        "reference generator",
+        "steering feel"
+    ],
+    "authors": [
+        "Yu Fujimura",
+        "Seiji Hashimoto",
+        "David Banjerdpongchai"
+    ],
+    "citedby-count": 4,
+    "ref-count": 22,
+    "ref-list": [
+        "Evaluation method for steer assist feeling around steering center and control design on EPS",
+        "New control algorithms for steering feel improvements of an electric powered steering system with belt drive",
+        "Friction compensation control for power steering",
+        "Proposal of equivalent friction control on Electric Power Steering (EPS)",
+        "Enhancement of steering feel of electric power assist steering system using modeling reference control",
+        "Design and control of model based steering feel reference in an electric power assisted steering system",
+        "A new control framework of electric power steering system based on admittance control",
+        "Electric power steering with H-infinity control designed to obtain road information",
+        "An optimal torque distribution control strategy for four-independent wheel drive electric vehicles",
+        "A novel sliding mode control for lane keeping in road vehicles",
+        "Model predictive control for vehicle stabilization at the limits of handling",
+        "Development of a genetic-algorithm-based nonlinear model predictive control scheme on velocity and steering of autonomous vehicles",
+        "A model of driver steering control incorporating the driver's sensing of steering torque",
+        "A predictive control framework for torque-based steering assistance to improve safety in highway driving",
+        "The effect of steering torque hysteresis on steering behavior",
+        "Designing steering feel for steer-by-wire vehicles using objective measures",
+        "Control system design of electric power steering for a full vehicle model with active stabilizer",
+        "Neuromuscular analysis as a guideline in designing shared control",
+        "An advanced steering system with active kinesthetic feedback for handling qualities improvement",
+        "Design of disturbance observer and model predictive control for non-minimum phase timedelay system with application to industrial boilers"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Maebashi",
+            "@id": "60014756",
+            "affilname": "Gunma University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014756",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "Gunma University"
+    ]
+}

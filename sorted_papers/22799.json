@@ -1,0 +1,70 @@
+{
+    "eid": "2-s2.0-84961221236",
+    "title": "An enhanced support vector machine for faster time series classification",
+    "cover-date": "2016-01-01",
+    "subject-areas": [
+        {
+            "$": "General Computer Science",
+            "@code": "1700"
+        },
+        {
+            "$": "Theoretical Computer Science",
+            "@code": "2614"
+        }
+    ],
+    "keywords": [
+        "Classification",
+        "Dynamic time warping (DTW)",
+        "LB_keogh",
+        "Lower bound",
+        "Support vector machine (SVM)"
+    ],
+    "authors": [
+        "Thapanan Janyalikit"
+    ],
+    "citedby-count": 6,
+    "ref-count": 26,
+    "ref-list": [
+        "Robust and accurate anomaly detection in ECG artifacts using time series motif discovery",
+        "Time-series analysis in the medical domain: A study of Tacrolimus administration and influence on kidney graft function",
+        "Supervised classification of share price trends",
+        "Discovery, Classification, and Scientific Exploration of Transient Events from the Catalina Real-Time Transient Survey",
+        "An Experimental Evaluation of Nearest Neighbour Time Series Classification",
+        "An Introduction to Support Vector Machines and Other Kernel-Based Learning Methods",
+        "Support vector-based algorithms with weighted dynamic time warping kernel function for time series classification",
+        "Support vector machines and dynamic time warping for time series",
+        "Data Min. Knowl. Discov",
+        "Dynamic Programming Algorithm Optimization for Spoken Word Recognition",
+        "Learning DTW Global Constraint for Time Series Classification",
+        "Fast retrieval of similar subsequences in long sequence databases",
+        "An index-based approach for similarity search supporting time warping in large sequence databases",
+        "Exact indexing of dynamic time warping",
+        "Financial time series forecasting using LPP and SVM optimized by PSO",
+        "SVM classification of epileptic EEG recordings through multiscale permutation entropy",
+        "An effective support vector machines (SVMs) performance using hierarchical clustering",
+        "A symbolic representation of time series, with implications for streaming algorithms",
+        "LIBSVM: A Library for support vector machines",
+        "ACM SIGKDD Explor. Newsl",
+        "Finding similar time series",
+        "Time warp edit distance with stiffness adjustment for time series matching",
+        "On The Marriage of Lp-norms and Edit Distance",
+        "FTW: Fast similarity search under the time warping distance",
+        "Searching and mining trillions of time series subsequences under dynamic time warping"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "PTT",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "Thailand Research Fund"
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "eid": "2-s2.0-85085876987",
+    "title": "Imaging Enhancement in Angle-Domain Common-Image-Gathers Using the Connected-Component Labeling Method",
+    "cover-date": "2020-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Geophysics",
+            "@code": "1908",
+            "@abbrev": "EART"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geochemistry and Petrology",
+            "@code": "1906",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [
+        "angle-domain common-image-gathers",
+        "connected-component labeling (CCL)",
+        "Seismic migration"
+    ],
+    "authors": [
+        "Pongthep Thongsang",
+        "Hao Hu",
+        "Hua wei Zhou",
+        "August Lau"
+    ],
+    "citedby-count": 0,
+    "ref-count": 50,
+    "ref-list": [
+        "Canny edge detection enhancement by scale multiplication",
+        "Reverse time migration",
+        "Graph theory 1736\u20131936. In: N. L. Biggs, E. Keith Lloyd, R. J. Wilson (Eds)",
+        "3D angle-domain common-image gathers for migration velocity analysis",
+        "Focusing in dip and AVA compensation on scattering-angle/azimuth common image gathers",
+        "Digital images",
+        "A computational approach to edge detection",
+        "Toward a unified theory of reflector mapping",
+        "Diffraction imaging by prestack reverse-time migration in the dip-angle domain",
+        "A survey of edge detection techniques",
+        "A general-approach to connected-component labeling for arbitrary image representations",
+        "Two linear time union-find strategies for image processing",
+        "Image segmentation techniques",
+        "The connected-component labeling problem: A review of state-of-the-art algorithms",
+        "A new method for slant stacking refraction data",
+        "Non-local means filter for trim statics",
+        "Improving input/output performance in 2D and 3D angle-domain common-image gathers from reverse time migration",
+        "Migration with the full acoustic-wave equation",
+        "Morphologic edge detection",
+        "A review of image segmentation methodologies in medical image",
+        "Dip-angle image gather computation using the Poynting vector in elastic reverse time migration and their application for noise suppression",
+        "Superresolution stacking based on sparse Radon transform",
+        "Marmousi2: An elastic upgrade for Marmousi",
+        "Computational methods for the image segmentation of pigmented skin lesions: A review",
+        "The migration of common midpoint slant stacks",
+        "XV. On the transfer of energy in the electromagnetic field",
+        "Angle-domain common image gathers by wave-equation migration",
+        "\u00dcber die Bestimmung von Funktionen durch ihre Integralwerte l\u00e4ngs gewisser Mannigfaltigkeiten",
+        "Sequential operations in digital picture processing",
+        "Angle-domain common-image gathers by wavefield continuation methods",
+        "Linear-time connected-component labeling based on sequential local operations",
+        "The dynamically correct Poynting vector formulation for acoustic media with application in calculating multidirectional propagation vectors to produce angle gathers from reverse time migration",
+        "Imaging improvement in angle-domain common-image-gathers by a local stack utilizing segmentation method",
+        "P-Sv-wave propagation in heterogeneous media\u2014velocity-stress finite-difference method",
+        "Directional illumination analysis using beamlet decomposition and propagation",
+        "Optimizing connected component labeling algorithms",
+        "Extracting angle domain information from migrated wavefield",
+        "Common-angle migration: A strategy for imaging complex media",
+        "3D angle gathers from reverse time migration",
+        "Reverse time migration angle gathers using Poynting vectors",
+        "Reverse-time migration using the Poynting vector",
+        "Depth imaging with multiples",
+        "Direct vector-field method to obtain angle-domain common-image gathers from isotropic acoustic and elastic reverse time migration",
+        "Warping for trim statics",
+        "Eliminating artifacts in migration of surface-related multiples: An application to marine data",
+        "Reverse time migration: A prospect of seismic imaging methodology",
+        "Improving the stacking quality of angle-domain common-image gathers based on local warping and simulated annealing"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Houston",
+            "@id": "60005837",
+            "affilname": "University of Houston",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005837",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": []
+}

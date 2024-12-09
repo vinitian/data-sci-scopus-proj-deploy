@@ -1,0 +1,73 @@
+{
+    "eid": "2-s2.0-85084358964",
+    "title": "A Recommendation System of Sightseeing Places based on User's Behavior of Taking and Editing Photos",
+    "cover-date": "2019-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Decision Sciences (miscellaneous)",
+            "@code": "1801",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "photo recognition",
+        "Recommendation",
+        "sightseeing place",
+        "user behavior analysis",
+        "user preference"
+    ],
+    "authors": [
+        "Eriko Shibamoto",
+        "Chalisa Kittirojrattana",
+        "Chawan Koopipat",
+        "Aran Hansuebsai",
+        "Kosuke Takano"
+    ],
+    "citedby-count": 1,
+    "ref-count": 8,
+    "ref-list": [
+        "Photo sharing service for recommending sightseeing places",
+        "Travel recommendation using geo-tagged photos in social media for tourist",
+        "User-based collaborative filtering for tourist attraction recommendations",
+        "Personalized travel recommendation by mining people attributes from community-contributed photos. Proceedings of the 19th",
+        "Photo2trip:generating travel routes from geo-tagged photos for trip planning",
+        "Sequential influence modeling for location recommendations: A gravity-based approach",
+        "Hinton, imagenet classification with deep convolutional neural networks"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Atsugi",
+            "@id": "60001409",
+            "affilname": "Kanagawa Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001409",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

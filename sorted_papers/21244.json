@@ -1,0 +1,89 @@
+{
+    "eid": "2-s2.0-85107573666",
+    "title": "Automatic Aircraft Shadow Removal from Remote Sensing Images Using Mask-ShadowGAN",
+    "cover-date": "2021-04-23",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Decision Sciences (miscellaneous)",
+            "@code": "1801",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Automotive Engineering",
+            "@code": "2203",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Transportation",
+            "@code": "3313",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "Deep Learning",
+        "Mask-ShadowGAN",
+        "Remote Sensing Image",
+        "Shadow Removal"
+    ],
+    "authors": [
+        "Sirapavee Ganyaporngul",
+        "Nagul Cooharojananone",
+        "Pravee Kruachottikul",
+        "Donnaphat Trakulwaranont",
+        "Shin'ichi Satoh"
+    ],
+    "citedby-count": 0,
+    "ref-count": 12,
+    "ref-list": [
+        "Classifying self-cast shadow regions in aerial camera images",
+        "A workflow to minimize shadows in uav-based orthomosaics",
+        "Remote sensing image aircraft detection technology based on deep learning",
+        "Aircraft segmentation from remote sensing images using modified deeply supervised salient object detection with short connection",
+        "Deeply supervised salient object detection with short connections",
+        "Stacked conditional generative adversarial networks for jointly learning shadow detection and shadow removal",
+        "Ris-gan: Explore residual and illumination with generative adversarial networks for shadow removal",
+        "Mask-shadowgan: Learning to remove shadows from unpaired data",
+        "Holistically-nested edge detection",
+        "Very deep convolutional networks for large-scale image recognition",
+        "Perceptual losses for real-time style transfer and super-resolution",
+        "Image-to-image translation with conditional adversarial networks"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60028928",
+            "affilname": "Research Organization of Information and Systems National Institute of Informatics",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028928",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

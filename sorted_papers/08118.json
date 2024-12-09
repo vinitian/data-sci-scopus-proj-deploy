@@ -1,0 +1,95 @@
+{
+    "eid": "2-s2.0-85122911688",
+    "title": "Analytical formula for conditional expectations of path-dependent product of polynomial and exponential functions of extended Cox\u2013Ingersoll\u2013Ross process",
+    "cover-date": "2022-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mathematics (miscellaneous)",
+            "@code": "2601",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Analytical formula",
+        "Conditional expectation",
+        "ECIR process",
+        "Path-dependent"
+    ],
+    "authors": [
+        "Phiraphat Sutthimat",
+        "Sanae Rujivan",
+        "Khamron Mekchay",
+        "Udomsak Rakwongwan"
+    ],
+    "citedby-count": 11,
+    "ref-count": 30,
+    "ref-list": [
+        "A dynamic programming approach for pricing options embedded in bonds",
+        "Modified finite integration method using Chebyshev polynomial for solving linear differential equations",
+        "Analytical formulas for pricing discretely-sampled skewness and kurtosis swaps based on Schwartz\u2018s one-factor model",
+        "A theory of the term structure of interest rates",
+        "An intertemporal general equilibrium model of asset prices",
+        "Maximum likelihood estimation of time-inhomogeneous diffusions",
+        "Boundary values and finite difference methods for the single factor term structure equation",
+        "A general characterization of one factor affine term structure models",
+        "Time-inhomogeneous affine processes",
+        "Affine diffusion processes: theory and applications",
+        "The 4/2 stochastic volatility model: a unified approach for the Heston and the 3/2 model",
+        "Back to the future: Generating moment implications for continuous-time Markov processes",
+        "Convergence of Monte Carlo simulations involving the mean reverting square root process",
+        "Pricing interest rate derivative securities",
+        "Solution of the extended CIR term structure and bond option valuation",
+        "Interest rate swaps under CIR",
+        "A closed-form formula for the conditional moments of the extended CIR process",
+        "Analytically pricing variance swaps in commodity derivative markets under stochastic convenience yields",
+        "Analytically pricing volatility swaps and volatility options with discrete sampling: Nonlinear payoff volatility derivatives",
+        "A simple closed-form formula for pricing discretely-sampled variance swaps under the Heston model",
+        "Explicit formula for conditional expectations of product of polynomial and exponential function of affine transform of extended Cox\u2013Ingersoll\u2013Ross process",
+        "A closed-form formula for the conditional expectation of the extended CIR process",
+        "An equilibrium characterization of the term structure",
+        "Calibration of the extended CIR model"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tha Sala",
+            "@id": "60026526",
+            "affilname": "Walailak University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026526",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60021944",
+            "affilname": "Kasetsart University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021944",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

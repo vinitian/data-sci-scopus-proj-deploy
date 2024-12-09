@@ -1,0 +1,76 @@
+{
+    "eid": "2-s2.0-85140870714",
+    "title": "Thai Nested Named Entity Recognition Corpus",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Linguistics and Language",
+            "@code": "3310",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Language and Linguistics",
+            "@code": "1203",
+            "@abbrev": "ARTS"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Weerayut Buaphet",
+        "Can Udomcharoenchaikit",
+        "Peerat Limkonchotiwat",
+        "Attapol T. Rutherford",
+        "Sarana Nutanong"
+    ],
+    "citedby-count": 2,
+    "ref-count": 27,
+    "ref-list": [
+        "Collocation and thai word segmentation",
+        "NoSta-D named entity annotation for German: Guidelines and dataset",
+        "Syllable-based neural Thai word segmentation",
+        "BERT: Pre-training of deep bidirectional transformers for language understanding",
+        "The automatic content extraction (ACE) program - tasks, data, and evaluation",
+        "VLSP 2016 shared task: Named entity recognition",
+        "Genia corpus-a semantically annotated corpus for bio-textmining",
+        "Sequence-to-nuggets: Nested entity mention detection via anchor-region networks",
+        "Bipartite flat-graph network for nested named entity recognition",
+        "A feature-based model for nested named-entity recognition at vlsp-2018 ner evaluation campaign",
+        "Vlsp shared task: Named entity recognition",
+        "DaN+: Danish nested named entities and lexical normalization",
+        "NNE: A dataset for nested named entity recognition in English newswire",
+        "Locate and label: A two-stage identifier for nested named entity recognition",
+        "Nested named entity recognition via second-best sequence learning and decoding",
+        "Neural architectures for nested ner through linearization",
+        "Neural architectures for nested NER through linearization",
+        "Thai named entity recognition based on conditional random fields",
+        "Introduction to the CoNLL-2003 shared task: Language-independent named entity recognition",
+        "Pyramid: A layered model for nested named entity recognition",
+        "HIT: Nested named entity recognition via head-tail pair and token interaction",
+        "LUKE: Deep contextualized entity representations with entity-aware self-attention"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "116353786",
+            "affilname": "VISTEC",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/116353786",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

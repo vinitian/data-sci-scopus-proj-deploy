@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85076735148",
+    "title": "Very Short-Term Solar Power Forecasting Using Genetic Algorithm Based Deep Neural Network",
+    "cover-date": "2019-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Health Informatics",
+            "@code": "2718",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Social Sciences (miscellaneous)",
+            "@code": "3301",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "Deep Neural Networks",
+        "Genetic Algorithm",
+        "Numerical Weather Prediction",
+        "Recurrent Neural Network",
+        "Solar Power Forecast"
+    ],
+    "authors": [
+        "Sukrit Jaidee",
+        "Wanchalerm Pora"
+    ],
+    "citedby-count": 5,
+    "ref-count": 17,
+    "ref-list": [
+        "Distributed PV power forecasting using genetic algorithm based neural network approach",
+        "A novel GA-ANFIS hybrid model for short-Term solar PV power forecasting in Indian electricity market",
+        "Short-Term prediction of photovoltaic energy generation by intelligent approach",
+        "Shortterm power forecasting system for photovoltaic plants",
+        "Online short-Term solar power forecasting",
+        "Application of neural network to one-dayahead 24 hours generating power forecasting of photovoltaic system, in Intelligent Systems Applications to Power Systems 2007",
+        "LSTM: A search space odyssey",
+        "Deap: A python framework for evolutionary algorithms"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

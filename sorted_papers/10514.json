@@ -1,0 +1,83 @@
+{
+    "eid": "2-s2.0-85073947972",
+    "title": "Efficient computation of the stochastic behavior of partial sum processes",
+    "cover-date": "2020-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Statistics and Probability",
+            "@code": "2613",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Statistics, Probability and Uncertainty",
+            "@code": "1804",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Conditional probability",
+        "Partial sums",
+        "Product quality assessment",
+        "Recursive computations",
+        "Reliability",
+        "Stochastic control"
+    ],
+    "authors": [
+        "Sorawit Saengkyongam",
+        "Anthony Hayter",
+        "Seksan Kiatsupaibul",
+        "Wei Liu"
+    ],
+    "citedby-count": 0,
+    "ref-count": 20,
+    "ref-list": [
+        "Valuation of discrete barrier and hindsight options",
+        "Universal option valuation using quadrature methods",
+        "Hit-and-run algorithm for generating multivariate distribution",
+        "Flexible convolution",
+        "Approximations to the probability integral and certain percentage points of a multivariate analogue of Student\u2019s t -distribution",
+        "Pricing discretely monitored asian options under levy processes",
+        "Analysis of quadrature methods for pricing discrete barrier options",
+        "Recursive integration methodologies with statistical applications",
+        "Recursive formulas for multinomial probabilities with applications",
+        "Recursive confidence band construction for an unknown distribution function",
+        "Rank constrained distribution and moment computations",
+        "An analysis of a variation of hit-and-run for uniform sampling from general regions",
+        "Hit-and-run mixes fast",
+        "Efficient Monte Carlo procedures for generating points uniformly distributed over bounded regions",
+        "Using complex integration to compute multivariate normal probabilities",
+        "Pricing discretely monitored barrier options"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Southampton",
+            "@id": "60025225",
+            "affilname": "University of Southampton",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025225",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Denver",
+            "@id": "60015404",
+            "affilname": "University of Denver",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015404",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": []
+}

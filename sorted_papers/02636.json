@@ -1,0 +1,85 @@
+{
+    "eid": "2-s2.0-85092537600",
+    "title": "Boundary bit: Architectural bound checking for Buffer-overflow protection",
+    "cover-date": "2020-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Buffer overflow",
+        "Invasive software",
+        "Security and protection",
+        "Security kernels",
+        "System architectures",
+        "Unauthorized access"
+    ],
+    "authors": [
+        "Sirisara Chiamwongpaet",
+        "Krerk Piromsopa"
+    ],
+    "citedby-count": 0,
+    "ref-count": 41,
+    "ref-list": [
+        "Baggy bounds checking: An efficient and backwards-compatible defense against out-of-bounds errors",
+        "A Taxonomy of Buffer Overflow Characteris-tics",
+        "The implementation of Secure Canary Word for buffer-overflow protection",
+        "Pointguard\u2122: protecting pointers from buffer overflow vulnerabilities",
+        "Stackguard: automatic adaptive detection and prevention of buffer-overflow attacks",
+        "Architectural support for software-defined metadata process-ing",
+        "Backwardscompati-ble array bounds checking for c with very low overhead",
+        "Tagged architecture: how compelling are its ad-vantages?",
+        "Testing c programs for buffer overflow vulnerabilities",
+        "Backwards-compatible bounds checking for ar-rays and pointers in c programs",
+        "Saber-C \u2014 an interpreter-based programming environment for the C language",
+        "Low-fat pointers: compact encoding and efficient gate-level implementation of fat pointers for spatial safety and capability-based security",
+        "Adding run-time checking to the portable c compiler",
+        "Buffer overflow and format string overflow vulnerabilities",
+        "Heapdefender: A mechanism of defending embedded systems against heap overflow via hardware",
+        "Smov: Array bound-check and access in a single instruction",
+        "Softbound: Highly compatible and complete spatial memory safety for c",
+        "Cets: Compiler enforced temporal safety for c",
+        "Low-cost, concur-rent checking of pointer and array accesses in c programs",
+        "Secure Bit: Transparent, Hardware Buffer-Overflow Protec-tion",
+        "Secure Bit Enhanced Canary: Hardware Enhanced Buffer-Overflow Protection",
+        "Architect-ing security: A secure implementation of hardware buffer-overflow protection",
+        "Survey of pro-tections from buffer-overflow attacks",
+        "A practical dynamic buffer overflow detector",
+        "An Efficient Hardware-Oriented Runtime Approach for Stack-based Software Buffer Overflow At-tacks",
+        "De-fending embedded systems against buffer overflow via hardware/software",
+        "RAD: a compile-time solution to buffer overflow at-tacks",
+        "Ex-tensions to the c programming language for enhanced fault detection",
+        "A first step towards automated detection of buffer overrun vulnerabilities",
+        "Error checking with pointer variables"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

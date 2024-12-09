@@ -1,0 +1,151 @@
+{
+    "eid": "2-s2.0-85152049697",
+    "title": "Computational prediction of MHC anchor locations guides neoantigen identification and prioritization",
+    "cover-date": "2023-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Immunology and Allergy",
+            "@code": "2723",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Immunology",
+            "@code": "2403",
+            "@abbrev": "IMMU"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Huiming Xia",
+        "Joshua McMichael",
+        "Michelle Becker-Hapak",
+        "Onyinyechi C. Onyeador",
+        "Rico Buchli",
+        "Ethan McClain",
+        "Patrick Pence",
+        "Suangson Supabphol",
+        "Megan M. Richters",
+        "Anamika Basu",
+        "Cody A. Ramirez",
+        "Cristina Puig-Saus",
+        "Kelsy C. Cotto",
+        "Sharon L. Freshour",
+        "Jasreet Hundal",
+        "Susanna Kiwala",
+        "S. Peter Goedegebuure",
+        "Tanner M. Johanns",
+        "Gavin P. Dunn",
+        "Antoni Ribas",
+        "Christopher A. Miller",
+        "William E. Gillanders",
+        "Todd A. Fehniger",
+        "Obi L. Griffith",
+        "Malachi Griffith"
+    ],
+    "citedby-count": 1,
+    "ref-count": 47,
+    "ref-list": [
+        "RNA editing derived epitopes function as cancer antigens to elicit immune responses",
+        "Alternative Splicing in Tumors - A Path to Immunogenicity?",
+        "Mining exomic sequencing data to identify mutated antigens recognized by adoptively transferred tumor-reactive T cells",
+        "An immunogenic personal neoantigen vaccine for patients with melanoma",
+        "Neoantigen vaccine generates intratumoral T cell responses in phase Ib glioblastoma trial",
+        "Best practices for bioinformatic characterization of neoantigens for clinical utility",
+        "pVACtools: A computational toolkit to identify and visualize cancer neoantigens",
+        "pVACSeq: A genome-guided in silico approach to identifying tumor neoantigens",
+        "MuPeXI: Prediction of neo-epitopes from tumor sequencing data",
+        "A review of somatic single nucleotide variant calling algorithms for next-generation sequencing data",
+        "Insertion-and-deletion-derived tumour-specific neoantigens and the immunogenic phenotype: A pan-cancer analysis",
+        "Immunogenic neoantigens derived from gene fusions stimulate T cell responses",
+        "Noncoding regions are the main source of targetable tumor-specific antigens",
+        "Actively personalized vaccination trial for newly diagnosed glioblastoma",
+        "Pan-cancer analysis of whole genomes",
+        "A new era of long-read sequencing for cancer genomics",
+        "Comprehensive analysis of structural variants in breast cancer genomes using single-molecule sequencing",
+        "Sources of cancer neoantigens beyond single-nucleotide variants",
+        "Genomic and bioinformatic profiling of mutational neoepitopes reveals new rules to predict anticancer immunogenicity",
+        "Modification of MHC anchor residues generates heteroclitic peptides that alter TCR binding and T cell recognition",
+        "Mutation position is an important determinant for predicting cancer neoantigens",
+        "Key parameters of tumor epitope immunogenicity revealed through a consortium approach improve neoantigen prediction",
+        "Pediatric patients with acute lymphoblastic leukemia generate abundant and functional neoantigen-specific CD8 T cell responses",
+        "A comprehensive survey of genomic alterations in gastric cancer reveals recurrent neoantigens as potential therapeutic targets",
+        "Mutation-derived neoantigen-specific T-cell responses in multiple Myeloma",
+        "The combination of neoantigen quality and T lymphocyte infiltrates identifies glioblastomas with the longest survival",
+        "HLA-binding properties of tumor neoepitopes in humans",
+        "Characterization of the genomic and immunologic diversity of malignant brain tumors through multisector analysis",
+        "Gapped sequence alignment using artificial neural networks: Application to the MHC class I system",
+        "NetMHCpan-4.0: Improved peptide-MHC class I interaction predictions integrating eluted ligand and peptide binding affinity data",
+        "High-Throughput Prediction of MHC Class I and II Neoantigens with MHCnuggets",
+        "MHCflurry: Open-Source Class I MHC Binding Affinity Prediction",
+        "Prediction of MHC class II binding affinity using SMM-align, a novel stabilization matrix alignment method",
+        "The PickPocket method for predicting binding specificities for receptors based on receptor pocket similarities: Application to MHC-peptide binding",
+        "Derivation of an amino acid similarity matrix for peptide: MHC binding and its application as a Bayesian prior",
+        "NetMHCcons: A consensus method for the major histocompatibility complex class I predictions",
+        "Allele frequency net database (AFND) 2020 update: Gold-standard data classification, open access genotype data and new query tools",
+        "Variations in HLA-B cell surface expression, half-life and extracellular antigen receptivity",
+        "Predicting HLA class II antigen presentation through integrated deep learning",
+        "Peptide binding prediction for the human class II MHC allele HLA-DP2: A molecular docking approach",
+        "Neoantigen Vaccines Pass the Immunogenicity Test",
+        "Development and validation of a fluorescence polarization-based competitive peptide-binding assay for HLA-A*0201-a new tool for epitope discovery",
+        "RCSB Protein Data Bank: Biological macromolecular structures enabling research and education in fundamental biology, biomedicine, biotechnology and energy",
+        "MDTraj: A modern open library for the analysis of molecular dynamics trajectories"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "St. Louis",
+            "@id": "60022756",
+            "affilname": "Washington University School of Medicine in St. Louis",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022756",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Los Angeles",
+            "@id": "60005247",
+            "affilname": "David Geffen School of Medicine at UCLA",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005247",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "St. Louis",
+            "@id": "60273994",
+            "affilname": "Alvin J. Siteman Cancer Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60273994",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "San Francisco",
+            "@id": "117784107",
+            "affilname": "Parker Institute for Cancer Immunotherapy",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/117784107",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Oklahoma City",
+            "@id": "100419772",
+            "affilname": "Pure Protein LLC",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/100419772",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Jamie Erin Follicular Lymphoma Consortium",
+        "King of Thailand",
+        "NIH",
+        "National Human Genome Research Institute",
+        "NCI",
+        "V Foundation for Cancer Research",
+        "National Center for Advancing Translational Sciences",
+        "Washington University",
+        "Washington University Institute of Clinical and Translational Sciences",
+        "Siteman Cancer Center"
+    ]
+}

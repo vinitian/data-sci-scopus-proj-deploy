@@ -1,0 +1,91 @@
+{
+    "eid": "2-s2.0-85125168866",
+    "title": "DeltaFace: Fully Automatic 3D Facial Cosmetic Surgery Simulation",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Automotive Engineering",
+            "@code": "2203",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Facial Surgery",
+        "Machine Learning",
+        "Rendering",
+        "Simulation"
+    ],
+    "authors": [
+        "Adawat Chanchua",
+        "Nuttapong Chentanez"
+    ],
+    "citedby-count": 1,
+    "ref-count": 28,
+    "ref-list": [
+        "Effect of plastic surgery on face recognition: A preliminary study",
+        "What is the most beautiful facial proportion in the 21st century? comparative study among miss universe, miss universe thailand, neoclassical canons, and facial golden ratios",
+        "Deceiving faces: When plastic surgery challenges face recognition",
+        "One millisecond face alignment with an ensemble of regression trees",
+        "Accurate 3d face reconstruction with weakly-supervised learning: From single image to image set",
+        "Three-dimensional imaging of the face: A comparison between three different imaging modalities",
+        "A new 3-d tool for planning plastic surgery",
+        "Facial attractiveness, symmetry and cues of good genes",
+        "Symmetry and human facial attractiveness",
+        "How far are we from solving the 2d & 3d face alignment problem? (and a dataset of 230, 000 3d facial landmarks)",
+        "Dense 3d face correspondence",
+        "A morphable model for the synthesis of 3d faces",
+        "Morphable face models-An open framework",
+        "Matching 3d face scans using interest points and local histogram descriptors",
+        "Dense face alignment",
+        "Discovery of a perceptual distance function for measuring image similarity",
+        "Image retrieval and perceptual similarity",
+        "Finegrained retrieval with autoencoders",
+        "Image retrieval and pattern spotting using siamese neural network",
+        "Learning fine-grained image similarity with deep ranking",
+        "Billion-scale similarity search with gpus",
+        "Joint face detection and facial motion retargeting for multiple faces",
+        "Facial expression retargeting from human to avatar made easy",
+        "Facial retargeting using neural networks",
+        "Kernel projection of latent structures regression for facial animation retargeting",
+        "Automatic reconstruction of dense 3d face point cloud with a single depth image"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

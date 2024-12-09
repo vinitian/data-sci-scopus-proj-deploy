@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85071492943",
+    "title": "The Simulation of Queuing Model for Bangkok Rapid Transit Train Ticket System Using Python",
+    "cover-date": "2019-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Bangkok rapid transit",
+        "Queuing Theory",
+        "Simulation Model",
+        "software tool",
+        "train ticket system"
+    ],
+    "authors": [
+        "Suvit Poomrittigul",
+        "Amorn Koomsubsiri",
+        "Pruk Sasithong",
+        "Danunai Deenuch",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 3,
+    "ref-count": 4,
+    "ref-list": [
+        "Queuing theory analysis for Bangkok rapid transit train ticket system",
+        "Simulation and optimization of the ticket vending machine configuration in metro stations based on anylogic software",
+        "Modeling and simulation of metro transit station walkway as a state-dependent queuing system based on the phase-type distribution"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "123086767",
+            "affilname": "Smart Wireless Communication Ecosystem Research Group",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/123086767",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "100529141",
+            "affilname": "Pathumwan Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/100529141",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "National Science and Technology Development Agency"
+    ]
+}

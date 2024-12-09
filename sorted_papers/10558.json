@@ -1,0 +1,89 @@
+{
+    "eid": "2-s2.0-85118444072",
+    "title": "Domain adaptation of Thai word segmentation models using stacked ensemble",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Peerat Limkonchotiwat",
+        "Wannaphong Phatthiyaphaibun",
+        "Raheem Sarwar",
+        "Ekapol Chuangsuwanich",
+        "Sarana Nutanong"
+    ],
+    "citedby-count": 10,
+    "ref-count": 26,
+    "ref-list": [
+        "A Japanese Word Segmentation Proposal",
+        "Universal Dependencies Version 2 for Japanese",
+        "Fast and Accurate Neural Word Segmentation for Chinese",
+        "Optimizing Chinese Word Segmentation for Machine Translation Performance",
+        "Adversarial Multi-Criteria Learning for Chinese Word Segmentation",
+        "Multi-Grained Chinese Word Segmentation",
+        "A comparative study of pretrained language models on thai social text categorization",
+        "Long Short-Term memory for Japanese Word Segmentation",
+        "Tlex+: A hybrid method using conditional random fields and dictionaries for thai Word Segmentation",
+        "Best 2009: Thai Word Segmentation software contest",
+        "Is Word Segmentation Necessary for Deep Learning of Chinese Representations?",
+        "State-of-the-art Chinese Word Segmentation with Bi-LSTMs",
+        "Balanced corpus of contemporary written Japanese",
+        "Improving Thai Word and Sentence Segmentation Using Linguistic Knowledge",
+        "From Word Segmentation to POS tagging for Vietnamese",
+        "A Multi-Aspect Comparison and Evaluation on Thai Word Segmentation programs",
+        "Cross-lingual Transfer Learning for Multilingual Task Oriented Dialog",
+        "Thai word segmentation for visualization of Thai Web sites",
+        "Simultaneous Character-Cluster-Based Word Segmentation and Named Entity Recognition in Thai Language",
+        "Word-Context Character embeddings for Chinese Word Segmentation",
+        "Multiple Character Embeddings for Chinese Word Segmentation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Khon Kaen",
+            "@id": "60017165",
+            "affilname": "Khon Kaen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017165",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Wolverhampton",
+            "@id": "60007173",
+            "affilname": "University of Wolverhampton",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007173",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "116353786",
+            "affilname": "VISTEC",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/116353786",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

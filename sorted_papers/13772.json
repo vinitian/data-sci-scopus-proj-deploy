@@ -1,0 +1,174 @@
+{
+    "eid": "2-s2.0-85101314110",
+    "title": "SBFE analysis of surface loaded elastic layered media with influence of surface/interface energy",
+    "cover-date": "2021-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Condensed Matter Physics",
+            "@code": "3104",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanics of Materials",
+            "@code": "2211",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "FG materials",
+        "Gurtin-Murdoch surface elasticity",
+        "Layered media",
+        "Nano-layered media",
+        "SBFEM",
+        "Surface stresses"
+    ],
+    "authors": [
+        "Chung Van Nguyen",
+        "Chantha Chhuon",
+        "Sawekchai Tangaramvong",
+        "Tinh Quoc Bui",
+        "Suchart Limkatanyu",
+        "Jaroon Rungamornrat"
+    ],
+    "citedby-count": 2,
+    "ref-count": 75,
+    "ref-list": [
+        "On molecular statics and surface-enhanced continuum modeling of nano-structures",
+        "A continuum-based structural modeling approach for cellulose nanocrystals (CNCs)",
+        "Isogeometric shape design optimization of nanoscale structures using continuum-based shell theory considering surface effects",
+        "Molecular dynamics simulation and size dependent cylindrical shell models for vibrations of spinning axially loaded carbon nanotubes",
+        "Experimental study of the microstructural and mechanical properties of geopolymer paste with nano material (Al2O3)",
+        "Novel experimental contrivance on competitive cracking in multilayered nano-structures",
+        "Computational homogenization of material surfaces: From atomistic simulations to continuum models",
+        "Effect of surface energy on the indentation response of hard nanofilm/soft substrate composite structure",
+        "Assessment of first and third order shear deformation beam theories for the buckling and vibration analysis of nanobeams incorporating surface stress effects",
+        "Anti-plane analysis of a reinforced nano-elliptical cavity or nano-crack in a magnetoelectroelastic matrix with surface effect",
+        "Probabilistic modeling of surface effects in nano-reinforced materials",
+        "Photonic color filters integrated with organic solar cells for energy harvesting",
+        "Compact multilayer film structures for ultrabroadband, omnidirectional, and efficient absorption",
+        "Plane strain cylindrical indentation of functionally graded half-plane with exponentially varying shear modulus in the presence of residual surface tension",
+        "Corrosion protection of mild steel by one-step electrodeposition of superhydrophobic silica film",
+        "Nanobeam mechanics: elasticity, strength, and toughness of nanorods and nanotubes",
+        "Static analysis of functionally graded anisotropic nanoplates using nonlocal strain gradient theory",
+        "Nonlinear bending of functionally graded porous micro/nano-beams reinforced with graphene platelets based upon nonlocal strain gradient theory",
+        "Size- and edge-effect cohesive energy and shear strength between graphene, carbon nanotubes and nanofibers: Continuum modeling and molecular dynamics simulations",
+        "Size-dependent rigidities of nanosized torsional elements",
+        "A continuum theory of elastic material surfaces",
+        "Surface stress in solids",
+        "A continuum model for size-dependent deformation of elastic films of nano-scale thickness",
+        "Size-dependent response of ultra-thin films with surface effects",
+        "Nonlocal and surface effects on the buckling behavior of functionally graded nanoplates: an isogeometric analysis",
+        "Isogeometric vibration analysis of functionally graded nanoplates with the consideration of nonlocal and surface effects",
+        "Surface free energy and its effect on the elastic behavior of nano-sized particles, wires and films",
+        "FGM micro/nano-plates within modified couple stress elasticity",
+        "Size-dependent elastic properties of nanosized structural elements",
+        "Atomistic calculations of elastic properties of metallic fcc crystal surfaces",
+        "Are surfaces elastically softer or stiffer",
+        "Elastic layer under axisymmetric surface loads and influence of surface stresses",
+        "Influence of surface energy effects on elastic fields of a layered elastic medium under surface loading",
+        "Surface mechanics induced stress disturbances in an elastic half-space subjected to tangential surface loads",
+        "Multi-layer elastic medium under axisymmetric loading and surface energy effect",
+        "Effective elastic modulus of film-on-substrate systems under normal and tangential contact",
+        "Surface loading and rigid indentation of an elastic layer with surface energy effects",
+        "Elastic layer under axisymmetric indentation and surface energy effects",
+        "Some cornerstones of dynamic soil - structure interaction",
+        "Time-domain analysis of gravity dam-reservoir interaction using high-order doubly asymptotic open boundary",
+        "A numerical approach for the computation of dispersion relations for plate structures using the scaled boundary finite element method",
+        "A unified 3D-based technique for plate bending analysis using scaled boundary finite element method",
+        "High-order plate bending analysis based on the scaled boundary finite element method",
+        "Semi-analytical analysis for piezoelectric plate using the scaled boundary finite-element method",
+        "Transient analysis of wave propagation in layered soil by using the scaled boundary finite element method",
+        "Simulation of elastic guided waves interacting with defects in arbitrarily long structures using the scaled boundary finite element method",
+        "Efficient simulation of elastic guided waves interacting with notches, adhesive joints, delaminations and inclined edges in plate structures",
+        "Scaled boundary finite element method for two-dimensional linear multi-field media",
+        "Automatic modelling of cohesive crack propagation in concrete using polygon scaled boundary finite elements",
+        "Dynamic crack propagation simulation with scaled boundary polygon elements and automatic remeshing technique",
+        "A fully automatic polygon scaled boundary finite element method for modelling crack propagation",
+        "Probabilistic fracture mechanics with uncertainty in crack size and orientation using the scaled boundary finite element method",
+        "Modelling of laminated composite plates with weakly bonded interfaces using scaled boundary finite element method",
+        "Discrete modeling of fiber reinforced composites using the scaled boundary finite element method",
+        "An h-hierarchical adaptive procedure for the scaled boundary finite-element method",
+        "A p-adaptive scaled boundary finite element method based on maximization of the error decrease rate",
+        "Adaptive analysis using scaled boundary finite element method in 3D",
+        "Automatic scaled boundary finite element method for three-dimensional elastoplastic analysis",
+        "Use of higher-order shape functions in the scaled boundary finite element method",
+        "Use of Fourier shape functions in the scaled boundary method",
+        "High-performance analysis of the interaction between plate and multi-layered elastic foundation using SBFEM-FEM",
+        "SBFEM analasis of nano-scale elastic layer with consideration of surface energy effect",
+        "Body loads in scaled boundary finite-element method",
+        "A virtual work derivation of the scaled boundary finite-element method for elastostatics",
+        "Semi-analytical elastostatic analysis of unbounded two-dimensional domains",
+        "A matrix function solution for the scaled boundary finite-element equation in statics",
+        "Sensitivity analysis of the scaled boundary finite element method for elastostatics",
+        "Analysis of surface-loaded problem of nonhomogeneous elastic half-plane with surface tension",
+        "Some results concerning displacements and stresses in a non-homogeneous elastic half-space",
+        "Analytical solutions for a surface-loaded isotropic elastic layer with surface energy effects",
+        "Dislocations and internal loading in a semi-infinite elastic medium with surface stresses",
+        "Surface elasticity and residual stress effect on the elastic field of a nanoscale elastic layer",
+        "Elastic field of a nano-film subjected to tangential surface load: asymmetric problem",
+        "Role of interfacial transition zone in phase field modeling of fracture in layered heterogeneous structures"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60112735",
+            "affilname": "HCMC University of Technology and Education",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60112735",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Da Nang",
+            "@id": "60111656",
+            "affilname": "Duy Tan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60111656",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60031126",
+            "affilname": "Tokyo Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031126",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hatyai",
+            "@id": "60006314",
+            "affilname": "Prince of Songkla University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006314",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Chulalongkorn University",
+        "Thailand Research Fund",
+        "JICA"
+    ]
+}

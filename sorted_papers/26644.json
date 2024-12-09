@@ -1,0 +1,78 @@
+{
+    "eid": "2-s2.0-85065484513",
+    "title": "Subject-Independent Emotion Recognition during Music Listening Based on EEG Using Deep Convolutional Neural Networks",
+    "cover-date": "2019-04-22",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Convolutional neural networks",
+        "Electroencephalogram",
+        "Emotion",
+        "Music"
+    ],
+    "authors": [
+        "Panayu Keelawat",
+        "Nattapong Thammasan",
+        "Boonserm Kijsirikul",
+        "Masayuki Numao"
+    ],
+    "citedby-count": 17,
+    "ref-count": 26,
+    "ref-list": [
+        "Affect detection: An interdisciplinary review of models, methods, and their applications",
+        "Analysis of EEG signals and facial expressions for continuous emotion detection",
+        "Depression detection using relative EEG power induced by emotionally positive images and a conformal kernel support vector machine",
+        "Effects of physical activity based hci games on the attention, emotion and sensory-motor coordination",
+        "Brain and music",
+        "Brain correlates of music-evoked emotions",
+        "A personalized music recommendation system based on electroencephalography feedback",
+        "A multimodal database for affect recognition and implicit tagging",
+        "Method for improving EEG based emotion recognition by combining it with synchronized biometric and eye tracking technologies in a non-invasive and low cost way",
+        "Multi-sensor based state prediction for personal mobility vehicles",
+        "Multimodal fusion framework: A multiresolution approach for emotion classification and recognition from physiological signals",
+        "Multimodal Fusion of EEG and musical features in music-emotion recognition",
+        "Fusion of electroencephalographic dynamics and musical contents for estimating emotional responses in music listening",
+        "A review on the computational methods for emotional state estimation from the human EEG",
+        "A novel convolutional neural networks for emotion recognition based on EEG signal",
+        "A circumplex model of affect",
+        "EEG-based emotion recognition in music listening",
+        "Emotion recognition system using brain and peripheral signals: Using correlation dimension to improve the results of EEG",
+        "EEG-based emotion recognition using deep learning network with principal component based covariate shift adaptation",
+        "DEAP: A database for emotion analysis; Using physiological signals",
+        "Emotion recognition based on EEG using lstm recurrent neural network",
+        "Emotion recognition from multi-channel EEG data through convolutional recurrent neural network",
+        "EEGLAB, SIFT, NFT, BCILAB, and ERICA: New tools for advanced EEG processing",
+        "Dropout: A simple way to prevent neural networks from overfitting",
+        "Comparison of the predicted and observed secondary structure of T4 phage lysozyme"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Suita",
+            "@id": "60024322",
+            "affilname": "Osaka University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024322",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Enschede",
+            "@id": "60020599",
+            "affilname": "Universiteit Twente",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020599",
+            "affiliation-country": "Netherlands"
+        }
+    ],
+    "funding": []
+}

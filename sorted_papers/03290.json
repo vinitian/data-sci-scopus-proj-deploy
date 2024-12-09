@@ -1,0 +1,81 @@
+{
+    "eid": "2-s2.0-85162989497",
+    "title": "Quality Assessment of Various CHC NAV GNSS Receiver Models",
+    "cover-date": "2023-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Geography, Planning and Development",
+            "@code": "3305",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Earth and Planetary Sciences (miscellaneous)",
+            "@code": "1901",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [
+        "CHCNAV",
+        "Geodetic",
+        "GNSS",
+        "Quality Assessment",
+        "Surveying"
+    ],
+    "authors": [
+        "Z. Zafirah",
+        "S. A.H. Sulaiman",
+        "S. R. Natnan",
+        "A. H.M. Idris",
+        "C. Satirapod"
+    ],
+    "citedby-count": 0,
+    "ref-count": 15,
+    "ref-list": [
+        "GNSS Position Integrity in Urban Environments: A Review of Literature",
+        "Evaluation of Low-Cost GNSS Receiver under Demanding Conditions in RTK Network Mode",
+        "Quality Assessment of GNSS Observations from an Android N Smartphone and Positioning Performance Analysis Using Time-Differenced Filtering Approach",
+        "Evaluation on Measurement Performance of Low-Cost GNSS Receivers",
+        "Integrity Analysis for GPS-Based Navigation of UAVs in Urban Environment",
+        "Error and Performance Analysis of MEMS-Based Inertial Sensors with a Low-Cost GPS Receiver",
+        "Sturdy Positioning with High Sensitivity GPS Sensors under Adverse Conditions",
+        "A New Window-Based Program for Quality Control of GPS Sensing Data",
+        "Performance Assessment of PPP Surveys with Open Source Software Using the GNSS GPS\u2013GLONASS\u2013Galileo Constellations",
+        "Multipath Effects",
+        "Algorithm for Real-Time Cycle Slip Detection and Repair for Low Elevation GPS Undifferenced Data in Different Environments",
+        "Assessing the Performance of Multi-GNSS PPP-RTK in the Local Area",
+        "Low-Cost GNSS Software Receiver Performance Assessment",
+        "Positioning Performance Comparison between GPS and BDS with Data Recorded at Four MGEX Stations"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Shah Alam",
+            "@id": "60004351",
+            "affilname": "Universiti Teknologi MARA",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004351",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Kuala Lumpur",
+            "@id": "129861198",
+            "affilname": "Bandwork GPS Solutions Sdn Bhd",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129861198",
+            "affiliation-country": "Malaysia"
+        }
+    ],
+    "funding": []
+}

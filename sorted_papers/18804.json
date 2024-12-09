@@ -1,0 +1,108 @@
+{
+    "eid": "2-s2.0-85170338559",
+    "title": "Enhancing Network Visibility and Security with Advanced Port Scanning Techniques",
+    "cover-date": "2023-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analytical Chemistry",
+            "@code": "1602",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "intrusion detection system",
+        "network security",
+        "network visibility",
+        "port scanning",
+        "vulnerability assessment"
+    ],
+    "authors": [
+        "Rana Abu Bakar",
+        "Boonserm Kijsirikul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 32,
+    "ref-list": [
+        "The cyber threat landscape: Challenges and future research directions",
+        "Identifying the attack surface for IoT network",
+        "Addressing cloud computing security issues",
+        "Critical infrastructure protection: Requirements and challenges for the 21st century",
+        "The security of big data in fog-enabled IoT applications including blockchain: A survey",
+        "Cyber security challenges for IoT-based smart grid networks",
+        "Cyber security threats and vulnerabilities: A systematic mapping study",
+        "Towards secure and dependable software-defined networks",
+        "Probe delay based adaptive port scanning for IoT devices with private IP address behind NAT",
+        "P3D: A parallel 3D coordinate visualization for advanced network scans",
+        "{ZMap}: Fast internet-wide scanning and its security applications",
+        "Hypertester: High-performance network testing driven by programmable switches",
+        "Active scanning in the industrial control systems",
+        "Encouraging information security behaviors in organizations: Role of penalties, pressures and perceived effectiveness",
+        "GDPR: A milestone in convergence for cyber-security and compliance",
+        "Securing Cloud Application Infrastructure: Understanding the Penetration Testing Challenges of IaaS, PaaS, and SaaS Environments",
+        "Towards insighting cybersecurity for healthcare domains: A comprehensive review of recent practices and trends",
+        "Impact and Research Challenges of Penetrating Testing and Vulnerability Assessment on Network Threat",
+        "A comprehensive review of cyber security vulnerabilities, threats, attacks, and solutions",
+        "Data Security",
+        "Towards a Taxonomy of Network Scanning Techniques",
+        "Demystifying service discovery: Implementing an internet-wide scanner",
+        "{IMap}: Fast and Scalable {In-Network} Scanning with Programmable Switches",
+        "Who is knocking on the telnet port: A large-scale empirical study of network scanning",
+        "Framework for Web application vulnerability discovery and mitigation by customizing rules through ModSecurity",
+        "EDIMA: Early detection of IoT malware network activity using machine learning techniques",
+        "Moongen: A scriptable high-speed packet generator",
+        "Retina: Analyzing 100 GbE traffic on commodity hardware",
+        "SmartWatch: Accurate traffic analysis and flow-state tracking for intrusion prevention using SmartNICs",
+        "ThunderSecure: Deploying real-time intrusion detection for 100G research networks by leveraging stream-based features and one-class classification network",
+        "A secure middlebox framework for enabling visibility over multiple encryption protocols"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Parma",
+            "@id": "60103966",
+            "affilname": "Consorzio Nazionale Interuniversitario per le Telecomunicazioni",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103966",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Horizon Europe research and innovation programme"
+    ]
+}

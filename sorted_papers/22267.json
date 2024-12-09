@@ -1,0 +1,79 @@
+{
+    "eid": "2-s2.0-85107198493",
+    "title": "Real Estate Recommendation Approach for Solving the Item Cold-Start Problem",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Context awareness",
+        "machine learning",
+        "recommender systems",
+        "recurrent neural networks"
+    ],
+    "authors": [
+        "Jirut Polohakul",
+        "Ekapol Chuangsuwanich",
+        "Atiwong Suchato",
+        "Proadpran Punyabukkana"
+    ],
+    "citedby-count": 5,
+    "ref-count": 33,
+    "ref-list": [
+        "Context-aware recommender systems",
+        "An empirical study of consumer behavior in housing market in Colombo",
+        "Recommendation system for property search using content based filtering method",
+        "Collaborative filtering with temporal dynamics with using singular value decomposition",
+        "Latent cross: Making use of context in recurrent recommender systems",
+        "Latent Dirichlet allocation",
+        "Understanding factors that influence house purchase intention among consumers in kota kinabalu: An application of buyer behavior model theory",
+        "Movie genome: Alleviating new item cold start in movie recommendation",
+        "Parallel recurrent neural network architectures for feature-rich session-based recommendations",
+        "Long short-term memory",
+        "Collaborative filtering for implicit feedback datasets",
+        "Neural attentive session-based recommendation",
+        "Stamp: Short-term attention/ memory priority model for session-based recommendation",
+        "Content-based recommender systems: State of the art and trends",
+        "Using topic models in content-based news recommender systems",
+        "Influence of location on home buyers' purchase decision",
+        "Warm up cold-start advertisements: Improving CTR predictions via learning to learn ID embeddings",
+        "One-class collaborative filtering",
+        "Item-based collaborative filtering recommendation algorithms",
+        "Recommendation feature of scientific articles on open journal system using contentbased filtering",
+        "Analysis of impact of property attributes on buyer behaviour in luxury condominium apartments market in Colombo, Sri Lanka",
+        "Improved recurrent neural networks for session-based recommendations",
+        "A meta-learning perspective on cold-start recommendations for items",
+        "Stacked denoising autoencoders: Learning useful representations in a deep network with a local denoising criterion",
+        "Collaborative filtering and deep learning based recommendation system for cold start items",
+        "Geographical proximity boosted recommendation algorithms for real estate",
+        "Toward a user-oriented recommendation system for real estate websites",
+        "Deep learning based recommender system: A survey and new perspectives"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Home Dot Tech Company"
+    ]
+}

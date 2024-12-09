@@ -1,0 +1,93 @@
+{
+    "eid": "2-s2.0-85041124065",
+    "title": "Stochastic Gabor reflectivity and acoustic impedance inversion",
+    "cover-date": "2018-02-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Geophysics",
+            "@code": "1908",
+            "@abbrev": "EART"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geology",
+            "@code": "1907",
+            "@abbrev": "EART"
+        },
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Management, Monitoring, Policy and Law",
+            "@code": "2308",
+            "@abbrev": "ENVI"
+        }
+    ],
+    "keywords": [
+        "acoustic impedance",
+        "Gabor deconvolution",
+        "Reflectivity inversion",
+        "stochastic Gabor inversion"
+    ],
+    "authors": [
+        "DIako Hariri Naghadeh",
+        "Christopher Keith Morley",
+        "Angus John Ferguson"
+    ],
+    "citedby-count": 2,
+    "ref-count": 31,
+    "ref-list": [
+        "Least-squares inverse filtering and wavelet deconvolution",
+        "Robust modeling of erratic data",
+        "Stochastic spare-spike deconvolution",
+        "Lp-norm deconvolution",
+        "Multichannel blind deconvolution of seismic signals",
+        "The deconvolution of phase-shifted wavelets",
+        "Gabor deconvolution, extending Wiener's method to nonstationarity",
+        "Gabor deconvolution, estimating reflectivity by nonstationary deconvolution of seismic data",
+        "Tectonic compaction shortening in toe region of isolated listric normal fault, North Taranaki Basin, New Zealand",
+        "Resolution enhancement in tilted coordinates",
+        "Wavelet extraction and local seismic phase correction using normalized first-order statistics",
+        "Source wavelet phase extraction",
+        "Wavelet extraction and local seismic phase correction using combination of different moment",
+        "Ground roll attenuation using SVD and time-frequency-wavenumber filters",
+        "Propagation source wavelet phase extraction using multi-taper method coherence estimation",
+        "Temporal resolution enhancement using improved time variant spectral whitening",
+        "Comparison of wave equation migration in log-polar and elliptic coordinates",
+        "One-way wave-equation migration in log-polar coordinates",
+        "Least-squares reverse time migration in elastic media",
+        "Reweighting strategies in seismic deconvolution",
+        "Minimum entropy deconvolution with frequency domain constraints",
+        "Riemannian wavefield extrapolation",
+        "New criteria for blind deconvolution of non-minimum phase systems (channels)",
+        "Plane-wave migration in tilted coordinate",
+        "Non-orthogonal Riemannian wavefield extrapolation",
+        "Prestack wave-equation depth migration in elliptical coordinates",
+        "Wavelet estimation revisited",
+        "Robust wavelet estimation and blind deconvolution of noisy surface seismics",
+        "Non-Gaussian reflectivity, entropy and deconvolution",
+        "Maximum kurtosis phase correction"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chaing Mai",
+            "@id": "60000881",
+            "affilname": "Chiang Mai University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000881",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

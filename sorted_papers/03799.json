@@ -1,0 +1,64 @@
+{
+    "eid": "2-s2.0-85096306788",
+    "title": "Citation Network Analysis for Journal Selection of University Library",
+    "cover-date": "2020-01-14",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Centrality Metrics",
+        "Citation Network Analysis",
+        "Journal Selection",
+        "Library Collection"
+    ],
+    "authors": [
+        "Nopanan Pongitthidej",
+        "Veera Muangsin"
+    ],
+    "citedby-count": 0,
+    "ref-count": 11,
+    "ref-list": [
+        "Citation analysis of library and information science research output for collection development",
+        "Application of bradford's law of scattering to the physics literature: A study of doctoral theses citations at the indian institute of science",
+        "A review of ciatation analysis methodologies for collection management",
+        "Citation analysis as a collection development tool: A bibliometric study of polymer science theses and dissertations?",
+        "Local citation analysis, publishing and reading patterns: Using multiple methods to evaluate faculty use of an academic library's research collection",
+        "Networks of scientific papers",
+        "Journal impact measures in bibliometric research",
+        "Authoritative sources in a hyperlinked environment"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Office of Academic Resources",
+        "Chulalongkorn University"
+    ]
+}

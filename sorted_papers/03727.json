@@ -1,0 +1,86 @@
+{
+    "eid": "2-s2.0-85053542738",
+    "title": "Improving short text classification using fast semantic expansion on multichannel convolutional neural network",
+    "cover-date": "2018-08-20",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "Clustering",
+        "Convolutional Neural Network",
+        "Deep Learning",
+        "Natural Language Processing",
+        "Short Texts",
+        "Text Classification",
+        "Word Embeddings"
+    ],
+    "authors": [
+        "Natthapat Sotthisopha",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 11,
+    "ref-count": 23,
+    "ref-list": [
+        "Short text classification in twitter to improve information filtering",
+        "Short text classification improved by learning multi-granularity topics",
+        "Learning to classify short and sparse text & web with hidden topics from large-scale data collections",
+        "A biterm topic model for short texts",
+        "Semantic expansion using word embedding clustering and convolutional neural network for improving short text classification",
+        "K-means++: The advantages of careful seeding",
+        "Web-scale k-means clustering",
+        "Improving question retrieval in community question answering using world knowledge",
+        "Distributed representations of words and phrases and their compositionality",
+        "Glove: Global vectors for word representation",
+        "Distributed representations of sentences and documents",
+        "A convolutional neural network for modelling sentences",
+        "Clustering by fast search and find of density peaks",
+        "A theoretical analysis of feature pooling in visual recognition",
+        "Adam: A method for stochastic optimization",
+        "Learning question classifiers: The role of semantic information",
+        "Seeing stars: Exploiting class relationships for sentiment categorization with respect to rating scales",
+        "Long short-term memory"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

@@ -1,0 +1,138 @@
+{
+    "eid": "2-s2.0-85136894604",
+    "title": "ShareChain: Blockchain-enabled model for sharing patient data using federated learning and differential privacy",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "blockchain",
+        "federated learning",
+        "local differential privacy",
+        "privacy protection"
+    ],
+    "authors": [
+        "Laraib Javed",
+        "Adeel Anjum",
+        "Bello Musa Yakubu",
+        "Majid Iqbal",
+        "Syed Atif Moqurrab",
+        "Gautam Srivastava"
+    ],
+    "citedby-count": 5,
+    "ref-count": 51,
+    "ref-list": [
+        "Privacy-friendly platform for healthcare data in cloud based on blockchain environment",
+        "Privacy-preserving generative deep neural networks support clinical data sharing",
+        "Federated learning of predictive models from federated electronic health records",
+        "Privacy-preserving federated deep learning for wearable IoT-based biomedical monitoring",
+        "Hybrid blockchain\u2013based privacy-preserving electronic medical records sharing scheme across medical information control system",
+        "Design of a secure medical data sharing scheme based on blockchain",
+        "Ancile: Privacy-preserving framework for access control and interoperability of electronic health records using blockchain technology",
+        "A survey of blockchain-based strategies for healthcare",
+        "Blockchain platform for industrial healthcare: Vision and future opportunities",
+        "Differential privacy in health research: A scoping review",
+        "Cybercrime and other threats faced by the healthcare industry",
+        "Healthcare blockchain system using smart contracts for secure automated remote patient monitoring",
+        "Access control for electronic health records with hybrid blockchain-edge architecture",
+        "Blockchain-based multiple groups data sharing with anonymity and traceability",
+        "Lightweight blockchain for healthcare",
+        "N-sanitization: A semantic privacy-preserving framework for unstructured medical datasets",
+        "Secure, privacy-preserving and federated machine learning in medical imaging",
+        "A review of applications in federated learning",
+        "A Blockchain-based medical data sharing and protection scheme",
+        "The security of medical data on internet based on differential privacy technology",
+        "Threats to federated learning",
+        "When federated learning meets blockchain: A new distributed learning paradigm",
+        "Blockchain in healthcare applications: Research challenges and opportunities",
+        "Deep-confidentiality: An IoT-enabled privacy-preserving framework for unstructured big biomedical data",
+        "Differential average diversity: An efficient privacy mechanism for electronic health records",
+        "Instant_anonymity: A lightweight semantic privacy guarantee for 5G-enabled IIoT",
+        "An efficient framework for semantically-correlated term detection and sanitization in clinical documents",
+        "An accurate deep learning model for clinical entity recognition from clinical notes",
+        "A secure remote healthcare system for hospital using blockchain smart contract",
+        "Secure and provenance enhanced internet of health things framework: A blockchain managed federated learning approach",
+        "The future of digital health with federated learning",
+        "Federated learning and differential privacy: Software tools analysis, the Sherpa.ai FL framework and methodological guidelines for preserving data privacy",
+        "A privacy-preserving design for sharing demand-driven patient datasets over permissioned blockchains and P2P secure transfer",
+        "Preserving the privacy of electronic health records using Blockchain",
+        "An efficient authentication scheme for blockchain-based electronic health records",
+        "On the design of a blockchain-based system to facilitate healthcare data sharing",
+        "Medical data management on Blockchain with privacy",
+        "Integration of federated machine learning and blockchain for the provision of secure big data analytics",
+        "Blockchain-based personal health records sharing scheme with data integrity verifiable",
+        "Guest editorial: Blockchain and healthcare computing",
+        "Federated learning for healthcare informatics",
+        "A design of blockchain-based architecture for the security of electronic health record (EHR) systems",
+        "Blockchain-based secure and searchable EHR sharing scheme",
+        "Local differential privacy-based federated learning for healthcare"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Islamabad",
+            "@id": "60089631",
+            "affilname": "COMSATS University Islamabad",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60089631",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Islamabad",
+            "@id": "60070604",
+            "affilname": "Air University Islamabad",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60070604",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Islamabad",
+            "@id": "60064058",
+            "affilname": "Quaid-i-Azam University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60064058",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Brandon",
+            "@id": "60013104",
+            "affilname": "Brandon University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013104",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Taichung",
+            "@id": "60006988",
+            "affilname": "China Medical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006988",
+            "affiliation-country": "Taiwan"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,200 @@
+{
+    "eid": "2-s2.0-85078900629",
+    "title": "Long-term data from a phase 3 study of radotinib versus imatinib in patients with newly diagnosed, chronic myeloid leukaemia in the chronic phase (RERISE)",
+    "cover-date": "2020-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Hematology",
+            "@code": "2720",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "chronic myeloid leukaemia",
+        "imatinib",
+        "long-term data",
+        "newly diagnosed",
+        "radotinib"
+    ],
+    "authors": [
+        "Young Rok Do",
+        "Jae Yong Kwak",
+        "Jeong A. Kim",
+        "Hyeoung Joon Kim",
+        "Joo Seop Chung",
+        "Ho Jin Shin",
+        "Sung Hyun Kim",
+        "Udomsak Bunworasate",
+        "Chul Won Choi",
+        "Dae Young Zang",
+        "Suk Joong Oh",
+        "Saengsuree Jootar",
+        "Ary Harryanto Reksodiputro",
+        "Won Sik Lee",
+        "Yeung Chul Mun",
+        "Jee Hyun Kong",
+        "Priscilla B. Caguioa",
+        "Hawk Kim",
+        "Jinny Park",
+        "Dong Wook Kim"
+    ],
+    "citedby-count": 15,
+    "ref-count": 23,
+    "ref-list": [
+        "Chronic myeloid leukemia: an update of concepts and management recommendations of European LeukemiaNet",
+        "European LeukemiaNet recommendations for the management of chronic myeloid leukemia: 2013",
+        "Application of systematic coronary risk evaluation chart to identify chronic myeloid leukemia patients at risk of cardiovascular diseases during nilotinib treatment",
+        "Bosutinib versus imatinib in newly diagnosed chronic-phase chronic myeloid leukaemia: results from the 24-month follow-up of the BELA trial",
+        "A phase 2 trial of ponatinib in Philadelphia chromosome-positive leukemias",
+        "Final 5-year study results of DASISION: the dasatinib versus imatinib study in treatment-na\u00efve chronic myeloid leukemia patients trial",
+        "Pleural effusion in dasatinib-treated patients with chronic myeloid leukemia in chronic phase: identification and management",
+        "Treatment-free remission with first- and second-generation tyrosine kinase inhibitors",
+        "Cardiovascular complications of targeted therapies for chronic myeloid leukemia",
+        "The price of drugs for chronic myeloid leukemia (CML) is a reflection of the unsustainable prices of cancer drugs: from the perspective of a large group of CML experts",
+        "Chronic myeloid leukemia: second-line drugs of choice",
+        "Long-term benefits and risks of frontline nilotinib vs imatinib for chronic myeloid leukemia in chronic phase: 5-year update of the randomized ENESTnd trial",
+        "Long-term outcomes of imatinib treatment for chronic myeloid leukemia",
+        "Discontinuation of dasatinib in patients with chronic myeloid leukaemia who have maintained deep molecular response for longer than 1 year (DADI trial): a multicentre phase 2 trial",
+        "Chronic myeloid leukemia: 2018 update on diagnosis, therapy and monitoring",
+        "Cumulative incidence in competing risks data and competing risks regression analysis",
+        "Efficacy and safety of radotinib in chronic phase chronic myeloid leukemia patients with resistance or intolerance to BCR-ABL1 tyrosine kinase inhibitors",
+        "Phase III clinical trial (RERISE study) results of efficacy and safety of radotinib compared with imatinib in newly diagnosed chronic phase chronic myeloid leukemia",
+        "Nilotinib vs imatinib in patients with newly diagnosed Philadelphia chromosome-positive chronic myeloid leukemia in chronic phase: ENESTnd 3-year follow-up",
+        "Discontinuation of imatinib in patients with chronic myeloid leukaemia who have maintained complete molecular remission for at least 2 years: the prospective, multicentre Stop Imatinib (STIM) trial",
+        "Long-term BCR-ABL1 tyrosine kinase inhibitor therapy in chronic myeloid leukemia",
+        "Treatment-free remission after two-year consolidation therapy with nilotinib in patients with chronic myeloid leukemia: STAT2 trial in Japan",
+        "Radotinib is an effective inhibitor of native and kinase domain-mutant BCR-ABL1"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Suwon",
+            "@id": "60277007",
+            "affilname": "The Catholic University of Korea, St. Vincent's Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60277007",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Seoul",
+            "@id": "60212058",
+            "affilname": "Korea University Guro Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60212058",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Busan",
+            "@id": "60211908",
+            "affilname": "Pusan National University Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60211908",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Seongnam",
+            "@id": "60199632",
+            "affilname": "Gachon University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199632",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199578",
+            "affilname": "Ramathibodi Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199578",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Wonju",
+            "@id": "60115404",
+            "affilname": "Wonju Severance Christian Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60115404",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Daegu",
+            "@id": "60094606",
+            "affilname": "Keimyung University, Dongsan Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60094606",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Seoul",
+            "@id": "60081368",
+            "affilname": "Inje University Paik Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60081368",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Central Jakarta",
+            "@id": "60069378",
+            "affilname": "Universitas Indonesia, RSUPN Dr. Cipto Mangunkusumo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60069378",
+            "affiliation-country": "Indonesia"
+        },
+        {
+            "affiliation-city": "Seoul",
+            "@id": "60030358",
+            "affilname": "Ewha Womans University School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030358",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chuncheon",
+            "@id": "60018986",
+            "affilname": "Hallym University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018986",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Jeonju",
+            "@id": "60016650",
+            "affilname": "Jeonbuk National University, School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016650",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Suwon",
+            "@id": "60016329",
+            "affilname": "SKKU School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016329",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Busan",
+            "@id": "60016209",
+            "affilname": "Dong-A University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016209",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Gwangju",
+            "@id": "60007215",
+            "affilname": "Chonnam National University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007215",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Bucheon-si",
+            "@id": "60003087",
+            "affilname": "The Catholic University of Korea",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003087",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Quezon City",
+            "@id": "112643991",
+            "affilname": "St. Luke\u2019s Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112643991",
+            "affiliation-country": "Philippines"
+        }
+    ],
+    "funding": [
+        "Korea Leukemia Bank"
+    ]
+}

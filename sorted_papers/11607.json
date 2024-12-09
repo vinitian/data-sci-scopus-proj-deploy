@@ -1,0 +1,69 @@
+{
+    "eid": "2-s2.0-85085045118",
+    "title": "Fall Detection using Motion History Image and Shape Deformation",
+    "cover-date": "2020-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Fall detection",
+        "Motion history image (MHI)",
+        "Shape deformation"
+    ],
+    "authors": [
+        "Jantima Thummala",
+        "Suree Pumrin"
+    ],
+    "citedby-count": 7,
+    "ref-count": 11,
+    "ref-list": [
+        "Leading causes of death in England and Wales-how should we group causes?",
+        "Features selection in video fall detection",
+        "Automatic detection of human fall in video",
+        "An eigenspace-based approach for human fall detection using integrated time motion image and neural network",
+        "Home camera-based fall detection system for the elderly",
+        "Fall detection from human shape and motion history using video surveillance, \" 21st international conference on advanced information networking and applications workshops (ainaw'07)",
+        "Hmm based falling person detection using both audio and video",
+        "Background subtraction techniques: A review",
+        "The recognition of human movement using temporal templates"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

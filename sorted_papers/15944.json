@@ -1,0 +1,108 @@
+{
+    "eid": "2-s2.0-85094649267",
+    "title": "Pulmonary lesion classification from endobronchial ultrasonography images using adaptive weighted-sum of the upper and lower triangular gray-level co-occurrence matrix",
+    "cover-date": "2021-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "adaptive weighted-sum of the lower triangular gray-level co-occurrence matrix",
+        "adaptive weighted-sum of the upper triangular gray-level co-occurrence matrix",
+        "genetic algorithms",
+        "gray-level co-occurrence matrix",
+        "support vector machine"
+    ],
+    "authors": [
+        "Banphatree Khomkham",
+        "Rajalida Lipikorn"
+    ],
+    "citedby-count": 1,
+    "ref-count": 56,
+    "ref-list": [
+        "Epidemiology, incidence and mortality of lung cancer and their relationship with the development index in the world",
+        "Cancer statistics, 2016",
+        "The epidemiology of lung cancer",
+        "Early lung cancer detection: results of the initial (prevalence) radiologic and cytologic screening in the Mayo Clinic study",
+        "Peripheral lung cancer: screening and detection with low-dose spiral CT versus radiography",
+        "Reduced lung-cancer mortality with low-dose computed tomographic screening",
+        "New techniques for early detection of lung cancer",
+        "Endobronchial ultrasound: a new innovation in bronchoscopy",
+        "Endobronchial ultrasonography: current status and future directions",
+        "Automated method for improving system performance of computer-aided diagnosis in breast ultrasound",
+        "The LISS\u2014a public database of common imaging signs of lung diseases for computer-aided detection and diagnosis research and medical education",
+        "Improving computer-aided detection using convolutional neural networks and random view aggregation",
+        "Deep convolutional neural networks for computer-aided detection: CNN architectures, dataset characteristics and transfer learning",
+        "Computer-aided detection of cancer in automated 3-D breast ultrasound",
+        "Analysis of the internal structure of peripheral pulmonary lesions using endobronchial ultrasonography",
+        "Histogram-based quantitative evaluation of endobronchial ultrasonography images of peripheral pulmonary lesion",
+        "Diagnosis of peripheral lung cancer with three echoic features via endobronchial ultrasound",
+        "Textural features for image classification",
+        "Computer-aided diagnosis in phase contrast imaging X-ray computed tomography for quantitative characterization of ex vivo human patellar cartilage",
+        "Classification of dynamic contrast enhanced MR images of cervical cancers using texture analysis and support vector machines",
+        "Grey scale texture analysis of endobronchial ultrasound mini probe images for prediction of benign or malignant aetiology",
+        "Texture analysis in industrial applications",
+        "Texture classification of logged forests in tropical Africa using machine-learning algorithms",
+        "A new color-texture approach for industrial products inspection",
+        "Tree species classification in tropical forests using visible to shortwave infrared WorldView-3 images and texture analysis",
+        "An application of texture analysis to materials inspection",
+        "Radiomics: images are more than pictures, they are data",
+        "A theoretical comparison of texture algorithms",
+        "Texture features for classification of ultrasonic liver images",
+        "Analysis of co-occurrence texture statistics as a function of gray-level quantization for classifying breast ultrasound",
+        "Ultrasonic liver tissues classification by fractal feature vector based on M-band wavelet transform",
+        "Robust texture analysis using multi-resolution gray-scale invariant features for breast sonographic tumor diagnosis",
+        "Robustness-driven feature selection in classification of fibrotic interstitial lung disease patterns in computed tomography using 3D texture features",
+        "Methods for 2-D and 3-D endobronchial ultrasound image segmentation",
+        "Two fully-unsupervised methods for MR brain image segmentation using SOM-based strategies",
+        "Gamma knife treatment planning: MR brain tumor segmentation and volume measurement based on unsupervised fuzzy C-means clustering",
+        "A novel framework for MR image segmentation and quantification by using MedGA",
+        "Automated pulmonary nodule detection in CT images using deep convolutional neural networks",
+        "Dense convolutional binary-tree networks for lung nodule classification",
+        "A state-of-the-art survey on deep learning theory and architectures",
+        "Pulmonary lesion boundary detection from an endobronchial ultrasonogram using polar sector maximum intensity",
+        "Feature subset selection using a genetic algorithm",
+        "Genetic algorithm-based heuristic for feature selection in credit risk assessment",
+        "An improved k-nearest neighbor classification using genetic algorithm",
+        "Classification of hyperspectral images with regularized linear discriminant analysis",
+        "Feature selection for classification of hyperspectral data by SVM",
+        "A study of classification algorithms using Rapidminer",
+        "An introduction to ROC analysis",
+        "A tutorial on the use of ROC analysis for computer-aided diagnostic systems"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "DPST",
+        "Development and Promotion of Science and Technology Talent Project",
+        "Phramongkutklao Hospital",
+        "IPST"
+    ]
+}

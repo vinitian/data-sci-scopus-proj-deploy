@@ -1,0 +1,115 @@
+{
+    "eid": "2-s2.0-85121111240",
+    "title": "Fem-pgd based technique for column shape optimization against buckling",
+    "cover-date": "2021-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Environmental Engineering",
+            "@code": "2305",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Chemical Engineering (all)",
+            "@code": "1500",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geotechnical Engineering and Engineering Geology",
+            "@code": "1909",
+            "@abbrev": "EART"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Elastic buckling",
+        "Finite element method",
+        "Power method",
+        "Projected gradient descent",
+        "Shape optimization"
+    ],
+    "authors": [
+        "Tosporn Prasertsri",
+        "Supin Sartbumrung",
+        "Suneenut Suewongprayoon",
+        "Natdanai Sinsamutpadung",
+        "Jaroon Rungamornrat"
+    ],
+    "citedby-count": 0,
+    "ref-count": 27,
+    "ref-list": [
+        "Optimization of truss bridges within a specified design domain using evolution strategies",
+        "Genetic algorithms in discrete optimization of steel truss roofs",
+        "Object-oriented framework for genetic algorithms with application to space truss optimization",
+        "A heuristic particle swarm optimizer for optimization of pin connected structures",
+        "Discrete optimization of structures using genetic algorithms",
+        "Sizing design of truss structures using particle swarms",
+        "An improved genetic algorithm with initial population strategy and self-adaptive member grouping",
+        "Optimum design of unbraced steel frames to LRFD\u2013AISC using particle swarm optimization",
+        "An evolutionary approach to elastic contact optimization of frame structures",
+        "Collapse optimization for domes under earthquake using a genetic simulated annealing algorithm",
+        "Design of reinforced concrete bridge frames by heuristic optimization",
+        "Design of nonlinear framed structures using genetic optimization",
+        "Optimum design of frame structures using the Eagle Strategy with Differential Evolution",
+        "Probabilistic optimization of the main cable and bridge deck of long-span suspension bridges under flutter constraint",
+        "Reliability based design optimization for bridge girder shape and plate thicknesses of long-span suspension bridges considering aeroelastic constraint",
+        "Heuristic optimization of RC bridge piers with rectangular hollow sections",
+        "Genetic algorithms for the dependability assurance in the design of a long-span suspension bridge",
+        "The shape of the strongest column",
+        "Strongest columns and isoperimetric inequalities for eigenvalues",
+        "Strongest column by the finite element displacement method",
+        "On single and bimodal optimum buckling loads of clamped columns",
+        "Reinvestigation on optimization of clamped-clamped columns and symmetry of corresponding eigenfunctions",
+        "Optimisation of columns and frames against buckling",
+        "Discrete model analysis of optimal columns",
+        "Semi-analytical solutions for optimal design of columns based on Hencky bar-chain model",
+        "An approximate model for optimizing Bernoulli columns against buckling"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Si Racha",
+            "@id": "60272060",
+            "affilname": "Rajamangala University of Technology Tawan-ok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60272060",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ladkrabang Bangkok",
+            "@id": "60021543",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021543",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Rajamangala University of Technology Tawan-ok",
+        "Thailand Research Fund",
+        "Faculty of Engineering and Architecture"
+    ]
+}

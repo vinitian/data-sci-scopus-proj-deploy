@@ -1,0 +1,73 @@
+{
+    "eid": "2-s2.0-85059954764",
+    "title": "Optimal strategies of siting, sizing, and scheduling of BESS: Voltage management solution for future LV network",
+    "cover-date": "2019-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "LV network",
+        "PV rooftops",
+        "scheduling of BESS",
+        "siting of BESS",
+        "sizing of BESS",
+        "voltage management"
+    ],
+    "authors": [
+        "Anh Thi Nguyen",
+        "Surachai Chaitusaney",
+        "Akihiko Yokoyama"
+    ],
+    "citedby-count": 2,
+    "ref-count": 32,
+    "ref-list": [
+        "The potential impacts of grid-connected distributed generation and how to address them: A review of technical and non-technical factors",
+        "Coordinated active Power curtailment of grid connected PV inverters for overvoltage prevention",
+        "Combined central and local active and reactive Power control of PV inverters",
+        "Optimal voltage control in distribution systems using PV generators",
+        "Economic and efficient voltage management using customer-owned energy storage systems in a distribution network with High penetration of photovoltaic systems",
+        "A battery based solution to overvoltage problems in low voltage distribution networks with micro generation",
+        "Coordinated control of grid-connected photovoltaic reactive power and battery energy storage systems to improve the voltage profile of a residential distribution feeder",
+        "Coordination of multiple energy storage units in a low-voltage distribution network",
+        "A scenario-based approach for energy storage capacity determination in LV grids with high PV penetration",
+        "A comparing demand response and battery storage to optimize self-consumption in PV systems",
+        "Optimization of self-consumption and techno-economic analysis of PV-battery systems in commercial applications",
+        "Mixed integer programming based battery sizing",
+        "Near-optimal method for siting and sizing of distributed storage in a transmission network",
+        "Optimal power flow management for grid connected PV systems with batteries",
+        "Storage size determination for grid connected photovoltaic systems",
+        "Aging estimation method for lead-acid battery"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Hanoi",
+            "@id": "60071354",
+            "affilname": "Hanoi University of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071354",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025272",
+            "affilname": "The University of Tokyo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025272",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "National Research University Project",
+        "Office of Higher Education Commission"
+    ]
+}

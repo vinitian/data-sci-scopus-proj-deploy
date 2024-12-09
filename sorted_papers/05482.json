@@ -1,0 +1,81 @@
+{
+    "eid": "2-s2.0-85129608367",
+    "title": "Coronavirus disease situation analysis and prediction using machine learning: a study on Bangladeshi population",
+    "cover-date": "2022-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "COVID-19 death rate",
+        "COVID-19 in Bangladesh",
+        "COVID-19 infection rate",
+        "COVID-19 prediction",
+        "COVID-19 situation analysis"
+    ],
+    "authors": [
+        "Al Akhir Nayan",
+        "Boonserm Kijsirikul",
+        "Yuji Iwahori"
+    ],
+    "citedby-count": 2,
+    "ref-count": 30,
+    "ref-list": [
+        "Outbreak of pneumonia of unknown etiology in Wuhan, China: The mystery and the miracle",
+        "COVID-19 pandemic and level of responses in Bangladesh",
+        "An artificial intelligence system for predicting the deterioration of COVID-19 patients in the emergency department",
+        "Artificial intelligence in predicting clinical outcome in COVID-19 patients from clinical, biochemical and a qualitative chest X-Ray scoring system",
+        "A deep learning framework to detect Covid-19 disease via chest X-ray and CT scan images",
+        "A data mining analysis of COVID-19 cases in states of United States of America",
+        "Multi-kernel CNN block-based detection for COVID-19 with imbalance dataset",
+        "Recognition of corona virus disease (COVID-19) using deep learning network",
+        "An approach to forecast impact of Covid\u201019 using supervised machine learning model",
+        "A machine learning approach for mortality prediction in COVID-19 pneumonia: development and evaluation of the piacenza score",
+        "Supervised machine learning models for prediction of COVID-19 infection using epidemiology dataset",
+        "Forecasting models for coronavirus disease (COVID-19): a survey of the state-of-the-art",
+        "A comprehensive analysis of COVID-19 outbreak situation in India",
+        "COVID-19 future forecasting using supervised machine learning models",
+        "COVID-19: data analysis and the situation prediction using machine learning based on Bangladesh perspective",
+        "Short-term prediction of COVID-19 cases using machine learning models",
+        "Machine learning-based model to predict the disease severity and outcome in COVID-19 patients",
+        "People\u2019s concerns with the prediction of COVID-19 in Bangladesh: application of autoregressive integrated moving average model",
+        "FPGA-implementation of high-speed MLP neural network",
+        "MLP-mixer: an all-MLP architecture for vision",
+        "Multilayer perceptron architecture optimization using parallel computing techniques",
+        "A study on the ability of support vector regression and neural networks to forecast basic time series patterns",
+        "Support vector machines: theory and applications",
+        "A deep neural network combined with radial basis function for abnormality classification",
+        "Linear regression analysis study"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Kasugai",
+            "@id": "60007976",
+            "affilname": "Chubu University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007976",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "JSPS",
+        "Chubu University",
+        "Chulalongkorn University"
+    ]
+}

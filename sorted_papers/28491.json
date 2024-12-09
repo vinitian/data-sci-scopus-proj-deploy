@@ -1,0 +1,101 @@
+{
+    "eid": "2-s2.0-85068198032",
+    "title": "Ensemble of convolutional neural networks improves automated segmentation of acute ischemic lesions using multiparametric diffusion-weighted MRI",
+    "cover-date": "2019-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Neurology (clinical)",
+            "@code": "2728",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "S. Winzeck",
+        "S. J.T. Mocking",
+        "R. Bezerra",
+        "M. J.R.J. Bouts",
+        "E. C. Mcintosh",
+        "I. Diwan",
+        "P. Garg",
+        "A. Chutinet",
+        "W. T. Kimberly",
+        "W. A. Copen",
+        "P. W. Schaefer",
+        "H. Ay",
+        "A. B. Singhal",
+        "K. Kamnitsas",
+        "B. Glocker",
+        "A. G. Sorensen",
+        "O. Wu"
+    ],
+    "citedby-count": 32,
+    "ref-count": 24,
+    "ref-list": [
+        "Fully automatic acute ischemic lesion segmentation in dwi using convolutional neural networks",
+        "Real-time diffusion-perfusion mismatch analysis in acute stroke",
+        "Multiparametric mri tissue characterization in clinical stroke with correlation to clinical outcome: Part 2",
+        "Robust nonparametric segmentation of infarct lesion from diffusionweighted mr images",
+        "Automatic detection and quantification of acute cerebral infarct by fuzzy clustering and histographic characterization on diffusion weighted mr imaging and apparent diffusion coefficient map",
+        "Automatic segmentation of acute ischemic stroke fromdwiusing 3-d fully convolutional densenets",
+        "A novel framework for segmentation of stroke lesions in diffusion weighted mri using multiple b-value data",
+        "Ensembles of multiple models and architectures for robust brain tumour segmentation",
+        "Defuse 3 investigators. Thrombectomy for stroke at 6 to 16 hours with selection by perfusion imaging",
+        "Dawntrial investigators. Thrombectomy 6 to 24 hours after stroke with a mismatch between deficit and infarct",
+        "Using mri as the witness: Multimodal mri-based determination of acute stroke onset",
+        "Prediction of lesion expansion in patients using acute mri",
+        "Predicting tissue outcome in acute human cerebral ischemia using combined diffusion- A nd perfusion-weightedmrimaging",
+        "Human acute cerebral ischemia: Detection of changes in water diffusion anisotropy by using mr imaging",
+        "Fast robust automated brain extraction",
+        "Efficient multi-scale 3d cnn with fully connected crf for accurate brain lesion segmentation",
+        "Isles 2015: A public evaluation benchmark for ischemic stroke lesion segmentation from multispectral mri",
+        "Rapid automated patient selection for reperfusion therapy: A pooled analysis of the echoplanar imaging thrombolytic evaluation trial (epithet) and the diffusion and perfusion imaging evaluation for understanding stroke evolution (defuse) study",
+        "Endovascular stroke treatment outcomes after patient selection based on magnetic resonance imaging and clinical criteria",
+        "Dynamics of cerebral tissue injury and perfusion after temporary hypoxia-ischemia in the rat: Evidence for region-specific sensitivity and delayed damage",
+        "The temporal evolution of mri tissue signatures after transient middle cerebral artery occlusion in rat",
+        "Mr witness investigators. Intravenous thrombolysis in unwitnessed stroke onset: Mr witness trial results"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Boston",
+            "@id": "60029929",
+            "affilname": "Massachusetts General Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029929",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Cambridge",
+            "@id": "60031101",
+            "affilname": "University of Cambridge",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031101",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60015150",
+            "affilname": "Imperial College London",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015150",
+            "affiliation-country": "United Kingdom"
+        }
+    ],
+    "funding": [
+        "National Institutes of Health-National Institute of Biomedical Imaging and Bioengineering",
+        "National Institutes of Health-National Institute of Neurological Disorders and Stroke",
+        "National Institutes of Health",
+        "NVIDIA Corporation"
+    ]
+}

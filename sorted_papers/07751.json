@@ -1,0 +1,130 @@
+{
+    "eid": "2-s2.0-85090421898",
+    "title": "Dynamic System Optimum Analysis of Multi-Region Macroscopic Fundamental Diagram Systems with State-Dependent Time-Varying Delays",
+    "cover-date": "2020-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Automotive Engineering",
+            "@code": "2203",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Dynamic system optimum",
+        "macroscopic fundamental diagram",
+        "saturated state and input constraints",
+        "simultaneous route assignment and departure time assignment",
+        "state-dependent time-varying delay"
+    ],
+    "authors": [
+        "Renxin Zhong",
+        "Jianhui Xiong",
+        "Yunping Huang",
+        "Agachai Sumalee",
+        "Andy H.F. Chow",
+        "Tianlu Pan"
+    ],
+    "citedby-count": 9,
+    "ref-count": 53,
+    "ref-list": [
+        "A theory and implications on dynamic marginal cost",
+        "Dynamic system optimal traffic assignment-A statedependent control theoretic approach",
+        "Dynamic marginal cost, access control, and pollution charge: A comparison of bottleneck and whole link models",
+        "Link-based system optimum dynamic traffic assignment problems in general networks",
+        "Properties of system optimal traffic assignment with departure time choice and its solution method",
+        "On the morning commute problem in a corridor network with multiple bottlenecks: Its system-optimal traffic flow patterns and the realizing tolling scheme",
+        "Access control policies without inside queues: Their properties and public policy implications",
+        "A model for the dynamic system optimum traffic assignment problem",
+        "When are anonymous congestion charges consistent with marginal cost pricing?",
+        "A semi-analytical approach for solving the bottleneck model with general user heterogeneity",
+        "A model and an algorithm for the dynamic traffic assignment problems",
+        "Optimality conditions for a dynamic traffic assignment model",
+        "A linear programming model for the single destination system optimum dynamic traffic assignment problem",
+        "A cell-based Merchant-Nemhauser model for the system optimum dynamic traffic assignment problem",
+        "A cell based dynamic system optimum model with non-holding back flows",
+        "On the system optimum dynamic traffic assignment and earliest arrival flow problems",
+        "System-optimal dynamic traffic assignment with and without queue spillback: Its path-based formulation and solution via approximate path marginal cost",
+        "Continuous-time dynamic system optimum for single-destination traffic networks with queue spillbacks",
+        "Emission modeling and pricing on single-destination dynamic traffic networks",
+        "A partial differential equation formulation of Vickrey's bottleneck model, part I: Methodology and theoretical analysis",
+        "A variational inequality formulation of the dynamic network user equilibrium problem",
+        "Formulation, existence, and computation of boundedly rational dynamic user equilibrium with fixed or endogenous user tolerance",
+        "Elastic demand dynamic network user equilibrium: Formulation, existence and computation",
+        "Continuous-time linkbased kinematic wave model: Formulation, solution existence, and well-posedness",
+        "Modeling the dynamics of congestion in large urban networks using the macroscopic fundamental diagram: User equilibrium, system optimum, and pricing strategies",
+        "Urban gridlock: Macroscopic modeling and mitigation approaches",
+        "An analytical approximation for the macroscopic fundamental diagram of urban traffic",
+        "Existence of urban-scale macroscopic fundamental diagrams: Some experimental findings",
+        "Routing strategies based on macroscopic fundamental diagram",
+        "Estimating MFDs in simple networks with route choice",
+        "Macroscopic relations of urban traffic variables: Bifurcations, multivaluedness and instability",
+        "Network throughput under dynamic user equilibrium: Queue spillback, paradox and traffic control",
+        "Boundary conditions and behavior of the macroscopic fundamental diagram based network traffic dynamics: A control systems perspective",
+        "Approximating dynamic equilibrium conditions with macroscopic fundamental diagrams",
+        "Equilibrium analysis and route guidance in large-scale networks with MFD dynamics",
+        "Macroscopic modelling and robust control of bi-modal multi-region urban road networks",
+        "Hierarchical control of heterogeneous large-scale urban road networks via path assignment and regional route guidance",
+        "Dynamic traffic assignment using the macroscopic fundamental diagram: A review of vehicular and pedestrian flow models",
+        "A dynamic user equilibrium model for multi-region macroscopic fundamental diagram systems with time-varying delays",
+        "Adaptive perimeter traffic control of urban road networks based on MFD model with time delays",
+        "Adaptive perimeter control for multiregion accumulation-based models with state delays",
+        "Exploiting the fundamental diagram of urban networks for feedbackbased gating",
+        "Perimeter and boundary flow control in multi-reservoir heterogeneous networks",
+        "A bathtub model of downtown traffic congestion",
+        "Macroscopic urban dynamics: Analytical and numerical comparisons of existing models",
+        "Robust perimeter control for two urban regions with macroscopic fundamental diagrams: A control-Lyapunov function approach",
+        "Solving for equilibrium in the basic bathtub model",
+        "A link-node complementarity model and solution algorithm for dynamic user equilibria with exact flow propagations",
+        "Dynamic network user equilibrium with state-dependent time lags",
+        "The mathematical foundations of dynamic user equilibrium",
+        "Urban network gridlock: Theory, characteristics, and dynamics",
+        "An optimal control framework for multi-region macroscopic fundamental diagram systems with time delay, considering route choice and departure time choice"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Guangzhou",
+            "@id": "60021182",
+            "affilname": "Sun Yat-Sen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021182",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "60013983",
+            "affilname": "City University of Hong Kong",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013983",
+            "affiliation-country": "Hong Kong"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "60008928",
+            "affilname": "The Hong Kong Polytechnic University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008928",
+            "affiliation-country": "Hong Kong"
+        }
+    ],
+    "funding": [
+        "Research Grants Council of Hong Kong",
+        "National Key Research and Development Program of China"
+    ]
+}

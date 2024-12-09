@@ -1,0 +1,86 @@
+{
+    "eid": "2-s2.0-85102496935",
+    "title": "Numerical Investigation of Localized Surface Plasmon Resonance (LSPR) based Sensor for Glucose Level Monitoring",
+    "cover-date": "2021-01-20",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Fabry-Perot equation",
+        "Gold nanoparticles",
+        "Localized Surface Plasmon Resonance (LSPR)",
+        "Maxwell Garnett's formula",
+        "Urine glucose"
+    ],
+    "authors": [
+        "Kawintida Santavanond",
+        "Charusluk Viphavakit",
+        "Wisarn Patchoo",
+        "Hala El-Khozondar",
+        "Waleed Mohammed"
+    ],
+    "citedby-count": 0,
+    "ref-count": 7,
+    "ref-list": [
+        "Localized surface plasmon resonance: Nanostructures, bioassays and biosensing-A review",
+        "Radiation transfer in the atmosphere | cloud- radiative processes",
+        "Evaluation of extended Maxwell-Garnett theories",
+        "Study of utilization of embedded metal nanoparticles in dielectric thin film for humidity sensing",
+        "Spectroscopic characterization of the warfarin drug-binding site of folded and unfolded human serum albumin anchored on gold nanoparticles: Effect of bioconjugation on the loading capacity"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Gaza",
+            "@id": "60072732",
+            "affilname": "Islamic University of Gaza",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60072732",
+            "affiliation-country": "Palestine"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60012448",
+            "affilname": "Bangkok University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012448",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "eid": "2-s2.0-85149615479",
+    "title": "Sequential most probable point update combining Gaussian process and comprehensive learning PSO for structural reliability-based design optimization",
+    "cover-date": "2023-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Comprehensive learning particle swarm optimization",
+        "Expected feasibility function",
+        "Gaussian process regression",
+        "Inverse MCS constraint boundary",
+        "Most probable point",
+        "Reliability-based design optimization"
+    ],
+    "authors": [
+        "Thu Van Huynh",
+        "Sawekchai Tangaramvong",
+        "Bach Do",
+        "Wei Gao",
+        "Suchart Limkatanyu"
+    ],
+    "citedby-count": 2,
+    "ref-count": 63,
+    "ref-list": [
+        "Uncertainty in structural engineering",
+        "Dynamic analysis and reliability assessment of structures with uncertain-but-bounded parameters under stochastic process excitations",
+        "Response bounds of elastic structures in the presence of interval uncertainties",
+        "Structural reliability analysis and prediction",
+        "Life-cycle reliability-based optimization of civil and aerospace structures",
+        "Computational methods in optimization considering uncertainties - an overview",
+        "A survey on approaches for reliability-based optimization",
+        "Benchmark study of numerical methods for reliability-based design optimization",
+        "Surrogate-assisted reliability-based design optimization: a survey and a unified modular framework",
+        "A hybrid adaptive Kriging-based single loop approach for complex reliability-based design optimization problems",
+        "Surrogate model uncertainty quantification for reliability-based design optimization",
+        "A scenario optimization approach to reliability-based and risk-based design: soft-constrained modulation of failure probability bounds",
+        "Limit state Kriging modeling for reliability-based design optimization through classification uncertainty quantification",
+        "Adaptive learning for reliability analysis using support vector machines",
+        "Sequential mixture of Gaussian processes and saddlepoint approximation for reliability-based design optimization of structures",
+        "Bayesian optimization for robust design of steel frames with joint and individual probabilistic constraints",
+        "Reliability-based design optimization using convex linearization and sequential optimization and reliability assessment method",
+        "Second-order reliability method-based inverse reliability analysis using Hessian update for accurate and efficient reliability-based design optimization",
+        "Reliability-based optimization using differential evolution and inverse reliability analysis for engineering system design",
+        "Reliability-based design: artificial neural networks and double-loop reliability-based optimization approaches",
+        "A second order SAP algorithm for risk and reliability based design optimization",
+        "Response surface single loop reliability-based design optimization with higher-order reliability assessment",
+        "An adaptive hybrid single-loop method for reliability-based design optimization using iterative control strategy",
+        "Reliable design space and complete single-loop reliability-based design optimization",
+        "An active learning method combining Kriging and accelerated chaotic single loop approach (AK-ACSLA) for reliability-based design optimization",
+        "ESLA: a new surrogate-assisted single-loop reliability-based design optimization technique",
+        "Sequential optimization and reliability assessment method for efficient probabilistic design",
+        "Threshold shift method for reliability-based design optimization",
+        "A local Kriging approximation method using MPP for reliability-based design optimization",
+        "A sequential optimization framework for simultaneous design variables optimization and probability uncertainty allocation",
+        "A new efficient decoupled reliability-based design optimization method with quantiles",
+        "A PDF-based performance shift approach for reliability-based design optimization",
+        "Reliability index function approximation based on adaptive double-loop Kriging for reliability-based design optimization",
+        "Reliability-based structural optimization using neural networks and Monte Carlo simulation",
+        "RBF-GA: An adaptive radial basis function metamodeling with genetic algorithm for structural reliability analysis",
+        "An efficient polynomial chaos-enhanced radial basis function approach for reliability-based design optimization",
+        "Structural reliability analysis based on ensemble learning of surrogate models",
+        "Monte Carlo simulation using support vector machine and kernel density for failure probability estimation",
+        "A Gaussian process-based dynamic surrogate model for complex engineering structural reliability analysis",
+        "Reliability analysis and design optimization of nonlinear structures",
+        "Machine learning-based methods in structural reliability analysis: a review",
+        "Two-phase ESO and comprehensive learning PSO method for structural optimization with discrete steel sections",
+        "Gaussian processes for machine learning",
+        "Machine learning: a probabilistic perspective",
+        "A tutorial on Gaussian process regression: modelling, exploring, and exploiting functions",
+        "Combined Gaussian process regression model and comprehensive learning particle swarm optimizer in reliability-based structural optimization",
+        "Combined subset simulation and comprehensive learning particle swarm optimization in reliability-based structural optimization",
+        "Efficient surrogate models for reliability analysis of systems with multiple failure modes",
+        "Particle swarm optimization",
+        "Comprehensive learning particle swarm optimizer for global optimization of multimodal functions",
+        "An efficient response surface method and its application to structural reliability and reliability-based optimization",
+        "An effective reliability-based improved constrained differential evolution for reliability-based design optimization of truss structures",
+        "Development of a GA-based method for reliability-based optimization of structures with discrete and continuous design variables using OpenSees and Tcl",
+        "A new bivariate dimension reduction method for efficient structural reliability analysis",
+        "Novel decoupled framework for reliability-based design optimization of structures using a robust shifting technique",
+        "Manual of steel construction: allowable stress design",
+        "An enhanced simulation-based design method coupled with meta-heuristic search algorithm for accurate reliability-based design optimization",
+        "Global decoupling for structural reliability-based optimal design using improved differential evolution and chaos control",
+        "A new framework for reliability-based design optimization using metaheuristic algorithms",
+        "Reliability-based topology optimization using a new method for sensitivity approximation - application to ground structures",
+        "Segmental multi-point linearization for parameter sensitivity approximation in reliability analysis"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Kyoto",
+            "@id": "60120279",
+            "affilname": "Department of Architecture and Architectural Engineering",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60120279",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Sydney",
+            "@id": "60028333",
+            "affilname": "UNSW Sydney",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028333",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hatyai",
+            "@id": "60006314",
+            "affilname": "Prince of Songkla University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006314",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Thailand Science Research and Innovation Fund Chulalongkorn University",
+        "Chulalongkorn University",
+        "Thailand Science Research and Innovation"
+    ]
+}

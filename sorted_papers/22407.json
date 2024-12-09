@@ -1,0 +1,72 @@
+{
+    "eid": "2-s2.0-85104493778",
+    "title": "A diffusion model of 18F-FDOPA in the diagnosis of Parkinson\u2019s disease and its numerical simulation",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Multidisciplinary",
+            "@code": "1000",
+            "@abbrev": "MULT"
+        }
+    ],
+    "keywords": [
+        "ADI method",
+        "Diffusion model",
+        "Image segmentation",
+        "Parkinson\u2019s disease"
+    ],
+    "authors": [
+        "Printaporn Sanguansuttigul",
+        "Teerapol Saleewong",
+        "Kitiwat Khamwan",
+        "Saknan Bongsebandhu-Phubhakdi"
+    ],
+    "citedby-count": 1,
+    "ref-count": 24,
+    "ref-list": [
+        "Preferential loss of serotonin markers in caudate versus putamen in Parkinson\u2019s disease",
+        "Reduced striatal volumes in Parkinson\u2019s disease: a magnetic resonance imaging study",
+        "Morphological alterations in the caudate, putamen, pallidum, and thalamus in Parkinson\u2019s disease",
+        "Putamen FDOPA uptake and its relationship tot cognitive functioning in PD",
+        "Non-motor symptoms as predictors of quality of life in Egyptian patients with Parkinson\u2019s disease: A cross-sectional study using a culturally adapted 39-item Parkinson\u2019s disease questionnaire",
+        "[18F]FDOPA PET and clinical features in parkinsonism due to manganism",
+        "The relation of putamen and caudate nucleus 18F-Dopa uptake to motor and cognitive performances in Parkinson\u2019s disease",
+        "Case control study of diffusion tensor imaging in Parkinson\u2019s disease",
+        "On the accuracy of an [18F]FDOPA compartmental model: evidence for vesicular storage of [18F]fluorodopamine in vivo",
+        "Frontal, midbrain and striatal dopaminergic function in early and advanced Parkinson\u2019s disease A 3D [(18)F]dopa-PET study",
+        "18F-DOPA PET and PET/CT",
+        "Biochemical reactions",
+        "Ueber diffusion",
+        "Performance analysis of image thresholding: Otsu technique",
+        "Diffusion of radiotracers in normal and ischemic brain slices",
+        "A threshold selection method from gray-level histograms",
+        "Computational methods for linear matrix equations",
+        "The numerical solution of parabolic and elliptic differential equations",
+        "A practical method for numerical evaluation of solutions of partial differential equations of the heat-conduction type",
+        "direct search\u201d solution of numerical and statistical problems",
+        "Variable metric method for minimization",
+        "Review of MRI-based brain tumor image segmentation using deep learning methods",
+        "The kinetic model of 18 F-FDOPA in PET imaging correlated to brain structures: A case study on Parkinson\u2019 s disease"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Thonburi",
+            "@id": "60008786",
+            "affilname": "King Mongkut's University of Technology Thonburi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008786",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Thailand Science",
+        "King Mongkut\u2019s University of Technology Thonburi"
+    ]
+}

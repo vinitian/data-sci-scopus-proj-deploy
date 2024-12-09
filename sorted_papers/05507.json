@@ -1,0 +1,131 @@
+{
+    "eid": "2-s2.0-85140845297",
+    "title": "CAVVPM: Challenge-Based Authentication and Verification of Vehicle Platooning at Motorway",
+    "cover-date": "2022-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analytical Chemistry",
+            "@code": "1602",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "access control",
+        "challenge\u2013response",
+        "security",
+        "vehicle platoon"
+    ],
+    "authors": [
+        "Muhammad Arslan",
+        "Muhammad Faran Majeed",
+        "Rana Abu Bakar",
+        "Jawad Khan",
+        "Shafiq Hussain",
+        "Youngmoon Lee",
+        "Faheem Khan"
+    ],
+    "citedby-count": 0,
+    "ref-count": 29,
+    "ref-list": [
+        "New IEEE Vehicular Technology Society Standards Projects [Standards]",
+        "Heavy-duty vehicle platooning for sustainable freight transportation: A cooperative method to enhance safety and efficiency",
+        "Estimation of safe sensor measurements of autonomous system under attack",
+        "Convoy: Physical context verification for vehicle platoon admission",
+        "A survey on platoon-based vehicular cyber-physical systems",
+        "STASH: Securing transparent authentication schemes using prover-side proximity verification",
+        "Detecting and mitigating spoofing attack against an automotive radar",
+        "Platoons of connected vehicles can double throughput in urban roads",
+        "Study of the platooning fuel efficiency under ETSI ITS-G5 communications",
+        "A conceptualization of vehicle platoons and platoon operations",
+        "Game theory algorithm for intersection-based cooperative adaptive cruise control (CACC) systems",
+        "Fuel-efficient en route formation of truck platoons",
+        "Developing a platoon-wide eco-cooperative adaptive cruise control (CACC) system",
+        "Intra-platoon vehicle sequence optimization for eco-cooperative adaptive cruise control",
+        "On the ill-posedness of certain vehicular platoon control problems",
+        "Cooperative look-ahead control for fuel-efficient and safe heavy-duty vehicle platooning",
+        "Multi-Technology Cooperative Driving: An Analysis Based on PLEXE",
+        "Plexe: A platooning extension for Veins",
+        "Pycra: Physical challenge-response authentication for active sensors under spoofing attacks",
+        "V-Range: Enabling Secure Ranging in 5G Wireless Networks",
+        "Multipath triangulation: Decimeter-level wifi localization and orientation with a single unaided receiver",
+        "Fuel economy-oriented vehicle platoon control using economic model predictive control",
+        "Get in line: Ongoing co-presence verification of a vehicle formation based on driving trajectories",
+        "Automotive radar\u2014From first efforts to future systems",
+        "A review on cooperative adaptive cruise control (CACC) systems: Architectures, controls, and applications",
+        "PoF: Proof-of-Following for Vehicle Platoons",
+        "Sensor and sensor fusion technology in autonomous vehicles: A review"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Rawalpindi",
+            "@id": "60277026",
+            "affilname": "Kohsar University Murree",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60277026",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Ansan",
+            "@id": "60211585",
+            "affilname": "Hanyang University ERICA Campus",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60211585",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Seongnam",
+            "@id": "60199632",
+            "affilname": "Gachon University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199632",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Sahiwal",
+            "@id": "120100027",
+            "affilname": "University of Sahiwal",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/120100027",
+            "affiliation-country": "Pakistan"
+        }
+    ],
+    "funding": [
+        "MSIT",
+        "National Research Foundation of Korea",
+        "Institute of Information & communications Technology Planning & Evaluation"
+    ]
+}

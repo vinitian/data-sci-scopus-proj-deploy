@@ -1,0 +1,101 @@
+{
+    "eid": "2-s2.0-85097719516",
+    "title": "Computational study on peptidomimetic inhibitors against SARS-CoV-2 main protease",
+    "cover-date": "2021-01-15",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Condensed Matter Physics",
+            "@code": "3104",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Spectroscopy",
+            "@code": "1607",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Physical and Theoretical Chemistry",
+            "@code": "1606",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Chemistry",
+            "@code": "2505",
+            "@abbrev": "MATE"
+        }
+    ],
+    "keywords": [
+        "COVID-19",
+        "MD simulations",
+        "Peptidomimetic inhibitors",
+        "SARS-CoV-2 3CLpro"
+    ],
+    "authors": [
+        "Tuanjai Somboon",
+        "Panupong Mahalapbutr",
+        "Kamonpan Sanachai",
+        "Phornphimon Maitarad",
+        "Vannajan Sanghiran Lee",
+        "Supot Hannongbua",
+        "Thanyada Rungrotmongkol"
+    ],
+    "citedby-count": 22,
+    "ref-count": 55,
+    "ref-list": [
+        "San Diego, CA, USA",
+        "Gaussian, Inc., Wallingford CT",
+        "University of California, San Francisco",
+        "Cancers (Basel) 11"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Kuala Lumpur",
+            "@id": "60029157",
+            "affilname": "Universiti Malaya",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029157",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Shanghai",
+            "@id": "60023813",
+            "affilname": "Shanghai University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023813",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Khon Kaen",
+            "@id": "60017165",
+            "affilname": "Khon Kaen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017165",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "ThaiSC",
+        "Chulalongkorn University",
+        "NSTDA"
+    ]
+}

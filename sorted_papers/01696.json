@@ -1,0 +1,111 @@
+{
+    "eid": "2-s2.0-85108973846",
+    "title": "Estimation of the radiation dose for dental spectral cone-beam CT",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Otorhinolaryngology",
+            "@code": "2733",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Dentistry (all)",
+            "@code": "3500",
+            "@abbrev": "DENT"
+        }
+    ],
+    "keywords": [
+        "Cone-beam computed tomography",
+        "Dentistry",
+        "Radiation dosimetry",
+        "Spectral computed tomography"
+    ],
+    "authors": [
+        "Kaan Orhan",
+        "Ruben Pauwels",
+        "Yi Chen",
+        "Dandan Song",
+        "Reinhilde Jacobs"
+    ],
+    "citedby-count": 3,
+    "ref-count": 20,
+    "ref-list": [
+        "Recent advances in imaging technologies in dentistry",
+        "Dentomaxillofacial imaging with panoramic views and cone beam CT",
+        "Effective dose range for dental cone beam computed tomography scanners",
+        "Optimization of exposure parameters in dental cone beam computed tomography using a 3-step approach",
+        "Evaluation of the dental spectral cone beam CT for metal artefact reduction",
+        "High-kVp assisted metal artifact reduction for X-ray computed tomography",
+        "The growing concern of radiation dose in paediatric dental and maxillofacial CBCT: an easy guide for daily practice",
+        "Effective radiation dose and eye lens dose in dental cone beam CT: effect of field of view and angle of rotation",
+        "Effective dose of dental CBCT-a meta analysis of published data and additional data for nine CBCT units",
+        "Dose distribution for dental cone beam CT and its implication for defining a dose index",
+        "Conversion coefficients for the estimation of effective dose in cone-beam CT",
+        "Image quality optimization using a narrow vertical detector dental cone-beam CT",
+        "Quantification of metal artifacts on cone beam computed tomography images",
+        "The performance of metal artifact reduction algorithms in cone beam computed tomography images considering the effects of materials, metal positions, and fields of view",
+        "Reduction of motion artefacts in on-board cone beam CT by warping of projection images",
+        "Dual-Energy computed tomography: image acquisition, processing, and workflow"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Leuven",
+            "@id": "60121202",
+            "affilname": "Departement Beeldvorming &amp; Pathologie",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60121202",
+            "affiliation-country": "Belgium"
+        },
+        {
+            "affiliation-city": "Aarhus",
+            "@id": "60029616",
+            "affilname": "Aarhus Universitet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029616",
+            "affiliation-country": "Denmark"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ankara",
+            "@id": "60012603",
+            "affilname": "Ankara \u00dcniversitesi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012603",
+            "affiliation-country": "Turkey"
+        },
+        {
+            "affiliation-city": "Stockholm",
+            "@id": "60012311",
+            "affilname": "Karolinska Institutet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012311",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "Shanghai",
+            "@id": "121693655",
+            "affilname": "UEG Medical Imaging Equipment Co. Ltd.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/121693655",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": [
+        "AIAS-COFUND",
+        "Shanghai Artificial Intelligence innovation and development project",
+        "Marie Sk\u0142odowska-Curie",
+        "Aarhus University Research Foundation",
+        "Scientific and Technological Research Council of Turkey",
+        "European Union Horizon 2020 Research and Innovation Programme",
+        "Shanghai science and technology innovation plan"
+    ]
+}

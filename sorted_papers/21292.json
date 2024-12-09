@@ -1,0 +1,99 @@
+{
+    "eid": "2-s2.0-85090154428",
+    "title": "Single observation adaptive search for discrete and continuous stochastic optimization",
+    "cover-date": "2020-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Management Science and Operations Research",
+            "@code": "1803",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Adaptive search",
+        "Martingale processes",
+        "Simulation optimization",
+        "Stochastic optimization"
+    ],
+    "authors": [
+        "Seksan Kiatsupaibul",
+        "Robert L. Smith",
+        "Zelda B. Zabinsky"
+    ],
+    "citedby-count": 1,
+    "ref-count": 27,
+    "ref-list": [
+        "Simulation optimization: A review of algorithms and applications",
+        "Adaptive random search for continuous simulation optimization",
+        "Metamodel-based simulation optimization",
+        "Discrete hit-and-run for sampling points from arbitrary distributions over subsets of integer hyperrectangles",
+        "Probability and Measure",
+        "Introduction to Stochastic Programming",
+        "An overview of stochastic approximation",
+        "Stochastic Simulation Optimization: An Optimal Computing Budget Allocation",
+        "On the strong universal consistency of nearest neighbor regression function estimates",
+        "An Introduction to Probability Theory and Its Applications, Vol. 2",
+        "Direction choice for accelerated convergence in hit-and-run sampling",
+        "Single observation adaptive search for continuous simulation optimization",
+        "A guide to sample average approximation",
+        "The sample average approximation method for stochastic discrete optimization",
+        "Stochastic Approximation and Recursive Algorithms and Applications",
+        "A computational comparison of simulation optimization methods using single observations within a shrinking ball on noisy black-box functions with mixed integer and continuous domains",
+        "Pattern discrete and mixed hit-and-run for global optimization",
+        "Simulation optimization: A concise overview and implementation guide",
+        "Averaging frameworks for simulation optimization with applications to simulated annealing",
+        "Derivative-free optimization: A review of algorithms and comparison of software implementations",
+        "A stochastic approximation method",
+        "Principles of Mathematical Analysis",
+        "Nested Partitions Method, Theory and Applications",
+        "Efficient Monte Carlo procedures for generating points uniformly distributed over bounded regions",
+        "A mixed-integer nonlinear-programming method for process design",
+        "Improving hit-and-run for global optimization"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ann Arbor",
+            "@id": "60025778",
+            "affilname": "University of Michigan, Ann Arbor",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025778",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Seattle",
+            "@id": "60015481",
+            "affilname": "University of Washington",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015481",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "National Science Foundation",
+        "Chulalongkorn University"
+    ]
+}

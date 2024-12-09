@@ -1,0 +1,76 @@
+{
+    "eid": "2-s2.0-85076877686",
+    "title": "Multi-criteria rating conversion without relation loss for recommender systems",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Graphics and Computer-Aided Design",
+            "@code": "1704",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Multi-criteria",
+        "rating conversion",
+        "recommendation"
+    ],
+    "authors": [
+        "Padipat Sitkrongwong",
+        "Saranya Maneeroj",
+        "Atsuhiro Takasu"
+    ],
+    "citedby-count": 0,
+    "ref-count": 21,
+    "ref-list": [
+        "New recommendation techniques for multicriteria rating systems",
+        "Notes on the history of correlation",
+        "Matrix factorization techniques for recommender systems",
+        "An improved collaborative movie recommendation system using computational intelligence",
+        "Eigentaste: a constant time collaborative filtering algorithm",
+        "Application of pca for context selection for collaborative filtering",
+        "Modified mean and variance normalization: transforming to utterance-specific estimates"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60028928",
+            "affilname": "Research Organization of Information and Systems National Institute of Informatics",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028928",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hayama",
+            "@id": "60021523",
+            "affilname": "The Graduate University for Advanced Studies",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021523",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,87 @@
+{
+    "eid": "2-s2.0-85098255482",
+    "title": "Power-free automated capillary flow assay for SARS-CoV-2 detection",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Chemical Engineering (miscellaneous)",
+            "@code": "1501",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Bioengineering",
+            "@code": "1502",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Chemistry (all)",
+            "@code": "1600",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Automated ELISA",
+        "Capillary-driven microfluidics",
+        "SARS-CoV-2",
+        "Serology"
+    ],
+    "authors": [
+        "Jeremy Link",
+        "Cody Carrell",
+        "Ilhoon Jang",
+        "Yosita Panraksa",
+        "Ana S\u00e1nchez-Cano",
+        "Zachary Call",
+        "Eka Noviana",
+        "David S. Dandy",
+        "Brian J. Geiss",
+        "Charles S. Henry"
+    ],
+    "citedby-count": 0,
+    "ref-count": 1,
+    "ref-list": [
+        "Antibody testing for COVID-19: A report from the National COVID Scientific Advisory Panel"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Fort Collins",
+            "@id": "60009226",
+            "affilname": "Colorado State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009226",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Seoul",
+            "@id": "60024872",
+            "affilname": "Hanyang University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024872",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Cerdanyola del Valles",
+            "@id": "60023020",
+            "affilname": "Universitat Aut\u00f2noma de Barcelona",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023020",
+            "affiliation-country": "Spain"
+        }
+    ],
+    "funding": [
+        "Colorado State University"
+    ]
+}

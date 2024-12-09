@@ -1,0 +1,65 @@
+{
+    "eid": "2-s2.0-85074912603",
+    "title": "Fault identification usingcombined adaptive neuro-fuzzy inference system and Gustafson-Kessel algorithm",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Adaptive neuro-fuzzy inference system",
+        "Fault identification",
+        "Gustafson-kesselalgorithm",
+        "Power system protection"
+    ],
+    "authors": [
+        "Amalina Abdullah",
+        "Channarong Banmongkol",
+        "Naebboon Hoonchareon",
+        "Kunihiko Hidaka"
+    ],
+    "citedby-count": 1,
+    "ref-count": 27,
+    "ref-list": [
+        "Artificial neural network approach to distance protection of transmission lines",
+        "An overview of wavelet transforms application in power systems",
+        "A transmission line fault locator based on elman recurrent networks",
+        "Wavelet-based ann approach for transmission line protection",
+        "Best ann structure for fault location in single-and double-circuittransmission line",
+        "Fault location in power distribution networks using sinusoidal steady state analysis",
+        "Fault classification of double circuit transmission line using artificial neural network",
+        "Classification and location of single line to ground faults on double circuit transmission line using ann",
+        "ANFIS: Adaptive network-based fuzzy inference system",
+        "Fault identification in electrical power distribution system using combined discrete wavelet transform and fuzzy logic",
+        "Discrete wavelet transform and back-propagation neural networks algorithm for fault location on single circuit transmission line",
+        "Flood forecasting using adaptive neuro-fuzzy inference system",
+        "Ann based classification and location of fault in ehv transmission line",
+        "New approach for fault location on transmission lines not requiring line parameters",
+        "Comparative study of artificial neural network (ann) and fuzzy inference system approach for digital relaying of transmission line faults",
+        "A new and accurate fault location algorithm for combined transmission",
+        "Fault location for series compensated transmission line based on wavelet transform",
+        "A neuro-fuzzy approach for the fault location estimation on unsynchronized two-terminaltransmission line",
+        "Application of gustafson-kessel clustering algorithm in the pattern recognition for gis"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025272",
+            "affilname": "The University of Tokyo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025272",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

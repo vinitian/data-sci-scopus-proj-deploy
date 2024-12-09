@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85057768529",
+    "title": "A Comparative Study on Various Deep Learning Techniques for Thai NLP Lexical and Syntactic Tasks on Noisy Data",
+    "cover-date": "2018-09-06",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Deep learning",
+        "Named-Entity Recognition",
+        "Natural Language Processing",
+        "Out-Of-Vocab(OOV)",
+        "Part-of-Speech tagging",
+        "Tokenization"
+    ],
+    "authors": [
+        "Amarin Jettakul",
+        "Chavisa Thamjarat",
+        "Kawin Liaowongphuthorn",
+        "Can Udomcharoenchaikit",
+        "Peerapon Vateekul",
+        "Prachya Boonkwan"
+    ],
+    "citedby-count": 9,
+    "ref-count": 12,
+    "ref-list": [
+        "LexToPlus: A Thai lexeme tokenization and normalization tool",
+        "Studying the effects of noisy text on text mining applications",
+        "Thai named-entity recognition using variational long short-term memory with conditional random field",
+        "Human language technology: Opportunities and challenges",
+        "A linear space algorithm for computing maximal common subsequences",
+        "Synthetic and natural noise both break neural machine translation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011525",
+            "affilname": "Thailand National Electronics and Computer Technology Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011525",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

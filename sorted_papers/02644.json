@@ -1,0 +1,81 @@
+{
+    "eid": "2-s2.0-85107770366",
+    "title": "Image Analysis for Reading out Embedden Information inside 3D printed Object using Deep Learning",
+    "cover-date": "2020-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "3D-printing",
+        "CNN",
+        "deep learning",
+        "embeding information",
+        "image analysis",
+        "near-infrared image"
+    ],
+    "authors": [
+        "Piyarat Silapasuphakornwong",
+        "Hideyuki Torii",
+        "Kazutake Uehira",
+        "Chanidapha Dhammatouchwong",
+        "Soraya Bosuwan"
+    ],
+    "citedby-count": 0,
+    "ref-count": 13,
+    "ref-list": [
+        "A survey of design methods for material extrusion polymer 3D printing",
+        "Additive manufacturing (3D printing): A review of materials, methods, applications and challenges",
+        "Copyright protections of digital content in the age of 3d printer: Emerging issues and survey",
+        "Copyright protection for 3d printing by embedding information inside real fabricated objects",
+        "Nondestructive readout of copyright information embedded in objects fabricated with 3-d printers",
+        "Embedding information into objects fabricated with 3-d printers by forming fine cavities inside them",
+        "Technique for embedding information in objects produced with 3D printer using near infrared fluorescent dye",
+        "Embedding information in 3d printed objects using double layerd near infrared fluorescent dye",
+        "Technique to embed information in 3D printed objects using near infrared fluorescent dye",
+        "Shift-invariant pattern recognition neural network and its optical architecture",
+        "Parallel distributed processing model with local spaceinvariant interconnections and its optical architecture",
+        "The CNN universal machine: An analogic array computer"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Atsugi",
+            "@id": "60001409",
+            "affilname": "Kanagawa Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001409",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Kanagawa Institute of Technology"
+    ]
+}

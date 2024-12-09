@@ -1,0 +1,110 @@
+{
+    "eid": "2-s2.0-85124586293",
+    "title": "Using Automatic Speech Recognition to Assess Thai Speech Language Fluency in the Montreal Cognitive Assessment (MoCA)",
+    "cover-date": "2022-02-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analytical Chemistry",
+            "@code": "1602",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "ASR",
+        "Language fluency test",
+        "LOTUS corpus",
+        "MoCA",
+        "Scoring",
+        "Speech recognition",
+        "Thai tonal language"
+    ],
+    "authors": [
+        "Pimarn Kantithammakorn",
+        "Proadpran Punyabukkana",
+        "Ploy N. Pratanwanich",
+        "Solaphat Hemrungrojn",
+        "Chaipat Chunharas",
+        "Dittaya Wanvarie"
+    ],
+    "citedby-count": 4,
+    "ref-count": 29,
+    "ref-list": [
+        "Age-associated cognitive decline",
+        "The borderland between normal aging and dementia",
+        "Dementia",
+        "Dementia",
+        "Mild Cognitive Impairment in Older Adults",
+        "Current Concepts in Mild Cognitive Impairment",
+        "Mini-mental state. A practical method for grading the cognitive state of patients for the clinician",
+        "The Montreal Cognitive Assessment, MoCA: A Brief Screening Tool for Mild Cognitive Impairment",
+        "A comparison of screening tools for the assessment of Mild Cognitive Impairment: Prelim-inary findings",
+        "Thai speech processing technology: A review",
+        "Computers and the Thai Language",
+        "An architecture of HMM-based isolated-word speech recognition with tone detection function",
+        "Automatic speech analysis for the assessment of patients with predementia and Alzheimer\u2019s disease",
+        "Speech Recognition in Alzheimer\u2019s Disease and in its Assessment",
+        "The Kaldi Speech Recognition",
+        "What do verbal fluency tasks measure? Predictors of verbal fluency performance in older adults",
+        "Using automatic speech recognition to assess spoken responses to cognitive tests of semantic verbal fluency",
+        "Telephone-based Dementia Screening I",
+        "A Mobile Application for Smart Computer-Aided Self-Admin-istered Testing of Cognition, Speech, and Motor Impairment",
+        "Phoneme and tonal accent recognition for Thai speech",
+        "Incorporating tone features to convolutional neural network to improve Mandarin/Thai speech recognition",
+        "Thai Speech Corpus for Speech Recog-nition",
+        "Deep Neural Networks for Acoustic Modeling in Speech Recognition: The Shared Views of Four Research Groups",
+        "A pitch extraction algorithm tuned for automatic speech recognition",
+        "Speaker adaptive training: A maximum likelihood approach to speaker normali-zation",
+        "Phoneme recognition using time-delay neural networks",
+        "End-to-end Speech Recognition Using Lattice-free MMI"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University Technology Center"
+    ]
+}

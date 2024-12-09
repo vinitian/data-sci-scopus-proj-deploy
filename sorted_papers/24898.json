@@ -1,0 +1,99 @@
+{
+    "eid": "2-s2.0-85101115866",
+    "title": "The importance of parameter-dependent coefficient of restitution in discrete element method simulations",
+    "cover-date": "2021-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Chemical Engineering (all)",
+            "@code": "1500",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanics of Materials",
+            "@code": "2211",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Coefficient of restitution",
+        "Collision",
+        "Discrete element method",
+        "Drop test",
+        "Parameter-dependent coefficient of restitution"
+    ],
+    "authors": [
+        "Tarabordin Yurata",
+        "Dimitri Gidaspow",
+        "Pornpote Piumsomboon",
+        "Benjapon Chalermsinsuwan"
+    ],
+    "citedby-count": 3,
+    "ref-count": 48,
+    "ref-list": [
+        "The coefficient of restitution of some pharmaceutical tablets/compacts",
+        "Experimental determination of parameter effects on the coefficient of restitution of differently shaped maize in three-dimensions",
+        "Literature survey of contact dynamics modelling",
+        "Experimental measurement of the normal coefficient of restitution of micro-particles impacting on plate surface in different humidity",
+        "Experimental determination of particle\u2013particle restitution coefficient via double pendulum method",
+        "Comprehensive multivariate sensitivity analysis of CFD-DEM simulations: critical model parameters and their impact on fluidization hydrodynamics",
+        "The effect of ventilation hole number on flow behavior and heat transfer of rotary drum dryer",
+        "Effect of contact force modeling parameters on the system hydrodynamics of spouted bed using CFD-DEM simulation and 2k factorial experimental design",
+        "Numerical study on heat transfer in a conical fluidized bed combustor considering particle elasticity",
+        "A novel method for the calculation of particle heat conduction and resolved 3D wall heat transfer for the CFD/DEM approach",
+        "Computational fluid dynamics of circulating fluidized bed downer: study of modeling parameters and system hydrodynamic characteristics",
+        "Study on the relationship between the restitution coefficient and the adhesion strength of the coating",
+        "Experimental investigations on the coefficient of restitution of single particles",
+        "The dynamic behavior of squash balls",
+        "Experimental measurement of the coefficient of restitution of irregular shaped particles impacting on horizontal surfaces",
+        "Measurement of two kinds of granular temperatures, stresses, and dispersion in bubbling beds",
+        "DEM\u2013CFD simulation of modular PB-FHR core with two-grid method",
+        "Insights in hydrodynamics of bubbling fluidized beds at elevated pressure by DEM\u2013CFD approach",
+        "Documentation of open-source MFIX\u2013DEM software for gas\u2013solids flows, From URL",
+        "A discrete numerical model for granular assemblies",
+        "Prediction/verification of particle motion in one dimension with the discrete-element method",
+        "Open-source MFIX-DEM software for gas\u2013solids flows: Part I\u2014Verification studies",
+        "A study of the restitution coefficient in elastic-plastic impact",
+        "Combined viscoelastic and elastic wave dissipation mechanism at low velocity impact",
+        "Effect of grain size and surface roughness on the normal coefficient of restitution of single grains",
+        "Experimental investigation of the coefficient of restitution of particles colliding with surfaces in air and water",
+        "Computing the composite coefficient of restitution for inelastic impact of dissimilar bodies",
+        "Lagrangian numerical simulation of plug flow of cohesionless particles in a horizontal pipe",
+        "Investigation of particle\u2014wall impact process",
+        "Structural Dynamics and Vibration in Practice: An Engineering Handbook",
+        "On the contact of solids\u2014on the contact of rigid elastic solids and on hardness",
+        "A contact force model with hysteresis damping for impact analysis of multibody systems",
+        "Contact Mechanics",
+        "Rebound behaviour of spheres for plastic impacts",
+        "Measurements of collisional properties of spheres using high-speed video analysis",
+        "Experimental and numerical study of ball size effect on restitution coefficient in low velocity impacts",
+        "The biomechanical effect of loading speed on Metal-on-UHMWPE contact mechanics",
+        "Characterizing the mechanical properties of actual SAC105, SAC305, and SAC405 solder joints by digital image correlation",
+        "Temperature variability of Poisson's ratio and its influence on the complex modulus determined by dynamic mechanical analysis",
+        "Effect of temperature on golf ball dynamics",
+        "Heat transfer in indirect heated rotary drums filled with monodisperse spheres: comparison of experiments with DEM simulations",
+        "CFD-DEM study of the effects of solid properties and aeration conditions on heat transfer in fluidized bed"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chicago",
+            "@id": "60002873",
+            "affilname": "Illinois Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002873",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "Thailand Research Fund",
+        "National Research Council of Thailand"
+    ]
+}

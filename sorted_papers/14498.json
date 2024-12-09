@@ -1,0 +1,69 @@
+{
+    "eid": "2-s2.0-85086044185",
+    "title": "Numerical solution of direct and inverse problems for time-dependent volterra integro-differential equation using finite integration method with shifted chebyshev polynomials",
+    "cover-date": "2020-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Chemistry (miscellaneous)",
+            "@code": "1601",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mathematics (all)",
+            "@code": "2600",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Physics and Astronomy (miscellaneous)",
+            "@code": "3101",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Direct and inverse problems",
+        "Finite integration method",
+        "Shifted Chebyshev polynomial",
+        "Tikhonov regularization method",
+        "Volterra integro-differential equation"
+    ],
+    "authors": [
+        "Ratinan Boonklurb",
+        "Ampol Duangpan",
+        "Phansphitcha Gugaew"
+    ],
+    "citedby-count": 7,
+    "ref-count": 20,
+    "ref-list": [
+        "Finite element methods for parabolic and hyperbolic partial integro-differential equations",
+        "A finite difference scheme for partial integro-differential equations with a weakly singular kernel",
+        "Collocation methods for second-order Volterra integro-differential equations",
+        "Implicit Runge-Kutta-Nystr\u00f6m methods for general second-order Volterra integro-differential equations",
+        "On spectral methods for Volterra-type integro-differential equations",
+        "Stieltjes derivatives and beta-polynomial spline collocation for Volterra integro-differential equations with singularities",
+        "Superconvergence in collocation and implicit Runge-Kutta methods for Volterra-type integral equations of the second kind",
+        "The decomposition method applied to solve high-order linear Volterra-Fredholm integro-differential equations",
+        "Definitions and examples of inverse and ill-posed problems",
+        "Finite integration method for partial differential equations",
+        "Finite integration method for solving multi-dimensional partial differential equations",
+        "Improved finite integration method for partial differential equations",
+        "Modified finite integration method using Chebyshev polynomial for solving linear differential equations",
+        "Indirect boundary integral equation method for the Cauchy problem of the Laplace equation"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

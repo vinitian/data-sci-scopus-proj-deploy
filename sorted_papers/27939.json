@@ -1,0 +1,78 @@
+{
+    "eid": "2-s2.0-85077975711",
+    "title": "Occluded Facial Recognition with 2DPCA based Convolutional Neural Network",
+    "cover-date": "2019-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Media Technology",
+            "@code": "2214",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "convolution neural network",
+        "facial occlusion recognition",
+        "two-dimensional principal component analysis"
+    ],
+    "authors": [
+        "Sittiphan Sarapakdi",
+        "Phaderm Nangsue",
+        "Charnchai Pluempitiwirivawej"
+    ],
+    "citedby-count": 1,
+    "ref-count": 7,
+    "ref-list": [
+        "Terrorists face recognition system with color skin detection and eigen face",
+        "Two-dimensional PCA: A new approach to appearance-based face representation and recognition",
+        "Face recognition with occlusion",
+        "Convolutional neural network based on principal component analysis initialization for image classification",
+        "Imagenet classification with deep convolutional neural networks",
+        "Face recognition using skin color segmentation of ycbcr and rgb color models"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "123781386",
+            "affilname": "Chulachomklao Royal Military Acade.my",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/123781386",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "NHLBI/NIH",
+        "National Heart Lung, and Blood Institute/National Institutes of Health",
+        "NIH"
+    ]
+}

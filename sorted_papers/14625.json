@@ -1,0 +1,151 @@
+{
+    "eid": "2-s2.0-85164298133",
+    "title": "Analysis of near-interface cracks in three-dimensional anisotropic multi-materials by efficient BIEM",
+    "cover-date": "2023-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Condensed Matter Physics",
+            "@code": "3104",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Anisotropic materials",
+        "Near-interface cracks",
+        "Stress intensity factors",
+        "T-stresses",
+        "Weakly singular boundary integral equations"
+    ],
+    "authors": [
+        "Pisit Watanavit",
+        "Naruethep Sukulthanasorn",
+        "Elena Atroshchenko",
+        "Hung Nguyen-Xuan",
+        "Jaroon Rungamornrat"
+    ],
+    "citedby-count": 0,
+    "ref-count": 70,
+    "ref-list": [
+        "The role of T-stress and stress triaxiality combined with the geometry on tensile fracture energy of brittle adhesives",
+        "Analysis of three-dimensional interface cracks using enriched finite elements",
+        "Two-dimensional stress intensity factor analysis of cracks in anisotropic bimaterial",
+        "Investigation of the effects of confining pressure on SIFs and T-stress for CCBD specimens using the XFEM and the interaction integral method",
+        "Analysis of crack propagation path on the anisotropic bi-material rock",
+        "The fracture mechanics of slit-like cracks in anisotropic elastic media",
+        "A variational boundary integral method for the analysis of three-Dimensional cracks of arbitrary geometry in anisotropicelastic solids",
+        "The multiple fatigue crack propagation modelling in nonhomogeneous structures using the DBEM",
+        "Mixed-mode stress intensity factors for cracks located at or parallel to the interface in bimaterial half planes",
+        "Mechanics of subinterface cracks in layered material",
+        "Analysis of elliptical cracks perpendicular to the interface of two joined transversely isotropic solids",
+        "T-stress evaluations of an interface crack in the materials with complex interfaces",
+        "Stress intensity factors for cracks of arbitrary shape near an interfacial boundary",
+        "Calculation of mixed-mode stress intensity factors for a crack normal to a bimaterial interface using contour integrals",
+        "Stress intensity factors and T-stresses by boundary integral equations: 3D statics",
+        "Limitations to the small scale yielding approximation for crack tip plasticity",
+        "A weakly singular SGBEM for analysis of cracks in 3D anisotropic media",
+        "Weakly singular, weak-form integral equations for cracks in three-dimensional anisotropic media",
+        "Analysis for T-stress of cracks in 3D anisotropic elastic media by weakly singular integral equation method",
+        "Analysis of 3D cracks in anisotropic multi-material domain with weakly singular SGBEM",
+        "Evaluation of T -stresses and stress intensity factors in stationary thermoelasticity by the conservation integral method",
+        "Evaluations of the T-stress for interface cracks by the boundary element method",
+        "Crack paralleling an interface between dissimilar materials",
+        "Stress intensity factor for bonded dissimilar materials weakened by multiple cracks",
+        "Stress intensity factor for multiple cracks in bonded dissimilar materials using hypersingular integral equations",
+        "Further investigation of subinterface cracks",
+        "Bimaterial four point bend specimen with sub-interface crack",
+        "Asymptotic stress field at the tip of an inclined crack terminating to an interface",
+        "Fracture analysis for a sub-interface Zener-Stroh crack in a bi-material plate under small-scale yielding condition",
+        "A review of T-stress and its effects in fracture mechanics",
+        "On the stress distribution at the base of a stationary crack",
+        "Stress intensity factors of an inclined elliptical crack near a bimaterial interface",
+        "A finite element method for crack growth without remeshing",
+        "Finite element-based model for crack propagation in polycrystalline materials",
+        "Effect of higher order asymptotic terms on the competition between crack penetration and debond at a bimaterial interface between aligned orthotropic materials",
+        "Analysis of stress intensity factors and T-stress to control crack propagation for kerf-less spalling of single crystal silicon foils",
+        "Influence of non-singular stress terms and specimen geometry on small-scale yielding at crack tips in elastic-plastic materials",
+        "A simple method for crack growth in mixed mode with X-FEM",
+        "A crack perpendicular to the bimaterial interface in finite solid",
+        "Symmetric weak-form integral equation method for three-dimensional fracture analysis",
+        "The influence of the T-stress on the directional stability of cracks",
+        "Weight functions for sub-interface cracks",
+        "Evaluation of stress intensity factors and T-stress by finite block method: static and dynamic",
+        "Behavior of indentation cracks near free surfaces and interfaces",
+        "Calculation of K-factor and T-stress for cracks in anisotropic bimaterials",
+        "Stresses in bonded materials with a crack perpendicular to the interface",
+        "Three-dimensional crack growth simulation using BEM",
+        "Stress intensity factors of square crack inclined to interface of transversely isotropic bi-material",
+        "Stress intensity factors and T-stress for an edge interface crack by symplectic expansion",
+        "The singular stress field and stress intensity factors of a crack terminating at a bimaterial interface",
+        "Weakly singular BIE-based procedure for T-stress analysis of cracks in 3D anisotropic linear elastic finite media",
+        "An XFEM-based numerical strategy to model three-dimensional fracture propagation regarding crack front segmentation",
+        "Evaluation of T-stress in stationary and propagating adiabatic cracks in FGM subjected to thermo-mechanical loading",
+        "Stress intensity factors and T-stress for an edge cracked Brazilian disk specimen under diametrically distributed load",
+        "On elastic\u2013plastic fracture behavior of a bi-layered composite plate with a sub-interface crack under mixed mode loading",
+        "The stress intensity factor and propagation of an inclined crack in the central layer of a composite laminate under tension",
+        "The stress intensity factors of multiple inclined cracks in a composite laminate subjected to in-plane loading",
+        "A modified semi-weight function method for stress intensity factor calculation of a vertical crack terminating at the interface",
+        "Effect of constraints on stress intensity factor for dissimilar metal plate with centre crack under uniform tension",
+        "A new DBEM for solving crack problems in arbitrary dissimilar materials",
+        "Multi-material adhesive joints with thick bond-lines: Crack onset and crack deflection",
+        "A computational framework for well production simulation: coupling steady state Darcy flow and channel flow by SGBEM-FEM",
+        "Near-tip behavior of a crack in a plane anisotropic elastic body",
+        "Quantifying crack tip displacement fields with DIC",
+        "Cracking particles: a simplified meshfree method for arbitrary evolving cracks",
+        "A three-dimensional large deformation meshfree method for arbitrary evolving cracks",
+        "Stress intensity factor analysis of a three-dimensional interface crack between dissimilar anisotropic materials"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60071399",
+            "affilname": "Ho Chi Minh City University of Technology - HUTECH",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071399",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Sydney",
+            "@id": "60028333",
+            "affilname": "UNSW Sydney",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028333",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Sendai",
+            "@id": "60008435",
+            "affilname": "Tohoku University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008435",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Thailand Science research and Innovation Fund Chulalongkorn University",
+        "Chulalongkorn University",
+        "National Research Council of Thailand"
+    ]
+}

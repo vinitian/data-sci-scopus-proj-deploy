@@ -1,0 +1,59 @@
+{
+    "eid": "2-s2.0-84962373892",
+    "title": "Grid-free surface tracking on the GPU",
+    "cover-date": "2015-01-01",
+    "subject-areas": [],
+    "keywords": [],
+    "authors": [
+        "Nuttapong Chentanez"
+    ],
+    "citedby-count": 1,
+    "ref-count": 29,
+    "ref-list": [
+        "Wait-free test-and-set",
+        "ACM SIGGRAPH Asia 2009 Papers",
+        "Robust topological operations fo r dynamic explicit surfaces",
+        "Putting holes in holey geometry: Topology change for arbitrary surfaces",
+        "ROBIN HOOD HASHING.",
+        "To Appear in ACM Trans. On Graphics (SIGGRAPH 2015)",
+        "Multimaterial mesh-based surface tracking",
+        "Symposium on Interactive 3D Graphics (I3D)",
+        "Flip-flop: Convex hull construction via star-shaped polyhedron in 3D",
+        "Coherent parallel hashing",
+        "The Opencl Specification. Khronos OpenCL Working Group",
+        "GPUGems 2: Programming Techniques for High-Performance Graphics and General-Purpose Computation",
+        "MARCHING CUBES: A HIGH RESOLUTION 3D SURFACE CONSTRUCTION ALGORITHM.",
+        "Perfect spatial hashing",
+        "High performance dynamic lock-free hash tables and list-based sets",
+        "Lock-free hash table on graphics processors",
+        "Fast and Robust Tracking of Fluid Surfaces",
+        "Morph algorithms on GPUs",
+        "27th European Workshop on Computational Geometry (EuroCG)",
+        "Constrained delaunay triangulations",
+        "Triangular mesh simplification on the GPU",
+        "Cuckoo hashing",
+        "GPU Technology Conference",
+        "Freestyle: Sculpting meshes with self-adaptive topology",
+        "CPU-GPU algorithms for triangular surface mesh simplification",
+        "Optimized Spatial Hashing for Collision Detection of Deformable Objects",
+        "Deforming meshes that split and merge",
+        "Physics-inspired topology changes for thin fluid features",
+        "EUROGRAPHICS 2012"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Santa Clara",
+            "affilname": "NVIDIA",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Nvidia",
+        "Apex Foundation"
+    ]
+}

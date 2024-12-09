@@ -1,0 +1,87 @@
+{
+    "eid": "2-s2.0-85137707004",
+    "title": "Visual-based Confusion Detection using a Cooperative Spatio-Temporal Deep Neural Networks",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Health Informatics",
+            "@code": "2718",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Transportation",
+            "@code": "3313",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Public Administration",
+            "@code": "3321",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "Confusion Detection",
+        "Deep Neural Network",
+        "Emotion",
+        "Facial Expression"
+    ],
+    "authors": [
+        "Nun Vanichkul",
+        "Thananop Kobchaisawat",
+        "Thanarat Chalidabhongse"
+    ],
+    "citedby-count": 0,
+    "ref-count": 18,
+    "ref-list": [
+        "Using eeg to improve massive open online courses feedback interaction",
+        "Detection confusion using facial electromyography",
+        "Constants across cultures in the face and emotion",
+        "Joint fine-tuning in deep neural networks for facial expression recognition",
+        "The extended cohn-kanade dataset (ck+): A complete dataset for action unit and emotion-specified expression",
+        "Facial expression recognition from near-infrared video sequences",
+        "Induced disgust, happiness and surprise: an addition to the mmi facial expression database",
+        "Facial expression recognition based on deep evolutional spatial-temporal networks",
+        "Baum-1: A spontaneous audio-visual face database of affective and mental states",
+        "Automatic academic confusion recognition in online learning based on facial expression",
+        "Classifying confusion: Autodetection of communicative misunderstandings using facial action units",
+        "Iemocap: Interactive emotional dyadic motion capture database",
+        "Multi-modal emotion recognition from speech and facial expression based on deep learning",
+        "Confusion detection dataset of mouse and eye movements",
+        "Openface 2.0: Facial behavior analysis toolkit"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

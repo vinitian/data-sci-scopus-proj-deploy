@@ -1,0 +1,69 @@
+{
+    "eid": "2-s2.0-85083232413",
+    "title": "COVID-19 among medical personnel in the operating room",
+    "cover-date": "2020-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Epidemiology",
+            "@code": "2713",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Microbiology (medical)",
+            "@code": "2726",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Infectious Diseases",
+            "@code": "2725",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Pathum Sookaromdee",
+        "Viroj Wiwanitkit"
+    ],
+    "citedby-count": 4,
+    "ref-count": 4,
+    "ref-list": [
+        "Proposed protocol to keep COVID-19 out of hospitals",
+        "Editorial: Wuhan coronavirus outbreak and imported case",
+        "Pulmonary pathology of earlyphase 2019 novel coronavirus (COVID-19) pneumonia in two patients with lung cancer",
+        "Preliminary recommendations for lung surgery during 2019 novel coronavirus disease (COVID-19) epidemic period"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Pune",
+            "@id": "60105038",
+            "affilname": "Dr. D. Y. Patil Vidyapeeth, Pune",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60105038",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Haikou",
+            "@id": "60019572",
+            "affilname": "Hainan Medical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019572",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "113033812",
+            "affilname": "TWS Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/113033812",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,68 @@
+{
+    "eid": "2-s2.0-84960156777",
+    "title": "A fast predictive algorithm with idle reduction for heterogeneous system scheduling",
+    "cover-date": "2016-04-01",
+    "subject-areas": [
+        {
+            "$": "Hardware and Architecture",
+            "@code": "1708"
+        },
+        {
+            "$": "Modeling and Simulation",
+            "@code": "2611"
+        },
+        {
+            "$": "Software",
+            "@code": "1712"
+        }
+    ],
+    "keywords": [
+        "Algorithm running time",
+        "Heterogeneous systems",
+        "Schedule length",
+        "Task graph"
+    ],
+    "authors": [
+        "Anan Niyom"
+    ],
+    "citedby-count": 3,
+    "ref-count": 27,
+    "ref-list": [
+        "An iterative algorithm for battery - A ware task scheduling on portable computing platforms",
+        "Battery aware dynamic scheduling for periodic task graphs",
+        "Automated techniques for energy efficient scheduling on homogeneous and heterogeneous chip multi-processor architectures",
+        "An approximation scheme for energy-efficient scheduling of real-time tasks in heterogeneous multiprocessor systems",
+        "Performance and energy aware cluster-level scheduling of compute-intensive jobs with unknown service times",
+        "An energy-efficient process clustering assignment algorithm for distributed system",
+        "Battery-aware task scheduling in distributed mobile systems with lifetime constraint",
+        "Energy-efficient scheduling with time and processors eligibility restrictions",
+        "Performance evaluation and energy consumption of a real-time heterogeneous grid system using DVS and DPM",
+        "A survey of design techniques for system-level dynamic power management",
+        "Scheduling multiple task graphs in heterogeneous distributed real-time systems by exploiting schedule holes with bin packing techniques",
+        "Scheduling real-time DAGs in heterogeneous clusters by combining imprecise computations and bin packing techniques for the exploitation of schedule holes",
+        "Scheduling algorithms for parallel Gaussian elimination with communication costs",
+        "General approach to mapping of parallel computations upon multiprocessor architectures",
+        "Optimal scheduling algorithm for distributed-memory machines",
+        "Multicast scheduling for list requests",
+        "On exploiting task duplication in parallel program scheduling",
+        "A task duplication based bottom-up scheduling algorithm for heterogeneous environments",
+        "DSC: Scheduling Parallel Tasks on an Unbounded Number of Processors",
+        "Comparison of general approaches to multiprocessor scheduling",
+        "Integrating list heuristics into genetic algorithms for multiprocessor scheduling",
+        "Comparison study of static mapping heuristics for a class of meta-tasks on heterogeneous computing systems",
+        "Performance-effective and low-complexity task scheduling for heterogeneous computing",
+        "J. Comput. Sci.",
+        "DAG scheduling using a lookahead variant of the heterogeneous earliest finish time algorithm",
+        "Scheduling for heterogeneous Systems using constrained critical paths",
+        "List scheduling algorithm for heterogeneous systems by an optimistic cost table"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "affilname": "Chulalongkorn University",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Ministry of Education",
+        "Office of the Higher Education Commission"
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "eid": "2-s2.0-85074505403",
+    "title": "Structure and dynamics of aquaporin-1",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Physiology",
+            "@code": "1314",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Endocrinology",
+            "@code": "1310",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [
+        "AQP1",
+        "Coarse-grained model",
+        "Monte Carlo simulation",
+        "Native and denatured phases",
+        "Structure",
+        "Thermal response"
+    ],
+    "authors": [
+        "Warin Rangubpit",
+        "Pornthep Sompornpisut",
+        "Ras Pandey"
+    ],
+    "citedby-count": 1,
+    "ref-count": 47,
+    "ref-list": [
+        "Computer simulations of membrane proteins",
+        "Pair potentials for protein folding: Choice of reference states and sensitivity of predicted native states to variations in the interaction schemes",
+        "Monte Carlo and molecular dynamics simulations in polymer science",
+        "Ion channel function of aquaporin-1 natively expressed in choroid plexus",
+        "Coarse-grained molecular dynamics simulations of membrane proteins and peptides",
+        "Improved parameters for the martini coarse-grained protein force field",
+        "Interatomic potentials from first-principle calculations: The force-matching method",
+        "Conformational temperature-dependent behavior of a histone h2ax: A coarse-grained Monte Carlo approach via knowledge-based interaction potentials",
+        "Knowledge-based potentials for protein folding: What can we learn from protein structures?",
+        "Molecular dynamics simulations of proteins in lipid bilayers",
+        "Coarse-grained simulations of conformational dynamics of proteins: Application to apomyoglobin",
+        "Comparative simulations of aquaporin family: AQP1, AQPZ, AQP0 and GlpF",
+        "Water transport in aquaporins: Osmotic permeability matrix analysis of molecular dynamics simulations",
+        "Statistical mechanics-based method to extract atomic distance-dependent potentials from protein structures",
+        "Single-channel water permeabilities of Escherichia coli aquaporins AqpZ and GlpF",
+        "Thermal-induced folding and unfolding of a transmembrane protein (CorA)",
+        "Peter Agre, 2003 Nobel Prize winner in chemistry, special commentary",
+        "Dynamic mechanisms of the membrane water channel aquaporin-1 (AQP1)",
+        "Highly permeable polymeric membranes based on the incorporation of the functional water channel protein aquaporin z",
+        "Membrane proteins: Molecular dynamics simulations",
+        "Computational techniques for efficient conformational sampling of protein",
+        "Calculation of effective interaction potential from radial distribution functions: A reverse Monte Carlo approach",
+        "Structural variation of alpha-synuclein with temperature by a coarse-grained approach with knowledge-based interactions",
+        "Estimation of effective inter residue contact energies from protein crystal structures: Quasi-chemical approximation",
+        "Residue-residue potentials with a favorable contact pair term for simulation and treading",
+        "Global structure of a human immunodeficiency virus-1 protease (1DIFA dimer) in an effective solvent medium by a Monte Carlo simulation",
+        "Random coil to globular thermal response of a protein (H3.1) with three knowledge-based coarse-grained potentials",
+        "Conformational response to solvent interaction and temperature of a protein (histone h3.1) by a multi-grained Monte Carlo simulation",
+        "Structure and dynamics of a free aquaporin (AQP1) by a coarse-grained Monte Carlo simulation",
+        "Self-assembly dynamics for the transition of a globular aggregate to a fibril network of lysozyme proteins via a coarse-grained Monte Carlo simulation",
+        "Preferential binding effects on protein structure and dynamics revealed by coarse-grained Monte Carlo simulation",
+        "Key roles of aquaporins in tumor biology",
+        "Aquaporins in health and disease: An overview focusing on the gut of different species",
+        "Deriving effective mesoscale potentials from atomistic simulations",
+        "Protofibrillar assembly towards the formation of amyloid fibrils",
+        "Medium and long range interaction parameters between amino acids for predicting three dimensional structures of proteins",
+        "Can stabilization and inhibition of aquaporins contribute to future development of biomimetic membranes?",
+        "Role of aquaporin 1 signalling in cancer development and progression",
+        "Mote Carlo simulations of polyalanine using a reduced model and statistics-based interaction potential",
+        "Aquaporins as diagnostic and therapeutic targets in cancer: How far we are?",
+        "Molecular mechanisms of conduction and selectivity in aquaporin water channels",
+        "Permselectivity limits of biomimetic desalination membranes",
+        "Materials for next-generation desalination and water purification membranes",
+        "Mechanism of gating and ion conductivity of a possible tetrameric pore in aquaporin-1",
+        "Orientation of adsorbed antibodies on charged surfaces by computer simulation based on a united-residue model",
+        "Coarse-grained peptide modeling using a systematic multiscale approach"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hattiesburg",
+            "@id": "60007027",
+            "affilname": "University of Southern Mississippi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007027",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University Dusadi Phipat scholarship and Ratchadaphiseksomphot Endowment Fund",
+        "Ratchadaphiseksomphot Endowment Fund",
+        "Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "eid": "2-s2.0-85096808625",
+    "title": "Vehicle rollover detection in tripped and untripped rollovers using recurrent neural networks",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Engineering (miscellaneous)",
+            "@code": "2201",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Physics and Astronomy (miscellaneous)",
+            "@code": "3101",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Management of Technology and Innovation",
+            "@code": "1405",
+            "@abbrev": "BUSI"
+        }
+    ],
+    "keywords": [
+        "Feedforward Neural Network",
+        "GRU",
+        "LSTM",
+        "Recurrent Neural Network",
+        "Rollover Index",
+        "Tanh",
+        "Tripped Rollover",
+        "Untripped Rollover"
+    ],
+    "authors": [
+        "Kailerk Treetipsounthorn",
+        "Thanisorn Sriudomporn",
+        "Gridsada Phanomchoeng",
+        "Christian Dengler",
+        "Setha Panngum",
+        "Sunhapos Chantranuwathana",
+        "Ali Zemouche"
+    ],
+    "citedby-count": 0,
+    "ref-count": 49,
+    "ref-list": [
+        "Vehicle rollover detection using recurrent neural networks",
+        "Research on Vehicle Rollover and Control",
+        "Robust indirect-defined envelope control for rollover and lateral skid prevention",
+        "Rollover index estimation in the presence of sensor faults, unknown inputs, and uncertainties",
+        "New rollover index for the detection of tripped and untripped rollovers",
+        "New paradigms for the integration of yaw stability and rollover prevention functions in vehicle stability control",
+        "An Application of Neural Networks to Control Stability of an Articulated Vehicle in Real Time",
+        "Integrated chassis control for vehicle rollover prevention with neural network time-to-rollover warning metrics",
+        "An Application of Neural Networks to Control Stability of an Articulated Vehicle in Real Time",
+        "Adaptive Rollover Prevention for Automotive Vehicles with Differential Braking",
+        "Rollover prevention with predictive control of differential braking and rear wheel steering",
+        "Anti-Rollover Control Based on Fuzzy Differential Braking for Heavy Duty Commercial Vehicle",
+        "Design of a preview controller for vehicle rollover prevention",
+        "A methodology for the design of robust rollover prevention controllers for automotive vehicles with active steering",
+        "Rollover mitigation controller development for three-wheeled vehicle using active front steering",
+        "Investigation into untripped rollover of light vehicles in the modified fishhook and the sine maneuvers. Part I: Vehicle modelling, roll and yaw instability",
+        "Design of active suspension and electronic stability program for rollover prevention",
+        "Dynamic drive-the new active roll stabilization system from BMW group-system description and functional improvements",
+        "An Investigation into Vehicle Rollover Prevention by Coordinated Control of Active Anti-roll Bar and Electronic Stability Program",
+        "Active roll control of single unit heavy road vehicles",
+        "Design and evaluation of a unified chassis control system for rollover prevention and vehicle stability improvement on a virtual test track",
+        "Active driveline torque-management systems",
+        "Practical vehicle rollover avoidance control using energy method",
+        "Design of a rollover index-based vehicle stability control scheme",
+        "Real-Time Estimation of Rollover Index for Tripped Rollovers with a Novel Unknown Inputs Nonlinear Observer",
+        "New Paradigms for the Integration of Yaw Stability and Rollover Prevention Functions in Vehicle Stability Control",
+        "Hazardous Chemicals Vehicles Rollover Pre-warning System Based on CPS",
+        "Test system, vehicle and occupant response repeatability evaluation in rollover crash tests: The deceleration rollover sled test",
+        "A Real-time Rollover Threat Index for Sports Utility Vehicles",
+        "Rollover Warning Of Articulated Vehicles Based On A Time-To-Rollover Metric",
+        "A robust observer based on H1 filtering with parameter uncertainties combined with Neural Networks for estimation of vehicle roll angle",
+        "Deep Sparse Rectifier Neural Networks",
+        "Real-time Identification of Vehicle Motion-Modes using Neural Networks",
+        "Rollover Prediction and Control in Heavy Vehicles via Recurrent Neural Networks",
+        "Real-Time Rollover Warning in Tripped and Untripped Rollovers with A Neural Network",
+        "Long short-term memory",
+        "Gate-variants of gated recurrent unit (gru) neural networks",
+        "Deep sparse rectifier neural networks",
+        "Backpropagation through time: what it does and how to do it",
+        "On the difficulty of training recurrent neural networks",
+        "An empirical exploration of recurrent network architectures",
+        "Center of gravity height: a round-robin measurement program",
+        "Knet: beginning deep learning with 100 lines of julia",
+        "Adam: A method for stochastic optimization"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nancy",
+            "@id": "60104289",
+            "affilname": "Universit\u00e9 de Lorraine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104289",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Munich",
+            "@id": "60019722",
+            "affilname": "Technische Universit\u00e4t M\u00fcnchen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019722",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Paris",
+            "@id": "60008134",
+            "affilname": "CNRS Centre National de la Recherche Scientifique",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008134",
+            "affiliation-country": "France"
+        }
+    ],
+    "funding": [
+        "Ratchadaphiseksomphot Endowment Fund Chulalongkorn University"
+    ]
+}

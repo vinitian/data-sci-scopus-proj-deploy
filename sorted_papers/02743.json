@@ -1,0 +1,81 @@
+{
+    "eid": "2-s2.0-85092204351",
+    "title": "A general Bayesian approach to meet different inferential goals in poverty research for small areas",
+    "cover-date": "2020-09-17",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Statistics and Probability",
+            "@code": "2613",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Statistics, Probability and Uncertainty",
+            "@code": "1804",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "Bayesian model",
+        "Cross-validation",
+        "Hierarchical models",
+        "Monte Carlo simulations"
+    ],
+    "authors": [
+        "Partha Lahiri",
+        "Jiraphan Suntornchost"
+    ],
+    "citedby-count": 0,
+    "ref-count": 31,
+    "ref-list": [
+        "An overview of the U.S. Census Bureaus Small Area Income and Poverty Estimates Program",
+        "Poverty mapping in Chilean comunas",
+        "Parametric bootstrap approximation to the distribution of EBLUP and related prediction intervals in linear mixed models",
+        "Empirical Bayes estimates of age-standardized relative risks for use in disease mapping",
+        "Data analysis using Stein's estimator and its generalizations",
+        "Micro-level estimation of poverty and inequality",
+        "Estimation of income from small places: An application of James-Stein procedures to census data",
+        "A class of decomposable poverty measures",
+        "Borrowing information over time in Binomial/Logit normal models for small area estimation",
+        "3 New priors you can't do without, for coefficients and variance parameters in multilevel regression",
+        "All maps of parameter estimates are misleading",
+        "Inference from iterative simulation using multiple sequences",
+        "Constrained Bayes estimation with applications",
+        "Mixed model prediction and small area estimation",
+        "The identification of unusual healthcare providers from a hierarchical model",
+        "Adjusted\" Bayes and empirical Bayes estimation in finite population sampling",
+        "Outliers in multilevel data",
+        "Adjusted maximum method for solving small area estimation problems",
+        "Estimating a population of parameter values using Bayes and empirical Bayes methods",
+        "Mapping disease and mortality rates using empirical Bayes estimators",
+        "Small area estimation of general parameters with application to poverty indicators: a hierarchical Bayes approach",
+        "Small area estimation of poverty indicators",
+        "Empirical Bayes estimates of cancer mortality rates using spatial models",
+        "Hierarchical models for ranking and for identifying extremes, with applications",
+        "Bayesian analysis and mapping of mortality rates for chronic obstructive pulmonary disease",
+        "New important developments in small area estimation",
+        "The estimation of the mean squared error of small-area estimators",
+        "Triple-goal estimates in two-stage hierarchical models",
+        "Empirical Bayes estimation of cancer mortality rates"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "College Park",
+            "@id": "60020304",
+            "affilname": "University of Maryland, College Park",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020304",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "U.S. National Science Foundation"
+    ]
+}

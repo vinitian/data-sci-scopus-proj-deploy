@@ -1,0 +1,88 @@
+{
+    "eid": "2-s2.0-85099511569",
+    "title": "Concrete crack detection and 3D mapping by integrated convolutional neural networks architecture",
+    "cover-date": "2021-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Building and Construction",
+            "@code": "2215",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "3D mosaic and crack mapping",
+        "convolutional neural network",
+        "crack detection",
+        "image-based 3D modeling",
+        "random forest",
+        "support vector machine"
+    ],
+    "authors": [
+        "Krisada Chaiyasarn",
+        "Apichat Buatik",
+        "Suched Likitlersuang"
+    ],
+    "citedby-count": 9,
+    "ref-count": 43,
+    "ref-list": [
+        "Analysis of edge-detection techniques for crack identification in bridges",
+        "PCA-based algorithm for unsupervised bridge crack detection",
+        "Robust pixel level crack detection using deep fully convolution neural networks",
+        "Crack detection using a texture analysis-based technique for visual bridge inspection",
+        "Deep learning-based crack damage detection using convolutional neural networks",
+        "A texture-based video processing methodology using Bayesian data fusion for autonomous crack detection on metallic surfaces",
+        "Support-vector networks",
+        "Autonomous concrete crack detection using deep fully convolutional neural network",
+        "Accurate camera calibration from multi-view stereo and bundle adjustment",
+        "An innovative methodology for detection and quantification of cracks through incorporation of depth perception",
+        "Autonomous UAVs for structural health monitoring using deep learning and an ultrasonic beacon system with geo-tagging",
+        "Crack detection and segmentation using deep learning with 3D reality mesh model for quantitative assessment and integrated visualization",
+        "Deep learning",
+        "Research on a surface defect detection algorithm based on MobileNet-SSD",
+        "Automatic crack detection and measurement based on image analysis",
+        "Image-based crack assessment of bridge piers using unmanned aerial vehicles and three-dimensional scene reconstruction",
+        "Distinctive image features from scale-invariant keypoints",
+        "Framework for automated UAS-based structural condition assessment of bridges",
+        "Pixel-level crack delineation in images with convolutional feature fusion",
+        "A novel hybrid CNN\u2013SVM classifier for recognizing handwritten digits",
+        "Automated crack detection on concrete bridges",
+        "Ensemble classification and regression-recent developments, applications and future directions",
+        "Health monitoring of civil structures with integrated uav and image processing system",
+        "Concrete crack detection using the integration of convolutional neural network and support vector machine",
+        "Dropout: A simple way to prevent neural networks from overfitting",
+        "Image-based automated 3D crack detection for post-disaster building assessment",
+        "A fast detection method via region-based fully convolutional neural networks for shield tunnel lining defects",
+        "Structural displacement measurement using an unmanned aerial system",
+        "Road crack detection using visual features extracted by Gabor filters",
+        "Automated pixel-level pavement crack detection on 3D asphalt surfaces using a deep- learning network",
+        "Concrete crack detection using context-aware deep semantic segmentation network"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60012521",
+            "affilname": "Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012521",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Ratchadapisek Sompoch Endowment Fund",
+        "Chulalongkorn University",
+        "Thailand Research Fund"
+    ]
+}

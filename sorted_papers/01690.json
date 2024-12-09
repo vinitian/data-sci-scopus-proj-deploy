@@ -1,0 +1,131 @@
+{
+    "eid": "2-s2.0-85082961973",
+    "title": "Probabilistic scheduling of power-to-gas storage system in renewable energy hub integrated with demand response program",
+    "cover-date": "2020-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Demand response",
+        "Energy hub",
+        "Multi-carrier energy storage",
+        "P2G storage",
+        "Stochastic programming",
+        "Wind power"
+    ],
+    "authors": [
+        "Zhi Yuan",
+        "Shan He",
+        "As'ad Alizadeh",
+        "Sayyad Nojavan",
+        "Kittisak Jermsittiparsert"
+    ],
+    "citedby-count": 71,
+    "ref-count": 43,
+    "ref-list": [
+        "Integration of emerging resources in IGDT-based robust scheduling of combined power and natural gas systems considering flexible ramping products",
+        "Stochastic optimization of energy hub operation with consideration of thermal energy market and demand response",
+        "Optimal chance-constrained scheduling of reconfigurable micro-grids considering islanding operation constraints,\" in IEEE systems journal.",
+        "Economic-environmental effect of power to gas technology in coupled electricity and gas systems with price-responsive shiftable loads",
+        "Optimal power flow of multiple energy carriers",
+        "Operational and structural optimization of multi\u2010carrier energy systems",
+        "Optimal operation of industrial energy hubs in smart grids",
+        "Home load management in a residential energy hub",
+        "Short-term scheduling strategy for wind-based energy hub: a hybrid stochastic/IGDT approach",
+        "Multiagent genetic algorithm: an online probabilistic view on economic dispatch of energy hubs constrained by wind availability",
+        "Model-based predictive control applied to multi-carrier energy systems",
+        "A model to design and optimize multi-energy systems in buildings at the design concept stage",
+        "Optimal design of multicarrier energy systems considering reliability constraints",
+        "Assessment of renewable energy integration for a village using the energy hub concept",
+        "A review of renewable energy based cogeneration technologies",
+        "A multistage coordinative optimization for sitting and sizing P2G plants in an integrated electricity and natural gas system",
+        "A bi-level programming for multistage co-expansion planning of the integrated gas and electricity system",
+        "System-level power-to-gas energy storage for high penetrations of variable renewables",
+        "Economic-environmental effect of power to gas technology in coupled electricity and gas systems with price-responsive shiftable loads",
+        "Optimal operation strategy for integrated natural gas generating unit and power-to-gas conversion facilities",
+        "Optimisation of demand response in electric power systems, a review",
+        "Demand response and smart grids\u2014A survey",
+        "A survey of industrial applications of demand response",
+        "A decentralized electricity market scheme enabling demand response deployment",
+        "Stochastic modeling of multienergy carriers dependencies in smart local networks with distributed energy resources",
+        "MINLP probabilistic scheduling model for demand response programs integrated energy hubs",
+        "Stochastic security-constrained operation of wind and hydrogen energy storage systems integrated with price-based demand response",
+        "An optimal programming among renewable energy resources and storage devices for responsive load integration in residential applications using hybrid of grey wolf and shark smell algorithms",
+        "Uncertainty management in decision-making in power system operation",
+        "Multi-linear probabilistic energy flow analysis of integrated electrical and natural-gas systems",
+        "Robust scheduling of thermal, cooling and electrical hub energy system under market price uncertainty",
+        "Two-stage robust planning-operation co-optimization of energy hub considering precise energy storage economic model",
+        "Probabilistic optimization in operation of energy hub with participation of renewable energy resources and demand response",
+        "Medium-term energy hub management subject to electricity price and wind uncertainty",
+        "Risk averse energy hub management considering plug-in electric vehicles using information gap decision theory",
+        "A decentralized energy management framework for energy hubs in dynamic pricing markets",
+        "An optimisation algorithm for distributed energy resources management in micro-scale energy hubs",
+        "Optimal scheduling of heating and power hubs under economic and environment issues in the presence of peak load management",
+        "Heating and power hub models for robust performance of smart building using information gap decision theory",
+        "Energy storage systems in modern grids\u2014Matrix of technologies and applications",
+        "Risk-based optimal scheduling of reconfigurable smart renewable energy based micro-grids",
+        "Building thermal storage technology: compensating renewable energy fluctuations",
+        "Micro-grid operation and management using probabilistic reconfiguration and unit commitment"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Duhok",
+            "@id": "60116278",
+            "affilname": "University of Zakho",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60116278",
+            "affiliation-country": "Iraq"
+        },
+        {
+            "affiliation-city": "Bonab",
+            "@id": "60108382",
+            "affilname": "University of Bonab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60108382",
+            "affiliation-country": "Iran"
+        },
+        {
+            "affiliation-city": "Urmia",
+            "@id": "60104370",
+            "affilname": "Urmia University of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104370",
+            "affiliation-country": "Iran"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Urumqi",
+            "@id": "60015780",
+            "affilname": "Xinjiang University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015780",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": [
+        "Program for Innovative Research Team in University",
+        "Xinjiang Uygur Autonomous Region Key Laboratory",
+        "National Natural Science Foundation of China",
+        "Xinjiang Uygur Autonomous Region Key Laboratory",
+        "Program for Innovative Research Team in University"
+    ]
+}

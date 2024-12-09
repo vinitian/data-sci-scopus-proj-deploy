@@ -1,0 +1,92 @@
+{
+    "eid": "2-s2.0-85120080728",
+    "title": "Scatter-to- primary ratio in dentomaxillofacial cone-beam ct: Effect of field of view and beam energy",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Otorhinolaryngology",
+            "@code": "2733",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Dentistry (all)",
+            "@code": "3500",
+            "@abbrev": "DENT"
+        }
+    ],
+    "keywords": [
+        "computer-assisted image analysis",
+        "cone-beam computed tomography",
+        "dentistry",
+        "image quality enhancement",
+        "radiation protection"
+    ],
+    "authors": [
+        "Ruben Pauwels",
+        "Pisha Pittayapat",
+        "Phonkit Sinpitaksakul",
+        "Soontra Panmekiate"
+    ],
+    "citedby-count": 5,
+    "ref-count": 29,
+    "ref-list": [
+        "Artefacts in CBCT: A review",
+        "Technical aspects of dental CBCT: State of the art",
+        "Technical note: Comparing coherent and incoherent scatter effects for cone-beam CT",
+        "Photon cross sections from 1 keV to 100 MeV for elements Z=1 to Z=100",
+        "O/verbo/I. Relativistic atomic form factors and photon coherent scattering cross sections",
+        "Reduction of scatter-induced image noise in cone beam computed tomography: Effect of field of view size and position",
+        "Dose optimization by altering the operating potential and tube current exposure time product in dental cone beam CT: A systematic review",
+        "Bowtie filtration for dedicated cone beam CT of the head and neck: A simulation study",
+        "Monte Carlo evaluation of scatter mitigation strategies in cone-beam CT",
+        "Monte Carlo study of the effects of system geometry and antiscatter grids on cone-beam CT scatter distributions",
+        "Evaluation of detector readout gain mode and bowtie filters for cone-beam CT imaging of the head",
+        "A Monte Carlo based scatter removal method for non-isocentric cone-beam CT acquisitions using a deep convolutional autoencoder",
+        "Characteristics of X-ray beams in two commercial multidetector computed tomography simulators: Monte Carlo simulations",
+        "A simple, direct method for X-ray scatter estimation and correction in digital radiography and cone-beam CT",
+        "Optimal combination of anti-scatter grids and software correction for CBCT imaging",
+        "Cone beam CT for dental and maxillofacial radiology: Evidence based guidelines",
+        "Effective radiation dose and eye lens dose in dental cone beam CT: Effect of field of view and angle of rotation",
+        "Incidental findings on cone-beam computed tomographic images: Paranasal sinus findings and nasal septum variations",
+        "Incidental findings on craniomaxillofacial cone beam computed tomography in orthodontic patients",
+        "Incidental findings based on anatomical location and clinical significance in CBCT scans of dental implant patients",
+        "Incidental findings on cone beam computed tomography in orthodontic patients",
+        "Incidental findings in small field of view cone-beam computed tomography scans",
+        "Guest editorial-Self-referral: An ethical concern with respect to multidimensional imaging in dentistry?",
+        "Impact of cone-beam computed tomography scan mode on the diagnostic yield of chemically simulated external root resorption",
+        "Influence of voxel size on cone-beam computed tomography-based detection of vertical root fractures in the presence of intracanal metallic posts",
+        "Accuracy of detecting vertical root fractures in non-root filled teeth using cone beam computed tomography: Effect of voxel size and fracture width",
+        "A pragmatic approach to determine the optimal kVp in cone beam CT: Balancing contrast-to-noise ratio and radiation dose",
+        "Optimization of exposure parameters in dental cone beam computed tomography using a 3-step approach"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Aarhus",
+            "@id": "60029616",
+            "affilname": "Aarhus Universitet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029616",
+            "affiliation-country": "Denmark"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "AIAS-COFUND",
+        "Marie Sk\u0142odowska-Curie",
+        "Aarhus University Research Foundation",
+        "European Union Horizon 2020 Research and Innovation Programme"
+    ]
+}

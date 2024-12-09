@@ -1,0 +1,92 @@
+{
+    "eid": "2-s2.0-85039043481",
+    "title": "Normal probability plots with confidence for the residuals in linear regression",
+    "cover-date": "2018-02-07",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Statistics and Probability",
+            "@code": "2613",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Graphical tests",
+        "Linear regression model",
+        "Normal distribution",
+        "Normal probability plot",
+        "Power",
+        "Residuals",
+        "Simultaneous inference"
+    ],
+    "authors": [
+        "W. Chantarangsi",
+        "W. Liu",
+        "F. Bretz",
+        "S. Kiatsupaibul",
+        "A. J. Hayter"
+    ],
+    "citedby-count": 3,
+    "ref-count": 15,
+    "ref-list": [
+        "Normal probability plots with confidence",
+        "The Efficiency of Simulation-based Multiple Comparisons",
+        "A test for normality based on the empirical characteristic function",
+        "Storage to be provided in the impounding reservoirs for municipal water supply",
+        "Omnibus tests for the error distribution in the linear regression model",
+        "Sulla determinazione empirica di una legge di distribuzione",
+        "On the Kolmogorov-Smirnov test for normality with mean and variance unknown",
+        "Simulation-based simultaneous confidence bands in multiple linear regression with predictor variables constrained in intervals",
+        "The stabilized probability plot",
+        "Goodness-of-fit tests with nuisance regression and scale",
+        "An analysis of variance test for normality (complete samples)"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Southampton",
+            "@id": "60025225",
+            "affilname": "University of Southampton",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025225",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60021938",
+            "affilname": "Nakhon Pathom Rajabhat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021938",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Denver",
+            "@id": "60015404",
+            "affilname": "University of Denver",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015404",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Basel",
+            "@id": "60009968",
+            "affilname": "Novartis International AG",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009968",
+            "affiliation-country": "Switzerland"
+        }
+    ],
+    "funding": [
+        "Ministry of Education, Thailand",
+        "OHEC",
+        "Thailand Research Fund"
+    ]
+}

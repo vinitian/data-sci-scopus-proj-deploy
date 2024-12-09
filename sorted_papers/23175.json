@@ -1,0 +1,62 @@
+{
+    "eid": "2-s2.0-85055441834",
+    "title": "Heuristic based scheduling for tablets film coating process",
+    "cover-date": "2018-07-27",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Identical parallel machines",
+        "Sequence dependent setup times",
+        "Vehicle routing problem with time windows (VRPTW)"
+    ],
+    "authors": [
+        "Chutamas Pontrakul",
+        "Pisit Jarumaneeroj"
+    ],
+    "citedby-count": 2,
+    "ref-count": 14,
+    "ref-list": [
+        "Modeling and solving static m identical parallel machines scheduling problem with a common server and sequence dependent setup times",
+        "A variable neighbourhood search approach for crew transportation problems",
+        "A variable iterated greedy algorithm for the traveling salesman problem with time windows",
+        "An optimization algorithm for a capacitated vehicle routing problem with time windows",
+        "A variable arc exchange heuristics for float glass manufacturing problems",
+        "Solving multi-objective vehicle routing problem with time windows by FAGA",
+        "Scheduling with multi-attribute setup times on two identical parallel machines",
+        "Local analysis of the tablet coating process: Impact of operation conditions on film quality",
+        "An efficient heuristic for scheduling on identical parallel machines to minimize total tardiness",
+        "Uniform parallel machine scheduling with resource consumption constraint"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

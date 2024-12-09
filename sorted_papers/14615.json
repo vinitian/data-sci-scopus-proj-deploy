@@ -1,0 +1,115 @@
+{
+    "eid": "2-s2.0-85152570203",
+    "title": "Deep-Learning-Enabled Computer-Aided Diagnosis in the Classification of Pancreatic Cystic Lesions on Confocal Laser Endomicroscopy \u2020",
+    "cover-date": "2023-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Clinical Biochemistry",
+            "@code": "1308",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [
+        "computer-aided diagnosis",
+        "confocal laser endomicroscopy",
+        "deep learning",
+        "endoscopic ultrasound",
+        "pancreatic cystic lesions",
+        "U-Net",
+        "VGG19"
+    ],
+    "authors": [
+        "Tsung Chun Lee",
+        "Clara Lavita Angelina",
+        "Pradermchai Kongkam",
+        "Hsiu Po Wang",
+        "Rungsun Rerknimitr",
+        "Ming Lun Han",
+        "Hsuan Ting Chang"
+    ],
+    "citedby-count": 1,
+    "ref-count": 33,
+    "ref-list": [
+        "High prevalence of pancreatic cysts detected by screening magnetic resonance imaging examinations",
+        "Prevalence of incidental pancreatic cysts in the adult population on MR imaging",
+        "State-of-the-Art Update of Pancreatic Cysts",
+        "ACG Clinical Guideline: Diagnosis and Management of Pancreatic Cysts",
+        "Pancreatic Cystic Lesions: A Focused Review on Cyst Clinicopathological Features and Advanced Diagnostics",
+        "Advances in the Diagnosis of Pancreatic Cystic Lesions",
+        "Advances in Optical Coherence Tomography and Confocal Laser Endomicroscopy in Pulmonary Diseases",
+        "Confocal endomicroscopy for evaluation of pancreatic cystic lesions: A systematic review and international Delphi consensus report",
+        "EUS-guided confocal laser endomicroscopy: Prediction of dysplasia in intraductal papillary mucinous neoplasms (with video)",
+        "Needle-based confocal laser endomicroscopy for the diagnosis of pancreatic cystic lesions: An international external interobserver and intraobserver study (with videos)",
+        "Accuracy and agreement of a large panel of endosonographers for endomicroscopy-guided virtual biopsy of pancreatic cystic lesions",
+        "Confocal laser endomicroscopy in gastro-intestinal endoscopy: Technical aspects and clinical applications",
+        "Application of Artificial Intelligence in the Management of Pancreatic Cystic Lesions",
+        "Expected value of artificial intelligence in gastrointestinal endoscopy: European Society of Gastrointestinal Endoscopy (ESGE) Position Statement",
+        "Analysis of breast cancer classification robustness with radiomics feature extraction and deep learning techniques",
+        "An Improved African Vulture Optimization Algorithm for Feature Selection Problems and Its Application of Sentiment Analysis on Movie Reviews",
+        "Usefulness of Deep Learning Analysis for the Diagnosis of Malignancy in Intraductal Papillary Mucinous Neoplasms of the Pancreas",
+        "High performance in risk stratification of intraductal papillary mucinous neoplasms by confocal laser endomicroscopy image analysis with convolutional neural networks (with video)",
+        "Needle-based confocal laser endomicroscopy of pancreatic cystic lesions: A prospective multicenter validation study in patients with definite diagnosis",
+        "Face recognition based on texture features using local ternary patterns",
+        "Contrast limited adaptive histogram equalization based enhancement for real time video system",
+        "Very deep convolutional networks for large-scale image recognition",
+        "Automatic brain tumor detection and segmentation using U-Net based fully convolutional networks",
+        "Deep learning for medical image segmentation",
+        "Deep learning for multi-task medical image segmentation in multiple modalities",
+        "Image segmentation with pyramid dilated convolution based on ResNet and U-Net",
+        "Attention U-Net: Learning where to look for the pancreas",
+        "Recurrent residual U-Net for medical image segmentation",
+        "Diagnostic ability of artificial intelligence using deep learning analysis of cyst fluid in differentiating malignant from benign pancreatic cystic lesions",
+        "Classification prediction of pancreatic cystic neoplasms based on radiomics deep learning models",
+        "Training in endoscopic ultrasonography: An Asian perspective",
+        "Comparative Performance of Endoscopic Ultrasound-Based Techniques in Patients With Pancreatic Cystic Lesions: A Network Meta-Analysis",
+        "In vivo characterization of pancreatic cystic lesions by needle-based confocal laser endomicroscopy (nCLE): Proposition of a comprehensive nCLE classification confirmed by an external retrospective evaluation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Taipei",
+            "@id": "60073385",
+            "affilname": "National Taiwan University Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60073385",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "New Taipei City",
+            "@id": "60211913",
+            "affilname": "Taipei Medical University Shuang-Ho Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60211913",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Taipei",
+            "@id": "60022095",
+            "affilname": "Taipei Medical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022095",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Douliou",
+            "@id": "60014261",
+            "affilname": "National Yunlin University of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014261",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Ministry of Science and Technology"
+    ]
+}

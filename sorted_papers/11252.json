@@ -1,0 +1,101 @@
+{
+    "eid": "2-s2.0-85137876029",
+    "title": "An SDN-Coordinated Steering Framework for Multipath Big Data Transfer Application",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Big data",
+        "data transfer",
+        "multipath TCP",
+        "OpenFlow",
+        "OpenFlow network",
+        "overlay network",
+        "software-defined networking"
+    ],
+    "authors": [
+        "Kiattikun Kawila",
+        "Jongwon Kim",
+        "Kultida Rojviboonchai"
+    ],
+    "citedby-count": 0,
+    "ref-count": 44,
+    "ref-list": [
+        "Data-intensive applications, challenges, techniques and technologies: A survey on big data",
+        "Big data: A survey",
+        "Big Data and cloud computing: Innovation opportunities and challenges",
+        "Big data technologies: A survey",
+        "Networking for big data: A survey",
+        "Toward a smart data transfer node",
+        "Leveraging user access patterns and advanced cyberinfras tructure to accelerate data delivery from shared-use scientific observato ries",
+        "A survey on internet multipath routing and provisioning",
+        "Multi-constraintQoS disjointmultipath routing in SDN",
+        "Scalable and efficient multipath routing via redundant trees",
+        "Bandwidth reservation for data transfers through multiple disjoint paths of dynamic HPNs",
+        "Solving the edge disjoint paths problem using a two-stage method",
+        "The disjoint multipath challenge: Multiple disjoint paths guaranteeing scalability",
+        "SDN for MPTCP: An enhanced architecture for large data transfers in datacenters",
+        "An SDN architecture for improving through put of large flows using multipath TCP",
+        "Design of SDN based large multi-tenant data center networks",
+        "An efficient traffic management solu- tion in data center networking using SDN",
+        "Exploiting path diver- sity in datacenters using MPTCP-aware SDN",
+        "Responsive multipath TCP in SDN-based datacenters",
+        "SDN-based data center networking with collaboration of multipath TCP and segment routing",
+        "Improv- ing MPTCP performance by enabling sub-flow selection over a SDN supported network",
+        "On the benefits of using multipath TCP and openflow in shared bottlenecks",
+        "A simple multipath OpenFlow controller using topology-based algorithm for multipath TCP",
+        "An efficient mul- tipath routing algorithm for multipath TCP in software-defined networks",
+        "SFO: SubFlow optimizer for MPTCP in SDN",
+        "Improve MPTCP with SDN: From the perspective of resource pooling",
+        "GCLR: GNN-based cross layer optimization for multipath TCP by routing",
+        "Revisiting congestion control for multipath TCP with shared bottleneck detection",
+        "The past, present, and future of transport-layer multipath",
+        "Software-defined networking: A comprehensive survey",
+        "A survey of software-defined networking: Past, present, and future of programmable networks",
+        "Multipath QUIC: Design and eval- uation",
+        "Multiflow QUIC: A generic multi- path transport protocol",
+        "Exploring network structure, dynamics, and function using NetworkX",
+        "B4: Experience with a globally-deployed software defined WAN",
+        "A note on two problems in connexion with graphs",
+        "Study on the implementation of optical transparent transport networks in the European environment-results of the research project COST 239",
+        "P4: Programming protocol-independent packet processors"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Gwangju",
+            "@id": "60068688",
+            "affilname": "Gwangju Institute of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60068688",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Wireless Network and Future Internet Research Unit",
+        "Chulalongkorn University"
+    ]
+}

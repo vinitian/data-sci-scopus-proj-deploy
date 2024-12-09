@@ -1,0 +1,95 @@
+{
+    "eid": "2-s2.0-85130292611",
+    "title": "Predicting gamma evaluation results of patient-specific head and neck volumetric-modulated arc therapy quality assurance based on multileaf collimator patterns and fluence map features: A feasibility study",
+    "cover-date": "2022-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Radiation",
+            "@code": "3108",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "gamma prediction",
+        "machine learning",
+        "patient-specific VMAT QA"
+    ],
+    "authors": [
+        "Sangutid Thongsawad",
+        "Somyot Srisatit",
+        "Todsaporn Fuangrod"
+    ],
+    "citedby-count": 5,
+    "ref-count": 39,
+    "ref-list": [
+        "Planning, delivery, and quality assurance of intensity-modulated radiotherapy using dynamic multileaf collimator: A strategy for large-scale implementation for the treatment of carcinoma of the prostate",
+        "Treatment planning and delivery of intensity-modulated radiation therapy for primary nasopharynx cancer",
+        "Intensity-modulated radiotherapy in nasopharyngeal carcinoma: Dosimetric advantage over conventional plans and feasibility of dose escalation",
+        "Dose and volume reduction for normal lung using intensity-modulated radiotherapy for advanced-stage non-small-cell lung cancer",
+        "Optimizing breast cancer treatment efficacy with intensity-modulated radiotherapy",
+        "Evaluation of the gamma dose distribution comparison method",
+        "A technique for the quantitative evaluation of dose distributions",
+        "Verification of IMRT: Techniques and problems",
+        "A software tool for the quantitative evaluation of 3D dose calculation algorithms",
+        "Commisioning and quality assurance of treatment planning computers",
+        "On dose distribution comparison",
+        "Per-beam, planar IMRT QA passing rates do not predict clinically relevant patient dose errors",
+        "Moving from gamma passing rates to patient DVH-based QA metrics in pretreatment dose QA",
+        "Tolerance limits and methodologies for IMRT measurement-based verification QA: Recommendations of AAPM Task Group No. 218",
+        "Changes in patterns of intensity-modulated radiotherapy verification and quality assurance in the UK",
+        "Machine learning for patient-specific quality assurance of VMAT: Prediction and classification accuracy",
+        "IMRT QA using machine learning: A multi-institutional validation",
+        "Acceptance tests and quality control (QC) procedures for the clinical implementation of intensity modulated radiotherapy (IMRT) using inverse planning and the sliding window technique: Experience from five radiotherapy departments",
+        "A mathematical framework for virtual IMRT QA using machine learning",
+        "6 VMAT complexity metrics can reduce patient QA workload",
+        "Predicting VMAT patient-specific QA results using a support vector classifier trained on treatment plan characteristics and linac QC metrics",
+        "Use of a quantitative index of beam modulation to characterize dose conformality: Illustration by a comparison of full beamlet IMRT, few-segment IMRT (fsIMRT) and conformal unmodulated radiotherapy",
+        "A new metric for assessing IMRT modulation complexity and plan deliverability",
+        "A study on the correlation between plan complexity and gamma index analysis in patient specific quality assurance of volumetric modulated arc therapy",
+        "Modulation indices for volumetric modulated arc therapy",
+        "Impact of plan parameters on the dosimetric accuracy of volumetric modulated arc therapy",
+        "Correlation between gamma passing rate and complexity of IMRT plan due to MLC position errors",
+        "The effect of MLC speed and acceleration on the plan delivery accuracy of VMAT",
+        "Prediction of VMAT delivery accuracy with textural features calculated from fluence maps",
+        "The effect of MLC speed and acceleration on the plan delivery accuracy of VMAT",
+        "Texture analysis on the edge-enhanced fluence of VMAT",
+        "Statistical process control for radiotherapy quality assurance",
+        "A deep learning-based prediction model for gamma evaluation in patient-specific quality assurance",
+        "On the insensitivity of single field planar dosimetry to IMRT inaccuracies",
+        "Investigation of a real-time EPID-based patient dose monitoring safety system using site-specific control limits",
+        "Investigation of a novel decision support metric for head and neck adaptive radiation therapy using a real-time in vivo portal dosimetry system",
+        "Automatic reconstruction of the delivered dose of the day using MR-linac treatment log files and online MR imaging",
+        "The impact of MLC transmitted radiation on EPID dosimetry for dynamic MLC beams",
+        "Evaluation of IsoCal geometric calibration system for Varian linacs equipped with on-board imager and electronic portal imaging device imaging systems"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022464",
+            "affilname": "Chulabhorn Royal Academy",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022464",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

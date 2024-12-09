@@ -1,0 +1,98 @@
+{
+    "eid": "2-s2.0-85092719255",
+    "title": "Aircraft Detection from Remote Sensing Images using Single Shot Scale-invariant Face Detector with Viridis Saliency Map",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (miscellaneous)",
+            "@code": "2201",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "closing morphological operation",
+        "Otsu's thresholding method",
+        "S 3 FD network",
+        "saliency map",
+        "viridis colormap"
+    ],
+    "authors": [
+        "Teepakorn Lilek",
+        "Nagul Cooharojananone"
+    ],
+    "citedby-count": 1,
+    "ref-count": 18,
+    "ref-list": [
+        "A morphological neural network approach for vehicle detection from high resolution satellite imagery",
+        "A novel object detection approach based on the boundary shape information from high resolution satellite imagery",
+        "Detection of stationary aircrafts from satelitte images",
+        "Automatic target detection in high-resolution remote sensing images using spatial sparse coding bag-of-words model",
+        "Aircraft recognition in high-resolution satellite images using coarse-to-fine shape prior",
+        "Fast aircraft detection in satellite images based on convolutional neural networks",
+        "Aircraft detection by deep convolutional neural networks",
+        "Fast aircraft detection using end-to-end fully convolutional network",
+        "Fast aircraft detection based on region locating network in large-scale remote sensing images",
+        "Rapid airplane detection in remote sensing images based on multilayer feature fusion in fully convolutional neural networks",
+        "A better default colormap for matplotlib",
+        "S3FD: Single shot scale-invariant face detector",
+        "SSD: Single shot multibox detector",
+        "Faster r-cnn: Towards real-time object detection with region proposal networks",
+        "Fast r-cnn",
+        "ImageNet large scale visual recognition challenge",
+        "Understanding the difficulty of training deep feedforward neural networks"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "DPST",
+        "Development and Promotion of Science and Technology Talents Project"
+    ]
+}

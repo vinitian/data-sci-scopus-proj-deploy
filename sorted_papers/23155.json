@@ -1,0 +1,99 @@
+{
+    "eid": "2-s2.0-85149684689",
+    "title": "Status of Industrial Complex Activity Explained by Air Quality: Central Thailand",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "air quality",
+        "business continuity",
+        "COVID-19",
+        "industrial complex",
+        "Thailand",
+        "time series analysis"
+    ],
+    "authors": [
+        "Akira Kodaka",
+        "Natt Leelawat",
+        "Jing Tang",
+        "Yasushi Onda",
+        "Naohiko Kohtake"
+    ],
+    "citedby-count": 0,
+    "ref-count": 9,
+    "ref-list": [
+        "Government COVID-19 Responses and Subsequent Influences on NO2 Variation in Ayutthaya, Thailand",
+        "Monitoring the COVID-19-affected Indonesian seaweed industry using remote sensing data",
+        "Estimation of anthropogenic heat emissions in China using Cubist with points-of-interest and multisource remote sensing data",
+        "Google Earth Engine: Planetary-scale geospatial analysis for everyone",
+        "STL: A seasonal-trend decomposition",
+        "Estimating the dimension of a model",
+        "Influential factors on aerosol change during COVID-19 in Ayutthaya, Thailand",
+        "The Impact of Employee Behavior on Business Continuity at an Industrial Complex",
+        "Trends of tweets on the Coronavirus Disease-2019 (COVID-19) pandemic"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025997",
+            "affilname": "Keio University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025997",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "129279061",
+            "affilname": "Disaster and Risk Management Information Systems Research Unit",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129279061",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Japan Science and Technology Agency",
+        "Japan International Cooperation Agency",
+        "SATREPS"
+    ]
+}

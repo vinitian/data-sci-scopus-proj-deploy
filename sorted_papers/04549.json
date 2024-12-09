@@ -1,0 +1,63 @@
+{
+    "eid": "2-s2.0-85090920685",
+    "title": "Machine reading comprehension on multiclass questions using bidirectional attention flow models with contextual embeddings and transfer learning in thai corpus",
+    "cover-date": "2020-07-17",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "machine reading comprehension",
+        "Natural language processing"
+    ],
+    "authors": [
+        "Theerit Lapchaicharoenkit",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 3,
+    "ref-count": 21,
+    "ref-list": [
+        "Squad: 100, 000+ questions for machine comprehension of text",
+        "Bert: Pre-training of deep bidirectional transformers for language understanding",
+        "Coqa: A conversational question answering challenge",
+        "Technical report on conversational question answering",
+        "A simple but effective method to incorporate multiturn context with bert for conversational machine comprehension",
+        "E3: Entailment-driven extracting and editing for conversational machine reading",
+        "The first wikipedia questions and factoid answers corpus in the Thai language",
+        "A semantic based question answering system for Thailand tourism information",
+        "A broad-coverage challenge corpus for sentence understanding through inference",
+        "A comparative study on various deep learning techniques for Thai nlp lexical and syntactic tasks on noisy data"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "NECTEC"
+    ]
+}

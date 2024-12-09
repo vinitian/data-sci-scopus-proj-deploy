@@ -1,0 +1,113 @@
+{
+    "eid": "2-s2.0-85017431873",
+    "title": "Direct parametric reconstruction in dynamic PET myocardial perfusion imaging: In vivo studies",
+    "cover-date": "2017-04-05",
+    "subject-areas": [
+        {
+            "$": "Radiology",
+            "@code": "2741"
+        },
+        {
+            "$": "Radiological and Ultrasound Technology",
+            "@code": "3614"
+        }
+    ],
+    "keywords": [
+        "direct parametric reconstruction",
+        "dynamic PET",
+        "kinetic modeling",
+        "myocardial perfusion imaging",
+        "parametric imaging",
+        "preconditioned conjugate gradient"
+    ],
+    "authors": [
+        "Yoann Petibon"
+    ],
+    "citedby-count": 10,
+    "ref-count": 62,
+    "ref-list": [
+        null,
+        "J. Am. Coll. Cardiol.",
+        "Nonlinear Programming",
+        "Implementation and evaluation of a 3D one-step late reconstruction algorithm for 3D positron emission tomography brain studies using median root prior",
+        "Experimental and clinical evaluation of iterative reconstruction (OSEM) in dynamic PET: Quantitative characteristics and effects on kinetic modeling",
+        "Comment: The EM parametric image reconstruction algorithm",
+        "Standardized myocardial segmentation and nomenclature for tomographic imaging of the heart: A statement for healthcare professionals from the Cardiac Imaging Committee of the Council on Clinical Cardiology of the American Heart Association",
+        "A scatter calibration technique for dynamic brain imaging in high resolution PET",
+        "A mass conservation-based optical flow method for cardiac motion correction in 3D-PET",
+        "Motion artifacts in oncological and cardiac PET imaging",
+        "A review of partial volume correction techniques for emission tomography and their applications in neurology, cardiology and oncology",
+        "Am. Stat. Assoc.",
+        "Direct em reconstruction of kinetic parameters from list-mode cardiac PET",
+        "Quantitative PET measurements of regional myocardial blood flow: Observations in humans with ischemic heart disease",
+        null,
+        "Bayesian Reconstructions From Emission Tomography Data Using a Modified EM Algorithm",
+        "J. Nucl. Med.",
+        "Parametric imaging of ligand-receptor binding in PET using a simplified reference region model",
+        "A Generalized EM Algorithm for 3-D Bayesian Reconstruction from Poisson Data Using Gibbs Priors",
+        "A Study of Bias for Various Iterative Reconstruction Methods in PET",
+        "Accelerated acquisition of tagged MRI for cardiac motion correction in simultaneous PET-MR: Phantom and patient studies",
+        "Robust Statistics",
+        "Accelerated Image Reconstruction Using Ordered Subsets of Projection Data",
+        null,
+        "Joint parametric reconstruction and motion correction framework for dynamic PET data",
+        "Whole-body direct 4D parametric PET imaging employing nested generalized Patlak expectation-maximization reconstruction",
+        "Quantification of myocardial blood flow and flow reserve: Technical aspects",
+        "Impact of time-of-flight on indirect 3D and direct 4D parametric image reconstruction in the presence of inconsistent dynamic PET data",
+        "Impact of erroneous kinetic model formulation in direct 4D image reconstruction",
+        "Cardiac Positron Emission Tomography: Current Clinical Practice",
+        "Convergence of EM Image Reconstruction Algorithms with Gibbs Smoothing",
+        null,
+        "The direct calculation of parametric images from dynamic PET data using maximum-likelihood iterative reconstruction",
+        "Evaluation of the novel myocardial perfusion positron-emission tomography tracer 18F-BMS-747158-02: Comparison to 13N-ammonia and validation with microspheres in a pig model",
+        "Three-Dimensional Correction for Spillover and Recovery of Myocardial PET Images",
+        "Quantitative simultaneous positron emission tomography and magnetic resonance imaging",
+        "Fully 3-D PET reconstruction with system matrix derived from point source measurements",
+        "Potential utility of rubidium 82 PET quantification in patients with 3-vessel coronary artery disease",
+        "Towards coronary plaque imaging using simultaneous PET-MR: A simulation study",
+        "Relative role of motion and PSF compensation in whole-body oncologic PET-MR imaging",
+        "Cardiac motion compensation and resolution modeling in simultaneous PET-MR: A cardiac lesion detection study",
+        "Iterative reconstruction techniques in emission computed tomography",
+        "Analytic system matrix resolution modeling in PET: An application to Rb-82 cardiac imaging",
+        "Frontiers Biomed. Technol.",
+        "Four-dimensional (4D) image reconstruction strategies in dynamic PET: Beyond conventional independent frame reconstruction",
+        "Direct reconstruction of cardiac PET kinetic parametric images using a preconditioned conjugate gradient approach",
+        "4D image reconstruction for emission tomography",
+        "Cardiac PET imaging for the detection and monitoring of coronary artery disease and microvascular health",
+        "Fast calculation of the exact radiological path for a three dimensional CT array",
+        "Parameter estimation for dynamic studies in emission\u2014tomography systems having list-mode data",
+        "Evaluation of iterative reconstruction (OSEM) versus filtered back-projection for the assessment of myocardial glucose uptake and myocardial perfusion using dynamic PET",
+        "Regularization for uniform spatial resolution properties in penalized-likelihood image reconstruction",
+        "A novel approach for direct reconstruction of parametric images for myocardial blood flow from PET imaging",
+        "Study of direct and indirect parametric estimation methods of linear models in dynamic positron emission tomography",
+        "A survey of approaches for direct parametric image reconstruction in emission tomography",
+        "Generalized algorithms for direct reconstruction of parametric images from dynamic PET data",
+        "Penalized likelihood PET image reconstruction using patch-based edge-preserving regularization",
+        "Direct estimation of kinetic parametric images for dynamic PET",
+        "New, faster, image-based scatter correction for 3D PET",
+        "Noise Properties of Filtered-Backprojection and ML-EM Reconstructed Emission Tomographic Images",
+        "Direct 4-D PET list mode parametric reconstruction with a novel em algorithm",
+        "Will 3-dimensional PET-CT enable the routine quantification of myocardial blood flow?"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Boston",
+            "affilname": "Massachusetts General Hospital",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Boston",
+            "affilname": "Harvard Medical School",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "National Institutes of Health",
+        "National Heart, Lung, and Blood Institute"
+    ]
+}

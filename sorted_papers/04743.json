@@ -1,0 +1,81 @@
+{
+    "eid": "2-s2.0-85065801547",
+    "title": "Grid-based construction site layout planning with Particle Swarm Optimisation and Travel Path Distance",
+    "cover-date": "2020-08-02",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Management Information Systems",
+            "@code": "1404",
+            "@abbrev": "BUSI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Building and Construction",
+            "@code": "2215",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "construction site",
+        "Particle Swarm Optimisation",
+        "Site layout",
+        "spatial planning",
+        "temporary facility"
+    ],
+    "authors": [
+        "Vacharapoom Benjaoran",
+        "Vachara Peansupap"
+    ],
+    "citedby-count": 23,
+    "ref-count": 23,
+    "ref-list": [
+        "ArcSite: enhanced GIS for construction site layout",
+        "New mathematical optimization model for construction site layout",
+        "A multi-objective mixed integer nonlinear programming model for construction site layout planning to minimise noise pollution and transport costs",
+        "EvoSite: evolution-based model for site layout planning",
+        "The application of the ant colony optimization algorithm to the construction site layout planning problem",
+        "Site-level facilities layout using genetic algorithms",
+        "Genetic search for solving construction site-level unequal-area facility layout problems",
+        "A Procedure for quantitatively evaluating site layout alternatives",
+        "Automated facilities layout: past, present and future",
+        "Genetic algorithms for construction site layout in project planning",
+        "Cost\u2013safety trade-off in unequal-area construction site layout planning",
+        "Dynamic construction site layout planning using max-min ant system",
+        "A decision-making system for construction site layout planning",
+        "Floor-level construction material layout planning model considering actual travel path",
+        "A CAD-based model for site planning",
+        "optimal construction site layout considering safety and environmental aspects",
+        "GA-ANN model for optimizing the locations of tower crane and supply points for high-rise public housing construction",
+        "Solve traveling salesman problem using particle swarm optimization algorithm",
+        "Construction-site layout using annealed neural network",
+        "Particle swarm optimization for construction site unequal-area layout",
+        "Genetic algorithm for solving site layout problem with unequal-size and constrained facilities",
+        "Dynamic layout planning using a hybrid incremental solution method"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Ratchasima",
+            "@id": "60026326",
+            "affilname": "Suranaree University of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026326",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Suranaree University of Technology"
+    ]
+}

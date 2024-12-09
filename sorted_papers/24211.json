@@ -1,0 +1,107 @@
+{
+    "eid": "2-s2.0-85138450785",
+    "title": "Unified state boundary surface model for clay and sand under saturated and unsaturated conditions",
+    "cover-date": "2022-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geotechnical Engineering and Engineering Geology",
+            "@code": "1909",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [
+        "Clay",
+        "Constitutive model",
+        "Sand",
+        "State boundary surface",
+        "Unsaturated soil"
+    ],
+    "authors": [
+        "Chortham Srinil",
+        "Veerayut Komolvilas",
+        "Mamoru Kikumoto"
+    ],
+    "citedby-count": 1,
+    "ref-count": 45,
+    "ref-list": [
+        "Numerical analysis of multidimensional consolidation accompanied with elasto-plastic constitutive equation",
+        "Compacted soil behaviour: initial state, structure and constitutive modelling",
+        "An elasto\u2013plastic description of two distinct volume change mechanisms of soils",
+        "A state parameter for sands. A state parameter for sands",
+        "The principle of effective stress",
+        "Critical state plasticity. Part VII: Triggering a shear band in variably saturated porous media",
+        "Hydraulic properties of porous media",
+        "A state-dependent elasto-plastic model for saturated and unsaturated soils",
+        "Anatomy of rotational hardening in clay plasticity",
+        "The shear strength of partly saturated soils",
+        "Unsaturated soil mechanics in engineering practice",
+        "Soil mechanics for unsaturated soils",
+        "A kinematic hardening constitutive model for sands: the multiaxial formulation",
+        "A coupled hydro-mechanical constitutive model for unsaturated frictional and cohesive soil",
+        "Research on the prediction methods for the mechanical behaviours of unsaturated soils",
+        "A novel hysteresis model in unsaturated soil",
+        "Limitations to the use of effective stresses in partly saturated soils",
+        "A novel implicit coupled hydro\u2013mechanical SPFEM approach for modelling of delayed failure of cut slope in soft sensitive clay",
+        "Deformation characteristics of a compacted clay in collapse under isotropic and triaxial stress state",
+        "Comprehensive modeling of the water retention curve considering the influences of suction histories, void ratio and temperature",
+        "A simple elasto-plastic model for unsaturated soils and interpretations of collapse and compaction behaviours",
+        "Simulation of liquefaction of unsaturated soil using critical state soil model",
+        "Mechanism of wetting\u2013induced deformation and failure of unsaturated soils",
+        "Shear strength behavior of compacted unsaturated residual soil",
+        "Preparation of fully saturated models for liquefaction study",
+        "A conceptual constitutive model unifying slurried (saturated), compacted (unsaturated) and dry states",
+        "On the generalized stress\u2013strain behaviour of wet clay",
+        "On The Yielding of Soils",
+        "Thermo-plasticity and strain localization in transversely isotropic materials based on anisotropic critical state plasticity",
+        "A critical state framework for unsaturated soil",
+        "A hierarchical thermo\u2013hydro\u2013plastic constitutive model for unsaturated soils and its numerical implementation",
+        "Collapse behavior of compacted clays in suction-controlled triaxial tests",
+        "Collapse behaviour of unsaturated compacted soil with different initial densities",
+        "SANISAND: simple anisotropic sand plasticity model",
+        "Coupling of hydraulic and mechanical behaviour in unsaturated compacted clay",
+        "Hysteretic moisture characteristics and hydraulic conductivities for glass-bead media",
+        "Liquefaction of unsaturated sand considering the pore air pressure and volume compressibility of the soil particle skeleton",
+        "A closed-form equation for predicting the hydraulic conductivity of unsaturated soils",
+        "A unified constitutive model for both clay and sand with hardening parameter independent on stress path",
+        "CASM: a unified state parameter model for clay and sand",
+        "Hydromechanical modeling of solid deformation and fluid flow in the transversely isotropic fissured rocks",
+        "On the strength of transversely isotropic rocks: On the strength of transversely isotropic rocks",
+        "An advanced hydro-mechanical constitutive model for unsaturated soils with different initial densities"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ladkrabang Bangkok",
+            "@id": "60021543",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021543",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Yokohama",
+            "@id": "60018279",
+            "affilname": "Yokohama National University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018279",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Office of the Permanent Secretary",
+        "JSPS",
+        "MEXT",
+        "Ministry of Higher Education, Science, Research and Innovation"
+    ]
+}

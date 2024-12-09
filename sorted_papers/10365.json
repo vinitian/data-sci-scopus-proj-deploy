@@ -1,0 +1,134 @@
+{
+    "eid": "2-s2.0-85140324265",
+    "title": "Single-Cell Transcriptomic Profiling of Human Dental Pulp in Sound and Carious Teeth: A Pilot Study",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Dentistry (miscellaneous)",
+            "@code": "3501",
+            "@abbrev": "DENT"
+        },
+        {
+            "@_fa": "true",
+            "$": "Dental Assisting",
+            "@code": "3502",
+            "@abbrev": "DENT"
+        },
+        {
+            "@_fa": "true",
+            "$": "Dental Hygiene",
+            "@code": "3503",
+            "@abbrev": "DENT"
+        },
+        {
+            "@_fa": "true",
+            "$": "Periodontics",
+            "@code": "3506",
+            "@abbrev": "DENT"
+        }
+    ],
+    "keywords": [
+        "caries",
+        "cell-cell interactions",
+        "dental pulp",
+        "immune responses",
+        "regenerative dentistry",
+        "single-cell transcriptomics"
+    ],
+    "authors": [
+        "Anunya Opasawatchai",
+        "Sarintip Nguantad",
+        "Benjamaporn Sriwilai",
+        "Ponpan Matangkasombut",
+        "Oranart Matangkasombut",
+        "Ratchapin Srisatjaluk",
+        "Varodom Charoensawan"
+    ],
+    "citedby-count": 5,
+    "ref-count": 46,
+    "ref-list": [
+        "Dental pulp defence and repair mechanisms in dental caries",
+        "Inflammatory response mechanisms of the dentine\u2013pulp complex and the periapical tissues",
+        "Success rate of endodontic treatment of teeth with vital and nonvital pulps. A meta-analysis",
+        "Vital pulp therapy an insight over the available literature and future expectations",
+        "Repair and regeneration in endodontics",
+        "Interactions between immune system and mesenchymal stem cells in dental pulp and periapical tissues",
+        "Immunophenotyping reveals the diversity of human dental pulp mesenchymal stromal cells in vivo and their evolution upon in vitro amplification",
+        "Phenotypic identification of dental pulp mesenchymal stem/stromal cells subpopulations with multiparametric flow cytometry",
+        "Flow cytometric analysis of human dental pulp tissue",
+        "Phenotypic analysis of immunocompetent cells in healthy human dental pulp",
+        "A study of T and B cells in pulpal pathosis",
+        "Characterization of inflammatory cell infiltrate in human dental pulpitis",
+        "Gene expression profiling of pulpal tissue reveals the molecular complexity of dental caries",
+        "Dental cell type atlas reveals stem and differentiated cell types in mouse and human teeth",
+        "A single-cell atlas of human teeth",
+        "Transcriptomic profiling of dental pulp pericytes: an RNAseq approach",
+        "Identification, isolation, characterization, and banking of human dental pulp stem cells",
+        "SoupX removes ambient RNA contamination from droplet-based single-cell RNA sequencing data",
+        "DoubletFinder: doublet detection in single-cell RNA sequencing data using artificial nearest neighbors",
+        "Dimensionality reduction for visualizing single-cell data using UMAP",
+        "Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2",
+        "Predicting cell-to-cell communication networks using NATMI",
+        "Human bone marrow assessment by single-cell RNA sequencing, mass cytometry, and flow cytometry",
+        "Mesenchymal stem cells derived from dental pulp: a review",
+        "The role of osteomodulin on osteo/odontogenic differentiation in human dental pulp stem cells",
+        "Odontoblast control of dental pulp inflammation triggered by cariogenic bacteria",
+        "Cytokine production by human odontoblast-like cells upon Toll-like receptor-2 engagement",
+        "Alpha 1-antichymotrypsin",
+        "Apolipoprotein E suppresses the type I inflammatory response in vivo",
+        "Novel SCRG1/BST1 axis regulates self-renewal, migration and osteogenic differentiation potential in mesenchymal stem cells",
+        "Immunoregulatory effects of human dental pulp-derived stem cells on T cells: comparison of transwell co-culture and mixed lymphocyte reaction systems",
+        "CXCL14 antagonizes the CXCL12-CXCR4 signaling axis",
+        "Role of MIF Cytokine/CD74 receptor pathway in protecting against injury and promoting repair",
+        "Cytokine functions of TIMP-1",
+        "Odontoblastic exosomes attenuate apoptosis in neighboring cells",
+        "Atypical chemokine receptors and their roles in the resolution of the inflammatory response",
+        "Hematopoietic stem cells and their roles in tissue regeneration",
+        "Macrophage modulation of dental pulp stem cell activity during tertiary dentinogenesis",
+        "TIMP-1 inhibits proliferation and osteogenic differentiation of hBMSCs through Wnt/\u03b2-catenin signaling",
+        "Multimodal single-cell characterization of the human granulocyte lineage",
+        "Pulp capping materials exert an effect on the secretion of IL-1\u03b2 and IL-8 by migrating human neutrophils",
+        "Neutrophil extracellular traps exert potential cytotoxic and proinflammatory effects in the dental pulp",
+        "Seq-Well: portable, low-cost RNA sequencing of single cells at high throughput"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60012718",
+            "affilname": "Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012718",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60276477",
+            "affilname": "Laboratory of Biotechnology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60276477",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60091468",
+            "affilname": "Mahidol University, Faculty of Dentistry",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091468",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "DPST",
+        "Development and Promotion of Science and Technology Talents Project",
+        "Mahidol University Faculty of Dentistry",
+        "Royal Society",
+        "Mahidol University",
+        "Thailand Research Fund",
+        "National Research Council of Thailand"
+    ]
+}

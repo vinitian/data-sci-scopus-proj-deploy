@@ -1,0 +1,50 @@
+{
+    "eid": "2-s2.0-85045872589",
+    "title": "CBCT quality assurance",
+    "cover-date": "2018-01-04",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Medicine (all)",
+            "@code": "2700",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Dentistry (all)",
+            "@code": "3500",
+            "@abbrev": "DENT"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Ruben Pauwels"
+    ],
+    "citedby-count": 2,
+    "ref-count": 10,
+    "ref-list": [
+        "Radiological protection in Cone Beam Computed Tomography (CBCT)",
+        "Quantification of metal artifacts on cone beam computed tomography images",
+        "Automated implant segmentation in cone-beam CT using edge detection and particle counting",
+        "A pragmatic approach to determine the optimal kVp in cone beam CT: balancing contrast-to-noise ratio and radiation dose",
+        "CBCT-based bone quality assessment: are Hounsfield units applicable?",
+        "Optimization of dental CBCT exposures through mAs reduction"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Leuven",
+            "@id": "60121202",
+            "affilname": "Departement Beeldvorming &amp; Pathologie",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60121202",
+            "affiliation-country": "Belgium"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

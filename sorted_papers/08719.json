@@ -1,0 +1,81 @@
+{
+    "eid": "2-s2.0-85112351709",
+    "title": "Mass-ratio-variance based Outlier Factor",
+    "cover-date": "2021-06-30",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "density-based outlier factor",
+        "Mass-ratio-variance",
+        "outlier factor",
+        "parameter- free method"
+    ],
+    "authors": [
+        "Phichapop Changsakul",
+        "Somjai Boonsiri",
+        "Krung Sinapiromsaran"
+    ],
+    "citedby-count": 2,
+    "ref-count": 16,
+    "ref-list": [
+        "Outlier detection",
+        "A survey of outlier detection methodologies",
+        "A survey of network anomaly detection techniques",
+        "LOF: Identifying density-based local outliers",
+        "Outlier detection score based on ordered distance difference",
+        "Weighted minimum consecutive pair of the extreme pole outlier factor",
+        "Parameter- free outlier scoring algorithm using the acute angle order difference distance",
+        "Nearest-neighbor and clustering based anomaly detection algorithms for rapidminer",
+        "Anomaly detection: A survey",
+        "Fast outlier detection in high dimensional spaces",
+        "Enhancing effectiveness of outlier detections for low density patterns",
+        "Loci: Fast outlier detection using the local correlation integral",
+        "Discovering cluster-based local outliers",
+        "Angle-based outlier detection in high-dimensional data",
+        "Theoretical foundations and algorithms for outlier ensembles"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

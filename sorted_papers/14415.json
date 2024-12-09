@@ -1,0 +1,107 @@
+{
+    "eid": "2-s2.0-85134149674",
+    "title": "PSI from Ring-OLE",
+    "cover-date": "2022-11-07",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "private set intersection",
+        "psi-sum",
+        "ring-ole"
+    ],
+    "authors": [
+        "Wutichai Chongchitmate",
+        "Yuval Ishai",
+        "Steve Lu",
+        "Rafail Ostrovsky"
+    ],
+    "citedby-count": 2,
+    "ref-count": 43,
+    "ref-list": [
+        "Polynomial Representation Is Tricky: Maliciously Secure Private Set Intersection Revisited",
+        "Efficient Protocols for Oblivious Linear Function Evaluation from Ring-LWE",
+        "Efficient Pseudorandom Correlation Generators: Silent OT Extension and More",
+        "Efficient Pseudorandom Correlation Generators from Ring-LPN",
+        "Private Set Intersection in the Internet Setting from Lightweight Oblivious PRF",
+        "Combining private set-intersection with secure two-party computation",
+        "Linear-complexity private set intersection protocols secure in malicious model",
+        "Catalic: Delegated psi cardinality with applications to contact tracing",
+        "A Randomized Protocol for Signing Contracts",
+        "Keyword Search and Oblivious Pseudorandom Functions",
+        "Efficient Private Matching and Set Intersection",
+        "Oblivious key-value stores and amplification for private set intersection",
+        "Privacy-preserving distributed linear regression on high-dimensional data",
+        "Maliciously secure oblivious linear function evaluation with constant overhead",
+        "An Algebraic Approach to Maliciously Secure Private Set Intersection",
+        "Two Party RSA Key Generation",
+        "Probabilistic encryption",
+        "Highly efficient ot-based multiplication protocols",
+        "LevioSA: Lightweight Secure Arithmetic Computation",
+        "Private Set Intersection: Are Garbled Circuits Better than Custom Protocols",
+        "On deploying secure computing: Private intersection-sum-with-cardinality",
+        "Extending Oblivious Transfers Efficiently",
+        "Secure arithmetic computation with no honest majority",
+        "GAZELLE: A Low Latency Framework for Secure Neural Network Inference",
+        "MASCOT: faster malicious arithmetic secure computation with oblivious transfer",
+        "Private set intersection for unequal set sizes with mobile applications",
+        "Privacy-preserving set operations",
+        "Efficient batched oblivious PRF with applications to private set intersection",
+        "A more efficient cryptographic matchmaking protocol for use in the absence of a continuously available third party",
+        "Two-sided malicious security for private intersection-sum with cardinality",
+        "Fast Database Joins and PSI for Secret Shared Data",
+        "Oblivious transfer and polynomial evaluation",
+        "SpOT-Light: Lightweight Private Set Intersection from Sparse OT Extension",
+        "PSI from PaXoS: Fast, Malicious Private Set Intersection",
+        "Efficient Circuit-Based PSI with Linear Communication",
+        "Improved private set intersection against malicious adversaries",
+        "Malicious-secure private set intersection via dual execution",
+        "VOLE-PSI: Fast OPRF and Circuit-PSI from Vector-OLE",
+        "Compact and Malicious Private Set Intersection for Small Sets",
+        "On the power of commutativity in cryptography"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Los Angeles",
+            "@id": "60027550",
+            "affilname": "University of California, Los Angeles",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027550",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Haifa",
+            "@id": "60022403",
+            "affilname": "Technion - Israel Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022403",
+            "affiliation-country": "Israel"
+        }
+    ],
+    "funding": [
+        "NTSC",
+        "US-Israel BSF",
+        "NSF",
+        "DARPA",
+        "IBM",
+        "Google",
+        "ERC",
+        "ISF"
+    ]
+}

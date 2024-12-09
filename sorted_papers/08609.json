@@ -1,0 +1,98 @@
+{
+    "eid": "2-s2.0-85075960356",
+    "title": "Uncovering thousands of new peptides with sequence-mask-search hybrid de novo peptide sequencing framework",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analytical Chemistry",
+            "@code": "1602",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Korrawe Karunratanakul",
+        "Hsin Yao Tang",
+        "David W. Speicher",
+        "Ekapol Chuangsuwanich",
+        "Sira Sriswasdi"
+    ],
+    "citedby-count": 23,
+    "ref-count": 36,
+    "ref-list": [
+        "A potential golden age to come - Current tools, recent use cases, and future avenues for de novo sequencing in proteomics",
+        "A large fraction of HLA class I ligands are proteasome-generated spliced peptides",
+        "A subset of HLA-I peptides are not genomically templated: Evidence for cis- And transspliced peptide ligands",
+        "Estimating the contribution of proteasomal spliced peptides to the HLA-I ligandome",
+        "Noncoding regions are the main source of targetable tumor-specific antigens",
+        "De novo peptide sequencing by deep learning",
+        "PepNovo: De novo peptide sequencing via probabilistic network modeling",
+        "PEAKS: Powerful software for peptide de novo sequencing by tandem mass spectrometry",
+        "Novor: Real-time peptide de novo sequencing software",
+        "Deep learning enables de novo peptide sequencing from data-independent-acquisition mass spectrometry",
+        "De Novo Sequencing and Homology Searching",
+        "Sequence to sequence learning with neural networks",
+        "Error-tolerant identification of peptides in sequence databases by peptide sequence tags",
+        "Searching sequence databases via de novo peptide sequencing by tandem mass spectrometry",
+        "The immune epitope database (IEDB) 3.0",
+        "MaxQuant enables high peptide identification rates, individualized p.p.b.-range mass accuracies and proteome-wide protein quantification",
+        "Mass spectrometry profiling of HLA-associated peptidomes in mono-allelic cells enables more accurate epitope prediction",
+        "Highthroughput and high-sensitivity phosphoproteomics with the EasyPhos platform",
+        "Building ProteomeTools based on a complete synthetic human proteome",
+        "A crossplatform toolkit for mass spectrometry and proteomics",
+        "Show and tell: A neural image caption generator",
+        "Deep residual learning for image recognition",
+        "Focal loss for dense object detection",
+        "UniProt: A worldwide hub of protein knowledge",
+        "NetMHCpan-4.0: Improved peptide-MHC class I interaction predictions integrating eluted ligand and peptide binding affinity data",
+        "WebLogo: A sequence logo generator",
+        "Reference sequence (RefSeq) database at NCBI: Current status, taxonomic expansion, and functional annotation",
+        "HISAT: A fast spliced aligner with low memory requirements",
+        "The Genome Analysis Toolkit: A MapReduce framework for analyzing next-generation DNA sequencing data",
+        "PhosphoSitePlus, 2014: Mutations, PTMs and recalibrations",
+        "PDV: An integrative proteomics data viewer",
+        "Prosit: Proteome-wide prediction of peptide tandem mass spectra by deep learning"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Philadelphia",
+            "@id": "60010803",
+            "affilname": "The Wistar Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010803",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Biowulf cluster",
+        "Center of Excellence for Medical Genomics",
+        "Chulalong-korn University",
+        "Chulalongkorn Academic Advancement",
+        "E.C.",
+        "Proteomics and Metabolomics Core Facility at The Wistar Institute",
+        "Ratchadapisek Sompoch Endowment Fund",
+        "National Institute of Health",
+        "NVIDIA Corporation",
+        "Chulalongkorn University",
+        "Faculty of Medicine, Chulalongkorn University"
+    ]
+}

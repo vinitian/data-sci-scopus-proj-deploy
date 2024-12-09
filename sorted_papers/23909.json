@@ -1,0 +1,60 @@
+{
+    "eid": "2-s2.0-84988222747",
+    "title": "SCFTL: An efficient caching strategy for page-level flash translation layer",
+    "cover-date": "2014-01-01",
+    "subject-areas": [],
+    "keywords": [
+        "Cache",
+        "Flash memory",
+        "Flash translation layer",
+        "Replacement policy",
+        "Spatial locality"
+    ],
+    "authors": [
+        "Peera Thontirawong"
+    ],
+    "citedby-count": 3,
+    "ref-count": 25,
+    "ref-list": [
+        "Flash File System",
+        "Flash File System Optimized for Page-mode Flash Technologies",
+        "A survey of address translation technologies for flash memories",
+        "A Log Buffer-Based Flash Translation Layer Using Fully-Associative Sector Translation",
+        "A superblock-based flash translation layer for NAND flash memory",
+        "LAST: Locality-aware sector translation for NAND flash memory-based storage systems",
+        "BLog: Block-level log-block management for NAND Flash memory storage systems",
+        "MNFTL: An efficient flash translation layer for MLC NAND flash memory storage systems",
+        "DFTL: A flash translation layer employing demand-based caching of page-level address mappings",
+        "CFTL: A Convertible Flash Translation Layer adaptive to data access patterns",
+        "S-FTL: An efficient address translation for flash memory by exploiting spatial locality",
+        "A two-level caching mechanism for demand-based page-level address mapping in NAND flash memory storage systems",
+        "LazyFTL: A page-level flash translation layer optimized for NAND flash memory",
+        "A caching-oriented management design for the performance enhancement of solid-state drives",
+        "CAST: A page-level FTL with compact address mapping and parallel data blocks",
+        "Flash Memory Summit",
+        "High performance cache replacement using re-reference interval prediction (RRIP)",
+        "CFLRU: A replacement algorithm for flash memory",
+        "LRU-WSR: Integration of LRU and writes sequence reordering for flash memory",
+        "What is a good buffer cache replacement scheme for mobile flash storage?",
+        "UltraSPARC T2\u2122 Supplement to the UltraSPARC Architecture 2007",
+        "MT29F64G08C",
+        "FlashSim: A simulator for NAND Flash-based solid-state drives",
+        "SPC Traces",
+        "Write off-loading: Practical power management for enterprise storage"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Amphoe Khlong Luang",
+            "affilname": "Asian Institute of Technology Thailand",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Thailand Research Fund"
+    ]
+}

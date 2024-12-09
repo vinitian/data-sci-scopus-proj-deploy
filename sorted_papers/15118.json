@@ -1,0 +1,78 @@
+{
+    "eid": "2-s2.0-85091835800",
+    "title": "Electric Field Analysis of the 230 kV AC Transmission Line System for an Limited Area",
+    "cover-date": "2020-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "composite insulators",
+        "corona rings",
+        "electric field",
+        "field grading rings",
+        "finite element method"
+    ],
+    "authors": [
+        "P. Kranoongon",
+        "B. Techaumnat"
+    ],
+    "citedby-count": 1,
+    "ref-count": 7,
+    "ref-list": [
+        "Electric field behavior near a contact point in the presence of volume conductivity",
+        "Field behavior at a triple junction in composite dielectric arrangements",
+        "Optimal design of corona ring on hv composite insulator using pso approach with dynamic population size",
+        "380 kv corona ring optimization for ac voltages",
+        "Three dimensional fem electrical field calculations for ehv composite insulator strings",
+        "Potential distribution computation and structure optimization for composite cross-arm in 750 kv ac transmission line"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

@@ -1,0 +1,73 @@
+{
+    "eid": "2-s2.0-85098527660",
+    "title": "Facial image verification for government kiosk system",
+    "cover-date": "2020-11-04",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Digital",
+        "Face verification",
+        "Kiosk System",
+        "Microservice architecture",
+        "MobileNet",
+        "ResNet50"
+    ],
+    "authors": [
+        "Srirath Sawetsutipun",
+        "Thananop Kobchaisawat",
+        "Thanarat H. Chalidabhongse"
+    ],
+    "citedby-count": 1,
+    "ref-count": 22,
+    "ref-list": [
+        "Challenges in e-government development: Lessons from two information kiosk projects",
+        "A simple model and a distributed architecture for realizing one-stop e-government",
+        "Microservices: A systematic mapping study",
+        "Benchmark requirements for microservices architecture research",
+        "Microservice ambients: An architectural meta-modelling approach for microservice granularity",
+        "AngularJS in the wild: A survey with 460 developers",
+        "Microservices in practice: A survey study",
+        "Rapid object detection using a boosted cascade of simple features",
+        "Dlib-mL: A machine learning toolkit",
+        "Deep residual learning for image recognition",
+        "Efficient Convolutional Neural Networks for mobile vision applications"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

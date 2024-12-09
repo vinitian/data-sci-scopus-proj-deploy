@@ -1,0 +1,85 @@
+{
+    "eid": "2-s2.0-85138036804",
+    "title": "Discrete-time risk models with surplus-dependent premium corrections",
+    "cover-date": "2023-01-15",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Bonus-malus system",
+        "Discrete-time risk model",
+        "Finite-time ruin",
+        "Parisian ruin",
+        "Recursive computation",
+        "Surplus-dependent premiums"
+    ],
+    "authors": [
+        "Dhiti Osatakul",
+        "Shuanming Li",
+        "Xueyuan Wu"
+    ],
+    "citedby-count": 0,
+    "ref-count": 28,
+    "ref-list": [
+        "Calculating continuous time ruin probabilities for a large portfolio with varying premiums",
+        "Numerical evaluation of continuous time ruin probabilities for a portfolio with credibility updated premiums",
+        "Measuring the impact of a bonus-malus system in finite and continuous time ruin probabilities for large portfolios in motor insurance",
+        "Ruin probabilities and capital requirement for open automobile portfolios with a bonus-malus system based on claim counts",
+        "Exact and asymptotic results for insurance risk models with surplus-dependent premiums",
+        "Ruin probabilities with dependence on the number of claims within a fixed time window",
+        "Parisian ruin probability with a lower ultimate bankrupt barrier",
+        "Ruin probability with parisian delay for a spectrally negative l\u00e9vy risk process",
+        "Discrete time ruin probability with parisian delay",
+        "Parisian ruin with exponential claims. working papers",
+        "Distributions stationnaires d'un syst\u00e8me bonus-malus et probabilit\u00e9 de ruine",
+        "An insurance risk model with parisian implementation delays",
+        "Risk models with premiums adjusted to claims number",
+        "A temporal approach to the parisian risk model",
+        "Optimal dividend-penalty strategies for insurance risk models with surplus-dependent premiums",
+        "A risk model with varying premiums: its risk management implications",
+        "Minimizing the discounted probability of exponential parisian ruin via reinsurance",
+        "Parisian ruin probability for spectrally negative l\u00e9vy processes",
+        "On the optimal dividend problem for insurance risk models with surplus-dependent premiums",
+        "On the optimal dividend problem in the dual model with surplus-dependent premiums",
+        "Discrete-time risk models with claim correlated premiums in a markovian environment",
+        "Parisian ruin for the dual risk process in discrete-time",
+        "Parisian excursion with capital injection for draw-down reflected l\u00e9vy insurance risk process",
+        "Ultimate ruin probability in discrete time with b\u00fchlmann credibility premium adjustments",
+        "A note on ruin in a two state markov model",
+        "Time in the red in a two state markov model",
+        "Draw-down parisian ruin for spectrally negative l\u00e9vy processes",
+        "On a discrete-time risk model with claim correlated premiums"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199583",
+            "affilname": "Chulalongkorn Business School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199583",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Melbourne",
+            "@id": "60118505",
+            "affilname": "Faculty of Business and Economics",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60118505",
+            "affiliation-country": "Australia"
+        }
+    ],
+    "funding": [
+        "Faculty of Business and Economics",
+        "University of Melbourne",
+        "Chulalongkorn University"
+    ]
+}

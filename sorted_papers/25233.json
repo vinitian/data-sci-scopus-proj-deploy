@@ -1,0 +1,77 @@
+{
+    "eid": "2-s2.0-85133331171",
+    "title": "Thai Tokenizer Invariant Classification Based on Bi-LSTM and DistilBERT Encoders",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Bi-LSTM Encoder",
+        "DistilBERT Encoder",
+        "Sentiment Classification",
+        "Thai Word Boundaries",
+        "Triplet Hard Loss"
+    ],
+    "authors": [
+        "Noppadol Kongsumran",
+        "Suphakant Phimoltares",
+        "Sasipa Panthuwadeethorn"
+    ],
+    "citedby-count": 1,
+    "ref-count": 8,
+    "ref-list": [
+        "Siamese neural networks for one-shot image recognition",
+        "Facenet: A unified embedding for face recognition and clustering",
+        "Random features for large-scale kernel machines",
+        "Attention is all you need"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

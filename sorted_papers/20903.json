@@ -1,0 +1,204 @@
+{
+    "eid": "2-s2.0-85137936362",
+    "title": "Comparative Analysis of the Optimized KNN, SVM, and Ensemble DT Models Using Bayesian Optimization for Predicting Pedestrian Fatalities: An Advance towards Realizing the Sustainable Safety of Pedestrians",
+    "cover-date": "2022-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geography, Planning and Development",
+            "@code": "3305",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Building and Construction",
+            "@code": "2215",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Environmental Science (miscellaneous)",
+            "@code": "2301",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Management, Monitoring, Policy and Law",
+            "@code": "2308",
+            "@abbrev": "ENVI"
+        }
+    ],
+    "keywords": [
+        "Bayesian optimization algorithm",
+        "hyperparameters",
+        "road-crash-related pedestrian fatalities",
+        "sustainable safety of pedestrians"
+    ],
+    "authors": [
+        "Lei Yang",
+        "Mahdi Aghaabbasi",
+        "Mujahid Ali",
+        "Amin Jan",
+        "Belgacem Bouallegue",
+        "Muhammad Faisal Javed",
+        "Nermin M. Salem"
+    ],
+    "citedby-count": 4,
+    "ref-count": 66,
+    "ref-list": [
+        "Pedestrian crash trends and potential countermeasures from around the world",
+        "Modelling bus-pedestrian crash severity in the state of Victoria, Australia",
+        "Pedestrian crash risk in Western Australia for both pedestrians and drivers",
+        "Crash data quality for road safety research: Current state and future directions",
+        "Analytic methods in accident research: Methodological frontier and future directions",
+        "A latent class analysis of single-vehicle motorcycle crash severity outcomes",
+        "Pedestrian crash analysis with latent class clustering method",
+        "Predicting the use frequency of ride-sourcing by off-campus university students through random forest and Bayesian network techniques",
+        "Classification of Imbalanced Travel Mode Choice to Work Data Using Adjustable SVM Model",
+        "Investigating the Use of Active Transportation Modes among University Employees through an Advanced Decision Tree Algorithm",
+        "The Influence of COVID-19-Induced Daily Activities on Health Parameters\u2014A Case Study in Malaysia",
+        "Travel behaviour and health: Interaction of Activity-Travel Pattern, Travel Parameter and Physical Intensity",
+        "Time-Use and Spatio-Temporal Variables Influence on Physical Activity Intensity, Physical and Social Health of Travelers",
+        "Hybrid Bayesian Network Models to Investigate the Impact of Built Environment Experience before Adulthood on Students\u2019 Tolerable Travel Time to Campus: Towards Sustainable Commute Behavior",
+        "Self-adaptive differential evolution algorithm with crossover strategies adaptation and its application in parameter estimation",
+        "Factors influencing injury severity of motor vehicle\u2013crossing pedestrian crashes in rural Connecticut",
+        "Accident severity analysis using ordered probit model",
+        "Pedestrian injury severity in automobile crashes",
+        "Inconsistencies of ordered and unordered probability models for pedestrian injury severity",
+        "Evaluating alternate discrete outcome frameworks for modeling crash injury severity",
+        "Diagnostic analysis of the logistic model for pedestrian injury severity in traffic crashes",
+        "Traffic safety in an aging society: Analysis of older pedestrian crashes",
+        "Analyzing fault in pedestrian\u2013motor vehicle crashes in North Carolina",
+        "A multinomial logit model of pedestrian\u2013vehicle crash severity",
+        "Multinomial logit model of pedestrian crossing behaviors at signalized intersections",
+        "Modeling pedestrian injury severity in pedestrian-vehicle crashes in rural and urban areas: Mixed logit model approach",
+        "A note on modeling pedestrian-injury severity in motor-vehicle crashes with the mixed logit model",
+        "Analyzing pedestrian crash injury severity at signalized and non-signalized locations",
+        "Injury severity of pedestrians involved in road traffic crashes in Addis Ababa, Ethiopia",
+        "Urban street pattern and pedestrian traffic safety",
+        "Partial proportional odds model\u2014An alternate choice for analyzing pedestrian crash injury severities",
+        "A partial proportional odds model for pedestrian crashes at mid-blocks in Melbourne metropolitan area",
+        "Modelling severity of pedestrian-injury in pedestrian-vehicle crashes with latent class clustering and partial proportional odds model: A case study of North Carolina",
+        "Pedestrian injury severities in pedestrian-vehicle crashes and the partial proportional odds logit model: Accounting for age difference",
+        "Data mining of tree-based models to analyze freeway accident frequency",
+        "A decentralized network level adaptive signal control algorithm by deep reinforcement learning",
+        "Analyse vehicle-pedestrian crash severity at intersection with data mining techniques",
+        "Application of machine learning tools in classifying pedestrian crash types: A case study",
+        "Non-linear effects of the built environment on automobile-involved pedestrian crash frequency: A machine learning approach",
+        "Older pedestrian traffic crashes severity analysis based on an emerging machine learning XGBoost",
+        "A Time of Day Analysis of Pedestrian-Involved Crashes in California: Investigation of Injury Severity, a Logistic Regression and Machine Learning Approach Using HSIS Data",
+        "Spatial and temporal distribution of pedestrian crashes in Melbourne metropolitan area",
+        "Injury severity of pedestrian and bicyclist crashes involving large trucks",
+        "Use of a model-based gradient boosting framework to assess spatial and non-linear effects of variables on pedestrian crash frequency at macro-level",
+        "An Advanced Machine Learning Approach to Predicting Pedestrian Fatality Caused by Road Crashes: A Step toward Sustainable Pedestrian Safety",
+        "Adjusting the imbalance ratio by the dimensionality of imbalanced data",
+        "Fault detection and identification with a new feature selection based on mutual information",
+        "Injury severity analysis of pedestrian and bicyclist trespassing crashes at non-crossings: A hybrid predictive text analytics and heterogeneity-based statistical modeling approach",
+        "Landslide hazard assessment based on Bayesian optimization\u2013support vector machine in Nanping City, China",
+        "Estimation and optimization of tool wear in conventional turning of 709M40 alloy steel using support vector machine (SVM) with Bayesian optimization",
+        "A credit risk assessment on borrowers classification using optimized decision tree and KNN with bayesian optimization",
+        "A boosted decision tree approach using Bayesian hyper-parameter optimization for credit scoring",
+        "Automated analysis and classification of melanocytic tumor on skin whole slide images",
+        "Computerized classification of prostate cancer gleason scores from whole slide images",
+        "GSA: A gravitational search algorithm",
+        "Flower pollination algorithm: A comprehensive review",
+        "It cannot be all about safety: The benefits of prolonged mobility",
+        "Gender and age differences in components of traffic-related pedestrian death rates: Exposure, risk of crash and fatality rate",
+        "Influence of pedestrian age and gender on spatial and temporal distribution of pedestrian crashes",
+        "Driving speed and the risk of road crashes: A review",
+        "Injury severity of bus\u2013pedestrian crashes in South Korea considering the effects of regional and company factors",
+        "Using bus critical driving events as surrogate safety measures for pedestrian and bicycle crashes based on GPS trajectory data"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "New Cairo",
+            "@id": "60273396",
+            "affilname": "Faculty of Engineering &amp; Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60273396",
+            "affiliation-country": "Egypt"
+        },
+        {
+            "affiliation-city": "Abbottabad",
+            "@id": "60212763",
+            "affilname": "COMSATS University Islamabad, Abbottabad Campus",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60212763",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Monastir",
+            "@id": "60091646",
+            "affilname": "Facult\u00e9 des Sciences de Monastir",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091646",
+            "affiliation-country": "Tunisia"
+        },
+        {
+            "affiliation-city": "Pengkalan Chepa",
+            "@id": "60090705",
+            "affilname": "Universiti Malaysia Kelantan",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60090705",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Abha",
+            "@id": "60027741",
+            "affilname": "King Khalid University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027741",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Seri Iskandar",
+            "@id": "60001278",
+            "affilname": "Universiti Teknologi PETRONAS",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001278",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Luliang",
+            "@id": "128236123",
+            "affilname": "Lyuliang University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/128236123",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": [
+        "Deanship of Scientific Research at King Khalid University",
+        "King Khalid University"
+    ]
+}

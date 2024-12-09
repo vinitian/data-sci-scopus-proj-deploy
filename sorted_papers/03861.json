@@ -1,0 +1,98 @@
+{
+    "eid": "2-s2.0-85053133380",
+    "title": "One-pass-throw-away learning for cybersecurity in streaming non-stationary environments by dynamic stratum network",
+    "cover-date": "2018-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biochemistry, Genetics and Molecular Biology (all)",
+            "@code": "1300",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Agricultural and Biological Sciences (all)",
+            "@code": "1100",
+            "@abbrev": "AGRI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Multidisciplinary",
+            "@code": "1000",
+            "@abbrev": "MULT"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Mongkhon Thakong",
+        "Suphakant Phimoltares",
+        "Saichon Jaiyen",
+        "Chidchanok Lursinsap"
+    ],
+    "citedby-count": 3,
+    "ref-count": 44,
+    "ref-list": [
+        "Learning in nonstationary environments: A survey",
+        "Security theater: On the vulnerability of classifiers to exploratory attacks",
+        "Toward adversarial online learning and the science of deceptive machines",
+        "Internet of things security: A survey",
+        "Cybersecurity in the internet of things: Legal aspects",
+        "An overview of the state-of-the-art of cloud computing cybersecurity",
+        "A cybersecurity model in cloud computing environments",
+        "Optimizing personalized email filtering thresholds to mitigate sequential spear phishing attacks",
+        "Feature cross-substitution in adversarial classification",
+        "Survey of review spam detection using machine learning techniques",
+        "Phishing detection with popular search engines: Simple and effective",
+        "Malware classification using self organising feature maps and machine activity data",
+        "Evaluating shallow and deep networks for ransomware detection and classification",
+        "Big data classification: Problems and challenges in network intrusion prediction with machine learning",
+        "A comparative study for email classification",
+        "A survey on concept drift adaptation",
+        "Identify online store review spammers via social review graph",
+        "An enhanced J48 classification algorithm for the anomaly intrusion detection systems",
+        "A survey of intrusion detection systems based on ensemble and hybrid classifiers",
+        "A novel weighted support vector machines multiclass classifier based on differential evolution for intrusion detection systems",
+        "A survey of network anomaly detection techniques",
+        "Intrusion detection system based on BCS\u2013GA in cloud environment",
+        "Survey on anomaly detection using data mining techniques",
+        "Predicting phishing websites based on self-structuring neural network",
+        "Phishing detection based associative classification data mining",
+        "Reacting to different types of concept drift: The accuracy updated ensemble algorithm",
+        "Incremental learning of concept drift in nonstationary environments",
+        "A streaming ensemble algorithm (SEA) for large-scale classification",
+        "Mining time-changing data streams",
+        "Domain adaptation bounds for multiple expert systems under concept drift",
+        "Dynamic weighted majority: An ensemble method for drifting concepts",
+        "Eensemble learning for data stream analysis: A survey",
+        "Combining block-based and online methods in learning ensembles from concept drifting data streams",
+        "A new on-line learning method for coping with recurring concepts: The ADACC system",
+        "Adaptive random forests for evolving data stream classification",
+        "A fast learning method for streaming and randomly ordered multi-class data chunks by using one-pass-throw-away class-wise learning concept",
+        "A very fast neural learning for classification using only new incoming datum",
+        "One-pass-throw-away learning algorithm based on hybridization of LDA and PCA",
+        "A survey on feature selection methods",
+        "Feature selection using information gain for improved structural-based alert correlation",
+        "Tracking recurring contexts using ensemble classifiers: An application to email filtering",
+        "A detailed analysis of the KDD CUP 99 data set",
+        "MOA massive online analysis"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ladkrabang Bangkok",
+            "@id": "60021543",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021543",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Thailand Research Fund"
+    ]
+}

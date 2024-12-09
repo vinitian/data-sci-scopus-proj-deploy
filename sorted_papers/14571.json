@@ -1,0 +1,681 @@
+{
+    "eid": "2-s2.0-85095110396",
+    "title": "SISALv2: A comprehensive speleothem isotope database with multiple age-depth models",
+    "cover-date": "2020-10-27",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Earth and Planetary Sciences (all)",
+            "@code": "1900",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Laia Comas-Bru",
+        "Kira Rehfeld",
+        "Carla Roesch",
+        "Sahar Amirnezhad-Mozhdehi",
+        "Sandy P. Harrison",
+        "Kamolphat Atsawawaranunt",
+        "Syed Masood Ahmad",
+        "Yassine Ait Brahim",
+        "Andy Baker",
+        "Matthew Bosomworth",
+        "Sebastian F.M. Breitenbach",
+        "Yuval Burstyn",
+        "Andrea Columbu",
+        "Michael Deininger",
+        "Attila Dem\u00e9ny",
+        "Bronwyn Dixon",
+        "Jens Fohlmeister",
+        "Istv\u00e1n G\u00e1bor Hatvani",
+        "Jun Hu",
+        "Nikita Kaushal",
+        "Zolt\u00e1n Kern",
+        "Inga Labuhn",
+        "Franziska A. Lechleitner",
+        "Andrew Lorrey",
+        "Belen Martrat",
+        "Valdir Felipe Novello",
+        "Jessica Oster",
+        "Carlos P\u00e9rez-Mej\u00edas",
+        "Denis Scholz",
+        "Nick Scroxton",
+        "Nitesh Sinha",
+        "Brittany Marie Ward",
+        "Sophie Warken",
+        "Haiwei Zhang",
+        "James Apa\u00e9stegui",
+        "Lisa M. Baldini",
+        "Shraddha Band",
+        "Maarten Blaauw",
+        "Ronny Boch",
+        "Andrea Borsato",
+        "Alexander Budsky",
+        "Maria Gracia Bustamante Rosell",
+        "Sakonvan Chawchai",
+        "Silviu Constantin",
+        "Rhawn Denniston",
+        "Virgil Dragusin",
+        "Russell Drysdale",
+        "Oana Dumitru",
+        "Amy Frappier",
+        "Naveen Gandhi",
+        "Pawan Gautam",
+        "Li Hanying",
+        "Ilaria Isola",
+        "Xiuyang Jiang",
+        "Zhao Jingyao",
+        "Kathleen Johnson",
+        " Vanessa Johnston",
+        "Gayatri Kathayat",
+        "Jennifer Klose",
+        "Claire Krause",
+        "Matthew Lachniet",
+        "Amzad Laskar",
+        "Stein Erik Lauritzen",
+        "Nina Lon\u010dar",
+        "Gina Moseley",
+        "Allu C. Narayana",
+        "Bogdan P. Onac",
+        "Emil Racovit\u01ce",
+        "Jacek Pawlak",
+        "Christopher Bronk Ramsey",
+        "Isabel Rivera-Collazo",
+        "Carlos Rossi",
+        "Peter J. Rowe",
+        "Nicol\u00e1s M. Str\u00edkis",
+        "Liangcheng Tan",
+        "Sophie Verheyden",
+        "Hubert Vonhof",
+        "Michael Weber",
+        "Kathleen Wendt",
+        "Paul Wilcox",
+        "Amos Winter",
+        "Jiangying Wu",
+        "Peter Wynn",
+        "Madhusudan G. Yadava"
+    ],
+    "citedby-count": 48,
+    "ref-count": 153,
+    "ref-list": [
+        "Multi-decadal to centennial hydroclimate variability and linkage to solar forcing in the Western Mediterranean during the last 1000 years",
+        "North Atlantic Ice-Rafting, Ocean and Atmospheric Circulation During the Holocene: Insights From Western Mediterranean Speleothems",
+        "Reconstruction of palaeoclimate in Shalaii Cave, SE of Sangaw, Kurdistan Province of Iraq",
+        "Precipitation changes over the eastern Bolivian Andes inferred from speleothem (delta O-18) records for the last 1400 years",
+        "Solar forcing of Holocene climate: New insights from a speleothem record, southwestern United States",
+        "Multidecadal to multicentury scale collapses of Northern Hemisphere monsoons over the past millennium",
+        "The SISAL database: a global resource to document oxygen and carbon isotope records from speleothems",
+        "Pleistocene water intrusions from the Mediterranean and Caspian seas into the Black Sea",
+        "Regional temperature, atmospheric circulation, and sea-ice variability within the Younger Dryas Event constrained using a speleothem from northern Iberia",
+        "North Iberian temperature and rainfall seasonality over the Younger Dryas and Holocene",
+        "High-resolution mid-Holocene Indian Summer Monsoon recorded in a stalagmite from the Kotumsar Cave, Central India",
+        "Sea-land oxygen isotopic relationships from planktonic foraminifera and speleothems in the Eastern Mediterranean region and their implication for paleorainfall during interglacial intervals",
+        "Methods and code for ?classical? age-modelling of radiocarbon sequences",
+        "Flexible paleoclimate age-depth models using an autoregressive gamma process",
+        "A Window into Africa?s Past Hydroclimates: The SISAL_v1 Database Contribution",
+        "Late Pleistocene records of speleothem stable isotopic compositions from Pinnacle Point on the South African south coast",
+        "COnstructing Proxy Records from Age models (COPRA)",
+        "Holocene interaction of maritime and continental climate in Central Europe: New speleothem evidence from Central Germany",
+        "Deposition models for chronological records",
+        "Bayesian analysis of radiocarbon dates",
+        "Recent and planned developments of the program OxCal",
+        "Speleothem _13C record suggests enhanced spring/summer drought in south-eastern Spain between 9.7 and 7.8 ka - A circum-Western Mediterranean anomaly?",
+        "Indian Ocean Climate and an Absolute Chronology over Dansgaard/Oeschger Events 9 to 13",
+        "Corrections and Clarifications",
+        "Millennial and orbital scale variability of the South American Monsoon during the penultimate glacial period",
+        "Speleothems from the Middle East: An Example of Water Limited Environments in the SISAL Database",
+        "Holocene moisture changes in western China, Central Asia, inferred from stalagmites",
+        "Northern Borneo stalagmite records reveal West Pacific hydroclimate across MIS 5 and 6",
+        "Precise timing of abrupt increase in dust activity in the Middle East coincident with 4.2 ka social change",
+        "A penultimate glacial monsoon record from Hulu Cave and two-phase glacial terminations",
+        "Timing and structure of the 8.2 kyr B.P. event inferred from _18O records of stalagmites from China, Oman, and Brazil",
+        "Climate change patterns in Amazonia and biodiversity",
+        "Eastern North American climate in phase with fall insolation throughout the last three glacialinterglacial cycles",
+        "A long record of MIS 7 and MIS 5 climate and environment from a western Mediterranean speleothem (SW Sardinia, Italy)",
+        "SISAL: Bringing added value to speleothem research",
+        "SISAL working group members: Evaluating model outputs using integrated global speleothem records of climate change since the last glacial",
+        "Quality control of the dating information table in the SISAL database",
+        "Reconstruction of regional atmospheric circulation features during the late Pleistocene in subtropical Brazil from oxygen isotope composition of speleothems",
+        "Cave monitoring in the Beke and Baradla caves (Northeastern Hungary): implications for the conditions for the formation cave carbonates",
+        "Late Quaternary Variations in the South American Monsoon System as Inferred by Speleothems - New Perspectives Using the SISAL Database",
+        "North Atlantic influences on climate conditions in East-Central Europe in the late Holocene reflected by flowstone compositions",
+        "A Last Glacial Maximum through middle Holocene stalagmite record of coastalWestern Australia climate",
+        "A Stalagmite record of Holocene Indonesian-Australian summer monsoon variability from the Australian tropics",
+        "Decoupling of monsoon activity across the northern and southern Indo-Pacific during the Late Glacial",
+        "A stalagmite test of North Atlantic SST and Iberian hydroclimate linkages over the last two glacial cycles",
+        "Rapid retreat of the East Asian summer monsoon in the middle Holocene and a millennial weak monsoon interval at 9 ka in northern China",
+        "Climate variability in the western Mediterranean between 121 and 67 ka derived from a Mallorcan speleothem record",
+        "Speleothem evidence for the greening of the Sahara and its implications for the early human dispersal out of sub-Saharan Africa",
+        "Timing and climatic impact of Greenland interstadials recorded in stalagmites from northern Turkey",
+        "Late Holocene droughts in the Fertile Crescent recorded in a speleothem from northern Iraq",
+        "El Nino Events Recorded by Stalagmite Carbon Isotopes",
+        "Stalagmite stable isotope record of recent tropical cyclone events",
+        "High-resolution reconstruction of Indian summer monsoon during the B?lling- Aller?d from a central Indian stalagmite",
+        "Climate on the southern Black Sea coast during the Holocene: implications from the Sofular Cave record",
+        "Global distribution of carbonate rocks and karst water resources",
+        "A simple monotone process with application to radiocarbon-dated depth chronologies",
+        "Correlation-based interpretations of paleoclimate data-where statistics meet past climates",
+        "Temperature and Monsoon Tango in a Tropical Stalagmite: Last Glacial-Interglacial Climate Dynamics",
+        "The 4.2 ka event in the central Mediterranean: new data from a Corchia speleothem (Apuan Alps, central Italy)",
+        "Volcanic ash fall events identified using principal component analysis of a high-resolution speleothem trace element dataset",
+        "Calibration of speleothem delta O-18 with instrumental climate records from Turkey",
+        "A 500 yr speleothem-derived reconstruction of late autumn-winter precipitation, northeast Turkey",
+        "Reducing uncertainty in the climatic interpretations of speleothem delta O-18",
+        "Stalagmite-inferred Holocene precipitation in northern Guizhou Province, China, and asynchronous termination of the Climatic Optimum in the Asian monsoon territory",
+        "Replicated stalagmite-inferred centennial-to decadalscale monsoon precipitation variability in southwest China since the mid Holocene",
+        "1000-Year Quasi-Periodicity of Weak Monsoon Events in Temperate Northeast Asia since the Mid-Holocene",
+        "East Asian summer monsoon variability during Marine Isotope Stage 5 based on speleothem _18O records from Wanxiang Cave, central China",
+        "High-Latitude Forcing of the South American Summer Monsoon During the Last Glacial",
+        "High-resolution variability of the South American summer monsoon over the last seven millennia: insights from a speleothem record from the central Peruvian Andes",
+        "The Indian monsoon variability and civilization changes in the Indian subcontinent",
+        "Evaluating the timing and structure of the 4.2 ka event in the Indian summer monsoon domain from an annually resolved speleothem record from Northeast India",
+        "The Indian Summer Monsoon from a Speleothem _18O Perspective - A Review",
+        "Speleothem Records from the Eastern Part of Europe and Turkey - Discussion on Stable Oxygen and Carbon Isotopes",
+        "Spatio-temporal evolution of Australasian monsoon hydroclimate over the last 40,000 years",
+        "Tropical response to the 8200 yr BP cold event? Speleothem isotopes indicate a weakened early Holocene monsoon in Costa Rica",
+        "Late Quaternary moisture export across Central America and to Greenland: evidence for tropical rainfall variability from Costa Rican stalagmites",
+        "A 4 kyr stalagmite oxygen isotopic record of the past Indian Summer Monsoon in the Andaman Islands",
+        "Isotopic Stratigraphy of a Last Interglacial Stalagmite from Northwestern Romania: Correlation with the Deep-Sea record and Northern-Latitude Speleothem",
+        "The Potential of Speleothems from Western Europe as Recorders of Regional Climate: A Critical Assessment of the SISAL Database",
+        "Hydro-climatic variability in the southwestern Indian Ocean between 6000 and 3000 years ago",
+        "Holocene Solar Activity Imprint on Centennial- to Multidecadal-Scale Hydroclimatic Oscillations in Arid Central Asia",
+        "Holocene climatic conditions in the eastern Adriatic recorded in stalagmites from Stra?na pe?c Cave (Croatia)",
+        "Speleothem stable isotope records interpreted within a multi-proxy framework and implications for New Zealand palaeoclimate reconstruction",
+        "Mid- to late-Holocene archaeology, environment and climate in the northeast Kurdistan region of Iraq",
+        "Variable North Pacific influence on drought in southwestern North America since AD 854",
+        "High-resolution speleothem record of precipitation from the Yucatan Peninsula spanning the Maya Preclassic Period",
+        "Synchronous precipitation reduction in the American Tropics associated with Heinrich 2",
+        "NALPS19: sub-orbitalscale climate variability recorded in northern Alpine speleothems during the last glacial period",
+        "Effects of dating errors on nonparametric trend analyses of speleothem time series",
+        "Sub-Milankovitch climatic cycles in Holocene stalagmites from Sauerland, Germany",
+        "A paleoclimate record of the last 17,600 years in stalagmites from the B7 cave, Sauerland, Germany",
+        "The Blake geomagnetic excursion recorded in a radiometrically dated speleothem",
+        "Speleothem Paleoclimatology for the Caribbean, Central America, and North America",
+        "Gradual onset and recovery of the Younger Dryas abrupt climate event in the tropics",
+        "A continuous stable isotope record of last interglacial age from the Bulgarian Cave Orlova Chuka",
+        "Coupled stalagmite - Alluvial fan response to the 8.2 ka event and early Holocene palaeoclimate change in Greece",
+        "Rapid speleothem _13C change in southwestern North America coincident with Greenland stadial 20 and the Toba (Indonesia) supereruption",
+        "Similarity estimators for irregular and age-uncertain time series",
+        "Human adaptation strategies to abrupt climate change in Puerto Rico ca. 3.5 ka",
+        "Automatising construction and evaluation of age-depth models for hundreds of speleothems",
+        "Paleoclimate variability during the Blake geomagnetic excursion (MIS 5d) deduced from a speleothem record",
+        "Younger Dryas to Early Holocene paleoclimate in Cantabria (N Spain): Constraints from speleothem Mg, annual fluorescence banding and stable isotope records",
+        "A late Holocene climate record in stalagmites from Modric Cave (Croatia)",
+        "Inverse modelling of the C-14 bomb pulse in stalagmites to constrain the dynamics of soil carbon cycling at selected European cave sites",
+        "StalAge - An algorithm designed for construction of speleothem age models",
+        "Competing Temperature and Atmospheric Circulation Effects on Southwest Madagascan Rainfall During the Last Deglaciation",
+        "Abrupt climate change at _ 2800 yr BP evidenced by a stalagmite record from peninsular India",
+        "Impact of climate change on the transition of Neanderthals to modern humans in Europe",
+        "Mid-Holocene drying of the US Great Basin recorded in Nevada speleothems",
+        "Timing and structure of Mega-SACZ events during Heinrich Stadial 1",
+        "South American monsoon response to iceberg discharge in the North Atlantic",
+        "Late Quaternary Paleotemperatures Derived from a Speleothem from Cango Caves, Cape Province, South Africa",
+        "Cyclic precipitation variation on the western Loess Plateau of China during the past four centuries",
+        "Centennial- to decadal-scale monsoon precipitation variations in the upper Hanjiang River region, China over the past 6650 years",
+        "High resolution monsoon precipitation changes on southeastern Tibetan Plateau over the past 2300 years",
+        "Enhanced climate instability in the North Atlantic and southern Europe during the Last Interglacial",
+        "Fossil dripwater in stalagmites reveals Holocene temperature and rainfall variation in Amazonia",
+        "Mid- to late Holocene Indian Ocean Monsoon variability recorded in four speleothems from Socotra Island, Yemen",
+        "Mg, Sr and Sr isotope geochemistry of a Belgian Holocene speleothem: implications for paleoclimate reconstructions",
+        "Late-glacial and Holocene climate reconstruc- tion as inferred from a stalagmite-Grotte du P?re No?l, Hansur- Lesse, Belgium",
+        "Hydroclimatic variability in Southeast Asia over the past two millennia",
+        "Millennial- and orbital-scale changes in the East Asian monsoon over the past 224,000 years",
+        "Reconstruction of Holocene coupling between the South American Monsoon System and local moisture variability from speleothem _18O and 87Sr=86Sr records",
+        "Reconstruction of late Holocene autumn/winter precipitation variability in SW Romania from a high-resolution speleothem trace element record",
+        "Caribbean hydroclimate and vegetation history across the last glacial period",
+        "Quaternary climatic instability in south-east Australia from a multiproxy speleothem record",
+        "Evidence of warm and humid interstadials in central Europe during early MIS 3 revealed by a multi-proxy speleothem record",
+        "Three-phased Heinrich Stadial 4 recorded in NE Brazil stalagmites",
+        "Millennialscale glacial climate variability in Southeastern Alaska follows Dansgaard-Oeschger cyclicity",
+        "Late pleistocene to holocene composite speleothem O-18 and C-13 chronologies from south island, new Zealand-did a global younger dryas really exist?",
+        "Age frequency distribution and revised stable isotope curves for New Zealand speleothems: palaeoclimatic implications",
+        "Stable isotope and trace element investigation of two contemporaneous annually-laminated stalagmites from northeastern China surrounding the ?8.2 ka event?",
+        "Past monsoon rainfall variations in peninsular India recorded in a 331-year-old speleothem",
+        "Variations of monsoonal rain and vegetation during the past millennium in Tiangui Mountain, North China reflected by stalagmite delta O-18 and delta C-13 records from Zhenzhu Cave",
+        "Hydroclimatic variations in southeastern China during the 4.2 ka event reflected by stalagmite records",
+        "A 200-year annually laminated stalagmite record of precipitation seasonality in southeastern China and its linkages to ENSO and PDO",
+        "The Asian Summer Monsoon: Teleconnections and Forcing Mechanisms - A Review from Chinese Speleothem _18O Records",
+        "Antarctic link with East Asian summer monsoon variability during the Heinrich Stadial-B?lling interstadial transition",
+        "East Asian Summer Monsoon variations in the past 12.5 ka: High-resolution _18O record from a precisely dated aragonite stalagmite in central China",
+        "A Test of Climate, Sun, and Culture Relationships from an 1810-Year Chinese Cave Record"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Mainz",
+            "@id": "60031216",
+            "affilname": "Johannes Gutenberg-Universit\u00e4t Mainz",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031216",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Xi'an",
+            "@id": "60018308",
+            "affilname": "Xi'an Jiaotong University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018308",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Cluj Napoca",
+            "@id": "60091006",
+            "affilname": "Institute of Speleology Emil Racovita",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091006",
+            "affiliation-country": "Romania"
+        },
+        {
+            "affiliation-city": "Hyderabad",
+            "@id": "60029516",
+            "affilname": "University of Hyderabad",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029516",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Melbourne",
+            "@id": "60026553",
+            "affilname": "University of Melbourne",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026553",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Heidelberg",
+            "@id": "60016908",
+            "affilname": "Universit\u00e4t Heidelberg",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016908",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Ahmedabad",
+            "@id": "60014901",
+            "affilname": "Physical Research Laboratory India",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014901",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Innsbruck",
+            "@id": "60009999",
+            "affilname": "Universit\u00e4t Innsbruck",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009999",
+            "affiliation-country": "Austria"
+        },
+        {
+            "affiliation-city": "Tampa",
+            "@id": "60007740",
+            "affilname": "University of South Florida, Tampa",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007740",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Dublin",
+            "@id": "60005141",
+            "affilname": "University College Dublin",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005141",
+            "affiliation-country": "Ireland"
+        },
+        {
+            "affiliation-city": "Xi'an",
+            "@id": "60273071",
+            "affilname": "Institute of Earth Environment",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60273071",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Budapest",
+            "@id": "60267250",
+            "affilname": "Institute for Geological and Geochemical Research",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60267250",
+            "affiliation-country": "Hungary"
+        },
+        {
+            "affiliation-city": "Oxford",
+            "@id": "60175816",
+            "affilname": "Oxford Social Sciences Division",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60175816",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60118475",
+            "affilname": "Asian School of the Environment",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60118475",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Lancaster",
+            "@id": "60117630",
+            "affilname": "Lancaster Environment Centre",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60117630",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Burgos",
+            "@id": "60113906",
+            "affilname": "Centro Nacional de Investigaci\u00f3n sobre la Evoluci\u00f3n Humana (CENIEH)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60113906",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Pisa",
+            "@id": "60113656",
+            "affilname": "Istituto Nazionale di Geofisica e Vulcanologia, Pisa",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60113656",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Daejeon",
+            "@id": "60104544",
+            "affilname": "Institute for Basic Science, Daejeon",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104544",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Barcelona",
+            "@id": "60103754",
+            "affilname": "CSIC - Instituto de Diagnostico Ambiental y Estudios del Agua (IDAEA)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103754",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Callaghan",
+            "@id": "60089706",
+            "affilname": "School of Environmental and Life Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60089706",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Warsaw",
+            "@id": "60086648",
+            "affilname": "Institute of Geological Sciences of the Polish Academy of Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60086648",
+            "affiliation-country": "Poland"
+        },
+        {
+            "affiliation-city": "Lima",
+            "@id": "60071233",
+            "affilname": "Instituto Geofisico del Peru",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071233",
+            "affiliation-country": "Peru"
+        },
+        {
+            "affiliation-city": "Las Vegas",
+            "@id": "60031892",
+            "affilname": "University of Nevada, Las Vegas",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031892",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Ljubljana",
+            "@id": "60030129",
+            "affilname": "Znanstvenoraziskovalni Center Slovenske Akademije Znanosti in Umetnosti",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030129",
+            "affiliation-country": "Slovenia"
+        },
+        {
+            "affiliation-city": "Belfast",
+            "@id": "60029738",
+            "affilname": "Queen's University Belfast",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029738",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Bergen",
+            "@id": "60029622",
+            "affilname": "Universitetet i Bergen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029622",
+            "affiliation-country": "Norway"
+        },
+        {
+            "affiliation-city": "Pune",
+            "@id": "60029040",
+            "affilname": "Indian Institute of Tropical Meteorology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029040",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Sydney",
+            "@id": "60028333",
+            "affilname": "UNSW Sydney",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028333",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Bologna",
+            "@id": "60028218",
+            "affilname": "Alma Mater Studiorum Universit\u00e0 di Bologna",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028218",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Madrid",
+            "@id": "60027282",
+            "affilname": "Universidad Complutense de Madrid",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027282",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Oxford",
+            "@id": "60026851",
+            "affilname": "University of Oxford",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026851",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Symonston",
+            "@id": "60026444",
+            "affilname": "Geoscience Australia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026444",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Middlesbrough",
+            "@id": "60025655",
+            "affilname": "Teesside University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025655",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Potsdam",
+            "@id": "60025182",
+            "affilname": "Potsdam Institut fur Klimafolgenforschung",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025182",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Auckland",
+            "@id": "60024594",
+            "affilname": "National Institute of Water and Atmospheric Research",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024594",
+            "affiliation-country": "New Zealand"
+        },
+        {
+            "affiliation-city": "San Diego",
+            "@id": "60023018",
+            "affilname": "Scripps Institution of Oceanography",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023018",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "New Delhi",
+            "@id": "60020458",
+            "affilname": "Jamia Millia Islamia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020458",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Nanjing",
+            "@id": "60020258",
+            "affilname": "Nanjing Normal University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020258",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Graz",
+            "@id": "60019663",
+            "affilname": "Technische Universitat Graz",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019663",
+            "affiliation-country": "Austria"
+        },
+        {
+            "affiliation-city": "Fuzhou",
+            "@id": "60018844",
+            "affilname": "Fujian Normal University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018844",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Zadar",
+            "@id": "60017028",
+            "affilname": "University of Zadar",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017028",
+            "affiliation-country": "Croatia"
+        },
+        {
+            "affiliation-city": "Pittsburgh",
+            "@id": "60015543",
+            "affilname": "University of Pittsburgh",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015543",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Saratoga Springs",
+            "@id": "60014146",
+            "affilname": "Skidmore College",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014146",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Reading",
+            "@id": "60012197",
+            "affilname": "University of Reading",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012197",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Busan",
+            "@id": "60008783",
+            "affilname": "Pusan National University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008783",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Terre Haute",
+            "@id": "60008599",
+            "affilname": "Indiana State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008599",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bremen",
+            "@id": "60008293",
+            "affilname": "Universit\u00e4t Bremen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008293",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Sao Paulo",
+            "@id": "60008088",
+            "affilname": "Universidade de S\u00e3o Paulo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008088",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Jerusalem",
+            "@id": "60007903",
+            "affilname": "Hebrew University of Jerusalem",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007903",
+            "affiliation-country": "Israel"
+        },
+        {
+            "affiliation-city": "Irvine",
+            "@id": "60007278",
+            "affilname": "University of California, Irvine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007278",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Taipei",
+            "@id": "60005429",
+            "affilname": "National Taiwan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005429",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Houston",
+            "@id": "60005286",
+            "affilname": "Rice University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005286",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Mainz",
+            "@id": "60005076",
+            "affilname": "Max Planck Institute for Chemistry",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005076",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Newcastle",
+            "@id": "60004636",
+            "affilname": "University of Northumbria",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004636",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Hamilton",
+            "@id": "60004424",
+            "affilname": "The University of Waikato",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004424",
+            "affiliation-country": "New Zealand"
+        },
+        {
+            "affiliation-city": "Nashville",
+            "@id": "60003915",
+            "affilname": "Vanderbilt University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003915",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Mt Vernon",
+            "@id": "60003453",
+            "affilname": "Cornell College",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003453",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Niteroi",
+            "@id": "60001865",
+            "affilname": "Universidade Federal Fluminense",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001865",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Norwich",
+            "@id": "60000112",
+            "affilname": "University of East Anglia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000112",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Brussels",
+            "@id": "120811916",
+            "affilname": "Politique scientifique f\u00e9d\u00e9rale",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/120811916",
+            "affiliation-country": "Belgium"
+        },
+        {
+            "affiliation-city": "Cluj Napoca",
+            "@id": "113613866",
+            "affilname": "Institute of Speleology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/113613866",
+            "affiliation-country": "Romania"
+        }
+    ],
+    "funding": []
+}

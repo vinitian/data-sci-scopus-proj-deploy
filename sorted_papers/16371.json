@@ -1,0 +1,95 @@
+{
+    "eid": "2-s2.0-85144710228",
+    "title": "IPChain: Blockchain-Based Security Protocol for IoT Address Management Servers in Smart Homes",
+    "cover-date": "2022-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "authentication",
+        "blockchain",
+        "DHCP",
+        "IoT",
+        "IoTAMS",
+        "smart contract",
+        "smart homes"
+    ],
+    "authors": [
+        "Bello Musa Yakubu",
+        "Majid Iqbal Khan",
+        "Pattarasinee Bhattarakosol"
+    ],
+    "citedby-count": 2,
+    "ref-count": 37,
+    "ref-list": [
+        "IoT Vulnerability Assessment for Sustainable Computing: Threats, Current Solutions, and Open Challenges",
+        "The Principle and Core Technology of Blockchain",
+        "A framework for DNS naming services for Internet-of-Things devices",
+        "DHCP Hierarchical Failover (DHCP-HF) Servers over a VPN Interconnected Campus",
+        "DHCP (Dynamic Host Configuration Protocol)",
+        "Smart Agent and Modified Master-Backup Algorithm for Auto Switching Dynamic Host Configuration Protocol Relay through Wireless Router",
+        "Mitigating DHCP Starvation Attack Using Snooping Technique",
+        "Designing a New Scalable Autoconfiguration Protocol with Optimal Header Selection for Large Scale MANETs",
+        "Starvation delayed dhcp service for enabling pool recovery",
+        "Cochain-SC: An Intra- and Inter-Domain Ddos Mitigation Scheme Based on Blockchain Using SDN and Smart Contract",
+        "Design of DHCP Protocol Based on Access Control and SAKA Encryption Algorithm",
+        "DHCP Server Authentication Using Digital Certificates",
+        "Achieving Resist against DHCP Man-in-the-Middle Attack Scheme Based on Key Agreement",
+        "Security analysis of SDN controller-based DHCP services and attack mitigation with DHCPguard",
+        "A Secure DHCP Protocol to Mitigate LAN Attacks",
+        "SSL Stripping Technique (DHCP Snooping and ARP Spoofing Inspection)",
+        "A Lightweight Authentication and Authorization Framework for Blockchain-Enabled IoT Network in Health-Informatics",
+        "A secure and efficient authentication and data sharing scheme for Internet of Things based on blockchain",
+        "Blockchain for smart communities: Applications, challenges and opportunities",
+        "Blockchain smart contracts: Applications, challenges, and future trends",
+        "A Survey of Blockchain Technology: Architecture, Applied Domains, Platforms, and Security Threats",
+        "A survey on the adoption of blockchain in IoT: Challenges and solutions",
+        "DHCP Protocol Using OTP Based Two-Factor Authentication",
+        "A Novel Improvement with an Effective Expansion to Enhance the MD5 Hash Function for Verification of a Secure E-Document",
+        "Design and Implementation of Improved Security Protocols for DHCP Using Digital Certificates",
+        "DHCPv6Auth: A mechanism to improve DHCPv6 authentication and privacy",
+        "Proposing a New Approach for Securing DHCPv6 Server against Rogue DHCPv6 Attack in IPv6 Network",
+        "Zero Conf Protocols and Their Numerous Man in the Middle (MITM) Attacks",
+        "A Secure DHCPv6 System Based on MAC Address Whitelist Authentication and DHCP Fingerprint Recognition",
+        "ConTrust: A Novel Context-Dependent Trust Management Model in Social Internet of Things",
+        "Making Smart Contracts Smarter",
+        "Security Analysis Methods on Ethereum Smart Contract Vulnerabilities: A Survey",
+        "The DHCP Snooping and DHCP Alert Method in Securing DHCP Server from DHCP Rogue Attack"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Islamabad",
+            "@id": "60089631",
+            "affilname": "COMSATS University Islamabad",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60089631",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

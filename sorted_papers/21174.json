@@ -1,0 +1,77 @@
+{
+    "eid": "2-s2.0-85079066052",
+    "title": "Model-Based Approach Integrated with Fault Circuit Indicators for Fault Location in Distribution Systems",
+    "cover-date": "2019-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Nuclear Energy and Engineering",
+            "@code": "2104",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Fault Circuit Indicator",
+        "Fault Location",
+        "Model-Based"
+    ],
+    "authors": [
+        "Sundaravaradan Navalpakkam Ananthan",
+        "Alvaro Furlani Bastos",
+        "Surya Santoso",
+        "Pisitpol Chirapongsananurak"
+    ],
+    "citedby-count": 4,
+    "ref-count": 20,
+    "ref-list": [
+        "A simple method for determining fault location on distribution lines",
+        "Impedance-based fault location experience",
+        "New developments in faulted circuit indicators help utilities reduce cost and improve service",
+        "Making a smart grid case: Fault circuit indicators",
+        "Distribution feeder fault location using ied and fci information",
+        "Communications-capable fault indicators improve outage response for coastal Oregon",
+        "Optimal placement of fault indicators using the immune algorithm",
+        "Optimization of fault indicators placement with dispersed generation insertion",
+        "Efficient fuzzy approach for allocating fault indicators in power distribution lines",
+        "Universal model-based fault location for improved system integrity",
+        "Impedance-based fault location in transmission networks: Theory and application",
+        "A study about the sources of error of impedance-based fault location methods",
+        "Radial distribution test feeders",
+        "Relay performance verification using fault event records"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Austin",
+            "@id": "60013372",
+            "affilname": "The University of Texas at Austin",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013372",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": []
+}

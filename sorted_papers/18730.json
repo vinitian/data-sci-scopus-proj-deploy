@@ -1,0 +1,69 @@
+{
+    "eid": "2-s2.0-85112811890",
+    "title": "Translating TOSCA model to kubernetes objects",
+    "cover-date": "2021-05-19",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "ANTLR",
+        "Kubernetes object",
+        "TOSCA Model"
+    ],
+    "authors": [
+        "Woramon Chareonsuk",
+        "Wiwat Vatanawood"
+    ],
+    "citedby-count": 2,
+    "ref-count": 9,
+    "ref-list": [
+        "Tosca solves big problems in the cloud and beyond!",
+        "Translating tosca into dockercompose yaml file using antlr",
+        "The definitive antlr 4 reference",
+        "Beyond generic lifecycles: Reusable modeling of custom-fit management workflows for cloud applications",
+        "Towards automated workflow deployment in the cloud using tosca"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

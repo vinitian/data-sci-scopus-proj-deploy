@@ -1,0 +1,177 @@
+{
+    "eid": "2-s2.0-85143835208",
+    "title": "Quantum Key Distribution Protocol Selector Based on Machine Learning for Next-Generation Networks",
+    "cover-date": "2022-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geography, Planning and Development",
+            "@code": "3305",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Building and Construction",
+            "@code": "2215",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Environmental Science (miscellaneous)",
+            "@code": "2301",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Management, Monitoring, Policy and Law",
+            "@code": "2308",
+            "@abbrev": "ENVI"
+        }
+    ],
+    "keywords": [
+        "6G networks",
+        "deep convolutional neural network",
+        "internet of things",
+        "quantum communications",
+        "quantum security"
+    ],
+    "authors": [
+        "Ogobuchi Daniel Okey",
+        "Siti Sarah Maidin",
+        "Renata Lopes Rosa",
+        "Waqas Tariq Toor",
+        "Dick Carrillo Melgarejo",
+        "Lunchakorn Wuttisittikulkij",
+        "Muhammad Saadi",
+        "Dem\u00f3stenes Zegarra Rodr\u00edguez"
+    ],
+    "citedby-count": 4,
+    "ref-count": 47,
+    "ref-list": [
+        "Quantum key distribution networks: Challenges and future research issues in security",
+        "Cache in fog computing design, concepts, contributions, and security issues in machine learning prospective",
+        "Quantum machine learning for 6G communication networks: State-of-the-art and vision for the future",
+        "Q-meter: Quality monitoring system for telecommunication services based on sentiment analysis using deep learning",
+        "Graph-enabled intelligent vehicular network data processing",
+        "Voice quality assessment in mobile devices considering different fading models",
+        "Teaching quantum computing to high-school-aged youth: A hands-on approach",
+        "Quantum optical convolutional neural network: A novel image recognition framework for quantum computing",
+        "On one-dimensional quantum cellular automata",
+        "Quantum computing",
+        "A remote security computational ghost imaging method based on quantum key distribution technology",
+        "Survey of promising technologies for quantum drones and networks",
+        "Formulating and solving routing problems on quantum computers",
+        "Emerging enabling technologies for industry 4.0 and beyond",
+        "Quantum search algorithms for wireless communications",
+        "Providing end-to-end security using quantum walks in IoT networks",
+        "Attacking the quantum Internet",
+        "A quantum-safe key hierarchy and dynamic security association for LTE/SAE in 5G scenario",
+        "The impact of quantum computing on present cryptography",
+        "New directions in cryptography",
+        "Quantum cryptography: A new generation of information technology security system",
+        "Simple analysis of security of the BB84 quantum key distribution protocol",
+        "Implementation of machine learning in quantum key distributions",
+        "A comprehensive survey of prominent cryptographic aspects for securing communication in post-quantum IoT networks",
+        "From pre-quantum to post-quantum IoT security: A survey on quantum-resistant cryptosystems for the Internet of Things",
+        "TanhExp: A smooth activation function with high convergence speed for lightweight neural networks",
+        "Intrusion detection system based on fast hierarchical deep convolutional neural network",
+        "A lightweight intelligent intrusion detection system for industrial internet of things using deep learning algorithm",
+        "Quantum key distribution with entangled photons generated on demand by a quantum dot",
+        "Quantum repeater node demonstrating unconditionally secure key distribution",
+        "Survey on quantum information security",
+        "Complex key generation with secured seed exchange for Vernam cipher in security applications",
+        "Practical security of wavelength-multiplexed decoy-state quantum key distribution",
+        "Polarization discriminated time-bin phase-encoding measurement-device-independent quantum key distribution",
+        "Parameters optimization based on neural network of practical wavelength division multiplexed decoy-state quantum key distribution",
+        "Machine learning for optimal parameter prediction in quantum key distribution",
+        "Optimization of quantum key distribution parameters based on random forest",
+        "Security and privacy in 6G networks: New areas and new challenges",
+        "Security requirements and challenges of 6G technologies and applications",
+        "Speech quality assessment in wireless communications with mimo systems using a parametric model",
+        "Toward massive machine type cellular communications",
+        "Experimental three-state measurement-device-independent quantum key distribution with uncharacterized sources",
+        "Comparison of classical and quantum cryptography using QKD simulator",
+        "Tree-CNN: A hierarchical deep convolutional neural network for incremental learning",
+        "On the use of quantum communications for securing IoT devices in the 6G era",
+        "Fundamental rate-loss tradeoff for optical quantum key distribution"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Lavras",
+            "@id": "60017841",
+            "affilname": "Universidade Federal de Lavras",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017841",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Nilai",
+            "@id": "60104915",
+            "affilname": "INTI International University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104915",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Lahore",
+            "@id": "60103839",
+            "affilname": "University of Central Punjab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103839",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Lahore",
+            "@id": "60056462",
+            "affilname": "University of Engineering and Technology, Lahore",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60056462",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Lappeenranta",
+            "@id": "60014304",
+            "affilname": "LUT University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014304",
+            "affiliation-country": "Finland"
+        }
+    ],
+    "funding": [
+        "INTI International University",
+        "Negeri Sembilan, Malaysia",
+        "CNPq"
+    ]
+}

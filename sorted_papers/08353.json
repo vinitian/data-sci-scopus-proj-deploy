@@ -1,0 +1,125 @@
+{
+    "eid": "2-s2.0-85066485305",
+    "title": "Tensor network analysis of critical coupling in two dimensional \u03d5 4 theory",
+    "cover-date": "2019-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Nuclear and High Energy Physics",
+            "@code": "3106",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Discrete Symmetries",
+        "Field Theories in Lower Dimensions",
+        "Lattice Quantum Field Theory"
+    ],
+    "authors": [
+        "Daisuke Kadoh",
+        "Yoshinobu Kuramashi",
+        "Yoshifumi Nakamura",
+        "Ryo Sakai",
+        "Shinji Takeda",
+        "Yusuke Yoshimura"
+    ],
+    "citedby-count": 34,
+    "ref-count": 60,
+    "ref-list": [
+        "There are no Goldstone bosons in two-dimensions",
+        "The existence of a second order phase transition in the two-dimensional \u03d54field theory",
+        "The existence of a second order phase transition in the two-dimensional \u03d54field theory",
+        "Approaching the critical region of two-dimensional \u03d54quantum field theory with post-Gaussian approximations",
+        "Solving two-dimensional \u03d54theory by discretized light front quantization",
+        "Stability of the vacuum in scalar field models in 1 + 1 dimensions",
+        "Second order phase transition in \u03bb\u03d54in two-dimensions with non-Gaussian variational approximation",
+        "Spontaneous symmetry breaking of \u03d54in (1 + 1)-dimensions in light front field theory",
+        "Connected green function approach to ground state symmetry breaking in \u03d54in (1 + 1)-dimensions theory",
+        "Variational calculation of the effective action",
+        "Introduction to spherical field theory",
+        "A nonperturbative analysis of symmetry breaking in two-dimensional \u03d54theory using periodic field methods",
+        "The diagonalization of quantum field Hamiltonians",
+        "Random phase approximation and extensions applied to a bosonic field theory",
+        "Density matrix renormalization group in a two-dimensional lambda \u03d54Hamiltonian lattice model",
+        "An Improved lattice measurement of the critical coupling in \u03d52theory",
+        "Supersymmetry breaking in low dimensional models",
+        "Matrix product states and variational methods applied to critical quantum field theory",
+        "Hamiltonian truncation study of the \u03c64theory in two dimensions",
+        "Monte Carlo determination of the critical coupling in \u03d52theory",
+        "Critical mass renormalization in renormalized \u03d54theories in two and three dimensions",
+        "Two-dimensional light-front \u03d54theory in a symmetric polynomial basis",
+        "High-precision calculations in strongly coupled quantum field theory with next-to-leading-order renormalized hamiltonian truncation",
+        "NLO Renormalization in the Hamiltonian Truncation",
+        "\u03bb\u03d54theory I: The symmetric phase beyond NNNNNNNNLO",
+        "New Monte Carlo determination of the critical coupling in \u03d5 24theory",
+        "Tensor renormalization group approach to 2D classical lattice models",
+        "Tensor-entanglement-filtering renormalization approach and symmetry protected topological order",
+        "Tensor network renormalization",
+        "Loop optimization for tensor network renormalization",
+        "Efficient simulation of Grassmann tensor product states",
+        "Exact blocking formulas for spin and gauge models",
+        "Tensor renormalization group study of classical XY model on the square lattice",
+        "Controlling sign problems in spin models using tensor renormalization",
+        "Grassmann tensor renormalization group approach to one-flavor lattice Schwinger model",
+        "Critical behavior of the lattice Schwinger model with a topological term at \u03b8 = \u03c0 using the Grassmann tensor renormalization group",
+        "Berezinskii-Kosterlitz-Thouless transition in lattice Schwinger model with one flavor of Wilson fermion",
+        "Grassmann tensor renormalization group for the one-flavor lattice Gross-Neveu model with finite chemical potential",
+        "Tensor renormalization group analysis of CP (N \u2212 1) model",
+        "Higher order tensor renormalization group for relativistic fermion systems",
+        "Calculation of fermionic Green functions with Grassmann higher-order tensor renormalization group",
+        "Analysis of the (1 + 1)-dimensional lattice \u03d54model using the tensor renormalization group",
+        "Tensor network formulation for two-dimensional lattice N = 1 Wess-Zumino model",
+        "Essential finite-size effect in the two-dimensional XY model",
+        "Strong-coupling-expansion analysis of the false-vacuum decay rate of the lattice \u03d54model in 1 + 1 dimensions",
+        "Quantum-fluctuation-induced repulsive interaction of a quantum string between walls",
+        "Analysis of a continuous field theory in two dimensions with use of the density matrix renormalization group",
+        "Matrix product states algorithms and continuous systems",
+        "Direct computational approach to lattice supersymmetric quantum mechanics",
+        "Tensor-entanglement renormalization group approach as a unified method for symmetry breaking and topological phase transitions",
+        "Computation of correlation functions by tensor renormalization group method",
+        "Crystal statistics. 1. A two-dimensional model with an order disorder transition",
+        "Phase transitions of ferromagnetic Potts models on the simple cubic lattice"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Kobe",
+            "@id": "60277300",
+            "affilname": "RIKEN Center for Computational Science",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60277300",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025997",
+            "affilname": "Keio University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025997",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Kanazawa",
+            "@id": "60024784",
+            "affilname": "Kanazawa University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024784",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Tsukuba",
+            "@id": "60014256",
+            "affilname": "University of Tsukuba",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014256",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "JSPS",
+        "MEXT",
+        "Chulalongkorn Uni-vesity"
+    ]
+}

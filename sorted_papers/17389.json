@@ -1,0 +1,72 @@
+{
+    "eid": "2-s2.0-85169291907",
+    "title": "Sleep Behavior Classification Based on Clusters of Sleep Quality",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Classification",
+        "Machine learning",
+        "Sleep behavior",
+        "Sleep quality"
+    ],
+    "authors": [
+        "Pawonrat Khumngoen",
+        "Sukree Sinthupinyo"
+    ],
+    "citedby-count": 0,
+    "ref-count": 15,
+    "ref-list": [
+        "Sleep, health, and society",
+        "National Sleep Foundation\u2019s updated sleep duration recommendations",
+        "Sleep: a health imperative",
+        "A study on the sleep quality of incoming university students",
+        "Sleep quality prediction from wearable data using deep learning",
+        "A review of principal component analysis algorithm for dimensionality reduction",
+        "Overview on techniques in cluster analysis",
+        "Centroid selection process using wcss and elbow method for k-mean clustering algorithm in data mining",
+        "Determining the appropiate cluster number using elbow method for k-means algorithm",
+        "An introduction to logistic regression: from basic concepts to interpretation with particular attention to nursing domain",
+        "Random forests",
+        "Random forests",
+        "Performance evaluation of classification algorithms by k-fold and leave-one-out cross validation"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

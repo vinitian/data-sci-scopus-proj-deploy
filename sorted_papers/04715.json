@@ -1,0 +1,64 @@
+{
+    "eid": "2-s2.0-85037118602",
+    "title": "Evaluation of deformable image registration (DIR) methods for dose accumulation in nasopharyngeal cancer patients during radiotherapy",
+    "cover-date": "2017-01-01",
+    "subject-areas": [
+        {
+            "$": "Radiology",
+            "@code": "2741"
+        },
+        {
+            "$": "Oncology",
+            "@code": "2730"
+        }
+    ],
+    "keywords": [
+        "deformable image registration",
+        "dose accumulation",
+        "helical tomotherapy",
+        "MVCT",
+        "nasopharyngeal cancer"
+    ],
+    "authors": [
+        "Wannapha Nobnop"
+    ],
+    "citedby-count": 19,
+    "ref-count": 17,
+    "ref-list": [
+        "A multi-institution evaluation of deformable image registration algorithms for automatic organ delineation in adaptive head and neck radiotherapy",
+        "Assessment of Parotid Gland Dose Changes During Head and Neck Cancer Radiotherapy Using Daily Megavoltage Computed Tomography and Deformable Image Registration",
+        "Evaluation of geometric changes of parotid glands during head and neck cancer radiotherapy using daily MVCT and automatic deformable registration",
+        "Impact of head and neck cancer adaptive radiotherapy to spare the parotid glands and decrease the risk of xerostomia",
+        "Daily variations in delivered doses in patients treated with radiotherapy for localized prostate cancer",
+        "The use of megavoltage CT (MVCT) images for dose recomputations",
+        "Dose calculation using megavoltage cone-beam CT",
+        "Performance of 12 DIR algorithms in low-contrast regions for mass and density conserving deformation.",
+        "Site-specific deformable imaging registration algorithm selection using patient-based simulated deformations",
+        "Accuracy of deformable image registration for contour propagation in adaptive lung radiotherapy",
+        "Technical Note: DIRART - A software suite for deformable image registration and adaptive radiotherapy research",
+        "Intensity-modulated radiation therapy with or without chemotherapy for nasopharyngeal carcinoma: Radiation therapy oncology group phase II trial 0225",
+        "Image Processing in Radiation Therapy",
+        "Statistical validation of brain tumor shape approximation via spherical harmonics for image-guided neurosurgery",
+        "A framework for deformable image registration validation in radiotherapy clinical applications",
+        "A symmetric nonrigid registration method to handle large organ deformations in cervical cancer patients",
+        "Evaluation of deformable image registration methods for dose monitoring in head and neck radiotherapy"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Chiang Mai",
+            "affilname": "Faculty of Medicine, Chiang Mai University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chiang Mai",
+            "affilname": "Chiang Mai University",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

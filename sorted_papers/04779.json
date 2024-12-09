@@ -1,0 +1,73 @@
+{
+    "eid": "2-s2.0-85084685194",
+    "title": "VCanteen: A smart campus solution to elevate university canteen experience",
+    "cover-date": "2019-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Urban Studies",
+            "@code": "3322",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "crowd estimation",
+        "machine learning",
+        "multi-column convolutional neural network",
+        "smart campus"
+    ],
+    "authors": [
+        "B. Vatcharakomonphan",
+        "C. Chaksangchaichot",
+        "N. Ketchaikosol",
+        "T. Tetiranont",
+        "T. Chullapram",
+        "P. Kosittanakiat",
+        "P. Masana",
+        "P. Chansajcha",
+        "S. Suttawuttiwong",
+        "S. Thamkittikhun",
+        "S. Wattanachindaporn",
+        "A. Boonsith",
+        "C. Ratanamahatana",
+        "N. Prompoon",
+        "M. Pipattanasomporn"
+    ],
+    "citedby-count": 5,
+    "ref-count": 16,
+    "ref-list": [
+        "Cloud based canteen management system"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Blacksburg",
+            "@id": "60027090",
+            "affilname": "Virginia Polytechnic Institute and State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027090",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "International School of Engineering"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "eid": "2-s2.0-85070812664",
+    "title": "Railway network modeling using building block of timed coloured petri nets",
+    "cover-date": "2018-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Coloured petri nets",
+        "Model",
+        "Petri nets",
+        "Railway",
+        "Timed petri nets",
+        "Train",
+        "Train schedule"
+    ],
+    "authors": [
+        "Nitipat Songwiroj",
+        "Wiwat Vatanawood",
+        "Somsak Vanit-Anunchai"
+    ],
+    "citedby-count": 2,
+    "ref-count": 14,
+    "ref-list": [
+        "CPN tools 4: A process modeling tool combining declarative and imperative paradigms",
+        "Using timed coloured petri nets for modelling, simulation and scheduling of production systems",
+        "Coloured petri nets and cpn tools for modelling and validation of concurrent systems",
+        "Programming in standard ML",
+        "Towards formalmethods diversity in railways: An experience report with seven frameworks",
+        "Modeling and supervisory control of railway networks using petri nets",
+        "Experience using coloured petri nets to model railway interlocking tables",
+        "Modelling and simulating a Thai railway signalling system using coloured petri nets",
+        "A modelling approach with coloured petri nets",
+        "A petri net model for analysis, optimisation, and control of railway networks and train schedules",
+        "A train traffic model based on coloured petri nets and its application to a train schedule planning system"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Ratchasima",
+            "@id": "60026326",
+            "affilname": "Suranaree University of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026326",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

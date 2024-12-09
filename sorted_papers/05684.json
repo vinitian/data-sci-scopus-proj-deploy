@@ -1,0 +1,127 @@
+{
+    "eid": "2-s2.0-85073212855",
+    "title": "Consumer grade brain sensing for emotion recognition",
+    "cover-date": "2019-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "affective computing",
+        "Consumer grade EEG",
+        "emotion recognition",
+        "low-cost EEG",
+        "OpenBCI"
+    ],
+    "authors": [
+        "Payongkit Lakhan",
+        "Nannapas Banluesombatkul",
+        "Vongsagon Changniam",
+        "Ratwade Dhithijaiyratn",
+        "Pitshaporn Leelaarporn",
+        "Ekkarat Boonchieng",
+        "Supanida Hompoonsup",
+        "Theerawit Wilaiprasitporn"
+    ],
+    "citedby-count": 51,
+    "ref-count": 74,
+    "ref-list": [
+        "A circumplex model of affect",
+        "Methodological aspects of EEG and body dynamics measurements during motion",
+        "Emotion recognition from EEG using higher order crossings",
+        "EEG-based emotion recognition in music listening",
+        "EEG-based emotion recognition during watching movies",
+        "Emotion recognition from EEG during self-paced emotional imagery",
+        "A multimodal database for affect recognition and implicit tagging",
+        "DEAP: A database for emotion analysis; Using physiological signals",
+        "DECAF: MEG-based multimodal database for decoding affective physiological responses",
+        "Investigating critical frequency bands and channels for EEG-based emotion recognition with deep neural networks",
+        "Dreamer: A database for emotion recognition through EEG and ECG signals from wireless low-cost offthe-shelf devices",
+        "An EEG experimental study evaluating the performance of Texas instruments ADS1299",
+        "Performance of the Emotiv Epoc headset for P300-based applications",
+        "Validation of the emotiv epoc EEG gaming system for measuring research quality auditory erps",
+        "Comparison of medical and consumer wireless EEG systems for use in clinical trials",
+        "Choosing MUSE: Validation of a low-cost, portable EEG system for ERP research",
+        "Amigos: A dataset for affect, personality and mood research on individuals and groups",
+        "Method for improving EEG based emotion recognition by combining it with synchronized biometric and eye tracking technologies in a non-invasive and low cost way",
+        "Evolutionary computation algorithms for feature selection of EEGbased emotion recognition using mobile sensors",
+        "Detecting boredom from eye gaze and EEG",
+        "Emotional reaction recognition from EEG",
+        "Real-time movieinduced discrete emotion recognition from EEG signals",
+        "Toward automatic detection of brain responses to emotional music through analysis of EEG effective connectivity",
+        "Neural correlates of phrase rhythm: An EEG study of bipartite vs. Rondo sonata form",
+        "Neural correlates of phrase quadrature perception in harmonic rhythm: An EEG study using a brain-Computer interface",
+        "EEG-based analysis of the emotional effect of music therapy on palliative care cancer patients",
+        "Envisioned speech recognition using EEG sensors",
+        "Applying EEG in consumer neuroscience",
+        "Analysis of EEG signals and its application to neuromarketing",
+        "Enabling free movement EEG tasks by eye fixation and gyroscope motion correction: EEG effects of color priming in dress shopping",
+        "Interest as a proxy of engagement in news reading: Spectral and entropy analyses of EEG activity patterns",
+        "Effect of meditation on emotional response: An EEG-based study",
+        "EEG in the classroom: Synchronised neural recordings during video presentation",
+        "Enheduanna-A manifesto of falling live brain-computer cinema performance: Performer and audience participation, cognition and emotional engagement using multi-brain BCI interaction",
+        "Wearable biosensor network enabled multimodal daily-life emotion recognition employing reputation-driven imbalanced fuzzy classification",
+        "A case-based reasoning model for depression based on three-electrode EEG data",
+        "EEG-based workers' stress recognition at construction sites",
+        "Human-building interaction under various indoor temperatures through neural-signal electroencephalogram (EEG) methods",
+        "IBPoet: An interactive biosensitive poetry composition device",
+        "Development of a software that supports multimodal learning analytics: A case study on oral presentations",
+        "Classification of EEG-based emotion for BCI applications",
+        "Music emotion recognition based onWigner-Ville distribution feature extraction",
+        "Stress effects on exam performance using EEG",
+        "Long-term monitoring of NIRS and EEG signals for assessment of daily changes in emotional valence",
+        "A new EEG software that supports emotion recognition by using an autonomous approach",
+        "Arousal and valence recognition of affective sounds based on electrodermal activity",
+        "Meg and EEG data analysis with mne-python",
+        "Scikit-learn: Machine learning in Python",
+        "Toward userindependent emotion recognition using physiological signals",
+        "Affective EEG-based person identification using the deep learning approach",
+        "Universal joint feature extraction for P300 EEG classification using multi-task autoencoder"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Thonburi",
+            "@id": "60008786",
+            "affilname": "King Mongkut's University of Technology Thonburi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008786",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Rayong",
+            "@id": "60110787",
+            "affilname": "Vidyasirimedhi Institute of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60110787",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chaing Mai",
+            "@id": "60000881",
+            "affilname": "Chiang Mai University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000881",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Office of Higher Education Commission",
+        "PTT Public Company Ltd.",
+        "National Science and Technology Development Agency",
+        "Thailand Research Fund"
+    ]
+}

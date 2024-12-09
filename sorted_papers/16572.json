@@ -1,0 +1,513 @@
+{
+    "eid": "2-s2.0-85088857953",
+    "title": "Implications of TP53 allelic state for genome stability, clinical presentation and outcomes in myelodysplastic syndromes",
+    "cover-date": "2020-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biochemistry, Genetics and Molecular Biology (all)",
+            "@code": "1300",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Elsa Bernard",
+        "Yasuhito Nannya",
+        "Robert P. Hasserjian",
+        "Sean M. Devlin",
+        "Heinz Tuechler",
+        "Juan S. Medina-Martinez",
+        "Tetsuichi Yoshizato",
+        "Yusuke Shiozawa",
+        "Ryunosuke Saiki",
+        "Luca Malcovati",
+        "Max F. Levine",
+        "Juan E. Arango",
+        "Yangyu Zhou",
+        "Francesc Sol\u00e9",
+        "Catherine A. Cargo",
+        "Detlef Haase",
+        "Maria Creignou",
+        "Ulrich Germing",
+        "Yanming Zhang",
+        "Gunes Gundem",
+        "Araxe Sarian",
+        "Arjan A. van de Loosdrecht",
+        "Martin J\u00e4dersten",
+        "Magnus Tobiasson",
+        "Olivier Kosmider",
+        "Matilde Y. Follo",
+        "Felicitas Thol",
+        "Ronald F. Pinheiro",
+        "Valeria Santini",
+        "Ioannis Kotsianidis",
+        "Jacqueline Boultwood",
+        "Fabio P.S. Santos",
+        "Julie Schanz",
+        "Senji Kasahara",
+        "Takayuki Ishikawa",
+        "Hisashi Tsurumi",
+        "Akifumi Takaori-Kondo",
+        "Toru Kiguchi",
+        "Chantana Polprasert",
+        "John M. Bennett",
+        "Virginia M. Klimek",
+        "Michael R. Savona",
+        "Monika Belickova",
+        "Christina Ganster",
+        "Laura Palomo",
+        "Guillermo Sanz",
+        "Lionel Ades",
+        "Matteo Giovanni Della Porta",
+        "Alexandra G. Smith",
+        "Yesenia Werner",
+        "Minal Patel",
+        "Agn\u00e8s Viale",
+        "Katelynd Vanness",
+        "Donna S. Neuberg",
+        "Kristen E. Stevenson",
+        "Kamal Menghrajani",
+        "Kelly L. Bolton",
+        "Pierre Fenaux",
+        "Andrea Pellagatti",
+        "Uwe Platzbecker",
+        "Michael Heuser",
+        "Peter Valent",
+        "Shigeru Chiba",
+        "Yasushi Miyazaki",
+        "Carlo Finelli",
+        "Maria Teresa Voso",
+        "Lee Yung Shih",
+        "Michaela Fontenay",
+        "Joop H. Jansen",
+        "Jos\u00e9 Cervera",
+        "Yoshiko Atsuta",
+        "Norbert Gattermann",
+        "Benjamin L. Ebert",
+        "Rafael Bejar",
+        "Peter L. Greenberg",
+        "Mario Cazzola",
+        "Eva Hellstr\u00f6m-Lindberg",
+        "Seishi Ogawa",
+        "Elli Papaemmanuil"
+    ],
+    "citedby-count": 266,
+    "ref-count": 49,
+    "ref-list": [
+        "Mutational landscape and significance across 12 major cancer types",
+        "Mutational landscape of metastatic cancer revealed from prospective clinical sequencing of 10,000 patients",
+        "TP53 mutation status divides myelodysplastic syndromes with complex karyotypes into distinct prognostic subgroups",
+        "Clinical effect of point mutations in myelodysplastic syndromes",
+        "p53 expression in myeloid cells of myelodysplastic syndromes. Association with evolution of overt leukemia",
+        "Prognostic mutations in myelodysplastic syndrome after stem-cell transplantation",
+        "Genetic abnormalities in myelodysplasia and secondary acute myeloid leukemia: impact on outcome of stem cell transplantation",
+        "TP53 mutations in low-risk myelodysplastic syndromes with del(5q) predict disease progression",
+        "Landscape of genetic lesions in 944 patients with myelodysplastic syndromes",
+        "Putting p53 in context",
+        "Revised international prognostic scoring system for myelodysplastic syndromes",
+        "New comprehensive cytogenetic scoring system for primary myelodysplastic syndromes (MDS) and oligoblastic acute myeloid leukemia after MDS derived from an international database merge",
+        "Monosomal karyotype in acute myeloid leukemia: a better indicator of poor prognosis than a complex karyotype",
+        "Integrated analysis of TP53 gene and pathway alterations in the cancer genome atlas",
+        "TP53 alterations in acute myeloid leukemia with complex karyotype correlate with specific copy number alterations, monosomal karyotype, and dismal outcome",
+        "Genomic classification and prognosis in acute myeloid leukemia",
+        "Impact of TP53 mutation variant allele frequency on phenotype and outcomes in myelodysplastic syndromes",
+        "High prevalence and allele burden-independent prognostic importance of p53 mutations in an inner-city MDS/AML cohort",
+        "Genomic context and TP53 allele frequency define clinical outcomes in TP53-mutated myelodysplastic syndromes",
+        "Maximally selected rank statistics",
+        "A dominant-negative effect drives selection of TP53 missense mutations in myeloid malignancies",
+        "The many faces of p53: something for everyone",
+        "Gain of function of a p53 hot spot mutation in a mouse model of li-Fraumeni syndrome",
+        "Mutant p53 gain of function in two mouse models of Li-Fraumeni syndrome",
+        "A gain-of-function p53-mutant oncogene promotes cell fate plasticity and myeloid leukemia through the pluripotency factor FOXH1",
+        "Role of TP53 mutations in the origin and evolution of therapy-related acute myeloid leukaemia",
+        "Treatment of MDS",
+        "Myeloid malignancies in the real-world: occurrence, progression and survival in the UK\u2019s population-based Haematological Malignancy Research Network 2004\u201315",
+        "Cohort profile: The Haematological Malignancy Research Network (HMRN); a UK population-based patient cohort",
+        "TP53 and decitabine in acute myeloid leukemia and myelodysplastic syndromes",
+        "Clinical significance of SF3B1 mutations in myelodysplastic syndromes and myelodysplastic/myeloproliferative neoplasms",
+        "Clinical and biological implications of driver mutations in myelodysplastic syndromes",
+        "Fast and accurate long-read alignment with Burrows\u2013Wheeler transform",
+        "Sensitive detection of somatic point mutations in impure and heterogeneous cancer samples",
+        "Strelka: accurate somatic small-variant calling from sequenced tumor-normal sample pairs",
+        "Pindel: a pattern growth approach to detect break points of large deletions and medium sized insertions from paired-end short reads",
+        "Variation across 141,456 human exomes and genomes reveals the spectrum of loss-of-function intolerance across human protein-coding genes",
+        "Integrative Genomics Viewer (IGV): high-performance genomics data visualization and exploration",
+        "COSMIC: the catalogue of somatic mutations in cancer",
+        "The cBio cancer genomics portal: an open platform for exploring multidimensional cancer genomics data",
+        "Identifying recurrent mutations in cancer reveals widespread lineage diversity and mutational specificity",
+        "Accelerating discovery of functional mutant alleles in cancer",
+        "ClinVar: public archive of relationships among sequence variation and human phenotype",
+        "OncoKB: A precision oncology knowledge base",
+        "Classification and personalized prognosis in myeloproliferative neoplasms",
+        "TP53 variations in human cancers: new lessons from the iarc tp53 database and genomics data",
+        "Mutational processes shape the landscape of TP53 mutations in human cancer",
+        "CNVkit: genome-wide copy number detection and visualization from targeted DNA sequencing"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "New York",
+            "@id": "60009343",
+            "affilname": "Memorial Sloan-Kettering Cancer Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009343",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Valencia",
+            "@id": "60032451",
+            "affilname": "Hospital Universitari i Polit\u00e8cnic La Fe",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032451",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Kyoto",
+            "@id": "60011001",
+            "affilname": "Kyoto University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011001",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Gifu",
+            "@id": "60268528",
+            "affilname": "Gifu Municipal Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60268528",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Oxford",
+            "@id": "60172675",
+            "affilname": "NIHR Oxford Biomedical Research Centre",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60172675",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Gifu",
+            "@id": "60171746",
+            "affilname": "Graduate School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60171746",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Barcelona",
+            "@id": "60118457",
+            "affilname": "Institut de Recerca contra la Leuc\u00e8mia Josep Carreras (IJC)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60118457",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Nagoya",
+            "@id": "60116771",
+            "affilname": "Japanese Data Center for Hematopoietic Cell Transplantation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60116771",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Kobe",
+            "@id": "60104691",
+            "affilname": "Kobe City Medical Center General Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104691",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "San Diego",
+            "@id": "60086300",
+            "affilname": "Moores Cancer Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60086300",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Fukuyama",
+            "@id": "60083361",
+            "affilname": "Chugoku Central Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60083361",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60029929",
+            "affilname": "Massachusetts General Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029929",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Rome",
+            "@id": "60027509",
+            "affilname": "Universit\u00e0 degli Studi di Roma \"Tor Vergata\"",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027509",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Pavia",
+            "@id": "60026556",
+            "affilname": "Fondazione IRCCS Policlinico San Matteo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026556",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Dusseldorf",
+            "@id": "60025310",
+            "affilname": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025310",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Nashville",
+            "@id": "60024890",
+            "affilname": "Vanderbilt-Ingram Cancer Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024890",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Rozzano",
+            "@id": "60024876",
+            "affilname": "Humanitas Research Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024876",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Rochester",
+            "@id": "60024746",
+            "affilname": "University of Rochester Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024746",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bologna",
+            "@id": "60024574",
+            "affilname": "IRCCS Azienda Ospedaliero-Universitaria di Bologna",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024574",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Hannover",
+            "@id": "60024052",
+            "affilname": "Hannover Medical School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024052",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Florence",
+            "@id": "60021859",
+            "affilname": "Universit\u00e0 degli Studi di Firenze",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021859",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Gottingen",
+            "@id": "60021110",
+            "affilname": "Universit\u00e4tsmedizin G\u00f6ttingen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021110",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Fortaleza",
+            "@id": "60020457",
+            "affilname": "Universidade Federal do Cear\u00e1",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020457",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Leeds",
+            "@id": "60020454",
+            "affilname": "St James's University Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020454",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Taoyuan",
+            "@id": "60020351",
+            "affilname": "Chang Gung University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020351",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Stockholm",
+            "@id": "60019295",
+            "affilname": "Karolinska Universitetssjukhuset",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019295",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "Paris",
+            "@id": "60019163",
+            "affilname": "Hopital Cochin AP-HP",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019163",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "York",
+            "@id": "60016418",
+            "affilname": "University of York",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016418",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Sao Paulo",
+            "@id": "60016295",
+            "affilname": "Hospital Israelita Albert Einstein",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016295",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Pavia",
+            "@id": "60015197",
+            "affilname": "Universit\u00e0 degli Studi di Pavia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015197",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60014334",
+            "affilname": "Dana-Farber Cancer Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014334",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Tsukuba",
+            "@id": "60014256",
+            "affilname": "University of Tsukuba",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014256",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bologna",
+            "@id": "60013883",
+            "affilname": "Universit\u00e0 degli Studi di Bologna, Facolt\u00e0 di Medicina e Chirurgia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013883",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Palo Alto",
+            "@id": "60012708",
+            "affilname": "Stanford University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012708",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Nagasaki",
+            "@id": "60011846",
+            "affilname": "Nagasaki University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011846",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Vienna",
+            "@id": "60011394",
+            "affilname": "Medizinische Universit\u00e4t Wien",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011394",
+            "affiliation-country": "Austria"
+        },
+        {
+            "affiliation-city": "Chevy Chase",
+            "@id": "60009470",
+            "affilname": "Howard Hughes Medical Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009470",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Leipzig",
+            "@id": "60008042",
+            "affilname": "Universit\u00e4t Leipzig",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008042",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Komotini",
+            "@id": "60005613",
+            "affilname": "Democritus University of Thrace, Medical School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005613",
+            "affiliation-country": "Greece"
+        },
+        {
+            "affiliation-city": "Paris",
+            "@id": "60002900",
+            "affilname": "H\u00f4pital Saint-Louis",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002900",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Nijmegen",
+            "@id": "60002573",
+            "affilname": "Radboud University Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002573",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Amsterdam",
+            "@id": "60001997",
+            "affilname": "Amsterdam UMC - Vrije Universiteit Amsterdam",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001997",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Madrid",
+            "@id": "60001602",
+            "affilname": "Instituto de Salud Carlos III",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001602",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Prague",
+            "@id": "60000796",
+            "affilname": "Institute of Hematology and Blood Transfusion",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000796",
+            "affiliation-country": "Czech Republic"
+        }
+    ],
+    "funding": [
+        "Astellas Pharmaceutical",
+        "Bayer Pharma",
+        "Blood Cancer UK",
+        "Bristol-Myers-Squibb",
+        "B\u00f6ehringer-Ingelheim",
+        "Francois Wallace Monahan Fellowship",
+        "GRAIL",
+        "Gabrielle\u2019s Angels Foundation",
+        "Janssen Pharmaceutical",
+        "Janssen-Cilag",
+        "MIUR-PRIN",
+        "NeoGenomics",
+        "Nippon Shinyaku",
+        "Novartis Pharmaceutical",
+        "Onconova",
+        "Sanofi K.K. and Celltrion",
+        "Sanofi KK",
+        "SymBio Pharmaceutical",
+        "Tejin",
+        "V Foundation",
+        "American Society of Hematology",
+        "Amgen",
+        "MDS Foundation",
+        "Pfizer",
+        "Astellas",
+        "Novartis",
+        "Celgene Corporation",
+        "Abbvie",
+        "Hoffmann-La Roche",
+        "MSD",
+        "Takeda",
+        "Takeda Pharmaceutical",
+        "European Hematology Association",
+        "Otsuka Pharmaceutical",
+        "AMED",
+        "Geoffrey Beene Foundation",
+        "Taiho Pharmaceutical",
+        "Chugai Pharmaceutical",
+        "Astex",
+        "Japan Society for the Promotion of Science",
+        "Ministry of Education, Culture, Sports, Science and Technology",
+        "Daiichi Sankyo",
+        "Austrian Science Fund",
+        "Sumitomo Dainippon Pharmaceutical",
+        "Kyowa Kirin",
+        "Associazione Italiana per la Ricerca sul Cancro",
+        "Ono Pharmaceutical and Cognano"
+    ]
+}

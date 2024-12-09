@@ -1,0 +1,69 @@
+{
+    "eid": "2-s2.0-85141139182",
+    "title": "Multi-Objective Design of Model Predictive Control with Improved Optimal Power Flow Constraints for Microgrid Energy Management System in Mae Hong Son",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "combined economic emission dispatch",
+        "convex relaxation",
+        "energy management system (EMS)",
+        "Mae Hong Son microgrid",
+        "model predictive control (MPC)",
+        "optimal power flow (OPF)",
+        "second order cone programming"
+    ],
+    "authors": [
+        "Anusorn Srivichai",
+        "Itthi Sriskul",
+        "David Banjerdpongchai"
+    ],
+    "citedby-count": 0,
+    "ref-count": 8,
+    "ref-list": [
+        "Model predictive control of energy management system for economic dispatch with application to MHS microgrid in normal operation",
+        "Model predictive control of microgrid energy management system with optimal power flow constraints using second order cone programming",
+        "An effective nontraditional algorithm for solving the problem of optimal power flow with minimum environmental pollution using price penalty factors",
+        "Design of supervisory model predictive control for building HVAC system with consideration of peak-load shaving and thermal comfort"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

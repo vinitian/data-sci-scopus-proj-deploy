@@ -1,0 +1,88 @@
+{
+    "eid": "2-s2.0-85088487781",
+    "title": "Integrating Biological Knowledge into Case-Control Analysis through Iterated Conditional Modes/Medians Algorithm",
+    "cover-date": "2020-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "empirical Bayes variable selection",
+        "genome-wide association studies",
+        "iterated conditional modes/medians",
+        "logistic regression",
+        "single nucleotide polymorphism"
+    ],
+    "authors": [
+        "Vitara Pungpapong",
+        "Min Zhang",
+        "Dabao Zhang"
+    ],
+    "citedby-count": 1,
+    "ref-count": 16,
+    "ref-list": [
+        "The effect of Parkinson's-disease-associated mutations on the deubiquitinating enzyme uch-l1",
+        "Statistical analysis of non-lattice data",
+        "Genetics in Parkinson disease: Mendelian vs",
+        "Needles and straw in haystacks: Empirical bays estimates of possibly sparse sequence",
+        "Genetics of Parkinson's disease",
+        "Bayesian variable selection in structured high-dimensional covariate spaces with application in genomics",
+        "Genetics of Parkinson's disease",
+        "Genomewide association study for susceptibility genes contributing to familial Parkinson disease",
+        "Genetic profile, environmental exposure, and their interaction in Parkinson's disease",
+        "Selecting massive variables using an iterated conditional modes/medians algorithm",
+        "EMVS: TheEMapproach to Bayesian variable selection",
+        "The harmonizome: A collection of processed datasets gathered to serve and mine knowledge about genes and proteins",
+        "Genome-wide association study reveals genetic risk underlying Parkinson's disease",
+        "Incorporating biological information into linear models: A Bayesian approach to the selection of pathways and genes",
+        "Regression shrinkage and selection via the lasso",
+        "The adaptive lasso and its oracle properties"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "West Lafayette",
+            "@id": "60028629",
+            "affilname": "College of Science",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028629",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "NINDS"
+    ]
+}

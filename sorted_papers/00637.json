@@ -1,0 +1,83 @@
+{
+    "eid": "2-s2.0-85079103983",
+    "title": "Robust Output-Feedback Stabilization of a Nonlinear Bioreactor: A Matrix Inequality Approach",
+    "cover-date": "2019-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Bioreactor",
+        "Nonlinear systems",
+        "Parameter-dependent LMI",
+        "Robust stability",
+        "Static output-feedback stabilization"
+    ],
+    "authors": [
+        "Tanagorn Jennawasin",
+        "David Banjerdpongchai"
+    ],
+    "citedby-count": 0,
+    "ref-count": 17,
+    "ref-list": [
+        "Estimating the attraction domain for the boost inverter",
+        "LMI techniques for optimization over polynomials in control: A survey",
+        "Feedback control for chemostat models",
+        "Analysis and design of polynomial control systems using dissipation inequalities and sum of squares",
+        "Control of a nonlinear continuous bioreactor with bifurcation by a type-2 fuzzy logic controller",
+        "Robust control for an uncertain chemostat model",
+        "Optimal control for polynomial systems using matrix sum of squares relaxation",
+        "Stabilization of nonlinear systems with bounded actuators using convex optimization",
+        "A vector lyapunov function characterization of input-to-state stability with application to robust global stabilization of the chemostat",
+        "Fault-tolerant control synthesis for a class of nonlinear systems: Sum of squares optimization approach",
+        "Semidefinite programming relaxations for semialgebraic problems",
+        "Nonlinear control synthesis by sum of squares optimization: A lyapunov-based approach",
+        "Dilated-matrix inequalities for control design in systems with actuator constraint",
+        "Output-feedback stabilization of continu ous bioreactors in the presence of biomass decay",
+        "Matrix sum-of-squares relaxations for robust semi-definite programs",
+        "Regional stabilisation of polynomial non-linear systems using rational lyapunov functions"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Thonburi",
+            "@id": "60008786",
+            "affilname": "King Mongkut's University of Technology Thonburi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008786",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Center for the Promotion of Research and Academic Outreach",
+        "Chulalongkorn University",
+        "King Mongkut\u2019s University of Technology Thonburi"
+    ]
+}

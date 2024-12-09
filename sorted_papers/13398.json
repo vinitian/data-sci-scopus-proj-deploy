@@ -1,0 +1,171 @@
+{
+    "eid": "2-s2.0-85107908291",
+    "title": "Tracking COVID-19 with wastewater to understand asymptomatic transmission",
+    "cover-date": "2021-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Microbiology (medical)",
+            "@code": "2726",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Infectious Diseases",
+            "@code": "2725",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Asymptomatic transmission",
+        "COVID-19",
+        "SARS-CoV-2 in wastewater",
+        "SARS-CoV-2 viral RNA",
+        "Wastewater",
+        "Wastewater of Bangkok"
+    ],
+    "authors": [
+        "Dhammika Leshan Wannigama",
+        "Mohan Amarasiri",
+        "Cameron Hurst",
+        "Phatthranit Phattharapornjaroen",
+        "Shuichi Abe",
+        "Parichart Hongsing",
+        "S. M.Ali Hosseini Rad",
+        "Lachlan Pearson",
+        "Thammakorn Saethang",
+        "Sirirat Luk-in",
+        "Naris Kueakulpattana",
+        "Robin James Storer",
+        "Puey Ounjai",
+        "Alain Jacquet",
+        "Asada Leelahavanichkul",
+        "Tanittha Chatsuwan"
+    ],
+    "citedby-count": 19,
+    "ref-count": 11,
+    "ref-list": [
+        "Persistence of SARS-CoV-2 in water and wastewater",
+        "Diarrhea during COVID-19 infection: pathogenesis, epidemiology, prevention, and management",
+        "Positive impact of lockdown on COVID-19 outbreak in Thailand",
+        "Detection of SARS-CoV-2 RNA in hospital wastewater from a low COVID-19 disease prevalence area",
+        "Digestive symptoms in COVID-19 patients with mild disease severity: clinical presentation, stool viral RNA testing, and outcomes",
+        "Characteristics of SARS-CoV-2 and COVID-19",
+        "SARS-CoV-2 in wastewater: potential health risk, but also data source",
+        "Presence of SARS-Coronavirus-2 RNA in sewage and correlation with reported COVID-19 prevalence in the early stage of the epidemic in The Netherlands",
+        "Seroprevalence of hospital staff in a province with zero COVID-19 cases",
+        "Measurement of SARS-CoV-2 RNA in wastewater tracks community infection dynamics",
+        "SARS-CoV-2 titers in wastewater are higher than expected from clinically confirmed cases"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60012718",
+            "affilname": "Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012718",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Yamagata",
+            "@id": "60264763",
+            "affilname": "Yamagata Prefectural Central Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60264763",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199569",
+            "affilname": "Mae Fah Luang University Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199569",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Perth",
+            "@id": "60189720",
+            "affilname": "UWA Medical School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60189720",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Sagamihara",
+            "@id": "60168087",
+            "affilname": "Kitasato University Graduate School of Medical Science",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60168087",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Gothenburg",
+            "@id": "60027675",
+            "affilname": "Sahlgrenska Akademin",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027675",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "Brisbane",
+            "@id": "60025029",
+            "affilname": "QIMR Berghofer Medical Research Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025029",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60021944",
+            "affilname": "Kasetsart University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021944",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chiang Rai",
+            "@id": "60020524",
+            "affilname": "Mae Fah Luang University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020524",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Dunedin",
+            "@id": "60017311",
+            "affilname": "University of Otago",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017311",
+            "affiliation-country": "New Zealand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60015887",
+            "affilname": "Faculty of Medicine Ramathibodi Hospital, Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015887",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60012521",
+            "affilname": "Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012521",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Parramatta",
+            "@id": "60003992",
+            "affilname": "The Westmead Institute for Medical Research",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003992",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "University of Western Australia",
+        "Chulalongkorn University"
+    ]
+}

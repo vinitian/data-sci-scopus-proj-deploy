@@ -1,0 +1,72 @@
+{
+    "eid": "2-s2.0-85120069769",
+    "title": "Complete genome sequences of mycobacterium farcinogenes strains isolated from clinical specimens from patients in thailand",
+    "cover-date": "2021-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Immunology and Microbiology (miscellaneous)",
+            "@code": "2401",
+            "@abbrev": "IMMU"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Pimpayao Sodsai",
+        "Piroon Jenjaroenpun",
+        "Nattiya Hirankarn",
+        "Thidathip Wongsurawat",
+        "Suwatchareeporn Rotcheeewaphan"
+    ],
+    "citedby-count": 0,
+    "ref-count": 10,
+    "ref-list": [
+        "Current perspectives on Mycobacterium farcinogenes and Mycobacterium senegalense, the causal agents of bovine farcy",
+        "The new phylogeny of the genus Mycobacterium: The old and the news",
+        "NanoPack: Visualizing and processing long-read sequencing data",
+        "Assembly of long, error-prone reads using repeat graphs",
+        "Fast and accurate de novo genome assembly from long uncorrected reads",
+        "QUAST: Quality assessment tool for genome assemblies",
+        "GTDB-Tk: A toolkit to classify genomes with the Genome Taxonomy Database",
+        "A complete domain-to-species taxonomy for bacteria and archaea",
+        "NCBI Prokaryotic Genome Annotation Pipeline"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199575",
+            "affilname": "Siriraj Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199575",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Faculty of Medicine, Chulalongkorn University"
+    ]
+}

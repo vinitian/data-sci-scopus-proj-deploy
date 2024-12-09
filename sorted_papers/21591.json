@@ -1,0 +1,118 @@
+{
+    "eid": "2-s2.0-85152334857",
+    "title": "Learning-Based Rate Control for High Efficiency Video Coding",
+    "cover-date": "2023-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analytical Chemistry",
+            "@code": "1602",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "HEVC",
+        "learning-based rate control",
+        "PSO"
+    ],
+    "authors": [
+        "Sovann Chen",
+        "Supavadee Aramvith",
+        "Yoshikazu Miyanaga"
+    ],
+    "citedby-count": 0,
+    "ref-count": 45,
+    "ref-list": [
+        "Overview of the H. 264/AVC video coding standard",
+        "Overview of the high efficiency video coding (HEVC) standard",
+        "Performance and computational complexity assessment of high-efficiency video encoders",
+        "Performance comparison of H. 265/MPEG-HEVC, vp9, and H. 264/MPEG-AVC encoders",
+        "High efficiency video coding (HEVC)",
+        "Intra coding of the HEVC standard",
+        "Sample adaptive offset in the HEVC standard",
+        "A comparison of fractional-pel interpolation filters in HEVC and H. 264/AVC",
+        "\u03bb domain rate control algorithm for High Efficiency Video Coding",
+        "Low-delay rate control for DCT video coding via \u03c1-domain source modeling",
+        "Low-complexity rate control based on \u03c1-domain model for scalable video coding",
+        "Deep residual learning for image recognition",
+        "Imagenet: A large-scale hierarchical image database",
+        "Constrained optimization based on modified differential evolution algorithm",
+        "Evolution strategies\u2014A comprehensive introduction",
+        "Simulated annealing",
+        "Genetic algorithm",
+        "Recent approaches to global optimization problems through particle swarm optimization",
+        "Particle swarm optimization",
+        "A framework for constrained optimization problems based on a modified particle swarm optimization",
+        "A new multi-objective particle swarm optimization method for solving reliability redundancy allocation problems",
+        "UCAV path planning by fitness-scaling adaptive chaotic particle swarm optimization",
+        "Resource allocation algorithm based on hybrid particle swarm optimization for multiuser cognitive OFDM network",
+        "An optimized model based on convolutional neural networks and orthogonal learning particle swarm optimization algorithm for plant diseases diagnosis",
+        "Pixel-wise unified rate-quantization model for multi-level rate control",
+        "Adaptive quantization-parameter clip scheme for smooth quality in H. 264/AVC",
+        "Quadratic \u03c1-domain based rate control algorithm for HEVC",
+        "Rate-GOP based rate control for high efficiency video coding",
+        "A rate control algorithm for HEVC with hierarchical GOP structures",
+        "Low-delay rate control for consistent quality using distortion-based Lagrange multiplier",
+        "Common Test Conditions and Software Reference Configurations",
+        "Encoder Control Enhancement in HEVC Based on R-Lambda Coefficient Distribution",
+        "Inter-block dependency-based CTU level rate control for HEVC",
+        "Rate control method based on deep reinforcement learning for dynamic video sequences in HEVC",
+        "Deep convolutional feature-driven rate control for the HEVC encoders",
+        "Deep learning for visual understanding: A review",
+        "UVG dataset: 50/120fps 4K sequences for video codec analysis and development",
+        "\u03bb-domain optimal bit allocation algorithm for High Efficiency Video Coding",
+        "Optimal bit allocation at frame level for rate control in HEVC"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chitose",
+            "@id": "60075979",
+            "affilname": "Chitose Institute of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60075979",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "NSRF",
+        "Ratchadaphiseksomphot Endowment Fund",
+        "Thailand Science research and Innovation Fund Chulalongkorn University",
+        "JICA"
+    ]
+}

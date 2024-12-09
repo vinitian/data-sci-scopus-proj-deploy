@@ -1,0 +1,77 @@
+{
+    "eid": "2-s2.0-85049752235",
+    "title": "EYE-CAPTCHA: An enhanced CAPTCHA using eye movement",
+    "cover-date": "2018-03-22",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "biometrics authentication",
+        "CAPTCHA",
+        "eye movement"
+    ],
+    "authors": [
+        "Apichai Siripitakchai",
+        "Suphakant Phimoltares",
+        "Atchara Mahaweerawat"
+    ],
+    "citedby-count": 5,
+    "ref-count": 23,
+    "ref-list": [
+        "Telling humans and computers apart automatically",
+        "User authentication using combination of behavioral biometrics over the touchpad acting like touch screen of mobile device",
+        "Anomaly behavior analysis of website vulnerability and security",
+        "Survey of different types of CAPTCHA",
+        "Dynamic image based CAPTCHA",
+        "Text-based CAPTCHA strengths and weaknesses",
+        "A case study of text-based CAPTCHA attacks",
+        "Attacking image besed CAPTCHAs using image recognition recognition techniques",
+        "Attacks and design of image recognition CAPTCHAs",
+        "An audio CAPTCHA to distinguish humans from computers",
+        "Development of CAPTCHA system based on puzzle",
+        "A multibiometrics-base CAPTCHA for Improved online security",
+        "New CAPTCHA for smartphones and tablet PC",
+        "Captcha as graphical password-enhanced with video-based captcha for secure services",
+        "Web-based multimodal biometric authentication application",
+        "The influence of text difficulty level and topic on eye-movement behavior and pupil size during reading",
+        "The second eye movement verification and identification competition",
+        "Gaze detectin based on head pose estimation in smart TV",
+        "Eye gaze tracking",
+        "Webcam-based eye movement analysis using CNN",
+        "WebGazer: Scalable webcam eye tracking using user Interactions"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022676",
+            "affilname": "Ramkhamhaeng University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022676",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

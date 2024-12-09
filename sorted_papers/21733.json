@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85099516363",
+    "title": "Analysis of Cracked Body Strengthened by Adhesively Bonded Patches by BEM-FEM Coupling",
+    "cover-date": "2021-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "bonded patches",
+        "Boundary integral equation method",
+        "cracked body",
+        "finite element method",
+        "stress intensity factors"
+    ],
+    "authors": [
+        "Binh V. Pham",
+        "Thai Binh Nguyen",
+        "Jaroon Rungamornrat"
+    ],
+    "citedby-count": 0,
+    "ref-count": 31,
+    "ref-list": [
+        "Boundary elements analysis of adhesively bonded piezoelectric active repair",
+        "Analysis of cracked plates with a bonded patch",
+        "Bonded repair of damage",
+        "Symmetric weak-form integral equation method for three-dimensional fracture analysis",
+        "Boundary element analysis of CFRP reinforced steel plates",
+        "Boundary element analysis of stiffened panels with repair patches",
+        "A practical tool for the preliminary design of bonded composite repairs",
+        "Numerical investigation of constitutive material models on bonded joints in scarf repaired composite laminates",
+        "An application of the inclusion analogy for bonded reinforcements",
+        "Weakly-singular, weak-form integral equations for cracks in three-dimensional anisotropic media",
+        "A weakly-singular SGBEM for analysis of cracks in 3D anisotropic media",
+        "Analysis for T-stress of cracks in 3D anisotropic elastic media by weakly singular integral equation method",
+        "The application of the dual boundary element method to the analysis of cracked stiffened panels",
+        "The boundary element analysis of cracked stiffened sheets, reinforced by adhesively bonded patches",
+        "Numerical simulation study of fatigue crack growth behavior of cracked aluminum panels repaired with a FRP composite patch using combined BEM/FEM",
+        "Compressive behaviour of a damaged omega stiffened panel: Damage detection and numerical analysis",
+        "Analysis of cracked aluminum plates repaired with bonded composite panels",
+        "Boundary element analysis of cracked thick plates repaired with adhesively bonded composite patches",
+        "Stiffened cracked plates analysis by dual boundary element method",
+        "Boundary element analysis of flat cracked panels with adhesively bonded patches",
+        "Boundary element analysis of curved cracked panels with adhesively bonded patches",
+        "Boundary element analysis of cracked panels repaired by mechanically fastened composite patches",
+        "Quantifying crack tip displacement fields with DIC",
+        "Analysis of patched and stiffened cracked panels using the boundary element method",
+        "Crack propagation prediction of CFRP retrofitted steel plates with different degrees of damage using BEM"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60078566",
+            "affilname": "Viet Nam National University Ho Chi Minh City",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60078566",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "JICA"
+    ]
+}

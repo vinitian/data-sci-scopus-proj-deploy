@@ -1,0 +1,88 @@
+{
+    "eid": "2-s2.0-85164408354",
+    "title": "Spatio-Temporal PM2.5 Forecasting in Thailand Using Encoder-Decoder Networks",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "deep learning",
+        "machine learning",
+        "PM25 prediction",
+        "video prediction"
+    ],
+    "authors": [
+        "Natch Sirisumpun",
+        "Kritchart Wongwailikhit",
+        "Pisut Painmanakul",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 42,
+    "ref-list": [
+        "Assessment of biomass-burning types and transport over Thailand and the associated health risks",
+        "The impact of crop residue burning on air quality over Yangtze River delta, China: Observation and simulation",
+        "Understanding the influence of crop residue burning on PM2.5 and PM10 concentrations in China from 2013 to 2017 using MODIS data",
+        "Air quality impacts of crop residue burning in India and mitigation alternatives",
+        "Impact of crop residue burning in Haryana on the air quality of Delhi, India",
+        "Correlations between fine particulate matter (PM2.5) and meteorological variables in the United States: Implications for the sensitivity of PM2.5 to climate change",
+        "Synoptic weather patterns and associated air pollution in Taiwan",
+        "Impact comparison of synoptic meteorology and nationwide/local emissions on the Seoul Metropolitan Area during high PM multi-event and non-event days",
+        "Meteorological characteristics during periods of greatly reduced PM2.5 concentrations in March 2020 in Seoul",
+        "Satellite monitoring for carbon monoxide and particulate matter during forest fire episodes in Northern Thailand",
+        "The effect of seasonal variation and meteorological data on PM10 concentrations in Northern Thailand",
+        "Metal concentrations and source apportionment of PM2.5 in Chiang Rai and Bangkok, Thailand during a biomass burning season",
+        "Patterns of relationship between PM10 from air monitoring quality station and AOT data from MODIS sensor onboard of Terra satellite",
+        "Air pollution PM2.5 data analysis in Los Angeles long beach with seasonal ARIMA model",
+        "Trend analysis and forecast of PM2.5 in Fuzhou, China using the ARIMA model",
+        "ARIMA and multiple regression additive models for PM2.5 based on linear interpolation",
+        "Application of an SVM-based regression model to the air quality study at local scale in the Avil\u00e9s urban area (Spain)",
+        "Short-term prediction of air pollution in Macau using support vector machines",
+        "Prediction of hourly PM2.5 using a space-time support vector regression model",
+        "Linear and nonlinear modeling approaches for urban air quality prediction",
+        "Air pollution forecasting using RNN with LSTM",
+        "Long short-term memory",
+        "DeepAirNet: Applying recurrent networks for air quality prediction",
+        "Learning phrase representations using RNN encoder-decoder for statistical machine translation",
+        "A sequenceto-sequence air quality predictor based on the n-step recurrent prediction",
+        "PM2.5 prediction using genetic algorithm-based feature selection and encoder-decoder model",
+        "A neural attention model for urban air quality inference: Learning the weights of monitoring stations",
+        "A spatiotemporal recurrent neural network for prediction of atmospheric PM2.5: A case study of Beijing",
+        "Multitask air-quality prediction based on LSTMautoencoder model",
+        "A novel method for identifying hotspots and forecasting air quality through an adaptive utilization of spatio-temporal information of multiple factors",
+        "A novel spatiotemporal convolutional long short-term neural network for air pollution prediction",
+        "Deep-AIR: A hybrid CNN-LSTM framework for fine-grained air pollution estimation and forecast in metropolitan cities",
+        "Convolutional LSTM network: A machine learning approach for precipitation nowcasting",
+        "PredRNN: Recurrent neural networks for predictive learning using spatiotemporal LSTMs",
+        "Memory in memory: A predictive neural network for learning higher-order nonstationarity from spatiotemporal dynamics",
+        "Self-attention ConvLSTM for spatiotemporal prediction",
+        "MAU: A motion-aware unit for video prediction and beyond",
+        "SimVP: Simpler yet better video prediction",
+        "ERA5 hourly data on single levels from 1959 to present"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85130962131",
+    "title": "Enhanced Feature Pyramid Vision Transformer for Semantic Segmentation on Thailand Landsat-8 Corpus",
+    "cover-date": "2022-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "attention",
+        "deep learning",
+        "Landsat-8",
+        "pyramid vision transformer",
+        "satellite image"
+    ],
+    "authors": [
+        "Kritchayan Intarat",
+        "Preesan Rakwatin",
+        "Teerapong Panboonyuen"
+    ],
+    "citedby-count": 1,
+    "ref-count": 25,
+    "ref-list": [
+        "Multiattention network for semantic segmentation of fine-resolution remote sensing images",
+        "Semantic Segmentation of Satellite Images: A Deep Learning Approach Integrated with Geospatial Hash Codes",
+        "SCAttNet: Semantic Segmentation Network with Spatial and Channel Attention Mechanism for High-Resolution Remote Sensing Images",
+        "Dual attention deep fusion semantic segmentation networks of large-scale satellite remote-sensing images",
+        "Self-attention in reconstruction bias U-Net for semantic segmentation of building rooftops in optical remote sensing images",
+        "Daugnet: Unsupervised, multisource, multitarget, and life-long domain adaptation for semantic segmentation of satellite images",
+        "Large kernel matters\u2013improve semantic segmentation by global convolutional network",
+        "Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs",
+        "Mask r-cnn",
+        "Bisenet: Bilateral segmentation network for real-time semantic segmentation",
+        "Ccnet: Criss-cross attention for semantic segmentation",
+        "Pre-trained image processing transformer",
+        "Vision transformers for dense prediction",
+        "Bottleneck transformers for visual recognition",
+        "Rethinking the Self-Attention in Vision Transformers",
+        "Revamping Cross-Modal Recipe Retrieval with Hierarchical Transformers and Self-supervised Learning",
+        "Training data-efficient image transformers & distillation through attention",
+        "Semantic segmentation of aerial images with shuffling convolutional neural networks",
+        "Rethinking semantic segmentation from a sequence-to-sequence perspective with transformers",
+        "Parallel feature pyramid network for object detection"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60012521",
+            "affilname": "Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012521",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "128154093",
+            "affilname": "MARS\u2014Motor AI Recognition Solution",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/128154093",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "124101394",
+            "affilname": "Digital Economy Promotion Agency",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/124101394",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "NASA Land Cover Land Use Change",
+        "CGIAR",
+        "TSRI"
+    ]
+}

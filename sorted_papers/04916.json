@@ -1,0 +1,78 @@
+{
+    "eid": "2-s2.0-85022177717",
+    "title": "An enhanced deep convolutional encoder-decoder network for road segmentation on aerial imagery",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Deep convolutional neural network",
+        "Deep learning",
+        "Image processing",
+        "Remote sensing",
+        "Road segmentation"
+    ],
+    "authors": [
+        "Teerapong Panboonyuen",
+        "Peerapon Vateekul",
+        "Kulsawasd Jitkajornwanich",
+        "Siam Lawawirojwong"
+    ],
+    "citedby-count": 29,
+    "ref-count": 21,
+    "ref-list": [
+        "Road network extraction: A neural-dynamic framework based on deep learning and a finite state machine",
+        "Multiple object extraction from aerial imagery with convolutional neural networks",
+        "Fully convolutional networks for semantic segmentation",
+        "Learning deconvolution network for semantic segmentation",
+        "Road extraction using k-means clustering and morphological operations",
+        "Fast and accurate deep network learning by exponential linear units (ELUs)",
+        "Road extraction in high resolution images from google earth",
+        "Semantic segmentation of urban scenes by learning local class interactions",
+        "Detection guided deconvolutional network for hierarchical feature learning",
+        "Decoupled deep neural network for semi-supervised semantic segmentation",
+        "U-net: Convolutional networks for biomedical",
+        "Landscape metrics for categorical map patterns",
+        "Tensor-cuts: A simultaneous multi-type feature extractor and classifier and its application to road extraction from satellite images",
+        "Batch normalization: Accelerating deep network training by reducing internal covariate shift",
+        "Very deep convolutional networks for large-scale image recognition",
+        "The pascal visual object classes challenge: A retrospective"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60091494",
+            "affilname": "Geo-Informatics and Space Technology Development Agency",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091494",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ladkrabang Bangkok",
+            "@id": "60021543",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021543",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

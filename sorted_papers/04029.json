@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85146320537",
+    "title": "Fast Maximum-Power-Point-Tracking for Photovoltaic Systems Based on P-V2Characteristic Curve and Its Stability Analysis",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "dynamic response",
+        "Lure's system",
+        "Maximum power point tracking",
+        "P-V2 curve",
+        "stability analysis"
+    ],
+    "authors": [
+        "Monchai Ariyapuek",
+        "Surapong Suwankawin",
+        "Somboon Sangwongwanich",
+        "Ariya Sangwongwanich"
+    ],
+    "citedby-count": 0,
+    "ref-count": 15,
+    "ref-list": [
+        "Comparative and comprehensive review of maximum power point tracking methods for PV cells",
+        "Comparison of Photovoltaic Array Maximum Power Point Tracking Techniques",
+        "Assessment of Perturb and Observe MPPT Algorithm Implementation Techniques for PV Pumping Applications",
+        "Assessment of the Incremental Conductance Maximum Power Point Tracking Algorithm",
+        "Dynamic Behavior of a Class of Photovoltaic Power Systems",
+        "Controlled power interface between solar cells and AC source",
+        "Maximum Photovoltaic power tracking: An algorithm for rapidly changing atmospheric conditions",
+        "A Variable Step Size INC MPPT Method for PV Systems",
+        "Residential photovoltaic energy storage system",
+        "A new scheme for maximum photovoltaic power tracking control",
+        "On the Perturb-and-Observe and Incremental Conductance MPPT Methods for PV Systems",
+        "Maximum power obtainable in a nonlinear system",
+        "The Circle Criterion and Input-to-State Stability",
+        "A State-Space Dynamic Model for Photovoltaic Systems With Full Ancillary Services Support",
+        "Double-Carrier-Based PWM Theory for Independent Power Control of Dual-Input Three-level Inverters"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Aalborg",
+            "@id": "60022134",
+            "affilname": "Aalborg University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022134",
+            "affiliation-country": "Denmark"
+        }
+    ],
+    "funding": []
+}

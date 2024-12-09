@@ -1,0 +1,906 @@
+{
+    "eid": "2-s2.0-85115279177",
+    "title": "Global Respiratory Syncytial Virus-Related Infant Community Deaths",
+    "cover-date": "2021-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Microbiology (medical)",
+            "@code": "2726",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Infectious Diseases",
+            "@code": "2725",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "community death",
+        "lower respiratory tract infection",
+        "respiratory syncytial virus"
+    ],
+    "authors": [
+        "Natalie I. Mazur",
+        "Yvette N. L\u00f6wensteyn",
+        "Joukje E. Willemsen",
+        "Christopher J. Gill",
+        "Leah Forman",
+        "Lawrence M. Mwananyanda",
+        "Dianna M. Blau",
+        "Robert F. Breiman",
+        "Shabir A. Madhi",
+        "Sana Mahtab",
+        "Emily S. Gurley",
+        "Shams El Arifeen",
+        "Nega Assefa",
+        "J. Anthony G. Scott",
+        "Dickens Onyango",
+        "Beth A. Tippet Barr",
+        "Karen L. Kotloff",
+        "Samba O. Sow",
+        "Inacio Mandomando",
+        "Ikechukwu Ogbuanu",
+        "Amara Jambai",
+        "Quique Bassat",
+        "Somsak Thamthitiwat",
+        "Angela Gentile",
+        "Maria Florencia Lucion",
+        "M\u00e1rcia Rosane Pires",
+        "Fernanda De-Paris",
+        "Aubree Gordon",
+        "Jos\u00e9 F\u00e9lix S\u00e1nchez",
+        "Marilla G. Lucero",
+        "Socorro P. Lupisan",
+        "Bradford D. Gessner",
+        "Haoua Tall",
+        "Natasha Halasa",
+        "Najwa Khuri-Bulos",
+        "D. James Nokes",
+        "Patrick K. Munywoki",
+        "Grieven P. Otieno",
+        "Katherine L. O'Brien",
+        "Katherine L. Oshitani",
+        "Maria Tereza Da Costa Oliveira",
+        "Carla Cec\u00edlia De Freitas L\u00e1zaro Emediato",
+        "Asad Ali",
+        "Uzma Bashir Aamir",
+        "Daniel E. Noyola",
+        "Cheryl Cohen",
+        "Jocelyn Moyes",
+        "Heloisa Ihle Garcia Giamberardino",
+        "Jane Melissa Webler",
+        "Patricia Gomes De Matos Bezerra",
+        "Maria Carmo Menezes Do Bezerra Duarte",
+        "Helen Y. Chu",
+        "Rashmi Ranjan Das",
+        "Martin W. Weber",
+        "Nusrat Homaira",
+        "Adam Jaffe",
+        "Katharine M. Sturm-Ramirez",
+        "Wei Su",
+        "Chiang Chun Yuan",
+        "Sandra Chaves",
+        "Gideon O. Emukule",
+        "Sergio De Andrade Nishioka",
+        "Felipe Cotrim De Carvalho",
+        "\u015eule G\u00f6k\u00e7e",
+        "Sonia M. Raboni",
+        "Michael Hawkes",
+        "Melina Messaoudi",
+        "Juliet Bryant",
+        "Ghassan S. Dbaibo",
+        "Rima Hanna-Wakim",
+        "J. A.A. Sampath Jayaweera",
+        "Kirill Stolyarov",
+        "Piyarat Suntarattiwong",
+        "Tuf\u00e1ria Muss\u00e1",
+        "Alfredo Bruno",
+        "Domenica De Mora",
+        "Nasamon Wanlapakorn",
+        "Zheng De Xie",
+        "Junhong Ai",
+        "Jenny Ojeda",
+        "Lida Zamora",
+        "Evangeline Obodai",
+        "John Kofi Odoom",
+        "Maha Talaat Ismail",
+        "Andrea Buchwald",
+        "Cristina O'Callaghan-Gordo",
+        "Jaime Fernandez-Sarmiento",
+        "Evelyn Obando-Belalcazar",
+        "Tapan Dhole",
+        "Sheetal Verma",
+        "Aykut E\u015fki",
+        "G. Ozturk Kartal",
+        "Mohammed Al Amad",
+        "Abdul Wahed Al Serouri",
+        "Yoke Funchan",
+        "Jamal I.Ching Sam",
+        "Daniel Jarovsky",
+        "Daniella Greg\u00f3ria Bomfim Prado Da Silva",
+        "Jos\u00e9 Gareca Perales",
+        "Teck Hock Toh",
+        "Jeffrey Lee Soon Yit",
+        "Tanil Kendirli",
+        "Emrah Gun",
+        "Tani Sagna",
+        "Serge Diagbouga",
+        "Fahmida Chowdhury",
+        "Md Ariful Islam",
+        "Marietjie Venter",
+        "Adele Visser",
+        "Minh Hong Pham",
+        "Pablo V\u00e1squez-Hoyos",
+        "Sebasti\u00e1n Gonz\u00e1lez-Dambrauskas",
+        "Franco D\u00edaz Rubio",
+        "Todd Karsies",
+        "Eliana Zemanate",
+        "Ledys Izquierdo",
+        "Rub\u00e9n Lasso Palomino",
+        "Rosalba Pardo-Carrero",
+        "Reginna Grigolli-Cesar",
+        "Soledad Menta",
+        "Nicol\u00e1s Monteverde",
+        "Muhterem Duyu",
+        "Senjuti Saha",
+        "Samir K. Saha",
+        "Matthew Kelly",
+        "Marcela Echavarria",
+        "Tuan Tran",
+        "Aida Borgi",
+        "Ahmed Ayari",
+        "Mauricio T. Caballero",
+        "Fernando P. Polack",
+        "Saad Omer",
+        "Abdul Momin Kazi",
+        "Eric A.F. Sim\u00f5es",
+        "Ashish Satav",
+        "Louis J. Bont"
+    ],
+    "citedby-count": 17,
+    "ref-count": 17,
+    "ref-list": [
+        "Global and regional mortality from 235 causes of death for 20 age groups in 1990 and 2010: a systematic analysis for the global burden of disease study 2010",
+        "Global burden of respiratory infections due to seasonal influenza in young children: a systematic review and meta-analysis",
+        "Global, regional, and national disease burden estimates of acute lower respiratory infections due to respiratory syncytial virus in young children in 2015: a systematic review and modelling study",
+        "Respiratory syncytial virus vaccination during pregnancy and effects in infants",
+        "Single-dose nirsevimab for prevention of RSV in preterm infants",
+        "Mortality associated with acute respiratory infections among children at home",
+        "Initial findings from a novel population-based child mortality surveillance approach: a descriptive study",
+        "Global respiratory syncytial virus-associated mortality in young children (RSV GOLD): a retrospective case series",
+        "In-and out-of-hospital mortality associated with seasonal and pandemic influenza and respiratory syncytial virus in South Africa, 2009-2013"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Atlanta",
+            "@id": "60021658",
+            "affilname": "Centers for Disease Control and Prevention",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021658",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Barcelona",
+            "@id": "60001576",
+            "affilname": "Universitat de Barcelona",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001576",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Tunis",
+            "@id": "60053459",
+            "affilname": "Universit\u00e9 de Tunis El Manar, H\u00f4pital d'Enfants B\u00e9chir Hamza de Tunis",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60053459",
+            "affiliation-country": "Tunisia"
+        },
+        {
+            "affiliation-city": "Karachi",
+            "@id": "60052016",
+            "affilname": "The Aga Khan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60052016",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Sao Paulo",
+            "@id": "60014217",
+            "affilname": "Faculdade de Ciencias Medicas da Santa Casa de Sao Paulo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014217",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Baltimore",
+            "@id": "60012957",
+            "affilname": "University of Maryland School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012957",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Dhaka",
+            "@id": "60010123",
+            "affilname": "International Centre for Diarrhoeal Disease Research Bangladesh",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010123",
+            "affiliation-country": "Bangladesh"
+        },
+        {
+            "affiliation-city": "Baltimore",
+            "@id": "60006183",
+            "affilname": "Johns Hopkins Bloomberg School of Public Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006183",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Buenos Aires",
+            "@id": "60004518",
+            "affilname": "Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004518",
+            "affiliation-country": "Argentina"
+        },
+        {
+            "affiliation-city": "Ouagadougou",
+            "@id": "60273689",
+            "affilname": "Institut de Recherche en Sciences de la Sant\u00e9",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60273689",
+            "affiliation-country": "Burkina Faso"
+        },
+        {
+            "affiliation-city": "Manhica",
+            "@id": "60272403",
+            "affilname": "Centro de Investiga\u00e7\u00e3o em Sa\u00fade de Manhi\u00e7a CISM",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60272403",
+            "affiliation-country": "Mozambique"
+        },
+        {
+            "affiliation-city": "Guayaquil",
+            "@id": "60272255",
+            "affilname": "Universidad Agraria del Ecuador",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60272255",
+            "affiliation-country": "Ecuador"
+        },
+        {
+            "affiliation-city": "Istanbul",
+            "@id": "60198715",
+            "affilname": "University of Health Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60198715",
+            "affiliation-country": "Turkey"
+        },
+        {
+            "affiliation-city": "Sendai",
+            "@id": "60180317",
+            "affilname": "Graduate School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60180317",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Birmingham",
+            "@id": "60119078",
+            "affilname": "Department of Epidemiology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60119078",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bhubaneswar",
+            "@id": "60110821",
+            "affilname": "All India Institute of Medical Sciences, Bhubaneswar",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60110821",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Cali",
+            "@id": "60109272",
+            "affilname": "Fundaci\u00f3n Valle del Lili",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60109272",
+            "affiliation-country": "Colombia"
+        },
+        {
+            "affiliation-city": "Lyon",
+            "@id": "60108299",
+            "affilname": "Centre International de Recherche en Infectiologie",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60108299",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Santiago",
+            "@id": "60105368",
+            "affilname": "Universidad Finis Terrae",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60105368",
+            "affiliation-country": "Chile"
+        },
+        {
+            "affiliation-city": "Istanbul",
+            "@id": "60104438",
+            "affilname": "Istanbul Medeniyet University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104438",
+            "affiliation-country": "Turkey"
+        },
+        {
+            "affiliation-city": "Ch\u00eda",
+            "@id": "60087109",
+            "affilname": "Universidad de La Sabana",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60087109",
+            "affiliation-country": "Colombia"
+        },
+        {
+            "affiliation-city": "Bogota",
+            "@id": "60087081",
+            "affilname": "Hospital Militar Central, Bogota",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60087081",
+            "affiliation-country": "Colombia"
+        },
+        {
+            "affiliation-city": "Madrid",
+            "@id": "60085099",
+            "affilname": "Centro de Investigaci\u00f3n Biom\u00e9dica en Red de Epidemiolog\u00eda y Salud P\u00fablica",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60085099",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Columbus",
+            "@id": "60080012",
+            "affilname": "Nationwide Children\u2019s Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60080012",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Tacuarembo",
+            "@id": "60078314",
+            "affilname": "Hospital Regional de Tacuaremb\u00f3",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60078314",
+            "affiliation-country": "Uruguay"
+        },
+        {
+            "affiliation-city": "Mihintale",
+            "@id": "60078079",
+            "affilname": "Rajarata University of Sri Lanka",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60078079",
+            "affiliation-country": "Sri Lanka"
+        },
+        {
+            "affiliation-city": "Beijing",
+            "@id": "60073452",
+            "affilname": "Beijing Tiantan Hospital, Capital Medical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60073452",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Maputo",
+            "@id": "60072688",
+            "affilname": "Universidade Eduardo Mondlane",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60072688",
+            "affiliation-country": "Mozambique"
+        },
+        {
+            "affiliation-city": "Maputo",
+            "@id": "60072687",
+            "affilname": "Instituto Nacional de Saude Maputo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60072687",
+            "affiliation-country": "Mozambique"
+        },
+        {
+            "affiliation-city": "Banjul",
+            "@id": "60072002",
+            "affilname": "Medical Research Council Laboratories Gambia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60072002",
+            "affiliation-country": "Gambia"
+        },
+        {
+            "affiliation-city": "Accra",
+            "@id": "60071891",
+            "affilname": "Noguchi Memorial Institute for Medical Research",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071891",
+            "affiliation-country": "Ghana"
+        },
+        {
+            "affiliation-city": "Manila",
+            "@id": "60071446",
+            "affilname": "Gokila",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071446",
+            "affiliation-country": "Philippines"
+        },
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60071418",
+            "affilname": "University of Medicine and Pharmacy at HCMC",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071418",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60071387",
+            "affilname": "Children's Hospital No. 1 Ho Chi Minh City",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071387",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Dire Dawa",
+            "@id": "60071205",
+            "affilname": "Haramaya University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071205",
+            "affiliation-country": "Ethiopia"
+        },
+        {
+            "affiliation-city": "Curitiba",
+            "@id": "60069348",
+            "affilname": "Hospital Infantil Peque\u00f1o Principe",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60069348",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Recife",
+            "@id": "60069336",
+            "affilname": "Instituto Materno Infantil de Pernambuco",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60069336",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Beirut",
+            "@id": "60068761",
+            "affilname": "American University of Beirut",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60068761",
+            "affiliation-country": "Lebanon"
+        },
+        {
+            "affiliation-city": "Nairobi",
+            "@id": "60066705",
+            "affilname": "Wellcome Trust Research Laboratories Nairobi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60066705",
+            "affiliation-country": "Kenya"
+        },
+        {
+            "affiliation-city": "Amman",
+            "@id": "60064180",
+            "affilname": "The University of Jordan",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60064180",
+            "affiliation-country": "Jordan"
+        },
+        {
+            "affiliation-city": "Islamabad",
+            "@id": "60056782",
+            "affilname": "National Institute of Health Pakistan",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60056782",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Barcelona",
+            "@id": "60032907",
+            "affilname": "Instituci\u00f3 Catalana de Recerca i Estudis Avan\u00e7ats",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032907",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Utrecht",
+            "@id": "60032724",
+            "affilname": "University Medical Center Utrecht",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032724",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Johannesburg",
+            "@id": "60031471",
+            "affilname": "National Institute for Communicable Diseases",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031471",
+            "affiliation-country": "South Africa"
+        },
+        {
+            "affiliation-city": "San Luis Potos\u00ed",
+            "@id": "60031335",
+            "affilname": "Universidad Aut\u00f3noma de San Luis Potos\u00ed",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031335",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60031331",
+            "affilname": "London School of Hygiene &amp; Tropical Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031331",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Nashville",
+            "@id": "60030769",
+            "affilname": "Vanderbilt University Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030769",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Kuala Lumpur",
+            "@id": "60029157",
+            "affilname": "Universiti Malaya",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029157",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Seattle",
+            "@id": "60028548",
+            "affilname": "University of Washington School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028548",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Aurora",
+            "@id": "60028392",
+            "affilname": "University of Colorado Anschutz Medical Campus",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028392",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Geneva",
+            "@id": "60027142",
+            "affilname": "Organisation Mondiale de la Sant\u00e9",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027142",
+            "affiliation-country": "Switzerland"
+        },
+        {
+            "affiliation-city": "Rio de Janeiro",
+            "@id": "60026004",
+            "affilname": "Fundacao Oswaldo Cruz",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026004",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Lucknow",
+            "@id": "60025015",
+            "affilname": "Sanjay Gandhi Postgraduate Institute of Medical Sciences Lucknow",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025015",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Izmir",
+            "@id": "60022028",
+            "affilname": "Ege \u00dcniversitesi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022028",
+            "affiliation-country": "Turkey"
+        },
+        {
+            "affiliation-city": "Pretoria",
+            "@id": "60021902",
+            "affilname": "University of Pretoria",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021902",
+            "affiliation-country": "South Africa"
+        },
+        {
+            "affiliation-city": "Lucknow",
+            "@id": "60021599",
+            "affilname": "King George's Medical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021599",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Edmonton",
+            "@id": "60019490",
+            "affilname": "University of Alberta, Faculty of Medicine and Dentistry",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019490",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60018701",
+            "affilname": "School of Public Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018701",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Brasilia",
+            "@id": "60017931",
+            "affilname": "Minist\u00e9rio da Sa\u00fade",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017931",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Accra",
+            "@id": "60017910",
+            "affilname": "University of Ghana",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017910",
+            "affiliation-country": "Ghana"
+        },
+        {
+            "affiliation-city": "Buenos Aires",
+            "@id": "60017590",
+            "affilname": "Hospital de Ninos Ricardo Gutierrez",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017590",
+            "affiliation-country": "Argentina"
+        },
+        {
+            "affiliation-city": "Johannesburg",
+            "@id": "60016218",
+            "affilname": "University of the Witwatersrand, Johannesburg",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016218",
+            "affiliation-country": "South Africa"
+        },
+        {
+            "affiliation-city": "Nontaburi",
+            "@id": "60015728",
+            "affilname": "Thailand Ministry of Public Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015728",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Johannesburg",
+            "@id": "60015189",
+            "affilname": "School of Pathology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015189",
+            "affiliation-country": "South Africa"
+        },
+        {
+            "affiliation-city": "Curitiba",
+            "@id": "60015043",
+            "affilname": "Universidade Federal do Parana",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015043",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Porto Alegre",
+            "@id": "60014120",
+            "affilname": "Hospital de Clinicas de Porto Alegre",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014120",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Ankara",
+            "@id": "60012603",
+            "affilname": "Ankara \u00dcniversitesi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012603",
+            "affiliation-country": "Turkey"
+        },
+        {
+            "affiliation-city": "Kensington",
+            "@id": "60011463",
+            "affilname": "UNSW Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011463",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60010778",
+            "affilname": "Queen Sirikit National Institute of Child Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010778",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Durham",
+            "@id": "60008724",
+            "affilname": "Duke University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008724",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "New Haven",
+            "@id": "60005455",
+            "affilname": "Yale University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005455",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Barcelona",
+            "@id": "60002581",
+            "affilname": "Universitat Oberta de Catalunya",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002581",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Atlanta",
+            "@id": "60000928",
+            "affilname": "Emory University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000928",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Kadhava",
+            "@id": "127014450",
+            "affilname": "Mahatma Gandhi Tribal Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/127014450",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "127014175",
+            "affilname": "Red Colaborativa Pedi\u00e1trica de Latinoameric\u00e1 (LARed Network)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/127014175",
+            "affiliation-country": null
+        },
+        {
+            "affiliation-city": "Bogota",
+            "@id": "127013726",
+            "affilname": "Hospital de Montevideo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/127013726",
+            "affiliation-country": "Colombia"
+        },
+        {
+            "affiliation-city": "Popoy\u00e1n",
+            "@id": "127013312",
+            "affilname": "Hospital Susana L\u00f3pez de Valencia E.S.E.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/127013312",
+            "affiliation-country": "Colombia"
+        },
+        {
+            "affiliation-city": "Santa Cruz de la Sierra",
+            "@id": "127012893",
+            "affilname": "Centro de Pediatria Especializada 'CRECER'",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/127012893",
+            "affiliation-country": "Bolivia"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "127012667",
+            "affilname": "Bronchiolitis and Co-Detection (BACON) study",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/127012667",
+            "affiliation-country": null
+        },
+        {
+            "affiliation-city": "Freetown",
+            "@id": "127007956",
+            "affilname": "Crown Agents",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/127007956",
+            "affiliation-country": "Sierra Leone"
+        },
+        {
+            "affiliation-city": "Saint Petersburg",
+            "@id": "126722890",
+            "affilname": "Smorodintsev Research Institute of Influenza",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126722890",
+            "affiliation-country": "Russian Federation"
+        },
+        {
+            "affiliation-city": "Zeist",
+            "@id": "125791710",
+            "affilname": "Respiratory Syncytial Virus Network (ReSViNET) Foundation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125791710",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Montevideo",
+            "@id": "122864023",
+            "affilname": "Cuidados Intensivos Pedi\u00e1tricos Especializados (CIPe) Casa de Galicia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/122864023",
+            "affiliation-country": "Uruguay"
+        },
+        {
+            "affiliation-city": "Sana'a",
+            "@id": "119919039",
+            "affilname": "Yemen Field Epidemiology Training Program (Yemen-FETP)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/119919039",
+            "affiliation-country": "Yemen"
+        },
+        {
+            "affiliation-city": "Kisumu",
+            "@id": "119779814",
+            "affilname": "Kisumu County Department of Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/119779814",
+            "affiliation-country": "Kenya"
+        },
+        {
+            "affiliation-city": "New Haven",
+            "@id": "117155603",
+            "affilname": "Yale Institute for Global Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/117155603",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Santiago",
+            "@id": "114763076",
+            "affilname": "Hospital El Carmen de Maip\u00fa",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/114763076",
+            "affiliation-country": "Chile"
+        },
+        {
+            "affiliation-city": "Guayaquil",
+            "@id": "114492968",
+            "affilname": "Instituto Nacional de Investigaci\u00f3n en Salud P\u00fablica (INSPI)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/114492968",
+            "affiliation-country": "Ecuador"
+        },
+        {
+            "affiliation-city": "Belo Horizonte",
+            "@id": "112841215",
+            "affilname": "Health Secretariat of the City of Belo Horizonte",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112841215",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Dhaka",
+            "@id": "112792764",
+            "affilname": "Child Health Research Foundation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112792764",
+            "affiliation-country": "Bangladesh"
+        },
+        {
+            "affiliation-city": "Bogota",
+            "@id": "112738893",
+            "affilname": "Instituto Roosevelt",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112738893",
+            "affiliation-country": "Colombia"
+        },
+        {
+            "affiliation-city": "Managua",
+            "@id": "112598476",
+            "affilname": "Children's Hospital Manuel de Jesus Rivera",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112598476",
+            "affiliation-country": "Nicaragua"
+        },
+        {
+            "affiliation-city": "Paris",
+            "@id": "106453720",
+            "affilname": "Agence de M\u00e9decine Pr\u00e9ventive",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/106453720",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Bamako",
+            "@id": "101904979",
+            "affilname": "Center for Vaccine Development",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101904979",
+            "affiliation-country": "Mali"
+        },
+        {
+            "affiliation-city": "Guangzhou",
+            "@id": "101583840",
+            "affilname": "Guangzhou CanAm International Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101583840",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Bogota",
+            "@id": "101517523",
+            "affilname": "Cl\u00ednica Infantil Colsubsidio",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101517523",
+            "affiliation-country": "Colombia"
+        },
+        {
+            "affiliation-city": "Sao Paulo",
+            "@id": "101481311",
+            "affilname": "Hospital Infantil Sabar\u00e1",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101481311",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Montevideo",
+            "@id": "101364387",
+            "affilname": "Intensive Care Unit",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101364387",
+            "affiliation-country": "Uruguay"
+        },
+        {
+            "affiliation-city": "Quito",
+            "@id": "100857614",
+            "affilname": "Ministerio de Salud P\u00fablica del Ecuador",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/100857614",
+            "affiliation-country": "Ecuador"
+        },
+        {
+            "affiliation-city": "Sibu",
+            "@id": "100561657",
+            "affilname": "Sibu Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/100561657",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Freetown",
+            "@id": "100514212",
+            "affilname": "Ministry of Health and Sanitation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/100514212",
+            "affiliation-country": "Sierra Leone"
+        },
+        {
+            "affiliation-city": "Buenos Aires",
+            "@id": "100465534",
+            "affilname": "Fundaci\u00f3n INFANT",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/100465534",
+            "affiliation-country": "Argentina"
+        }
+    ],
+    "funding": [
+        "Astra Zeneca Inc",
+        "Bill and Melinda Gates Foundation",
+        "Johnson and Johnson",
+        "Merck & Co.",
+        "Roche",
+        "Abbvie Inc"
+    ]
+}

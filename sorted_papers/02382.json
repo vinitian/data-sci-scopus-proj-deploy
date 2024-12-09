@@ -1,0 +1,106 @@
+{
+    "eid": "2-s2.0-85120072926",
+    "title": "ScoreNet: A Neural Network-Based Post-Processing Model for Identifying Epileptic Seizure Onset and Offset in EEGs",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Internal Medicine",
+            "@code": "2724",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Neuroscience (all)",
+            "@code": "2800",
+            "@abbrev": "NEUR"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biomedical Engineering",
+            "@code": "2204",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Rehabilitation",
+            "@code": "2742",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Deep learning",
+        "EEG",
+        "EL-index",
+        "ScoreNet",
+        "seizure onset and offset detection"
+    ],
+    "authors": [
+        "Poomipat Boonyakitanont",
+        "Apiwat Lek-Uthai",
+        "Jitkomut Songsiri"
+    ],
+    "citedby-count": 4,
+    "ref-count": 54,
+    "ref-list": [
+        "ILAE official report: A practical clinical definition of epilepsy",
+        "Standards for epidemiologic studies and surveillance of epilepsy",
+        "Application of entropies for automated diagnosis of epilepsy using EEG signals: A review",
+        "A review of channel selection algorithms for EEG signal processing",
+        "A review of feature extraction and performance evaluation in epileptic seizure detection using EEG",
+        "Epilepsy seizure detection using complete ensemble empirical mode decomposition with adaptive noise",
+        "Amplitude-integrated EEG processing and its performance for automatic seizure detection",
+        "Application of machine learning to epileptic seizure detection",
+        "Epileptic EEG detection using the linear prediction error energy",
+        "Epileptic seizure classification of EEG time-series using rational discrete short-time Fourier transform",
+        "Classification of epilepsy EEG signals using DWT-based envelope analysis and neural network ensemble",
+        "A hybrid automated detection of epileptic seizures in EEG records",
+        "Detection of epileptic seizure based on entropy analysis of short-term EEG",
+        "Epileptic seizure identification using entropy of FBSE based EEG rhythms",
+        "Classification of seizure and seizure-free EEG signals using local binary patterns",
+        "Local pattern transformation based feature extraction techniques for classification of epileptic EEG signals",
+        "Epileptic seizure detection in EEG signals using sparse multiscale radial basis function networks and the Fisher vector approach",
+        "Automated epileptic seizure detection using improved correlation-based feature selection with random forest classifier",
+        "Performance evaluation of empirical mode decomposition, discrete wavelet transform, and wavelet packed decomposition for automated epileptic seizure detection and prediction",
+        "Real-time epileptic seizure detection using EEG",
+        "A machine learning system for automated whole-brain seizure detection",
+        "Classification of epileptic EEG recordings using signal transforms and convolutional neural networks",
+        "Convolutional neural network with autoencoder-assisted multiclass labelling for seizure detection based on scalp electroencephalography",
+        "A comprehensive comparison of handcrafted features and convolutional autoencoders for epileptic seizures detection in EEG signals",
+        "Deep convolutional neural network for the automated detection and diagnosis of seizure using EEG signals",
+        "Deep multi-view feature learning for EEG-based epileptic seizure detection",
+        "Scalp EEG classification using deep bi-LSTM network for seizure detection",
+        "Neonatal seizure detection from raw multi-channel EEG using a fully convolutional architecture",
+        "Seizure detection by convolutional neural network-based analysis of scalp electroencephalography plot images",
+        "An algorithm for detecting seizure termination in scalp EEG",
+        "Patient non-specific algorithm for seizures detection in scalp EEG",
+        "Automatic epileptic seizure onset-offset detection based on CNN in scalp EEG",
+        "Detection of seizure event and its onset/offset using orthonormal triadic wavelet based features",
+        "Focal loss for dense object detection",
+        "Adaptive semi-unsupervised weighted oversampling (A-SUWO) for imbalanced datasets",
+        "A new under-sampling method using genetic algorithm for imbalanced data classification",
+        "A new sampling method for classifying imbalanced data based on support vector machine ensemble",
+        "Learning from class-imbalanced data: Review of methods and applications",
+        "Cost-sensitive decision tree ensembles for effective imbalanced classification",
+        "EddyNet: A deep neural network for pixel-wise classification of oceanic eddies",
+        "V-net: Fully convolutional neural networks for volumetric medical image segmentation",
+        "On optimization methods for deep learning",
+        "Physio bank, physio toolkit, and physio net",
+        "Performance assessment for EEG-based neonatal seizure detectors",
+        "Evaluation: From precision, recall and F-measure to ROC, informedness, markedness and correlation",
+        "Automated EEG analysis of epilepsy: A review",
+        "A multi-view deep learning method for epileptic seizure detection using short-time Fourier transform",
+        "Deep convolutional neural network-based epileptic electroencephalogram (EEG) signal classification",
+        "A unified multi-level spectral-temporal feature learning framework for patient-specific seizure onset detection in EEG signals",
+        "Epileptic seizure detection in EEG signals using a unified temporal-spectral Squeeze-and-Excitation network",
+        "Seizure onset detection using empirical mode decomposition and common spatial pattern"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

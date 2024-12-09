@@ -1,0 +1,112 @@
+{
+    "eid": "2-s2.0-85084347476",
+    "title": "Elucidating the Regulon of a Fur-like Protein in Mycobacterium avium subsp. paratuberculosis (MAP)",
+    "cover-date": "2020-04-23",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Microbiology",
+            "@code": "2404",
+            "@abbrev": "IMMU"
+        },
+        {
+            "@_fa": "true",
+            "$": "Microbiology (medical)",
+            "@code": "2726",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "ChIP-seq",
+        "Fur",
+        "iron",
+        "Mycobacterium avium subsp. paratuberculosis",
+        "regulon"
+    ],
+    "authors": [
+        "Fernanda Miyagaki Shoyama",
+        "Taveesak Janetanakit",
+        "John P. Bannantine",
+        "Raul G. Barletta",
+        "Srinand Sreevatsan"
+    ],
+    "citedby-count": 4,
+    "ref-count": 42,
+    "ref-list": [
+        "Insertion and deletion events that define the pathogen Mycobacterium avium subsp. paratuberculosis",
+        "Ferric uptake regulation protein acts as a repressor, employing iron (II) as a cofactor to bind the operator of an iron transport operon in Escherichia coli",
+        "Genome scale comparison of Mycobacterium avium subsp. paratuberculosis Reveals potential diagnostic sequences",
+        "Regulation of ferritin-mediated cytoplasmic iron storage by the ferric uptake regulator homolog (Fur) of Helicobacter pylori",
+        "The regulation of bacterial transcription initiation",
+        "Characterization of the Fur Regulon in Pseudomonas syringae pv. tomato DC3000",
+        "Metal homeostasis and resistance in bacteria",
+        "Chromatin immunoprecipitation assays",
+        "The Fur repressor controls transcription of iron-activated and -repressed genes in Helicobacter pylori",
+        "LeuO is a global regulator of gene expression in Salmonella enterica serovar Typhimurium",
+        "Identification of a lineage specific zinc responsive genomic island in Mycobacterium avium subspecies paratuberculosis",
+        "FurA contributes to the oxidative stress response regulation of Mycobacterium avium ssp",
+        "Metalloregulation in vitro of the aerobactin promoter of Escherichia coli by the Fur (ferric uptake regulation) protein",
+        "Opening the iron box: transcriptional metalloregulation by the Fur protein",
+        "Comprehensive mapping of the Escherichia coli flagellar regulatory network",
+        "The economic impact and control of paratuberculosis in cattle",
+        "FIMO: scanning for occurrences of a given motif",
+        "Regulation of ferric iron transport in Escherichia coli K12: isolation of a constitutive mutant",
+        "Iron and metal regulation in bacteria",
+        "Specificity of metal sensing: iron and manganese homeostasis in Bacillus subtilis",
+        "Campylobacter jejuni gene expression in response to iron limitation and the role of Fur",
+        "Transcription factor binding site mapping using ChIP-Seq",
+        "Primary transcriptomes of Mycobacterium avium subsp. paratuberculosis reveal proprietary pathways in tissue and macrophages",
+        "Identification and functional characterization of the iron- dependent regulator (IdeR) of Mycobacterium avium subsp. paratuberculosis",
+        "Virtual ChIP-seq: predicting transcription factor binding by learning from the transcriptome",
+        "Role of intragenic binding of cAMP responsive protein (CRP) in regulation of the succinate dehydrogenase genes Rv0249c-Rv0247c in TB complex mycobacteria",
+        "Host-Mycobacterium avium subsp. paratuberculosis interactome reveals a novel iron assimilation mechanism linked to nitric oxide stress during early infection",
+        "Functional specialization within the fur family metalloregulators",
+        "The complete genome sequence of Mycobacterium avium subspecies paratuberculosis",
+        "Effect of RyhB small RNA on global iron use in Escherichia coli",
+        "Helicobacter pylori apo-fur regulation appears unconserved across species",
+        "Metal binding characteristics and role of iron oxidation in the ferric uptake regulator from Escherichia coli",
+        "Virtual Footprint and PRODORIC: an integrative framework for regulon prediction in prokaryotes",
+        "Pathogenesis, molecular genetics, and genomics of Mycobacterium avium subsp. paratuberculosis, the etiologic Agent of Johne\u2019s Disease",
+        "IdeR, an essential gene in Mycobacterium tuberculosis: role of IdeR in iron-dependent gene expression, iron metabolism, and oxidative stress response",
+        "A 38-kilobase pathogenicity island specific for Mycobacterium avium subsp. paratuberculosis encodes cell surface proteins expressed in the host",
+        "Identifying in *-seq data using shape information",
+        "Discovery and characterization of a unique mycobacterial heme acquisition system",
+        "Iron acquisition in Mycobacterium avium subsp. paratuberculosis",
+        "Disruption of Mycobacterium avium subsp. paratuberculosis-specific gene impairs in vivo fitness",
+        "Transcriptional analysis of diverse strains Mycobacterium avium subspecies paratuberculosis in primary bovine monocyte derived macrophages"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "East Lansing",
+            "@id": "60031707",
+            "affilname": "Michigan State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031707",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Lincoln",
+            "@id": "60026306",
+            "affilname": "University of Nebraska\u2013Lincoln",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026306",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Ames",
+            "@id": "60023722",
+            "affilname": "USDA ARS National Animal Disease Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023722",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "NIFA",
+        "Cornell University"
+    ]
+}

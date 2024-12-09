@@ -1,0 +1,127 @@
+{
+    "eid": "2-s2.0-85159354896",
+    "title": "Multivariate analysis and model building for classifying patients in the peroxisomal disorders X-linked adrenoleukodystrophy and Zellweger syndrome in Chinese pediatric patients",
+    "cover-date": "2023-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Genetics (clinical)",
+            "@code": "2716",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Pharmacology (medical)",
+            "@code": "2736",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "C26: carnitine",
+        "Hexacosanoylcarnitine",
+        "Metabolomic signature",
+        "Newborn screening",
+        "PCA",
+        "PLS-DA",
+        "Sparse PLS-DA",
+        "t-SNE",
+        "Very long chain fatty acids",
+        "X-ALD",
+        "X-linked adrenoleukodystrophy",
+        "Zellweger syndrome"
+    ],
+    "authors": [
+        "Zhixing Zhu",
+        "Georgi Z. Genchev",
+        "Yanmin Wang",
+        "Wei Ji",
+        "Xiaofen Zhang",
+        "Hui Lu",
+        "Sira Sriswasdi",
+        "Guoli Tian"
+    ],
+    "citedby-count": 1,
+    "ref-count": 43,
+    "ref-list": [
+        "Peroxisomes: a nexus for lipid metabolism and cellular signaling",
+        "Peroxisomal disorders: a review",
+        "Human disorders of peroxisome metabolism and biogenesis",
+        "Zellweger spectrum disorders: clinical overview and management approach",
+        "Adrenoleukodystrophy - neuroendocrine pathogenesis and redefinition of natural history",
+        "X-linked adrenoleukodystrophy (X-ALD): clinical presentation and guidelines for diagnosis, follow-up and management",
+        "Follow-up of 89 asymptomatic patients with adrenoleukodystrophy treated with Lorenzo?s oil",
+        "Progression of abnormalities in adrenomyeloneuropathy and neurologically asymptomatic X-linked adrenoleukodystrophy despite treatment with ?Lorenzo?s oil",
+        "Lovastatin in X-linked adrenoleukodystrophy",
+        "Long-term effect of bone-marrow transplantation for childhood-onset cerebral X-linked adrenoleukodystrophy",
+        "Survival analysis of haematopoietic cell transplantation for childhood cerebral X-linked adrenoleukodystrophy: a comparison study",
+        "Hematopoietic stem-cell gene therapy for cerebral adrenoleukodystrophy",
+        "Long-term Follow-Up of hematopoietic stem-cell gene therapy for cerebral adrenoleukodystrophy",
+        "Hematopoietic stem cell gene therapy with a lentiviral vector in X-linked adrenoleukodystrophy",
+        "Adenoassociated virus serotype 9-mediated gene therapy for x-linked adrenoleukodystrophy",
+        "In vivo gene editing via homology-independent targeted integration for adrenoleukodystrophy treatment",
+        "Intracerebral lentiviral ABCD1 gene therapy in an early disease onset ALD mouse model",
+        "X-linked adrenoleukodystrophy: Pathology, pathophysiology, diagnostic testing, newborn screening and therapies",
+        "Evaluation of X-Linked adrenoleukodystrophy newborn screening in North Carolina",
+        "LC-MS Based Platform Simplifies Access to Metabolomics for Peroxisomal Disorders",
+        "Application of machine learning algorithms for the differential diagnosis of peroxisomal disorders",
+        "Evaluation of a panel of very long-chain lysophosphatidylcholines and acylcarnitines for screening of X-linked adrenoleukodystrophy in China",
+        "Very long chain acylcarnitines and lysophosphatidylcholines in screening of peroxisomal disease in children by tandem mass spectrometry",
+        "Acylcarnitines: nomenclature, biomarkers, therapeutic potential, drug targets, and clinical trials",
+        "Centering, scaling, and transformations: improving the biological information content of metabolomics data",
+        "Rtsne. T-distributed stochastic neighbor embedding using Barnes-Hut implementation",
+        "An R package for ?omics",
+        "Partial least squares for discrimination",
+        "Visualizing data using t-SNE",
+        "Partial least squares analysis with cross-validation for the two?class problem: a Monte Carlo study",
+        "From dummy regression to prior probabilities in PLS-DA",
+        "Canonical partial least squares?a unified PLS approach to classification and regression problems",
+        "Multivariate analysis in metabolomics",
+        "Proteomic and metabolomic approaches to biomarker discovery",
+        "A sparse PLS for variable selection when integrating omics data",
+        "Sparse PLS discriminant analysis: biologically relevant feature selection and graphical displays for multiclass problems",
+        "C26:0-Carnitine is a New Biomarker for X-Linked adrenoleukodystrophy in mice and man",
+        "Comparison of C26:0-carnitine and C26:0-lysophosphatidylcholine as diagnostic markers in dried blood spots from newborns and patients with adrenoleukodystrophy",
+        "Evaluation of C26:0-lysophosphatidylcholine and C26:0-carnitine as diagnostic markers for Zellweger spectrum disorders",
+        "Urine acylcarnitine analysis by ESI-MS/MS: a new tool for the diagnosis of peroxisomal biogenesis disorders",
+        "Comparison of the diagnostic performance of C26:0-Lysophosphatidylcholine and very long-chain fatty acids analysis for Peroxisomal Disorders",
+        "Utility of measuring very long-chain fatty-acyl carnitines in dried blood spots for newborn screening of X-linked adrenoleukodystrophy"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Shanghai",
+            "@id": "60082819",
+            "affilname": "Shanghai Jiao Tong University School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60082819",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Shanghai",
+            "@id": "60025084",
+            "affilname": "Shanghai Jiao Tong University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025084",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Zhejiang",
+            "@id": "129565010",
+            "affilname": "Key Laboratory of Digital Technology in Medical Diagnostics of Zhejiang Province",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129565010",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": [
+        "Clinical Research Plan of SHDC",
+        "Open Foundation of Key Laboratory of Digital Technology in Medical Diagnostics of Zhejiang Province",
+        "Second Century Fund",
+        "Chulalongkorn University",
+        "Science and Technology Commission of Shanghai Municipality",
+        "Shanghai Jiao Tong University"
+    ]
+}

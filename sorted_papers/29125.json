@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85112844997",
+    "title": "Effect of applied force on baseline drift in Two- Electrode ECG Measurement",
+    "cover-date": "2021-05-19",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Baseline drift",
+        "ECG measurement",
+        "Motion artifact",
+        "Two-electrode ECG"
+    ],
+    "authors": [
+        "Arphorn Promking",
+        "Suchin Trirongjitmoah",
+        "Arporn Teeramongkorasmee"
+    ],
+    "citedby-count": 1,
+    "ref-count": 12,
+    "ref-list": [
+        "Electrocardiographic patch devices and contemporary wireless cardiac monitoring",
+        "Wireless sensor network based wearable smart shirt for ubiquitous health and activity monitoring",
+        "Washable and reliable textile electrodes embedded into underwear fabric for electrocardiography (ECG) monitoring",
+        "Relationship between contact pressure and motion artifacts in ECG measurement with electrostatic flocked electrodes fabricated on textile",
+        "Measurement of wearable electrode and skin mechanical interaction using displacement and pressure sensors",
+        "Effect of pressure and padding on motion artifact of textile electrodes",
+        "Performance of a qrs detector on self-collected database using a handheld two-electrode ECG",
+        "A model of bioelectrode motion artefact and reduction of artefact by amplifier input stage design",
+        "Electrode-skin impedance changes due to an externally applied force"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Ubon Ratchathani",
+            "@id": "60030801",
+            "affilname": "Ubon Ratchathani University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030801",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

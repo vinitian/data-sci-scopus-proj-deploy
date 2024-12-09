@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85077968624",
+    "title": "Forecasting Thailand's Precipitation with Cascading Model of CNN and GRU",
+    "cover-date": "2019-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Convolutional neural network",
+        "Deep learning",
+        "Gated Recurrent Unit",
+        "Precipitation prediction"
+    ],
+    "authors": [
+        "Fuenglada Manokij",
+        "Kanoksri Sarinnapakorn",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 4,
+    "ref-count": 14,
+    "ref-list": [
+        "Forecasting daily meteorological time series using ARIMA and regression models",
+        "An extensive evaluation of seven machine learning methods for rainfall prediction in weather derivatives",
+        "Structured recurrent temporal restricted boltzmann machines",
+        "Deep neural network based feature representation for weather forecasting",
+        "Application of seasonal time series model in the precipitation forecast",
+        "An artificial neural network model for rainfall forecasting in Bangkok, Thailand",
+        "Rainfall prediction: A deep learning approach",
+        "A short-term rainfall prediction model using multi-task convolutional neural networks",
+        "Deep convolutional neural network based regression approach for estimation of remaining useful life",
+        "Focal loss for dense object detection",
+        "Dropout: A simple way to prevent neural networks from overfitting"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60001884",
+            "affilname": "Ministry of Higher Education, Science, Research and Innovation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001884",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

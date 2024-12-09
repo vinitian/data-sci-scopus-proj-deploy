@@ -1,0 +1,103 @@
+{
+    "eid": "2-s2.0-85021632147",
+    "title": "Metabolic pathway synthesis based on predicting compound transformable pairs by using neural classifiers with imbalanced data handling",
+    "cover-date": "2017-12-01",
+    "subject-areas": [
+        {
+            "$": "Computer Science Applications",
+            "@code": "1706"
+        },
+        {
+            "$": "Artificial Intelligence",
+            "@code": "1702"
+        },
+        {
+            "$": "General Engineering",
+            "@code": "2200"
+        }
+    ],
+    "keywords": [
+        "Classification",
+        "Feature",
+        "Imbalanced data",
+        "Metabolite",
+        "Neural networks",
+        "Pathway"
+    ],
+    "authors": [
+        "Sasiporn Tongman"
+    ],
+    "citedby-count": 5,
+    "ref-count": 59,
+    "ref-list": [
+        "KEEL data-mining software tool: Data set repository, integration of algorithms and experimental analysis framework",
+        "UniProt: The universal protein knowledgebase",
+        "BRENDA, AMENDA and FRENDA: The enzyme information system in 2007",
+        "SIGKDD Explorations Newsletter",
+        "Classifying imbalanced data sets using similarity based hierarchical decomposition",
+        "Class prediction for high-dimensional class-imbalanced data.",
+        "Biological data mining with neural networks: Implementation and application of a flexible decision tree extraction algorithm to genomic problem domains",
+        "Safe-level-SMOTE: Safe-level-synthetic minority over-sampling technique for handling the class imbalanced problem",
+        "DBSMOTE: Density-based synthetic minority over-sampling technique",
+        "Data mining and knowledge discovery handbook",
+        "SMOTE: Synthetic minority over-sampling technique",
+        "RAMOBoost: Ranked minority oversampling in boosting",
+        "The properties of high-dimensional data spaces: Implications for exploring gene and protein expression data",
+        "Support-Vector Networks",
+        "Classification methodologies of multilayer perceptrons with sigmoid activation functions",
+        "Statistical comparisons of classifiers over multiple data sets",
+        "Genome-scale models of bacterial metabolism: Reconstruction and applications",
+        "Active learning for class imbalance problem",
+        "Training RBF neural networks on unbalanced data",
+        "A review on ensembles for the class imbalance problem: Bagging-, boosting-, and hybrid-based approaches",
+        "EUSBoost: Enhancing ensembles for highly imbalanced data-sets by evolutionary undersampling",
+        "LIGAND: Database of chemical compounds and reactions in biological pathways",
+        "The blue obelisk - Interoperability in chemical informatics",
+        "On the class imbalance problem",
+        "An introduction to variable and feature selection",
+        "Borderline-SMOTE: A new over-sampling method in imbalanced data sets learning",
+        "Data Mining: Concepts and Techniques",
+        "SIMCOMP/SUBCOMP: Chemical structure search servers for network analyses",
+        "Learning from imbalanced data",
+        "Finding metabolic pathways using atom tracking",
+        "Computing atom mappings for biochemical reactions without subgraph isomorphism",
+        "Encoding microbial metabolic logic: Predicting biodegradation",
+        "A new weighted approach to imbalanced data classification problem via support vector machine with quadratic cost function",
+        "A comparison of MCC and CEN error measures in multi-class prediction",
+        "KEGG: Kyoto Encyclopedia of Genes and Genomes",
+        "The MetaCyc database",
+        "KCF-S: KEGG Chemical Function and Substructure for improved interpretability and prediction in chemical bioinformatics",
+        "Metabolome-scale prediction of intermediate compounds in multistep metabolic pathways with a recursive supervised approach",
+        "Supervised de novo reconstruction of metabolic pathways from metabolome-scale compound sets",
+        "The aMAZE LightBench: A web interface to a relational database of cellular processes",
+        "Computational discovery of biochemical routes to specialty chemicals",
+        "Exploratory under-sampling for class-imbalance learning",
+        "Prediction of metabolic reactions based on atomic and molecular properties of small-molecule compounds",
+        "Heuristics for similarity searching of chemical graphs using a maximum common edge subgraph algorithm",
+        "Silhouettes: A graphical aid to the interpretation and validation of cluster analysis",
+        "A review of feature selection techniques in bioinformatics",
+        "The Chemistry Development Kit (CDK): An open-source Java library for chemo- and bioinformatics",
+        "Optimization of parameters for semiempirical methods V: Modification of NDDO approximations and application to 70 elements",
+        "Classification of imbalanced data: A review",
+        "Handling imbalanced data sets with synthetic boundary data generation using bootstrap re-sampling and AdaBoost techniques",
+        "Proceedings of the sixteen midwest artificial intelligence and cognitive science conference",
+        "Combating the small sample class imbalance problem using feature selection",
+        "Biological and artificial intelligence environments",
+        "An unsupervised learning approach to resolving the data imbalanced issue in supervised learning problems in functional genomics",
+        "SIGKDD Explorations Newsletter",
+        "The strength of chemical linkage as a criterion for pruning metabolic graphs"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "affilname": "Mahidol University",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

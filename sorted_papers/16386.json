@@ -1,0 +1,79 @@
+{
+    "eid": "2-s2.0-85077773182",
+    "title": "Bridge Sub Structure Defect Inspection Assistance by using Deep Learning",
+    "cover-date": "2019-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "bridge sub structure",
+        "CNNs",
+        "deep learning",
+        "image processing",
+        "visual inspection"
+    ],
+    "authors": [
+        "Pravee Kruachottikul",
+        "Nagul Cooharojananone",
+        "Gridsada Phanomchoeng",
+        "Thira Chavarnakul",
+        "Kittikul Kovitanggoon",
+        "Donnaphat Trakulwaranont",
+        "Kanokwan Atchariyachanvanich"
+    ],
+    "citedby-count": 15,
+    "ref-count": 11,
+    "ref-list": [
+        "An appraisal into the potential application of big data in the construction industry",
+        "Can technology improve routine visual bridge inspections?",
+        "Challenges of bridge maintenance inspection",
+        "Bridge inspection and management system based on smart phone",
+        "Bridge damage identification using artificial neural networks",
+        "Intelligent crack detection algorithm on the concrete crack image using neural network",
+        "Research on image classification model based on deep convolution neural network",
+        "Real-time rollover warning in tripped and untripped rollovers with a neural network"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ladkrabang Bangkok",
+            "@id": "60021543",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021543",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Ministry of Transportation",
+        "Research and Development of Thailand"
+    ]
+}

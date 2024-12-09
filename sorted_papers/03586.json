@@ -1,0 +1,132 @@
+{
+    "eid": "2-s2.0-85104047148",
+    "title": "SleepPoseNet: Multi-View Learning for Sleep Postural Transition Recognition Using UWB",
+    "cover-date": "2021-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biotechnology",
+            "@code": "1305",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Health Information Management",
+            "@code": "3605",
+            "@abbrev": "HEAL"
+        }
+    ],
+    "keywords": [
+        "contactless sensing",
+        "deep learning",
+        "Sleep monitoring",
+        "sleep posture",
+        "UWB radar"
+    ],
+    "authors": [
+        "Maytus Piriyajitakonkij",
+        "Patchanon Warin",
+        "Payongkit Lakhan",
+        "Pitshaporn Leelaarporn",
+        "Nakorn Kumchaiseemak",
+        "Supasorn Suwajanakorn",
+        "Theerasarn Pianpanit",
+        "Nattee Niparnan",
+        "Subhas Chandra Mukhopadhyay",
+        "Theerawit Wilaiprasitporn"
+    ],
+    "citedby-count": 36,
+    "ref-count": 52,
+    "ref-list": [
+        "Sleep apnea and cardiovascular disease: Lessons from recent trials and need for team science",
+        "Sleep apnea and stroke",
+        "Association of childhood sleep apnea with adolescent hypertension: The penn state child cohort",
+        "Workplace accidents, absenteeism and productivity in patients with sleep apnea",
+        "Risk of occupational accidents in workers with obstructive sleep apnea: Systematic review and meta-Analysis",
+        "Noncontact pressure-based sleep/wake discrimination",
+        "Sleepsense:Anoncontact and cost-effective sleep monitoring system",
+        "Polysomnography",
+        "Pressure ulcer prevention and management",
+        "Bed posture classification for pressure ulcer prevention",
+        "Computational sleep behavior analysis: A survey",
+        "Contactless body movement recognition during sleep via wifi signals",
+        "Evaluation of pulse oximeter derived photoplethysmographic signals for obstructive sleep apnea diagnosis",
+        "Sleepmonitor: Monitoring respiratory rate and body position during sleep using smartwatch",
+        "Improving heart rate estimation on consumer grade wrist-worn device using post-calibration approach",
+        "Design and implementation of a noncontact sleep monitoring system using infrared cameras and motion sensor",
+        "A dense pressure sensitive bedsheet design for unobtrusive sleep posture monitoring",
+        "Body-earth mover?s distance: A matching-based approach for sleep posture recognition",
+        "Through-wall detection of human being?s movement by UWB radar",
+        "Through-wall detection of the moving paths and vital signs of human beings",
+        "Detection of breathing and heart rates inUWBradar sensor data using FVPIEF-based two-layer EEMD",
+        "Respiration and heartbeat rates measurement based on autocorrelation using IR-UWB radar",
+        "A novel non-contact heart rate monitor using impulseradio ultra-wideband (IR-UWB) radar technology",
+        "Vital sign monitoring through the back using an UWBimpulse radar with body coupled antennas",
+        "Self-identification respiratory disorder based on continuous wave radar sensor system",
+        "A noncontact breathing disorder recognition system using 2.4-ghz digital-if doppler radar",
+        "Dopplesleep: A contactless unobtrusive sleep sensing system using short-range doppler radar",
+        "Noncontact sleep stage estimation using a CW doppler radar",
+        "Hand gesture recognition using micro-doppler signatures with convolutional neural network",
+        "Human detection and activity classification based on micro-doppler signatures using deep convolutional neural networks",
+        "Continuous human motion recognition with a dynamic range-doppler trajectory method based on FMCW radar",
+        "Recent system applications of short-pulse ultra-wideband (UWB) technology",
+        "Accurate UWB indoor localization system utilizing time difference of arrival approach",
+        "ECGmonitoring system integrated with IR-UWB radar based on CNN",
+        "Human activity classification based on micro-doppler signatures using a support vector machine",
+        "Application of linear predictive coding for human activity classification based on micro-doppler signatures",
+        "Application of ultra-wide band radar for classification of human activities",
+        "Non-contact human motion recognition based on UWB radar",
+        "Non-contact human activity classification using DCNN based on UWB radar",
+        "Detection of motion and posture change using an IR-UWB radar",
+        "Movement analysis during sleep using an IR-UWB radar sensor",
+        "A survey of multi-view representation learning",
+        "The ultra-wide bandwidth indoor channel: From statistical model to simulations",
+        "Data augmentation ofwearable sensor data for parkinson?s disease monitoring using convolutional neural networks",
+        "Universal joint feature extraction for p300 EEG classification using multi-Task autoencoder",
+        "Affective EEG-based person identification using the deep learning approach",
+        "Heartbeats based biometric random binary sequences generation to secure wireless body sensor networks",
+        "Quantitative assessment for self-Tracking of acute stress based on triangulation principle in a wearable sensor system",
+        "Finger-To-heart (F2H): Authentication for wireless implantable medical devices"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Rayong",
+            "@id": "60110787",
+            "affilname": "Vidyasirimedhi Institute of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60110787",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60021944",
+            "affilname": "Kasetsart University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021944",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Office of National Higher Education Science Research and Innovation Policy Council",
+        "SCB Public Company Limited",
+        "PTT Public Company Limited",
+        "Thailand Science Research and Innovation"
+    ]
+}

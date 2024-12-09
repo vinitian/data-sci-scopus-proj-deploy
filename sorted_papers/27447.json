@@ -1,0 +1,118 @@
+{
+    "eid": "2-s2.0-85066082759",
+    "title": "Intrinsic dimensionality estimation within tight localities",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Laurent Amsaleg",
+        "Oussama Chelly",
+        "Michael E. Houle",
+        "Ken ichi Kawarabayashi",
+        "Milo\u0161 Radovanovi\u0107",
+        "Weeris Treeratanajaru"
+    ],
+    "citedby-count": 25,
+    "ref-count": 62,
+    "ref-list": [
+        "Extreme-value-theoretic estimation of local intrinsic dimensionality",
+        "Laplacian eigenmaps for dimensionality reduction and data representation",
+        "The intrinsic dimensionality of signal collections",
+        "The million song dataset",
+        "Comparative accuracies of artificial neural networks and discriminant analysis in predicting forest cover types from cartographic variables",
+        "IKONA for interactive specific and generic image retrieval",
+        "Charting a manifold",
+        "Intrinsic dimensionality estimation with optimally topology preserving maps",
+        "Intrinsic dimension estimation: Advances and open problems",
+        "Estimating the intrinsic dimension of data with a fractal-based method",
+        "On the evaluation of unsupervised outlier detection: Measures, datasets, and an empirical study",
+        "Dimensional testing for reverse k-nearest neighbor search",
+        "DancO: An intrinsic dimensionality estimator exploiting angle and norm concentration",
+        "Nonlinear intrinsic dimensionality computations",
+        "Spoken letter recognition",
+        "Entropic graphs for manifold learning",
+        "Density-preserving projections for large-scale local anomaly detection",
+        "Curvilinear component analysis: A self-organizing neural network for nonlinear mapping of data sets",
+        "Hessian eigenmaps: Locally linear embedding techniques for high-dimensional data",
+        "Intrinsic dimension estimation of manifolds by incising balls",
+        "Manifold-adaptive dimension estimation",
+        "An algorithm for finding intrinsic dimensionality of data",
+        "Measuring the strangeness of strange attractors",
+        "Result analysis of the NIPS 2003 feature selection challenge",
+        "Intrinsic dimensionality estimation based on manifold assumption",
+        "Intrinsic dimensionality estimation of submanifolds in rd",
+        "A simple general approach to inference about the tail of a distribution",
+        "Local intrinsic dimensionality I: An extreme-value-theoretic foundation for similarity applications",
+        "Local intrinsic dimensionality II: Multivariate analysis and distributional support",
+        "Generalized expansion dimension",
+        "Dimensional testing for multi-step similarity search",
+        "Efficient algorithms for similarity search in axis-aligned subspaces",
+        "Improving k-NN graph accuracy using local intrinsic dimensionality",
+        "On the correlation between local intrinsic dimensionality and outlierness",
+        "Product quantization for nearest neighbor search",
+        "Low bias local intrinsic dimension estimation from expected simplex skewness",
+        "Finding nearest neighbors in growth-restricted metrics",
+        "Representation and separation of signals using nonlinear PCA type learning",
+        "Intrinsic dimension estimation using packing numbers",
+        "Learning vector quantization",
+        "Multidimensional scaling by optimizing goodness of fit to a nonmetric hypothesis",
+        "Gradient-based learning applied to document recognition",
+        "Maximum likelihood estimation of intrinsic dimension",
+        "Multiscale estimation of intrinsic dimensionality of data sets",
+        "Multiscale geometric methods for data sets I: Multiscale SVD, noise and curvature",
+        "Characterizing adversarial subspaces using local intrinsic dimensionality",
+        "Dimensionality-driven learning with noisy labels",
+        "On the need for on-line learning in brain-computer interfaces",
+        "On lines and planes of closest fit to systems of points in space",
+        "Estimation of intrinsic dimensionality using high-rate vector quantization",
+        "Nonlinear dimensionality reduction by locally linear embedding",
+        "Novel high intrinsic dimensionality estimators",
+        "IDEA: Intrinsic dimension estimation algorithm",
+        "A nonlinear mapping for data structure analysis",
+        "A global geometric framework for nonlinear dimensionality reduction",
+        "Probabilistic principal component analysis",
+        "An evaluation of intrinsic dimensionality estimators"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Novi Sad",
+            "@id": "60068801",
+            "affilname": "University of Novi Sad",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60068801",
+            "affiliation-country": "Serbia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Rennes",
+            "@id": "60027031",
+            "affilname": "Institut de Recherche en Informatique et Syst\u00e8mes Al\u00e9atoires",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027031",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Redmond",
+            "@id": "60026532",
+            "affilname": "Microsoft Corporation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026532",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "JSPS",
+        "Japan Science and Technology Corporation",
+        "JST ERATO"
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "eid": "2-s2.0-85057350844",
+    "title": "Weakly singular BIEM for analysis of cracks embedded in symmetric elastic whole space",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Anisotropy",
+        "BIEMs",
+        "Cracks",
+        "Elastic whole space",
+        "Weakly singular"
+    ],
+    "authors": [
+        "T. N. Pham",
+        "J. Rungamornrat",
+        "W. Pansuk",
+        "Y. Sato"
+    ],
+    "citedby-count": 0,
+    "ref-count": 45,
+    "ref-list": [
+        "A singular element for three-dimensional fracture mechanics analysis",
+        "Boundary element formulation for 3D transversely isotropic cracked bodies",
+        "Regularized direct and indirect symmetric variational BIE formulations for threedimensional elasticity",
+        "An integral equations method for solving the problem of a plane crack of arbitrary shape",
+        "Complete and exact solutions of a penny-shaped crack in a piezoelectric solid: Antisymmetric shear loadings",
+        "Application of finite-part integrals to the three-dimensional fracture problems for piezoelectric media, Part I: Hypersingular integral equation and theoretical analysis",
+        "Application of finite-part integrals to the three-dimensional fracture problems for piezoelectric media, Part II: Numerical analysis",
+        "3D fracture analysis by the symmetric Galerkin BEM",
+        "Hypersingular integrals in boundary element fracture analysis",
+        "Finite element solution of a boundary integral equation for mode-I embedded three-dimensional fractures",
+        "Symmetric weakform integral equation method for three-dimensional fracture analysis",
+        "Threedimensional fracture simulation with a single-domain, direct boundary element formulation",
+        "Arbitrary crack representation using solid modeling",
+        "Hypersingular integrals: How smooth must the density be?",
+        "A review of hydraulic fracture modeling-part I: General concepts, 2D models, motivation for 3D modeling",
+        "A review of hydraulic fracture modeling-part II: 3D modeling and vertical growth in layered rock",
+        "Application of hypersingular integral equation method to a threedimensional crack in piezoelectric materials",
+        "Weaklysingular integral equations for Darcy's flow in anisotropic porous media",
+        "Analysis of 3D cracks in anisotropic multi-material domain with weakly singular SGBEM",
+        "Weakly-singular, weak-form integral equations for cracks in threedimensional anisotropic media",
+        "A weaklysingular SGBEM for analysis of cracks in 3D anisotropic media",
+        "Analysis of cracks in 3D piezoelectric media with various electrical boundary conditions",
+        "Threedimensional fracture analysis in transversely isotropic solids",
+        "Three dimensional crack analysis for an anisotropic body",
+        "The effect of penny-shaped crack on the distribution of stress in a semi-infinite solid",
+        "Modeling mixed-mode dynamic crack propagation using finite elements: Theory and applications",
+        "The three-dimensional elastostatic Green's function for general anisotropic linear elastic solids",
+        "Elastic fields produced by a point source in solids of general anisotropy",
+        "Elastic T-stress solutions for pennyshaped cracks under tension and bending",
+        "Three-dimensional crack analysis",
+        "A variational boundary integral method for the analysis of 3-D cracks of arbitrary geometry modelled as continuous distributions of dislocation loops",
+        "A variational boundary integral method for the analysis of three-dimensional cracks of arbitrary geometry in anisotropic elastic solids",
+        "Boundary integral-differential equations and boundary element method for interfacial cracks in three-dimensional piezoelectric media",
+        "Stress intensity factor variation of a penny-shaped crack situated close to the free surface of a half-space"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Sapporo",
+            "@id": "60014652",
+            "affilname": "Hokkaido University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014652",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Thailand Research Fund"
+    ]
+}

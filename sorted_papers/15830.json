@@ -1,0 +1,92 @@
+{
+    "eid": "2-s2.0-85143872780",
+    "title": "A deep learning approach for brain tumor detection using magnetic resonance imaging",
+    "cover-date": "2023-02-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Brain tumor",
+        "Deep learning",
+        "Magnetic resonance imaging",
+        "Tumor detection",
+        "Tumor segmentation"
+    ],
+    "authors": [
+        "Al Akhir Nayan",
+        "Ahamad Nokib Mozumder",
+        "Md Rakibul Haque",
+        "Fahim Hossain Sifat",
+        "Khan Raqib Mahmud",
+        "Abul Kalam Al Azad",
+        "Muhammad Golam Kibria"
+    ],
+    "citedby-count": 3,
+    "ref-count": 29,
+    "ref-list": [
+        "An insilico approach for brain tumor detection and classification from magnetic resonance images",
+        "An integrated design of particle swarm optimization (PSO) with fusion of features for detection of brain tumor",
+        "A review on brain tumor classification methodologies",
+        "Cancer statistics, 2020",
+        "Brain tumor classification in magnetic resonance images using deep learning and wavelet transform",
+        "Brain tumor classification using enhanced statistical texture features",
+        "Image mining methodology for detection of brain tumor: A review",
+        "A survey on brain tumor detection using image processing techniques",
+        "Brain tumor segmentation based on deep learning and an attention mechanism using MRI multi-modalities brain images",
+        "A comprehensive review on multi-organs tumor detection based on machine learning",
+        "Review of MRI-based brain tumor image segmentation using deep learning methods",
+        "BCM-VEMT: Classification of brain cancer from MRI images using deep learning and ensemble of machine learning techniques",
+        "A review on brain tumor diagnosis from MRI images: Practical implications, key achievements, and lessons learned",
+        "Brain structural disorders detection and classification approaches: a review",
+        "Recent advancements in brain tumor segmentation and classification using deep learning: a review",
+        "Localization and classification of brain tumor using machine learning & deep learning techniques",
+        "A comprehensive review and analysis on MRI based brain tumor segmentation",
+        "A review on a deep learning perspective in brain cancer classification",
+        "A deep learning for brain tumor MRI images semantic segmentation using FCN",
+        "Brain tumor segmentation in MRI images using a hybrid deep network based on patch and pixel",
+        "Design and implementing brain tumor detection using machine learning approach",
+        "Brain tumor detection using convolutional neural network",
+        "MR Image classification using AdaBoost for brain tumor type",
+        "Tumor detection and classification of MRI brain image using different wavelet transforms and support vector machines",
+        "Brain tumour detection and classification using K-means clustering and SVM classifier",
+        "Brats MICCAI brain tumor dataset",
+        "Real time multi-class object detection and recognition using vision augmentation algorithm",
+        "Detection of objects from noisy images",
+        "Mediastinal lymph node detection and segmentation using deep learning"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Dhaka",
+            "@id": "60159848",
+            "affilname": "University of Liberal Arts Bangladesh",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60159848",
+            "affiliation-country": "Bangladesh"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Dhaka",
+            "@id": "112622666",
+            "affilname": "European University of Bangladesh",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112622666",
+            "affiliation-country": "Bangladesh"
+        }
+    ],
+    "funding": []
+}

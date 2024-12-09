@@ -1,0 +1,57 @@
+{
+    "eid": "2-s2.0-85041409622",
+    "title": "EKF-NN based Hybrid Estimator for Ethylene Polymerization Process",
+    "cover-date": "2017-10-01",
+    "subject-areas": [
+        {
+            "$": "General Chemical Engineering",
+            "@code": "1500"
+        },
+        {
+            "$": "Computer Science Applications",
+            "@code": "1706"
+        }
+    ],
+    "keywords": [
+        "extended Kalman filter",
+        "Neural network-based hybrid estimator",
+        "polymerization process",
+        "robust estimation"
+    ],
+    "authors": [
+        "Wachira Daosud"
+    ],
+    "citedby-count": 2,
+    "ref-count": 11,
+    "ref-list": [
+        "A hybrid approach to faults detection and diagnosis in batch and semi-batch reactors by using EKF and neural network classifier",
+        "Review and classification of recent observers applied in chemical process systems",
+        "Hybrid observer for parameters estimation in ethylene polymerization reactor: A simulation study",
+        "Constrained nonlinear state estimation using ensemble kalman filters",
+        "Analysis and design of an Extended Kalman Filter for the plate temperature in heavy plate rolling",
+        "Experimental validation of an Extended Kalman Filter estimating acetate concentration in E. coli cultures",
+        "Neural network based model predictive control for a steel pickling process",
+        "Temperature control of industrial gas phase polyethylene reactors",
+        "Estimation of time-dependent reaction coefficient with extended kalman filter approach",
+        "Neural network based model predictive control of batch extractive distillation process for improving purity of acetone",
+        "Neural network inverse model-based controller for the control of a steel pickling process"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Kuala Lumpur",
+            "affilname": "Universiti Malaya",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chonburi",
+            "affilname": "Burapha University",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

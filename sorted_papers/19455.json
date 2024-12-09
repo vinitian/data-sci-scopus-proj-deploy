@@ -1,0 +1,92 @@
+{
+    "eid": "2-s2.0-85107210020",
+    "title": "Blood Vessel Structure Analysis in Endoscopic Images for Computer-Aided Diagnosis",
+    "cover-date": "2020-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "Blood Vessel Structure Analysis",
+        "Computer-Aided Diagnosis",
+        "Endoscopy",
+        "U-Net"
+    ],
+    "authors": [
+        "Shunsuke Kato",
+        "Hiroyasu Usami",
+        "Yuji Iwahori",
+        "Akihiko Okazaki",
+        "Boonserm Kijsirikul",
+        "Naotaka Ogasawara",
+        "Kunio Kasugai"
+    ],
+    "citedby-count": 1,
+    "ref-count": 10,
+    "ref-list": [
+        "New diagnostic method based on color imaging using narrow-band imaging (NBI) system for gastrointestinal tract",
+        "Characterization of colorectal lesions using a computer-aided diagnostic system for narrow-band imaging endocytoscopy",
+        "Narrow band imaging (NBI) magnifying endoscopic classification of colorectal tumors proposed by the Japan NBI Expert Team",
+        "Polyp shape recovery from single endoscope image using medical suture",
+        "Polyp shape recovery using vascular border from single colonoscopy image",
+        "The physiological principle of minimum work: I. The vascular system and the cost of blood volume",
+        "A general model for the origin of allometric scaling laws in biology",
+        "A review of 3D vessel lumen segmentation techniques: Models, features and extraction schemes",
+        "U-net: Convolutional networks for biomedical image segmentation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Kasugai",
+            "@id": "60007976",
+            "affilname": "Chubu University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007976",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Nagakute",
+            "@id": "60004395",
+            "affilname": "Aichi Medical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004395",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "JSPS",
+        "Chubu University"
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "eid": "2-s2.0-85149877116",
+    "title": "ConGen: Unsupervised Control and Generalization Distillation For Sentence Representation",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Peerat Limkonchotiwat",
+        "Wuttikorn Ponwitayarat",
+        "Lalita Lowphansirikul",
+        "Can Udomcharoenchaikit",
+        "Ekapol Chuangsuwanich",
+        "Sarana Nutanong"
+    ],
+    "citedby-count": 0,
+    "ref-count": 56,
+    "ref-list": [
+        "SemEval-2015 task 2: Semantic textual similarity, English, Spanish and pilot on interpretability",
+        "SemEval-2014 task 10: Multilingual semantic textual similarity",
+        "SemEval-2016 task 1: Semantic textual similarity, monolingual and crosslingual evaluation",
+        "SemEval-2012 task 6: A pilot on semantic textual similarity",
+        "*SEM 2013 shared task: Semantic textual similarity",
+        "A large annotated corpus for learning natural language inference",
+        "Semantic re-tuning with contrastive tension",
+        "SemEval-2017 task 1: Semantic textual similarity multilingual and crosslingual focused evaluation",
+        "BERT: pre-training of deep bidirectional transformers for language understanding",
+        "Automatically constructing a corpus of sentential paraphrases",
+        "How contextual are contextualized word representations? Comparing the geometry of BERT, ELMo, and GPT-2 embeddings",
+        "SEED: self-supervised distillation for visual representation",
+        "Simcse: Simple contrastive learning of sentence embeddings",
+        "DeCLUTR: Deep contrastive learning for unsupervised textual representations",
+        "Momentum contrast for unsupervised visual representation learning",
+        "Mining and summarizing customer reviews",
+        "Tinybert: Distilling BERT for natural language understanding",
+        "Self-guided contrastive learning for BERT sentence representations",
+        "On the sentence embeddings from pre-trained language models",
+        "Domain adaptation of Thai word segmentation models using stacked ensemble",
+        "Handling cross- and out-of-domain samples in Thai word segmentation",
+        "CL-ReLKT: Cross-lingual language knowledge transfer for multilingual retrieval question answering",
+        "DialogueCSE: Dialogue-based contrastive learning of sentence embeddings",
+        "Trans-encoder: Unsupervised sentence-pair modelling through self- and mutual-distillations",
+        "Fast, effective, and self-supervised: Transforming masked language models into universal lexical and sentence encoders",
+        "Unsupervised learning using pretrained cnn and associative memory bank",
+        "A sick cure for the evaluation of compositional distributional semantic models",
+        "A sentimental education: Sentiment analysis using subjectivity summarization based on minimum cuts",
+        "Seeing stars: Exploiting class relationships for sentiment categorization with respect to rating scales",
+        "Transfer learning in biomedical natural language processing: An evaluation of bert and elmo on ten benchmarking datasets",
+        "Sentence-bert: Sentence embeddings using siamese bert-networks",
+        "Making monolingual sentence embeddings multilingual using knowledge distillation",
+        "Fitnets: Hints for thin deep nets",
+        "Recursive deep models for semantic compositionality over a sentiment treebank",
+        "Contrastive distillation on intermediate representations for language model compression",
+        "Mobilebert: a compact task-agnostic BERT for resource-limited devices",
+        "Robust fragment-based framework for cross-lingual sentence retrieval",
+        "Building a question answering test collection",
+        "TSDAE: Using transformer-based sequential denoising auto-encoderfor unsupervised sentence embedding learning",
+        "Aligning cross-lingual sentence representations with dual momentum contrast",
+        "Understanding contrastive representation learning through alignment and uniformity on the hypersphere",
+        "Minilmv2: Multi-head self-attention relation distillation for compressing pretrained transformers",
+        "Minilm: Deep self-attention distillation for task-agnostic compression of pre-trained transformers",
+        "Annotating expressions of opinions and emotions in language",
+        "A broad-coverage challenge corpus for sentence understanding through inference",
+        "ConSERT: A contrastive framework for self-supervised sentence representation transfer",
+        "Multilingual universal sentence encoder for semantic retrieval",
+        "Universal sentence representation learning with conditional masked language model",
+        "Bootstrapped unsupervised sentence representation learning",
+        "An unsupervised sentence embedding method by mutual information maximization"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "116353786",
+            "affilname": "VISTEC",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/116353786",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

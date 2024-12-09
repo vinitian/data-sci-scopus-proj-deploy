@@ -1,0 +1,74 @@
+{
+    "eid": "2-s2.0-85090575991",
+    "title": "Simulation of die-swell flow for wet powder mass extrusion in pharmaceutical process",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Chemical Engineering (all)",
+            "@code": "1500",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Die-swell",
+        "Extrusion spheronization",
+        "Oldroyd-B fluid",
+        "Pharmaceutical process",
+        "Semi-implicit Taylor Galerkin finite element method"
+    ],
+    "authors": [
+        "Vimolrat Ngamaramvaranggul",
+        "Nawalax Thongjub"
+    ],
+    "citedby-count": 1,
+    "ref-count": 17,
+    "ref-list": [
+        "Extrusionspheronisation A literature review",
+        "Extrusion-s pheronization a promising pelletization technique: In-depth review",
+        "Thepreparationbyextrusion/spheronizationandthe propertiesofpelletscontainingdrugs,microcrystalline cellulose and glyceryl monostearate",
+        "A review of pharmaceutical extrusion: Critical process parameters and scaling-up",
+        "Melt extrusion: From process to drug delivery technology",
+        "Areviewofhot-meltextrusion: Process technology to pharmaceutical products",
+        "Die swell of a maxwell fluid numerical prediction",
+        "Separating flow near a static contact line: Slip at a wall and shape of a free surface",
+        "Influenceofwallsliponextrudate swell:Aboundaryelementinvestigation",
+        "Three-dimensional nonisothermal extrusion flows",
+        "Viscoelastic simulation of stick-slip and die swell flows",
+        "Extrusion of power-law shear-thinning fluids with small exponent",
+        "Simulation of slip effects with 4:1 contraction flow for Oldroyd-B fluid",
+        "Simulation of die-swell flow for Oldroyd-B model with feedback semi-implicit Taylor Galerkin finite element method",
+        "Simulation of pressure-tooling wire-coating flow with Phan-Thien/Tanner models",
+        "The contraction point for Phan-Thien/Tanner model of tube-tooling wire-coating flow",
+        "A theory of die swell"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60012521",
+            "affilname": "Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012521",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,60 @@
+{
+    "eid": "2-s2.0-85066992121",
+    "title": "Three-level Classification of Air Conditioning Energy Consumption for Building Energy Management System Using Data Mining Techniques",
+    "cover-date": "2019-05-15",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "building energy management system",
+        "decision tree",
+        "energy consumption",
+        "K-means clustering"
+    ],
+    "authors": [
+        "Pornpra Chumnanvanichkul",
+        "Pisitpol Chirapongsananurak",
+        "Naebboon Hoonchareon"
+    ],
+    "citedby-count": 2,
+    "ref-count": 12,
+    "ref-list": [
+        "Building energy management system based on smart grid",
+        "Data science for building energy management: A review",
+        "Data clustering: A review",
+        "A review of electric load classification in smart grid environment",
+        "Algorithm AS 136: A kmeans clustering algorithm",
+        "An electric energy consumer characterization framework based on data mining techniques",
+        "A framework for baseline load estimation in demand response: Data mining approach",
+        "Outlier detection techniques",
+        "Review on determining number of Cluster in K-Means Clustering",
+        "A decision tree method for building energy demand modeling"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-84921279740",
+    "title": "Improving classification rate constrained to imbalanced data between overlapped and non-overlapped regions by hybrid algorithms",
+    "cover-date": "2015-03-25",
+    "subject-areas": [
+        {
+            "$": "Computer Science Applications",
+            "@code": "1706"
+        },
+        {
+            "$": "Artificial Intelligence",
+            "@code": "1702"
+        },
+        {
+            "$": "Cognitive Neuroscience",
+            "@code": "2805"
+        }
+    ],
+    "keywords": [
+        "Highly imbalanced data with overlapped region",
+        "Responsive area mapping classifications",
+        "Soft-hybrid algorithms"
+    ],
+    "authors": [
+        "Piyanoot Vorraboot"
+    ],
+    "citedby-count": 51,
+    "ref-count": 35,
+    "ref-list": [
+        "ACM Sigkdd Explor. Newslett.",
+        "SMOTE: Synthetic minority over-sampling technique",
+        "A multi-objective optimisation approach for class imbalance learning",
+        "Minority identification for imbalanced dataset",
+        "GESTS Int. Trans. Comput. Sci. Eng.",
+        "On the class imbalance problem",
+        "Strategies for learning in class imbalance problems",
+        "Boosting weighted ELM for imbalanced learning",
+        "A new over-sampling method based on cluster ensembles",
+        "Borderline-SMOTE: A new over-sampling method in imbalanced data sets learning",
+        "Efficient resampling methods for training support vector machines with imbalanced datasets",
+        "Rare class classification by support vector machine",
+        "Graph classification with imbalanced data sets",
+        "Minority split and gain ratio for a class imbalance",
+        "Back propagation with balanced MSE cost function and nearest neighbor editing for handling class overlap and class imbalance",
+        "Error back-propagation algorithm for classification of imbalanced data",
+        "Weighted extreme learning machine for imbalance learning",
+        "Class imbalance learning methods for support vector machines",
+        "FSVM-CIL: Fuzzy support vector machines for class imbalance learning",
+        "Neural Networks for Pattern Recognition",
+        "A hybrid method to face class overlap and class imbalance on neural networks and multi-class scenarios",
+        "Multiple extreme learning machines for a two-class imbalance corporate life cycle prediction",
+        "BRACID: A comprehensive approach to learning rules from imbalanced data",
+        "Preprocessing unbalanced data using support vector machine",
+        "A combined SMOTE and PSO based RBF classifier for two-class imbalanced problems",
+        "On the k-NN performance in a challenging scenario of imbalance and overlapping",
+        "Addressing data-complexity for imbalanced data-sets: A preliminary study on the use of preprocessing for C4.5",
+        "Ann. Math. Stat.",
+        "Proc. Natl. Inst. Sci. (Calcutta)",
+        "A new weighted approach to imbalanced data classification problem via support vector machine with quadratic cost function",
+        "A fuzzy support vector machine for imbalanced data classification",
+        "A Density-Based Algorithm for Discovering Clusters A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chonburi",
+            "affilname": "Burapha University",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Office of the Higher Education Commission",
+        "National Research Council of Thailand",
+        "Burapha University"
+    ]
+}

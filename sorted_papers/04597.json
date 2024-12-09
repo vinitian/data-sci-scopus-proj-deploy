@@ -1,0 +1,78 @@
+{
+    "eid": "2-s2.0-85102526372",
+    "title": "An Energetic Analysis of Rhomboidal Linkage Robots for Hopping Lunar Exploration",
+    "cover-date": "2021-01-20",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Jumping robot",
+        "parallel elastic actuation",
+        "parallel planar",
+        "rhomboidal",
+        "spring selection"
+    ],
+    "authors": [
+        "John Lo",
+        "Ben Parslew"
+    ],
+    "citedby-count": 1,
+    "ref-count": 10,
+    "ref-list": [
+        "Effective and efficient locomotion for millimeter-sized microrobots",
+        "Minimalist jumping robots for celestial exploration",
+        "Ice-rich caves on the moon and mars: Prospects and pragmatic recommendations for exploration",
+        "A hopping robot for planetary exploration",
+        "A minimally actuated hopping rover for exploration of celestial bodies",
+        "Msu jumper: A single-motor-actuated miniature steerable jumping robot",
+        "Design and experimental evaluation of a single-actuator continuous hopping robot using the geared symmetric multi-bar mechanism",
+        "Design and demonstration of a bio-inspired flapping-wing-assisted jumping robot",
+        "Jumproach: A trajectory-adjustable integrated jumping-crawling robot"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Manchester",
+            "@id": "60003771",
+            "affilname": "The University of Manchester",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003771",
+            "affiliation-country": "United Kingdom"
+        }
+    ],
+    "funding": []
+}

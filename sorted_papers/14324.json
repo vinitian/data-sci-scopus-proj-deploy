@@ -1,0 +1,71 @@
+{
+    "eid": "2-s2.0-85142382695",
+    "title": "Estimating the Physical Parameters of Human Arm Motion from Video using Fixed-Point PCA Transform and Nonlinear Least-Squares Method",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "2-DOF planar manipulator",
+        "FPPCA",
+        "Gauss-Newton method",
+        "object detection",
+        "physical parameters"
+    ],
+    "authors": [
+        "Anupong Kanarach",
+        "Kittikorn Nakprasit",
+        "Banchar Arnonkijpanich"
+    ],
+    "citedby-count": 0,
+    "ref-count": 15,
+    "ref-list": [
+        "Local matrix adaptation in topographic neural maps",
+        "Natural morphological extraction based on the nonlinear manifold pursuit (NMP) algorithm",
+        "Computing the physical parameters of rigid-body motion from video",
+        "Non-Euclidean self-organizing classification using natural manifold distance",
+        "PFP-PCA: Parallel fixed point PCA face recognition",
+        "Fast principal component analysis using fixed-point algorithm",
+        "Eigenfaces for recognition",
+        "Modeling and optimal control of hybrid rigidbody mechanical systems",
+        "Estimating cloth simulation parameters from video",
+        "Interactive manipulation of rigid body simulations",
+        "Motion sketching for control of rigid-body simulations",
+        "Recent advances in parameter identification techniques for ordinary differential equations",
+        "Physically based motion transformation",
+        "Keyframe control of smoke simulations",
+        "YOLO9000: Better, Faster, Stronger"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Khon Kaen",
+            "@id": "60017165",
+            "affilname": "Khon Kaen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017165",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Development and Promotion of Science and Technology",
+        "National Science, Research and Innovation Fund",
+        "Thai Government"
+    ]
+}

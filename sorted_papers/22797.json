@@ -1,0 +1,69 @@
+{
+    "eid": "2-s2.0-85119415613",
+    "title": "Spectral Stochastic Isogeometric Analysis of Microbeams with Material Uncertainty",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Material uncertainty",
+        "Microstructure effects",
+        "Modified couple stress theory",
+        "Spectral Stochastic Isogeometric analysis",
+        "Timoshenko beam"
+    ],
+    "authors": [
+        "Toan Minh Le",
+        "Duy Vo",
+        "Tinh Quoc Bui",
+        "Thu Van Huynh",
+        "Suchart Limkatanyu",
+        "Jaroon Rungamornrat"
+    ],
+    "citedby-count": 1,
+    "ref-count": 10,
+    "ref-list": [
+        "A microbend test method for measuring the plasticity length scale",
+        "Couple stress based strain gradient theory for elasticity",
+        "The modified couple stress functionally graded Timoshenko beam formulation",
+        "On size-dependent Timoshenko beam element based on modified couple stress theory",
+        "Microstructure-dependent couple stress theories of functionally graded beams",
+        "Isogeometric analysis: CAD, finite elements, NURBS, exact geometry and mesh refinement",
+        "Functionally graded curved Timoshenko microbeams: A numerical study using IGA and modified couple stress theory",
+        "Stochastic analysis of pull-in instability of geometrically nonlinear size-dependent FGM micro beams with random material properties",
+        "Spectral stochastic isogeometric analysis of linear elasticity"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60031126",
+            "affilname": "Tokyo Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031126",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hatyai",
+            "@id": "60006314",
+            "affilname": "Prince of Songkla University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006314",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Chulalongkorn University",
+        "Thailand Research Fund"
+    ]
+}

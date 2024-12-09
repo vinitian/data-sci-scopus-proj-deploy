@@ -1,0 +1,82 @@
+{
+    "eid": "2-s2.0-85142011607",
+    "title": "Developing a PET normal brain template using diffusion tensor imaging images: A proof of concept",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Health Professions (miscellaneous)",
+            "@code": "3601",
+            "@abbrev": "HEAL"
+        },
+        {
+            "@_fa": "true",
+            "$": "Occupational Therapy",
+            "@code": "3609",
+            "@abbrev": "HEAL"
+        },
+        {
+            "@_fa": "true",
+            "$": "Medical Laboratory Technology",
+            "@code": "3607",
+            "@abbrev": "HEAL"
+        },
+        {
+            "@_fa": "true",
+            "$": "Health Information Management",
+            "@code": "3605",
+            "@abbrev": "HEAL"
+        }
+    ],
+    "keywords": [
+        "Brain template",
+        "image registration",
+        "probabilistic tractography"
+    ],
+    "authors": [
+        "Paramest Wongsa",
+        "Witaya Sungkarat",
+        "Supatana Auethavekiat"
+    ],
+    "citedby-count": 0,
+    "ref-count": 20,
+    "ref-list": [
+        "Recommendations on the use of 18F-FDG PET in oncology",
+        "FDG PET and PET/CT: EANM procedure guidelines for tumour PET imaging: version 1.0",
+        "How we read oncologic FDG PET/CT",
+        "Positron emission tomography in oncology: present and future of PET and PET/ CT",
+        "Alzheimer disease: improved visual interpretation of PET images by using three-dimensional stereotaxic surface projections",
+        "The role of positron emission tomography imaging of \u03b2-amyloid in patients with Alzheimer's disease",
+        "Early detection of brain pathology suggestive of early AD using objective evaluation of FDG-PET scans",
+        "A survey of FDG and amyloid-PET imaging in dementia and GRADE analysis",
+        "Evaluation of imaging windows for Tau PET imaging using 18F-PI2620 in cognitively normal individuals, mild cognitive impairment, and Alzheimer\u2019s disease patients",
+        "The Evaluation of Tau Deposition with [18F] PI-2620 by Using a Semiquantitative Method in Cognitively Normal Subjects and Patients with Mild Cognitive Impairment and Alzheimer\u2019s Disease",
+        "Diagnosis of Neurological Disease",
+        "Dog\u2019s Whole Brain Probabilistic Diffusion Tensor Imaging Tractography Normalization: A Solution for Brain Image Normalization Difficulty Problems",
+        "White Matter Involvement in Mild Cognitive Impairment and Mild Alzheimer\u2019s Disease Using Whole-Brain Probabilistic Tractography Normalization",
+        "PET amyloid ligand [11C] PIB uptake is increased in mild cognitive impairment",
+        "11C-PiB PET assessment of change in fibrillar amyloid-\u03b2 load in patients with Alzheimer's disease treated with bapineuzumab: a phase 2, double-blind, placebo-controlled, ascending-dose study",
+        "11C\u2010PIB\u2010PET for the early diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+        "18F-THK 5351 and 11C-PiB PET of the Thai normal brain template",
+        "Bayesian analysis of neuroimaging data in FSL",
+        "Model\u2010based analysis of multishell diffusion MR data for tractography: How to get over fitting problems",
+        "Population differences in brain morphology: need for population specific brain template"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022464",
+            "affilname": "Chulabhorn Royal Academy",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022464",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

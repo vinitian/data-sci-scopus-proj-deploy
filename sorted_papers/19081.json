@@ -1,0 +1,53 @@
+{
+    "eid": "2-s2.0-85169680148",
+    "title": "Fast Electromagnetic Field Pattern Calculation with Fourier Neural Operators",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Computational Electromagnetics",
+        "Dipole Antenna Array",
+        "Electromagnetic Field Pattern",
+        "Fourier Neural Operator"
+    ],
+    "authors": [
+        "Nattawat Pornthisan",
+        "Stefano Markidis"
+    ],
+    "citedby-count": 0,
+    "ref-count": 11,
+    "ref-list": [
+        "A deep learning-based particle-in-cell method for plasma simulations",
+        "The old and the new: Can physics-informed deep-learning replace traditional linear solvers?",
+        "al.: Meep: A flexible free-software package for electromagnetic simulations by the FDTD method"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Stockholm",
+            "@id": "60002014",
+            "affilname": "The Royal Institute of Technology (KTH)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002014",
+            "affiliation-country": "Sweden"
+        }
+    ],
+    "funding": []
+}

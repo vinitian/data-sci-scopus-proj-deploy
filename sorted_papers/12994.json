@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85070695674",
+    "title": "Hulls of cyclic codes over Z4",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Discrete Mathematics and Combinatorics",
+            "@code": "2607",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Average 2-dimension",
+        "Cyclic codes",
+        "Hulls",
+        "Reciprocal polynomials"
+    ],
+    "authors": [
+        "Somphong Jitman",
+        "Ekkasit Sangwisut",
+        "Patanee Udomkavanich"
+    ],
+    "citedby-count": 3,
+    "ref-count": 24,
+    "ref-list": [
+        "Affine and projective planes",
+        "A linear construction for certain Kerdock and Preparata codes",
+        "Constructions of good entanglement-assisted quantum error correcting codes",
+        "The Z4-linearity of Kerdock, Preparata, Goethals, and Related codes",
+        "Linear codes over finite chain rings",
+        "Fundamentals of Error-Correcting Codes",
+        "The average dimension of the Hermitian hull of cyclic codes over finite fields of square order",
+        "The average dimension of the hermitian hull of constacyclic codes over finite fields",
+        "The average hull dimension of negacyclic codes over finite fields",
+        "Cyclic codes over the integers modulo pm",
+        "Computing automorphism groups of error-correcting codes",
+        "Permutation group algorithms based on partition, I: theory and algorithms",
+        "Partitions, refinements, and permutation group computation",
+        "LCD codes over finite chain rings",
+        "On cyclic self-orthogonal codes over Z2m",
+        "Hulls of cyclic and negacyclic codes over finite fields",
+        "Finding the permutation between equivalence binary code",
+        "On the dimension of the hull",
+        "Finding the permutation between equivalent codes: the support splitting algorithm",
+        "On the computation of the automorphism group of a linear code",
+        "Cyclic self-orthogonal codes over finite chain ring",
+        "The average dimension of the hull of cyclic codes",
+        "An efficient algorithm for constructing minimal trellises for codes over finite abelian groups"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60018809",
+            "affilname": "Silpakorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018809",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Songkla",
+            "@id": "60003411",
+            "affilname": "Thaksin University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003411",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Office of Higher Education Commission of Thailand",
+        "Thailand Research Fund"
+    ]
+}

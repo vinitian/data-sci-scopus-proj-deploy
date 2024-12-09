@@ -1,0 +1,115 @@
+{
+    "eid": "2-s2.0-85115333738",
+    "title": "Dose calculation accuracy in particle therapy: Comparing carbon ions with protons",
+    "cover-date": "2021-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biophysics",
+            "@code": "1304",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "carbon ions",
+        "dose calculation algorithms",
+        "heterogeneous phantom",
+        "protons"
+    ],
+    "authors": [
+        "Sirinya Ruangchan",
+        "Hugo Palmans",
+        "Barbara Kn\u00e4usl",
+        "Dietmar Georg",
+        "Monika Clausen"
+    ],
+    "citedby-count": 5,
+    "ref-count": 51,
+    "ref-list": [
+        "Experimental study of nuclear fragmentation of 200 and 400 MeV/u 12C ions in water for applications in particle therapy",
+        "Benchmarking GATE/Geant4 for 16O ion beam therapy",
+        "Physical advantages of particles: protons and light ions",
+        "Clinical rationale and indications for particle therapy",
+        "Carbon ion radiobiology",
+        "Carbon ion radiotherapy in Japan: an assessment of 20 years of clinical experience",
+        "Evaluation of a collapsed-cone convolution algorithm for esophagus and surface mold 192Ir brachytherapy treatment planning",
+        "Report of the Task Group 186 on model-based dose calculation methods in brachytherapy beyond the TG-43 formalism: current status and recommendations for clinical implementation",
+        "Validation of the oncentra brachy advanced collapsed cone engine for a commercial 192Ir source using heterogeneous geometries",
+        "Radiation therapy with unflattened photon beams: dosimetric accuracy of advanced dose calculation algorithms",
+        "Experimental verification of a commercial Monte Carlo-based dose calculation module for high-energy photon beams",
+        "Advanced proton beam dosimetry part I: review and performance evaluation of dose calculation algorithms",
+        "A comparison of two pencil beam scanning treatment planning systems for proton therapy",
+        "Advanced Proton Beam Dosimetry Part I: review and performance evaluation of dose calculation algorithms",
+        "Evaluation of electromagnetic and nuclear scattering models in GATE/Geant4 for proton therapy",
+        "Advanced proton beam dosimetry part II: Monte Carlo vs. pencil beam-based planning for lung cancer",
+        "Pencil beam algorithms are unsuitable for proton dose calculations in lung",
+        "Experimental assessment of proton dose calculation accuracy in inhomogeneous media",
+        "Benchmarking analytical calculations of proton doses in heterogeneous matter",
+        "Commissioning of pencil beam and Monte Carlo dose engines for non-isocentric treatments in scanned proton beam therapy",
+        "Clinical implementation of a proton dose verification system utilizing a GPU Accelerated Monte Carlo Engine",
+        "A step towards international prospective trials in carbon ion radiotherapy: investigation of factors influencing dose distribution in the facilities in operation based on a case of skull base chordoma",
+        "Dosimetric evaluation of a commercial proton spot scanning Monte-Carlo dose algorithm: comparisons against measurements and simulations",
+        "Physica medica experimental benchmarking of RayStation proton dose calculation algorithms inside and outside the target region in heterogeneous phantom geometries",
+        "Evaluation of beam delivery and ripple filter design for non-isocentric proton and carbon ion therapy",
+        "The technological basis for adaptive ion beam therapy at MedAustron\u202f: status and outlook",
+        "A system for three-dimensional dosimetric verification of treatment plans in intensity-modulated radiotherapy with heavy ions",
+        "Implementation of dosimetry equipment and phantoms at the MedAustron light ion beam therapy facility",
+        "Characteristic of EBT-XD and EBT3 radiochromic film dosimetry for photon and proton beams",
+        "Tolerance limits and methodologies for IMRT measurement-based verification QA: Recommendations of AAPM Task Group No. 218",
+        "Physical advantages of particles: protons and light ions",
+        "Clinical Rationale and Indications for Particle Therapy",
+        "Methodology paper: A novel phantom setup for commissioning of scanned ion beam delivery and TPS",
+        "Validation of the RayStation Monte Carlo dose calculation algorithm using realistic animal tissue phantoms",
+        "Investigation of the Bragg peak degradation caused by homogeneous and heterogeneous lung tissue substitutes: proton beam experiments and comparison to current clinical dose calculation",
+        "Commissioning and comprehensive quality assurance of commercial 3D treatment planning system using IAEA technical report series \u2014 430",
+        "Dosimetric verification of radiotherapy treatment planning systems: results of IAEA pilot study",
+        "Assessing the clinical impact of approximations in analytical dose calculations for proton therapy",
+        "Results from the imaging and radiation oncology core Houston's anthropomorphic phantoms used for proton therapy clinical trial credentialing",
+        "Influence of multiple scattering and energy loss straggling on the absorbed dose distributions of therapeutic light ion beams: I. Analytical pencil beam model",
+        "A benchmarking method to evaluate the accuracy of a commercial proton monte carlo pencil beam scanning treatment planning system",
+        "Automated Monte-Carlo re-calculation of proton therapy plans using Geant4/Gate\u202f: implementation and comparison to plan-specific quality assurance measurements",
+        "Monte carlo simulations of particle interactions with tissue in carbon ion therapy",
+        "Dose- rather than fluence-averaged LET should be used as a single-parameter descriptor of proton beam quality for radiochromic film dosimetry",
+        "Development of a procedure for quenching-effect correction in images of absorbed dose from protons or carbon ions acquired with Gafchromic EBT3 films"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Wiener Neustadt",
+            "@id": "60112014",
+            "affilname": "MedAustron, Austria",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60112014",
+            "affiliation-country": "Austria"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Vienna",
+            "@id": "60011394",
+            "affilname": "Medizinische Universit\u00e4t Wien",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011394",
+            "affiliation-country": "Austria"
+        },
+        {
+            "affiliation-city": "Middlesex",
+            "@id": "60010785",
+            "affilname": "National Physical Laboratory",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010785",
+            "affiliation-country": "United Kingdom"
+        }
+    ],
+    "funding": [
+        "Thai Red Cross Society",
+        "King Chulalongkorn Memorial Hospital"
+    ]
+}

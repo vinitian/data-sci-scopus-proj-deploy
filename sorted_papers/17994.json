@@ -1,0 +1,55 @@
+{
+    "eid": "2-s2.0-85054562358",
+    "title": "Extracting data invariants from PROMELA",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Data invariants",
+        "Dynamic slicing",
+        "Formal verification",
+        "LTL",
+        "Program slicing",
+        "Promela",
+        "SPIN"
+    ],
+    "authors": [
+        "Wisut Suksribangteuy",
+        "Wiwat Vatanawood"
+    ],
+    "citedby-count": 0,
+    "ref-count": 9,
+    "ref-list": [
+        "Web data extraction techniques: A review",
+        "On the use of constraints in dynamic slicing for program debugging",
+        "Dynamic program slicing method",
+        "Using PROMELA in a fully verified executable LTL model checker",
+        "Forward computation of dynamic program slices"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

@@ -1,0 +1,82 @@
+{
+    "eid": "2-s2.0-85170194273",
+    "title": "Transfer Learning for Artificial Intelligence in Ophthalmology",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Medicine (all)",
+            "@code": "2700",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Paisan Ruamviboonsuk",
+        "Natsuda Kaothanthong",
+        "Varis Ruamviboonsuk",
+        "Thanaruk Theeramunkong"
+    ],
+    "citedby-count": 0,
+    "ref-count": 49,
+    "ref-list": [
+        "A survey on transfer learning",
+        "Automated diagnoses of age-related macular degeneration and polypoidal choroidal vasculopathy using bi-modal deep convolutional neural networks",
+        "Performance of deep learning architectures and transfer learning for detecting glaucomatous optic neuropathy in fundus photographs",
+        "Deep learning for anterior segment optical coherence tomography to predict the presence of plateau iris",
+        "From machine to machine: An OCT-trained deep learning algorithm for objective quantification of glaucomatous damage in fundus photographs",
+        "Visual domain adaptation: A survey of recent advances",
+        "MedGAN: Medical image translation using GANs",
+        "GAN-based synthetic medical image augmentation for increased CNN performance in liver lesion classification",
+        "Manifold alignment using procrustes analysis",
+        "ImageNet: A large-scale hierarchical image database. In: 2009 IEE conference on computer vision and pattern recognition",
+        "Representation learning: A review and new perspectives",
+        "Deep learning is effective for classifying normal versus age-related macular degeneration OCT images",
+        "Retinal blood vessel segmentation by balancing losses through stacked deep fully convolutional networks",
+        "Deep vessel segmentation by learning graphical connectivity",
+        "Predicting optical coherence tomography-derived diabetic macular edema grades from fundus photographs using deep learning",
+        "Reticular pseudodrusen: A risk factor for geographic atrophy in fellow eyes of individuals with unilateral choroidal neovascularization",
+        "Deep learning automated detection of reticular pseudodrusen from fundus autofluorescence images or color fundus photographs in AREDS2",
+        "Human versus machine: Comparing a deep learning algorithm to human gradings for detecting glaucoma on fundus photographs",
+        "A deep learning system for automated angleclosure detection in anterior segment optical coherence tomography images",
+        "Prediction of cardiovascular risk factors from retinal fundus photographs via deep learning",
+        "Identification of cataract and post-cataract surgery optical images using artificial intelligence techniques",
+        "Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs",
+        "Development and validation of a deep learning system for diabetic retinopathy and related eye diseases using retinal images from multiethnic populations with diabetes",
+        "Artificial intelligence to stratify severity of age-related macular degeneration (AMD) and predict risk of progression to late AMD",
+        "A deep learning approach for automated detection of geographic atrophy from color fundus photographs",
+        "Development and validation of a deep learning system to detect glaucomatous optic neuropathy using fundus photographs",
+        "Evaluation of a deep learning image assessment system for detecting severe retinopathy of prematurity",
+        "Deep-learning based, automated segmentation of macular edema in optical coherence tomography",
+        "OCT-based deep learning algorithm for the evaluation of treatment indication with anti-vascular endothelial growth factor medications",
+        "Accuracy of ultrawide-field fundus ophthalmoscopy-assisted deep learning for detecting treatment-na\u00efve proliferative diabetic retinopathy",
+        "Accuracy of ultra-wide-field fundus ophthalmoscopy-assisted deep learning, a machine-learning technology, for detecting age- related macular degeneration",
+        "Accuracy of deep learning, a machine-learning technology, using ultra-wide-field fundus ophthalmoscopy for detecting rhegmatogenous retinal detachment",
+        "Neural network-based system for early keratoconus detection from corneal topography",
+        "Detection of subclinical keratoconus using an automated decision tree classification"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011220",
+            "affilname": "Sirindhorn International Institute of Technology, Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011220",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60023366",
+            "affilname": "Rangsit University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023366",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

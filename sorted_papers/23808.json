@@ -1,0 +1,69 @@
+{
+    "eid": "2-s2.0-85058151306",
+    "title": "Detecting points of interest in a city from taxi GPS with adaptive DBSCAN",
+    "cover-date": "2018-11-05",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Clustering",
+        "DBSCAN",
+        "Point of Interest",
+        "Taxi GPS Data"
+    ],
+    "authors": [
+        "Uriwan Angkhawey",
+        "Veera Muangsin"
+    ],
+    "citedby-count": 4,
+    "ref-count": 10,
+    "ref-list": [
+        "Evaluating the accuracy of GPS-based taxi trajectory records",
+        "A density-based algorithm for discovering clusters in large spatial databases with noise",
+        "VDBSCAN: Varied density based spatial clustering of applications with noise",
+        "AutoEpsDBSCAN : DBSCAN with eps automatic for large dataset",
+        "Determination of optimal epsilon (eps) value on dbscan algorithm to clustering data on peatland hotspots in sumatra",
+        "DBSCAN revisited, revisited: Why and how you should (still) use DBSCAN",
+        "A density based clustering algorithm for exploration and analysis of attractive areas using collections of geo-tagged photos"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn Academic Advancement",
+        "Chulalongkorn University"
+    ]
+}

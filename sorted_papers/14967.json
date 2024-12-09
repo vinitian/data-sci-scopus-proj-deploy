@@ -1,0 +1,141 @@
+{
+    "eid": "2-s2.0-85127293010",
+    "title": "A Summary of the ALQAC 2021 Competition",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "ALQAC 2021",
+        "competition",
+        "legal processing",
+        "summary"
+    ],
+    "authors": [
+        "Nguyen Ha Thanh",
+        "Bui Minh Quan",
+        "Chau Nguyen",
+        "Tung Le",
+        "Nguyen Minh Phuong",
+        "Dang Tran Binh",
+        "Vuong Thi Hai Yen",
+        "Teeradaj Racharak",
+        "Nguyen Le Minh",
+        "Tran Duc Vu",
+        "Phan Viet Anh",
+        "Nguyen Truong Son",
+        "Huy Tien Nguyen",
+        "Bhumindr Butr-Indr",
+        "Peerapon Vateekul",
+        "Prachya Boonkwan"
+    ],
+    "citedby-count": 5,
+    "ref-count": 12,
+    "ref-list": [
+        "Summary of the competition on legal information extraction/entailment (coliee) 2021",
+        "Aimelaw at alqac 2021: Enriching neural network models with legal-domain knowledge",
+        "Apply bert-based models and domain knowledge for for automated legal question answering tasks at alqac 2021",
+        "Vnlawbert: A Vietnamese legal answer selection approach using bert language model",
+        "Kodiak@alqac2021: Deep learning for Vietnamese legal information processing",
+        "Vietnamese legal question answering with combined features and deep learning",
+        "PhoBERT: Pre-trained language models for Vietnamese",
+        "Attention is all you need",
+        "Legal norm retrieval with variations of the bert model combined with tf-idf vectorization",
+        "Bert-based ensemble methods with data augmentation for legal textual entailment in coliee statute law task",
+        "Paralaw nets-cross-lingual sentence-level pretraining for legal text processing"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Hanoi",
+            "@id": "60121871",
+            "affilname": "Le Quy Don Technical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60121871",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60078566",
+            "affilname": "Viet Nam National University Ho Chi Minh City",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60078566",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Hanoi",
+            "@id": "60071364",
+            "affilname": "Vietnam National University, Hanoi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071364",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Minato",
+            "@id": "60017391",
+            "affilname": "The Institute of Statistical Mathematics",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017391",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60012521",
+            "affilname": "Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012521",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011525",
+            "affilname": "Thailand National Electronics and Computer Technology Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011525",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nomi",
+            "@id": "60011375",
+            "affilname": "Japan Advanced Institute of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011375",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

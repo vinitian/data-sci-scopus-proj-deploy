@@ -1,0 +1,107 @@
+{
+    "eid": "2-s2.0-85079696129",
+    "title": "Design and implementation of the off-line robust model predictive control for solid oxide fuel cells",
+    "cover-date": "2019-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Bioengineering",
+            "@code": "1502",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Chemical Engineering (miscellaneous)",
+            "@code": "1501",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Process Chemistry and Technology",
+            "@code": "1508",
+            "@abbrev": "CENG"
+        }
+    ],
+    "keywords": [
+        "Control synthesis",
+        "Off-line calculation",
+        "Robust model predictive control",
+        "Solid oxide fuel cell"
+    ],
+    "authors": [
+        "Narissara Chatrattanawet",
+        "Soorathep Kheawhom",
+        "Yong Song Chen",
+        "Amornchai Arpornwichanop"
+    ],
+    "citedby-count": 8,
+    "ref-count": 47,
+    "ref-list": [
+        "Effect of anode-cathode exhaust gas recirculation on energy recuperation in a solid oxide fuel cell-gas turbine hybrid power system",
+        "Modeling, Management, and Control of an Autonomous Wind/Fuel Cell Micro-Grid System",
+        "Recent progress on solid oxide fuel cell: Lowering temperature and utilizing non-hydrogen fuels",
+        "Experimental and numerical analysis of a SOFC-CHP system with adsorption and hybrid chillers for telecommunication applications",
+        "Combination of thermodynamic analysis and regression analysis for steam and dry methane reforming",
+        "Experimental study of syngas production from methane dry reforming with heat recovery strategy",
+        "Study of a solid oxide fuel cell fed with n-dodecane reformate. Part II: Effect of the reformate composition",
+        "Inhibition of methane production by the palm oil industrial waste phospholine gum in a mimic enteric fermentation",
+        "Thermoelectric characterization of an intermediate temperature solid oxide fuel cell system directly fed by dry biogas",
+        "Electrical and thermal analysis of an intermediate temperature IIR-SOFC system fed by biogas",
+        "Integrated methane decomposition and solid oxide fuel cell for efficient electrical power generation and carbon capture",
+        "On the technical challenges affecting the performance of direct internal reforming biogas solid oxide fuel cells",
+        "An adaptable steady state Aspen Hysys model for the methane fuelled solid oxide fuel cell",
+        "Numerical model of planar anode supported solid oxide fuel cell fed with fuel containing H2S operated in direct internal reforming mode (DIR-SOFC)",
+        "Thermal design, modeling and validation of a steam-reforming reactor for fuel cell applications",
+        "A novel concept for improved thermal management of the planar SOFC",
+        "An adaptive non-linear observer for the estimation of temperature distribution in the planar solid oxide fuel cell",
+        "The application of hierarchical structures in energy devices: New insights into the design of solid oxide fuel cells with enhanced mass transport",
+        "Dynamic modeling and control of planar anode-supported solid oxide fuel cell",
+        "Feedforward based transient control in solid oxide fuel cells",
+        "Active disturbance rejection control for voltage stabilization in open-cathode fuel cells through temperature regulation",
+        "An analysis of the control and operation of a solid oxide fuel-cell power plant in an isolated system",
+        "Anode-supported intermediate-temperature direct internal reforming solid oxide fuel cell. II: Model-based dynamic performance and control",
+        "Control strategy for a solid oxide fuel cell and gas turbine hybrid system",
+        "Nonlinear model predictive control based on the moving horizon state estimation for the solid oxide fuel cell",
+        "An MPC-based control structure selection approach for simultaneous process and control design",
+        "LMI-based robust model predictive control and its application to an industrial CSTR problem",
+        "Robust feedback model predictive control of constrained uncertain systems",
+        "Robust constrained model predictive control using linear matrix inequalities",
+        "Simultaneous design and MPC-based control for dynamic systems under uncertainty: A stochastic approach",
+        "Robust parametric predictive control design for polytopically uncertain systems",
+        "An off-line robust MPC algorithm for uncertain polytopic discrete-time systems using polyhedral invariant sets",
+        "Robust model predictive control with guaranteed setpoint tracking",
+        "Explicit/multi-parametric model predictive control of a solid oxide fuel cell",
+        "Robust output feedback model predictive control using off-line linear matrix inequalities",
+        "Electrochemical and thermodynamic modeling of a CHP system using tubular solid oxide fuel cell (SOFC-CHP)",
+        "Investigation of methane steam reforming in planar porous support of solid oxide fuel cell",
+        "Methane/steam reforming kinetics for solid oxide fuel cells",
+        "Dynamic modeling of a solid oxide fuel cell system for control design",
+        "Control relevant modeling of planar solid oxide fuel cell system",
+        "Micro-scale modeling of oxide fuel cells with micro-structurally graded electrodes",
+        "Electrochemical study of a planar solid oxide fuel cell: Role of support structures",
+        "Convergent systems",
+        "Design and control of energy integrated SOFC systems for in situ hydrogen production and power generation",
+        "Using Sedumi 1.02, a MATLAB toolbox for optimization over symmetric cones",
+        "YALMIP: A toolbox for modeling and optimization in MATLAB"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Min-Hsiung",
+            "@id": "60007954",
+            "affilname": "National Chung Cheng University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007954",
+            "affiliation-country": "Taiwan"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn Academic Advancement",
+        "Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "eid": "2-s2.0-85164846358",
+    "title": "Advanced Stiffness Sensing through the Pincer Grasping of Soft Pneumatic Grippers",
+    "cover-date": "2023-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analytical Chemistry",
+            "@code": "1602",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "object classification",
+        "pincer grasping",
+        "pneumatic gripper",
+        "sensible grasping",
+        "soft gripper",
+        "stiffness sensing"
+    ],
+    "authors": [
+        "Chaiwuth Sithiwichankit",
+        "Ratchatin Chanchareon"
+    ],
+    "citedby-count": 0,
+    "ref-count": 68,
+    "ref-list": [
+        "A New Technique for Fully Autonomous and Efficient 3D Robotics Hand/Eye Calibration",
+        "Learning hand-eye coordination for robotic grasping with deep learning and large-scale data collection",
+        "A Century of Robotic Hands",
+        "Comprehensive Review on Reaching and Grasping of Objects in Robotics",
+        "Grasp analysis as linear matrix inequality problems",
+        "Graspit: A versatile simulator for robotic grasping",
+        "Data-driven grasp synthesis-A survey",
+        "State-of-the-art robotic grippers, grasping and control strategies, as well as their applications in agricultural robots: A review",
+        "Bioinspired robotic fingers based on pneumatic actuator and 3D printing of smart material",
+        "Learning from humans how to grasp: A data-driven architecture for autonomous grasping with anthropomorphic soft hands",
+        "A Novel Soft Robotic Hand Design with Human-Inspired Soft Palm: Achieving a Great Diversity of Grasps",
+        "Fully Passive Robotic Finger for Human-Inspired Adaptive Grasping in Environmental Constraints",
+        "Coding and use of tactile signals from the fingertips in object manipulation tasks",
+        "Analysis of human grasping behavior: Object characteristics and grasp type",
+        "Haptic classification of common objects: Knowledge-driven exploration",
+        "Design and control of an apple harvesting robot",
+        "Visual classification of waste material for nuclear decommissioning",
+        "Intelligent Small Object Detection for Digital Twin in Smart Manufacturing with Industrial Cyber-Physical Systems",
+        "Automatic fabric defect detection with a wide-and-compact network",
+        "Pipe spool recognition in cluttered point clouds using a curvature-based shape descriptor",
+        "Real-time estimation of rollover index for tripped rollovers with a novel unknown inputs nonlinear observer",
+        "On-line Ladle Lining Temperature Estimation by Using Bounded Jacobian Nonlinear Observer",
+        "A hybrid-type micro-gripper with an integrated force sensor",
+        "Pressure sensor: State of the art, design, and application for robotic hand",
+        "Tactile sensing in dexterous robot hands\u2014Review",
+        "Deep learning-based smith predictor design for a remote grasping control system",
+        "More than a feeling: Learning to grasp and regrasp using vision and touch",
+        "Tactile sensors for robotic applications",
+        "Development of a three-axis gripper force sensor and the intelligent gripper using it",
+        "Human-inspired robotic grasp control with tactile sensing",
+        "Single-Grasp Object Classification and Feature Extraction with Simple Robot Hands and Tactile Sensors",
+        "Using a Variable-Friction Robot Hand to Determine Proprioceptive Features for Object Classification during Within-Hand-Manipulation",
+        "Soft robotics for chemists",
+        "Soft robotics: Academic insights and perspectives through bibliometric analysis",
+        "An overview of novel actuators for soft robotics",
+        "Automated modeling and robotic grasping of unknown three-dimensional objects",
+        "Design, fabrication and control of soft robots",
+        "Control Strategies for Soft Robotic Manipulators: A Survey",
+        "Elastic Inflatable Actuators for Soft Robotic Applications",
+        "Soft Robotic Grippers",
+        "Soft manipulators and grippers: A review",
+        "Soft Actuators for Small-Scale Robotics",
+        "Soft Robotics: Review of Fluid-Driven Intrinsically Soft Devices; Manufacturing, Sensing, Control, and Applications in Human-Robot Interaction",
+        "Challenges and Opportunities for Design, Simulation, and Fabrication of Soft Robots",
+        "A review of soft manipulator research, applications, and opportunities",
+        "Pneumatic Soft Robots: Challenges and Benefits",
+        "Asymmetric bellow flexible pneumatic actuator for miniature robotic soft gripper",
+        "A novel pneumatic soft sensor for measuring contact force and curvature of a soft gripper",
+        "Analytical modeling and optimization of a corrugated soft pneumatic finger considering the performance of pinch and power grasps",
+        "Modeling and Experimental Evaluation of Bending Behavior of Soft Pneumatic Actuators Made of Discrete Actuation Chambers",
+        "Haptic identification of objects using a modular soft robotic gripper",
+        "Size recognition and adaptive grasping using an integration of actuating and sensing soft pneumatic gripper",
+        "Texture Discrimination with a Soft Biomimetic Finger Using a Flexible Neuromorphic Tactile Sensor Array That Provides Sensory Feedback",
+        "High strain rate tensile testing of automotive aluminum alloy sheet",
+        "Dynamic compression testing of a tunable spring element consisting of a magnetorheological elastomer",
+        "Dynamic In-Hand Sliding Manipulation",
+        "Development of gripper to achieve envelope grasping with underactuated mechanism using differential gear",
+        "Theoretical modelling of soft robotic gripper with bioinspired fibrillar adhesives",
+        "Image steganography using redundant discrete wavelet transform and QR factorization",
+        "Softness-Adaptive Pinch-Grasp Strategy Using Fingertip Tactile Information of Robot Hand",
+        "Bridge Sub Structure Defect Inspection Assistance by using Deep Learning",
+        "Deep learning-based visual defect-inspection system for reinforced concrete bridge substructure: A case of Thailand\u2019s department of highways",
+        "Weed classification for site-specific weed management using an automated stereo computer-vision machine-learning system in rice fields",
+        "Image-based bed material mapping of a large river",
+        "Line-based geometric consensus rectification and calibration from single distorted manhattan image",
+        "Stereo Vision Based Automated Solder Ball Height and Substrate Coplanarity Inspection",
+        "Efficient parameter estimation for cone-shaped target based on distributed radar networks"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University",
+        "National Research Council of Thailand"
+    ]
+}

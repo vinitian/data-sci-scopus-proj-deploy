@@ -1,0 +1,54 @@
+{
+    "eid": "2-s2.0-85151142856",
+    "title": "Geometrically Nonlinear Behavior of L-Shaped Frames Under Forces Applied at Different Positions",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Geometrically nonlinear analysis",
+        "Isogeometric analysis",
+        "L-shaped frames",
+        "Length-to-length ratio",
+        "Timoshenko-Ehrenfest beam formulation"
+    ],
+    "authors": [
+        "Nghi Huu Duong",
+        "Duy Vo",
+        "Pruettha Nanakorn"
+    ],
+    "citedby-count": 0,
+    "ref-count": 6,
+    "ref-list": [
+        "Isogeometric analysis: CAD, finite elements, NURBS, exact geometry and mesh refinement",
+        "Large deflections and stability of elastic frame",
+        "L-shaped structure mass and stiffness matrices by substructure synthesis",
+        "A 2D field-consistent beam element for large displacement analysis using a rational B\u00e9zier representation with varying weights",
+        "Geometrically nonlinear multi-patch isogeometric analysis of planar curved Euler-Bernoulli beams"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011220",
+            "affilname": "Sirindhorn International Institute of Technology, Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011220",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Chulalongkorn University"
+    ]
+}

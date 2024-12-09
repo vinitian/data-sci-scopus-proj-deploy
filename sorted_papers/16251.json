@@ -1,0 +1,71 @@
+{
+    "eid": "2-s2.0-85124559855",
+    "title": "Protest Prediction in Thailand Using Twitter Data",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "LSTM",
+        "Na\u00efve Bayes",
+        "Protest",
+        "Protest Prediction",
+        "Text Classification",
+        "Twitter"
+    ],
+    "authors": [
+        "Narongsak Yooyen",
+        "Sukree Sinthupinyo"
+    ],
+    "citedby-count": 0,
+    "ref-count": 13,
+    "ref-list": [
+        "Tracking Political Events in Social Media: A Case Study of Hong Kong Protests",
+        "Beatrice Lazzerini, Real-Time Detection of Traffic FromTwitter Stream Analysis",
+        "Stock Market Prediction based on Social Sentiments using Machine Learning",
+        "On Predicting Social Unrest Using Social Media",
+        "A framework for analyzing collective action events on Twitter",
+        "Twitter Sentiments Analysis Using Machine Learninig Methods",
+        "Prediction of the 2017 French Election Based on Twitter Data Analysis",
+        "Sentiment Classification System of Twitter Data for US Airline Service Analysis",
+        "Real-Time Detection of Traffic FromTwitter Stream Analysis",
+        "Weakly Supervised Learning for Fake NewsDetection on Twitter"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

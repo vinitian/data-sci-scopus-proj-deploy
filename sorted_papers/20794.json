@@ -1,0 +1,69 @@
+{
+    "eid": "2-s2.0-85150430546",
+    "title": "Human Workload Evaluation of Drone Swarm Formation Control using Virtual Reality Interface",
+    "cover-date": "2023-03-13",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Formation Control",
+        "Human Workload Evaluation",
+        "Human-Robot Interactions",
+        "NASA-TLX",
+        "Swarm Robotics",
+        "Virtual Reality"
+    ],
+    "authors": [
+        "Chanun Asavasirikulkij",
+        "Muhammad Hanif"
+    ],
+    "citedby-count": 0,
+    "ref-count": 11,
+    "ref-list": [
+        "A Passivity-Based System Design of Semi-Autonomous Cooperative Robotic Swarm",
+        "The use of 2D and 3D displays for shape-understanding versus relative-position tasks",
+        "Control barrier functions: Theory and applications",
+        "A survey on robotic technologies for forest firefighting: Applying drone swarms to improve firefighters' efficiency and safety",
+        "Designing multi-agent swarm of uav for precise agriculture",
+        "Review on existing VR/AR solutions in human-robot collaboration",
+        "Interacting with Networks of Mobile Agents",
+        "A Review of Consensus-based Multi-agent UAV Implementations",
+        "A Passivity-Based Approach to Human-Swarm Collaboration and Passivity Analysis of Human Operators",
+        "Drone. io: A gestural and visual interface for human-drone interaction",
+        "DroneSim: A VR-based flight training simulator for drone-mediated building inspections"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60031126",
+            "affilname": "Tokyo Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031126",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,94 @@
+{
+    "eid": "2-s2.0-85121425183",
+    "title": "Transformer-based decoder designs for semantic segmentation on remotely sensed images",
+    "cover-date": "2021-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Earth and Planetary Sciences (all)",
+            "@code": "1900",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [
+        "Convolutional neural network",
+        "Feature pyramid network",
+        "Fully transformer networks",
+        "High-resolution representations",
+        "ISPRS Vaihingen",
+        "Landsat-8",
+        "Vision transformer"
+    ],
+    "authors": [
+        "Teerapong Panboonyuen",
+        "Kulsawasd Jitkajornwanich",
+        "Siam Lawawirojwong",
+        "Panu Srestasathiern",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 15,
+    "ref-count": 43,
+    "ref-list": [
+        "Multiattention network for semantic segmentation of fine-resolution remote sensing images",
+        "Semantic Segmentation of Satellite Images: A Deep Learning Approach Integrated with Geospatial Hash Codes",
+        "SCAttNet: Semantic segmentation network with spatial and channel attention mechanism for high-resolution remote sensing images",
+        "Dual attention deep fusion semantic segmentation networks of large-scale satellite remote-sensing images",
+        "Self-attention in reconstruction bias U-Net for semantic segmentation of building rooftops in optical remote sensing images",
+        "Daugnet: Unsupervised, multisource, multitarget, and life-long domain adaptation for semantic segmentation of satellite images",
+        "Large kernel matters\u2014Improve semantic segmentation by global convolutional network",
+        "Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs",
+        "Mask r-cnn",
+        "Bisenet: Bilateral segmentation network for real-time semantic segmentation",
+        "Ccnet: Criss-cross attention for semantic segmentation",
+        "Attention is all you need",
+        "Spatial-Spectral Transformer for Hyperspectral Image Classification",
+        "Improved Transformer Net for Hyperspectral Image Classification",
+        "Rethinking transformer-based set prediction for object detection",
+        "Uncertainty-Guided Transformer Reasoning for Camouflaged Object Detection",
+        "Transformer Meets Convolution: A Bilateral Awareness Network for Semantic Segmentation of Very Fine Resolution Urban Scene Images",
+        "TrSeg: Transformer for semantic segmentation",
+        "Pre-trained image processing transformer",
+        "Vision transformers for dense prediction",
+        "Bottleneck transformers for visual recognition",
+        "Rethinking the Self-Attention in Vision Transformers",
+        "Revamping Cross-Modal Recipe Retrieval with Hierarchical Transformers and Self-supervised Learning",
+        "Training data-efficient image transformers & distillation through attention",
+        "H-DenseUNet: Hybrid densely connected UNet for liver and tumor segmentation from CT volumes",
+        "Pyramid scene parsing network",
+        "Parallel feature pyramid network for object detection",
+        "Segnet: A deep convolutional encoder\u2013decoder architecture for image segmentation",
+        "Semantic Labeling in Remote Sensing Corpora Using Feature Fusion-Based Enhanced Global Convolutional Network with High-Resolution Representations and Depthwise Atrous Convolution",
+        "Rethinking semantic segmentation from a sequence-to-sequence perspective with transformers",
+        "Xception: Deep learning with depthwise separable convolutions",
+        "Fd-mobilenet: Improved mobilenet with a fast downsampling strategy",
+        "Revisiting rcnn: On awakening the classification power of faster rcnn",
+        "Tensorflow: A system for large-scale machine learning",
+        "Aggregated residual transformations for deep neural networks"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60091494",
+            "affilname": "Geo-Informatics and Space Technology Development Agency",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091494",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ladkrabang Bangkok",
+            "@id": "60021543",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021543",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

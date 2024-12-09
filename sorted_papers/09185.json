@@ -1,0 +1,110 @@
+{
+    "eid": "2-s2.0-85125173220",
+    "title": "Fast segmentation convolutional neural network with edge-guided path for real-Time diagnosis of gastric intestinal metaplasia",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Automotive Engineering",
+            "@code": "2203",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "artificial intelligence",
+        "computer vision",
+        "esophagogastroduodenoscopy",
+        "gastric intestinal metaplasia"
+    ],
+    "authors": [
+        "Vitchaya Siripoppohn",
+        "Rapat Pittayanon",
+        "Kasenee Tiankanon",
+        "Natee Faknak",
+        "Anapat Sanpavat",
+        "Naruemon Klaikaew",
+        "Peerapon Vateekul",
+        "Rungsun Rerknimitr"
+    ],
+    "citedby-count": 2,
+    "ref-count": 28,
+    "ref-list": [
+        "The biological model of gastric carcinogenesis",
+        "Inflammation, atrophy, and gastric cancer",
+        "Diagnostic capabilities of high-definition white light endoscopy for the diagnosis of gastric intestinal metaplasia and correlation with histologic and clinical data",
+        "Correlation between Endoscopic and Histological Diagnoses of Gastric Intestinal Metaplasia",
+        "The Learning Curve of Gastric Intestinal Metaplasia Interpretation on the Images Obtained by Probe-Based Confocal Laser Endomicroscopy",
+        "Classification and Grading of Gastritis: The Updated Sydney System",
+        "A multicenter randomized comparison between high-definition white light endoscopy and narrow band imaging for detection of gastric lesions",
+        "A prospective randomized tandem gastroscopy pilot study of linked color imaging versus white light imaging for detection of upper gastrointestinal lesions",
+        "Narrow-band imaging with magnifying endoscopy is accurate for detecting gastric intestinal metaplasia",
+        "Clinical Features of False-Negative Early Gastric Cancers: A Retrospective Study of Endoscopic Submucosal Dissection Cases",
+        "Real-Time Polyps Segmentation for Colonoscopy Video Frames Using Compressed Fully Convolutional Network",
+        "Combining Angiodysplasia Classification and Segmentation on Capsule Endoscopy Images Using Attentional AlbuNet",
+        "Localizing and Identifying Intestinal Metaplasia Based on Deep Learning in Oesophagoscope",
+        "Artificial intelligence using convolutional neural networks for real-Time detection of early esophageal neoplasia in Barretts esophagus (with video)",
+        "U-Net: Convolutional Networks for Biomedical Image Segmentation",
+        "Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation",
+        "SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation",
+        "DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs",
+        "Joint Image Filtering with Deep Convolutional Networks",
+        "Gradient-based learning applied to document recognition",
+        "Deep learning in gastric tissue diseases: A systematic review",
+        "Design of an image edge detection filter using the Sobel operator",
+        "MobileNetV2: Inverted Residuals and Linear Bottlenecks",
+        "Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition",
+        "LabelMe: A Database and Web-Based Tool for Image Annotation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Center of Excellence for Innovation and Endoscopy in Gastrointestinal Oncology, Chulalongkorn University",
+        "University Technology Center",
+        "Chulalongkorn University",
+        "National Research Council of Thailand"
+    ]
+}

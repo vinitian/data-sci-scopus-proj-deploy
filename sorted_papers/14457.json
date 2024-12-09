@@ -1,0 +1,79 @@
+{
+    "eid": "2-s2.0-85088877365",
+    "title": "Grey wolf optimizer (GWO) with multi-objective optimization for biodiesel production from waste cooking oil using central composite design (CCD)",
+    "cover-date": "2020-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Biodiesel production",
+        "Central composite design",
+        "Grey wolf optimizer",
+        "Multi-objective optimization"
+    ],
+    "authors": [
+        "Somboon Sukpancharoen",
+        "Thongchai Rohitatisha Srinophakun",
+        "Pasura Aungkulanon"
+    ],
+    "citedby-count": 8,
+    "ref-count": 13,
+    "ref-list": [
+        "Enzymatic biodiesel production: technical and economical considerations,",
+        "The variants of the bees algorithm (BA): A survey",
+        "Bat algorithm with parameter adaptation using interval type-2 fuzzy logic for benchmark mathematical functions",
+        "Bat algorithm: A novel approach for global engineering optimization",
+        "Particle swarm optimization",
+        "A modified PSO algorithm for linear optimization problem subject to the generalized fuzzy relational inequalities with fuzzy constraints (FRI-FC),",
+        "Grey wolf optimizer",
+        "Biodiesel production from waste cooking oil: 1. process design and technological assessment,",
+        "Firefly algorithm for optimization,",
+        "Elephant herding optimization",
+        "A novel metaheuristic method for solving constrained engineering optimization problems: Crow search algorithm",
+        "Monarch butterfly optimization,"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60021944",
+            "affilname": "Kasetsart University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021944",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Center of Excellence on Petrochemical and Materials Technology",
+        "Chulalongkorn University"
+    ]
+}

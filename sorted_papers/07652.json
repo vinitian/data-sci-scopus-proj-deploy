@@ -1,0 +1,87 @@
+{
+    "eid": "2-s2.0-85164974065",
+    "title": "Performance Comparison of Lightweight CNN Models for Drone Collision Avoidance Dataset",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Collision Avoidance Dataset",
+        "Convolution Neural Network",
+        "Drones",
+        "Image Processing"
+    ],
+    "authors": [
+        "Rifqi Nabila Zufar",
+        "David Banjerdpongchai"
+    ],
+    "citedby-count": 0,
+    "ref-count": 19,
+    "ref-list": [
+        "UAVs for industrial applications: Identifying challenges and opportunities from the implementation point of View",
+        "A technical study on UAV characteristics for precision agriculture applications and associated practical challenges",
+        "Survey of 8 UAV set-covering algorithms for terrain photogrammetry",
+        "Drone Technology: Types, Payloads, Applications, Frequency Spectrum Issues and Future Developments",
+        "Anti-Collision Technologies for Unmanned Aerial Vehicles: Recent Advances and Future Trends",
+        "Research progress of obstacle detection based on monocular vision",
+        "How Does the Data set Affect CNN-based Image Classification Performance?",
+        "ColANet: A UAV collision avoidance dataset",
+        "Collision avoidance on unmanned aerial vehicles using neural network pipelines and flow clustering techniques",
+        "MobileNetV2: Inverted Residuals and Linear Bottlenecks",
+        "Unmanned Aerial Vehicles (uavs): Collision Avoidance Systems and approaches",
+        "Characterizing the Deployment of Deep Neural Networks on Commercial Edge Devices",
+        "Keras Applications",
+        "An Experimental Perspective for Computation-Efficient Neural Networks Training"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

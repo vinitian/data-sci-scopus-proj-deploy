@@ -1,0 +1,458 @@
+{
+    "eid": "2-s2.0-85115148251",
+    "title": "Federated learning for predicting clinical outcomes in patients with COVID-19",
+    "cover-date": "2021-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biochemistry, Genetics and Molecular Biology (all)",
+            "@code": "1300",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Ittai Dayan",
+        "Holger R. Roth",
+        "Aoxiao Zhong",
+        "Ahmed Harouni",
+        "Amilcare Gentili",
+        "Anas Z. Abidin",
+        "Andrew Liu",
+        "Anthony Beardsworth Costa",
+        "Bradford J. Wood",
+        "Chien Sung Tsai",
+        "Chih Hung Wang",
+        "Chun Nan Hsu",
+        "C. K. Lee",
+        "Peiying Ruan",
+        "Daguang Xu",
+        "Dufan Wu",
+        "Eddie Huang",
+        "Felipe Campos Kitamura",
+        "Griffin Lacey",
+        "Gustavo C\u00e9sar de Ant\u00f4nio Corradi",
+        "Gustavo Nino",
+        "Hao Hsin Shin",
+        "Hirofumi Obinata",
+        "Hui Ren",
+        "Jason C. Crane",
+        "Jesse Tetreault",
+        "Jiahui Guan",
+        "John W. Garrett",
+        "Joshua D. Kaggie",
+        "Jung Gil Park",
+        "Keith Dreyer",
+        "Krishna Juluru",
+        "Kristopher Kersten",
+        "Marcio Aloisio Bezerra Cavalcanti Rockenbach",
+        "Marius George Linguraru",
+        "Masoom A. Haider",
+        "Meena AbdelMaseeh",
+        "Nicola Rieke",
+        "Pablo F. Damasceno",
+        "Pedro Mario Cruz e Silva",
+        "Pochuan Wang",
+        "Sheng Xu",
+        "Shuichi Kawano",
+        "Sira Sriswasdi",
+        "Soo Young Park",
+        "Thomas M. Grist",
+        "Varun Buch",
+        "Watsamon Jantarabenjakul",
+        "Weichung Wang",
+        "Won Young Tak",
+        "Xiang Li",
+        "Xihong Lin",
+        "Young Joon Kwon",
+        "Abood Quraini",
+        "Andrew Feng",
+        "Andrew N. Priest",
+        "Baris Turkbey",
+        "Benjamin Glicksberg",
+        "Bernardo Bizzo",
+        "Byung Seok Kim",
+        "Carlos Tor-D\u00edez",
+        "Chia Cheng Lee",
+        "Chia Jung Hsu",
+        "Chin Lin",
+        "Chiu Ling Lai",
+        "Christopher P. Hess",
+        "Colin Compas",
+        "Deepeksha Bhatia",
+        "Eric K. Oermann",
+        "Evan Leibovitz",
+        "Hisashi Sasaki",
+        "Hitoshi Mori",
+        "Isaac Yang",
+        "Jae Ho Sohn",
+        "Krishna Nand Keshava Murthy",
+        "Li Chen Fu",
+        "Matheus Ribeiro Furtado de Mendon\u00e7a",
+        "Mike Fralick",
+        "Min Kyu Kang",
+        "Mohammad Adil",
+        "Natalie Gangai",
+        "Peerapon Vateekul",
+        "Pierre Elnajjar",
+        "Sarah Hickman",
+        "Sharmila Majumdar",
+        "Shelley L. McLeod",
+        "Sheridan Reed",
+        "Stefan Gr\u00e4f",
+        "Stephanie Harmon",
+        "Tatsuya Kodama",
+        "Thanyawee Puthanakit",
+        "Tony Mazzulli",
+        "Vitor Lima de Lavor",
+        "Yothin Rakvongthai",
+        "Yu Rim Lee",
+        "Yuhong Wen",
+        "Fiona J. Gilbert",
+        "Mona G. Flores",
+        "Quanzheng Li"
+    ],
+    "citedby-count": 178,
+    "ref-count": 74,
+    "ref-list": [
+        "Digital technologies in the public-health response to COVID-19",
+        "Data sharing for novel coronavirus (COVID-19)",
+        "Keep up with the latest coronavirus research",
+        "Integrative analysis for COVID-19 patient outcome prediction",
+        "Joint prediction and time estimation of COVID-19 developing severe symptoms using chest CT scan",
+        "Federated semi-supervised learning for Covid region segmentation in chest ct using multi-national data from China, Italy, Japan",
+        "Deep-COVID: predicting COVID-19 from chest X-ray images using deep transfer learning",
+        "A commitment to open source in neuroscience",
+        "The state of OA: a large-scale analysis of the prevalence and impact of open access articles",
+        "What the radiologist should know about artificial intelligence \u2013 an ESR white paper",
+        "Artificial intelligence in medical imaging: threat or opportunity? Radiologists again at the forefront of innovation in medicine",
+        "Privacy in the age of medical big data",
+        "Development and validation of a clinical risk score to predict the occurrence of critical illness in hospitalized patients with COVID-19",
+        "Prediction models for diagnosis and prognosis of covid-19 infection: systematic review and critical appraisal",
+        "D-dimer levels on admission to predict in-hospital mortality in patients with Covid-19",
+        "The role of chest imaging in patient management during the COVID-19 pandemic: a multinational consensus statement from the Fleischner Society",
+        "Diagnosis and management of COVID-19 disease",
+        "Emergency radiology during the COVID-19 pandemic: The Canadian Association of Radiologists Recommendations for Practice",
+        "The use of high-flow nasal oxygen in COVID-19",
+        "Respiratory support for adult patients with COVID-19",
+        "COVID-19: treating and managing severe cases",
+        "A guide to deep learning in healthcare",
+        "Putting the data before the algorithm in big data addressing personalized healthcare",
+        "Artificial intelligence and machine learning in radiology: opportunities, challenges, pitfalls, and criteria for success",
+        "Axes of a revolution: challenges and promises of big data in healthcare",
+        "Deep transfer learning for reducing health care disparities arising from biomedical data inequality",
+        "The future of digital health with federated learning",
+        "Federated machine learning: concept and applications",
+        "On safeguarding privacy and security in the framework of federated learning",
+        "Federated learning of predictive models from federated Electronic Health Records",
+        "Federated learning in medicine: facilitating multi-institutional collaborations without sharing patient data",
+        "SCOR: A secure international informatics infrastructure to investigate COVID-19",
+        "Federated learning of electronic health records to improve mortality prediction in hospitalized patients with COVID-19: machine learning approach",
+        "Pediatric lung imaging features of COVID-19: a systematic review and meta-analysis",
+        "Secure, privacy-preserving and federated machine learning in medical imaging",
+        "Multi-site fMRI analysis using privacy-preserving federated learning and domain adaptation: ABIDE results",
+        "Predicting COVID-19 mortality with electronic medical records",
+        "Harmonization of detailed clinical models with clinical study data standards",
+        "Neural architecture search: a survey",
+        "Batch normalization: Accelerating deep network training by reducing internal covariate shift",
+        "Leakage in data mining: Formulation, detection, and avoidance",
+        "BatchCrypt: Efficient homomorphic encryption for cross-silo federated learning",
+        "Management of COVID-19 respiratory distress",
+        "Consensus guidelines for managing the airway in patients with COVID-19: Guidelines from the Difficult Airway Society, the Association of Anaesthetists the Intensive Care Society, the Faculty of Intensive Care Medicine and the Royal College of Anaesthetist",
+        "A clinical risk score to identify patients with COVID-19 at high risk of critical care admission or death: an observational cohort study",
+        "Return hospital admissions among 1419 COVID-19 patients discharged from five U.S. emergency departments",
+        "CheXpert: a large chest radiograph dataset with uncertainty labels and expert comparison",
+        "Deep & Cross network for Ad Click predictions",
+        "TensorFlow: Asystem for large-scale machine learning",
+        "MissForest\u2013non-parametric missing value imputation for mixed-type data",
+        "The non-IID data quagmire of decentralized machine learning",
+        "pROC: an open-source package for R and S+ to analyze and compare ROC curves"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Taipei",
+            "@id": "60004965",
+            "affilname": "National Defense Medical Center Taiwan",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004965",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Taipei",
+            "@id": "60011828",
+            "affilname": "Triservice General Hospital Taiwan",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011828",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Taipei",
+            "@id": "60005429",
+            "affilname": "National Taiwan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005429",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Madison",
+            "@id": "60025553",
+            "affilname": "University of Wisconsin School of Medicine and Public Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025553",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Toronto",
+            "@id": "60016849",
+            "affilname": "University of Toronto",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016849",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60012981",
+            "affilname": "Icahn School of Medicine at Mount Sinai",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012981",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60002746",
+            "affilname": "Harvard Medical School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002746",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Washington",
+            "@id": "112836506",
+            "affilname": "Children\u2019s National Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112836506",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Cambridge",
+            "@id": "60120018",
+            "affilname": "Department of Radiology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60120018",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Cambridge",
+            "@id": "60120017",
+            "affilname": "Department of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60120017",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Toronto",
+            "@id": "60109427",
+            "affilname": "Public Health Ontario",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60109427",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "San Diego",
+            "@id": "60079887",
+            "affilname": "VA San Diego Healthcare System",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60079887",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Santa Clara",
+            "@id": "60076695",
+            "affilname": "NVIDIA",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60076695",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60032499",
+            "affilname": "Harvard T.H. Chan School of Public Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032499",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "San Diego",
+            "@id": "60030612",
+            "affilname": "University of California, San Diego",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030612",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Frederick",
+            "@id": "60027053",
+            "affilname": "National Cancer Institute at Frederick",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027053",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Washington, D.C.",
+            "@id": "60025286",
+            "affilname": "The George Washington University School of Medicine and Health Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025286",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60024541",
+            "affilname": "NYU Grossman School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024541",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "San Francisco",
+            "@id": "60023691",
+            "affilname": "University of California, San Francisco",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023691",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Toronto",
+            "@id": "60021600",
+            "affilname": "University of Toronto Faculty of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021600",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Gyeongsan",
+            "@id": "60021052",
+            "affilname": "School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021052",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Cambridge",
+            "@id": "60016390",
+            "affilname": "Cambridge University Hospitals NHS Foundation Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016390",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Bethesda",
+            "@id": "60016257",
+            "affilname": "NIH Clinical Center (CC)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016257",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Toronto",
+            "@id": "60014468",
+            "affilname": "University Health Network University of Toronto",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014468",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Bethesda",
+            "@id": "60013409",
+            "affilname": "National Cancer Institute (NCI)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013409",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Gyeongsan",
+            "@id": "60013400",
+            "affilname": "Catholic University of Daegu",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013400",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Cambridge",
+            "@id": "60009982",
+            "affilname": "Harvard University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009982",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Daegu",
+            "@id": "60009801",
+            "affilname": "Kyungpook National University School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009801",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60009343",
+            "affilname": "Memorial Sloan-Kettering Cancer Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009343",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bethesda",
+            "@id": "60006577",
+            "affilname": "National Institutes of Health (NIH)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006577",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Barueri",
+            "@id": "126538441",
+            "affilname": "Diagn\u00f3sticos da Am\u00e9rica SA",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126538441",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Toronto",
+            "@id": "126200775",
+            "affilname": "Sinai Health System",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126200775",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "124573525",
+            "affilname": "Mass General Brigham",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/124573525",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Toronto",
+            "@id": "122028707",
+            "affilname": "Sinai Health System",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/122028707",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Toronto",
+            "@id": "121111019",
+            "affilname": "Lunenfeld-Tanenbaum Research Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/121111019",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Taipei",
+            "@id": "120191558",
+            "affilname": "National Health Insurance Administration",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/120191558",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "101989502",
+            "affilname": "Self-Defense Forces Central Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101989502",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "All Vista Healthcare National Health Insurance Administration",
+        "MOST Joint Research Center for AI technology",
+        "National Institutes of Health",
+        "National Institute of Allergy and Infectious Diseases",
+        "Doris Duke Charitable Foundation",
+        "NIHR",
+        "National Center for Theoretical Sciences Mathematics Division",
+        "Cambridge University Hospitals NHS Foundation Trust",
+        "Ministry of Science and Technology, Taiwan",
+        "Cambridge Biomedical Research Centre"
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "eid": "2-s2.0-85136135659",
+    "title": "Routing in offshore wind farms: A multi-period location and maintenance problem with joint use of a service operation vessel and a safe transfer boat",
+    "cover-date": "2023-05-16",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Management Science and Operations Research",
+            "@code": "1803",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Combinatorial optimisation",
+        "Location routing",
+        "Multi-period maintenance",
+        "Two-stage stochastic programming",
+        "Variable neighbourhood search"
+    ],
+    "authors": [
+        "Chandra Ade Irawan",
+        "Stefano Starita",
+        "Hing Kai Chan",
+        "Majid Eskandarpour",
+        "Mohammad Reihaneh"
+    ],
+    "citedby-count": 3,
+    "ref-count": 44,
+    "ref-list": [
+        "An optimization framework for opportunistic maintenance of offshore wind power system",
+        "A stochastic model for opportunistic service maintenance planning of offshore wind farms",
+        "A branch-and-cut-and-price algorithm for the multi-trip separate pickup and delivery problem with time windows at customers and facilities",
+        "Introduction to stochastic programming",
+        "A variable neighbourhood algorithm for solving the continuous location-allocation problem",
+        "Simulation of wind farm operations and maintenance using discrete event system specification",
+        "The multi-trip vehicle routing problem with time windows and release dates",
+        "Routing and scheduling of maintenance fleet for offshore wind farms",
+        "Decomposition principle for linear programs",
+        "A survey of variants and extensions of the location-routing problem",
+        "The European offshore wind industry - key trends and statistics 2019",
+        "Optimizing wind farm cable routing considering power losses",
+        "A heuristic algorithm for the vehicle dispatch problem",
+        "A stochastic fleet size and mix model for maintenance operations at offshore wind farms",
+        "Variable neighborhood search: Principles and applications",
+        "Variable neighbourhood search: Methods and applications",
+        "Branch-and-price algorithms for the solution of the multi-trip vehicle routing problem with time windows",
+        "Prognostic maintenance scheduling for offshore wind turbine farms",
+        "A variable neighborhood-based heuristic for the heterogeneous fleet vehicle routing problem",
+        "Simulation-based optimisation for stochastic maintenance routing in an offshore wind farm",
+        "Optimisation of maintenance routing and scheduling for offshore wind farms",
+        "A system for the detailed scheduling of wind farm maintenance",
+        "Reliability estimation of parameters of helical wind turbine with vertical axis",
+        "Computers solutions of the traveling salesman problem",
+        "Opportunistic maintenance optimization for offshore wind turbine electrical and electronic system based on rolling horizon approach",
+        "Strategic maintenance scheduling of an offshore wind farm in a deregulated power system",
+        "The pickup delivery location problem on networks",
+        "Robust optimization of large-scale systems",
+        "Location-routing: Issues, models and methods",
+        "Multi-trip pickup and delivery problem with time windows and synchronization",
+        "Revealing system variability in offshore service operations through systemic hazard analysis",
+        "Heuristic search: The emerging science of problem solving",
+        "A multi-level composite heuristic for the multi-depot vehicle fleet mix problem",
+        "A stochastic programming approach for supply chain network design under uncertainty",
+        "Integrated strategic and operational planning of dry port container networks in a stochastic environment",
+        "Coordinating technician allocation and maintenance routing for offshore wind farms",
+        "Mixed integer programming models for planning maintenance at offshore wind farms under uncertainty",
+        "A branch-and-price-and-cut algorithm for resource-constrained pickup and delivery problems",
+        "Maintenance optimization and inspection planning of wind energy assets: Models, methods and strategies",
+        "Monte Carlo sampling methods. monte carlo sampling methods",
+        "Lectures on stochastic programming: Modeling and theory, MOS-SIAM series on optimization",
+        "Optimization of routing and scheduling of vessels to perform maintenance at offshore wind farms",
+        "Automated daily maintenance planning for offshore wind farms",
+        "Constrained non-linear multi-objective optimisation of preventive maintenance scheduling for offshore wind farms"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Ningbo",
+            "@id": "60173004",
+            "affilname": "Nottingham University Business School China",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60173004",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60138776",
+            "affilname": "Sasin School of Management, Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60138776",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Lille",
+            "@id": "60112582",
+            "affilname": "I\u00c9SEG School of Management",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60112582",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Lille",
+            "@id": "60107838",
+            "affilname": "Lille \u00c9conomie Management ( LEM )",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60107838",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Ningbo",
+            "@id": "128861171",
+            "affilname": "Nottingham Ningbo China Beacons of Excellence Research and Innovation Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/128861171",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": []
+}

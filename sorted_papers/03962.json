@@ -1,0 +1,99 @@
+{
+    "eid": "2-s2.0-85054932443",
+    "title": "TRH site-specific methylation in oral and oropharyngeal squamous cell carcinoma",
+    "cover-date": "2018-08-06",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Oncology",
+            "@code": "2730",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Cancer Research",
+            "@code": "1306",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [
+        "Bioinformatics",
+        "DNA methylation",
+        "Oral cancer",
+        "Pyrosequencing"
+    ],
+    "authors": [
+        "C. Puttipanyalears",
+        "A. Arayataweegool",
+        "K. Chalertpet",
+        "P. Rattanachayoto",
+        "P. Mahattanasakul",
+        "N. Tangjaturonsasme",
+        "V. Kerekhanjanarong",
+        "A. Mutirangura",
+        "N. Kitkumthorn"
+    ],
+    "citedby-count": 17,
+    "ref-count": 26,
+    "ref-list": [
+        "The molecular biology of head and neck cancer",
+        "Oral mucosal dysplastic lesions and early squamous cell carcinomas under diagnosis from incisional biopsy",
+        "DNA methylation, methyltransferases, and cancer",
+        "Aberrant DNA methylation of tumor-related genes in oral rinse: a noninvasive method for detection of oral squamous cell carcinoma",
+        "EDNRB and DCC salivary rinse hypermethylation has a similar performance as expert clinical examination in discrimination of oral cancer/dysplasia versus benign lesions",
+        "NID2 and HOXA9 promoter hypermethylation as biomarkers for prevention and early detection in oral cavity squamous cell carcinoma tissues and saliva",
+        "Analysis of methylation microarray for tissue specific detection",
+        "Batch effect correction for genome-wide methylation data with Illumina Infinium platform",
+        "IMA: an R package for high-throughput analysis of Illumina's 450 K Infinium methylation data",
+        "Global analysis of DNA methylation changes during progression of oral cancer",
+        "Global Hypomethylation identifies loci targeted for Hypermethylation in head and neck Cancer",
+        "Identification of an epigenetic profile classifier that is associated with survival in head and neck cancer",
+        "LRIG1 modulates aggressiveness of head and neck cancers by regulating EGFR-MAPK-SPHK1 signaling and extracellular matrix remodeling",
+        "Connection up- and down-regulation expression analysis of microarrays (CU-DREAM): a physiogenomic discovery tool",
+        "Formalin-fixed, paraffin-embedded (FFPE) tissue epigenomics using Infinium HumanMethylation450 BeadChip assays",
+        "Genome-wide DNA methylation analysis of formalin-fixed paraffin embedded colorectal cancer tissue",
+        "LINE-1 methylation in the peripheral blood mononuclear cells of cancer patients",
+        "Distinctive pattern of LINE-1 methylation level in normal tissues and the association with carcinogenesis",
+        "Identification of epigenetically silenced genes in human pancreatic cancer by a novel method \"microarray coupled with methyl-CpG targeted transcriptional activation\" (MeTA-array)",
+        "Single-CpG-resolution methylome analysis identifies clinicopathologically aggressive CpG island methylator phenotype clear cell renal cell carcinomas",
+        "Prognostication of patients with clear cell renal cell carcinomas based on quantification of DNA methylation levels of CpG island methylator phenotype marker genes",
+        "Paused RNA polymerase II as a developmental checkpoint",
+        "Transcriptional elongation checkpoint control in development and disease",
+        "Breast cancer upregulating genes in stromal cells by LINE-1 hypermethylation and micrometastatic detection",
+        "Long interspersed nuclear element-1 hypomethylation in cancer: biology and clinical applications",
+        "Functions of DNA methylation: islands, start sites, gene bodies and beyond"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60012718",
+            "affilname": "Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012718",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "Thailand Research Fund"
+    ]
+}

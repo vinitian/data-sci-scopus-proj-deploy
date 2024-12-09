@@ -1,0 +1,90 @@
+{
+    "eid": "2-s2.0-85159114588",
+    "title": "Smart Trash Classification Machine",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Convolutional Neural Network (CNNs)",
+        "deep learning",
+        "ImageNet",
+        "Programmable Logic Control (PLC)",
+        "python",
+        "tensorflow",
+        "trash classification"
+    ],
+    "authors": [
+        "Pathaphon Wiriwithya",
+        "Siwach Rungnarongruck",
+        "Sasapol Pongamphai",
+        "Saranyapong Puapattanakul",
+        "Ratchatin Chancharoen"
+    ],
+    "citedby-count": 0,
+    "ref-count": 20,
+    "ref-list": [
+        "Sorting and recycling of domestic waste. Review of occupational health problems and their possible causes",
+        "Deep learningbased visual defect-inspection system for reinforced concrete bridge substructure: A case of Thailand's department of highways",
+        "Bridge substructure defect inspection assistance by using deep learning",
+        "Neural network models and deep learning",
+        "Imagenet classification with deep convolutional neural networks",
+        "A novel framework for trash classification using deep transfer learning",
+        "A study on cnn transfer learning for image classification",
+        "The bounded Jacobian approach to nonlinear observer design",
+        "Real-time automotive slip angle estimation with nonlinear observer",
+        "H\u221e observer for descriptor nonlinear systems with nonlinear output equations",
+        "Coherent detection-based photonic radar for autonomous vehicles under diverse weather conditions",
+        "Real-time estimation of rollover index for tripped rollovers with a novel unknown input nonlinear observer",
+        "On-line ladle lining temperature estimation by using bounded jacobian nonlinear observer",
+        "New rollover index for the detection of tripped and untripped rollovers",
+        "Real-time rollover warning in tripped and un-tripped rollovers with a neural network",
+        "Peaberry and normal coffee bean classification using CNN, SVM, and KNN: Their implementation in and the limitations of Raspberry Pi 3",
+        "Imagenet: A large-scale hierarchical image database"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University Technology Center"
+    ]
+}

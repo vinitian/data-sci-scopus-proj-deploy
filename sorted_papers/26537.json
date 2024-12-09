@@ -1,0 +1,75 @@
+{
+    "eid": "2-s2.0-85054848555",
+    "title": "Development of Programming Capability Framework Based on Aptitude and Skill",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "code analysis",
+        "feature extraction",
+        "prgramming capability",
+        "programming aptitude",
+        "programming skill",
+        "programming style"
+    ],
+    "authors": [
+        "Chaiwat Chaweewan",
+        "Athasit Surarerks",
+        "Arnon Rungsawang",
+        "Bundit Manaskasemsak"
+    ],
+    "citedby-count": 2,
+    "ref-count": 16,
+    "ref-list": [
+        "Computer algorithm for plagiarism detection",
+        "Plagiarism in programming assignments",
+        "Eplag: A two-layer source code plagiarism detection system",
+        "Preventing and detecting plagiarism in programming course",
+        "Winnowing: Local algorithms for document fingerprinting",
+        "Jplag: Finding plagiarism among a set of programs",
+        "Efficient computation of the tree edit distance",
+        "Learning a matric for code readability",
+        "A hybrid method of feature extraction and na\u00efve bayes classification for splitting identifiers"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60021944",
+            "affilname": "Kasetsart University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021944",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

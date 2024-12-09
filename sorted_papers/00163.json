@@ -1,0 +1,289 @@
+{
+    "eid": "2-s2.0-85099427294",
+    "title": "gcType: A high-quality type strain genome database for microbial phylogenetic and functional research",
+    "cover-date": "2021-01-08",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Wenyu Shi",
+        "Qinglan Sun",
+        "Guomei Fan",
+        "Sugawara Hideaki",
+        "Ohkuma Moriya",
+        "Takashi Itoh",
+        "Yuguang Zhou",
+        "Man Cai",
+        "Song Gun Kim",
+        "Jung Sook Lee",
+        "Ivo Sedlacek",
+        "David R. Arahal",
+        "Teresa Lucena",
+        "Hiroko Kawasaki",
+        "Lyudmila Evtushenko",
+        "Bevan S. Weir",
+        "Sarah Alexander",
+        "Dlauchy D\u00e9nes",
+        "Somboon Tanasupawat",
+        "Lily Eurwilaichitr",
+        "Supawadee Ingsriswang",
+        "Bruno Gomez-Gil",
+        "Manzour H. Hazb\u00f3n",
+        "Marco A. Riojas",
+        "Chatrudee Suwannachart",
+        "Su Yao",
+        "Peter Vandamme",
+        "Fang Peng",
+        "Zenghui Chen",
+        "Dongmei Liu",
+        "Xiuqiang Sun",
+        "Xinjiao Zhang",
+        "Yuanchun Zhou",
+        "Zhen Meng",
+        "Linhuan Wu",
+        "Juncai Ma"
+    ],
+    "citedby-count": 38,
+    "ref-count": 69,
+    "ref-list": [
+        "Prokaryotes: the unseen majority",
+        "Estimating prokaryotic diversity and its limits",
+        "Approved lists of bacterial names",
+        "Notes on the characterization of prokaryote strains for taxonomic purposes",
+        "Report of the ad hoc committee on reconciliation of approaches to bacterial systematics",
+        "Microbial species delineation using whole genome sequences",
+        "Towards a taxonomic coherence between average nucleotide identity and 16S rRNA gene sequence similarity for species demarcation of prokaryotes",
+        "Genome sequence-based species delimitation with confidence intervals and improved distance functions",
+        "Proposed minimal standards for the use of genome data for the taxonomy of prokaryotes",
+        "1,003 reference genomes of bacterial and archaeal isolates expand coverage of the tree of life",
+        "The global catalogue of microorganisms 10K type strain sequencing project: closing the genomic gaps for the validly published prokaryotic and fungi species",
+        "The Global Catalogue of Microorganisms (GCM) 10K type strain sequencing project: providing services to taxonomists for standard genome sequencing and annotation",
+        "Expanded microbial genome coverage and improved protein family annotation in the COG database",
+        "IMG/M v. 5.0: an integrated data management and comparative analysis system for microbial genomes and microbiomes",
+        "TYGS is an automated high-throughput platform for state-of-the-art genome-based taxonomy",
+        "BacDive 2019: bacterial phenotypic data for High-throughput biodiversity analysis",
+        "List of prokaryotic names with standing in nomenclature (LPSN) moves to the DSMZ",
+        "Type material in the NCBI Taxonomy Database",
+        "A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life",
+        "GenBank",
+        "Expanded microbial genome coverage and improved protein family annotation in the COG database",
+        "KEGG: new perspectives on genomes, pathways, diseases and drugs",
+        "CARD 2017: expansion and model-centric curation of the comprehensive antibiotic resistance database",
+        "JBrowse: a dynamic web platform for genome visualization and analysis",
+        "Circular genome visualization and exploration using CGView",
+        "International code of nomenclature of prokaryotes",
+        "The minimum information about a genome sequence (MIGS) specification",
+        "Introducing EzBioCloud: a taxonomically united database of 16S rRNA gene sequences and whole-genome assemblies",
+        "The SILVA ribosomal RNA gene database project: improved data processing and web-based tools",
+        "The ribosomal database project (RDP-II): introducing myRDP space and quality controlled public data",
+        "Evaluation of 16S rRNA databases for taxonomic assignments using a mock community",
+        "RNAmmer: consistent and rapid annotation of ribosomal RNA genes",
+        "Infernal 1.1: 100-fold faster RNA homology searches",
+        "Rfam 13.0: shifting to a genome-centric resource for non-coding RNA families",
+        "Improving microbial genome annotations in an integrated database context",
+        "Canu: scalable and accurate long-read assembly via adaptive k-mer weighting and repeat separation",
+        "Assembly of long, error-prone reads using repeat graphs",
+        "Pilon: An integrated tool for comprehensive microbial variant detection and genome assembly improvement",
+        "Trimmomatic: a flexible trimmer for Illumina sequence data",
+        "Musket: a multistage k-mer spectrum-based error corrector for Illumina sequence data",
+        "SOAPdenovo2: an empirically improved memory-efficient short-read de novo assembler",
+        "SPAdes: a new genome assembly algorithm and its applications to single-cell sequencing",
+        "Velvet: algorithms for de novo short read assembly using de Bruijn graphs",
+        "Efficient de novo assembly of highly heterozygous genomes from whole-genome shotgun short reads",
+        "CheckM: assessing the quality of microbial genomes recovered from isolates, single cells, and metagenomes",
+        "PILER-CR: fast and accurate identification of CRISPR repeats",
+        "Tandem repeats finder: a program to analyze DNA sequences",
+        "tRNAscan-SE: a program for improved detection of transfer RNA genes in genomic sequence",
+        "Prodigal: prokaryotic gene recognition and translation initiation site identification",
+        "The Gene Ontology Consortium2017) Expansion of the Gene Ontology knowledgebase and resources",
+        "Database resources of the National Center for Biotechnology Information",
+        "UniProtKB/Swiss-Prot, the manually annotated section of the UniProt KnowledgeBase: how to use the entry view",
+        "antiSMASH 5.0: updates to the secondary metabolite genome mining pipeline",
+        "The MetaCyc database of metabolic pathways and enzymes",
+        "PHI-base: a new interface and further additions for the multi-species pathogen-host interactions database",
+        "The Pfam protein families database",
+        "VFDB 2019: a comparative pathogenomic platform with an interactive web interface",
+        "Introducing EzTaxon-e: a prokaryotic 16S rRNA gene sequence database with phylotypes that represent uncultured species",
+        "Mash: fast genome and metagenome distance estimation using MinHash",
+        "Shifting the genomic gold standard for the prokaryotic species definition",
+        "High throughput ANI analysis of 90K prokaryotic genomes reveals clear species boundaries",
+        "OrthoANI: an improved algorithm and software for calculating average nucleotide identity",
+        "Recent developments in the MAFFT multiple sequence alignment program",
+        "MUSCLE: multiple sequence alignment with high accuracy and high throughput",
+        "MEGA X: molecular evolutionary genetics analysis across computing platforms",
+        "FastTree 2-approximately maximum-likelihood trees for large alignments",
+        "RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies",
+        "Global metagenomic survey reveals a new bacterial candidate phylum in geothermal springs",
+        "A phylogeny-driven genomic encyclopaedia of bacteria and archaea"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Beijing",
+            "@id": "60021016",
+            "affilname": "Institute of Microbiology Chinese Academy of Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021016",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Tsukuba",
+            "@id": "60211264",
+            "affilname": "Riken BRC Microbe Division (JCM)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60211264",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60138275",
+            "affilname": "National Institute of Technology and Evaluation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60138275",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60111140",
+            "affilname": "Public Health England",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60111140",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Pushchino",
+            "@id": "60071299",
+            "affilname": "Skryabin Institute of Biochemistry and Physiology of Microorganisms",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071299",
+            "affiliation-country": "Russian Federation"
+        },
+        {
+            "affiliation-city": "Daejeon",
+            "@id": "60068693",
+            "affilname": "Korea Research Institute of Bioscience and Biotechnology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60068693",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Ghent",
+            "@id": "60068618",
+            "affilname": "Ghent University, Laboratory of Microbiology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60068618",
+            "affiliation-country": "Belgium"
+        },
+        {
+            "affiliation-city": "Brno",
+            "@id": "60029543",
+            "affilname": "Masaryk University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029543",
+            "affiliation-country": "Czech Republic"
+        },
+        {
+            "affiliation-city": "Wuhan",
+            "@id": "60029306",
+            "affilname": "Wuhan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029306",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Godollo",
+            "@id": "60026055",
+            "affilname": "Hungarian University of Agriculture and Life Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026055",
+            "affiliation-country": "Hungary"
+        },
+        {
+            "affiliation-city": "Beijing",
+            "@id": "60019499",
+            "affilname": "Chinese Academy of Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019499",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Mishima",
+            "@id": "60019226",
+            "affilname": "National Institute of Genetics Mishima",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019226",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Sonora",
+            "@id": "60017903",
+            "affilname": "Centro de Investigacion en Alimentacion y Desarrollo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017903",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Auckland",
+            "@id": "60015235",
+            "affilname": "Landcare Research, Auckland",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015235",
+            "affiliation-country": "New Zealand"
+        },
+        {
+            "affiliation-city": "Amphoe Khlong Luang",
+            "@id": "60015084",
+            "affilname": "Thailand Institute of Scientific and Technological Research (TISTR)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015084",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Manassas",
+            "@id": "60014007",
+            "affilname": "American Type Culture Collection",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014007",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60004391",
+            "affilname": "Thailand National Science and Technology Development Agency",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004391",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Valencia",
+            "@id": "60002644",
+            "affilname": "Universitat de Val\u00e8ncia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002644",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Beijing",
+            "@id": "125736888",
+            "affilname": "China-Thailand Joint Laboratory on Microbial Biotechnology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125736888",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Beijing",
+            "@id": "125695626",
+            "affilname": "China Center of Industrial Culture Collection",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125695626",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Beijing",
+            "@id": "121643082",
+            "affilname": "World Data Center for Microorganisms",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/121643082",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": [
+        "European Union",
+        "National Science Foundation for Young Scientists of China",
+        "Key Research Program of the Chinese Academy of Sciences",
+        "European Social Fund",
+        "National Institute of Genetics",
+        "National Key Research Program of China"
+    ]
+}

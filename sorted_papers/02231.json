@@ -1,0 +1,111 @@
+{
+    "eid": "2-s2.0-85057554441",
+    "title": "Improving Thai word and sentence segmentation using linguistic knowledge",
+    "cover-date": "2018-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Summarization",
+        "Thai",
+        "Topic extraction",
+        "Translation",
+        "Word segmentation"
+    ],
+    "authors": [
+        "Rungsiman Nararatwong",
+        "Natthawut Kertkeidkachorn",
+        "Nagul Cooharojananone",
+        "Hitoshi Okada"
+    ],
+    "citedby-count": 11,
+    "ref-count": 30,
+    "ref-list": [
+        "Dictionary-based Thai Syllable Separation",
+        "A lexibase model for writing production assistant system",
+        "Feature-based Thai Word Segmentation",
+        "Non-dictionary-based Thai word segmentation using decision trees",
+        "Character-cluster based Thai information retrieval",
+        "TLEX: Thai Lexeme Anal-yser Based on the Conditional Random Fields",
+        "A collaborative framework for collecting Thai unknown words from the web",
+        "An Expertise-based Vocabulary Suggestion System: A case study of lexitron",
+        "A statistical approach to Thai morphological analyzer",
+        "Character-cluster based Thai information retrieval",
+        "Thai Word Segmentation based-on GLR Parsing Technique and Word N-gram Model",
+        "A word and character-cluster hybrid model for Thai word segmentation",
+        "Chinese segmentation and new word detection using conditional random fields",
+        "A Word La-belling Approach to Thai Sentence Boundary Detection and POS Tagging",
+        "Early results for named entity recognition with conditional random fields, feature induction and web-enhanced lexicons",
+        "Thai Word Segmentation using Character-level Information",
+        "An improved Chinese word segmentation system with conditional random field",
+        "TALAPI - A Thai linguistically annotated corpus for language processing",
+        "Conditional random fields: Probabilistic models for segmenting and labeling sequence data",
+        "Building a Thai part-of-speech tagged corpus (ORCHID)",
+        "Latent dirichlet allocation",
+        "Hierarchical Dirichlet processes",
+        "Hierarchical Bayesian nonparametric models with applications",
+        "Attention is all you need",
+        "Rouge: A package for automatic evaluation of summaries",
+        "TextRank: Bringing order into texts"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60028928",
+            "affilname": "Research Organization of Information and Systems National Institute of Informatics",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028928",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tsukuba",
+            "@id": "60024621",
+            "affilname": "National Institute of Advanced Industrial Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024621",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Hayama",
+            "@id": "60021523",
+            "affilname": "The Graduate University for Advanced Studies",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021523",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

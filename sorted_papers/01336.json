@@ -1,0 +1,87 @@
+{
+    "eid": "2-s2.0-85118015549",
+    "title": "Rational LAMOL: A rationale-based lifelong learning framework",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Linguistics and Language",
+            "@code": "3310",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Language and Linguistics",
+            "@code": "1203",
+            "@abbrev": "ARTS"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Kasidis Kanwatchara",
+        "Thanapapas Horsuwan",
+        "Piyawat Lertvittayakumjorn",
+        "Boonserm Kijsirikul",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 11,
+    "ref-count": 35,
+    "ref-list": [
+        "Deriving machine attention from human rationales",
+        "Invariant rationalization",
+        "Efficient lifelong learning with a-gem",
+        "Lifelong learning for sentiment classification",
+        "Empirical evaluation of gated recurrent neural networks on sequence modeling",
+        "BoolQ: Exploring the surprising difficulty of natural yes/no questions",
+        "ERASER: A benchmark to evaluate rationalized NLP models",
+        "exBERT: A visual analysis tool to explore learned representations in Transformer models",
+        "Overcoming catastrophic forgetting in neural networks",
+        "Overcoming Catastrophic Forgetting by Incremental Moment Matching (IMM)",
+        "Rationalizing neural predictions",
+        "Learning without forgetting",
+        "Continual learning for sentence representations using conceptors",
+        "Gradient episodic memory for continual learning",
+        "Catastrophic interference in connectionist networks: The sequential learning problem",
+        "Dissecting catastrophic forgetting in continual learning by deep visualization",
+        "GloVe: Global vectors for word representation",
+        "Language models are unsupervised multitask learners",
+        "An analysis of encoder representations in transformer-based machine translation",
+        "Explain yourself! leveraging language models for commonsense reasoning",
+        "Continual learning with deep generative replay",
+        "Lamol: Language modeling for lifelong language learning",
+        "Attention is all you need",
+        "A multiscale visualization of attention in the transformer model",
+        "Fact or fiction: Verifying scientific claims",
+        "Rethinking cooperative rationalization: Introspective extraction and complement control",
+        "Modeling annotators: A generative approach to learning from annotator rationales"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60015150",
+            "affilname": "Imperial College London",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015150",
+            "affiliation-country": "United Kingdom"
+        }
+    ],
+    "funding": []
+}

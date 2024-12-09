@@ -1,0 +1,94 @@
+{
+    "eid": "2-s2.0-85107211602",
+    "title": "Detection of Lymph Nodes using CNN from Contrast-Enhanced CT Images",
+    "cover-date": "2020-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "Integration Processing",
+        "Lymph Node Detection",
+        "R2U-Net"
+    ],
+    "authors": [
+        "Tatsuki Ono",
+        "Yuji Iwahori",
+        "Hiroyasu Usami",
+        "Boonserm Kijsirikul",
+        "M. K. Bhuyan",
+        "Taihei Oshiro",
+        "Yasuhiro Shimizu"
+    ],
+    "citedby-count": 2,
+    "ref-count": 6,
+    "ref-list": [
+        "Results of a Japanese nationwide multi-institutional study on lateral pelvic lymph node metastasis in low rectal cancer: Is it regional or distant disease",
+        "U-net: Convolutional networks for biomedical image segmentation",
+        "Fully convolutional networks for semantic segmentation",
+        "The cancer imaging archive (tcia): Maintaining and operating a public information repository",
+        "Leveraging mid-level semantic boundary cues for automated lymph node detection"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Nagoya",
+            "@id": "60028476",
+            "affilname": "Aichi Cancer Center Hospital and Research Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028476",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Guwahati",
+            "@id": "60010126",
+            "affilname": "Indian Institute of Technology Guwahati",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010126",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Kasugai",
+            "@id": "60007976",
+            "affilname": "Chubu University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007976",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "JSPS",
+        "Chubu University"
+    ]
+}

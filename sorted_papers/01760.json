@@ -1,0 +1,96 @@
+{
+    "eid": "2-s2.0-85138128757",
+    "title": "Lifestyle Evolution Analysis by Binary-State Speciation and Extinction (BiSSE) Model",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [
+        "Bioinformatics",
+        "Evolutionary direction",
+        "Specialists and generalists",
+        "State-dependent evolution",
+        "Trait evolution"
+    ],
+    "authors": [
+        "Takao K. Suzuki",
+        "Motomu Matsui",
+        "Sira Sriswasdi",
+        "Wataru Iwasaki"
+    ],
+    "citedby-count": 0,
+    "ref-count": 44,
+    "ref-list": [
+        "The ancestral flower of angiosperms and its early diversification",
+        "Gradual and contingent evolutionary emergence of leaf mimicry in butterfly wing patterns",
+        "On the origin of complex adaptive traits: Progress since the Darwin versus Mivart debate",
+        "Species selection maintains self-incompatibility",
+        "Amalgamated cross-species transcriptomes reveal organ-specific propensity in gene expression evolution",
+        "Gen-eralist species drive microbial dispersion and evolution",
+        "Insect egg size and shape evolve with ecology but not developmental rate",
+        "Genome-wide macroevolutionary signatures of key innovations in butterflies colonizing new host plants",
+        "Temporal niche expansion in mammals from a nocturnal ancestor after dinosaur extinction",
+        "Ecological drivers of global gradients in avian dispersal inferred from wing morphology",
+        "The delayed and geographically heterogeneous diversification of flowering plant families",
+        "Microbiomes in light of traits: A phylogenetic perspective",
+        "Methods for phylogenetic analysis of microbiome data",
+        "Estimating a binary character\u2019s effect on speciation and extinction",
+        "Estimating trait-dependent speciation and extinction rates from incompletely resolved phylogenies",
+        "Detecting correlated evolution on phylogenies: A general method for the comparative analysis of discrete characters",
+        "A likelihood approach to estimating phylogeny from discrete morphological character data",
+        "Diversitree: Comparative phylogenetic analyses of diversification in R",
+        "Quantitative traits and diversification",
+        "Detecting hidden diversification shifts in models of trait-dependent speciation and extinction",
+        "How traits shape trees: New approaches for detecting character state-dependent lineage diversification",
+        "Evolution of protein molecules",
+        "Extinction rates can be estimated from molecular phylogenies",
+        "Detecting diversification rate variation in supertrees",
+        "A phylogenetic mixture model for detecting pattern-heterogeneity in gene sequence or character-state data",
+        "Bayesian estimation of ancestral character states on phylogenies",
+        "Mapping uncertainty and phylogenetic uncertainty in ancestral character state reconstruction: An example in the Moss genus Brachytheciastrum",
+        "Bayesian inference of character evolution",
+        "R: A language for data analysis and graphics",
+        "MEGA11: Molecular evolutionary genetics analysis version 11",
+        "Ape 5.0: An environment for modern phylogenetics and evolutionary analyses in R",
+        "Phytools: An R package for phylogenetic comparative biology (and other things)",
+        "Extended newick: It is time for a standard representation of phylogenetic networks",
+        "Slice sampling",
+        "Accelerated speciation in colour-polymorphic birds",
+        "Specialization and generalization in the diversification of phy-tophagous insects: Tests of the musical chairs and oscillation hypotheses",
+        "Life-history specialization was not an evolutionary dead-end in Pyrenean cave beetles",
+        "Aposematism increases acoustic diversification and speciation in poison frogs",
+        "The SILVA ribosomal RNA gene database project: Improved data processing and web-based tools",
+        "Reductive genome evolution at both ends of the bacterial population size spectrum"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025272",
+            "affilname": "The University of Tokyo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025272",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "JSPS",
+        "JST CREST"
+    ]
+}

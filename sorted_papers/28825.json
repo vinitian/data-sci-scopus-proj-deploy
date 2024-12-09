@@ -1,0 +1,110 @@
+{
+    "eid": "2-s2.0-85106607224",
+    "title": "Automatic Sleep Data Scoring by Artificial Intelligence: A Pilot Study in Thai Population",
+    "cover-date": "2021-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Acoustics and Ultrasonics",
+            "@code": "3102",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "convolutional neural networks",
+        "data formal",
+        "Deep learning",
+        "sleep apnea classification",
+        "transfer learning"
+    ],
+    "authors": [
+        "Ukkrit Jansri",
+        "Naricha Chirakalwasan",
+        "Busarakum Chaitusaney",
+        "Supasuta Busayakanon",
+        "Thamonwan Khongjui",
+        "Suradej Tretriluxana"
+    ],
+    "citedby-count": 3,
+    "ref-count": 29,
+    "ref-list": [
+        "Exploring phylogeny to find the function of sleep",
+        "A brief history of the biology of sleep",
+        "Insights from studying human sleep disorders",
+        "Short-And long-Term health consequences of sleep disruption",
+        "Pathophysiology of sleep apnea",
+        "The sleep apnea syndromes",
+        "Estimation of the global prevalence and burden of obstructive sleep apnoea: A literature-based analysis",
+        "Prevalence of sleep apnea in HRH Princess Maha Chakri Srinthorn Medical Center, Thailand",
+        "Prevalence, risk factors and clinical manifestation of patients suspected as having obstructive sleep apnea in Songklanagarind Hospital Sleep Center",
+        "Obstructive sleep apnea and hallmarks of aging",
+        "Polysomnography: Understanding this technology?s past might guide future developments",
+        "DeepSleepNet: A model for automatic sleep stage scoring based on raw single-channel EEG",
+        "SleepEEGNet: Automated sleep stage scoring with sequence to sequence deep learinng approach",
+        "Expert-level sleep scoring with deep neural networks",
+        "Obstructive sleep apnoea detection using convolutional neural network based deep learning framework",
+        "Deep learning",
+        "Imagenet classification with deep convolutional neural networks",
+        "A simple format for exchange of digitized polygraphic recordings",
+        "A guide to deep learning in healthcare",
+        "Trends in deep convolutional neural networks architectures: A review",
+        "Deep learning for automated feature discovery and classification of sleep stages",
+        "Convolutional neural networks for image classification",
+        "Convolutional neural networks based efficient approach for classification of lung diseases",
+        "Digital analysis and technical specifications"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ladkrabang Bangkok",
+            "@id": "60021543",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021543",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

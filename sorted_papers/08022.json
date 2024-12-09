@@ -1,0 +1,115 @@
+{
+    "eid": "2-s2.0-85087805599",
+    "title": "Digital Twin for Metasurface Reflector Management in 6G Terahertz Communications",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "6G communications",
+        "digital twin",
+        "metasurface",
+        "Terahertz"
+    ],
+    "authors": [
+        "Manus Pengnoo",
+        "Michael Taynnan Barros",
+        "Lunchakorn Wuttisittikulkij",
+        "Bernard Butler",
+        "Alan Davy",
+        "Sasitharan Balasubramaniam"
+    ],
+    "citedby-count": 28,
+    "ref-count": 37,
+    "ref-list": [
+        "5G roadmap: 10 key enabling technologies",
+        "TeraNets: Ultra-broadband communication networks in the terahertz band",
+        "Key drivers and research challenges for 6G ubiquitous wireless intelligence",
+        "What should 6G be?",
+        "Sixth generation (6G) wireless networks: Vision, research activities, challenges and potential solutions",
+        "Massive machine-type communications in 5G: Physical and MAC-layer solutions",
+        "On optimizing power allocation for reliable communication over fading channels with uninformed transmitter",
+        "A new wireless communication paradigm through software-controlled metasurfaces",
+        "Interference and SINR in millimeter wave and terahertz communication systems with blocking and directional antennas",
+        "Terahertz beam switching by electrical control of graphene-enabled tunable metasurface",
+        "Using any surface to realize a new paradigm for wireless communications",
+        "Realizing wireless communication through software-Defined HyperSurface environments",
+        "Intelligent environments based on ultra-massive MIMO platforms for wireless communication in millimeter wave and terahertz bands",
+        "Integrated terahertz communication with reflectors for 5G small-cell networks",
+        "The impact of reflections from stratified building materials on the wave propagation in future indoor terahertz communication systems",
+        "Overcoming blockage with artificial potential field assisted mirror reflectors for terahertz communications",
+        "Artificial potential field controllers for robust communications in a network of swarm robots",
+        "Evolutionary artificial potential fields and their application in real time robot path planning",
+        "An algorithm for obstacle detection based on YOLO and light filed camera",
+        "Testbed for phased array communications from 275 to 325 GHz",
+        "Indoor terahertz communications: How many antenna arrays are needed?",
+        "Adaptive beamforming with resource allocation for distance-aware multi-user indoor terahertz communications",
+        "Terahertz antenna phase shifters using integrally-gated graphene transmission-lines",
+        "Multi-ray channel modeling and wideband characterization for wireless communications in the terahertz band",
+        "Stochastic modeling of THz indoor radio channels",
+        "Channel modeling and capacity analysis for electromagnetic wireless nanonetworks in the terahertz band",
+        "Reflection coefficients for common indoor materials in the terahertz band",
+        "Modified Beckmann Kirchhoff scattering model for rough surfaces with large incident and scattering angles",
+        "Diffuse scattering from rough surfaces in THz communication channels",
+        "Analytical characterisation of the terahertz in-vivo nano-network in the presence of interference based on TS-OOK communication scheme",
+        "Simulation of signal coverage for terahertz communications",
+        "Scattering mechanisms and modeling for terahertz wireless communications",
+        "Exploration of intercell wireless millimeterwave communication in the landscape of intelligent metasurfaces",
+        "Geospatial and temporal dynamics of application usage in cellular data networks",
+        "Towards multispectral, multi-sensor indoor positioning and target identification"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Waterford",
+            "@id": "60271667",
+            "affilname": "South East Technological University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60271667",
+            "affiliation-country": "Ireland"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tampere",
+            "@id": "60011170",
+            "affilname": "Tampere University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011170",
+            "affiliation-country": "Finland"
+        },
+        {
+            "affiliation-city": "Colchester",
+            "@id": "60001359",
+            "affilname": "University of Essex",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001359",
+            "affiliation-country": "United Kingdom"
+        }
+    ],
+    "funding": [
+        "CONNECT",
+        "Michael Taynnan Barros",
+        "Research Centre for Future Networks and Communications",
+        "Sasitharan Balasubramaniam",
+        "Science Foundation Ireland"
+    ]
+}

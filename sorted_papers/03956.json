@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85148031128",
+    "title": "A convex optimization approach to multi-objective design of two-stage compensators for MIMO linear systems",
+    "cover-date": "2023-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Convex optimization",
+        "Multi-input multi-output linear system",
+        "Multi-objective criteria",
+        "Q-parameterization",
+        "Time-domain performance",
+        "Two-stage compensators"
+    ],
+    "authors": [
+        "Tanathorn Supithak",
+        "David Banjerdpongchai"
+    ],
+    "citedby-count": 0,
+    "ref-count": 23,
+    "ref-list": [
+        "Parameterization of simultaneously stabilizing controllers for two-stage compensator systems",
+        "Convex optimization approach to multi-objective design of two-stage compensators for linear systems",
+        "Capability of two-stage compensator designs",
+        "Two-stage compensator design\u2014A factorization approach",
+        "Control System Synthesis: A Factorization Approach, Part I",
+        "Modern Wiener-Hopf design of optimal controllers\u2013Part II: The multivariable case",
+        "Linear Controller Design: Limits of Performance",
+        "A convex parameterization of robustly stabilizing controllers",
+        "Standard Hinf state-space solution by Youla parameterization",
+        "Design of optimal control systems with bounded control signals",
+        "Design and study of speed control of DC motor using Youla parameterization and PID controller",
+        "Observer-based adaptive fuzzy decentralized optimal control design for strict-feedback nonlinear large-scale systems",
+        "Observer-based neuro-adaptive optimized control of strict-feedback nonlinear systems with state constraints",
+        "Terminal composition control of a binary distillation column",
+        "Modelling and control of distillation column",
+        "MATLAB based GUIs for linear controller design via convex optimization",
+        "The Cvx Users\u2019 Guide Release 2.0 (Beta)",
+        "A tutorial on the CVX system for modeling and solving convex optimization problems",
+        "Convergent Ritz approximations of the set of stabilizing controllers",
+        "Modern Control Engineering, Vol. 5",
+        "PI Controller design for time delay systems",
+        "Practical advantages of inverted decoupling",
+        "Inverted decoupling: a neglected technique"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "eid": "2-s2.0-85085032799",
+    "title": "Applying Faster R-CNN for Hematocytes Detection on Compound Microscope with Image Sensor Device and Multiple GPU Computation",
+    "cover-date": "2020-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Hematocytes",
+        "Microscopy image",
+        "Object detection"
+    ],
+    "authors": [
+        "Natthakorn Kasamsumran",
+        "Pattrarat Chanchaithong",
+        "Norrarat Wattanamongkhol",
+        "Wanchalerm Pora",
+        "Suree Pumrin"
+    ],
+    "citedby-count": 0,
+    "ref-count": 18,
+    "ref-list": [
+        "A mathematical framework for combining decisions of multiple experts toward accurate and remote diagnosis of malaria using tele-microscopy",
+        "White blood cell detection and counting based on genetic algorithm",
+        "Performance of deep learning computation with tensorflow software library in GPU-capable multi-core computing platforms",
+        "New object detection features in the opencv library",
+        "Machine learning approach of automatic identification and counting of blood cells",
+        "Performance evaluation of deep neural ensembles toward malaria parasite detection in thin-blood smear images",
+        "Cnn features off-The-shelf: An astounding baseline for recognition",
+        "Scikit-learn: Machine learning in python",
+        "The pascal visual object classes challenge: A retrospective"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chonburi",
+            "@id": "60009116",
+            "affilname": "Burapha University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009116",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

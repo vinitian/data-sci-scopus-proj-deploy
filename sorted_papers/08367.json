@@ -1,0 +1,140 @@
+{
+    "eid": "2-s2.0-85099277606",
+    "title": "Enhanced routing algorithm based on reinforcement machine learning\u2014a case of voip service",
+    "cover-date": "2021-01-02",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analytical Chemistry",
+            "@code": "1602",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Intelligent routing",
+        "Machine learning",
+        "QoE",
+        "Reinforcement learning",
+        "Routing algorithms",
+        "VoIP"
+    ],
+    "authors": [
+        "Davi Ribeiro Militani",
+        "Hermes Pimenta de Moraes",
+        "Renata Lopes Rosa",
+        "Lunchakorn Wuttisittikulkij",
+        "Miguel Arjona Ram\u00edrez",
+        "Dem\u00f3stenes Zegarra Rodr\u00edguez"
+    ],
+    "citedby-count": 12,
+    "ref-count": 66,
+    "ref-list": [
+        "Ensuring trust and confidentiality for adaptive video streaming in ICN",
+        "Optimal voice packet classification for enhanced VoIP over priority-enabled networks",
+        "Adaptation for the retransmission in VoIP applications",
+        "Managing Quality of Experience for Wireless VOIP Using Noncooperative Games",
+        "Countering DDoS Attacks in SIP Based VoIP Networks Using Recurrent Neural Networks",
+        "Speech Quality Parametric Model that Considers Wireless Network Characteristics",
+        "User-provided networking for QoE provisioning in mobile networks",
+        "Enhancing Battery Lifetime of Wireless Heterogeneous and Ad hoc NW",
+        "Energy-Efficient UAVs Deployment for QoS-Guaranteed VoWiFi Service",
+        "Speech quality assessment in wireless voip communication using deep belief network",
+        "Voice quality assessment in mobile devices considering different fading models",
+        "Performance improvement of a non-intrusive voice quality metric in lossy networks",
+        "Speech Quality Assessment Over Lossy Transmission Channels Using Deep Belief Networks",
+        "On Removing Routing Protocol from Future Wireless Networks: A Real-time Deep Learning Approach for Intelligent Traffic Control",
+        "Adaptive context-aware energy optimization for services on mobile devices with use of machine learning considering security aspects",
+        "Three-dimensional geographic routing in wireless mobile ad hoc and sensor networks",
+        "Deep Reinforcement Learning for Router Selection in Network With Heavy Traffic",
+        "A knowledge-based recommendation system that includes sentiment analysis and deep learning",
+        "Recommendation system using sentiment analysis considering the polarity of the adverb",
+        "Rsrs: Ridesharing recommendation system based on social networks to improve the user\u2019s qoe",
+        "A review of machine learning and meta-heuristic methods for scheduling parallel computing systems",
+        "Deep learning model for home automation and energy reduction in a smart home environment platform",
+        "SentiMeter-Br: A Social Web Analysis Tool to Discover Consumers\u2019 Sentiment",
+        "Multi-Agent System for Remote Healthcare Monitoring",
+        "An intelligent opportunistic routing algorithm for wireless sensor networks and its application towards e-healthcare",
+        "A Smart Sensing and Routing Mechanism for Wireless Sensor Networks",
+        "Swarm-Intelligence-Centric Routing Algorithm for Wireless Sensor Networks",
+        "RSU-Assisted Traffic-Aware Routing Based on Reinforcement Learning for Urban Vanets",
+        "An intersection-based QoS routing in vehicular ad hoc networks",
+        "A trusted routing scheme using blockchain and reinforcement learning for wireless sensor networks",
+        "Dynamic dual-reinforcement-learning routing strategies for quality of experience-aware wireless mesh networking",
+        "Reinforcement learning for adaptive routing",
+        "Efficient routing protocol based on reinforcement learning for magnetic induction underwater sensor networks",
+        "QGeo: Q-Learning-Based Geographic Ad Hoc Routing Protocol for Unmanned Robotic Networks",
+        "Adaptive Reinforcement Learning-Based Routing Protocol for Wireless Multihop Networks",
+        "Adaptive Hello Interval in FANET Routing Protocols for Green UAVs",
+        "Hello protocols for ad-hoc networks: Overhead and accuracy tradeoffs",
+        "Reinforcement learning and evolutionary algorithms for non-stationary multi-armed bandit problems",
+        "An Alternative Softmax Operator for Reinforcement Learning",
+        "A reactive Optimized Link State Routing protocol for Mobile ad hoc networks",
+        "Comparative Study of Reactive and Proactive Routing Protocols Performance in Mobile Ad Hoc Networks",
+        "SHARP: A Hybrid Adaptive Routing Protocol for Mobile Ad Hoc Networks",
+        "Performance evaluation of BATMAN routing protocol for VoIP services: A QoE perspective",
+        "Dynamic Novel Cross-Layer Performance Enhancement Approach for SIP over OLSR",
+        "Comparison studies of OSPF-MDR, OLSR and Composite Routing",
+        "Performance Analysis of VoIP Traffic using various Protocols and Throughput enhancement in WLANs",
+        "Speech Quality Assessment in Wireless Communications With MIMO Systems Using a Parametric Model",
+        "The adaptive multi-rate wideband codec: History and performance",
+        "An efficient algebraic codebook structure for CS-ACELP based speech codecs",
+        "G-Softmax: Improving Intraclass Compactness and Interclass Separability of Features",
+        "Exponential moving average Q-learning algorithm",
+        "Effective learning in the presence of adaptive counterparts",
+        "Extending Q-learning to general adaptive multi-agent systems",
+        "CORE: A real-time network emulator"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Lavras",
+            "@id": "60017841",
+            "affilname": "Universidade Federal de Lavras",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017841",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Sao Paulo",
+            "@id": "60008088",
+            "affilname": "Universidade de S\u00e3o Paulo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008088",
+            "affiliation-country": "Brazil"
+        }
+    ],
+    "funding": [
+        "TSRI Fund",
+        "Center for Artificial Intelligence",
+        "Funda\u00e7\u00e3o de Amparo \u00e0 Pesquisa do Estado de S\u00e3o Paulo",
+        "Machine Learning"
+    ]
+}

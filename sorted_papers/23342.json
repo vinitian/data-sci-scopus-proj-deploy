@@ -1,0 +1,90 @@
+{
+    "eid": "2-s2.0-85083515043",
+    "title": "Design and testing of autonomous steering system implemented on a toyota Ha:Mo",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Autonomous vehicles",
+        "Control system",
+        "GPS",
+        "Intelligent transportation system",
+        "Localization"
+    ],
+    "authors": [
+        "Nuksit Noomwongs",
+        "Ambar Bajpai",
+        "Prin Phutthaburee",
+        "Lattapol Wongpiya",
+        "Anuparp Skulthai",
+        "Tay Zar Bhone Maung",
+        "Ye Moe Myint",
+        "Irfan Ullah",
+        "Lunchakorn Wuttisittikulkij",
+        "Muhammad Saadi"
+    ],
+    "citedby-count": 2,
+    "ref-count": 9,
+    "ref-list": [
+        "Lane detection and tracking for intelligent vehicles: A survey",
+        "Real time lane detection for autonomous vehicles",
+        "Vision-based lane detection for autonomous artificial intelligent vehicles",
+        "A novel strategy for road lane detection and tracking based on a vehicle's forward monocular camera",
+        "Self-localization based on visual lane marking maps: An accurate low-cost approach for autonomous driving",
+        "Design of lane keeping algorithm of autonomous vehicle"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bengaluru",
+            "@id": "60250860",
+            "affilname": "Atria Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60250860",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Lahore",
+            "@id": "106997839",
+            "affilname": "University of Central",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/106997839",
+            "affiliation-country": "Pakistan"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,118 @@
+{
+    "eid": "2-s2.0-85068624450",
+    "title": "RmSWSpec: Real-Time Monitoring of Service Workflow Specification Language for Specification Patterns",
+    "cover-date": "2019-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Decision making",
+        "logic",
+        "service composition",
+        "service selection",
+        "service workflow",
+        "service-oriented computing (SOC)",
+        "services",
+        "specification languages",
+        "specification patterns"
+    ],
+    "authors": [
+        "Wattana Viriyasitavat",
+        "Li Da Xu",
+        "Zhuming Bi"
+    ],
+    "citedby-count": 8,
+    "ref-count": 47,
+    "ref-list": [
+        "A new methodology to support group decision making for IoT-based emergency response systems",
+        "Orchestration of gridenabled geospatial web services in geoscientific workflows",
+        "Automating knowledge discoveryworkflowcomposition through ontology-based planning",
+        "Scientific workflow management and the Kepler system",
+        "Taverna: Lessons in creating a workflow environment for the life sciences",
+        "A static compliance-checking framework for business process models",
+        "A survey of trust in workflows and relevant contexts",
+        "SWSpec: The requirement specification language in service workflow environments",
+        "Confucius: A tool supporting collaborative scientificworkflowcomposition",
+        "A visualization platform for internet of things in manufacturing applications",
+        "Sensing and responding to the changes of geometric surfaces in flexible manufacturing and assembly",
+        "Cloud service negotiation in internet of things environment: A mixed approach",
+        "Compliance checking for requirement-oriented service workflow interoperations",
+        "A new approach for compliance checking in service workflows",
+        "A novel architecture for requirementoriented participation decision in service workflows",
+        "The tale of SOLOIST: A specification language for service compositions interactions",
+        "The reviews and analysis of the stateof-the-art service workflow specification languages",
+        "An optimal QoS-based web service selection scheme",
+        "Programming scientific and distributed workflow with triana services",
+        "Managing rapidly-evolving scientific workflows",
+        "Towards multi-criteria cloud service selection",
+        "QoS-aware middleware for web services composition",
+        "In the relation of workflow and trust characteristics, and requirements in service workflows",
+        "A modeling approach for flexible workflow applications of cloud services",
+        "Multi-criteria selection for services selection in service workflow",
+        "From sequence diagrams to event B: A specification and verification approach of flexible workflow applications of cloud services based on meta-model transformation",
+        "The role graph model and conflict of interest",
+        "Practical safety in flexible access control models",
+        "Securing decentralized workflows in ambient environments",
+        "A fuzzy approach to a belief-based trust computation",
+        "A self-adaptation scheme for workflow management in multi-agent systems",
+        "Holonic multiagent systems: A foundation for organisation of multiagent systems",
+        "The application of Petri nets towards workflow management",
+        "Model checking with graphical validation rules",
+        "Specification patterns from research to industry: A case study in service-based applications",
+        "Asystem framework of security management in enterprise systems",
+        "Three good reasons for using a petri-net-based workflowmanagement system",
+        "Modeling and analysis of interactions in virtual enterprises",
+        "A declarative approach to composing web services in dynamic environments",
+        "The research on formal specification and review of workflows",
+        "Reconfigurable manufacturing systems: The state of the art",
+        "Development of reconfigurable machines",
+        "Extension of manufacturing system design decomposition to implement manufacturing systems that are sustainable"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Fort Wayne",
+            "@id": "60122603",
+            "affilname": "Purdue University Fort Wayne",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60122603",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Norfolk",
+            "@id": "60007652",
+            "affilname": "Old Dominion University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007652",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": []
+}

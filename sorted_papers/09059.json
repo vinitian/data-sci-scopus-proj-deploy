@@ -1,0 +1,145 @@
+{
+    "eid": "2-s2.0-85134918411",
+    "title": "Roles of Alternative Sigma Factors in Invasion and Growth Characteristics of Listeria monocytogenes 10403S Into Human Epithelial Colorectal Adenocarcinoma Caco-2 Cell",
+    "cover-date": "2022-07-14",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Microbiology",
+            "@code": "2404",
+            "@abbrev": "IMMU"
+        },
+        {
+            "@_fa": "true",
+            "$": "Microbiology (medical)",
+            "@code": "2726",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Caco-2 cell",
+        "invasion",
+        "Listeria monocytogenes",
+        "RNA sequencing",
+        "transcriptomics"
+    ],
+    "authors": [
+        "Junyaluck Rukit",
+        "Atsadang Boonmee",
+        "Teeratas Kijpornyongpan",
+        "Kan Tulsook",
+        "J\u00f3zsef Baranyi",
+        "Soraya Chaturongakul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 52,
+    "ref-list": [
+        "The posttranslocation chaperone PrsA2 contributes to multiple facets of Listeria monocytogenes pathogenesis",
+        "HTSeq\u2014a python framework to work with high-throughput sequencing data",
+        "Global analysis of gene expression in an rpoN mutant of Listeria monocytogenes",
+        "Estimating bacterial growth parameters by means of detection times",
+        "Listeria monocytogenes sigma(A) Is Sufficient to Survive Gallbladder Bile Exposure",
+        "Listeria monocytogenes 10403S Alternative Sigma-54 Factor sigma(L) Has a Negative Role on Survival Ability Under Bile Exposure",
+        "In vivo transcriptional profiling of Listeria monocytogenes and mutagenesis identify new virulence factors involved in infection",
+        "Microarray-based characterization of the Listeria monocytogenes cold regulon in log- and stationary-phase cells",
+        "Maternal-neonatal listeriosis",
+        "Intracellular gene expression profile of Listeria monocytogenes",
+        "SigmaB activation under environmental and energy stress conditions in Listeria monocytogenes",
+        "Transcriptomic and phenotypic analyses identify coregulated, overlapping regulons among PrfA, CtsR, HrcA, and the alternative sigma factors sigmaB, sigmaC, sigmaH, and sigmaL in Listeria monocytogenes",
+        "Modulation of stress and virulence in Listeria monocytogenes",
+        "Sigma B contributes to Listeria monocytogenes gastrointestinal infection but not to systemic spread in the guinea pig infection model",
+        "What is the incubation period for listeriosis?",
+        "The sigma(B)-Mediated General Stress Response of Listeria monocytogenes: life and Death Decision Making in a Pathogen",
+        "Temporal transcriptomic analysis of the Listeria monocytogenes EGD-e sigmaB regulon",
+        "Listeriolysin O: the Swiss army knife of Listeria",
+        "Transcriptomic and phenotypic analyses suggest a network between the transcriptional regulators HrcA and sigmaB in Listeria monocytogenes",
+        "Phenotypic and transcriptomic analyses demonstrate interactions between the transcriptional regulators CtsR and Sigma B in Listeria monocytogenes",
+        "An mRNA-mRNA interaction couples expression of a virulence factor and its chaperone in Listeria monocytogenes",
+        "Identification of Listeria monocytogenes genes contributing to intracellular replication by expression profiling and mutant screening",
+        "Listeriolysin O: a key protein of Listeria monocytogenes with multiple functions",
+        "Contributions of Listeria monocytogenes sigmaB and PrfA to expression of virulence and stress response genes during extra- and intracellular growth",
+        "SigmaB contributes to Listeria monocytogenes invasion by controlling expression of inlA and inlB",
+        "Fast gapped-read alignment with Bowtie 2",
+        "Identification of Listeria monocytogenes genes expressed in response to growth at low temperature",
+        "An advanced bioinformatics approach for analyzing RNA-seq data reveals sigma H-dependent regulation of competence genes in Listeria monocytogenes",
+        "Home Alone: elimination of All but One Alternative Sigma Factor in Listeria monocytogenes Allows Prediction of New Roles for sigma(B)",
+        "Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2",
+        "VirR, a response regulator critical for Listeria monocytogenes virulence",
+        "Biopreservation and probiotic potential of a large set of lactic acid bacteria isolated from Brazilian artisanal cheeses: from screening to in product approach",
+        "Phenotypic and transcriptomic analyses of Sigma L-dependent characteristics in Listeria monocytogenes EGD-e",
+        "Transcriptomic and phenotypic analyses of the sigma B-dependent characteristics and the synergism between sigma B and sigma L in Listeria monocytogenes EGD-e",
+        "Listeria monocytogenes sigmaH Contributes to Expression of Competence Genes and Intracellular Growth",
+        "Temperature effect on bacterial growth rate: quantitative microbiology approach including cardinal values and variability estimates to perform growth simulations on/in food",
+        "The intracellular sRNA transcriptome of Listeria monocytogenes during growth in macrophages",
+        "Protein level identification of the Listeria monocytogenes sigma H, sigma L, and sigma C regulons",
+        "Entry of Listeria monocytogenes in mammalian epithelial cells: an updated view",
+        "Transcriptional and phenotypic responses of Listeria monocytogenes to chlorine dioxide",
+        "The alternative sigma factor sigma(L) of L. monocytogenes promotes growth under diverse environmental stresses",
+        "Life on the inside: the intracellular lifestyle of cytosolic bacteria",
+        "Epidemiology and Clinical Manifestations of Listeria monocytogenes Infection",
+        "A detailed view of the intracellular transcriptome of Listeria monocytogenes in murine macrophages using RNA-seq",
+        "The PrfA virulence regulon",
+        "Diversity of cyclic antimicrobial lipopeptides from Bacillus P34 revealed by functional annotation and comparative genome analysis",
+        "The major PEP-phosphotransferase systems (PTSs) for glucose, mannose and cellobiose of Listeria monocytogenes, and their significance for extra- and intracellular growth",
+        "Differential gene and transcript expression analysis of RNA-seq experiments with TopHat and Cufflinks",
+        "Phosphotransferase system-dependent extracellular growth of listeria monocytogenes is regulated by alternative sigma factors sigmaL and sigmaH",
+        "Detection of very long antisense transcripts by whole transcriptome RNA-Seq analysis of Listeria monocytogenes by semiconductor sequencing technology",
+        "Gene ontology analysis for RNA-seq: accounting for selection bias",
+        "Functional consequences of genome evolution in Listeria monocytogenes: the lmo0423 and lmo0422 genes encode sigmaC and LstR, a lineage II-specific heat shock system"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Rayong",
+            "@id": "60272485",
+            "affilname": "Kamnoetvidya Science Academy",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60272485",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60012718",
+            "affilname": "Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012718",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011947",
+            "affilname": "Thailand National Center for Genetic Engineering and Biotechnology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011947",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60009499",
+            "affilname": "Institute of Molecular Biosciences, Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009499",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "West Lafayette",
+            "@id": "60009254",
+            "affilname": "Purdue University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009254",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Debrecen",
+            "@id": "60004400",
+            "affilname": "Debreceni Egyetem",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004400",
+            "affiliation-country": "Hungary"
+        }
+    ],
+    "funding": [
+        "Royal Society-Newton Mobility",
+        "Office of the Higher Education Commission"
+    ]
+}

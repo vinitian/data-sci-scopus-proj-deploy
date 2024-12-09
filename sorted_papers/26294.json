@@ -1,0 +1,122 @@
+{
+    "eid": "2-s2.0-85064818858",
+    "title": "Deep multispectral painting reproduction via multi-layer, custom-ink printing",
+    "cover-date": "2018-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Graphics and Computer-Aided Design",
+            "@code": "1704",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "3d printing",
+        "Multi-spectral imaging",
+        "Spectral reproduction"
+    ],
+    "authors": [
+        "Liang Shi",
+        "Vahid Babaei",
+        "Changil Kim",
+        "Michael Foshey",
+        "Yuanming Hu",
+        "Pitchaya Sitthi-Amorn",
+        "Szymon Rusinkiewicz",
+        "Wojciech Matusik"
+    ],
+    "citedby-count": 14,
+    "ref-count": 72,
+    "ref-list": [
+        "TensorFlow: A system for large-scale machine learning",
+        "A neural network approach for RGB to YMCK color conversion",
+        "Towards gloss control in fine art reproduction",
+        "Interrelation between gloss and texture perception of 2.5 D-printed surfaces",
+        "N-ink printer characterization with barycentric subdivision",
+        "Color contoning for 3D printing",
+        "Compact single-shot hyperspectral imaging using a prism",
+        "Digital color halftoning",
+        "The ball-pivoting algorithm for surface reconstruction",
+        "Wavelengthdependent spatial correction and spectral calibration of a liquid crystal tunable filter imaging system",
+        "Spectral color reproduction of paintings",
+        "Automatic panoramic image stitching using invariant features",
+        "3D printing spatially varying color and translucency",
+        "Pushing the limits of 3d color printing: Error diffusion with translucent materials",
+        "Six color printer characterization using an optimized cellular yule-nielsen spectral neugebauer model",
+        "Highquality hyperspectral reconstruction using a spectral prior",
+        "Approximation by superpositions of a sigmoidal function",
+        "Color prediction using the two-constant turbid-media theory",
+        "Spectral colorimetry using LabPQR: An interim connection space",
+        "Scattering-aware texture reproduction for 3D printing",
+        "Reproducing oil paint gloss in print for the purpose of creating reproductions of old masters",
+        "Topographical scanning and reproduction of near-planar surfaces of paintings",
+        "The cascade-correlation learning architecture",
+        "An adaptive algorithm for spatial greyscale",
+        "Controlling the error in spectral vector error diffusion",
+        "Inverse volume rendering with material dictionaries",
+        "Clean color: Improving multi-filament 3D prints",
+        "Comparative study of metrics for spectral match quality",
+        "Image-to-image translation with conditional adversarial networks",
+        "A comprehensive framework for rendering layered materials",
+        "Neural network applications to the color scanner and printer calibrations",
+        "Adaptive color display via perceptually-driven factored spectral projection",
+        "Vector error diffusion method for spectral color reproduction",
+        "Vector error diffusion in a distorted colour space",
+        "Ein Beitrag zur Optik der Farbanstriche",
+        "Pareto-optimal formulations for cost versus colorimetric accuracy trade-offs in printer color management",
+        "The development of the CIE 2000 colour-difference formula: CIEDE2000",
+        "RGB-YMCK color conversion by application of the neural networks",
+        "Optimal parallel error diffusion dithering",
+        "Revisiting spectral printing: A data driven approach",
+        "Extending color primary set in spectral vector error diffusion by multilevel halftoning",
+        "Chromaticity gamut enhancement by heptatone multicolor printing",
+        "Texture mapping real-world objects with hydrographics",
+        "Implementation of the four-flux model for spectral and color prediction of 2.5 D prints",
+        "Towards spectral prediction of 2.5 D prints for soft-proofing applications",
+        "Spectral predictions of rough ink layers using a four-flux model",
+        "Dual-color mixing for fused deposition modeling printers",
+        "Spectral gamuts and spectral gamut mapping",
+        "Spectral redundancy in a six-ink ink jet printer",
+        "Multilayer four-flux model of scattering, emitting and absorbing media",
+        "Computational thermoforming",
+        "MultiFab: A machine vision assisted platform for multi-material 3D printing",
+        "Improved color separation based on dot-visibility modeling and color mixing rule for six-color printers",
+        "Reproducing color images using custom inks",
+        "Spectral color reproduction based on a six-color inkjet output system",
+        "Color control using neural networks and its application",
+        "Control scheme for printers using more than three color inks",
+        "Spectral color reproduction using an interim connection space-based lookup table",
+        "Paramer mismatch-based spectral gamut mapping",
+        "A generic pigment model for digital painting",
+        "Coloring 3D printed surfaces by thermoforming",
+        "Computational hydrographic printing"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Cambridge",
+            "@id": "60006320",
+            "affilname": "MIT Computer Science &amp; Artificial Intelligence Laboratory",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006320",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Princeton",
+            "@id": "60003269",
+            "affilname": "Princeton University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003269",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "U. S. National Science Foundation",
+        "NSF",
+        "Swiss National Science Foundation"
+    ]
+}

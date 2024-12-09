@@ -1,0 +1,112 @@
+{
+    "eid": "2-s2.0-85102120752",
+    "title": "Finite element analysis of reinforced concrete pile cap using ATENA",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Automotive Engineering",
+            "@code": "2203",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Aerospace Engineering",
+            "@code": "2202",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Ocean Engineering",
+            "@code": "2212",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanics of Materials",
+            "@code": "2211",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "ATENA",
+        "Finite element analysis",
+        "Pile cap",
+        "Reinforced concrete",
+        "Rigid body",
+        "Strength of concrete"
+    ],
+    "authors": [
+        "Preeda Chaimahawan",
+        "Suniti Suparp",
+        "Panuwat Joyklad",
+        "Qudeer Hussain"
+    ],
+    "citedby-count": 7,
+    "ref-count": 23,
+    "ref-list": [
+        "Strut-and-Tie Models for the Design of Pile Caps: An Experimental Study",
+        "Evaluation of the Shear Strength of Four Pile Cap Using Strut and Tie Model (STM)",
+        "Semelles sur Pieux",
+        "ATENA-A tool for engineering analysis of fracture in concrete",
+        "Comparison of Moments for Pile-Cap Design",
+        "Triaxial failure criterion for concrete and its generalization",
+        "Analysis and design of reinforced concrete deep beams by a manual approach of stringer-panel method",
+        "Monotonic non-linear strut and tie computer models",
+        "Strength Predictions of Pile Caps by a Strut-and-Tie Model Approach",
+        "Investigation of Thick Slabs (Pile Caps)",
+        "Nonlinear finite element analysis of reinforced concrete four-pile caps",
+        "A variational approach for the analysis of pile group-pile cap interaction",
+        "NonLinear Finite Element Analysis of Four-Pile Caps Supporting Columns Subjected to Generic Loading",
+        "Experimental Study on Corner Shear Failure of Pile Caps",
+        "Influence of Bar Arrangement on Ultimate Strength of Four-Pile Caps",
+        "Experimental Study on Four-Pile Caps with Taper",
+        "Influence of Edge Distance on Failure Mechanism of Pile Caps",
+        "Effect of pile arrangement on the bending performance of an existing bridge footing under lateral seismic loading"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60000316",
+            "affilname": "Srinakharinwirot University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000316",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Phayao",
+            "@id": "125860463",
+            "affilname": "University of Phayo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125860463",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "University of Phayao",
+        "Srinakharinwirot University"
+    ]
+}

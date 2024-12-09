@@ -1,0 +1,60 @@
+{
+    "eid": "2-s2.0-85146576002",
+    "title": "Design of Supervisory Model Predictive Control for Building HVAC System Subject to Time-Varying Operating Points",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Heating-ventilation-air-conditioning (HVAC) system",
+        "Linear Time-Varying Model (LTVM)",
+        "Predicted Mean Vote (PMV)",
+        "Supervisory Model Predictive Control (SMPC)",
+        "Time-Varying Operating Points (TVOP)"
+    ],
+    "authors": [
+        "Sitthiphat Promchaiwattana",
+        "David Banjerdpongchai"
+    ],
+    "citedby-count": 0,
+    "ref-count": 7,
+    "ref-list": [
+        "Design of supervisory model predictive control for building hvac system with consideration of peak-load shaving and thermal comfort",
+        "Design of supervisory model predictive control for building hvac system with time-varying coefficient of performance",
+        "Dynamic model of an hvac system for control analysis",
+        "Nonlinear control of a heating, ventilating, and air conditioning system with thermal load estimation"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

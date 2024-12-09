@@ -1,0 +1,70 @@
+{
+    "eid": "2-s2.0-85118465399",
+    "title": "Design of robust hierarchical control for homogeneous linear multi-agent systems with parametric uncertainty and external disturbance",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "disturbance attenuation",
+        "hierarchical control",
+        "linear matrix inequality (LMI)",
+        "Multi-agent systems (MAS)",
+        "parametric uncertainty"
+    ],
+    "authors": [
+        "Tuynh Van Pham",
+        "Dinh Hoa Nguyen",
+        "David Banjerdpongchai"
+    ],
+    "citedby-count": 1,
+    "ref-count": 23,
+    "ref-list": [
+        "Disturbance-observer-based control and related methods-an overview",
+        "Robust controller design for dynamic consensus networks robust controller design for dynamic consensus networks",
+        "On performance regions of multi-agent systems",
+        "Distributed robust control of linear multi-agent systems with parameter uncertainties",
+        "Robust observer-based control of systems with state perturbations via LMI approach",
+        "Distributed robust consensus control in directed networks of agents with time-delay distributed robust consensus control in directed networks of agents with time-delay",
+        "consensus control of multi-agent systems with switching topology: a dynamic output feedback protocol consensus control of multi-agent systems with switching topology: a dynamic output feedback protocol",
+        "Robust consensus control of uncertain multi-agent systems with time delays robust consensus control of uncertain multi-agent systems with time delays",
+        "Distributed control for identical dynamically coupled systems: a decomposition approach",
+        "A sub-optimal consensus design for multi-agent systems based on hierarchical LQR",
+        "Disturbance attenuation in a consensus network of identical linear systems: an approach disturbance attenuation in a consensus network of identical linear systems: an approach",
+        "A hierarchical cyclic pursuit scheme for vehicle networks",
+        "Robust control of norm bounded uncertain systems via Markovian approach robust control of norm bounded uncertain systems via Markovian approach",
+        "Lyapunov, adaptive, and optimal design techniques for cooperative systems on directed communication graphs"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Fukuoka",
+            "@id": "60011047",
+            "affilname": "Kyushu University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011047",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Institute of Mathematics for Industry, Kyushu University",
+        "JICA",
+        "International Institute for Carbon-Neutral Energy Research"
+    ]
+}

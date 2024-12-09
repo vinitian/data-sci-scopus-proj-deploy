@@ -1,0 +1,95 @@
+{
+    "eid": "2-s2.0-85092747675",
+    "title": "Aircraft Segmentation from Remote Sensing Images using Modified Deeply Supervised Salient Object Detection with Short Connections",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (miscellaneous)",
+            "@code": "2201",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Aircraft image segmentation",
+        "Deeply supervised network",
+        "L2-normalization",
+        "Short connection"
+    ],
+    "authors": [
+        "Natnicha Meeboonmak",
+        "Nagul Cooharojananone"
+    ],
+    "citedby-count": 3,
+    "ref-count": 15,
+    "ref-list": [
+        "CCBIR: A cloud based implementation of content based image retrieval",
+        "Research on aerial flyer interception based on anti-aircraft gun system",
+        "Aircraft recognition in high-resolution satellite images using coarse-to-fine shape prior",
+        "Aircraft recognition based on improved iterative threshold selection and skeleton zernike moment",
+        "A cascade structure of aircraft detection in high resolution remote sensing images",
+        "A novel method of aircraft detection based on high-resolution panchromatic optical remote sensing images",
+        "Co-segmentation of aircrafts from high-resolution satellite images",
+        "Pixel-based airplanes segmentation in remote sensing image",
+        "Aircraft type recognition based on segmentation with deep convolutional neural networks",
+        "Aircraft segmentation from remote sensing image by transferring natual image trained forground extraction cnn model",
+        "Deeply supervised salient object detection with short connections",
+        "Holistically-nested edge detection",
+        "Efficient inference in fully connected crfs with Gaussian edge potentials",
+        "CNN descriptor improvement based on l2-normalization and feature pooling for patch classification",
+        "Very deep convolutional networks for large-scale image recognition"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "DPST",
+        "Development and Promotion of Science and Technology Talents Project"
+    ]
+}

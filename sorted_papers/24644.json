@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85058998908",
+    "title": "Model for allocation of medical specialists in a hospital network",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Leadership and Management",
+            "@code": "2911",
+            "@abbrev": "NURS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Public Health, Environmental and Occupational Health",
+            "@code": "2739",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Organizational Behavior and Human Resource Management",
+            "@code": "1407",
+            "@abbrev": "BUSI"
+        }
+    ],
+    "keywords": [
+        "Allocation",
+        "Human resource planning",
+        "Linear programming",
+        "Medical specialist"
+    ],
+    "authors": [
+        "Nantana Suppapitnarm",
+        "Krit Pongpirul"
+    ],
+    "citedby-count": 2,
+    "ref-count": 26,
+    "ref-list": [
+        "A modeling framework for hospital location and service allocation",
+        "Not enough there, too many here: Understanding geographical imbalances in the distribution of the health workforce",
+        "Patient preferences for care by general internists and specialists in the ambulatory setting",
+        "Medical specialist preferences and reasons among fresh nigerian interns",
+        "Which types of hospital mergers save consumers money?",
+        "Do bank mergers have hidden or foregone value? Realized and unrealized operating synergies in one bank merger",
+        "Use of location-allocation models in health service development planning in developing nations",
+        "A hierarchical model for the location of perinatal facilities in the municipality of Rio de Janeiro",
+        "Health network mergers and hospital re-planning",
+        "A decision support model for staff allocation of mobile medical service",
+        "Hospital nurse staffing: Choice of measure matters",
+        "An emergency logistics distribution approach for quick response to urgent relief demand in disasters",
+        "Optimizing physician staffing and resource allocation: Sine-wave variation in hourly trauma admission volume",
+        "Joint requirement of two multi-skill resource types in multi-period multi-site assignment problem",
+        "Skill mix in the health care workforce: Reviewing the evidence",
+        "The Delphi technique",
+        "Determining location and size of medical departments in a hospital network: A multiobjec-tive decision support approach",
+        "Cross hospital bed management system",
+        "Effect of hospital referral networks on patient readmissions",
+        "Constraint-based human resource allocation in software projects",
+        "A trauma resource allocation model for ambulances and hospitals"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Baltimore",
+            "@id": "60006183",
+            "affilname": "Johns Hopkins Bloomberg School of Public Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006183",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "116497145",
+            "affilname": "Medical Affairs",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/116497145",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

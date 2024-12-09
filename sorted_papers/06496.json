@@ -1,0 +1,60 @@
+{
+    "eid": "2-s2.0-85073431911",
+    "title": "Error detection sensitivity test using complex errors on three patient-specific VMAT QA systems",
+    "cover-date": "2019-09-17",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Physics and Astronomy (all)",
+            "@code": "3100",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "S. Thongsawad",
+        "S. Srisatit",
+        "T. Fuangrod"
+    ],
+    "citedby-count": 1,
+    "ref-count": 22,
+    "ref-list": [
+        "Quantification of beam complexity in intensity-modulated radiation therapy treatment plans",
+        "Study on the correlation between plan complexity and gamma index analysis in patient specific quality assurance of volumetric modulated arc therapy",
+        "Intensity modulated radiation therapy: A review of current practice and future outlooks",
+        "An analytical solution for the dynamic control of multileaf collimators",
+        "Are simple IMRT beams more robust against MLC error? Exploring the impact of MLC errors on planar quality assurance and plan quality for different complexity beams",
+        "Volumetric modulated arc therapy: IMRT in a single gantry arc",
+        "Patient specific quality assurance for the delivery of intensity modulated radiotherapy",
+        "A quantitative evaluation of IMRT dose distributions: Refinement and clinical assessment of the gamma evaluation",
+        "Quasi 3D dosimetry (EPID, conventional 2D/3D detector matrices)",
+        "Anatomy-based, patient-specific VMAT QA using EPID or MLC log files",
+        "Comprehensive quality assurance for the delivery of intensity modulated radiotherapy with a multileaf collimator used in the dynamic mode",
+        "Clinical significance of multi-leaf collimator positional errors for volumetric modulated arc therapy",
+        "A study on the effect of detector resolution on gamma index passing rate for VMAT and IMRT QA",
+        "Clinical evaluation of an anatomy-based patient specific quality assurance system",
+        "Comparisons of volumetric modulated arc therapy (VMAT) quality assurance (QA) systems: Sensitivity analysis to machine errors",
+        "Investigation of error detection capabilities of phantom, EPID and MLC log file based IMRT QA methods",
+        "Verification of dynamic and segmental IMRT delivery by dynamic log file analysis",
+        "A study on the effect of detector resolution on gamma index passing rate for VMAT and IMRT QA",
+        "Comparison of 3D and 2D gamma passing rate criteria for detection sensitivity to IMRT delivery errors",
+        "Tolerance limits and methodologies for IMRT measurement-based verification QA: Recommendations of AAPM Task Group No. 218"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022464",
+            "affilname": "Chulabhorn Royal Academy",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022464",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

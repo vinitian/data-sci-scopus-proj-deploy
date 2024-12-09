@@ -1,0 +1,87 @@
+{
+    "eid": "2-s2.0-85168283972",
+    "title": "Precise Automation of Rotary Flexible Link Manipulator Using Hybrid Input Shaping with Single State Feedback Fuzzy Logic and Sliding Mode Controllers",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Dynamic modelling",
+        "flexible link manipulator",
+        "position tracking",
+        "sensitivity analysis",
+        "tip deflection",
+        "vibration suppression"
+    ],
+    "authors": [
+        "Ahmad Bala Alhassan",
+        "Ratchatin Chancharoen",
+        "Bashir Bala Muhammad",
+        "Gridsada Phanomcheong"
+    ],
+    "citedby-count": 0,
+    "ref-count": 37,
+    "ref-list": [
+        "Linear manipulator: Motion control of an n-link robotic arm mounted on a mobile slider",
+        "Comparison of classical and newly designed motion profiles for motion-based control of flexible composite manipulator",
+        "Case study on energy-aware position control for flexible link mechatronic systems",
+        "An active control method for vibration reduction of a single-link flexible manipulator",
+        "Robust H\u221e controller design for flexible link manipulator based on constrained metaheuristics optimization algorithms",
+        "Investigating the potential of flexible links for increased payload to mass ratios for collaborative robotics",
+        "Dynamics analysis and vibration suppression of a spatial rigid-flexible link manipulator based on transfer matrix method of multibody system",
+        "Fuzzy adaptive compensation control for space manipulator with joint flexibility and dead zone based on neural network",
+        "A review on flexible robotic systems for minimally invasive surgery",
+        "Jerk-bounded trajectory planning for rotary flexible joint manipulator: An experimental approach",
+        "A critical review of modelling methods for flexible and rigid link manipulators",
+        "A critical review of control techniques for flexible and rigid link manipulators",
+        "Intelligent manipulator with flexible link and joint: Modeling and vibration control",
+        "Modeling and control of flexible link manipulators for unmodeled dynamics effect",
+        "Research on vibration suppression and trajectory tracking control strategy of a flexible link manipulator",
+        "Active vibration control for a flexible-link manipulator with input constraint based on a disturbance observer",
+        "Robust active disturbance rejection control for flexible link manipulator",
+        "Chattering-suppressed sliding mode control for flexible-joint robot manipulators",
+        "A composite controller for manipulator with flexible joint and link under uncertainties and disturbances",
+        "Passivity based adaptive control of a single-link flexible manipulator",
+        "Dynamic modeling and vibration suppression for two-link underwater flexible manipulators",
+        "Investigation of performance and sensitivity of S-curve motion profiles on reduction in flexible manipulator vibrations",
+        "Adaptive vibration control for constrained moving vehicle-mounted nonlinear 3D rigid-flexible manipulator system subject to actuator failures",
+        "Design and performance analysis of magnetorheological grease flexible manipulator gripper",
+        "Robust adaptive dynamic surface control of multi-link flexible joint manipulator with input saturation",
+        "Design and experiments of an origami-inspired pneumatic flexible manipulator",
+        "A non-inherent parametric estimation for dynamical equivalence of flexible manipulators",
+        "Reliability-based optimization of flexible manipulators",
+        "Input shaping techniques for sway control of a rotary crane system",
+        "Two-link flexible manipulator control using sliding mode control based linear matrix inequality",
+        "Comparative analysis of neural-network and fuzzy auto-tuning sliding mode controls for overhead cranes under payload and cable variations",
+        "An impulse-time perturbation approach for a symmetric extra-insensitive input shaper",
+        "Trajectory tracking of a quadrotor using a robust adaptive type-2 fuzzy neural controller optimized by cuckoo algorithm",
+        "Novel power-rate reaching law for quasi-sliding mode control",
+        "Power rate exponential reaching law for enhanced performance of sliding mode control",
+        "A new variable exponential power reaching law of complementary terminal sliding mode control"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

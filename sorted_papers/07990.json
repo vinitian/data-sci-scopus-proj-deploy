@@ -1,0 +1,72 @@
+{
+    "eid": "2-s2.0-85126064210",
+    "title": "Generating functional requirements based on classification of mobile application user reviews",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Clustering",
+        "Functional requirements",
+        "Machine learning",
+        "Natural language processing",
+        "Requirement boilerplates",
+        "Software requirement generation",
+        "Text classification",
+        "Text similarity",
+        "User reviews"
+    ],
+    "authors": [
+        "Tanutcha Panthum",
+        "Twittie Senivongse"
+    ],
+    "citedby-count": 1,
+    "ref-count": 10,
+    "ref-list": [
+        "How can I improve my app? Classifying user reviews for software maintenane and evolution",
+        "Bug report, feature request, or simply praise? On automatically classifying app reviews",
+        "Automatic classification of non-functional requirements from augmented app user reviews",
+        "Ar-miner: Mining informative reviews for developers from mobile app marketplace",
+        "Release planning of mobile apps based on user reviews",
+        "A semi-automated approach for generating natural language requirements documents based on business process models",
+        "Exploration of a threshold for similarity based on uncertainty in word embedding",
+        "Natural language requirements specification analysis using part-of-speech tagging"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

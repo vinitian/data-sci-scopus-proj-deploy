@@ -28,7 +28,7 @@ df4_transposed = df4.T
 
 #----------NETWORK GRAPH OF RELATED KEYWORDS-----------#
 
-path = 'D:/Data Sci Project/clean/'
+path = 'sorted_papers/'
 fileNames = [f for f in listdir(path) if isfile(join(path, f))]
 
 tag_counter = Counter()
@@ -115,23 +115,6 @@ fig.update_layout(
     yaxis=dict(showgrid=False, zeroline=False),
     dragmode='pan'
 )
-
-#----------NETWORK GRAPH OF CLOSEST KEYWORDS part 1/2-----------#
-
-path = 'D:/Data Sci Project/clean/'
-fileNames = [f for f in listdir(path) if isfile(join(path, f))]
-
-# tag_counter = Counter()
-co_occurrence = Counter()
-
-for i in range(0,29217):
-    with open(path+fileNames[i], 'r', encoding="utf8") as file:
-        d = json.load(file)
-        if d["keywords"] != []:
-            kw = d["keywords"]
-            # tag_counter.update(kw)
-            for pair in combinations(kw, 2):
-                co_occurrence[frozenset(pair)] += 1
 
 #----------BARCHART----------#
 

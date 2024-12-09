@@ -1,0 +1,107 @@
+{
+    "eid": "2-s2.0-85083988634",
+    "title": "Rapid Low-Cost Microarray-Based Genotyping for Genetic Screening in Primary Immunodeficiency",
+    "cover-date": "2020-04-15",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Immunology and Allergy",
+            "@code": "2723",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Immunology",
+            "@code": "2403",
+            "@abbrev": "IMMU"
+        }
+    ],
+    "keywords": [
+        "copy number variants (CNV) calling",
+        "microarray-based genotyping",
+        "primary immunodeficiencies",
+        "single nucleotide variants (SNV) calling",
+        "SNP microarray"
+    ],
+    "authors": [
+        "Narissara Suratannon",
+        "Rogier T.A. van Wijck",
+        "Linda Broer",
+        "Laixi Xue",
+        "Joyce B.J. van Meurs",
+        "Barbara H. Barendregt",
+        "Mirjam van der Burg",
+        "Willem A. Dik",
+        "Pantipa Chatchatee",
+        "Anton W. Langerak",
+        "Sigrid M.A. Swagemakers",
+        "Jacqueline A.C. Goos",
+        "Irene M.J. Mathijssen",
+        "Virgil A.S.H. Dalm",
+        "Kanya Suphapeetiporn",
+        "Kim C. Heezen",
+        "Jose Drabwell",
+        "Andr\u00e9 G. Uitterlinden",
+        "Peter J. van der Spek",
+        "P. Martin van Hagen"
+    ],
+    "citedby-count": 15,
+    "ref-count": 17,
+    "ref-list": [
+        "The 2017 IUIS phenotypic classification for primary immunodeficiencies",
+        "International union of immunological societies: 2017 primary immunodeficiency diseases committee report on inborn errors of immunity",
+        "Human inborn errors of immunity: 2019 update on the classification from the international union of immunological societies expert committee",
+        "Use of genetic testing for primary immunodeficiency patients",
+        "SNP arrays",
+        "The 2015 IUIS phenotypic classification for primary immunodeficiencies",
+        "The human gene mutation database: towards a comprehensive repository of inherited mutation data for medical research, genetic diagnosis and next-generation sequencing studies",
+        "Huvariome: a web server resource of whole genome next-generation sequencing allelic frequencies to aid in pathological candidate gene selection",
+        "Boston type craniosynostosis: report of a second mutation in MSX2",
+        "PLINK: a tool set for whole-genome association and population-based linkage analyses",
+        "zCall: a rare variant caller for array-based genotyping: genetics and population analysis",
+        "Variant across 141,456 human exomes and genome reveals the spectrum of loss-of-function intolerance across human protein-coding genes",
+        "Diagnostic yield of next generation sequencing in genetically undiagnosed patients with primary immunodeficiencies: a systematic review",
+        "GATA2 deficiency and related myeloid neoplasms",
+        "A novel immunodeficiency disorder characterized by genetic amplification of interleukin 25",
+        "Genome-wide association identifies diverse causes of common variable immunodeficiency",
+        "LRBA deficiency in a patient with a novel homozygous mutation due to chromosome 4 segmental uniparental isodisomy"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Rotterdam",
+            "@id": "60032114",
+            "affilname": "Erasmus MC",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032114",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Leiden",
+            "@id": "60015618",
+            "affilname": "Leids Universitair Medisch Centrum",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015618",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Downderry",
+            "@id": "114832178",
+            "affilname": "International Patient Organization for Primary Immunodeficiencies (IPOPI)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/114832178",
+            "affiliation-country": "United Kingdom"
+        }
+    ],
+    "funding": []
+}

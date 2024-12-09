@@ -1,0 +1,102 @@
+{
+    "eid": "2-s2.0-84941104612",
+    "title": "Coupling 3D Eulerian, Heightfield and Particle Methods for Interactive Simulation of Large Scale Liquid Phenomena",
+    "cover-date": "2015-10-01",
+    "subject-areas": [
+        {
+            "$": "Signal Processing",
+            "@code": "1711"
+        },
+        {
+            "$": "Computer Graphics and Computer-Aided Design",
+            "@code": "1704"
+        },
+        {
+            "$": "Software",
+            "@code": "1712"
+        },
+        {
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707"
+        }
+    ],
+    "keywords": [
+        "fluid simulation",
+        "physics based animation"
+    ],
+    "authors": [
+        "Nuttapong Chentanez"
+    ],
+    "citedby-count": 26,
+    "ref-count": 55,
+    "ref-list": [
+        "A variational approach to Eulerian geometry processing",
+        "Position based fluids",
+        "Smoothed particle hydrodynamics: theory and application to non-spherical stars",
+        "Proc. Eurographics Workshop Comput. Animation Simul.",
+        "Particle-based fluid simulation for interactive applications",
+        "Predictive-corrective incompressible SPH",
+        "Weakly compressible SPH for free surface flows",
+        "Realistic animation of liquids",
+        "Practical animation of liquids",
+        "Animation and rendering of complex water surfaces",
+        "Multiple interacting liquids",
+        "Practical animation of turbulent splashing water",
+        "Proc. Symp. Applied Mathematics",
+        "FLIP: A method for adaptively zoned, particle-in-cell calculations of fluid flows in two dimensions",
+        "Animating sand as a fluid",
+        "MultiFLIP for energetic two-phase fluid simulation",
+        "Bubbles alive",
+        "Preserving fluid sheets with adaptively sampled anisotropic particles",
+        "A particle method for history-dependent materials",
+        "A material point method for snow simulation",
+        "Hybrid smoothed particle hydrodynamics",
+        "A new incompressibility discretization for a hybrid particle MAC grid representation with surface tension",
+        "Two-way coupled SPH and particle level set fluid simulation",
+        "Hybrid particle-grid fluid animation with enhanced details",
+        "Free Surface Lattice-Boltzmann fluid simulations with and without level sets",
+        "Simulating water and smoke with an octree data structure",
+        "Efficient simulation of large bodies of water by coupling two and three dimensional techniques",
+        "Real-time eulerian water simulation using a restricted tall cell grid",
+        "Chimera grids for water simulation",
+        "A new grid structure for domain extension",
+        "Liquid simulation on lattice-based tetrahedral meshes",
+        "Tetrahedral embedded boundary methods for accurate and flexible adaptive fluids",
+        "Highly adaptive liquid simulations on tetrahedral meshes",
+        "Adaptively sampled particle fluids",
+        "Two-scale particle simulation",
+        "Shallow Water Discretization, Lecture Notes Animation Physics",
+        "Rapid, stable fluid dynamics for computer graphics",
+        "Modeling water for computer graphics",
+        "Simulating Nature: Realistic and Interactive Techniques SIGGRAPH 2001 Course Notes",
+        "Wave particles",
+        "A numerically efficient and stable algorithm for animating water waves",
+        "Visual simulation of shallow-water waves",
+        "Solving General Shallow Wave Equations on surfaces",
+        "Efficient modeling and rendering of turbulent water over natural terrain",
+        "Animation of open water phenomena with coupled shallow water and free surface simulations",
+        "Mass-conserving eulerian liquid simulation",
+        "Real-time simulation of large bodies of water with small scale details",
+        "A fast variational framework for accurate solid-fluid coupling",
+        "Proc. SIAM Conf. Comput. Sci. Eng.",
+        "Fast poisson disk sampling in arbitrary dimensions",
+        "Signed distance fields for polygon soup meshes",
+        "Fluid Simulation for Computer Graphics",
+        "Screen space fluid rendering with curvature flow",
+        "Reconstructing surfaces of particle-based fluids using anisotropic kernels",
+        "Unified particle physics for real-time applications"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Santa Clara",
+            "affilname": "NVIDIA",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

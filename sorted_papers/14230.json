@@ -1,0 +1,111 @@
+{
+    "eid": "2-s2.0-85153387232",
+    "title": "RRWaveNet: A Compact End-to-End Multi-Scale Residual CNN for Robust PPG Respiratory Rate Estimation",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Convolution",
+        "convolutional neural network (CNN)",
+        "Convolutional neural networks",
+        "Deep learning",
+        "Estimation",
+        "explainable AI",
+        "Internet of Things",
+        "photoplethysmography (PPG)",
+        "respiratory rate estimation",
+        "Transfer learning",
+        "transfer learning",
+        "Wearable computers"
+    ],
+    "authors": [
+        "Pongpanut Osathitporn",
+        "Guntitat Sawadwuthikul",
+        "Punnawish Thuwajit",
+        "Kawisara Ueafuea",
+        "Thee Mateepithaktham",
+        "Narin Kunaseth",
+        "Tanut Choksatchawathi",
+        "Proadpran Punyabukkana",
+        "Emmanuel Mignot",
+        "Theerawit Wilaiprasitporn"
+    ],
+    "citedby-count": 1,
+    "ref-count": 0,
+    "ref-list": [],
+    "affiliation": [
+        {
+            "affiliation-city": "Rayong",
+            "@id": "60110787",
+            "affilname": "Vidyasirimedhi Institute of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60110787",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Madison",
+            "@id": "60032179",
+            "affilname": "University of Wisconsin-Madison",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032179",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Daejeon",
+            "@id": "60032144",
+            "affilname": "Korea Advanced Institute of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032144",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Palo Alto",
+            "@id": "60012708",
+            "affilname": "Stanford University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012708",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "129521835",
+            "affilname": "Suankularb Wittayalai School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129521835",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

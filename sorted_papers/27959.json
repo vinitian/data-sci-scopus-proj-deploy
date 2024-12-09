@@ -1,0 +1,88 @@
+{
+    "eid": "2-s2.0-85009170670",
+    "title": "Influence of Interval Uncertainty on the Behavior of Geometrically Nonlinear Elastoplastic Structures",
+    "cover-date": "2017-01-01",
+    "subject-areas": [
+        {
+            "$": "Mechanical Engineering",
+            "@code": "2210"
+        },
+        {
+            "$": "Civil and Structural Engineering",
+            "@code": "2205"
+        },
+        {
+            "$": "Mechanics of Materials",
+            "@code": "2211"
+        },
+        {
+            "$": "General Materials Science",
+            "@code": "2500"
+        },
+        {
+            "$": "Building and Construction",
+            "@code": "2215"
+        }
+    ],
+    "keywords": [
+        "Analysis and computation",
+        "Elastoplastic analysis",
+        "Geometric nonlinearity",
+        "Interval analysis",
+        "Nonconvex optimization",
+        "Uncertainty"
+    ],
+    "authors": [
+        "C. Yang"
+    ],
+    "citedby-count": 6,
+    "ref-count": 31,
+    "ref-list": [
+        "Numerical simulation of quasibrittle fracture in concrete",
+        "Convex Models of Uncertainty in Applied Mechanics",
+        "Physical instability and geometric effects in frames",
+        "GAMS: A User's Guide",
+        "Linear programming with interval coefficients",
+        "COLLAPSE LOAD ANALYSIS OF FRAMES CONSIDERING AXIAL FORCES.",
+        "Elastoplastic Analysis of Planar Structures for Large Displacements",
+        "ORSA J. Comput.",
+        "Technical Rep. Dept. of Computer Sciences",
+        "Complementarity problems in GAMS and the PATH solver",
+        "On the solution of a minimum weight elastoplastic problem involving displacement and complementarity constraints",
+        "Limit analysis of frictional block assemblies as a mathematical program with complementarity constraints",
+        "GAMS [Computer Software]",
+        "Some noninterior continuation methods for linear complementarity problems",
+        "Large deformation analysis of elastic-plastic frames",
+        "Mathematical Programs with Equilibrium Constraints",
+        "A matrix structural theory of piecewise linear elastoplasticity with interacting yield planes",
+        "Incremental plastic analysis in the presence of large displacements and physical instabilizing effects",
+        "MATLAB [Computer Software]",
+        "Engineering computation under uncertainty - Capabilities of non-traditional models",
+        "Combined axial and bending stiffness in interval finite-element methods",
+        "Bounds of structural response for all possible loading combinations",
+        "Theory of Matrix Structural Analysis",
+        "The Solver Manuals",
+        "A complementarity approach for elastoplastic analysis of strain softening frames under combined bending and axial force",
+        "Limit analysis of elastoplastic frames considering 2nd-order geometric nonlinearity and displacement constraints",
+        "The influence of geometric effects on the behavior of strain softening frames",
+        "Mathematical programming approaches for the safety assessment of semirigid elastoplastic frames",
+        "Nonlinear analysis of semirigid frames: A parametric complementarity approach",
+        "Modified interval and subinterval perturbation methods for the static response analysis of structures with interval parameters",
+        "Interval elastoplastic analysis of structures"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Sydney",
+            "affilname": "UNSW Sydney",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Australian Research Council"
+    ]
+}

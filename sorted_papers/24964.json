@@ -1,0 +1,99 @@
+{
+    "eid": "2-s2.0-85109981938",
+    "title": "Modular transformation of embedded systems from firm-cores to soft-cores",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Embedded systems",
+        "Firm-core",
+        "FPGA",
+        "HDL",
+        "Lattice",
+        "Microprocessors",
+        "Soft-core",
+        "Transformation",
+        "Verification",
+        "Xilinx PicoBlaze"
+    ],
+    "authors": [
+        "Ehsan Ali",
+        "Wanchalerm Pora"
+    ],
+    "citedby-count": 3,
+    "ref-count": 82,
+    "ref-list": [
+        "A 16-nm multiprocessing system-on-chip field-programmable gate array platform",
+        "Implementation and verification of IEEE-754 64-bit floating-point arithmetic library for 8-bit soft-core processors",
+        "FPGA-based soft-core processors for image processing applications",
+        "Performance and advantages of a soft-core based parallel architecture for energy peak detection in the calorimeter Level 0 trigger for the NA62 experiment at CERN",
+        "A PicoBlaze-based embedded system for monitoring applications",
+        "FPGA-based systemon-chip designs for real-time applications in particle physics",
+        "Multi-softcore architecture on FPGA",
+        "Implementation of a reliable mechanism for protecting IP cores on low-end FPGA devices",
+        "Implementation of wireless sensor network using microblaze and picoblaze processors",
+        "OpenCores project",
+        "FPGA design automation: a survey",
+        "Smart sensor implemented with PicoBlaze multi-processors technology",
+        "Chapter 14 \u2013 embedded processing cores in rapid system prototyping with FPGAs",
+        "OpenCores project",
+        "Full TCP/IP for 8-bit architectures",
+        "Architectural extensions for elliptic curve cryptography over GF(2/sup m/) on 8-bit microprocessors",
+        "FPGAs as reconfigurable processing elements",
+        "Very small FPGA application-specific instruction processor for AES",
+        "OpenCores project",
+        "Embedded software design of scalable low-area elliptic-curve cryptography",
+        "OpenCores project",
+        "Self-regulating fuzzy control for forward DC-DC converters using an 8-bit microcontroller",
+        "Using a PicoBlaze processor to traffic light control",
+        "RISC versus CISC - why less is more",
+        "Design and implementation of microcontroller based fuzzy logic control for maximum power point tracking of a photovoltaic system",
+        "A study of the speedups and competitiveness of FPGA soft processor cores using dynamic hardware/software partitioning",
+        "Firmware upgrade in xTCA systems",
+        "ESPRESSO-SIGNATURE: a new exact minimizer for logic functions",
+        "Platform Independent 8-bit Softcore for SoPC",
+        "Intel microprocessors \u2013 8008 to 8086",
+        "A microcontroller-based data acquisition system for solar radiation and environmental monitoring",
+        "The soft core processors: a review",
+        "Implementation of dynamic reconfigurable interpolator for open architecture CNC by using FPGA",
+        "Laius: an energy-efficient FPGA CNN accelerator with the support of a fixed-point training framework",
+        "MiniMIPS: an 8-Bit MIPS in an FPGA for educational purposes",
+        "A design methodology for mobile and embedded applications on FPGA-based dynamic reconfigurable hardware",
+        "Low-overhead fault-tolerance technique for a dynamically reconfigurable softcore processor",
+        "FPGA-based hardware acceleration: a CPU/accelerator interface exploration",
+        "Advanced features and industrial applications of FPGAs \u2013 a review",
+        "An \u2018Introduction to soft-core processors and a biomedical application",
+        "8-bit CISC microprocessor core for teaching applications in the digital systems laboratory",
+        "Hardware acceleration of de novo genome assembly",
+        "VHDL and Verilog compared and contrasted-plus modeled example written in VHDL, Verilog and C",
+        "Soft-core processors for embedded systems",
+        "A multiprocessor-on-a-programmable chip reconfigurable system for matrix operations with power-grid case studies",
+        "Implementation of a colorful RGB-LED light source with an 8-bit microcontroller",
+        "A flexible ADC approach for mixed-signal SoC platforms",
+        "Design of a general purpose 8-bit RISC processor for computer architecture learning",
+        "MIMD implementation with PicoBlaze microprocessor using MPI functions"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn Academic Advancement",
+        "Chulalongkorn University"
+    ]
+}

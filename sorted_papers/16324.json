@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85064517213",
+    "title": "Productivity improvement with parallel adjacent U-shaped assembly lines",
+    "cover-date": "2019-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Nuclear and High Energy Physics",
+            "@code": "3106",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Management Science and Operations Research",
+            "@code": "1803",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Management of Technology and Innovation",
+            "@code": "1405",
+            "@abbrev": "BUSI"
+        }
+    ],
+    "keywords": [
+        "Assembly line",
+        "Assembly line balancing",
+        "Evolutionary algorithm (MOEA/D)",
+        "Multi-objective optimisation",
+        "Parallel adjacent assembly line",
+        "Particle swarm optimisation (PSO)",
+        "Productivity improvement",
+        "U-shaped assembly line"
+    ],
+    "authors": [
+        "P. Chutima",
+        "T. Suchanun"
+    ],
+    "citedby-count": 12,
+    "ref-count": 12,
+    "ref-list": [
+        "The effect of straight- And U-shaped lines on quality",
+        "Balancing of parallel assembly lines",
+        "Balancing of parallel U-shaped assembly lines",
+        "Multi-objective two-sided mixed-model assembly line balancing using particle swarm optimisation with negative knowledge",
+        "MOEA/D: A multiobjective evolutionary algorithm based on decomposition",
+        "A comparison of particle swarm optimisation and the genetic algorithm",
+        "Particle swarm optimization",
+        "Solving multiobjective optimisation problems using an artificial immune system",
+        "A multi-objective car sequencing problem on two-sided assembly lines",
+        "Balancing assembly line with skilled and unskilled workers",
+        "Mixed-model U-shaped assembly lines: Balancing and comparing with straight lines with buffers and parallel workstations",
+        "Simultaneous balancing, sequencing, and workstation planning for a mixed model manual assembly line using hybrid genetic algorithm"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "102044311",
+            "affilname": "Academy of Science",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/102044311",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,111 @@
+{
+    "eid": "2-s2.0-85052516073",
+    "title": "Re-evaluation of pediatric 18F-FDG dosimetry: Cristy-Eckerman versus UF/NCI hybrid computational phantoms",
+    "cover-date": "2018-08-14",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Radiological and Ultrasound Technology",
+            "@code": "3614",
+            "@abbrev": "HEAL"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "18F-FDG",
+        "computational phantoms",
+        "Medical Internal Radiation Dose (MIRD)",
+        "Monte Carlo calculations",
+        "pediatric dosimetry"
+    ],
+    "authors": [
+        "Kitiwat Khamwan",
+        "Shannon E. O'Reilly",
+        "Donika Plyku",
+        "Alison Goodkind",
+        "Anders Josefsson",
+        "Xinhua Cao",
+        "Frederic H. Fahey",
+        "S. Ted Treves",
+        "Wesley E. Bolch",
+        "George Sgouros"
+    ],
+    "citedby-count": 5,
+    "ref-count": 32,
+    "ref-list": [
+        "Effective dose to adult patients from 338 radiopharmaceuticals estimated using ICRP biokinetic data, ICRP/ICRU computational reference phantoms and ICRP 2007 tissue weighting factors",
+        "MIRD pamphlet no. 21: A generalized schema for radiopharmaceutical dosimetry - Standardization of nomenclature",
+        "Specific absorbed fractions of energy at various ages from internal photon sources: Part i",
+        "Dosimetry of pediatric PET/CT",
+        "Dose estimation in pediatric nuclear medicine",
+        "Minimizing and communicating radiation risk in pediatric nuclear medicine",
+        "Dose optimization in pediatric nuclear medicine",
+        "Radiation doses for pediatric nuclear medicine studies: Comparing the North American consensus guidelines and the pediatric dosage card of the European Association of nuclear medicine",
+        "MIRD dose estimate report no. 19: Radiation absorbed dose estimates from 18F-FDG",
+        "Response functions for computing absorbed dose to skeletal tissues from photon irradiation - An update",
+        "Comparative dosimetry for 68Ga-DOTATATE: Impact of using updated ICRP phantoms, S values, and tissue-weighting factors",
+        "Pharmacokinetic modeling of [18F]fluorodeoxyglucose (FDG) for premature infants, and newborns through 5 year-olds",
+        "Pediatric radiopharmaceutical administration: Harmonization of the 2007 EANM paediatric dosage card (version 1.5. 2008) and the 2010 North American consensus guideline",
+        "Standardization of administered activities in paediatric nuclear medicine: The EANM perspective",
+        "The UF family of reference hybrid phantoms for computational radiation dosimetry",
+        "ICRP Publication 128: Radiation dose to patients from radiopharmaceuticals: A compendium of current information related to frequently used substances",
+        "ICRP Publication 110. Realistic reference phantoms: An ICRP/ICRU joint effort. A report of adult reference computational phantoms",
+        "Creation of two tomographic voxel models of paediatric patients in the first year of life",
+        "Dosimetry for pediatric 18F-FDG molecular imaging studies (abstract)",
+        "Estimated radiation dose to the newborn in FDG-PET studies",
+        "An approach for balancing diagnostic image quality with cancer risk: Application to pediatric diagnostic imaging of 99mTc-dimercaptosuccinic acid",
+        "Basic principles in the radiation dosimetry of nuclear medicine",
+        "OLINDA/EXM: The second-generation personal computer software for internal dose assessment in nuclear medicine",
+        "Update of the North American consensus guidelines for pediatric administered radiopharmaceutical activities",
+        "International guidelines for pediatric radiopharmaceutical administered activities",
+        "Internal photon and electron dosimetry of the newborn patient - A hybrid computational phantom study",
+        "Evaluation of radiation dose to anthropomorphic paediatric models from positron-emitting labelled tracers",
+        "Pediatric radiation dosimetry for positron-emitting radionuclides using anthropomorphic phantoms"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Baltimore",
+            "@id": "60005248",
+            "affilname": "Johns Hopkins University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005248",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60030521",
+            "affilname": "Boston Children's Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030521",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60016782",
+            "affilname": "Brigham and Women's Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016782",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Gainesville",
+            "@id": "60013959",
+            "affilname": "University of Florida",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013959",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "NIH",
+        "Chulalongkorn University"
+    ]
+}

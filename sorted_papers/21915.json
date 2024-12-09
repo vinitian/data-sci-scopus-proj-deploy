@@ -1,0 +1,85 @@
+{
+    "eid": "2-s2.0-85094940200",
+    "title": "Phenotype prediction and characterization of 25 pharmacogenes in Thais from whole genome sequencing for clinical implementation",
+    "cover-date": "2020-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Multidisciplinary",
+            "@code": "1000",
+            "@abbrev": "MULT"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "John Mauleekoonphairoj",
+        "Monpat Chamnanphon",
+        "Apichai Khongphatthanayothin",
+        "Boosamas Sutjaporn",
+        "Pharawee Wandee",
+        "Yong Poovorawan",
+        "Koonlawee Nademanee",
+        "Monnat Pongpanich",
+        "Pajaree Chariyavilaskul"
+    ],
+    "citedby-count": 10,
+    "ref-count": 26,
+    "ref-list": [
+        "PharmGKB: The pharmacogenetics and pharmacogenomics knowledge base",
+        "CPIC: Clinical pharmacogenetics implementation consortium of the pharmacogenomics research network",
+        "Characterization of 137 Genomic DNA reference materials for 28 pharmacogenetic genes: A GeT-RM collaborative project",
+        "Calling star alleles with stargazer in 28 pharmacogenes with whole genome sequences",
+        "Frequencies of clinically important CYP2C19 and CYP2D6 alleles are graded across Europe",
+        "Pharmacogenomic genotypes define genetic ancestry in patients and enable population-specific genomic implementation",
+        "Pharmacogenomics, ancestry and clinical decision making for global populations",
+        "The advantages and challenges of diversity in pharmacogenomics: Can minority populations bring us closer to implementation?",
+        "Prediction of CYP2D6 phenotype from genotype across world populations",
+        "NAT2 and CYP2E1 polymorphisms associated with antituberculosis drug-induced hepatotoxicity in Chinese patients",
+        "Association and clinical utility of NAT2 in the prediction of isoniazid-induced liver injury in Singaporean patients",
+        "Value of platelet pharmacogenetics in common clinical practice of patients with ST-segment elevation myocardial infarction",
+        "SLCO1B1 variants and statin-induced myopathy\u2014A genomewide study",
+        "The GenomeAsia 100K project enables genetic discoveries across Asia",
+        "Pharmacogenetic allele nomenclature: International workgroup recommendations for test result reporting",
+        "Genetic variation in the human cytochrome P450 supergene family",
+        "Frequency of CYP2D6 alleles including structural variants in the united states",
+        "An abundance of rare functional variants in 202 drug target genes sequenced in 14,002 people",
+        "Design and anticipated outcomes of the eMERGE-PGx project: A multicenter pilot for preemptive pharmacogenomics in electronic health record systems",
+        "Pharmacogenomics clinical annotation tool (PharmCAT)",
+        "Translating genotype data of 44,000 biobank participants into clinical pharmacogenetic recommendations: Challenges and solutions",
+        "Added value of clinical sequencing: WGS-based profiling of pharmacogenes",
+        "Genetic variation among 82 pharmacogenes: The PGRNseq data from the eMERGE network",
+        "Integrating rare genetic variants into pharmacogenetic drug response predictions",
+        "Bazam: A rapid method for read extraction and realignment of high-throughput sequencing data",
+        "The Ensembl variant effect predictor"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60023422",
+            "affilname": "Bangkok Hospital Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023422",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60020543",
+            "affilname": "Bumrungrad International Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020543",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Bumrungrad Hospital",
+        "Second Century Fund",
+        "Chulalongkorn University",
+        "National Science and Technology Development Agency",
+        "National Research Council of Thailand"
+    ]
+}

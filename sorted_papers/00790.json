@@ -1,0 +1,62 @@
+{
+    "eid": "2-s2.0-85047724032",
+    "title": "A study of vehicular desynchronization for platooning application",
+    "cover-date": "2018-05-15",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Beaconing",
+        "Desynchronization",
+        "IEEE 802.11p",
+        "Medium access control",
+        "Network simulation",
+        "Performance evaluation",
+        "Platooning",
+        "Vehicular Ad Hoc Network (VANET)"
+    ],
+    "authors": [
+        "Visatouch Deeying",
+        "Kiattikun Kawila",
+        "Kulit Na Nakorn",
+        "Kultida Rojviboonchai"
+    ],
+    "citedby-count": 0,
+    "ref-count": 14,
+    "ref-list": [
+        "How reaction time, update time, and adaptation time influence the stability of traffic flow",
+        "Platooning with ivc-enabled autonomous vehicles: Strategies to mitigate communication delays, improve safety and traffic flow",
+        "Ieee 802.11p: Towards an international standard for wireless access in vehicular environments",
+        "Evaluation of the ieee 802.11p mac method for vehicle-to-vehicle communication",
+        "Delay and interference comparison of csma and self-organizing tdma when used in vanets",
+        "Connectivity-aware medium access control in platoon-based vehicular ad hoc networks",
+        "A framework for reliable exchange of periodic and event-driven messages in platoons",
+        "A reliable token-based mac protocol for delay sensitive platooning applications",
+        "Desync: Self-organizing desynchronization and tdma on wireless sensor networks",
+        "V-desync: Desynchronization for beacon broadcasting on vehicular networks",
+        "The ns-3 network simulator modeling and tools for network simulation",
+        "Matplotlib: A 2d graphics environment",
+        "Convergence of desynchronization primitives in wireless sensor networks: A stochastic modeling approach"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

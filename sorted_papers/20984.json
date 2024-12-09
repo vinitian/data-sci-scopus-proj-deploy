@@ -1,0 +1,411 @@
+{
+    "eid": "2-s2.0-85133305339",
+    "title": "Gamma/hadron separation with the HAWC observatory",
+    "cover-date": "2022-09-11",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Nuclear and High Energy Physics",
+            "@code": "3106",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Crab Nebula",
+        "G/H separation",
+        "High energy",
+        "Machine Learning"
+    ],
+    "authors": [
+        "R. Alfaro",
+        "C. Alvarez",
+        "J. D. \u00c1lvarez",
+        "J. R. Angeles Camacho",
+        "J. C. Arteaga-Vel\u00e1zquez",
+        "D. Avila Rojas",
+        "H. A. Ayala Solares",
+        "R. Babu",
+        "E. Belmont-Moreno",
+        "C. Brisbois",
+        "K. S. Caballero-Mora",
+        "T. Capistr\u00e1n",
+        "A. Carrami\u00f1ana",
+        "S. Casanova",
+        "O. Chaparro-Amaro",
+        "U. Cotti",
+        "J. Cotzomi",
+        "S. Couti\u00f1o de Le\u00f3n",
+        "E. De la Fuente",
+        "C. de Le\u00f3n",
+        "R. Diaz Hernandez",
+        "B. L. Dingus",
+        "M. A. DuVernois",
+        "M. Durocher",
+        "J. C. D\u00edaz-V\u00e9lez",
+        "R. W. Ellsworth",
+        "K. Engel",
+        "C. Espinoza",
+        "K. L. Fan",
+        "M. Fern\u00e1ndez Alonso",
+        "N. Fraija",
+        "D. Garcia",
+        "J. A. Garc\u00eda-Gonz\u00e1lez",
+        "F. Garfias",
+        "M. M. Gonz\u00e1lez",
+        "J. A. Goodman",
+        "J. P. Harding",
+        "S. Hernandez",
+        "B. Hona",
+        "D. Huang",
+        "F. Hueyotl-Zahuantitla",
+        "P. H\u00fcntemeyer",
+        "A. Iriarte",
+        "A. Jardin-Blicq",
+        "V. Joshi",
+        "S. Kaufmann",
+        "G. J. Kunde",
+        "A. Lara",
+        "W. H. Lee",
+        "J. Lee",
+        "H. Le\u00f3n Vargas",
+        "J. T. Linnemann",
+        "G. Luis-Raya",
+        "J. Lundeen",
+        "K. Malone",
+        "V. Marandon",
+        "O. Martinez",
+        "J. Mart\u00ednez-Castro",
+        "J. A. Matthews",
+        "P. Miranda-Romagnoli",
+        "J. A. Morales-Soto",
+        "A. Nayerhoda",
+        "L. Nellen",
+        "M. U. Nisa",
+        "R. Noriega-Papaqui",
+        "L. Olivera-Nieto",
+        "N. Omodei",
+        "A. Peisker",
+        "Y. P\u00e9rez Araujo",
+        "E. G. P\u00e9rez-P\u00e9rez",
+        "C. D. Rho",
+        "D. Rosa-Gonz\u00e1lez",
+        "E. Ruiz-Velasco",
+        "H. Salazar",
+        "F. Salesa Greus",
+        "A. Sandoval",
+        "P. M. Saz Parkinson",
+        "J. Serna-Franco",
+        "A. J. Smith",
+        "R. W. Springer",
+        "O. Tibolla",
+        "K. Tollefson",
+        "I. Torres",
+        "R. Torres-Escobedo",
+        "R. Turner",
+        "F. Ure\u00f1a-Mena",
+        "L. Villase\u00f1or",
+        "X. Wang",
+        "I. J. Watson",
+        "F. Werner",
+        "E. Willox",
+        "J. Wood",
+        "A. Zepeda",
+        "H. Zhou"
+    ],
+    "citedby-count": 0,
+    "ref-count": 35,
+    "ref-list": [
+        "Extensive Air Showers: High Energy Phenomena and Astrophysical Aspects - A Tutorial, Reference Manual and Data Book",
+        "Separating \u03b3- and hadron-induced cosmic ray air showers with feed-forward neural networks using the charged particle information",
+        "Implementation of the random forest method for the imaging atmospheric Cherenkov telescope MAGIC",
+        "\u03b3/hadron separation in very-high-energy \u03b3-ray astronomy using a multivariate analysis method",
+        "Improved \u03b3/hadron separation for the detection of faint \u03b3-ray sources using boosted decision trees",
+        "A discrimination technique for extensive air showers based on multiscale, lacunarity and neural network analysis",
+        "Gamma Hadron separation using traditional single parameter method and multivariate algorithms with LHAASO-WCDA experiment",
+        "Sensitivity of the high altitude water Cherenkov detector to sources of multi-tev Gamma rays",
+        "Tev Gamma-ray sources from a survey of the Galactic plane with Milagro",
+        "Observation of TeV Gamma rays from the crab nebula with Milagro using a new background rejection technique",
+        "Data acquisition architecture and online processing system for the HAWC gamma-ray observatory",
+        "HAWC: Design, Operation, Reconstruction and Analysis",
+        "Observation of the crab nebula with the HAWC Gamma-ray observatory",
+        "Measurement of the crab nebula spectrum past 100 TeV with HAWC",
+        "Highlights from the high altitude water Cherenkov observatory",
+        "The lateral and the angular structure functions of electron showers",
+        "Gamma-Hadron separation methods for the VERITAS array of four imaging atmospheric cherenkov telescopes",
+        "GEANT4: A Simulation toolkit",
+        "the Crab Nebula",
+        "A survey of active galaxies at TeV photon energies with the HAWC Gamma-ray observatory",
+        "Daily monitoring of TeV Gamma-ray emission from Mrk 421, Mrk 501, and the crab nebula with HAWC",
+        "An introduction to ROC analysis",
+        "TOPICAL REVIEW: \u03b3/Hadron separation at TeV energies",
+        "Neural networks for gamma-hadron separation in MAGIC",
+        "The elements of statistical learning",
+        "Greedy function approximation: A gradient boosting machine.",
+        "Pattern Recognition and Machine Learning (Information Science and Statistics)",
+        "TMVA - Toolkit for multivariate data analysis",
+        "Learning from Data",
+        "Parameterized neural networks for high-energy physics",
+        "Use of machine learning for gamma/hadron separation with HAWC",
+        "3HWC: The third HAWC catalog of very-high-energy Gamma-ray sources",
+        "Classification without labels: learning from mixed samples in high energy physics",
+        "Convolutional neural networks for low energy Gamma-ray air shower identification with HAWC"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Mexico",
+            "@id": "60032442",
+            "affilname": "Universidad Nacional Aut\u00f3noma de M\u00e9xico",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032442",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "60006541",
+            "affilname": "The University of Hong Kong",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006541",
+            "affiliation-country": "Hong Kong"
+        },
+        {
+            "affiliation-city": "Chiangmai",
+            "@id": "60274668",
+            "affilname": "National Astronomical Research Institute of Thailand",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60274668",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Santa Cruz",
+            "@id": "60085982",
+            "affilname": "Santa Cruz Institute for Particle Physics",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60085982",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Albuquerque",
+            "@id": "60033021",
+            "affilname": "The University of New Mexico",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60033021",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Morelia",
+            "@id": "60032816",
+            "affilname": "Universidad Michoacana de San Nicol\u00e1s de Hidalgo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032816",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Madison",
+            "@id": "60032179",
+            "affilname": "University of Wisconsin-Madison",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032179",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "East Lansing",
+            "@id": "60031707",
+            "affilname": "Michigan State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031707",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Puebla",
+            "@id": "60030699",
+            "affilname": "Instituto Nacional de Astrofisica Optica y Electronica",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030699",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Seoul",
+            "@id": "60027652",
+            "affilname": "University of Seoul",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027652",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Krakow",
+            "@id": "60027337",
+            "affilname": "Henryk Niewodniczanski Institute of Nuclear Physics of the Polish Academy of Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027337",
+            "affiliation-country": "Poland"
+        },
+        {
+            "affiliation-city": "Pachuca",
+            "@id": "60027135",
+            "affilname": "Universidad Aut\u00f3noma del Estado de Hidalgo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027135",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Salt Lake City",
+            "@id": "60025488",
+            "affilname": "The University of Utah",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025488",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Shanghai",
+            "@id": "60025084",
+            "affilname": "Shanghai Jiao Tong University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025084",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Puebla",
+            "@id": "60024830",
+            "affilname": "Benemerita Universidad Autonoma de Puebla",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024830",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "College Park",
+            "@id": "60020304",
+            "affilname": "University of Maryland, College Park",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020304",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Mexico",
+            "@id": "60019176",
+            "affilname": "Instituto Polit\u00e9cnico Nacional",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019176",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Mexico",
+            "@id": "60017323",
+            "affilname": "Centro de Investigacion y de Estudios Avanzados del Instituto Polit\u00e9cnico Nacional",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017323",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Tuxtla Gutierrez",
+            "@id": "60016888",
+            "affilname": "Universidad Aut\u00f3noma de Chiapas",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016888",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Houghton",
+            "@id": "60016536",
+            "affilname": "Michigan Technological University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016536",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Heidelberg",
+            "@id": "60012804",
+            "affilname": "Max-Planck-Institut f\u00fcr Kernphysik",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012804",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Palo Alto",
+            "@id": "60012708",
+            "affilname": "Stanford University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012708",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Huntsville",
+            "@id": "60011779",
+            "affilname": "NASA Marshall Space Flight Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011779",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Guadalajara",
+            "@id": "60008943",
+            "affilname": "Universidad de Guadalajara",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008943",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Monterrey",
+            "@id": "60007966",
+            "affilname": "Tecnol\u00f3gico de Monterrey",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007966",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Mexico",
+            "@id": "60007179",
+            "affilname": "Instituto de Ciencias Nucleares de la UNAM",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007179",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Los Alamos",
+            "@id": "60006164",
+            "affilname": "Los Alamos National Laboratory",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006164",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Valencia",
+            "@id": "60002644",
+            "affilname": "Universitat de Val\u00e8ncia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002644",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "University Park",
+            "@id": "60001439",
+            "affilname": "Pennsylvania State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001439",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Erlangen",
+            "@id": "60000765",
+            "affilname": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000765",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Pachuca",
+            "@id": "114633736",
+            "affilname": "Universidad Politecnica de Pachuca",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/114633736",
+            "affiliation-country": "Mexico"
+        }
+    ],
+    "funding": [
+        "Big Data Project Fund",
+        "CUAASC",
+        "Chulalongkorn University's CUniverse",
+        "Chulalongkorn University\u2019s CUniverse",
+        "Coordinaci\u00f3n General Acad\u00e9mica e Innovaci\u00f3n",
+        "Coordinaci\u00f3n de la Investigaci\u00f3n Cient\u00edfica de la Universidad Michoacana",
+        "Institute of Geophysics",
+        "Planetary Physics",
+        "Polish Science Centre",
+        "US Department of Energy Office of High-Energy Physics",
+        "University of Wisconsin Alumni Research Foundation",
+        "VIEP-BUAP",
+        "US National Science Foundation",
+        "NASA",
+        "Laboratory Directed Research and Development",
+        "Los Alamos National Laboratory",
+        "Royal Society",
+        "UGC",
+        "CONACyT",
+        "Generalitat Valenciana",
+        "University of Tokyo",
+        "DGAPA-UNAM",
+        "General Research Fund",
+        "Hong Kong Government"
+    ]
+}

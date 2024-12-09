@@ -1,0 +1,81 @@
+{
+    "eid": "2-s2.0-85109297995",
+    "title": "The Accuracy of Continuous Glucose Monitoring in the Medical Intensive Care Unit",
+    "cover-date": "2022-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Internal Medicine",
+            "@code": "2724",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Endocrinology, Diabetes and Metabolism",
+            "@code": "2712",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Bioengineering",
+            "@code": "1502",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biomedical Engineering",
+            "@code": "2204",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "accuracy",
+        "continuous glucose monitoring",
+        "critical care",
+        "critically ill patients"
+    ],
+    "authors": [
+        "Wannita Tingsarat",
+        "Patinut Buranasupkajorn",
+        "Weerapan Khovidhunkit",
+        "Patchaya Boonchaya-anant",
+        "Nitchakarn Laichuthai"
+    ],
+    "citedby-count": 7,
+    "ref-count": 5,
+    "ref-list": [
+        "Association between intensive care unit-acquired dysglycemia and in-hospital mortality",
+        "Evaluation of nursing work effort and perceptions about blood glucose testing in tight glycemic control",
+        "The efficacy and safety of an insulin infusion protocol in a medical intensive care unit at a tertiary care hospital: A prospective study",
+        "Continuous glucose control in the ICU: report of a 2013 round table meeting",
+        "Computing the surveillance error grid analysis: Procedure and examples"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Rayong",
+            "@id": "101867798",
+            "affilname": "Rayong Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101867798",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Thai Red Cross Society",
+        "Medtronic",
+        "King Chulalongkorn Memorial Hospital"
+    ]
+}

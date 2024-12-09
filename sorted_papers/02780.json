@@ -1,0 +1,90 @@
+{
+    "eid": "2-s2.0-85078697310",
+    "title": "Performance analysis of a hyperledger fabric blockchain framework: Throughput, latency and scalability",
+    "cover-date": "2019-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "Blockchain",
+        "Hyperledger fabric",
+        "Latency",
+        "Throughput"
+    ],
+    "authors": [
+        "Murat Kuzlu",
+        "Manisa Pipattanasomporn",
+        "Levent Gurses",
+        "Saifur Rahman"
+    ],
+    "citedby-count": 122,
+    "ref-count": 28,
+    "ref-list": [
+        "Blockchain",
+        "Blockchain technology: Principles and applications",
+        "Blockbench: A framework for analyzing private blockchains",
+        "Performance analysis of private blockchain platforms in varying workloads",
+        "Performance analysis of hyperledger fabric platforms",
+        "Performance characterization of hyperledger fabric",
+        "Performance benchmarking and optimizing hyperledger fabric blockchain platform",
+        "Hyperledger fabric: A distributed operating system for permissioned blockchains",
+        "Performance modeling of hyperledger fabric (permissioned blockchain network)",
+        "Performance analysis of ethereum transactions in private blockchain",
+        "A comparative testing on performance of blockchain and relational database: Foundation for applying smart technology into current business systems",
+        "Analyzing the performance of A blockchain-based personal health record implementation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Blacksburg",
+            "@id": "60027090",
+            "affilname": "Virginia Polytechnic Institute and State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027090",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Norfolk",
+            "@id": "60007652",
+            "affilname": "Old Dominion University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007652",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Sterling",
+            "@id": "123829179",
+            "affilname": "Movel, Inc.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/123829179",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,99 @@
+{
+    "eid": "2-s2.0-85067124371",
+    "title": "Classifying attitudes of thai business organizations toward the perceived benefit of customer predictive analytics",
+    "cover-date": "2018-07-02",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Logic",
+            "@code": "2609",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Agglomerative",
+        "Business Organization",
+        "Data Classification",
+        "Decision Tree",
+        "K-means++",
+        "Predictive Analytics"
+    ],
+    "authors": [
+        "Santisook Limpeeticharoenchot",
+        "Nagul Cooharojananone",
+        "Thira Chavarnakul",
+        "Kanokwan Atchariyachanvanich"
+    ],
+    "citedby-count": 2,
+    "ref-count": 17,
+    "ref-list": [
+        "Big data, analytics and the path from insights to value",
+        "Innovating with analytics",
+        "Data-intensive applications, challenges, techniques and technologies: A survey on big data",
+        "Management challenges in creating value from business analytics",
+        "The role of big data and predictive analytics in retailing",
+        "A survey on open source data mining tools for smes",
+        "Developing the smes' innovative capacity using a big data approach",
+        "How can smes benefit from big data? Challenges and a path forward",
+        "Some methods for classification and analysis of multivariate observations",
+        "K-means++: The advantages of careful seeding",
+        "Silhouettes: A graphical aid to the interpretation and validation of cluster analysis",
+        "How small businesses can mine big data",
+        "Exploratory study of smes technology adoption readiness factors",
+        "A new hybrid classification algorithm for customer churn prediction based on logistic regression and decision trees"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199583",
+            "affilname": "Chulalongkorn Business School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199583",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ladkrabang Bangkok",
+            "@id": "60021543",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021543",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

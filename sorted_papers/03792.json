@@ -1,0 +1,96 @@
+{
+    "eid": "2-s2.0-85047155505",
+    "title": "Modelling and electrical characteristics of the Thailand plasma focus-II (TPF-II)",
+    "cover-date": "2018-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Multidisciplinary",
+            "@code": "1000",
+            "@abbrev": "MULT"
+        }
+    ],
+    "keywords": [
+        "Lee model code",
+        "Pinch phase",
+        "Plasma focus",
+        "Plasma sheath",
+        "Short-circuit test"
+    ],
+    "authors": [
+        "Arlee Tamman",
+        "Mudtorlep Nisoa",
+        "Boonchoat Paosawatyanyong",
+        "Dheerawan Boonyawan",
+        "Nopporn Poolyarat",
+        "Thawatchai Onjun"
+    ],
+    "citedby-count": 1,
+    "ref-count": 20,
+    "ref-list": [
+        "New trends and future perspectives on plasma focus research",
+        "Scientific status of plasma focus research",
+        "Preliminary numerical study of Thailand Plasma Focus II (TPF-II) design",
+        "Determination of the total inductance of TPF-I",
+        "Ion beam measurement using Rogowski coils in a hundred of joules dense plasma focus device",
+        "Angular distribution of ion beam emitted from a 3.5 kJ plasma focus device using different shapes of anodes",
+        "Common features of particle beams and x-rays generated in a low energy dense plasma focus device",
+        "Preliminary results of Kansas State University dense plasma focus",
+        "Short circuit tests on a 150 kJ, 1 Hz repetitive plasma focus",
+        "Scaling laws for plasma focus machines from numerical experiments",
+        "Comparative study of neutron emission from a plasma focus device using two different anode shapes",
+        "Soft X-ray optimization studies on a dense plasma focus device operated in neon and argon in repetitive mode",
+        "Ion beam emission in a low energy plasma focus device operating with methane",
+        "Effect of the insulator length on Mather-type plasma focus devices",
+        "Insulator length effects in Mather: Type plasma focus device",
+        "An energy-consistent snow-plough model for pinch design",
+        "Numerical experiments providing new insights into plasma focus fusion devices",
+        "Plasma focus radiative model: Review of the Lee Model Code",
+        "Neutron emission characteristics of NX-3 plasma focus device: Speed factor as the guiding rule for yield optimization"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tha Sala",
+            "@id": "60026526",
+            "affilname": "Walailak University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026526",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60012521",
+            "affilname": "Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012521",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011220",
+            "affilname": "Sirindhorn International Institute of Technology, Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011220",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chaing Mai",
+            "@id": "60000881",
+            "affilname": "Chiang Mai University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000881",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Government Annual Research Budget",
+        "Chiang Mai University",
+        "Chulalongkorn University",
+        "SAST",
+        "Thammasat University",
+        "Walailak University"
+    ]
+}

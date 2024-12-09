@@ -1,0 +1,66 @@
+{
+    "eid": "2-s2.0-85075983230",
+    "title": "Traffic prediction using attentional spatial-temporal deep learning with accident embedding",
+    "cover-date": "2019-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Accidents",
+        "Autoencoder",
+        "Convolutional neural networks",
+        "Long short-term memory",
+        "Monotonic attention",
+        "Traffic prediction"
+    ],
+    "authors": [
+        "Wanida Liyong",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 2,
+    "ref-count": 22,
+    "ref-list": [
+        "Long short-term memory neural network for traffic speed prediction using remote microwave sensor data",
+        "Predicting short-term traffic flow by long short-term memory recurrent neural network",
+        "Relationship between congestion and traffic accidents on expressways: An investigation with Bayesian belief networks",
+        "Deep learning: A generic approach for extreme condition traffic forecasting",
+        "Impact of traffic event prediction based on time series prediction",
+        "Attention is all you need",
+        "Traffic flow prediction with big data: A deep learning approach",
+        "Spatiotemporal recurrent convolutional networks for traffic prediction in transportation networks",
+        "Long-term mobile traffic forecasting using deep spatio-temporal neural networks",
+        "Engineering extreme event forecasting at uber with recurrent neural networks",
+        "Improve traffic prediction using accident embedding on ensemble deep neural networks",
+        "Online and linear-time attention by enforcing monotonic alignments",
+        "Pearson correlation coefficient"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Foundation and Metamedia Technology Company Limited",
+        "ITIC",
+        "Intelligent Traffic Information Center"
+    ]
+}

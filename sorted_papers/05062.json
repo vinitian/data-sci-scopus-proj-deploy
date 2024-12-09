@@ -1,0 +1,94 @@
+{
+    "eid": "2-s2.0-85082690233",
+    "title": "McBel-Plnc: A deep learning model for multiclass multilabel classification of protein-lncRNA interactions",
+    "cover-date": "2019-11-13",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Deep learning model",
+        "LncRNA",
+        "Machine learning",
+        "Multiclass multilabel classification",
+        "RBP-lncRNA interactions",
+        "RNA-binding protein"
+    ],
+    "authors": [
+        "Natsuda Navamajiti",
+        "Thammakorn Saethang",
+        "Duangdao Wichadakul"
+    ],
+    "citedby-count": 2,
+    "ref-count": 29,
+    "ref-list": [
+        "The human transcriptome: An unfinished story",
+        "Evolution and functions of long noncoding rnas",
+        "Molecular mechanisms of long noncoding rnas",
+        "Basic biology and therapeutic implications of lncRNA",
+        "NPInter v2.0: An updated database of ncRNA interactions",
+        "Scaffold function of long non-coding RNA HOTAIR in protein ubiquitination",
+        "Long non-coding RNAs: Spatial amplifiers that control nuclear structure and gene expression",
+        "Long non-coding RNAs and complex diseases: From experimental results to computational models",
+        "Revealing protein-lncRNA interaction",
+        "PAR-CLIP (Photoactivatable Ribonucleoside-Enhanced Crosslinking and Immunoprecipitation): A Step-By-Step Protocol to the Transcriptome-Wide Identification of Binding Sites of RNABinding Proteins",
+        "ICLIP: Protein-RNA interactions at nucleotide resolution",
+        "POSTAR2: Deciphering the post-Transcriptional regulatory logics",
+        "RpiCOOL: A tool for in Silico RNA-protein interaction detection using random forest",
+        "Predicting RNA-Protein Interactions Using only Sequence Information",
+        "Deep learning",
+        "Predicting effects of noncoding variants with deep learning-based sequence model",
+        "Sequence-Based Prediction of RNABinding Proteins Using. Random Forest with Minimum Redundancy Maximum Relevance Feature Selection",
+        "Predicting RNA-protein binding sites and motifs through combining local and global deep convolutional neural networks",
+        "DanQ: A hybrid convolutional and recurrent deep neural network for quantifying the function of DNA sequences",
+        "Protein complex scaffolding predicted as a prevalent function of long non-coding RNAs",
+        "PARalyzer: Definition of RNA binding sites from PAR-CLIP short-read sequence data",
+        "GENCODE : the reference human genome annotation for the ENCODE Project",
+        "GENCODE: Producing a reference annotation for ENCODE",
+        "CD-HIT: Accelerated for clustering the next-generation sequencing data",
+        "Understanding the difficulty of training deep feedforward neural networks",
+        "Focal Loss for Dense Object Detection. Proceedings of the",
+        "Comparative evaluation of four multi-label classification algorithms in classifying learning objects",
+        "Discriminative Methods for Multi-labeled Classification",
+        "STRING v10: Protein-protein interaction networks, integrated over the tree of life"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60021944",
+            "affilname": "Kasetsart University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021944",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

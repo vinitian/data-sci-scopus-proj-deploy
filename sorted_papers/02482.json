@@ -1,0 +1,64 @@
+{
+    "eid": "2-s2.0-85073334860",
+    "title": "Performance of network-based RTK GNSS for the cadastral survey in Thailand",
+    "cover-date": "2019-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Geography, Planning and Development",
+            "@code": "3305",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Earth and Planetary Sciences (miscellaneous)",
+            "@code": "1901",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "T. Charoenkalunyuta",
+        "C. Satirapod",
+        "V. Keitniyomrung",
+        "P. Yomwan"
+    ],
+    "citedby-count": 9,
+    "ref-count": 21,
+    "ref-list": [
+        "CUUT: A Prelimary Data Analysis at the Newmulti-GNSS CORS Station",
+        "Accuracy Assessment of Real-Time Kinematic GPS Surveying Using the First Virtual Reference Station (VRS) Network in Thailand: Initial Test Results",
+        "Effect of Thai Ionospheric Maps (THIM) Model on the Performance Of Network Based RTK GPS in Thailand",
+        "Performance of Network-Based RTK GPS in Low-Latitude Region: A Case Study in Thailand",
+        "An Investigation of the Effect of Ionospheric Models on the Performance of Network-based RTK GPS in Thailand",
+        "Network Real Time Kinematic (NRTK) Positioning\u2013Description, Architectures and Performances",
+        "Can RTK GPS be used to Improve Cadastral Infrastructure?",
+        "Alternatives to Current GPS-RTK Services and Some Implications for CORS Infrastructure and Operations",
+        "Contribution of GNSS CORS Infrastructure to the Mission of Modern Geodesy and Status of GNSS CORS in Thailand"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60001796",
+            "affilname": "Thailand Ministry of Interior",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001796",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Department of Lands"
+    ]
+}

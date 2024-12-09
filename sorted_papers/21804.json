@@ -1,0 +1,86 @@
+{
+    "eid": "2-s2.0-85164275930",
+    "title": "Load Balancing in Multi Depot Pickup and Delivery Problem with Ant Colony Optimization",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Strategy and Management",
+            "@code": "1408",
+            "@abbrev": "BUSI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Ant Colony Optimization",
+        "capacity constraint",
+        "Multi Depot Pickup and Delivery Problem",
+        "shortest routes",
+        "workload balancing"
+    ],
+    "authors": [
+        "Teerawat Indravattana",
+        "Teerapol Silawan"
+    ],
+    "citedby-count": 0,
+    "ref-count": 14,
+    "ref-list": [
+        "The Truck Dispatching Problem",
+        "A survey on pickup and delivery problems",
+        "Vehicle routing problem and related algorithms for logistics distribution: A literature review and classification",
+        "Traveling salesman should not be greedy: Domination analysis of greedy-type heuristics for the TSP",
+        "A Method for Solving Traveling-Salesman Problems",
+        "A taxonomic review of metaheuristic algorithms for solving the vehicle routing problem and its variants",
+        "Optimisation of the multi-depots pick-up and delivery problems with time windows and multi-vehicles using PSO algorithm",
+        "Collaborative multi-depot pickup and delivery vehicle routing problem with split loads and time windows",
+        "Ant Colony Optimization: Overview and Recent Advances",
+        "Ant colony optimization: Introduction and recent trends",
+        "Positive Feedback as a Search Strategy",
+        "Ant Colony Optimization for Multiple Pickup and Multiple Delivery Vehicle Routing Problem with Time Window and Heterogeneous Fleets",
+        "Multi-objective vehicle routing problems",
+        "A concise guide to existing and emerging vehicle routing problem variants"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

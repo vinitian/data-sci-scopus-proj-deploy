@@ -1,0 +1,60 @@
+{
+    "eid": "2-s2.0-85088383072",
+    "title": "Locomotion generation for a mobile manipulator by global minimization of the weighted generalized momentum",
+    "cover-date": "2020-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "dynamics",
+        "Motion planning",
+        "optimization",
+        "redundant robots"
+    ],
+    "authors": [
+        "Phongsaen Pitakwatchara"
+    ],
+    "citedby-count": 0,
+    "ref-count": 22,
+    "ref-list": [
+        "Structural properties and classification of kinematic and dynamic models of wheeled mobile robots",
+        "Effects of suppressing arm swing on kinematics, kinetics, and energetics of human walking",
+        "The effects of step width and arm swing on energetic cost and lateral balance during running",
+        "Automatic supervisory control of the configuration and behavior of multibody mechanisms",
+        "A closed-form solution for inverse kinematics of robot manipulators with redundancy",
+        "A solution algorithm to the inverse kinematic problem for redundant manipulators",
+        "Task-priority based redundancy control of robot manipulators",
+        "Time-energy optimal control of articulated systems with geometric path constraints",
+        "Global versus local optimization in redundancy resolution of robotic manipulators",
+        "Optimal redundancy control of robotic manipulators",
+        "Trajectory generation for unmanned aerial manipulators through quadratic programming",
+        "Stabilization of constraints and integrals of motion in dynamical systems",
+        "On contraction analysis for nonlinear systems",
+        "On partial contraction analysis for coupled nonlinear oscillators"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

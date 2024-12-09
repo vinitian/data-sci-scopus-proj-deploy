@@ -1,0 +1,57 @@
+{
+    "eid": "2-s2.0-85062100230",
+    "title": "State-space model estimation of EEG time series for classifying active brain sources",
+    "cover-date": "2019-01-10",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biomedical Engineering",
+            "@code": "2204",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Electroencephalography (EEG)",
+        "Group lasso",
+        "Subspace identification"
+    ],
+    "authors": [
+        "Nattaporn Plub-In",
+        "Jitkomut Songsiri"
+    ],
+    "citedby-count": 3,
+    "ref-count": 16,
+    "ref-list": [
+        "EEG source imaging",
+        "Modeling sparse connectivity between underlying brain sources for EEG/MEG",
+        "Measuring directional coupling between EEG sources",
+        "Estimation of cortical connectivity from EEG using state-space models",
+        "Modeling effective connectivity in high-dimensional cortical source signals",
+        "A generalized multivariate autoregressive (GMAR)-based approach for EEG source connectivity analysis",
+        "Analytic expansion of the EEG lead field for realistic volume conductors",
+        "Proximal algorithms",
+        "A simulation framework for benchmarking EEG-based brain connectivity estimation methodologies",
+        "Brainstorm: A user-friendly application for MEG/EEG analysis",
+        "Granger causality for state-space models"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

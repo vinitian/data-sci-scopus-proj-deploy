@@ -1,0 +1,67 @@
+{
+    "eid": "2-s2.0-85090266576",
+    "title": "Enabling Live Migration of Containerized Applications Across Clouds",
+    "cover-date": "2020-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "cloud computing",
+        "containers",
+        "live migration"
+    ],
+    "authors": [
+        "Thad Benjaponpitak",
+        "Meatasit Karakate",
+        "Kunwadee Sripanidkulchai"
+    ],
+    "citedby-count": 10,
+    "ref-count": 45,
+    "ref-list": [
+        "Live migration of virtual machines",
+        "Linux-cr: Transparent application checkpoint-restart in linux",
+        "Migrating linux containers using criu",
+        "Cost of virtual machine live migration in clouds: A performance evaluation",
+        "Checkpoint and restore of micro-service in docker containers",
+        "Cloud-net: Dynamic pooling of cloud resources by live wan migration of virtual machines",
+        "Pacer: A progress management system for live virtual machine migration in cloud computing",
+        "Performance evaluation of container-based virtualization for high performance computing environments",
+        "To docker or not to docker: A security perspective",
+        "Docker ecosystem-vulnerability analysis",
+        "Portability and interoperability between clouds: Challenges and case study",
+        "Fog computing for the internet of mobile things: Issues and challenges",
+        "Process migration",
+        "A survey of checkpoint/restart implementations",
+        "Containers checkpointing and live migration",
+        "CRAK: Linux checkpoint/restart as a kernel module",
+        "Virtualization in linux",
+        "The design and implementation of zap: A system for migrating computing environments",
+        "DMTCP: Transparent checkpointing for cluster computations and the desktop",
+        "Docker: A software as a service, operating system-level virtualization framework",
+        "Voyager: Complete container state migration",
+        "Autonomic vertical elasticity of docker containers with elasticdocker",
+        "COMMA: Coordinating the migration of multi-tier applications",
+        "Follow the sun through the clouds: Application migration for geographically shifting workloads",
+        "Microservices: Architecting for continuous delivery and devops",
+        "MIGRATE: Towards a lightweight moving-target defense against cloud side-channels"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

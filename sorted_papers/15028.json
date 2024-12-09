@@ -1,0 +1,62 @@
+{
+    "eid": "2-s2.0-85002650784",
+    "title": "Efficient task scheduling based on theoretical scheduling pattern constrained on single I/O port collision avoidance",
+    "cover-date": "2016-09-01",
+    "subject-areas": [
+        {
+            "$": "Hardware and Architecture",
+            "@code": "1708"
+        },
+        {
+            "$": "Modeling and Simulation",
+            "@code": "2611"
+        },
+        {
+            "$": "Software",
+            "@code": "1712"
+        }
+    ],
+    "keywords": [
+        "DAG scheduling",
+        "I/O port collision",
+        "Task graph",
+        "Task scheduling"
+    ],
+    "authors": [
+        "Waralak Chongdarakul"
+    ],
+    "citedby-count": 9,
+    "ref-count": 28,
+    "ref-list": [
+        "ASIC Design in the Silicon Sandbox: A Complete Guide to Building Mixed-Signal Integrated Circuits",
+        "Service scheduling and rescheduling in an applications integration framework",
+        "LDBS: A duplication based scheduling algorithm for heterogeneous computing systems",
+        "Performance-effective and low-complexity task scheduling for heterogeneous computing",
+        "Genetic algorithm for DAG scheduling in Grid environments",
+        "An Improved Task Scheduling Algorithm for Heterogeneous Systems",
+        "A realistic model and an efficient heuristic for scheduling with heterogeneous processors",
+        "A practical model of parallel computation",
+        "Toward a realistic task scheduling model",
+        "Contention-aware scheduling with task duplication",
+        "Scheduling for independent-task applications on heterogeneous parallel computing environments under the unidirectional one-port model",
+        "Scheduling algorithms for linear workflow optimization",
+        "Int. J. Inf. Educ. Technol.",
+        "A near lower-bound complexity algorithm for compile-time task-scheduling in heterogeneous computing systems",
+        "A priority-based task scheduling algorithm in grid",
+        "An improved duplication strategy for scheduling precedence constrained graphs in multiprocessor systems",
+        "Proceedings of Workshop on Planning for Web Services",
+        "WSC-08: Continuing the web services challenge",
+        "Web services orchestration and choreography",
+        "Connectivity and inference problems for temporal networks",
+        "Clustering wireless ad hoc networks with weakly connected dominating set",
+        "Source-level execution time estimation of C programs",
+        "Qualcomm Technologies Inc. Qualcomm Snapdragon 410 Processor APQ8016 Device Specification",
+        "Task execution time modeling for heterogeneous computing systems"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "affilname": "Chulalongkorn University",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

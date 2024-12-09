@@ -1,0 +1,85 @@
+{
+    "eid": "2-s2.0-85066477848",
+    "title": "Computation of three-finger grasping plane",
+    "cover-date": "2018-07-02",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Automotive Engineering",
+            "@code": "2203",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Grasp Approach Direction",
+        "Grasp Planning",
+        "Grasping Plane",
+        "Robot Grasping",
+        "Three-Finger Grasping"
+    ],
+    "authors": [
+        "Kirati Poonwattanachai",
+        "Nattee Niparnan",
+        "Attawith Sudsang"
+    ],
+    "citedby-count": 0,
+    "ref-count": 22,
+    "ref-list": [
+        "Lessons from the amazon picking challenge: Four aspects of building robotic systems",
+        "Computation of independent contact regions for grasping 3-d objects",
+        "On computing three-finger force-closure grasps of polygonal objects",
+        "Planning optimal independent contact regions for twofingered force-closure grasp of a polygon",
+        "A system for planning and executing two-finger force-closure grasps of curved 2d objects",
+        "Caging rigid polytopes via finger dispersion control",
+        "From caging to grasping",
+        "Problems on polytopes and convex sets",
+        "Decentralized algorithms for multi-robot manipulation via caging",
+        "Measurement framework of partial cage quality",
+        "Grasp planning via decomposition trees",
+        "Hand posture subspaces for dexterous robotic grasping",
+        "Graspit! a versatile simulator for robotic grasping",
+        "A positive pressure universal gripper based on the jamming of granular material",
+        "A novel type of compliant and underactuated robotic hand for dexterous grasping",
+        "On the existence and synthesis of multifinger positive grips",
+        "On computing three-finger forceclosure grasps of polygonal objects",
+        "The kit object models database: An object model database for object recognition, localization and manipulation in service robotics"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

@@ -1,0 +1,101 @@
+{
+    "eid": "2-s2.0-85075640206",
+    "title": "Collision-Slots Skipping Based Binary Tree Anti-Collision Algorithm for RFID",
+    "cover-date": "2019-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Aerospace Engineering",
+            "@code": "2202",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Automotive Engineering",
+            "@code": "2203",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "collision",
+        "RFID",
+        "slot-skipping",
+        "tree algorithm"
+    ],
+    "authors": [
+        "Robithoh Annur",
+        "Norazira A. Jalil",
+        "Suvit Nakpeerayuth",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 1,
+    "ref-count": 16,
+    "ref-list": [
+        "ALOHA packet system with and without slots and capture",
+        "Bayesian method of slotted aloha based anti-collision protocol for RFID systems",
+        "Energy efficient tag estimation method for ALOHA-based RFID systems",
+        "A collision resolution algorithm for RFID using modified dynamic tree with Bayesian tag estimation",
+        "Treebased anti-collision algorithm with single error bit tracking for RFID systems",
+        "Tree algorithms for packet broadcast channels",
+        "Free synchronous packet access in a broadcast channel with feedback",
+        "Q-ary collision resolution algorithms in random-access systems with free or blocked channel access",
+        "A collision resolution protocol for random access channels with energy detectors",
+        "Tree-based multiaccess protocols where collision multiplicities are known",
+        "Anticollision protocols for single-reader RFID systems: Temporal analysis and optimization",
+        "Binary tree slotted ALOHA for passive RFID tag anticollision",
+        "Improvement of anti-collision performance for the iso 18000-6 type b RFID system"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Kajang",
+            "@id": "60090708",
+            "affilname": "Universiti Tunku Abdul Rahman",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60090708",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

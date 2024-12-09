@@ -1,0 +1,120 @@
+{
+    "eid": "2-s2.0-85066155098",
+    "title": "Pedestrian Detection by Using Weighted Channel Features with Hierarchical Region Reduction",
+    "cover-date": "2019-06-15",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Appearance-based classification",
+        "Object detection",
+        "Partially occluded pedestrian detection",
+        "Pedestrian detection"
+    ],
+    "authors": [
+        "Wittawin Susutti",
+        "Chidchanok Lursinsap",
+        "Peraphon Sophatsathit"
+    ],
+    "citedby-count": 4,
+    "ref-count": 50,
+    "ref-list": [
+        "Monocular pedestrian detection: survey and experiments",
+        "Pedestrian protection systems: issues, survey, and challenges",
+        "The visual analysis of human movement: a survey",
+        "Survey of pedestrian detection for advanced driver assistance systems",
+        "Ten years of pedestrian detection, what have we learned?",
+        "Detecting pedestrians using patterns of motion and appearance",
+        "Human detection using oriented histograms of flow and appearance",
+        "Monocular pedestrian recognition using motion parallax",
+        "A low-cost pedestrian-detection system with a single optical camera",
+        "Pedestrian detection for driving assistance systems: Single-frame classification and system level performance",
+        "Multi-cue pedestrian detection and tracking from a moving vehicle",
+        "Stereo-based pedestrian detection for collision-avoidance applications",
+        "Dynamic 3d scene analysis from a moving vehicle",
+        "Pedestrian detection for driver assistance using multiresolution infrared vision",
+        "Real-time pedestrian detection and tracking at night time for driver-assistance systems",
+        "Histograms of oriented gradients for human detection",
+        "A comparative study of texture measures with classification based on featured distributions",
+        "Region covariance: A fast descriptor for detection and classification",
+        "An experimental study on pedestrian classification",
+        "An adaptable time-delay neural-network algorithm for image sequence analysis",
+        "Multi-cue pedestrian classification with partial occlusion handling",
+        "Exploring weak stabilization for motion feature extraction",
+        "A multilevel mixture-of-experts framework for pedestrian classification",
+        "Trainable classifier-fusion schemes: An application to pedestrian detection",
+        "Part-based object detection using cascades of boosted classifiers",
+        "Fast human detection using a cascade of histograms of oriented gradients",
+        "Multiple component learning for object detection",
+        "People detection in image and video data",
+        "Example-based object detection in images by components",
+        "A discriminatively trained, multiscale, deformable part model",
+        "A discriminative deep model for pedestrian detection with occlusion handling",
+        "Part-based feature synthesis for human detection",
+        "Pedestrian detection by probabilistic component assembly",
+        "Detection of multiple, partially occluded humans in a single image by bayesian combination of edgelet part detectors",
+        "An HOG-LBP Human detector with partial occlusion handling",
+        "Multiresolution models for object detection",
+        "Robust multi-resolution pedestrian detection in traffic scenes",
+        "Single-pedestrian detection aided by multi-pedestrian detection",
+        "Joint deep learning for pedestrian detection",
+        "Handling occlusions with franken-classifiers",
+        "Pedestrian detection: an evaluation of the state of the art",
+        "Fast feature pyramids for object detection",
+        "Robust real-time face detection",
+        "Pedestrian detection with spatially pooled features and structured ensemble learning",
+        "Local decorrelation for improved pedestrian detection",
+        "Switchable deep network for pedestrian detection",
+        "Quickly boosting decision trees-pruning underachieving features early",
+        "Taking a deeper look at pedestrians",
+        "Filtered channel features for pedestrian detection",
+        "Pedestrian detection inspired by appearance constancy and shape symmetry"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Office of the Higher Education Commission",
+        "Thailand Research Fund",
+        "Ministry of Education"
+    ]
+}

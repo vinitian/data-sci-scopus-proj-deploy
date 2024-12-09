@@ -1,0 +1,90 @@
+{
+    "eid": "2-s2.0-85111885203",
+    "title": "Travel time reliability-based optimization problem for CAVs dedicated lanes",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Transportation",
+            "@code": "3313",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Connected autonomous vehicles (CAVs)",
+        "mixed traffic flow",
+        "stochastic lane capacity",
+        "travel time reliability"
+    ],
+    "authors": [
+        "Ryuichi Tani",
+        "Agachai Sumalee",
+        "Kenetsu Uchida"
+    ],
+    "citedby-count": 8,
+    "ref-count": 40,
+    "ref-list": [
+        "Two-Phase Stochastic Program for Transit Network Design Under Demand Uncertainty",
+        "A Mixed User-Equilibrium and System-Optimal Traffic Flow for Connected Vehicles Stated as a Complementarity Problem",
+        "Optimal Design of Autonomous Vehicle Zones in Transportation Networks",
+        "Optimal Deployment of Autonomous Vehicle Lanes with Endogenous Market Penetration",
+        "Capacity Related Reliability for Transportation Networks",
+        "Capacity Reliability of a Road Network: An Assessment Methodology and Numerical Results",
+        "The \u03b1-reliable Mean-Excess Traffic Equilibrium Model with Stochastic Travel Times",
+        "Modelling Network Travel Time Reliability Under Stochastic Demand",
+        "Using a Simulated Annealing Algorithm to Solve the Transit Route Network Design Problem",
+        "The sum of Lognormal Probability Distributions in Scatter Transmission Systems",
+        "A Simulated Annealing Approach to the Network Design Problem with Variational Inequality Constraint",
+        "A Continuous Equilibrium Network Design Model and Algorithm for Transit Systems",
+        "Cooperative Platoon Control for a Mixed Traffic Flow Including Human Drive Vehicles and Connected and Autonomous Vehicles",
+        "On a Formula for the Product-Moment Coefficient of Any Order of a Normal Frequency Distribution in Any Number of Variables",
+        "Modelling Impacts of Adverse Weather Conditions on a Road Network with Uncertainties in Demand and Supply",
+        "An Algorithm for the Discrete Network Design Problem",
+        "Effects of Autonomous Vehicle Ownership on Trip, Mode, and Route Choice",
+        "A Multiclass Cell Transmission Model for Shared Human and Autonomous Vehicle Roads",
+        "An Efficient Method for Computing Traffic Equilibria in Networks with Asymmetric Transportation Costs",
+        "Endogenous Market Penetration Dynamics of Automated and Connected Vehicles: Transport-Oriented Model and Its Paradox",
+        "A Reliability-Based Stochastic Traffic Assignment Model for Network with Multiple User Classes Under Uncertainty in Demand",
+        "Finding Most Reliable Paths on Networks with Correlated and Shifted Lognormal Travel Times",
+        "Network Capacity Reliability Analysis Considering Traffic Regulation After a Major Disaster",
+        "First-Best Marginal Cost Toll for a Traffic Network with Stochastic Demand",
+        "A Stochastic User Equilibrium Assignment Model Under Stochastic Demand and Supply Following Lognormal Distributions",
+        "Estimating the Value of Travel Time and of Travel Time Reliability in Road Networks",
+        "Travel Time Reliability Estimation Model Using Observed Link Flows in a Road Network",
+        "A Stochastic Multimodal Reliable Network Design Problem Under Adverse Weather Conditions",
+        "Autonomous Cars and Dynamic Bottleneck Congestion: The Effects on Capacity, Value of Time and Preference Heterogeneity",
+        "Multiclass Traffic Assignment Model for Mixed Traffic Flow of Human-Driven Vehicles and Connected and Autonomous Vehicles",
+        "Multiple Equilibrium Behaviors and Advanced Traveller Information Systems with Endogenous Market Penetration",
+        "Stackelberg Games and Multiple Equilibrium Behaviors on Networks",
+        "Impact of Dedicated Lanes for Connected and Autonomous Vehicle on Traffic Flow Throughput",
+        "Mitigating the Impact of Selfish Routing: An Optimal-Ratio Control Scheme (ORCS) Inspired by Autonomous Driving",
+        "Solving a Discrete Multimodal Transportation Network Design Problem",
+        "The Propagation of Uncertainty Through Travel Demand Models: An Exploratory Analysis",
+        "Comparative Analysis of Three User Equilibrium Models Under Stochastic Demand"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Sapporo",
+            "@id": "60014652",
+            "affilname": "Hokkaido University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014652",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "JSPS"
+    ]
+}

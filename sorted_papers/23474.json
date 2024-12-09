@@ -1,0 +1,87 @@
+{
+    "eid": "2-s2.0-85114157595",
+    "title": "Syllablebased Neural Thai Word Segmentation",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Pattarawat Chormai",
+        "Ponrawee Prasertsom",
+        "Jin Cheevaprawatdomrong",
+        "Attapol T. Rutherford"
+    ],
+    "citedby-count": 9,
+    "ref-count": 30,
+    "ref-list": [
+        "Thai National Corpus: A Progress Report",
+        "Collocation and thai word segmentation",
+        "Thoughts on word and sentence segmentation in Thai",
+        "Random search for hyperparameter optimization",
+        "Thai Word Segmentation with Hidden Markov Model and Decision Tree",
+        "Show your work: Improved reporting of experimental results",
+        "Adam: A method for stochastic optimization",
+        "Long shortterm memory for Japanese word segmentation",
+        "MultiCandidate Word Segmentation using Bidirectional LSTM Neural Networks",
+        "State-of-the-art Chinese word segmentation with biLSTMs",
+        "Did the model understand the question?",
+        "Chinese and Japanese word segmentation using wordlevel and characterlevel information",
+        "Pytorch: An imperative style, highperformance deep learning library",
+        "Scikitlearn: Machine learning in Python",
+        "ORCHID: Thai partofspeech tagged corpus",
+        "Word segmentation for Thai in machine translation system",
+        "Fast and accurate entity recognition with iterated dilated convolutions",
+        "Axiomatic attribution for deep networks",
+        "Nondictionarybased Thai word segmentation using decision trees",
+        "Character cluster based thai information retrieval",
+        "Characterlevel convolutional networks for text classification"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Leipzig",
+            "@id": "60025323",
+            "affilname": "Max Planck Institute for Human Cognitive and Brain Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025323",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Berlin",
+            "@id": "60011604",
+            "affilname": "Technische Universit\u00e4t Berlin",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011604",
+            "affiliation-country": "Germany"
+        }
+    ],
+    "funding": [
+        "Special Task Force for Activating Research",
+        "BMBF",
+        "Chulalongkorn university",
+        "Max Planck Society",
+        "Thailand Research Fund"
+    ]
+}

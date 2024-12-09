@@ -1,0 +1,72 @@
+{
+    "eid": "2-s2.0-85086238462",
+    "title": "Tolerance and Control Solutions of Two-Sided Interval Linear System and Their Applications",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mathematics (all)",
+            "@code": "2600",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Control solution",
+        "Interval linear system",
+        "Tolerance solution"
+    ],
+    "authors": [
+        "Worrawate Leela-apiradee",
+        "Phantipa Thipwiwatpotjana",
+        "Artur Gorka"
+    ],
+    "citedby-count": 1,
+    "ref-count": 13,
+    "ref-list": [
+        "Solving interval linear systems with linear programming techniques",
+        "Zur l\u00f6sung linearer ungleichungssysteme bei st\u00f6rimg der rechten seite und der koeffizientenmatrix",
+        "Weak and strong solvability of interval linear systems of equations and inequalities",
+        "New characterizations of tolerance-control and localized solutions to interval system of linear equations",
+        "Compatibility of approximate solution of linear equations with given error bounds for coeficients and right-hand sides",
+        "Checking solvability of systems of interval linear equations and inequalities via mixed integer programming",
+        "On controlled solution set of interval algebraic systems",
+        "Tolerance-control solutions to interval linear equations"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Rayong",
+            "@id": "60272485",
+            "affilname": "Kamnoetvidya Science Academy",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60272485",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Due West",
+            "@id": "60027259",
+            "affilname": "Erskine College",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027259",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60012521",
+            "affilname": "Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012521",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

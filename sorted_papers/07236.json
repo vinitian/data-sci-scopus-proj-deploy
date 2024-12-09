@@ -1,0 +1,76 @@
+{
+    "eid": "2-s2.0-85096897814",
+    "title": "SEISMIC RESPONSE OF DETERIORATED RESIDENTIAL RC BUILDINGS IN THE NORTHEASTERN REGION OF THAILAND",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Environmental Engineering",
+            "@code": "2305",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Building and Construction",
+            "@code": "2215",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geotechnical Engineering and Engineering Geology",
+            "@code": "1909",
+            "@abbrev": "EART"
+        },
+        {
+            "@_fa": "true",
+            "$": "Soil Science",
+            "@code": "1111",
+            "@abbrev": "AGRI"
+        }
+    ],
+    "keywords": [
+        "Material degradation",
+        "Pushover analysis",
+        "Residential RC building",
+        "Seismic response"
+    ],
+    "authors": [
+        "Panomthep Natepra",
+        "*Maetee Boonpichetvong",
+        "Tanyada Pannachet",
+        "Chatpan Chintanapakdee"
+    ],
+    "citedby-count": 2,
+    "ref-count": 16,
+    "ref-list": [
+        "Effect of degree of corrosion on the properties of reinforcing steel bars",
+        "Influence of corrosion and cracking on bond behaviour and strength of reinforced concrete members",
+        "Modelling of the flexural behaviour of RC beams subjected to localised and uniform corrosion",
+        "Numerical modelling of bond behaviour in RC structures affected by reinforcement corrosion",
+        "Analytical model to predict nonlinear flexural behaviour of corroded reinforced concrete beams",
+        "Seismic assessment of existing RC structures affected by degradation phenomena",
+        "Seismic performance of a corroded RC frame structure using pushover method",
+        "Probabilistic Seismic Hazard Assessment of North-Eastern Thailand",
+        "The seismic behaviour of RC members suffering from chloride induced corrosion"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Khon Kaen",
+            "@id": "60017165",
+            "affilname": "Khon Kaen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017165",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Department of Civil Engineering",
+        "Khon Kaen University"
+    ]
+}

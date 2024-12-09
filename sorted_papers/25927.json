@@ -1,0 +1,145 @@
+{
+    "eid": "2-s2.0-85149753655",
+    "title": "Intelligent Transportation Using Wireless Sensor Networks Blockchain and License Plate Recognition",
+    "cover-date": "2023-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analytical Chemistry",
+            "@code": "1602",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "blockchain technology",
+        "intelligent transportation system",
+        "internet of vehicles",
+        "license plate recognition",
+        "privacy in ITS"
+    ],
+    "authors": [
+        "Fares Alharbi",
+        "Mohammed Zakariah",
+        "Reem Alshahrani",
+        "Ashwag Albakri",
+        "Wattana Viriyasitavat",
+        "Abdulrahman Abdullah Alghamdi"
+    ],
+    "citedby-count": 1,
+    "ref-count": 44,
+    "ref-list": [
+        "A federated learning-based license plate recognition scheme for 5G-enabled internet of vehicles",
+        "A license plate extraction algorithm based on edge statistics and region growing",
+        "Perspectives on risks and standards that affect the requirements engineering of blockchain technology",
+        "Smart cities in the era of artificial intelligence and internet of things: A literature review from 1990 to 2017",
+        "Federated learning in mobile edge networks: A comprehensive survey",
+        "Multiple license plate detection for Chinese vehicles in dense traffic scenarios",
+        "A systematic literature review on federated machine learning: From a software engineering perspective",
+        "A multifaceted vigilance system for intelligent transportation services in smart cities",
+        "Blockchain-based federated learning for device failure detection in industrial IoT",
+        "Reading car license plates using deep neural networks",
+        "Federated learning: A survey on enabling technologies, protocols, and applications",
+        "Building a Character Recognition System for Vehicle Applications",
+        "CoRide: A privacy-preserving collaborative-ride hailing service using blockchain-assisted vehicular fog computing",
+        "Efficient and privacy-preserving carpooling using blockchain-assisted vehicular fog computing",
+        "Toward a blockchain-based fair and anonymous ad dissemination in vehicular networks",
+        "Secure and blockchain-based emergency driven message protocol for 5G enabled vehicular edge computing",
+        "Variational LSTM enhanced anomaly detection for big industrial data",
+        "Secure v2v communication with identity-based cryptography from license plate recognition",
+        "A new CNN-based method for multi-directional car license plate detection",
+        "Performance and Security Evaluation on a Blockchain Architecture for License Plate Recognition Systems",
+        "Blockchains and smart contracts for the internet of things",
+        "Contemporary affirmation of security and intrusion handling strategies of Internet of Things in recent Literature",
+        "A secured proxy-based data sharing module in IoT environments using blockchain",
+        "Branch-based blockchain technology in the intelligent vehicle",
+        "Blockchain-based traffic event validation and trust verification for VANETs",
+        "A systematic literature review of blockchain-based applications: Current status, classification, and open issues",
+        "Big data adoption: State of the art and research challenges",
+        "A review of techniques for implementing elliptic curve point multiplication on hardware",
+        "EPA-CPPA: An efficient, provably-secure and anonymous conditional privacy-preserving authentication scheme for vehicular ad hoc networks",
+        "Cryptanalysis and improvement of certificateless aggregate signature with conditional privacy-preserving for vehicular sensor networks",
+        "Privacy-preserving multi-channel communication in edge-of-things",
+        "Blockchain-based dynamic key management for heterogeneous intelligent transportation systems",
+        "A survey on internet of vehicles: Applications, technologies, challenges, and opportunities",
+        "Blockchain technologies and smart contracts: New technological methods to regulate transactions and trade operations",
+        "Connecting vehicles using Li-Fi technology for reducing accidents",
+        "Applying private information retrieval to lightweight bitcoin clients",
+        "BPAS: Blockchain-assisted privacy-preserving authentication system for vehicular ad hoc networks",
+        "PrivySharing: A blockchain-based framework for privacy-preserving and secure data sharing in smart cities",
+        "Energy efficiency optimization for backscatter enhanced NOMA cooperative V2X communications under imperfect CSI",
+        "Energy-efficient backscatter aided uplink NOMA roadside sensor communications under channel estimation errors",
+        "Backscatter sensors communication for 6G low-powered NOMA-enabled IoT networks under imperfect SIC",
+        "RL/DRL meets vehicular task offloading using edge and vehicular cloudlet: A survey",
+        "Efficient power-splitting and resource allocation for cellular V2X communications"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199583",
+            "affilname": "Chulalongkorn Business School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199583",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Shaqra",
+            "@id": "60110524",
+            "affilname": "Shaqra University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60110524",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Jazan",
+            "@id": "60106293",
+            "affilname": "Jazan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60106293",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Taif",
+            "@id": "60091164",
+            "affilname": "Taif University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091164",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Riyadh",
+            "@id": "60013183",
+            "affilname": "King Saud University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013183",
+            "affiliation-country": "Saudi Arabia"
+        }
+    ],
+    "funding": [
+        "deanship of scientific research at Shaqra university"
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "eid": "2-s2.0-85061133638",
+    "title": "First complete genome sequence of human coronavirus HKU1 from a nonill bat guano miner in Thailand",
+    "cover-date": "2019-02-07",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Immunology and Microbiology (miscellaneous)",
+            "@code": "2401",
+            "@abbrev": "IMMU"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Yutthana Joyjinda",
+        "Apaporn Rodpan",
+        "Pongtorn Chartpituck",
+        "Krairerk Suthum",
+        "Suphaluk Yaemsakul",
+        "Thaniwan Cheun-Arom",
+        "Saowalak Bunprakob",
+        "Kevin J. Olival",
+        "Martha M. Stokes",
+        "Thiravat Hemachudha",
+        "Supaporn Wacharapluesadee"
+    ],
+    "citedby-count": 7,
+    "ref-count": 9,
+    "ref-list": [
+        "Virus taxonomy: The database of the International Committee on Taxonomy of Viruses (ICTV)",
+        "Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor",
+        "Further evidence for bats as the evolutionary source of Middle East respiratory syndrome coronavirus",
+        "Group C betacoronavirus in bat guano fertilizer, Thailand",
+        "Bat coronaviruses and experimental infection of bats, the Philippines",
+        "Fast and accurate short read alignment with Burrows\u2013Wheeler transform",
+        "1000 genome project data processing subgroupThe Sequence Alignment/Map format and SAMtools",
+        "Comparative analysis of 22 Coronavirus HKU1 genomes reveals a novel genotype and evidence of natural recombination in Coronavirus HKU1"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "New York",
+            "@id": "60091700",
+            "affilname": "EcoHealth Alliance",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091700",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022676",
+            "affilname": "Ramkhamhaeng University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022676",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Washington, D.C.",
+            "@id": "122535178",
+            "affilname": "Defense Threat Reduction Agency (DTRA)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/122535178",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Ratchaburi",
+            "@id": "112599979",
+            "affilname": "The Office of Disease Prevention and Control 5thRatchaburi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112599979",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Cluster and Program Management Office",
+        "DTRA BTRP",
+        "United States Agency for International Development",
+        "Defense Threat Reduction Agency",
+        "National Science and Technology Development Agency"
+    ]
+}

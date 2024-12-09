@@ -1,0 +1,570 @@
+{
+    "eid": "2-s2.0-85151783368",
+    "title": "COVID-19 infection in patients on long-term home parenteral nutrition for chronic intestinal failure",
+    "cover-date": "2023-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Endocrinology, Diabetes and Metabolism",
+            "@code": "2712",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Nutrition and Dietetics",
+            "@code": "2916",
+            "@abbrev": "NURS"
+        }
+    ],
+    "keywords": [
+        "COVID-19",
+        "Epidemiology",
+        "Home parenteral nutrition",
+        "Intestinal failure",
+        "Pandemic",
+        "SARS-CoV-2"
+    ],
+    "authors": [
+        "Loris Pironi",
+        "Denise Jezerski",
+        "Jacek Sobocki",
+        "Simon Lal",
+        "Tim Vanuytsel",
+        "Miriam Theilla",
+        "Anna S. Sasdelli",
+        "Cecile Chambrier",
+        "Konrad Matysiak",
+        "Umberto Aimasso",
+        "Henrik H. Rasmussen",
+        "Amelia Jukes",
+        "Marek Kunecki",
+        "David Seguy",
+        "St\u00e9phane M. Schneider",
+        "Joanne Daniels",
+        "Florian Poullenot",
+        "Manpreet S. Mundi",
+        "Przemys\u0142aw Matras",
+        "Marcin Folwarski",
+        "Adriana Crivelli",
+        "Nicola Wyer",
+        "Lars Ellegard",
+        "Lidia Santarpia",
+        "Marianna Arvanitakis",
+        "Corrado Spaggiari",
+        "Georg Lamprecht",
+        "Francesco W. Guglielmi",
+        "Antonella Lezo",
+        "Sabrina Layec",
+        "Esther Ramos Boluda",
+        "Anat Guz-Mark",
+        "Paolo Gandullia",
+        "Cristina Cuerda",
+        "Emma Osland",
+        "Maria I. Spagnuolo",
+        "Zeljko Krznaric",
+        "Luisa Masconale",
+        "Brooke Chapman",
+        "Mar\u00eda Ma\u00edz-Jim\u00e9nez",
+        "Paolo Orlandoni",
+        "Mariana Hollanda Martins da Rocha",
+        "M. Nuria Virgili-Casas",
+        "Maryana Doitchinova-Simeonova",
+        "Laszlo Czako",
+        "Andr\u00e8 Van Gossum",
+        "Lorenzo D'Antiga",
+        "Looi C. Ee",
+        "Daruneewan Warodomwichit",
+        "Marina Taus",
+        "Sanja Kola\u010dek",
+        "Ronan Thibault",
+        "Giovanna Verlato",
+        "Aurora E. Serralde-Z\u00fa\u00f1iga",
+        "Jos\u00e9 I. Botella-Carretero",
+        "Pilar Serrano Aguayo",
+        "Gabriel Olveira",
+        "Sirinuch Chomtho",
+        "Veeradej Pisprasert",
+        "Georgijs Moisejevs",
+        "Ana Zugasti Murillo",
+        "Ma Estrella Petrina J\u00e1uregui",
+        "Marta Bueno D\u00edez",
+        "Mohammad Shukri Jahit",
+        "Narumon Densupsoontorn",
+        "Ali Tamer",
+        "Giorgia Brillanti",
+        "Francisca Joly"
+    ],
+    "citedby-count": 0,
+    "ref-count": 15,
+    "ref-list": [
+        "A novel coronavirus from patients with pneumonia in China",
+        "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China",
+        "Risk factors associated with acute respiratory distress syndrome and death in patients with coronavirus disease 2019 pneumonia in Wuhan, China",
+        "Risk factors associated with clinical outcomes in 323 COVID-19 patients in Wuhan, China",
+        "Failure; acute intestinal failure special interest groups of ESPEN. ESPEN endorsed recommendations. Definition and classification of intestinal failure in adults",
+        "Failure special interest group of ESPEN. An international survey of clinicians' experience caring for patients receiving home parenteral nutrition for chronic intestinal failure during the COVID-19 pandemic",
+        "Clinical classification of adult patients with chronic intestinal failure due to benign disease: an international multicenter cross-sectional survey",
+        "Intravenous supplementation type and volume are associated with 1-year outcome and major complications in patients with chronic intestinal failure",
+        "The frail world of haemodialysis patients in the COVID-19 pandemic era: a systematic scoping review",
+        "Coronavirus disease 2019 in patients with end-stage kidney disease on hemodialysis in Guatemala",
+        "Characteristics of and important lessons from the coronavirus disease 2019 (COVID-19) outbreak in China: summary of a report of 72 314 cases from the Chinese center for disease control andPrevention",
+        "COVID-19: current knowledge in clinical features, immunological responses, and vaccine development"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Turin",
+            "@id": "60111308",
+            "affilname": "Azienda Ospedaliera - Universitaria Citt\u00e0 della Salute e della Scienza di Torino",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60111308",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Pamplona",
+            "@id": "60019454",
+            "affilname": "Hospital de Navarra",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019454",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Naples",
+            "@id": "60017293",
+            "affilname": "Universit\u00e0 degli Studi di Napoli Federico II",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017293",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Tel Aviv-Yafo",
+            "@id": "60005681",
+            "affilname": "Tel Aviv University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005681",
+            "affiliation-country": "Israel"
+        },
+        {
+            "affiliation-city": "Brussels",
+            "@id": "129444559",
+            "affilname": "HUB Erasme",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129444559",
+            "affiliation-country": "Belgium"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199575",
+            "affilname": "Siriraj Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199575",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bergamo",
+            "@id": "60138561",
+            "affilname": "Papa Giovanni XXIII Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60138561",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Brisbane",
+            "@id": "60138490",
+            "affilname": "Children\u2019s Health Queensland",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60138490",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Nice",
+            "@id": "60110693",
+            "affilname": "Universit\u00e9 C\u00f4te d'Azur",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60110693",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Riga",
+            "@id": "60088863",
+            "affilname": "R\u012bgas Austrumu kl\u012bnisk\u0101 universit\u0101tes slimn\u012bca",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60088863",
+            "affiliation-country": "Latvia"
+        },
+        {
+            "affiliation-city": "Zagreb",
+            "@id": "60087174",
+            "affilname": "Childern's Hospital Zagreb",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60087174",
+            "affiliation-country": "Croatia"
+        },
+        {
+            "affiliation-city": "Lodz",
+            "@id": "60086857",
+            "affilname": "M. Pirogow Provincial Specialist Hospital, Lodz",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60086857",
+            "affiliation-country": "Poland"
+        },
+        {
+            "affiliation-city": "Ancona",
+            "@id": "60085015",
+            "affilname": "Azienda Ospedaliera Universitaria Ospedali Riuniti, Ancona",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60085015",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Warsaw",
+            "@id": "60084597",
+            "affilname": "Centrum Medyczne Kszta\u0142cenia Podyplomowego, Warszawa",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60084597",
+            "affiliation-country": "Poland"
+        },
+        {
+            "affiliation-city": "Ancona",
+            "@id": "60069613",
+            "affilname": "Istituto Nazionale Riposo e Cura Anziani",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60069613",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Lublin",
+            "@id": "60069011",
+            "affilname": "Medical University of Lublin",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60069011",
+            "affiliation-country": "Poland"
+        },
+        {
+            "affiliation-city": "Poznan",
+            "@id": "60069010",
+            "affilname": "Poznan University of Medical Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60069010",
+            "affiliation-country": "Poland"
+        },
+        {
+            "affiliation-city": "Sevilla",
+            "@id": "60033267",
+            "affilname": "Hospital Universitario Virgen del Roc\u00edo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60033267",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Zagreb",
+            "@id": "60032091",
+            "affilname": "KBC Zagreb",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032091",
+            "affiliation-country": "Croatia"
+        },
+        {
+            "affiliation-city": "Gothenburg",
+            "@id": "60031699",
+            "affilname": "Sahlgrenska Universitetssjukhuset",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031699",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "Leuven",
+            "@id": "60031069",
+            "affilname": "KU Leuven\u2013 University Hospital Leuven",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031069",
+            "affiliation-country": "Belgium"
+        },
+        {
+            "affiliation-city": "Rennes",
+            "@id": "60028893",
+            "affilname": "Centre Hospitalier Universitaire de Rennes",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028893",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Brisbane",
+            "@id": "60028435",
+            "affilname": "Royal Brisbane and Women's Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028435",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Bologna",
+            "@id": "60028218",
+            "affilname": "Alma Mater Studiorum Universit\u00e0 di Bologna",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028218",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Madrid",
+            "@id": "60028162",
+            "affilname": "Hospital Universitario La Paz",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028162",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Padua",
+            "@id": "60027298",
+            "affilname": "Azienda Ospedale Universit\u00e0 Padova",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027298",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Madrid",
+            "@id": "60027282",
+            "affilname": "Universidad Complutense de Madrid",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027282",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Rochester",
+            "@id": "60026829",
+            "affilname": "Mayo Medical School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026829",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Nottingham",
+            "@id": "60025016",
+            "affilname": "Nottingham University Hospitals NHS Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025016",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Rostock",
+            "@id": "60024766",
+            "affilname": "Universit\u00e4t Rostock Uniklinikum und Medizinische Fakult\u00e4t",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024766",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Bologna",
+            "@id": "60024574",
+            "affilname": "IRCCS Azienda Ospedaliero-Universitaria di Bologna",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024574",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Buenos Aires",
+            "@id": "60023623",
+            "affilname": "Fundacion Favaloro",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023623",
+            "affiliation-country": "Argentina"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Madrid",
+            "@id": "60021609",
+            "affilname": "Hospital Universitario Ram\u00f3n y Cajal",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021609",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Serdivan",
+            "@id": "60021494",
+            "affilname": "Sakarya \u00dcniversitesi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021494",
+            "affiliation-country": "Turkey"
+        },
+        {
+            "affiliation-city": "Cleveland",
+            "@id": "60021160",
+            "affilname": "Cleveland Clinic Foundation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021160",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Lille",
+            "@id": "60017724",
+            "affilname": "CHU Lille",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017724",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Khon Kaen",
+            "@id": "60017165",
+            "affilname": "Khon Kaen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017165",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Genoa",
+            "@id": "60016041",
+            "affilname": "Istituto Giannina Gaslini",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016041",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60015887",
+            "affilname": "Faculty of Medicine Ramathibodi Hospital, Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015887",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Aalborg",
+            "@id": "60015555",
+            "affilname": "Aalborg Universitetshospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015555",
+            "affiliation-country": "Denmark"
+        },
+        {
+            "affiliation-city": "Petah Tiqwa",
+            "@id": "60015234",
+            "affilname": "Schneider Childrens Medical Center Israel",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015234",
+            "affiliation-country": "Israel"
+        },
+        {
+            "affiliation-city": "Malaga",
+            "@id": "60013124",
+            "affilname": "Hospital Regional Universitario Carlos Haya",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013124",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Gda\u0144sk",
+            "@id": "60012383",
+            "affilname": "Gdanski Uniwersytet Medyczny",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012383",
+            "affiliation-country": "Poland"
+        },
+        {
+            "affiliation-city": "Barcelona",
+            "@id": "60011805",
+            "affilname": "Hospital Universitari de Bellvitge",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011805",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Lleida",
+            "@id": "60011456",
+            "affilname": "Hospital Universitari Arnau de Vilanova de Lleida",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011456",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Tlalpan",
+            "@id": "60009149",
+            "affilname": "Instituto Nacional de la Nutrici\u00f3n Salvador Zubiran",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009149",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Salford",
+            "@id": "60008873",
+            "affilname": "Salford Royal NHS Foundation Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008873",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Sao Paulo",
+            "@id": "60008088",
+            "affilname": "Universidade de S\u00e3o Paulo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008088",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Coventry",
+            "@id": "60006343",
+            "affilname": "University Hospitals Coventry and Warwickshire NHS Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006343",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Clichy",
+            "@id": "60005915",
+            "affilname": "H\u00f4pital Beaujon",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005915",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Melbourne",
+            "@id": "60005087",
+            "affilname": "Austin Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005087",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Madrid",
+            "@id": "60004024",
+            "affilname": "Hospital Universitario 12 de Octubre",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004024",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Pessac",
+            "@id": "60003434",
+            "affilname": "Hopital Haut-L\u00e9v\u00eaque C.H.U de Bordeaux",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003434",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Lyon",
+            "@id": "60001780",
+            "affilname": "Centre Hospitalier Lyon-Sud",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001780",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Cardiff",
+            "@id": "60000020",
+            "affilname": "University Hospital of Wales",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000020",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Bussolengo (VR)",
+            "@id": "129282156",
+            "affilname": "Ospedale Orlandi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129282156",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Sofia",
+            "@id": "128059095",
+            "affilname": "Bulgarian Association of Patients with Malnutrition",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/128059095",
+            "affiliation-country": "Bulgaria"
+        },
+        {
+            "affiliation-city": "Putrajaya",
+            "@id": "117190648",
+            "affilname": "Institut Kanser Negara",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/117190648",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Barletta",
+            "@id": "116160090",
+            "affilname": "Monsignor Dimiccoli Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/116160090",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Parma",
+            "@id": "110240062",
+            "affilname": "AUSL Parma",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/110240062",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Szeged",
+            "@id": "100727978",
+            "affilname": "First Department of Internal Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/100727978",
+            "affiliation-country": "Hungary"
+        },
+        {
+            "affiliation-city": "Rennes",
+            "@id": "100380731",
+            "affilname": "Clinique Saint-Yves",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/100380731",
+            "affiliation-country": "France"
+        }
+    ],
+    "funding": [
+        "Abbott, Fresenius, Nutricia, Nestle, Takeda",
+        "Danone/Nutricia",
+        "Leadership for Croatian Medical Association",
+        "Oktal Pharma",
+        "Nestle Nutrition Institute"
+    ]
+}

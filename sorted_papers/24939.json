@@ -1,0 +1,100 @@
+{
+    "eid": "2-s2.0-85140614058",
+    "title": "Investigating the Role of Channel State Information for MIMO based Visible Light Communication System",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "bit error rate",
+        "Eco-friendly technology",
+        "multiple input multiple output",
+        "smart cities",
+        "visible light communication"
+    ],
+    "authors": [
+        "Muhammad Saadi",
+        "Ambar Bajpai",
+        "Demostenes Z. Rodriguez",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 0,
+    "ref-count": 10,
+    "ref-list": [
+        "Global mobile data traffic forecast update, 2016-2021",
+        "User-centric MIMO techniques for indoor visible light communication systems",
+        "Client side channel state information estimation for MIMO communication",
+        "Multi-user massive MIMO visible light communications with limited pilot transmission",
+        "Visible light communication-an architectural perspective on the applications and data rate improvement strategies",
+        "Beam management for millimeter-wave beamspace muMIMO systems",
+        "Optimum power allocation for single-user MIMO and multi-user MIMO-mac with partial csi",
+        "Visible light communication: Opportunities, challenges and channel models",
+        "Visible light-based indoor localization using k-means clustering and linear regression"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bengaluru",
+            "@id": "60250860",
+            "affilname": "Atria Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60250860",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Lahore",
+            "@id": "60103839",
+            "affilname": "University of Central Punjab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103839",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Lavras",
+            "@id": "60017841",
+            "affilname": "Universidade Federal de Lavras",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017841",
+            "affiliation-country": "Brazil"
+        }
+    ],
+    "funding": []
+}

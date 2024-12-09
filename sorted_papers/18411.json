@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85021831398",
+    "title": "Interpolation techniques for robust constrained model predictive control based on polyhedral invariant set",
+    "cover-date": "2017-06-01",
+    "subject-areas": [
+        {
+            "$": "Applied Mathematics",
+            "@code": "2604"
+        },
+        {
+            "$": "Control and Optimization",
+            "@code": "2606"
+        },
+        {
+            "$": "Control and Systems Engineering",
+            "@code": "2207"
+        }
+    ],
+    "keywords": [
+        "discrete-time polytopic uncertain system",
+        "interpolation-based control",
+        "polyhedral invariant set",
+        "robust model predictive control"
+    ],
+    "authors": [
+        "Soorathep Kheawhom"
+    ],
+    "citedby-count": 9,
+    "ref-count": 30,
+    "ref-list": [
+        "An ellipsoidal off-line MPC scheme for uncertain polytopic discrete-time systems",
+        "Min-Max Control of Constrained Uncertain Discrete-Time Linear Systems",
+        "An ellipsoidal off-line model predictive control strategy for linear parameter varying systems with applications in chemical processes",
+        "MPC for LPV systems based on parameter-dependent Lyapunov function with perturbation on control input strategy",
+        "An off-line robust MPC algorithm for uncertain polytopic discrete-time systems using polyhedral invariant sets",
+        "An interpolation-based robust MPC algorithm using polyhedral invariant sets",
+        "A feedback min-max MPC algorithm for LPV systems subject to bounded rates of change of parameters",
+        "An improved approach for constrained robust model predictive control",
+        "Improving off-line approach to robust MPC based-on nominal performance cost",
+        "Decoupled control of two tank system via algebraic \u03bc-synthesis",
+        "IMA J. Math. Control Inf",
+        "The quadruple-tank process: A multivariable laboratory process with an adjustable zero",
+        "Robust constrained model predictive control using linear matrix inequalities",
+        "Efficient robust predictive control",
+        "Superposition in efficient robust constrained predictive control",
+        "Constrained feedback robust model predictive control for polytopic uncertain systems with time delays",
+        "YALMIP: A toolbox for modeling and optimization in MATLAB",
+        "Robust stabilization of uncertain time-varying discrete systems and comments on \"an improved approach for constrained robust model predictive control\"",
+        "Implicit improved vertex control for uncertain, time-varying linear discrete-time systems with state and control constraints",
+        "A patchy approximation of explicit model predictive control",
+        "The efficient computation of polyhedral invariant sets for linear systems with polytopic uncertainty",
+        "Interpolation based MPC for LPV systems using polyhedral invariant sets",
+        "A survey of industrial model predictive control technology",
+        "Interpolation based computationally efficient predictive control",
+        "Robust predictive control using tight sets of predicted states",
+        "Solving semidefinite-quadratic-linear programs using SDPT3",
+        "Robust model predictive control design with input constraints",
+        "Model Predictive Control for Linear Parameter Varying Systems Using Parameter Dependent Lyapunov Function",
+        "An efficient off-line formulation of robust model predictive control using linear matrix inequalities",
+        "Robust model predictive control by iterative optimisation for polytopic uncertain systems"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "affilname": "Mahidol University",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Rajadapisek Sompoj Fund",
+        "Office of the Higher Education Commission",
+        "Chulalongkorn University",
+        "Thailand Research Fund"
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "eid": "2-s2.0-85099688912",
+    "title": "Neuroevolution Architecture Backbone for X-ray Object Detection",
+    "cover-date": "2020-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Decision Sciences (miscellaneous)",
+            "@code": "1801",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "CNN",
+        "Neuroevolution",
+        "Object Detection",
+        "X-ray",
+        "YOLOv3"
+    ],
+    "authors": [
+        "Kevin Richard G. Operiano",
+        "Hitoshi Iba",
+        "Wanchalerm Pora"
+    ],
+    "citedby-count": 2,
+    "ref-count": 13,
+    "ref-list": [
+        "Imagenet classification with deep convolutional neural networks",
+        "Going deeper with convolutions",
+        "Deep residual learning for image recognition",
+        "Microsoft coco: Common objects in context",
+        "Dangerous objects detection of x-ray images using convolution neural network",
+        "Evolving neural networks through augmenting topologies",
+        "Evolving deep neural networks for x-ray based detection of dangerous objects",
+        "A genetic programming approach to designing convolutional neural network architectures"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025272",
+            "affilname": "The University of Tokyo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025272",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

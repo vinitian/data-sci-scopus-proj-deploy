@@ -1,0 +1,75 @@
+{
+    "eid": "2-s2.0-85125014824",
+    "title": "Application of RFID and IoT technology into specimen logistic system in the healthcare sector",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "healthcare",
+        "IoT",
+        "Magellan",
+        "NB-IoT",
+        "RFID",
+        "RFID tag",
+        "Specimen",
+        "universal reader assistant (URA)"
+    ],
+    "authors": [
+        "Mya Myet Thwe Chit",
+        "Wattanasak Srisiri",
+        "Atchasai Siritantikorn",
+        "Narisorn Kongruttanachok",
+        "Watit Benjapolakul"
+    ],
+    "citedby-count": 2,
+    "ref-count": 13,
+    "ref-list": [
+        "A review of challenges and barriers implementing RFID technology in the Healthcare sector",
+        "The use of RFID in healthcare: Benefits and barriers",
+        "Internet of Things (IoT) communication protocols: Review",
+        "Internet of Things (IoT): A vision, architectural elements, and future directions",
+        "Medical devices indoor and outdoor location identification using NB-IoT and realtime database",
+        "RFID based Logistic Management System using Internet of Things (IoT)"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Ministry of Digital Economy and Society",
+        "Chulalongkorn University"
+    ]
+}

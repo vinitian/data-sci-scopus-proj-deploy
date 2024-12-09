@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85052305734",
+    "title": "Efficient all-and-one support vector machines based on one-versus-all data inseparability",
+    "cover-date": "2018-08-02",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Public Administration",
+            "@code": "3321",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "Multi-class classification",
+        "Support vector machine"
+    ],
+    "authors": [
+        "Patoomsiri Songsiri",
+        "Boonserm Kijsirikul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 23,
+    "ref-list": [
+        "Another approach to polychotomous classification",
+        "Classification by pairwise coupling",
+        "Large margin DAGs for multiclass classification",
+        "Optimizing directed acyclic graph support vector machines",
+        "Building binary-tree-based multi-class classifiers using separability measures",
+        "Efficient pairwise classification",
+        "Exploring the effectiveness of dynamic ensemble selection in the one-versus-one scheme",
+        "Multiclass support vector machines using adaptive directed acyclic graph",
+        "Decision-tree-based multiclass support vector machines",
+        "A multi-class SVM classifier utilizing binary decision tree support vector machines for pattern recognition",
+        "Solving multiclass learning problems via error-correcting output codes",
+        "Reducing multiclass to binary: A unifying approach for margin classifiers",
+        "Improving multiclass pattern recognition by the combination of two strategies",
+        "Discriminant ECOC: A heuristic method for application dependent design of error correcting output codes",
+        "Boosted landmarks of contextual descriptors and forest-ecoc: A novel framework to detect and classify objects in cluttered scenes",
+        "Minimal design of error-correcting output codes",
+        "On the decoding process in ternary error correcting output codes",
+        "Making large-scale SVM learning practical",
+        "Advanced non parametric tests for multiple comparisons in the design of experiments in computational intelligence and data mining: Experimental analysis of power"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

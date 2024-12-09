@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85118490778",
+    "title": "Incorporating biological networks into high-dimensional Bayesian survival analysis using an ICM/M algorithm",
+    "cover-date": "2021-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Cox model",
+        "empirical Bayes variable selection",
+        "gene regulatory network",
+        "high-dimensional data",
+        "iterated conditional modes/medians",
+        "Survival analysis"
+    ],
+    "authors": [
+        "Vitara Pungpapong"
+    ],
+    "citedby-count": 2,
+    "ref-count": 44,
+    "ref-list": [
+        "Regression models and life tables",
+        "Regression shrinkage and selection via the lasso",
+        "The lasso method for variable selection in the Cox model",
+        "The adaptive lasso and its oracle properties",
+        "Adaptive lasso for Cox's proportional hazards model",
+        "Regularization and variable selection via the elastic net",
+        "Elastic net for Cox's proportional hazards model with a solution path algorithm",
+        "DegreeCox: A network-based regularization method for survival analysis",
+        "Sparse network-based regularization for the analysis of patientomics high-dimensional survival data",
+        "Approaches for Bayesian variable selection",
+        "Objective Bayesian model selection for Cox regression",
+        "Bayesian variable selection for survival data using inverse moment priors",
+        "Selecting massive variables using an iterated conditional modes/medians algorithm",
+        "An extension of Coxs regression model",
+        "Partial least squares Cox regression for genome-wide data",
+        "Needles and straw in haystacks: Empirical Bayes estimates of possibly sparse sequence",
+        "Regularization paths for generalized linear models via coordinate descent",
+        "Predicting survival from microarray data-a comparative study",
+        "Semi-supervised methods to predict patient survival from gene expression data",
+        "Survival prediction using gene expression data: A review and comparison",
+        "A note on a general definition of the coe?cient of determination",
+        "Adjusting batch effects in microarray expression data using empirical Bayes methods",
+        "Faster cyclic loess: Normalizing RNA arrays via linear models",
+        "limma powers differential expression analyses for RNA-sequencing and microarray studies",
+        "Missing value estimation methods for DNA microarrays",
+        "Causal analysis approaches in ingenuity pathway analysis",
+        "BioGRID: a general repository for interaction datasets",
+        "The BioGRID interaction database: 2019 update",
+        "A pathology atlas of the human cancer transcriptome",
+        "Nonparametric estimation from incomplete observations",
+        "Controlling the false discovery rate: A practical and powerful approach to multiple testing",
+        "Global blood gene expression profiles following a breast cancer diagnosis-clinical follow-up in the NOWAC post-genome cohort",
+        "LMSM: A modular approach for identifying lncRNA related miRNA sponge modules in breast cancer",
+        "The ribosomal protein S26 regulates p53 activity in response to DNA damage",
+        "The role of ribosomal proteins in the regulation of cell proliferation, tumorigenesis, and genomic integrity",
+        "Identification of potential key genes and pathways predicting pathogenesis and prognosis for triple-negative breast cancer"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60199583",
+        "affilname": "Chulalongkorn Business School",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199583",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

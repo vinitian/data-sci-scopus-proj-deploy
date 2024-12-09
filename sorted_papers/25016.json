@@ -1,0 +1,108 @@
+{
+    "eid": "2-s2.0-85148351065",
+    "title": "Multimodal Biometrics Recognition Using a Deep Convolutional Neural Network with Transfer Learning in Surveillance Videos",
+    "cover-date": "2022-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "deep CNNs",
+        "human recognition",
+        "multimodal biometrics",
+        "transfer learning"
+    ],
+    "authors": [
+        "Hsu Mon Lei Aung",
+        "Charnchai Pluempitiwiriyawej",
+        "Kazuhiko Hamamoto",
+        "Somkiat Wangsiripitak"
+    ],
+    "citedby-count": 1,
+    "ref-count": 40,
+    "ref-list": [
+        "Iris recognition based on pca for person identification",
+        "Finger vein recognition using local line binary pattern",
+        "Person recognition based on fusion of iris and periocular biometrics",
+        "Individual recognition using gait energy image",
+        "Multimodal biometric system based on the recognition of face and both irises",
+        "Efficient software attack to multimodal biometric systems and its application to face and iris fusion",
+        "Feature selection for support vector machine-based face-iris multimodal biometric system",
+        "Comparative analysis of image classification algorithms based on traditional machine learning and deep learning",
+        "Finger vein identification using deeply-fused Convolutional Neural Network",
+        "Multimodal biometric recognition based on convolutional neural network by the fusion of finger-vein and finger shape using near-infrared (NIR) camera sensor",
+        "Deep multimodal biometric recognition using contourlet derivative weighted rank fusion with human face, fingerprint and iris images",
+        "Multi-level feature abstraction from convolutional neural networks for multimodal biometric identification",
+        "A multimodal biometrie system for personal identification based on deep learning approaches",
+        "Robust face recognition via multimodal deep face representation",
+        "Multimodal feature level fusion based on particle swarm optimization with deep transfer learning",
+        "Deep learning and transfer learning features for plankton classification",
+        "Finger-Vein Recognition Using Bidirectional Feature Extraction and Transfer Learning",
+        "Multibiometric System for Iris Recognition Based Convolutional Neural Network and Transfer Learning",
+        "Multimodal biometric recognition systems using deep learning based on the finger vein and finger knuckle print fusion",
+        "Human identification for activities of daily living: A deep transfer learning approach",
+        "Retinaface: Single-stage dense face localisation in the wild",
+        "A self-organizing approach to background subtraction for visual surveillance applications",
+        "Euclidean distance based color image segmentation of abnormality detection from pseudo color thermographs",
+        "A framework for evaluating the effect of view angle, clothing and carrying condition on gait recognition",
+        "From few to many: Illumination cone models for face recognition under variable lighting and pose",
+        "Gait Biometric-based Human Recognition System Using Deep Convolutional Neural Network in Surveillance System",
+        "Recognizing human actions: A local SVM approach",
+        "Imagenet classification with deep convolutional neural networks",
+        "Densely connected convolutional networks",
+        "Rethinking the inception architecture for computer vision",
+        "Very deep convolutional networks for large-scale image recognition",
+        "Metrics for multi-class classification: An overview",
+        "Feature fusion of face and gait for human recognition at a distance in video",
+        "Multimodal identity verification based on learning face and gait cues",
+        "Ethnicity classification based on fusion of face and gait",
+        "Fusion of gait and facial features using coupled projections for people identification at a distance",
+        "Access control based on gait analysis and face recognition"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ladkrabang Bangkok",
+            "@id": "60021543",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021543",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60009885",
+            "affilname": "Tokai University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009885",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

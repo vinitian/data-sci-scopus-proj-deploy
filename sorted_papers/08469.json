@@ -1,0 +1,72 @@
+{
+    "eid": "2-s2.0-85048958478",
+    "title": "Strength and stiffness parameters of Bangkok clays for finite element analysis",
+    "cover-date": "2018-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geotechnical Engineering and Engineering Geology",
+            "@code": "1909",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [
+        "Constitutive soil model",
+        "Deep excavation",
+        "Finite element analysis",
+        "Ground surface settlement",
+        "Lateral wall movement"
+    ],
+    "authors": [
+        "Suched Likitlersuang",
+        "Chhunla Chheng",
+        "Chanaton Surarak",
+        "Arumugam Balasubramaniam"
+    ],
+    "citedby-count": 11,
+    "ref-count": 11,
+    "ref-list": [
+        "Underground excavation behaviour in Bangkok using three-dimensional finite element method",
+        "Shape of ground surface settlement profiles caused by excavation",
+        "Three-dimensional effects of a deep excavation on wall deflections in loose to medium dense sands",
+        "Simplified finite-element modelling for tunnelling-induced settlements",
+        "Finite element analysis of a deep excavation: A case study from the Bangkok MRT",
+        "Geotechnical parameters from pressuremeter tests for MRT Blue Line Extension in Bangkok",
+        "Small strain stiffness and stiffness degradation curve of Bangkok Clays",
+        "The hardening soil model: Formulation and verification",
+        "Stiffness and strength parameters for hardening soil model of soft and stiff Bangkok clays"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Brisbane",
+            "@id": "60032987",
+            "affilname": "Griffith University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032987",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60005778",
+            "affilname": "Royal Thai Army",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005778",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Ratchadapisek Sompoch Endowment Fund",
+        "Chulalongkorn University"
+    ]
+}

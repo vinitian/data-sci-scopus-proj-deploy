@@ -1,0 +1,100 @@
+{
+    "eid": "2-s2.0-85119075025",
+    "title": "Effects of tube potential selection together with computed tomography automatic tube current modulation on CT imaging performance",
+    "cover-date": "2021-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Waste Management and Disposal",
+            "@code": "2311",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Public Health, Environmental and Occupational Health",
+            "@code": "2739",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Automatic tube current modulation (ATCM)",
+        "Computed tomography (CT)",
+        "Low kV",
+        "Tube potential"
+    ],
+    "authors": [
+        "S. Sookpeng",
+        "C. J. Martin",
+        "A. Krisanachinda"
+    ],
+    "citedby-count": 3,
+    "ref-count": 47,
+    "ref-list": [
+        "Estimated collective effective dose to the population from x-ray and nuclear medicine examinations in Finland",
+        "Updated estimates of typical effective doses for common CT examinations in the UK following the 2011 national review",
+        "Cancer risks from diagnostic radiology",
+        "Radiation dose associated with common computed tomography examinations and the associated lifetime attributable risk of cancer",
+        "Techniques and applications of automatic tube current modulation for",
+        "Radiation dose modulation techniques in the multidetector CT era: From basics to practice",
+        "Comparison of angular and combined automatic tube current modulation techniques with constant tube current CT of the abdomen and pelvis",
+        "Automatic exposure control in computed tomography-an evaluation of systems from different manufacturers",
+        "Comparison of image quality and radiation dose between fixed tube current and combined automatic tube current modulation in craniocervical CT angiography",
+        "Performance evaluation of computed tomography systems: Summary of AAPM task group",
+        "How to measure CT image quality: Variations in CT-numbers, uniformity and low contrast resolution for a CT quality assurance phantom",
+        "Design and use of a phantom for testing and comparing the performance of computed tomography automatic tube current modulation systems",
+        "Investigation of the influence of image reconstruction filters and scans parameters on operation of automatic tube current modulation systems for different CT scanners",
+        "Optimal use of AEC in CT: A literature review",
+        "Utilizing a simple CT dosimetry phantom for the comprehension of the operational characteristics of CT AEC systems",
+        "Considerations on an automatic computed tomography tube current modulation system",
+        "Impact of operator-selected image noise index and reconstruction slice thickness on patient radiation dose in 64-MDCT",
+        "Performance evaluation for CT-AEC (CT automatic exposure control) systems",
+        "Automatic exposure control in multichannel CT with tube current modulation to achieve a constant level of image noise: Experimental assessment on pediatric phantoms",
+        "The influences of tube voltage and scan direction on combined tube current modulation: A phantom study",
+        "Automatic exposure control in pediatric and adult multidetector CT examinations: A phantom study on dose reduction and image quality",
+        "Performance of longitudinal and volumetric tube current modulation in a 64-slice CT with different choices of acquisition and reconstruction parameters",
+        "Attenuation-based automatic tube voltage selection and tube current modulation for dose reduction at contrast-enhanced liver",
+        "Diagnostic value of iterative reconstruction algorithm in low kV CT angiography (CTA) with low contrast medium volume for transcatheter aortic valve implantation (TAVI) planning: Image quality and radiation dose exposure",
+        "Optimal tube potential for radiation dose reduction in pediatric CT: Principles, clinical implementations, and pitfalls",
+        "Applicationandpatient size-dependent optimization of x-ray spectra for",
+        "Scanner and kVp dependence of measured CT numbers in the ACR CT phantom",
+        "Effects of the difference in tube voltage of the CT scanner on dose calculation",
+        "Managing patient dose in computed tomography A report of the International Commission on Radiological Protection",
+        "The 2007 recommendations of the international commission on radiological protection Ann",
+        "The 2007 recommendations of the international commission on radiological protection ICRP Publication 103 Ann",
+        "Setting up computed tomography automatic tube current modulation systems",
+        "Evaluating the impact of scan settings on automatic tube current modulation in CT using a novel phantom",
+        "Effect of iterative reconstruction techniques on image quality in low radiation dose chest CT: A phantom study",
+        "Image quality with iterative reconstruction techniques in CT of the lungs-A phantom study",
+        "Comparison of image quality from filtered back projection, statistical iterative reconstruction, and model-based iterative reconstruction algorithms in abdominal computed tomography",
+        "Model-based iterative reconstruction versus adaptive statistical iterative reconstruction and filtered back projection in liver 64-MDCT: Focal lesion detection, lesion conspicuity, and image noise",
+        "Comparison of different phantom designs for CT scanner automatic tube current modulation system tests",
+        "NIH Image to ImageJ: 25 years of image analysis",
+        "Optimisation of a paediatric CT brain protocol: A figure-of-merit approach",
+        "Radiation and contrast agent doses reductions by using 80 kV tube voltage in coronary computed tomographic angiography: A comparative study",
+        "Image quality in CT: From physical measurements to model observers"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pitsanulok",
+            "@id": "60022498",
+            "affilname": "Naresuan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022498",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Glasgow",
+            "@id": "60001490",
+            "affilname": "University of Glasgow",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001490",
+            "affiliation-country": "United Kingdom"
+        }
+    ],
+    "funding": []
+}

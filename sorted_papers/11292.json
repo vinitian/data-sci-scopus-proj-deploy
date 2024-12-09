@@ -1,0 +1,118 @@
+{
+    "eid": "2-s2.0-85143544968",
+    "title": "Machine learning-based normal tissue complication probability model for predicting albumin-bilirubin (ALBI) grade increase in hepatocellular carcinoma patients",
+    "cover-date": "2022-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Oncology",
+            "@code": "2730",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Albumin-bilirubin grade",
+        "Hepatocellular carcinoma",
+        "Machine learning",
+        "Normal tissue complication probability model",
+        "Radiation-induced liver toxicity"
+    ],
+    "authors": [
+        "Anussara Prayongrat",
+        "Natchalee Srimaneekarn",
+        "Kanokporn Thonglert",
+        "Chonlakiet Khorprasert",
+        "Napapat Amornwichet",
+        "Petch Alisanant",
+        "Hiroki Shirato",
+        "Keiji Kobashi",
+        "Sira Sriswasdi"
+    ],
+    "citedby-count": 1,
+    "ref-count": 37,
+    "ref-list": [
+        "Global cancer statistics 2020: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries",
+        "External beam radiation therapy for primary liver cancers: An ASTRO clinical practice guideline",
+        "Efficacy and safety of transarterial chemoembolization plus external beam radiotherapy vs sorafenib in hepatocellular carcinoma with macroscopic vascular invasion: A randomized clinical trial",
+        "Advanced radiotherapy technique in hepatocellular carcinoma with portal vein thrombosis: Feasibility and clinical outcomes",
+        "Radiation-associated liver injury",
+        "Radiation-induced liver toxicity",
+        "Hepatic toxicity resulting from cancer treatment",
+        "Radiation-induced liver disease",
+        "Radiation-induced liver disease and modern radiotherapy",
+        "Dosimetric analysis and normal-tissue complication probability modeling of Child-Pugh score and Albumin-Bilirubin grade increase after hepatic irradiation",
+        "Assessment of liver function in patients with hepatocellular carcinoma: a new evidence-based approach-the ALBI grade",
+        "Comparing various scoring system for predicting overall survival according to treatment modalities in hepatocellular carcinoma focused on Platelet-albumin-bilirubin (PALBI) and albumin-bilirubin (ALBI) grade: A nationwide cohort study",
+        "Comparison of platelet-albumin-bilirubin (PALBI), albumin-bilirubin (ALBI), and child-pugh (CP) score for predicting of survival in advanced hcc patients receiving radiotherapy (RT)",
+        "Albumin - bilirubin (ALBI) versus Child-Turcotte-Pugh (CTP) in prognosis of HCC after stereotactic body radiation therapy",
+        "Assessment of hepatic function decline after stereotactic body radiation therapy for primary liver cancer",
+        "Tolerance of normal tissue to therapeutic irradiation",
+        "Calculation of complication probability factors for non-uniform normal tissue irradiation: the effective volume method",
+        "Analysis of radiation-induced liver disease using the Lyman NTCP model",
+        "Radiation-induced liver disease after three-dimensional conformal radiotherapy for patients with hepatocellular carcinoma: dosimetric analysis and implication",
+        "Prediction of radiation-induced liver disease by Lyman normal-tissue complication probability model in three-dimensional conformal radiation therapy for primary liver carcinoma",
+        "Dose-volumetric parameters predicting radiation-induced hepatic toxicity in unresectable hepatocellular carcinoma patients treated with three-dimensional conformal radiotherapy",
+        "Machine learning-based models for prediction of toxicity outcomes in radiotherapy",
+        "Assessment of the confidence interval in the multivariable normal tissue complication probability model for predicting radiation-induced liver disease in primary liver cancer",
+        "Artificial intelligence in radiation oncology: A review of its current status and potential application for the radiotherapy workforce",
+        "Development of deep neural network for individualized hepatobiliary toxicity prediction after liver SBRT",
+        "Use of normal tissue complication probability models in the clinic",
+        "Reporting and analyzing dose distributions: a concept of equivalent uniform dose",
+        "The use and QA of biologically related models for treatment planning: short report of the TG-166 of the therapy physics committee of the AAPM",
+        "XGBoost: A Scalable Tree Boosting System",
+        "Selection of patients for radiotherapy with protons aiming at reduction of side effects: the model-based approach",
+        "External validation of three dimensional conformal radiotherapy based NTCP models for patient-rated xerostomia and sticky saliva among patients treated with intensity modulated radiotherapy",
+        "MR-guided radiotherapy for liver malignancies",
+        "Cytokines in radiobiological responses: a review",
+        "Liver function after irradiation based on computed tomographic portal vein perfusion imaging",
+        "Prediction of liver function by using magnetic resonance-based portal venous perfusion imaging",
+        "Modeling of normal tissue complications using imaging and biomarkers after radiation therapy for hepatocellular carcinoma",
+        "The normal tissue complication probability model-based approach considering uncertainties for the selective use of radiation modality in primary liver cancer patients"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Sapporo",
+            "@id": "60014652",
+            "affilname": "Hokkaido University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014652",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Sapporo",
+            "@id": "60171692",
+            "affilname": "Graduate School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60171692",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60091468",
+            "affilname": "Mahidol University, Faculty of Dentistry",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091468",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Sapporo",
+            "@id": "60006040",
+            "affilname": "Hokkaido University Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006040",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

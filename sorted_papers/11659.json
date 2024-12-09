@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85142360193",
+    "title": "Performance tests of geodetic receivers with tilt sensors in obstructed environments using the NRTK GNSS technique",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (miscellaneous)",
+            "@code": "2201",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Earth and Planetary Sciences (miscellaneous)",
+            "@code": "1901",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [
+        "cadastral surveys",
+        "GNSS",
+        "IMU",
+        "MEMS",
+        "RTK"
+    ],
+    "authors": [
+        "Puttipol Dumrongchai",
+        "Jittranud Patsadutarn",
+        "Chalermchon Satirapod"
+    ],
+    "citedby-count": 0,
+    "ref-count": 24,
+    "ref-list": [
+        "Performance of network-based RTK GNSS for the cadastral survey in Thailand",
+        "Improved height determination using a correction surface by combining GNSS/leveling co-points and Thailand Geoid Model 2017",
+        "The determination of Thailand Geoid Model 2017 (TGM2017) from airborne and terrestrial gravimetry",
+        "Unification of GNSS CORS coordinates in Thailand",
+        "Updating Thai reference frame to ITRF2005 using GPS: Diversion between ITRF2000 and 2005 in Southeast Asia",
+        "GNSS time and frequency transfers through national positioning, navigation and timing infrastructure",
+        "Variations of precipitable water vapor using GNSS CORS in Thailand",
+        "Stochastic modeling for VRS network-based GNSS RTK with residual interpolation uncertainty",
+        "Contribution of GNSS CORS infrastructure to the mission of modern geodesy and status of GNSS CORS in Thailand",
+        "Multipath effects in RTK GPS and a case Study",
+        "A multipath mitigation method in long-range RTK for deformation monitoring",
+        "C/A code multipath mitigation at GPS base stations for improved DGPS corrections using wavelets",
+        "Research on RTK tilt position measurement method based on UKF",
+        "Analysis of positioning results obtained by a single base RTK with autonomous base start and tilt option",
+        "High-precision RTK positioning with calibration-free tilt compensation",
+        "Study of inertial measurement unit sensor",
+        "Aircraft positioning with INS/GNSS integrated system",
+        "Use of network RTK using VRS for a cadastral survey on islands",
+        "Positional uncertainty of network RTK observations in a modern datum"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chaing Mai",
+            "@id": "60000881",
+            "affilname": "Chiang Mai University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000881",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nontaburi",
+            "@id": "119122081",
+            "affilname": "Bureau of Mapping Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/119122081",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

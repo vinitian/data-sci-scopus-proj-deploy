@@ -1,0 +1,609 @@
+{
+    "eid": "2-s2.0-84963502585",
+    "title": "Genome-wide association study identifies five new susceptibility loci for primary angle closure glaucoma",
+    "cover-date": "2016-05-01",
+    "subject-areas": [
+        {
+            "$": "Genetics",
+            "@code": "1311"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Chiea Chuen Khor"
+    ],
+    "citedby-count": 137,
+    "ref-count": 50,
+    "ref-list": [
+        "Genome-wide association analyses identify three new susceptibility loci for primary angle closure glaucoma",
+        "Global data on blindness",
+        "Genome-wide analysis of multi-ancestry cohorts identifies new loci influencing intraocular pressure and susceptibility to glaucoma",
+        "Common variants near ABCA1, AFAP1 and GMDS confer risk of primary open-angle glaucoma",
+        "Common variants at 9p21 and 8q22 are associated with increased susceptibility to optic nerve degeneration in glaucoma",
+        "A common variant mapping to CACNA1A is associated with susceptibility to exfoliation syndrome",
+        "The definition and classification of glaucoma in prevalence surveys",
+        "The prevalence of primary angle closure glaucoma in adult Asians: A systematic review and meta-analysis",
+        "The number of people with glaucoma worldwide in 2010 and 2020",
+        "Glaucoma in china: How big is the problem?",
+        "The prevalence of glaucoma in chinese residents of singapore: A cross-sectional population survey of the tanjong pagar district",
+        "Angle-closure glaucoma in an urban population in Southern India: The Andhra Pradesh Eye Disease Study",
+        "Glaucoma in China (and worldwide): Changes in established thinking will decrease preventable blindness",
+        "Genome-wide association study of renal cell carcinoma identifies two susceptibility loci on 2p21 and 11q13.3",
+        "Imputation of sequence variants for identification of genetic risks for Parkinson's disease: A meta-analysis of genome-wide association studies",
+        "Meta-analysis identifies six new susceptibility loci for atrial fibrillation",
+        "A sequence variant in ZFHX3 on 16q22 associates with a trial fibrillation and ischemic stroke",
+        "The 8q24 cancer risk variant rs6983267 shows long-range interaction with MYC in colorectal cancer",
+        "The common colorectal cancer predisposition SNP rs6983267 at chromosome 8q24 confers potential to enhanced Wnt signaling",
+        "MERP1: A mammalian ependymin-related protein gene differentially expressed in hematopoietic cells",
+        "Wnt signaling and Dupuytren's disease",
+        "DPM2-CDG: A muscular dystrophy-dystroglycanopathy syndrome with severe epilepsy",
+        "Identification of Estrogen-Responsive Genes by Complementary Deoxyribonucleic Acid Microarray and Characterization of a Novel Early Estrogen-Induced Gene: EEIG1",
+        "Overexpression of PIP5KL1 suppresses cell proliferation and migration in human gastric cancer cells",
+        "Drug-induced acute angle closure glaucoma",
+        "Angle closure glaucoma complicating systemic atropine use in the cardiac catheterization laboratory",
+        "Novel focal adhesion protein kindlin-2 promotes the invasion of gastric cancer cells through phosphorylation of integrin \u03b21 and \u03b23",
+        "GLIS3, a novel member of the GLIS subfamily of Kr\u00fcppel-like zinc finger proteins with repressor and activation functions",
+        "Mutations in GLIS3 are responsible for a rare syndrome with neonatal diabetes mellitus and congenital hypothyroidism",
+        "Genome-wide association study and meta-analysis find that over 40 loci affect risk of type 1 diabetes",
+        "Meta-analysis of genome-wide association studies identifies eight new loci for type 2 diabetes in east Asians",
+        "New genetic loci implicated in fasting glucose homeostasis and their impact on type 2 diabetes risk",
+        "Genome-wide association study identifies susceptibility loci for open angle glaucoma at TMCO1 and CDKN2B-AS1",
+        "Common variants near ABCA1 and in PMM2 are associated with primary open-angle glaucoma",
+        "A common variant near TGFBR3 is associated with primary open angle glaucoma",
+        "Lack of association between primary angle-closure glaucoma susceptibility loci and the ocular biometric parameters anterior chamber depth and axial length",
+        "Nine loci for ocular axial length identified through genome-wide association studies, including shared loci with refractive error",
+        "ABCC5, a Gene That Influences the Anterior Chamber Depth, Is Associated with Primary Angle Closure Glaucoma",
+        "Annotation of functional variation in personal genomes using RegulomeDB",
+        "HaploReg: A resource for exploring chromatin states, conservation, and regulatory motif alterations within sets of genetically linked variants",
+        "An integrated encyclopedia of DNA elements in the human genome",
+        "Systematic identification of trans eQTLs as putative drivers of known disease associations",
+        "The Genotype-Tissue Expression (GTEx) project",
+        "Genetics of gene expression in primary immune cells identifies cell type-specific master regulators and roles of HLA alleles",
+        "Genetics of rheumatoid arthritis contributes to biology and drug discovery",
+        "Association analyses of 249,796 individuals reveal 18 new loci associated with body mass index",
+        "Variation at HLA-DRB1 is associated with resistance to enteric fever",
+        "Genome-wide meta-analyses of multiancestry cohorts identify multiple new susceptibility loci for refractive error and myopia",
+        "A meta-analysis of 87,040 individuals identifies 23 new susceptibility loci for prostate cancer",
+        "Discovery of new risk loci for IgA nephropathy implicates genes involved in immunity against intestinal pathogens"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Singapore City",
+            "affilname": "National University of Singapore",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Bengaluru",
+            "affilname": "Narayana Nethralaya",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "affilname": "Oxford University Clinical Research Unit",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Guangzhou",
+            "affilname": "Sun Yat-Sen University Cancer Center",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Beijing",
+            "affilname": "Beijing Tongren Hospital, Capital Medical University",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Mexico",
+            "affilname": "Instituto de Oftalmolog\u00eda Fundaci\u00f3n Conde de Valenciana",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Kyoto",
+            "affilname": "Kyoto Prefectural University of Medicine",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Campinas",
+            "affilname": "Universidade Estadual de Campinas",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Kuala Lumpur",
+            "affilname": "Universiti Malaya",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Melbourne",
+            "affilname": "University of Melbourne",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "London",
+            "affilname": "Moorfields Eye Hospital NHS Foundation Trust",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Madurai",
+            "affilname": "Aravind Eye Hospital",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Nijmegen",
+            "affilname": "Radboud University Medical Center",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Siriraj Hospital",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Kathmandu",
+            "affilname": "Tilganga Institute of Ophthalmology",
+            "affiliation-country": "Nepal"
+        },
+        {
+            "affiliation-city": "Rawalpindi",
+            "affilname": "Al-Shifa Trust Eye Hospital",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Beijing",
+            "affilname": "Chinese Academy of Medical Sciences &amp; Peking Union Medical College",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Durham",
+            "affilname": "Duke University Medical Center",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "affilname": "National University Health System",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Manila",
+            "affilname": "University of the East, Philippines",
+            "affiliation-country": "Philippines"
+        },
+        {
+            "affiliation-city": "Kobe",
+            "affilname": "Kobe City Medical Center General Hospital",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Lima",
+            "affilname": "Universidad de San Mart\u00edn de Porres",
+            "affiliation-country": "Peru"
+        },
+        {
+            "affiliation-city": "Seongnam",
+            "affilname": "Seoul National University Bundang Hospital",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Seoul",
+            "affilname": "Seoul Metropolitan Government - Seoul National University Borame Medical Center",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Hyderabad",
+            "affilname": "Isra University",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Islamabad",
+            "affilname": "COMSATS University Islamabad",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Muntinlupa",
+            "affilname": "Asian Hospital and Medical Center, Muntinlupa",
+            "affiliation-country": "Philippines"
+        },
+        {
+            "affiliation-city": "Lima",
+            "affilname": "Hospital Nacional Arzobispo Loayza",
+            "affiliation-country": "Peru"
+        },
+        {
+            "affiliation-city": "Madurai",
+            "affilname": "Aravind Medical Research Foundation",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Depok",
+            "affilname": "Universitas Indonesia",
+            "affiliation-country": "Indonesia"
+        },
+        {
+            "affiliation-city": "Lublin",
+            "affilname": "Medical University of Lublin",
+            "affiliation-country": "Poland"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "affilname": "Queen Mary Hospital Hong Kong",
+            "affiliation-country": "Hong Kong"
+        },
+        {
+            "affiliation-city": "Utrecht",
+            "affilname": "University Medical Center Utrecht",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Chiang Mai",
+            "affilname": "Faculty of Medicine, Chiang Mai University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "affilname": "National Cancer Centre, Singapore",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "affilname": "A-Star, Genome Institute of Singapore",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Yufu",
+            "affilname": "Oita University Faculty of Medicine",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "affilname": "Department of Medicine",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Riyadh",
+            "affilname": "College of Medicine",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nishihara",
+            "affilname": "University of the Ryukyus",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Hobart",
+            "affilname": "Menzies Institute for Medical Research",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Chennai",
+            "affilname": "Medical Research Foundation, Chennai",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Sydney",
+            "affilname": "The University of Sydney",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Kuala Lumpur",
+            "affilname": "Kuala Lumpur Hospital",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Nottingham",
+            "affilname": "Nottingham University Hospitals NHS Trust",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "London",
+            "affilname": "University College London Hospitals NHS Foundation Trust",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Iowa City",
+            "affilname": "University of Iowa",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "San Francisco",
+            "affilname": "University of California, San Francisco",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "affilname": "Rangsit University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Mexico",
+            "affilname": "Universidad Nacional Aut\u00f3noma de M\u00e9xico, Facultad de Medicina",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Chennai",
+            "affilname": "Vision Research Foundation India",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Adelaide",
+            "affilname": "Flinders University",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Riyadh",
+            "affilname": "King Khaled Eye Specialist Hospital",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Xiamen",
+            "affilname": "Xiamen University",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Heidelberg",
+            "affilname": "Universit\u00e4t Heidelberg",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Seoul",
+            "affilname": "Yonsei University College of Medicine",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Baltimore",
+            "affilname": "Wilmer Eye Institute",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Miyazaki",
+            "affilname": "University of Miyazaki Faculty of Medicine",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "affilname": "Faculty of Medicine, Thammasat University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Seoul",
+            "affilname": "Seoul National University",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "London",
+            "affilname": "UCL Institute of Ophthalmology",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "affilname": "Changi General Hospital",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Turin",
+            "affilname": "Universit\u00e0 degli Studi di Torino",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "New Delhi",
+            "affilname": "All India Institute of Medical Sciences, New Delhi",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Iowa City",
+            "affilname": "University of Iowa Carver College of Medicine",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Durham",
+            "affilname": "Duke Eye Center",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Paris",
+            "affilname": "CNRS Centre National de la Recherche Scientifique",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Gainesville",
+            "affilname": "University of Florida College of Medicine",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "affilname": "The University of Hong Kong",
+            "affiliation-country": "Hong Kong"
+        },
+        {
+            "affiliation-city": "New York",
+            "affilname": "New York Eye and Ear Infirmary of Mount Sinai",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Rajavithi Hospital",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Oxford",
+            "affilname": "Oxford Eye Hospital",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Nonsan",
+            "affilname": "Konyang University",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Siena",
+            "affilname": "Universit\u00e0 degli Studi di Siena",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "affilname": "Chinese University of Hong Kong",
+            "affiliation-country": "Hong Kong"
+        },
+        {
+            "affiliation-city": "Kubang Kerian",
+            "affilname": "School of Medical Sciences, Universiti Sains Malaysia",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "affilname": "Tan Tock Seng Hospital",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Paris",
+            "affilname": "Institut Pasteur, Paris",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Erlangen",
+            "affilname": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": null,
+            "affilname": "North Okkalarpa General Hospital",
+            "affiliation-country": "Myanmar"
+        },
+        {
+            "affiliation-city": null,
+            "affilname": "No. 1 Defence Services General Hospital",
+            "affiliation-country": "Myanmar"
+        },
+        {
+            "affiliation-city": "Yangon",
+            "affilname": "Shwe La Min Hospital",
+            "affiliation-country": "Myanmar"
+        },
+        {
+            "affiliation-city": "Laguna",
+            "affilname": "Binan Doctors Hospital",
+            "affiliation-country": "Philippines"
+        },
+        {
+            "affiliation-city": null,
+            "affilname": "University of Medicine Mandalay",
+            "affiliation-country": "Myanmar"
+        },
+        {
+            "affiliation-city": "Manila",
+            "affilname": "Asian Eye Institute",
+            "affiliation-country": "Philippines"
+        },
+        {
+            "affiliation-city": "Maynila",
+            "affilname": "Pasig City General Hospital",
+            "affiliation-country": "Philippines"
+        },
+        {
+            "affiliation-city": "Lima",
+            "affilname": "Instituto de Ciencias M\u00e9dicas",
+            "affiliation-country": "Peru"
+        },
+        {
+            "affiliation-city": null,
+            "affilname": "Pun Hlaing Silom Hospital",
+            "affiliation-country": "Myanmar"
+        },
+        {
+            "affiliation-city": null,
+            "affilname": "Viet Tiep General Hospital",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Shijiazhuang",
+            "affilname": "Shijiazhuang Aier Eye Hospital",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Handan",
+            "affilname": "Handan Eye Hospital",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Kuala Lumpur",
+            "affilname": "International Specialist Eye Centre",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Hanoi",
+            "affilname": "Vietnam National Institute of Ophthalmology",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Nottingham",
+            "affilname": "BMI Park Hospital",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Jakarta",
+            "affilname": "Jakarta Eye Center",
+            "affiliation-country": "Indonesia"
+        },
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "affilname": "Ho Chi Minh City Oncology Hospital",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Sasebo",
+            "affilname": "Mizoguchi Eye Clinic",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Anyang",
+            "affilname": "Anyang Eye Hospital",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Hyuga",
+            "affilname": "Ozaki Eye Hospital",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Lima",
+            "affilname": "Instituto de Glaucoma y Catarata",
+            "affiliation-country": "Peru"
+        },
+        {
+            "affiliation-city": null,
+            "affilname": "Da Nang Eye Hospital",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Gorizia",
+            "affilname": "Hospital of Monfalcone",
+            "affiliation-country": "Italy"
+        }
+    ],
+    "funding": [
+        "A-STAR",
+        "Biomedical Research Council, Agency for Science, Technology and Research",
+        "Singapore Translational Research",
+        "Medical Research Council",
+        "Medical Research Council",
+        "National Medical Research Council",
+        "National Medical Research Council",
+        "Ministry of Health -Singapore",
+        "Japan Society for the Promotion of Science",
+        "Japan Society for the Promotion of Science",
+        "National Natural Science Foundation of China",
+        "National Natural Science Foundation of China",
+        "Universiti Sains Malaysia",
+        "Universiti Sains Malaysia",
+        "National Major Science and Technology Projects of China",
+        "National Major Science and Technology Projects of China"
+    ]
+}

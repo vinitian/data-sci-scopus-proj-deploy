@@ -1,0 +1,484 @@
+{
+    "eid": "2-s2.0-85111400892",
+    "title": "Availability, coverage, and scope of health information systems for kidney care across world countries and regions",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Nephrology",
+            "@code": "2727",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Transplantation",
+            "@code": "2747",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "chronic kidney disease",
+        "end-stage kidney disease",
+        "health information systems",
+        "kidney replacement therapy",
+        "registries"
+    ],
+    "authors": [
+        "Emily J. See",
+        "Aminu K. Bello",
+        "Adeera Levin",
+        "Meaghan Lunney",
+        "Mohamed A. Osman",
+        "Feng Ye",
+        "Gloria E. Ashuntantang",
+        "Ezequiel Bellorin-Font",
+        "Mohammed Benghanem Gharbi",
+        "Sara Davison",
+        "Mohammad Ghnaimat",
+        "Paul Harden",
+        "Htay Htay",
+        "Vivekanand Jha",
+        "Kamyar Kalantar-Zadeh",
+        "Peter G. Kerr",
+        "Scott Klarenbach",
+        "Csaba P. Kovesdy",
+        "Valerie Luyckx",
+        "Brendon Neuen",
+        "Donal O'Donoghue",
+        "Shahrzad Ossareh",
+        "Jeffrey Perl",
+        "Harun Ur Rashid",
+        "Eric Rondeau",
+        "Saad Syed",
+        "Laura Sola",
+        "Irma Tchokhonelidze",
+        "Vladimir Tesar",
+        "Kriang Tungsanga",
+        "Rumeyza Turan Kazancioglu",
+        "Angela Yee Moon Wang",
+        "Chih Wei Yang",
+        "Alexander Zemchenkov",
+        "Ming Hui Zhao",
+        "Kitty J. Jager",
+        "Fergus Caskey",
+        "Vlado Perkovic",
+        "Kailash K. Jindal",
+        "Ikechi G. Okpechi",
+        "Marcello Tonelli",
+        "John Feehally",
+        "David C. Harris",
+        "David W. Johnson"
+    ],
+    "citedby-count": 6,
+    "ref-count": 39,
+    "ref-list": [
+        "Use of 13 disease registries in 5 countries demonstrates the potential to use outcome data to improve health care's value",
+        "Estimating the world cancer burden: Globocan 2000",
+        "Impact of electronic diabetes registry \"Meaningful Use\" on quality of care and hospital utilization",
+        "Impact of clinical registries on quality of patient care and health outcomes: protocol for a systematic review",
+        "Australia and New Zealand dialysis and transplant registry",
+        "Clinical quality registries have the potential to drive improvements in the appropriateness of care",
+        "History and development of trauma registry: lessons from developed to developing countries",
+        "Trends of incident dialysis patients in Tunisia between 1992 and 2001",
+        "United States Renal Data System public health surveillance of chronic kidney disease and end-stage renal disease",
+        "The databases: renal replacement therapy since 1989the European Renal Association and European Dialysis and Transplant Association (ERA-EDTA)",
+        "Dialysis registries in the world: Korean Dialysis Registry",
+        "Renal registry in Hong Kongthe first 20 years",
+        "Developing national cancer registration in developing countriescase study of the Nigerian national system of cancer registries",
+        "Use of renal registry data for research, health-care planning and quality improvement: what can we learn fromregistry data in the Asia-Pacific region?",
+        "Japanese society for dialysis therapy renal data registrya window through which we can view the details of Japanese dialysis population",
+        "Fifty years of ERA-EDTA Registrya registry in transition",
+        "Assessment of global kidney health care status",
+        "Cross sectional survey of multicentre clinical databases in the United Kingdom",
+        "Cancer control in developing countries: using health data and health services research to measure and improve access, quality and efficiency",
+        "A global overview of renal registries: a systematic review",
+        "Global Kidney Health Atlas (GKHA): design and methods",
+        "Status of care for end stage kidney disease in countries and regions worldwide: international cross sectional survey",
+        "Overview: end-stage renal disease in the developing world",
+        "The burden of non communicable diseases in developing countries",
+        "Global epidemiology and outcomes of acute kidney injury",
+        "Medical costs of CKD in the Medicare population",
+        "How to routinely collect data on patient-reported outcome and experience measures in renal registries in Europe: an expert consensus meeting",
+        "Development of clinical-quality registries in Australia: the way forward",
+        "A renal registry for Africa: first steps",
+        "Information and communications technology for future health systems in developing countries",
+        "CKD as a model for improving chronic disease care through electronic health records",
+        "Composing a new song for trials: the standardized outcomes in nephrology (SONG) initiative",
+        "Epidemiology of end-stage renal disease: international comparisons of renal replacement therapy",
+        "Quality of care in end-stage renal disease: the importance of comparing \"apples with apples\"",
+        "International comparisons of dialysis survival are meaningless to evaluate differences in dialysis procedures",
+        "Cancer registration in developing countries: luxury or necessity?",
+        "Opportunities for cancer epidemiology in developing countries",
+        "National registries in developing countries: understanding construction challenges and implementation steps"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Sydney",
+            "@id": "60104730",
+            "affilname": "George Institute for Global Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104730",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Bristol",
+            "@id": "60016447",
+            "affilname": "Southmead Hospital Bristol",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016447",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Calgary",
+            "@id": "60000953",
+            "affilname": "Cumming School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000953",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Cape Town",
+            "@id": "60000356",
+            "affilname": "University of Cape Town",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000356",
+            "affiliation-country": "South Africa"
+        },
+        {
+            "affiliation-city": "Beijing",
+            "@id": "60271689",
+            "affilname": "Center for Life Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60271689",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Bristol",
+            "@id": "60171764",
+            "affilname": "Bristol Medical School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60171764",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Oxford",
+            "@id": "60170323",
+            "affilname": "Oxford University Hospitals NHS Foundation Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60170323",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Beijing",
+            "@id": "60121971",
+            "affilname": "Peking University First Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60121971",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Melbourne",
+            "@id": "60118549",
+            "affilname": "Melbourne Medical School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60118549",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Woolloongabba",
+            "@id": "60109259",
+            "affilname": "Translational Research Institute Australia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60109259",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Istanbul",
+            "@id": "60104413",
+            "affilname": "Bezmi\u00e2lem Vak\u0131f \u00dcniversitesi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104413",
+            "affiliation-country": "Turkey"
+        },
+        {
+            "affiliation-city": "Amman",
+            "@id": "60087695",
+            "affilname": "Specialty Hospital, Amman",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60087695",
+            "affiliation-country": "Jordan"
+        },
+        {
+            "affiliation-city": "Toronto",
+            "@id": "60085802",
+            "affilname": "Keenan Research Centre for Biomedical Science",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60085802",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Beijing",
+            "@id": "60073471",
+            "affilname": "Ministry of Health of People's Republic of China",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60073471",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Taoyuan",
+            "@id": "60073391",
+            "affilname": "Chang Gung University College of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60073391",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Tbilisi",
+            "@id": "60071912",
+            "affilname": "Tbilisi State Medical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071912",
+            "affiliation-country": "Georgia"
+        },
+        {
+            "affiliation-city": "Yaounde",
+            "@id": "60070928",
+            "affilname": "Universit\u00e9 de Yaound\u00e9 I",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60070928",
+            "affiliation-country": "Cameroon"
+        },
+        {
+            "affiliation-city": "Prague",
+            "@id": "60039507",
+            "affilname": "V\u0161eobecn\u00e1 Fakultn\u00ed Nemocnice v Praze",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60039507",
+            "affiliation-country": "Czech Republic"
+        },
+        {
+            "affiliation-city": "Leicester",
+            "@id": "60033125",
+            "affilname": "University of Leicester",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60033125",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Brisbane",
+            "@id": "60031004",
+            "affilname": "The University of Queensland",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031004",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Orange",
+            "@id": "60029346",
+            "affilname": "UCI Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029346",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Sydney",
+            "@id": "60028333",
+            "affilname": "UNSW Sydney",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028333",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Tehran",
+            "@id": "60027708",
+            "affilname": "Tehran University of Medical Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027708",
+            "affiliation-country": "Iran"
+        },
+        {
+            "affiliation-city": "Sydney",
+            "@id": "60025709",
+            "affilname": "The University of Sydney",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025709",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Casablanca",
+            "@id": "60025457",
+            "affilname": "Hassan II University of Casablanca",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025457",
+            "affiliation-country": "Morocco"
+        },
+        {
+            "affiliation-city": "Woolloongabba",
+            "@id": "60025258",
+            "affilname": "Princess Alexandra Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025258",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Melbourne",
+            "@id": "60019578",
+            "affilname": "Monash University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019578",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Edmonton",
+            "@id": "60019490",
+            "affilname": "University of Alberta, Faculty of Medicine and Dentistry",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019490",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60017958",
+            "affilname": "Singapore General Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017958",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Saint Petersburg",
+            "@id": "60017862",
+            "affilname": "North-Western State Medical University named after I.I. Mechnikov",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017862",
+            "affiliation-country": "Russian Federation"
+        },
+        {
+            "affiliation-city": "Toronto",
+            "@id": "60016849",
+            "affilname": "University of Toronto",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016849",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60016782",
+            "affilname": "Brigham and Women's Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016782",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Paris",
+            "@id": "60014254",
+            "affilname": "H\u00f4pital Tenon",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014254",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Zurich",
+            "@id": "60012614",
+            "affilname": "Universit\u00e4t Z\u00fcrich",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012614",
+            "affiliation-country": "Switzerland"
+        },
+        {
+            "affiliation-city": "Vancouver",
+            "@id": "60010365",
+            "affilname": "The University of British Columbia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010365",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Oxford",
+            "@id": "60008936",
+            "affilname": "Nuffield Department of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008936",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Salford",
+            "@id": "60008873",
+            "affilname": "Salford Royal NHS Foundation Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008873",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Clayton",
+            "@id": "60006899",
+            "affilname": "Monash Medical Centre",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006899",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "60006541",
+            "affilname": "The University of Hong Kong",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006541",
+            "affiliation-country": "Hong Kong"
+        },
+        {
+            "affiliation-city": "Melbourne",
+            "@id": "60005087",
+            "affilname": "Austin Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005087",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Manchester",
+            "@id": "60003771",
+            "affilname": "The University of Manchester",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003771",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Saint Petersburg",
+            "@id": "60002685",
+            "affilname": "Pavlov University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002685",
+            "affiliation-country": "Russian Federation"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Amsterdam",
+            "@id": "60002483",
+            "affilname": "Universiteit van Amsterdam",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002483",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Calgary",
+            "@id": "60002306",
+            "affilname": "University of Calgary",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002306",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Memphis",
+            "@id": "60002194",
+            "affilname": "University of Tennessee Health Science Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002194",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Beijing",
+            "@id": "60001604",
+            "affilname": "Ministry of Education of the People's Republic of China",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001604",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Paris",
+            "@id": "60001422",
+            "affilname": "Sorbonne Universit\u00e9",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001422",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "St. Louis",
+            "@id": "60000945",
+            "affilname": "St. Louis University School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000945",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Montevideo",
+            "@id": "123396008",
+            "affilname": "Dialysis Unit",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/123396008",
+            "affiliation-country": "Uruguay"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "112812049",
+            "affilname": "Bhumirajanagarindra Kidney Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112812049",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Dhaka",
+            "@id": "106544372",
+            "affilname": "Kidney Foundation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/106544372",
+            "affiliation-country": "Bangladesh"
+        }
+    ],
+    "funding": [
+        "ISN",
+        "University of Alberta"
+    ]
+}

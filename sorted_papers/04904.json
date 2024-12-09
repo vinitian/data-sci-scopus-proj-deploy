@@ -1,0 +1,127 @@
+{
+    "eid": "2-s2.0-85149764457",
+    "title": "A Novel Approach for Direction of Arrival Estimation in Co-Located MIMO Radars by Exploiting Extended Array Manifold Vectors",
+    "cover-date": "2023-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analytical Chemistry",
+            "@code": "1602",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "co-located radar",
+        "direction of arrival estimation",
+        "flower pollination algorithm",
+        "MIMO systems"
+    ],
+    "authors": [
+        "Sadiq Akbar",
+        "Muhammad Sohail",
+        "Fawad Zaman",
+        "Muhammad Abdul Rehman Khan",
+        "Nopdanai Ajavakom",
+        "Gridsada Phanomchoeng"
+    ],
+    "citedby-count": 0,
+    "ref-count": 35,
+    "ref-list": [
+        "Miniaturized Parasitic Loaded High-Isolation MIMO Antenna for 5G Applications",
+        "A Novel 5G LTE antenna design for portable devices",
+        "A switchable 3-D-coverage-phased array antenna package for 5G mobile terminals",
+        "Multi-directional Wideband Unit-element MIMO Antenna for FR-2 Band 5G Array Applications",
+        "A planar dual-polarized phased array with broad bandwidth and quasi-endfire radiation for 5G mobile handsets",
+        "MIMO radar for advanced driver-assistance systems and autonomous driving: Advantages and challenges",
+        "MIMO radar with colocated antennas",
+        "MIMO radar with widely separated antennas",
+        "Linear prediction-based DOA estimation for directional borehole radar 3-D imaging",
+        "Beamforming: A versatile approach to spatial filtering",
+        "IMUSIC: A family of MUSIC-like algorithms for integer period estimation",
+        "Multidimensional ESPRIT for damped and undamped signals: Algorithm, computations, and perturbation analysis",
+        "Coarrays, MUSIC, and the Cram\u00e9r\u2013Rao bound",
+        "Prediction of time-varying multi-user MIMO channels based on DOA estimation using compressed sensing",
+        "Compressed sensing-based DOA estimation with antenna phase errors",
+        "On the noise robustness of simultaneous orthogonal matching pursuit",
+        "Off-grid direction of arrival estimation using sparse Bayesian inference",
+        "A super-resolution DOA estimation method for fast-moving targets in MIMO radar",
+        "Conditional Cram\u00e9r\u2013Rao lower bounds for DOA estimation and array calibration",
+        "Variants of the Flower Pollination Algorithm: A review",
+        "Flower Pollination Heuristics for Parameter Estimation of Electromagnetic Plane Waves",
+        "Flower Pollination Algorithm for Global Optimization",
+        "PID Controller Based on Flower Pollination Algorithm of Flexible Beam System",
+        "Applications of Flower Pollination Algorithm in Wireless Sensor Networking and Image Processing: A Detailed Study",
+        "Flower pollination algorithm for distribution system phase balancing considering variable demand",
+        "Fitness based weighted flower pollination algorithm with mutation strategies for image enhancement",
+        "A Novel Approach for Multichannel Epileptic Seizure Classification Based on Internet of Things Framework Using Critical Spectral Verge Feature Derived from Flower Pollination Algorithm",
+        "A review of the applications of bio-inspired flower pollination algorithm",
+        "Optimal Power Flow with Uncertain Renewable Energy Sources Using Flower Pollination Algorithm",
+        "Flower pollination algorithm: A novel approach for multiobjective optimization",
+        "Location Sensing and Beamforming Design for IRS-Enabled Multi-User ISAC Systems",
+        "Matched-Decision AP Selection for User-Centric Cell-Free Massive MIMO Networks"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Islamabad",
+            "@id": "60089655",
+            "affilname": "Institute of Space Technology, Islamabad",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60089655",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Islamabad",
+            "@id": "60089631",
+            "affilname": "COMSATS University Islamabad",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60089631",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Hefei",
+            "@id": "60019118",
+            "affilname": "University of Science and Technology of China",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019118",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Chulalongkorn University"
+    ]
+}

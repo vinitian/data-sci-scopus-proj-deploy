@@ -1,0 +1,90 @@
+{
+    "eid": "2-s2.0-85060045371",
+    "title": "Efficient decision trees for multi-class support vector machines using entropy and generalization error estimation",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (miscellaneous)",
+            "@code": "2201",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "decision tree",
+        "entropy",
+        "generalization error",
+        "multi-class classification",
+        "support vector machine"
+    ],
+    "authors": [
+        "Pittipol Kantavat",
+        "Boonserm Kijsirikul",
+        "Patoomsiri Songsiri",
+        "Ken Ichi Fukui",
+        "Masayuki Numao"
+    ],
+    "citedby-count": 9,
+    "ref-count": 31,
+    "ref-list": [
+        "Optimal decision tree based multi-class support vector machine",
+        "Generalization performance of support vector machines and other pattern classifiers",
+        "Multicategory classification by support vector machines",
+        "A tutorial on support vector machines for pattern recognition",
+        "Adaptive binary tree for fast SVM multiclass classification",
+        "Support vector machines with binary tree architecture for multi-class classification",
+        "Using the one-versus-rest strategy with samples balancing to improve pairwise coupling classification",
+        "On the learnability and design of output codes for multiclass problems",
+        "A hierarchical SVM based multiclass classification by using similarity clustering",
+        "Binary tree of SVM: A new fast multiclass training and classification algorithm",
+        "Advanced nonparametric tests for multiple comparisons in the design of experiments in computational intelligence and data mining: Experimental analysis of power",
+        "Classification by pairwise coupling",
+        "A comparison of methods for multiclass support vector machines",
+        "Making large-scale SVM learning practical",
+        "Multiclass support vector machines using adaptive directed acyclic graph",
+        "Single-layer learning revisited: A stepwise procedure for building and training a neural network",
+        "Fast multiclass SVM classification using decision tree based one-against-all method",
+        "Reduced one-against-all method for multiclass SVM classification",
+        "Half-against-halfmulti-class support vector machines",
+        "Multi-space-mapped SVMs for multi-class classification",
+        "A multi-class SVM classifier utilizing binary decision tree support vector machines for pattern recognition",
+        "Large margin DAGs for multiclass classification",
+        "Information-based dicrotomizer: A method for multiclass support vector machines",
+        "Enhancement of multi-class support vector machine construction from binary learners using generalization performance",
+        "Decision-tree-based multiclass support vector machines",
+        "An overview of statistical learning theory",
+        "The one-against-all partition based binary tree support vector machine algorithms for multi-class classification"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Suita",
+            "@id": "60024322",
+            "affilname": "Osaka University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024322",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "Thailand Research Fund"
+    ]
+}

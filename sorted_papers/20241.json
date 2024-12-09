@@ -1,0 +1,68 @@
+{
+    "eid": "2-s2.0-85114451476",
+    "title": "Convex optimization approach to multi-objective design of two-stage compensators for linear systems",
+    "cover-date": "2021-08-31",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Convex optimization",
+        "Low sensitivity",
+        "Multi-objective criteria",
+        "Q-parameterization",
+        "Reference tracking",
+        "Two-stage compensators"
+    ],
+    "authors": [
+        "Tanathorn Supithak",
+        "Nicha Wongyimyong",
+        "Kou Yamada",
+        "David Banjerdpongchai"
+    ],
+    "citedby-count": 1,
+    "ref-count": 21,
+    "ref-list": [
+        "Capability of two-stage compensator design",
+        "Two-stage compensator design-a factorization approach",
+        "Modern Wiener-Hopf design of optimal controllers-Part II: The multivariable case",
+        "Advances in Youla-Kucera parameterization: A review",
+        "Standard H\u221estate-space solution by Youla parameterization",
+        "Youla parameterization based adaptive controller design for fault tolerant control",
+        "Youla-like parameterizations subject to QI subspace constraints",
+        "Convergent Ritz approximations of the set of stabilizing controllers",
+        "Design of optimal control systems with bounded control signals",
+        "An input-output parameterization of stabilizing controllers: Amidst Youla and system level synthesis",
+        "Integration of H\u221eand time domain specification using the convex combination method",
+        "Design of two-stage compensators for simultaneous stabilization and low sensitivity",
+        "Parameterization of simultaneously stabilizing controllers for two-stage compensator systems",
+        "MATLAB based GUIs for linear controller design via convex optimization",
+        "A tutorial on the CVX system for modeling and solving convex optimization problems",
+        "PI controller design for time delay systems",
+        "Controller tuning for FOPTD plants",
+        "PID tuning methods for FOPTD system"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Maebashi",
+            "@id": "60014756",
+            "affilname": "Gunma University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014756",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

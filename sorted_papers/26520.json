@@ -1,0 +1,66 @@
+{
+    "eid": "2-s2.0-85147704042",
+    "title": "Chulalongkorn Interactive Virtual Memorial Hall (Museum)",
+    "cover-date": "2022-09-16",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "3D modeling",
+        "Chulalongkorn University Memorial Hall",
+        "Interactive",
+        "Virtual Reality (VR)",
+        "Virtual tour"
+    ],
+    "authors": [
+        "Yada Angsananont",
+        "Rizwan Ullah",
+        "Suebpong Noisri",
+        "Siwanart Jearavongtakul",
+        "Noel Passmore",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 1,
+    "ref-count": 6,
+    "ref-list": [
+        "Multimedia techniques in virtual museum applications in Bosnia and Herzegovina",
+        "Maya Island virtual museum: A virtual learning environment, museum, and library exhibit",
+        "Natural interaction in VR environments for Cultural Heritage and its impact inside museums: The Etruscanning project",
+        "Virtual artifact: Enhancing museum exhibit using 3D virtual reality",
+        "The virtual museum development with the use of intelligent and 3d technologies on the basis of the Maritime museum in Kotor",
+        "Design and Implementation of a Virtual Costume Museum"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "TSRI Fund"
+    ]
+}

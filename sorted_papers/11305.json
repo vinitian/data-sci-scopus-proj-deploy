@@ -1,0 +1,71 @@
+{
+    "eid": "2-s2.0-85092714986",
+    "title": "Iterative LMI approach to robust static output feedback control of uncertain polynomial systems with bounded actuators",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Control input constraints",
+        "Iterative LMI",
+        "Parameter-dependent Lyapunov functions",
+        "Polynomial systems",
+        "Stabilization",
+        "Static output feedback",
+        "Sum-of-squares"
+    ],
+    "authors": [
+        "Tanagorn Jennawasin",
+        "David Banjerdpongchai"
+    ],
+    "citedby-count": 9,
+    "ref-count": 19,
+    "ref-list": [
+        "Linear matrix inequalities in systems and control theory",
+        "LMI techniques for optimization over polynomials in control: A survey",
+        "Sufficient LMI conditions for output feedback control problems",
+        "Analysis and design of polynomial control systems using dissipation inequalities and sum of squares",
+        "New dilated LMI characterizations for continuous-time multi-objective controller synthesis",
+        "Optimal control for polynomial systems using matrix sum of squares relaxation",
+        "A convex approach to state feedback synthesis for polynomial nonlinear systems with input saturation",
+        "Design of state-feedback control for polynomial systems with quadratic performance criterion and control input constraints",
+        "Fault-tolerant control synthesis for a class of nonlinear systems: Sum of squares optimization approach",
+        "Extended H2and H\u221enorm characterizations and controller parameterizations for discrete-time systems",
+        "Semidefinite programming relaxations for semialgebraic problems",
+        "A new robusr D-stability condition for real convex polytopic uncertainty",
+        "Static output feedback stabilisation with H\u221eperformance for a class of plants",
+        "Matrix sum-of-squares relaxations for robust semi-definite programs",
+        "Using sedumi 1.02",
+        "Regional stabilisation of polynomial non-linear systems using rational Lyapunov functions"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Thonburi",
+            "@id": "60008786",
+            "affilname": "King Mongkut's University of Technology Thonburi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008786",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

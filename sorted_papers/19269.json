@@ -1,0 +1,464 @@
+{
+    "eid": "2-s2.0-85117119125",
+    "title": "Acute kidney injury in patients treated with immune checkpoint inhibitors",
+    "cover-date": "2021-10-08",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Immunology and Allergy",
+            "@code": "2723",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Immunology",
+            "@code": "2403",
+            "@abbrev": "IMMU"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Medicine",
+            "@code": "1313",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Oncology",
+            "@code": "2730",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Pharmacology",
+            "@code": "3004",
+            "@abbrev": "PHAR"
+        },
+        {
+            "@_fa": "true",
+            "$": "Cancer Research",
+            "@code": "1306",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [
+        "CTLA-4 antigen",
+        "immunotherapy",
+        "programmed cell death 1 receptor"
+    ],
+    "authors": [
+        "Shruti Gupta",
+        "Samuel A.P. Short",
+        "Meghan E. Sise",
+        "Jason M. Prosek",
+        "Sethu M. Madhavan",
+        "Maria Jose Soler",
+        "Marlies Ostermann",
+        "Sandra M. Herrmann",
+        "Ala Abudayyeh",
+        "Shuchi Anand",
+        "Ilya Glezerman",
+        "Shveta S. Motwani",
+        "Naoka Murakami",
+        "Rimda Wanchoo",
+        "David I. Ortiz-Melo",
+        "Arash Rashidi",
+        "Ben Sprangers",
+        "Vikram Aggarwal",
+        "A. Bilal Malik",
+        "Sebastian Loew",
+        "Christopher A. Carlos",
+        "Wei Ting Chang",
+        "Pazit Beckerman",
+        "Zain Mithani",
+        "Chintan V. Shah",
+        "Amanda D. Renaghan",
+        "Sophie De Seigneux",
+        "Luca Campedel",
+        "Abhijat Kitchlu",
+        "Daniel Sanghoon Shin",
+        "Sunil Rangarajan",
+        "Priya Deshpande",
+        "Gaia Coppock",
+        "Mark Eijgelsheim",
+        "Harish Seethapathy",
+        "Meghan D. Lee",
+        "Ian A. Strohbehn",
+        "Dwight H. Owen",
+        "Marium Husain",
+        "Clara Garcia-Carro",
+        "Sheila Bermejo",
+        "Nuttha Lumlertgul",
+        "Nina Seylanova",
+        "Lucy Flanders",
+        "Busra Isik",
+        "Omar Mamlouk",
+        "Jamie S. Lin",
+        "Pablo Garcia",
+        "Aydin Kaghazchi",
+        "Yuriy Khanin",
+        "Sheru K. Kansal",
+        "Els Wauters",
+        "Sunandana Chandra",
+        "Kai M. Schmidt-Ott",
+        "Raymond K. Hsu",
+        "Maria C. Tio",
+        "Suraj Sarvode Mothi",
+        "Harkarandeep Singh",
+        "Deborah Schrag",
+        "Kenar D. Jhaveri",
+        "Kerry L. Reynolds",
+        "Frank B. Cortazar",
+        "David E. Leaf"
+    ],
+    "citedby-count": 66,
+    "ref-count": 33,
+    "ref-list": [
+        "A decade of immune-checkpoint inhibitors in cancer therapy",
+        "Programmed cell death protein 1 inhibitor treatment is associated with acute kidney injury and hypocalcemia: Meta-analysis",
+        "Clinical features and outcomes of immune checkpoint Inhibitor-Associated AKI: A multicenter study",
+        "The incidence, causes, and risk factors of acute kidney injury in patients receiving immune checkpoint inhibitors",
+        "Acute kidney injury associated with immune checkpoint inhibitor therapy: Incidence, risk factors and outcomes",
+        "Renal adverse effects of immune checkpoints inhibitors in clinical practice: ImmuNoTox study",
+        "Acute kidney injury as a risk factor for mortality in oncological patients receiving check-point inhibitors",
+        "Acute kidney injury in patients treated with anti-programmed death receptor-1 for advanced melanoma: A real-life study in a single-centre cohort",
+        "Histological diagnosis of immune checkpoint inhibitor induced acute renal injury in patients with metastatic melanoma: A retrospective case series report",
+        "Acute kidney injury in critically ill patients with haematological malignancies: Results of a multicentre cohort study from the Groupe de Recherche en Rnimation Respiratoire en Onco-Hatologie",
+        "Kidney involvement in leukemia and lymphoma",
+        "Association of acute interstitial nephritis with programmed cell death 1 inhibitor therapy in lung cancer patients",
+        "Acute interstitial nephritis associated with immune checkpoint inhibitors: A single-centre experience",
+        "Nephrotoxicity of immune checkpoint inhibitors beyond tubulointerstitial nephritis: Single-center experience",
+        "Biomarkers, clinical features, and rechallenge for immune checkpoint inhibitor renal immune-related adverse events",
+        "The REDCap Consortium: Building an international community of software platform partners",
+        "Kidney disease: Improving global outcomes (KDIGO) acute kidney injury work group",
+        "Acute renal failure-definition, outcome measures, animal models, fluid therapy and information technology needs: The Second International Consensus Conference of the Acute Dialysis Quality Initiative (ADQI) Group",
+        "Clinicopathological features of acute kidney injury associated with immune checkpoint inhibitors",
+        "Incidence and clinical features of immune-related acute kidney injury in patients receiving programmed cell death ligand-1 inhibitors",
+        "A nationwide nested case-control study indicates an increased risk of acute interstitial nephritis with proton pump inhibitor use",
+        "Acid-suppressive drugs and risk of kidney disease: A systematic review and meta-analysis",
+        "Proton pump inhibitors and risk of acute and chronic kidney disease: A retrospective cohort study",
+        "Immune checkpoint inhibitor nephrotoxicity: Update 2020",
+        "Management of immune-related adverse events and kinetics of response with ipilimumab",
+        "Patterns of onset and resolution of immune-related adverse events of special interest with ipilimumab: Detailed safety analysis from a phase 3 trial in patients with advanced melanoma",
+        "Safety profile of nivolumab monotherapy: A pooled analysis of patients with advanced melanoma",
+        "Renal vasculitis and Pauci-immune glomerulonephritis associated with immune checkpoint inhibitors",
+        "Preoperative renal functional reserve predicts risk of acute kidney injury after cardiac operation",
+        "Major adverse cardiovascular events and the timing and dose of corticosteroids in immune checkpoint inhibitor-associated myocarditis",
+        "Early steroid treatment improves the recovery of renal function in patients with drug-induced acute interstitial nephritis",
+        "Acute interstitial nephritis and checkpoint inhibitor therapy",
+        "A new equation to estimate glomerular filtration rate"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "London",
+            "@id": "60005518",
+            "affilname": "Guy's and St Thomas' NHS Foundation Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005518",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Leuven",
+            "@id": "60031069",
+            "affilname": "KU Leuven\u2013 University Hospital Leuven",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031069",
+            "affiliation-country": "Belgium"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60029929",
+            "affilname": "Massachusetts General Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029929",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Columbus",
+            "@id": "60015140",
+            "affilname": "The Ohio State University Wexner Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015140",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60014334",
+            "affilname": "Dana-Farber Cancer Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014334",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Chicago",
+            "@id": "60013227",
+            "affilname": "Northwestern University Feinberg School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013227",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60270066",
+            "affilname": "Northwell Health System",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60270066",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Leuven",
+            "@id": "60121207",
+            "affilname": "Departement Microbiologie, Immunologie en Transplantatie",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60121207",
+            "affiliation-country": "Belgium"
+        },
+        {
+            "affiliation-city": "Barcelona",
+            "@id": "60108505",
+            "affilname": "Vall d'Hebron Institut de Recerca",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60108505",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Tainan",
+            "@id": "60090111",
+            "affilname": "Chi Mei Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60090111",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Stanford",
+            "@id": "60032838",
+            "affilname": "Stanford University School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032838",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Madrid",
+            "@id": "60032461",
+            "affilname": "Hospital Cl\u00ednico San Carlos",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032461",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "San Francisco",
+            "@id": "60031970",
+            "affilname": "UCSF School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031970",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Burlington",
+            "@id": "60031576",
+            "affilname": "University of Vermont Larner College of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031576",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Charlottesville",
+            "@id": "60029418",
+            "affilname": "University of Virginia Health System",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029418",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Birmingham",
+            "@id": "60029230",
+            "affilname": "University of Alabama at Birmingham School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029230",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Berlin",
+            "@id": "60026245",
+            "affilname": "Charit\u00e9 \u2013 Universit\u00e4tsmedizin Berlin",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026245",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "3000 Leuven",
+            "@id": "60025063",
+            "affilname": "KU Leuven",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025063",
+            "affiliation-country": "Belgium"
+        },
+        {
+            "affiliation-city": "Berlin",
+            "@id": "60024629",
+            "affilname": "Max Delbruck Center for Molecular Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024629",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Cleveland",
+            "@id": "60021578",
+            "affilname": "University Hospitals Case Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021578",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Paris",
+            "@id": "60021567",
+            "affilname": "AP-HP Assistance Publique - Hopitaux de Paris",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021567",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Miami",
+            "@id": "60021519",
+            "affilname": "University of Miami Leonard M. Miller School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021519",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Tainan",
+            "@id": "60021353",
+            "affilname": "Southern Taiwan University of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021353",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60016782",
+            "affilname": "Brigham and Women's Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016782",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Seattle",
+            "@id": "60015481",
+            "affilname": "University of Washington",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015481",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Houston",
+            "@id": "60015023",
+            "affilname": "The University of Texas MD Anderson Cancer Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015023",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Toronto",
+            "@id": "60014468",
+            "affilname": "University Health Network University of Toronto",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014468",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60012981",
+            "affilname": "Icahn School of Medicine at Mount Sinai",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012981",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Palo Alto",
+            "@id": "60012708",
+            "affilname": "Stanford University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012708",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Moscow",
+            "@id": "60010188",
+            "affilname": "Sechenov First Moscow State Medical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010188",
+            "affiliation-country": "Russian Federation"
+        },
+        {
+            "affiliation-city": "Geneva",
+            "@id": "60009963",
+            "affilname": "H\u00f4pitaux Universitaires de Gen\u00e8ve",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009963",
+            "affiliation-country": "Switzerland"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60009343",
+            "affilname": "Memorial Sloan-Kettering Cancer Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009343",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Gainesville",
+            "@id": "60007567",
+            "affilname": "University of Florida College of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007567",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Groningen",
+            "@id": "60006027",
+            "affilname": "Universitair Medisch Centrum Groningen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006027",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Tel Aviv-Yafo",
+            "@id": "60005681",
+            "affilname": "Tel Aviv University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005681",
+            "affiliation-country": "Israel"
+        },
+        {
+            "affiliation-city": "Rochester",
+            "@id": "60005558",
+            "affilname": "Mayo Clinic",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005558",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Los Angeles",
+            "@id": "60005247",
+            "affilname": "David Geffen School of Medicine at UCLA",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005247",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Durham",
+            "@id": "60005200",
+            "affilname": "Duke University School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005200",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Philadelphia",
+            "@id": "60003711",
+            "affilname": "University of Pennsylvania Perelman School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003711",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Tainan",
+            "@id": "60003394",
+            "affilname": "National Cheng Kung University College of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003394",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Albany",
+            "@id": "123822326",
+            "affilname": "New York Nephrology Vasculitis and Glomerular Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/123822326",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Division of Internal Medicine",
+        "F.W.O.",
+        "Ohio State University Comprehensive Cancer Center",
+        "National Institutes of Health",
+        "National Institute of Diabetes and Digestive and Kidney Diseases",
+        "Mayo Clinic",
+        "Conquer Cancer Foundation",
+        "American Society of Nephrology",
+        "Bristol Myers Squibb",
+        "Merck",
+        "American Society of Clinical Oncology",
+        "GE Healthcare",
+        "OSU",
+        "University of Texas MD Anderson Cancer Center",
+        "Research Foundation Flanders",
+        "Stichting tegen Kanker"
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "eid": "2-s2.0-85090207997",
+    "title": "Last Mile Optimization for a Young 3PL Provider",
+    "cover-date": "2019-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (miscellaneous)",
+            "@code": "2201",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "ARIMA",
+        "capacitated vehicle routing problem with time window",
+        "parcel delivery services"
+    ],
+    "authors": [
+        "Surapong Sirikulvadhana",
+        "Nitchamon Kreemaha",
+        "Anuttree Thongthangthai",
+        "Thanakrit Rujirapaiboon"
+    ],
+    "citedby-count": 0,
+    "ref-count": 15,
+    "ref-list": [
+        "Complexity of vehicle routing and scheduling problems",
+        "The truck dispatching problem. Management science",
+        "Multi-depot vehicle routing problem with time windows considering delivery and installation vehicles",
+        "Models and algorithms for the vehicle routing problem with time windows and other conditions",
+        "Design of dynamic vehicle routing system based on online map service",
+        "The general pickup and delivery problem",
+        "Genetic algorithm for the one-commodity pickup-And-delivery vehicle routing problem",
+        "Analysis of an o(n) heuristic for the single vehicle many-to-many euclidean dial-A-ride problem",
+        "Combination of nearest neighbor and heuristics algorithms for sequential two dimensional loading capacitated vehicle routing problem",
+        "Study and application of center-of-gravity on the location selection of distribution center",
+        "A cluster-based optimization approach for the multi-depot heterogeneous fleet vehicle routing problem with time windows",
+        "Route optimization using opensolver",
+        "Opensolver-An open source add-in to solve linear and integer programes in excel",
+        "Optimization of pid using PSO for upper limb rehabilitation robot",
+        "Combining nearest neighbor search with tabu search for large-scale vehicle routing problem"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

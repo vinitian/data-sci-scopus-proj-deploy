@@ -1,0 +1,77 @@
+{
+    "eid": "2-s2.0-85069928663",
+    "title": "Design of Robust Hierarchical Control for Homogeneous Multi-Agent Systems with Parametric Uncertainty and Exogenous Disturbance",
+    "cover-date": "2019-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Tuynh Van Pham",
+        "Dinh Hoa Nguyen",
+        "David Banjerdpongchai"
+    ],
+    "citedby-count": 1,
+    "ref-count": 20,
+    "ref-list": [
+        "Hierarchical decentralized stabilization for networked dynamical systems by lqr selective pole shift",
+        "A sub-optimal consensus design for multi-agent systems based on hierarchical lqr",
+        "Hierarchical decentralized controller synthesis for heterogeneous multi-agent dynamical systems by lqr",
+        "Disturbance-observer-based control and related methods-an overview",
+        "Robust h\u221e consensus control of uncertain multiagent systems with time delays",
+        "Consensus problem of high-order multi-agent systems with external disturbances: An h\u221e analysis approach",
+        "Robust h\u221e controller design for dynamic consensus networks",
+        "Disturbance attenuation in a consensus network of identical linear systems: An h\u221e approach",
+        "Disturbance attenuation of a network of nonlinear systems",
+        "Distributed robust h\u221e consensus for multiagent systems with nonlinear dynamics and parameter uncertainties",
+        "A novel distributed optimal approach to power coordination in wind power plants",
+        "On h\u221e and h2 performance regions of multi-agent systems",
+        "Distributed robust control of linear multi-agent systems with parameter uncertainties",
+        "Output feedback h\u221e control of systems with parameter uncertainty",
+        "Linear matrix inequalities in system and control theory"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Fukuoka",
+            "@id": "60011047",
+            "affilname": "Kyushu University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011047",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Chu-lalongkorn University",
+        "Institute of Mathematics for Industry",
+        "Institute of Mathematics for Industry, Kyushu University",
+        "Kyushu University",
+        "JICA",
+        "Fukuoka",
+        "Department of Electrical Engineering, Chulalongkorn University",
+        "International Institute for Carbon-Neutral Energy Research",
+        "IMI"
+    ]
+}

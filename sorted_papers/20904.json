@@ -1,0 +1,64 @@
+{
+    "eid": "2-s2.0-85061329400",
+    "title": "An improved RSA procedure to compute shear force in tall RC shear wall buildings",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "K. Khy",
+        "C. Chintanapakdee",
+        "A. C. Wijeyewickrema"
+    ],
+    "citedby-count": 0,
+    "ref-count": 19,
+    "ref-list": [
+        "Response of tall cantilever wall buildings to strong pulse type seismic excitation",
+        "Evaluation of a modified MPA procedure assuming higher modes as elastic to estimate seismic demands",
+        "Shake table testing of slender RC shear walls subjected to eastern North America seismic ground motions",
+        "Evaluation of Seismic Shear Demands of RC Core Walls in Thailand Determined by RSA Procedure",
+        "Theoretical stress-strain model for confined concrete",
+        "Effect of higher modes on the seismic response and design of moment-resisting RC frame structures",
+        "The cause of unpro-portionately large higher mode contributions in the inelastic seismic responses of high-rise core-wall buildings",
+        "SHAKE2000-A computer program for the 1-D analysis of geotechnical earthquake engineering problems. GeoMotion",
+        "Shake-table test of a full-scale 7-story building slice. Phase I: Rectangular wall",
+        "Development of new design spectral accelerations for Bangkok considering deep basin effects. 16th World Conference on Earthquake Engineering, 2017",
+        "Does capacity design do the job? An examination of higher mode effects in cantilever walls"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60031126",
+            "affilname": "Tokyo Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031126",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "ASEAN University Net-work",
+        "Center of Excellence in Earthquake Engineering and Vibration",
+        "Southeast Asia Engineering Education Development Network",
+        "Chulalongkorn University",
+        "Thailand Research Fund",
+        "JICA"
+    ]
+}

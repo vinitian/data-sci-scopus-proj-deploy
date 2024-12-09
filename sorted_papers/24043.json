@@ -1,0 +1,126 @@
+{
+    "eid": "2-s2.0-85071883406",
+    "title": "Multi-scale inception based super-resolution using deep learning approach",
+    "cover-date": "2019-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Asymmetric convolution",
+        "Deep learning",
+        "Inception module",
+        "Multi-scale information",
+        "Residual skip connection"
+    ],
+    "authors": [
+        "Wazir Muhammad",
+        "Supavadee Aramvith"
+    ],
+    "citedby-count": 17,
+    "ref-count": 71,
+    "ref-list": [
+        "Example-based super-resolution",
+        "Super-resolution from a single image",
+        "A super-resolution reconstruction algorithm for surveillance images",
+        "Eigenface-domain super-resolution for face recognition",
+        "Superresolution in MRI: Application to human white matter fiber tract visualization by diffusion tensor imaging",
+        "Sub-pixel mapping of rural land cover objects from fine spatial resolution satellite sensor imagery using super-resolution pixel-swapping",
+        "Cubic convolution interpolation for digital image processing",
+        "An improved interpolation algorithm using nearest neighbor from VTK",
+        "An edge-guided image interpolation algorithm via directional filtering and data fusion",
+        "Super resolution using edge prior and single image detail synthesis",
+        "Adjusted anchored neighborhood regression for fast super-resolution",
+        "Image super-resolution via sparse representation",
+        "Fast and accurate image upscaling with super-resolution forests",
+        "Single image super-resolution based on multi-scale competitive convolutional neural network",
+        "Accelerating the super-resolution convolutional neural network",
+        "Accurate image super-resolution using very deep convolutional networks",
+        "Deeply-recursive convolutional network for image super-resolution",
+        "Deep laplacian pyramid networks for fast and accurate superresolution",
+        "Enhanced deep residual networks for single image super-resolution",
+        "Image super-resolution via deep recursive residual network",
+        "Anchored neighborhood regression for fast example-based super-resolution",
+        "Single image super-resolution from transformed self-exemplars",
+        "Real-time artifact-free image upscaling",
+        "Image super-resolution as sparse representation of raw image patches",
+        "Learning a deep convolutional network for image super-resolution",
+        "Deep networks for image super-resolution with sparse prior",
+        "Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network",
+        "U-net: Convolutional networks for biomedical image segmentation",
+        "Image restoration using very deep convolutional encoder-decoder networks with symmetric skip connections",
+        "Adaptive deconvolutional networks for mid and high level feature learning",
+        "Fast and Accurate Single Image Super-Resolution via Information Distillation Network",
+        "Deep residual learning for image recognition",
+        "Image super resolution based on fusing multiple convolution neural networks",
+        "Fast and accurate image super resolution by deep CNN with skip connection and network in network",
+        "Image super-resolution via dual-state recurrent networks",
+        "Learning a single convolutional super-resolution network for multiple degradations",
+        "Learning deep CNN denoiser prior for image restoration",
+        "An Effective Single-Image Super-Resolution Model Using Squeeze-and-Excitation Networks",
+        "Rectified linear units improve restricted boltzmann machines",
+        "Deep backprojection networks for super-resolution",
+        "Beyond a gaussian denoiser: Residual learning of deep cnn for image denoising",
+        "Efficient convnet for real-time semantic segmentation",
+        "Rethinking the inception architecture for computer vision",
+        "Image super resolution using generative adversarial networks and local saliency maps for retinal image analysis",
+        "Going deeper with convolutions",
+        "Inception-v4, inception-resnet and the impact of residual connections on learning",
+        "Fully convolutional multi-scale residual DenseNets for cardiac segmentation and automated cardiac diagnosis using ensemble of classifiers",
+        "Recent progresses on object detection: A brief review",
+        "Feature learning and deep learning architecture survey",
+        "Image quality assessment: From error visibility to structural similarity",
+        "Single-image super-resolution: A benchmark",
+        "A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics",
+        "Low-complexity single-image super-resolution based on nonnegative neighbor embedding",
+        "On Single Image Scale-Up Using Sparse-Representations",
+        "Sketch-based manga retrieval using manga109 dataset",
+        "Image super-resolution using very deep residual channel attention networks",
+        "Stacked U-shape networks with channel-wise attention for image super-resolution",
+        "Image super resolution by dilated dense progressive network",
+        "Multipath feedforward network for single image super-resolution",
+        "Image Super-Resolution Based on Dense Convolutional Network",
+        "Task-Aware Image Downscaling",
+        "Esrgan: Enhanced super-resolution generative adversarial networks",
+        "Bi-GANs-ST for perceptual image super-resolution"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Ratchadaphiseksomphot Endowment Fund",
+        "Chulalongkorn University"
+    ]
+}

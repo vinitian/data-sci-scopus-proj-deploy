@@ -1,0 +1,93 @@
+{
+    "eid": "2-s2.0-85096032506",
+    "title": "Improving the Performance of an All-Vanadium Redox Flow Battery under Imbalance Conditions: Online Dynamic Optimization Approach",
+    "cover-date": "2020-09-14",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Chemistry (all)",
+            "@code": "1600",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Environmental Chemistry",
+            "@code": "2304",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Chemical Engineering (all)",
+            "@code": "1500",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        }
+    ],
+    "keywords": [
+        "All-vanadium redox flow battery",
+        "Battery system efficiency",
+        "Electrolyte imbalance",
+        "Extended Kalman filter",
+        "Online optimization"
+    ],
+    "authors": [
+        "Prathak Jienkulsawad",
+        "Tossabhorn Jirabovornwisut",
+        "Yong Song Chen",
+        "Amornchai Arpornwichanop"
+    ],
+    "citedby-count": 18,
+    "ref-count": 25,
+    "ref-list": [
+        "Numerical investigation and thermodynamic analysis of the effect of electrolyte flow rate on performance of all vanadium redox flow batteries",
+        "Dynamic modelling of the effects of ion diffusion and side reactions on the capacity loss for vanadium redox flow battery",
+        "Detection of capacity imbalance in vanadium electrolyte and its electrochemical regeneration for all-vanadium redox-flow batteries",
+        "Corrosion behavior of a positive graphite electrode in vanadium redox flow battery",
+        "Investigating the air oxidation of V(II) ions in a vanadium redox flow battery",
+        "Investigations on the self-discharge process in vanadium flow battery",
+        "Selective anion exchange membranes for high coulombic efficiency vanadium redox flow batteries",
+        "Water transfer behaviour across cation exchange membranes in the vanadium redox battery",
+        "A review on the electrolyte imbalance in vanadium redox flow batteries",
+        "Parametric study and flow rate optimization of all-vanadium redox flow batteries",
+        "An optimal strategy of electrolyte flow rate for vanadium redox flow battery",
+        "Studies on pressure losses and flow rate optimization in vanadium redox flow battery",
+        "Optimal operational strategy for a vanadium redox flow battery",
+        "Control strategy optimization of electrolyte flow rate for all vanadium redox flow battery with consideration of pump",
+        "Monitoring the state of charge of all-vanadium redox flow batteries to identify crossover of electrolyte",
+        "Nonlinear filtering for sequential spacecraft attitude estimation with real data: Cubature Kalman Filter, Unscented Kalman Filter and Extended Kalman Filter",
+        "Electrical circuit model of a vanadium redox flow battery using extended Kalman filter",
+        "Extended Kalman filter method for state of charge estimation of vanadium redox flow battery using thermal-dependent electrical model",
+        "Analysis and measurement of the electrolyte imbalance in a vanadium redox flow battery",
+        "Electrochemical properties of pore-filled anion exchange membranes and their ionic transport phenomena for vanadium redox flow battery applications",
+        "An enhancement to Vynnycky's model for the all-vanadium redox flow battery",
+        "Dynamic control strategy for the electrolyte flow rate of vanadium redox flow batteries",
+        "Thermal hydraulic behavior and efficiency analysis of an all-vanadium redox flow battery",
+        "Real-time monitoring of the state of charge (SOC) in vanadium redox-flow batteries using UV-Vis spectroscopy in operando mode",
+        "Review of adaptive systems for lithium batteries state-of-charge and state-of-health estimation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Min-Hsiung",
+            "@id": "60007954",
+            "affilname": "National Chung Cheng University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007954",
+            "affiliation-country": "Taiwan"
+        }
+    ],
+    "funding": [
+        "Ratchadapisek Sompoch Endowment Fund",
+        "Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "eid": "2-s2.0-85131871042",
+    "title": "A Reinforcement Learning Based Data Caching in Wireless Networks",
+    "cover-date": "2022-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Process Chemistry and Technology",
+            "@code": "1508",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Fluid Flow and Transfer Processes",
+            "@code": "1507",
+            "@abbrev": "CENG"
+        }
+    ],
+    "keywords": [
+        "5G",
+        "caching",
+        "dynamic data popularity",
+        "network delay",
+        "Q-learning",
+        "reinforcement learning",
+        "small base station"
+    ],
+    "authors": [
+        "Muhammad Sheraz",
+        "Shahryar Shafique",
+        "Sohail Imran",
+        "Muhammad Asif",
+        "Rizwan Ullah",
+        "Muhammad Ibrar",
+        "Jahanzeb Khan",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 0,
+    "ref-count": 35,
+    "ref-list": [
+        "On mobile edge caching",
+        "Cost-effective cache deployment in mobile heterogeneous networks",
+        "Latency aware workload offloading in the cloudlet network",
+        "Designing wireless backhaul heterogeneous networks with small cell buffering",
+        "A survey of caching techniques in cellular networks: Research issues and challenges in content placement and delivery strategies",
+        "Wireless caching: Technical misconceptions and business barriers",
+        "Code, cache and deliver on the move: A novel caching paradigm in hyper-dense small-cell networks",
+        "User-centric cross-tier base station clustering and cooperation in heterogeneous networks: Rate improvement and energy saving",
+        "Cache-enabled device to device networks with contention-based multimedia delivery",
+        "Policy optimization for content push via energy harvesting small cells in heterogeneous networks",
+        "Energy efficiency of downlink networks with caching at base stations",
+        "Mobility-aware caching for content-centric wireless networks: Modeling and methodology",
+        "Caching on the move: A user interest-driven caching strategy for D2D content sharing",
+        "Multicast-aware caching for small cell networks",
+        "Base-station assisted device-to-device communications for high-throughput wireless video networks",
+        "A survey of web caching schemes for the internet",
+        "Caching placement in stochastic wireless caching helper networks: Channel selection diversity via caching",
+        "Optimizing video request routing in mobile networks with built-in content caching",
+        "Incentive-Driven Deep Reinforcement Learning for Content Caching and D2D Offloading",
+        "Intelligent Edge Computing in Internet of Vehicles: A Joint Computation Offloading and Caching Solution",
+        "Learning Future Reference Patterns for Efficient Cache Replacement Decisions",
+        "Cooperative caching and transmission design in cluster-centric small cell networks",
+        "Green and Mobility-Aware Caching in 5G Networks",
+        "Social Groups Based Content Caching in Wireless Networks",
+        "Wireless Networks With Cache-Enabled and Backhaul-Limited Aerial Base Stations",
+        "Applying machine learning techniques for caching in next-generation edge networks: A comprehensive survey",
+        "Content-Aware Proactive Caching for Backhaul Offloading in Cellular Network",
+        "Mode Selection and Resource Allocation in Sliced Fog Radio Access Networks: A Reinforcement Learning Approach",
+        "Cache allocation in multi-tenant edge computing via online reinforcement learning",
+        "Cache Partitioning and Caching Strategies for Device-to-Device Caching Systems",
+        "Extensive Cooperative Content Caching and Delivery Scheme Based on Multicast for D2D-Enabled HetNets",
+        "Cache Placement in Fog-RANs: From Centralized to Distributed Algorithms",
+        "Optimal and Scalable Caching for 5G Using Reinforcement Learning of Space-Time Popularities"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Peshawar",
+            "@id": "60277035",
+            "affilname": "Iqra National University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60277035",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Peshawar",
+            "@id": "60106555",
+            "affilname": "Islamia College, Peshawar",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60106555",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Bannu",
+            "@id": "60070624",
+            "affilname": "University of Science and Technology Bannu",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60070624",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Thailand Science research and Innovation Fund Chulalongkorn University",
+        "Chulalongkorn University"
+    ]
+}

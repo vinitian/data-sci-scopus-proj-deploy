@@ -1,0 +1,63 @@
+{
+    "eid": "2-s2.0-85079849881",
+    "title": "Transforming WS-BPEL into timed automata",
+    "cover-date": "2019-12-09",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Formal Verification",
+        "Model Checking",
+        "Timed Automata",
+        "WS-BPEL Workflow"
+    ],
+    "authors": [
+        "Pramate Chandratarat",
+        "Wiwat Vatanawood"
+    ],
+    "citedby-count": 1,
+    "ref-count": 14,
+    "ref-list": [
+        "Towards the semantics and verification of BPEL4WS in",
+        "Transforming BPEL into annotated deterministic finite state automata for service discovery",
+        "Modeling and verifying web service orchestration by means of the concurrency workbench",
+        "Modeling and verification of web services composition based on CPN",
+        "Verification of event-driven process chain with timed automata and time petri nets",
+        "A theory of timed automata",
+        "Model checking for realtime systems",
+        "A tree pattern matching algorithm for XML queries with structural preferences",
+        "Using timed automata for modeling distributed systems with clocks: Challenges and solutions",
+        "Timed automata patterns"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

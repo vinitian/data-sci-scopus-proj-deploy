@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85151693791",
+    "title": "Machine Learning Techniques to Detect Failure in Hard Disk Drive Test Process",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Decision Sciences (miscellaneous)",
+            "@code": "1801",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "failure detection",
+        "feature selection",
+        "hard disk drive",
+        "imbalance data",
+        "SVM",
+        "XGBoost"
+    ],
+    "authors": [
+        "Arunee Sridee",
+        "Prabhas Chongstitvatana"
+    ],
+    "citedby-count": 0,
+    "ref-count": 19,
+    "ref-list": [
+        "Efficient Machine Learning Methods for Hard Disk Drive Yield Prediction Improvement",
+        "Abnormality detection in hard disk drive assembly process using support Vector Machine",
+        "Predictive Models of Hard Drive Failures Based on Operational Data",
+        "Anomaly Detection Model for Predicting Hard Disk Drive Failures",
+        "Applying support vector machines to imbalanced datasets",
+        "SVMS modeling for highly imbalanced classification",
+        "Support Vector Machine Active Learning With Applications To Text Classification",
+        "Predictive models with resampling: A comparative study of machine learning algorithms and their performances on handling imbalanced datasets",
+        "Smote: Synthetic minority over-sampling technique",
+        "Borderline-smote: A new over-sampling method in imbalanced data sets learning",
+        "Synthetic oversampling with the majority class: A new perspective on handling extreme imbalance",
+        "Stability of Feature Selection Algorithm: A Review",
+        "Feature selection for high dimensional imbalanced class data based on F-measure optimization",
+        "XGBoost",
+        "XGBoost-Based Algorithm Interpretation and Application on Post-Fault Transient Stability Status Prediction of Power System",
+        "On using eXtreme Gradient Boosting (XGBoost) Machine Learning algorithm for Home Network Traffic Classification",
+        "Facing imbalanced data-recommendations for the use of performance metrics",
+        "The precision-recall plot is more informative than the ROC plot when evaluating binary classifiers on imbalanced datasets",
+        "A survey on feature selection methods"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

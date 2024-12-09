@@ -1,0 +1,79 @@
+{
+    "eid": "2-s2.0-85160203399",
+    "title": "Liver and Tumor Segmentation in Selective Internal Radiation Therapy 99mTc-MAA SPECT/CT Images using MANet and Histogram Adjustment",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "99mTc-MAA SPECT/CT",
+        "CT",
+        "deep learning",
+        "Liver",
+        "medical imaging",
+        "segmentation",
+        "tumor"
+    ],
+    "authors": [
+        "Sukanya Saeku",
+        "Nut Noipinit",
+        "Kitiwat Khamwan",
+        "Punnarai Siricharoen"
+    ],
+    "citedby-count": 0,
+    "ref-count": 19,
+    "ref-list": [
+        "Yttrium-90 selective internal radiation therapy for liver tumors",
+        "HDenseunet: Hybrid densely connected unet for liver and tumor segmentation from ct volumes",
+        "RA-UNet: A hybrid deep attention-aware network to extract liver and tumor in ct scans",
+        "MA-net: A multi-scale attention network for liver and tumor segmentation",
+        "Liver tumor segmentation and subsequent risk prediction based on deeplabv3+",
+        "AHCnet: An application of attention mechanism and hybrid connection for liver tumor segmentation in ct volumes",
+        "Automated segmentation of lung, liver, and liver tumors from Tc 99m MAA SPECT/CT images for Y 90 radioembolization using convolutional neural networks",
+        "Hounsfield unit values of liver pathologies in unenhanced post-mortem computed tomography",
+        "SPECT/CT",
+        "Self-training with noisy student improves imagenet classification",
+        "Metrics for evaluating 3D medical image segmentation: Analysis, selection, and tool"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,65 @@
+{
+    "eid": "2-s2.0-85049683676",
+    "title": "Transformation of the BPMN Design Model into a Colored Petri Net Using the Partitioning Approach",
+    "cover-date": "2018-07-05",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "BPMN",
+        "colored Petri net",
+        "formal verification",
+        "model transformation"
+    ],
+    "authors": [
+        "C. Dechsupa",
+        "W. Vatanawood",
+        "A. Thongtak"
+    ],
+    "citedby-count": 18,
+    "ref-count": 28,
+    "ref-list": [
+        "Model checking and the state explosion problem",
+        "Coloured Petri nets and CPN tools for modelling and validation of concurrent systems",
+        "VBPMN: Automated veri-cation of BPMN processes",
+        "Business process veri-cation: The application of model checking and timed automata",
+        "Transformation of BPMN models for behaviour analysis",
+        "Formal semantics and analysis of BPMN process models using Petri nets",
+        "Formal veri-cation of complex business processes based on high-level Petri nets",
+        "The classic petri net",
+        "Colored Petri nets: A graphical language for formal modeling and validation of concurrent systems",
+        "Work-ow Partitioning and deployment on the cloud using orchestra",
+        "Liveness and reachability analysis of BPMN process models",
+        "Formal semantics of BPMN process models using CPN",
+        "BPMN Formalisation using Coloured Petri Nets",
+        "BPMN-based business process model feasibility analysis: A petri net approach",
+        "Diagnosing and repairing data anomalies in process models"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

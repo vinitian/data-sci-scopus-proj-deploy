@@ -1,0 +1,91 @@
+{
+    "eid": "2-s2.0-85084827606",
+    "title": "Recognizing the illegal parking patterns of cars on the road in front of the bus stop using the support vector machine",
+    "cover-date": "2019-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Media Technology",
+            "@code": "2214",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "CCTV",
+        "Linear Regression",
+        "Personal vehicles",
+        "Support Vector Machine (SVM)"
+    ],
+    "authors": [
+        "Mahasak Ketcham",
+        "Thittaporn Ganokratanaa",
+        "Eakbodin Gedkhaw",
+        "Manussawee Piyaneeranart",
+        "Worawut Yimyam"
+    ],
+    "citedby-count": 10,
+    "ref-count": 22,
+    "ref-list": [
+        "Traffic index 2019 mid-year",
+        "Abnormal incident detection system employing image processing technology",
+        "Image sequences based traffic incident detection for signaled intersections using HMM",
+        "Traffic monitoring based on realtime image tracking",
+        "Traffic monitoring and accident detection at intersections",
+        "Vehicle detection using normalized color and edge map",
+        "A stereo vision-based obstacle detection system in vehicles",
+        "Shape and motion from image streams: A factorization method",
+        "Real-time estimation and tracking of optical flow vectors for obstacle detection",
+        "License plate recognition from still images and video sequences: A survey",
+        "Vehicle color recognition using vector matching of template",
+        "Color recognition of license plates using fuzzy logic and learning approach",
+        "Vehicle logo recognition using a sift-based enhanced matching scheme",
+        "Vehicle model recognition from frontal view image measurements",
+        "A fast coarse-to-fine vehicle logo detection and recognition method",
+        "Vehicle authentication from digital image measurements",
+        "Vision-based vehicle detection system with consideration of the detecting location",
+        "Text categorization with support vector machines: Learning with many relevant features",
+        "Online vehicle detection using Haar-like, LBP and HOG feature based image classifiers with stereo vision preselection"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60110518",
+            "affilname": "Rajabhat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60110518",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

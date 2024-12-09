@@ -1,0 +1,93 @@
+{
+    "eid": "2-s2.0-85077509649",
+    "title": "Aggregating centrality rankings: A novel approach to detect critical infrastructure vulnerabilities",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Analytic Hierarchy Process",
+        "Critical infrastructures",
+        "Criticality analysis",
+        "Least squares optimization",
+        "Ranking aggregation"
+    ],
+    "authors": [
+        "Gabriele Oliva",
+        "Annunziata Esposito Amideo",
+        "Stefano Starita",
+        "Roberto Setola",
+        "Maria Paola Scaparra"
+    ],
+    "citedby-count": 6,
+    "ref-count": 24,
+    "ref-list": [
+        "A risk-based input-output methodology for measuring the effects of the August 2003 northeast blackout",
+        "Chelyabinsk airburst, damage assessment, meteorite recovery, and characterization",
+        "Railway Infrastructure Security",
+        "How to measure the degree of interdependencies among critical infrastructures",
+        "Network structural vulnerability: A multiobjective attacker perspective",
+        "Risk mitigation strategies for critical infrastructures based on graph centrality analysis",
+        "Critical nodes identification in complex systems",
+        "Vital nodes identification in complex networks",
+        "Robustness comparison of 15 real telecommunication networks: Structural and centrality measurements",
+        "Assessing urban rail transit systems vulnerability: Metrics vs. interdiction models",
+        "A scaling method for priorities in hierarchical structures",
+        "The geometric mean procedure for estimating the scale of a judgement matrix",
+        "Consistent weights for judgements matrices of the relative importance of alternatives",
+        "On optimal completion of incomplete pairwise comparison matrices",
+        "Sparse and distributed analytic hierarchy process",
+        "The (Logarithmic) least squares optimality of the arithmetic (geometric) mean of weight vectors calculated from all spanning trees for incomplete additive (multiplicative) pairwise comparison matrices",
+        "Comparing and aggregating rankings with ties",
+        "Rank aggregation methods dealing with ordinal uncertain preferences",
+        "Utopia in the solution of the bucket order problem",
+        "Algebraic Graph Theory",
+        "Consensus and cooperation in networked multi-agent systems",
+        "Link analysis ranking: Algorithms, theory, and experiments",
+        "A new measure of rank correlation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Canterbury",
+            "@id": "60162124",
+            "affilname": "Kent Business School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60162124",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60138776",
+            "affilname": "Sasin School of Management, Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60138776",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Rome",
+            "@id": "60005308",
+            "affilname": "Universit\u00e0 Campus Bio-Medico di Roma",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005308",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Dublin",
+            "@id": "60005141",
+            "affilname": "University College Dublin",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005141",
+            "affiliation-country": "Ireland"
+        }
+    ],
+    "funding": [
+        "INAIL"
+    ]
+}

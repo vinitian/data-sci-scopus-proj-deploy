@@ -1,0 +1,70 @@
+{
+    "eid": "2-s2.0-85084793833",
+    "title": "Self-identification resnet-arima forecasting model",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "ACF",
+        "ARIMA",
+        "Differencing time series",
+        "Ljung-Box",
+        "PACF",
+        "ResNet"
+    ],
+    "authors": [
+        "Paisit Khanarsa",
+        "Arthorn Luangsodsa",
+        "Krung Sinapiromsaran"
+    ],
+    "citedby-count": 5,
+    "ref-count": 29,
+    "ref-list": [
+        "Impact of economic growth, foreign direct investment and financial development on stock prices in China: Empirical evidence from time series analysis",
+        "Agribusiness time series forecasting using Wavelet neural networks and metaheuristic optimization: An analysis of the soybean sack price and perishable products demand",
+        "Demand forecasting for sales of milk product (Paneer) in Chhattisgarh",
+        "Factor forecasting using international targeted predictors: The case of German GDP",
+        "Time series analysis: Forecasting and control Holden-Day",
+        "Estimates of the Variance of US Inflation Based upon the ARCH Model",
+        "Modelling the coherence in short-run nominal exchange rates: A multivariate generalized ARCH model",
+        "Time series analysis. In The Oxford Handbook of Quantitative Methods in",
+        "Factor analysis and AIC",
+        "The Bayesian information criterion: Background, derivation, and applications",
+        "Performances of Model Selection Criteria When Variables are Ill Conditioned",
+        "ARIMA-based time series model of stochastic wind power generation",
+        "A hybrid neural network and ARIMA model for water quality time series prediction",
+        "Time series ARIMA model for prediction of daily and monthly average global solar radiation: The case study of Seoul, South Korea",
+        "An intelligent approach to time series identification by a neural network-driven decision tree classifier",
+        "Automatic ARMA identification using neural networks and the extended sample autocorrelation function: A reevaluation",
+        "Artificial neural network-based algorithm for ARMA model order estimation",
+        "ARIMA-based decoupled time series forecasting of electric vehicle charging demand for stochastic power system operation",
+        "Deterministic decomposition and seasonal ARIMA time series models applied to airport noise forecasting",
+        "Wind Speed Prediction Model Using LSTM and 1D-CNN",
+        "Forecasting stock prices with a feature fusion LSTM-CNN model using different representations of the same data",
+        "Imagenet: A large-scale hierarchical image database",
+        "A review on deep convolutional neural networks",
+        "Review Article on Deep Learning Approaches",
+        "A review on deep convolutional neural networks",
+        "Classification of mass and normal breast tissue: A convolution neural network classifier with spatial domain and texture images"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

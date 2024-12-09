@@ -1,0 +1,105 @@
+{
+    "eid": "2-s2.0-85149669280",
+    "title": "Network-based methods with heterogeneous data to identify severe COVID immune-related genes",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "network-based disease-associated gene prediction",
+        "PPI network",
+        "severe COVID-19 immune-related pathways",
+        "systems biology"
+    ],
+    "authors": [
+        "Pakorn Sagulkoo",
+        "Apichat Suratanee",
+        "Kitiporn Plaimas"
+    ],
+    "citedby-count": 0,
+    "ref-count": 21,
+    "ref-list": [
+        "The cytokine storm and COVID-19",
+        "SARS-CoV-2 infection: The role of cytokines in COVID-19 disease",
+        "Heterogeneous Network Model to Identify Potential Associations between Plasmodium vivax and Human Proteins",
+        "STRING v11: Protein-protein association networks with increased coverage, supporting functional discovery in genome-wide experimental datasets",
+        "Protein networks in disease",
+        "Network diffusion with centrality measures to identify disease-related genes",
+        "Network propagation: A universal amplifier of genetic associations",
+        "Immune-Related Protein Interaction Network in Severe COVID-19 Patients toward the Identification of Key Proteins and Drug Repurposing",
+        "The Gene Ontology (GO) database and informatics resource",
+        "The Igraph Software Package for Complex Network Research",
+        "Guilt-by-association goes global",
+        "DiffuStats: An R package to compute diffusion-based scores on biological networks",
+        "Metascape provides a biologist-oriented resource for the analysis of systems-level datasets",
+        "WikiPathways: Connecting communities",
+        "KEGG: New perspectives on genomes, pathways, diseases and drugs",
+        "The reactome pathway knowledgebase",
+        "CORUM: The comprehensive resource of mammalian protein complexes-2019",
+        "Canonical pathways, networks and transcriptional factor regulation by clinical strains of Mycobacterium tuberculosis in pulmonary alveolar epithelial cells",
+        "Identification of proliferative diabetic retinopathy-associated genes on the protein-protein interaction network by using heat diffusion algorithm",
+        "A Guide to Conquer the Biological Network Era Using Graph Theory"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chaing Mai",
+            "@id": "60000881",
+            "affilname": "Chiang Mai University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000881",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Faculty of Applied Science",
+        "King Mongkut\u2019s University of Technology North Bangkok"
+    ]
+}

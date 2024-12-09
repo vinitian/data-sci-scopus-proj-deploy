@@ -1,0 +1,91 @@
+{
+    "eid": "2-s2.0-85061980543",
+    "title": "Iterative LMI Approach to Robust State-feedback Control of Polynomial Systems with Bounded Actuators",
+    "cover-date": "2019-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Bounded actuators",
+        "convex optimization",
+        "parameter-dependent LMI",
+        "polynomial systems",
+        "robust state-feedback",
+        "stabilization",
+        "sum-of-squares technique"
+    ],
+    "authors": [
+        "Tanagorn Jennawasin",
+        "Michihiro Kawanishi",
+        "Tatsuo Narikiyo",
+        "David Banjerdpongchai"
+    ],
+    "citedby-count": 5,
+    "ref-count": 31,
+    "ref-list": [
+        "Event-based control for network systems via integral quadratic constraints",
+        "Sampled data synchronization of complex networks with partial couplings and T-S fuzzy nodes",
+        "H\u00a5 stabilization of 2-D discrete switched delayed systems represented by the Roesser model subject to actuator saturation",
+        "State feedback H\u00a5 control for 2-D switched delay systems with actuator saturation in the second FM model",
+        "Disturbance tolerance and rejection of discrete switched systems with timevarying delay and saturating actuator",
+        "Estimating the attraction domain for the boost inverter",
+        "LMI techniques for optimization over polynomials in control: a survey",
+        "Semidefinite programming relaxations for semialgebraic problems",
+        "Design of stabilizing control for synchronous machines via polynomial modelling and linear matrix inequalities approach",
+        "Analysis and design of polynomial control systems using dissipation inequalities and sum of squares",
+        "Optimal control for polynomial systems using matrix sum of squares relaxation",
+        "A Convex approach to state feedback synthesis for polynomial nonlinear systems with input saturation",
+        "Nonlinear control synthesis by sum of squares optimization: a Lyapunov-based approach",
+        "Stabilization of nonlinear systems with bounded actuators using convex optimization",
+        "Fault-tolerant control synthesis for a class of nonlinear systems: sum of squares optimization approach",
+        "Regional stabilisation of polynomial nonlinear systems using rational Lyapunov functions",
+        "An improved stabilizing condition for polynomial systems with bounded actuators: an SOS-based approach",
+        "Global optimization with polynomials and the problems of moments",
+        "New dilated LMI characterizations for continuous-time multi-objective controller synthesis",
+        "Extended H2 and H\u00a5 norm characterizations and controller parameterizations for discrete-time systems",
+        "A new robusr D-stability condition for real convex polytopic uncertainty",
+        "Dilated-matrix inequalities for control design in systems with actuator constraint",
+        "Design of statefeedback control for polynomial systems with quadratic performance criterion and control input constraints",
+        "Model approximation for two-dimensional Markovian jump systems with state-delays and imperfect mode information",
+        "Fixed-order piecewise-affine output feedback controller for fuzzyaffine-model-based nonlinear systems with time-varying delay",
+        "Sliding mode control for semi-Markovian jump systems via output feedback",
+        "Generalized sector synthesis of output feedback control with anti-windup structure"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Thonburi",
+            "@id": "60008786",
+            "affilname": "King Mongkut's University of Technology Thonburi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008786",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nagoya",
+            "@id": "60006081",
+            "affilname": "Toyota Technological Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006081",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

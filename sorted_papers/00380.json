@@ -1,0 +1,99 @@
+{
+    "eid": "2-s2.0-85137299825",
+    "title": "Integration of In Silico Strategies for Drug Repositioning towards P38\u03b1 Mitogen-Activated Protein Kinase (MAPK) at the Allosteric Site",
+    "cover-date": "2022-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Pharmaceutical Science",
+            "@code": "3003",
+            "@abbrev": "PHAR"
+        }
+    ],
+    "keywords": [
+        "allosteric inhibitors",
+        "computer-aided drug discovery",
+        "drug repositioning",
+        "in silico screening",
+        "MD simulation",
+        "molecular docking",
+        "p38\u03b1 MAPK"
+    ],
+    "authors": [
+        "Utid Suriya",
+        "Panupong Mahalapbutr",
+        "Thanyada Rungrotmongkol"
+    ],
+    "citedby-count": 1,
+    "ref-count": 45,
+    "ref-list": [
+        "Activation and function of the MAPKs and their substrates, the MAPK-activated protein kinases",
+        "A comprehensive structural overview of p38\u03b1 mitogen-activated protein kinase in complex with ATP-Site and non-ATP-site binders",
+        "Targeting MAPK signaling in cancer: Mechanisms of drug resistance and sensitivity",
+        "P38 MAP kinases: Key signalling molecules as therapeutic targets for inflammatory diseases",
+        "The p38 mitogen-activated protein kinase (MAPK) pathway in rheumatoid arthritis",
+        "P38\u03b1 MAP kinase as a sensor of reactive oxygen species in tumorigenesis",
+        "The stress kinase p38\u03b1 as a target for cancer therapy",
+        "Pathological roles of MAPK signaling pathways in human diseases",
+        "P38 MAPK inhibition: A promising therapeutic approach for COVID-19",
+        "Diversity and versatility of p38 kinase signalling in health and disease",
+        "An updated patent review of p38 MAP kinase inhibitors (2014\u20132019)",
+        "Inhibition of p38 MAP kinase by utilizing a novel allosteric binding site",
+        "Therapeutic protein kinase inhibitors",
+        "p38 pathway kinases as anti-inflammatory drug targets",
+        "Safety and Efficacy of VX-702, a p38 MAP Kinase Inhibitor, in Rheumatoid arthritis. OP-0246 European League Against Rheumatism",
+        "MAP kinase p38 inhibitors: Clinical results and an intimate look at their interactions with p38alpha protein",
+        "Mitogen activated protein kinase inhibitors: Where are we now and where are we going?",
+        "SWISS-MODEL: Homology modelling of protein structures and complexes",
+        "PROCHECK: A program to check the stereochemical quality of protein structures",
+        "Computation, PROPKA3: Consistent treatment of internal and surface residues in empirical pKa predictions",
+        "ANTECHAMBER: An accessory software package for molecular mechanical calculations",
+        "AutoDock VinaXB: Implementation of XBSF, new empirical halogen bond scoring function, into AutoDock Vina",
+        "In silico elucidation of potent inhibitors and rational drug design against SARS-CoV-2 Papain-like protease",
+        "In silico screening of DNA gyrase B potent flavonoids for the treatment of clostridium difficile infection from phytoHub database",
+        "Computational screening of newly designed compounds against coxsackievirus A16 and enterovirus A71",
+        "In silico screening of available drugs targeting non-small cell lung cancer targets: A drug repurposing approach",
+        "Butoxy mansonone G inhibits STAT3 and akt signaling pathways in non-small cell lung cancers: Combined experimental and theoretical investigations",
+        "Development and testing of a general amber force field",
+        "Particle mesh ewald: An n\u22c5 log (N) method for ewald sums in large systems",
+        "Numerical integration of the cartesian equations of motion of a system with constraints: Molecular dynamics of n-alkanes",
+        "Synchronization of trajectories in canonical molecular-dynamics simulations: Observation, explanation, and exploitation",
+        "Molecular dynamics with coupling to an external bath",
+        "Comparison of simple potential functions for simulating liquid water",
+        "Solvated interaction energy (SIE) for scoring protein\u2212ligand binding affinities. 1. exploring the parameter space",
+        "A new ONIOM implementation in Gaussian98. Part I. The calculation of energies, gradients, vibrational frequencies and electric field derivatives",
+        "Chapter 3 hybrid methods: ONIOM(QM:MM) and QM/MM",
+        "Electronic structure, binding energy, and solvation structure of the streptavidin\u2212biotin supramolecular complex: ONIOM and 3D-RISM study",
+        "Decision making in structure-based drug discovery: Visual inspection of docking results",
+        "Molecular dynamics simulation and free energy calculation studies of the binding mechanism of allosteric inhibitors with p38\u03b1 MAP kinase",
+        "Nilotinib impairs skeletal myogenesis by increasing myoblast proliferation",
+        "Molecular modeling of p38\u03b1 mitogen-activated protein kinase inhibitors through 3D-QSAR and molecular dynamics simulations",
+        "Pharmagist: A webserver for ligand-based pharmacophore detection",
+        "Comparative assessment of QM-based and MM-based models for prediction of protein\u2013ligand binding affinity trends"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Khon Kaen",
+            "@id": "60026046",
+            "affilname": "Faculty of Medicine, Khon Kaen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026046",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "NSRF",
+        "National Science, Research and Innovation Fund",
+        "Science Achievement Scholarship",
+        "Chulalongkorn University",
+        "Khon Kaen University",
+        "Thailand Research Fund",
+        "SAST"
+    ]
+}

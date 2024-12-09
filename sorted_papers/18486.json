@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85088872690",
+    "title": "Deep learning for automated classification of tuberculosis-related chest X-Ray: dataset distribution shift limits diagnostic performance generalizability",
+    "cover-date": "2020-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Multidisciplinary",
+            "@code": "1000",
+            "@abbrev": "MULT"
+        }
+    ],
+    "keywords": [
+        "Applied computing in medical science",
+        "Chest X-Ray",
+        "Computer science",
+        "Deep learning",
+        "Tuberculosis"
+    ],
+    "authors": [
+        "Seelwan Sathitratanacheewin",
+        "Panasun Sunanta",
+        "Krit Pongpirul"
+    ],
+    "citedby-count": 47,
+    "ref-count": 10,
+    "ref-list": [
+        "Chest Radiography in Tuberculosis Detection: Summary of Current WHO Recommendations and Guidance on Programmatic Approaches",
+        "Machine learning for healthcare: on the verge of a major shift in healthcare epidemiology",
+        "ChestX-ray8: Hospital-Scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases",
+        "CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning",
+        "Learning to Diagnose from Scratch by Exploiting Dependencies Among Labels",
+        "Performance evaluation of automatic chest radiograph reading for detection of tuberculosis (TB): a comparative study with a clinical officers and certified readers on TB suspects in sub-Saharan Africa",
+        "The sensitivity and specificity of using a computer aided diagnosis program for automatically scoring chest X-rays of presumptive TB patients compared with Xpert MTB/RIF in Lusaka Zambia",
+        "Screening for pulmonary tuberculosis in a Tanzanian prison and computer-aided interpretation of chest X-rays",
+        "Learning compact and discriminative stacked autoencoder for hyperspectral image classification",
+        "When deep learning meets metric learning: remote sensing image scene classification via learning discriminative CNNs"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60020543",
+            "affilname": "Bumrungrad International Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020543",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Baltimore",
+            "@id": "60006183",
+            "affilname": "Johns Hopkins Bloomberg School of Public Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006183",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "124899076",
+            "affilname": "ThaiHealth Promotion Foundation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/124899076",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "101906766",
+            "affilname": "True Corporation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101906766",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "Health Systems Research Institute"
+    ]
+}

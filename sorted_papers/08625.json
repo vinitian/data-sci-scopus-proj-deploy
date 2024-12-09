@@ -1,0 +1,44 @@
+{
+    "eid": "2-s2.0-85070806504",
+    "title": "Refactoring orchestrated web services into microservices using decomposition pattern",
+    "cover-date": "2018-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "BPEL",
+        "Decomposition pattern",
+        "Microservices",
+        "SOA"
+    ],
+    "authors": [
+        "Mathawee Tusjunt",
+        "Wiwat Vatanawood"
+    ],
+    "citedby-count": 5,
+    "ref-count": 8,
+    "ref-list": [
+        "Towards a technique for extracting microservices from monolithic enterprise systems",
+        "Requirements reconciliation for scalable and secure microservice (de)composition",
+        "Business process ontology for defining user story"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

@@ -1,0 +1,115 @@
+{
+    "eid": "2-s2.0-85139424447",
+    "title": "A Novel Multi-Objective Optimization Based Evolutionary Algorithm for Optimize the Services of Internet of Everything",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Adaptation",
+        "differential evolution",
+        "Internet of Everything",
+        "multi-objective evolutionary algorithms"
+    ],
+    "authors": [
+        "Shailendra Pratap Singh",
+        "Gaurav Dhiman",
+        "Wattana Viriyasitavat",
+        "Sandeep Kautish"
+    ],
+    "citedby-count": 10,
+    "ref-count": 22,
+    "ref-list": [
+        "Differential evolution-A simple and effficient adaptive scheme for global optimization over continuous spaces",
+        "Recent advances in differential evolution-An updated survey",
+        "Modified differential evolution algorithm using a new diversity maintenance strategy for multiobjective optimization problems",
+        "Dynamic multi-objective evolution-ary algorithm for IoT services",
+        "Pareto based differential evolution with homeostasis based mutation",
+        "Multi-objective differential evolution with ranking-based mutation operator and its application in chemical process optimization",
+        "An effficient approach to nondom-inated sorting for evolutionary multiobjective optimization, evolutionary computation",
+        "A fast and elitist multiobjective genetic algorithm: NSGA-II",
+        "Improving NSGA-III algorithms with infor-mation feedback models for large-scale many-objective optimization",
+        "A guided population archive whale optimization algorithm for solving multiobjective optimization problems",
+        "FZ enabled multi-objective PSO for multicasting in IoT based wireless sensor networks",
+        "Bi-objective optimization for energy aware Internet of Things service composition",
+        "Flexible QoS-aware services composition for service computing environments",
+        "A survey study on Internet of Things resource management",
+        "Toward dynamic resources management for IoT-based manufacturing",
+        "Biologically inspired resource allocation for network slices in 5G-enabled Internet of Things",
+        "Service popularity-based smart resources partitioning for fog computing-enabled industrial Internet of Things",
+        "A data-emergency-aware scheduling scheme for Internet of Things in smart cities",
+        "Ant colony optimization for simulated dynamic multi-objective railway junction rescheduling",
+        "A bio-inspired self-learning coevolutionary dynamic multiobjective optimization algorithm for Internet of Things services",
+        "The internet of everything",
+        "The internet of everything: Smart things and their impact on business models"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199583",
+            "affilname": "Chulalongkorn Business School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199583",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Greater Noida",
+            "@id": "60120915",
+            "affilname": "Galgotias University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60120915",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Mohali",
+            "@id": "60111704",
+            "affilname": "Chandigarh University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60111704",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Dehradun",
+            "@id": "60103785",
+            "affilname": "Graphic Era Deemed to be University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103785",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Beirut",
+            "@id": "60068769",
+            "affilname": "Lebanese American University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60068769",
+            "affiliation-country": "Lebanon"
+        },
+        {
+            "affiliation-city": "Kathmandu",
+            "@id": "124515587",
+            "affilname": "Lord Buddha Education Foundation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/124515587",
+            "affiliation-country": "Nepal"
+        },
+        {
+            "affiliation-city": "Campeche",
+            "@id": "118488878",
+            "affilname": "Universidad Internacional Iberoamericana",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/118488878",
+            "affiliation-country": "Mexico"
+        }
+    ],
+    "funding": []
+}

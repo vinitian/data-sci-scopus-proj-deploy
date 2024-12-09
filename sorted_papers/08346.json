@@ -1,0 +1,99 @@
+{
+    "eid": "2-s2.0-85084333484",
+    "title": "Deep Neural Network Approach for Hand, Wrist, Grasping and Functional Movements Classification using Low-cost sEMG Sensors",
+    "cover-date": "2019-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biotechnology",
+            "@code": "1305",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Medicine",
+            "@code": "1313",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Health Informatics",
+            "@code": "2718",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Pharmacology (medical)",
+            "@code": "2736",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Public Health, Environmental and Occupational Health",
+            "@code": "2739",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Deep Neural Network",
+        "Hand movement classification",
+        "Prosthetic hand",
+        "sEMG"
+    ],
+    "authors": [
+        "Attawit Chaiyaroj",
+        "Panyawut Sri-Iesaranusorn",
+        "Chatchai Buekban",
+        "Songphon Dumnin",
+        "Chusak Thanawattano",
+        "Decho Surangsrirat"
+    ],
+    "citedby-count": 4,
+    "ref-count": 23,
+    "ref-list": [
+        "The extraction of neural information from the surface emg for the control of upper-limb prostheses: Emerging avenues and challenges",
+        "Control of hand prostheses using peripheral information",
+        "Control of upper limb prostheses: Terminology and proportional myoelectric controla review",
+        "Control capabilities of myoelectric robotic prostheses by hand amputees: A scientific research and market overview",
+        "Comparison of six electromyography acquisition setups on hand movement classification tasks",
+        "Electromyography data for non-invasive naturallycontrolled robotic hand prostheses",
+        "Myoelectric forearm prostheses: State of the art from a user-centered perspective",
+        "Surface emg in advanced hand prosthetics",
+        "Quantifying pattern recognitionbased myoelectric control of multifunctional transradial prostheses",
+        "Decoding of individuated finger movements using surface electromyography",
+        "A new strategy for multifunction myoelectric control",
+        "Deep neural network for emg signal classification of wrist position: Preliminary results",
+        "Deep learning in emg-based gesture recognition",
+        "Movement intention decodingbased on deep learning for multiuser myoelectric in-terfaces",
+        "Robust human activity recognition using smartphone sensors viact-PCA and online SVM",
+        "Understanding batch normalization",
+        "Dropout: A simple way to prevent neural networks from overfitting",
+        "Classification assessment methods",
+        "SVM-based classification of seng signals for upper-limb self-rehabilitation training",
+        "Comparison of decision tree algorithms for emg signal classification using dwt",
+        "Xgboost-based instantaneous drowsiness detection framework using multitaper spectral information of electroencephalography"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "National Science and Technology Development Agency",
+        "TRF"
+    ]
+}

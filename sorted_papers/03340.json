@@ -1,0 +1,109 @@
+{
+    "eid": "2-s2.0-85122130721",
+    "title": "In Silico Screening of Available Drugs Targeting Non-Small Cell Lung Cancer Targets: A Drug Repurposing Approach",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Pharmaceutical Science",
+            "@code": "3003",
+            "@abbrev": "PHAR"
+        }
+    ],
+    "keywords": [
+        "Drug-repositioning",
+        "Glide docking",
+        "MD simulation",
+        "MEK inhibitor",
+        "MM/GBSA",
+        "MM/PBSA"
+    ],
+    "authors": [
+        "Muthu Kumar Thirunavukkarasu",
+        "Utid Suriya",
+        "Thanyada Rungrotmongkol",
+        "Ramanathan Karuppasamy"
+    ],
+    "citedby-count": 9,
+    "ref-count": 58,
+    "ref-list": [
+        "Recognising lung cancer in primary care",
+        "Lung cancer: Prevalent trends & emerging concepts",
+        "Nanotechnology: Breaking the current treatment limits of lung cancer",
+        "The emerging treatment landscape of targeted therapy in non-small-cell lung cancer",
+        "Epidermal growth factor receptor mutations in lung cancer",
+        "Mek inhibitors for the treatment of non-small cell lung cancer",
+        "K-RAS (G12C) inhibitors allosterically control GTP affinity and effector interactions",
+        "Targeting alterations in the RAF\u2013MEK pathway",
+        "Allosteric and ATP-competitive MEK-inhibition in a novel spitzoid melanoma model with a RAF-and phosphorylation-independent mutation",
+        "Targeting of MEK in lung cancer therapeutics",
+        "The clinical development of MEK inhibitors",
+        "Dabrafenib and trametinib, alone and in combination for BRAF-mutant metastatic melanoma",
+        "Fda approval summary: Dabrafenib and trametinib for the treatment of metastatic non-small cell lung cancers harboring BRAF V600E mutations",
+        "Ocular toxicity of targeted therapies",
+        "Combination of MEK inhibitor and the JAK2-STAT3 pathway inhibition for the therapy of colon cancer",
+        "Combined inhibition of MEK and PI3K pathways overcomes acquired resistance to EGFR-TKIs in non-small cell lung cancer",
+        "Phase I studies of azd1208, a proviral integration moloney virus kinase inhibitor in solid and haematological cancers",
+        "Systematic functional characterization of resistance to PI3K inhibition in breast cancer",
+        "How were new medicines discovered?",
+        "Performing an in silico repurposing of existing drugs by combining virtual screening and molecular dynamics simulation",
+        "Performance of machine-learning scoring functions in structure-based virtual screening",
+        "Discovery of imidazopyridazines as potent PIM-1/2 kinase inhibitors",
+        "Multi-dimensional screening strategy for drug repurposing with statistical framework\u2014 A new road to influenza drug discovery",
+        "Identifying and characterizing binding sites and assessing druggability",
+        "In silico assessment of potential druggable pockets on the surface of \u03b11-antitrypsin conformers",
+        "Novel urushiol derivatives as HDAC8 inhibitors: Rational design, virtual screening, molecular docking and molecular dynamics studies",
+        "Interaction analysis of T7 RNA polymerase with heparin and its low molecular weight derivatives\u2014An in silico approach",
+        "A machine learning approach to predicting protein\u2013ligand binding affinity with applications to molecular docking",
+        "Reverse fingerprinting, similarity searching by group fusion and fingerprint bit importance",
+        "Development and testing of a general amber force field",
+        "Comparison of simple potential functions for simulating liquid water",
+        "Low susceptibility of asunaprevir towards R155K and D168A point mutations in HCV NS3/4A protease: A molecular dynamics simulation",
+        "Butoxy mansonone G inhibits STAT3 and AKT signaling pathways in non-small cell lung cancers: Combined experimental and theoretical investigations",
+        "Key binding and susceptibility of NS3/4A serine protease inhibitors against hepatitis C virus",
+        "Why are lopinavir and ritonavir effective against the newly emerged coronavirus 2019? Atomistic insights into the inhibitory mechanisms",
+        "Binding recognition of substrates in NS2B/NS3 serine protease of zika virus revealed by molecular dynamics simulations",
+        "Particle mesh ewald: An N\u00b7log(N) method for ewald sums in large systems",
+        "Numerical integration of the cartesian equations of motion of a system with constraints: Molecular dynamics of n-alkanes",
+        "Synchronization of trajectories in canonical molecular-dynamics simulations: Observation, explanation, and exploitation",
+        "Molecular dynamics with coupling to an external bath",
+        "Solvated interaction energy (SIE) for scoring protein\u2212ligand binding affinities. 1. Exploring the parameter space",
+        "Druggability analysis and classification of protein tyrosine phosphatase active sites",
+        "Mek1/2 inhibitors: Molecular activity and resistance mechanisms",
+        "Deep docking: A deep learning platform for augmentation of structure based drug discovery",
+        "Chemmine tools: An online service for analyzing and clustering small molecules",
+        "Extra precision docking, free energy calculation and molecular dynamics simulation studies of CDK2 inhibitors",
+        "In silico docking, molecular dynamics and binding energy insights into the bolinaquinoneclathrin terminal domain binding site",
+        "Molecular modeling, quantum polarized ligand docking and structure-based 3D-QSAR analysis of the imidazole series as dual AT1 and ETa receptor antagonists",
+        "Pyridine moiety: Recent advances in cancer treatment",
+        "Discovery of drug-like acetylcholinesterase inhibitors by rapid virtual screening of a 6.9 million compound database",
+        "MEK1/2 dual-specificity protein kinases: Structure and regulation",
+        "Insights into the binding mode of MEK Type-III inhibitors. A step towards discovering and designing allosteric kinase inhibitors across the human kinome",
+        "Psychotropic drugs show anticancer activity by disrupting mitochondrial and lysosomal function",
+        "Exploration of N-(2-aminoethyl) piperidine-4-carboxamide as a potential scaffold for development of VEGFR-2, ERK-2 and ABL-1 multikinase inhibitor",
+        "An insight into the therapeutic potential of quinazoline derivatives as anticancer agents",
+        "Insights into protein-ligand interactions: Mechanisms, models, and methods"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Vellore",
+            "@id": "60010618",
+            "affilname": "Vellore Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010618",
+            "affiliation-country": "India"
+        }
+    ],
+    "funding": [
+        "Science Achievement Scholarship",
+        "Chulalongkorn University",
+        "Thailand Research Fund",
+        "SAST"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "eid": "2-s2.0-85063395964",
+    "title": "Application of data mining software to predict the alum dosage in coagulation process: A case study of Vientaine, Lao PDR",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Alum dosage",
+        "Coagulation process",
+        "Data mining software",
+        "Dongmarkkaiy water treatment plant",
+        "Lao PDR",
+        "Vientiane",
+        "Weka"
+    ],
+    "authors": [
+        "Khoumkham Ladsavong",
+        "Petchporn Chawakitchareon",
+        "Yasushi Kiyoki"
+    ],
+    "citedby-count": 0,
+    "ref-count": 18,
+    "ref-list": [
+        "Use of artificial neural networks for predicting optimal alum doses and treated water quality parameters",
+        "Prediction of wastewater treatment plant performance based on wavelet packet decomposition and neural networks",
+        "Data mining techniques and applications: An introduction",
+        "Prediction of alum dosage in water supply by weka data mining software",
+        "Neural network implementation in hardware using FPGAs",
+        "Generating rule sets from model trees",
+        "Learning with continuous classes",
+        "Prediction of alum dosage in coagulation process using weka program: A case study at chinaimo water treatment plant (CWTP) in Vientiane capital, Lao PDR"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025997",
+            "affilname": "Keio University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025997",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Keio University",
+        "Chulalongkorn University"
+    ]
+}

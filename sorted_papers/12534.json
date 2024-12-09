@@ -1,0 +1,121 @@
+{
+    "eid": "2-s2.0-85102132232",
+    "title": "The route to chaos in routing games: When is price of anarchy too optimistic?",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Thiparat Chotibut",
+        "Fryderyk Falniowski",
+        "Micha\u0142 Misiurewicz",
+        "Georgios Piliouras"
+    ],
+    "citedby-count": 10,
+    "ref-count": 58,
+    "ref-list": [
+        "Topological entropy",
+        "The multiplicative weights update method: a meta-algorithm and applications",
+        "Finite regret and cycles with fixed step-size via alternating gradient descent-ascent",
+        "Distributed selfish load balancing on networks",
+        "Topological chaos: what may this mean?",
+        "On Li-Yorke pairs",
+        "Topological size of scrambled sets",
+        "Routing without regret: On convergence to nash equilibria of regret-minimizing algorithms in routing games",
+        "Topological entropy and axiom a",
+        "Vortices instead of equilibria in minmax optimization: Chaos and butterfly effects of online learning in zero-sum games",
+        "Family of chaotic maps from game theory",
+        "The price of anarchy of finite congestion games",
+        "The asymptotic behavior of the price of anarchy",
+        "Price of anarchy for highly congested routing games in parallel networks",
+        "Fast convergence of selfish rerouting",
+        "The universal metric properties of nonlinear transformations",
+        "The price of anarchy in large games",
+        "Fast convergence to wardrop equilibria by adaptive sampling methods",
+        "Atomic congestion games: Fast, myopic and concurrent",
+        "Adaptive game playing using multiplicative weights",
+        "Complex dynamics in learning complicated games",
+        "Summability implies collet\u2013eckmann almost surely",
+        "Sensitive dependence on initial conditions",
+        "Local entropy theory",
+        "Experience-weighted attraction learning in coordination games: Probability rules, heterogeneity, and time-variation",
+        "Experience-weighted attraction learning in normal form games",
+        "Self-tuning experience weighted attraction learning in games",
+        "Multiplicative updates outperform generic no-regret learning in congestion games",
+        "Worst-case equilibria",
+        "Two-point scrambled set implies chaos",
+        "A shorter proof of the existence of the feigenbaum fixed point",
+        "Recent development of chaos theory in topological dynamics",
+        "Period three implies chaos",
+        "The quadratic family as a qualitatively solvable model of chaos",
+        "Horseshoes for mapping of the interval",
+        "Entropy of piecewise monotone mappings",
+        "Fictitious play property for games with identical interests",
+        "Multiplicative weights update with constant step-size in congestion games: Convergence, limit cycles and chaos",
+        "A class of games possessing pure-strategy Nash equilibria",
+        "Intrinsic robustness of the price of anarchy",
+        "How bad is selfish routing?",
+        "The prevalence of chaotic dynamics in games with many players",
+        "Chaos in learning a simple two-person game",
+        "Online learning and online convex optimization, volume 4.2",
+        "Coexistence of the cycles of a continuous mapping of the line into itself",
+        "Chaotic functions with zero entropy",
+        "Fictitious play in 3x3 games: The transition between periodic and chaotic behaviour",
+        "Fictitious play in 3x3 games: Chaos and dithering behaviour",
+        "A chaotic map with topological entropy"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": null,
+            "@id": "60104290",
+            "affilname": "Singapore University of Technology and Design",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104290",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Indianapolis",
+            "@id": "60024609",
+            "affilname": "Indiana University-Purdue University Indianapolis",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024609",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Krakow",
+            "@id": "60015632",
+            "affilname": "Krakow University of Economics",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015632",
+            "affiliation-country": "Poland"
+        }
+    ],
+    "funding": [
+        "Simons Foundation",
+        "MOE",
+        "COST",
+        "National Science Centre"
+    ]
+}

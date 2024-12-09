@@ -1,0 +1,85 @@
+{
+    "eid": "2-s2.0-85074221425",
+    "title": "Classification of Fruit in a Box (FIB) Using Hybridization of Color and Texture Features",
+    "cover-date": "2019-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "Color Correlogram",
+        "Color Feature",
+        "Color Layout Descriptor (CLD)",
+        "Gray Level Co-occurrence Matrix (GLCM)",
+        "HSV Color Histogram",
+        "Image Classification",
+        "Local Binary Pattern (LBP)",
+        "Neighboring Gray Tone Difference Matrix (NGTDM)",
+        "Texture Feature"
+    ],
+    "authors": [
+        "Jirapat Watcharasing",
+        "Thanaporn Thiralertphanich",
+        "Sasipa Panthuwadeethorn",
+        "Suphakant Phimoltares"
+    ],
+    "citedby-count": 2,
+    "ref-count": 13,
+    "ref-list": [
+        "Segmentation and histogram generation using the HSV color space for image retrieval",
+        "Image retrieval using maximum frequency of local histogram based color correlogram",
+        "Image retrieval system based on color layout descriptor and Gabor Filters",
+        "Texture analysis of non-uniform images using GLCM",
+        "Iris feature extraction method based on LBP and chunked encoding",
+        "An MPEG-7 image retrieval system of atherosclerotic carotid plaque images",
+        "Automatic fruit classification using random forest algorithm",
+        "A new method for fruits recognition system",
+        "Fruit classification by HPA-SLFN",
+        "Classification for orange varieties using near infrared spectroscopy",
+        "Classification of maturity level of Fuji apple fruit with fuzzy logic method",
+        "Recognition of ripe, unripe and scaled condition of orange citrus based on decision Tree classification",
+        "Robust video editing detection using scalable color and color layout descriptors"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

@@ -1,0 +1,75 @@
+{
+    "eid": "2-s2.0-85101592821",
+    "title": "A New Equation for SWCCs of Unsaturated Soils",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mechanics",
+            "@code": "2206",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geotechnical Engineering and Engineering Geology",
+            "@code": "1909",
+            "@abbrev": "EART"
+        },
+        {
+            "@_fa": "true",
+            "$": "Environmental Engineering",
+            "@code": "2305",
+            "@abbrev": "ENVI"
+        }
+    ],
+    "keywords": [
+        "Geotechnical Engineering Practice",
+        "Simulation Equations",
+        "Soil-water Characteristic Curve (SWCC)",
+        "SWCC Equations",
+        "Unsaturated Soil"
+    ],
+    "authors": [
+        "Suched Likitlersuang",
+        "Martin D. Liu"
+    ],
+    "citedby-count": 0,
+    "ref-count": 10,
+    "ref-list": [
+        "Hydraulic properties of porous media. Colorado State University, Fort Collins, Colorado",
+        "Estimation of soil suction from the soil-water characteristic curve",
+        "A volume-mass constitutive model for unsaturated soils in terms of two independent stress state variables",
+        "Equations for the soil\u2013water characteristic curve",
+        "Parametric study of models for soil\u2013water characteristic curve of sands",
+        "A mathematical function to represent S-shaped relationships for geotechnical applications",
+        "The effect of soil type on matric suction and stability of unsaturated slope under uniform rainfall",
+        "A closed form equation for predicting the hydraulic conductivity of unsaturated soils",
+        "Determination of soil-water characteristic curve variables"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Wollongong",
+            "@id": "60011664",
+            "affilname": "University of Wollongong",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011664",
+            "affiliation-country": "Australia"
+        }
+    ],
+    "funding": [
+        "Ratchadapisek Sompoch Endowment Fund",
+        "Chulalongkorn University"
+    ]
+}

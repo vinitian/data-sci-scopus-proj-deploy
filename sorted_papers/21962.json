@@ -1,0 +1,107 @@
+{
+    "eid": "2-s2.0-85130487916",
+    "title": "Explainable natural language processing with matrix product states",
+    "cover-date": "2022-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Physics and Astronomy (all)",
+            "@code": "3100",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "entanglement entropy",
+        "entanglement spectrum",
+        "matrix product state",
+        "natural language processing",
+        "quantum machine learning",
+        "recurrent neural networks"
+    ],
+    "authors": [
+        "Jirawat Tangpanitanon",
+        "Chanatip Mangkang",
+        "Pradeep Bhadola",
+        "Yuichiro Minato",
+        "Dimitris G. Angelakis",
+        "Thiparat Chotibut"
+    ],
+    "citedby-count": 1,
+    "ref-count": 52,
+    "ref-list": [
+        "Supervised learning with tensor networks",
+        "Deep learning and quantum entanglement: fundamental connections with implications to network design",
+        "Tensor networks for probabilistic sequence modeling",
+        "Distributed representations of words and phrases and their compositionality",
+        "2014 Glove: global vectors for word representation",
+        "Deep contextualized word representations",
+        "On multiplicative integration with recurrent neural networks",
+        "Generating text with recurrent neural networks",
+        "Sum-product networks: a new deep architecture 2011",
+        "Shallow vs deep sum-product networks",
+        "Learning word vectors for sentiment analysis",
+        "Sentiment classification using document embeddings trained with cosine similarity",
+        "Revisiting LSTM networks for semi-supervised text classification via mixed objective function",
+        "Universal language model fine-tuning for text classification",
+        "Expressive power of tensor-network factorizations for probabilistic modeling",
+        "Seeing stars: exploiting class relationships for sentiment categorization with respect to rating scales",
+        "Simplifying graph convolutional networks"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60095887",
+            "affilname": "Centre for Quantum Technologies",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60095887",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chania",
+            "@id": "60022461",
+            "affilname": "Technical University of Crete",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022461",
+            "affiliation-country": "Greece"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60012718",
+            "affilname": "Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012718",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60001884",
+            "affilname": "Ministry of Higher Education, Science, Research and Innovation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001884",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "127982473",
+            "affilname": "Blueqat Inc.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/127982473",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "125005047",
+            "affilname": "Quantum Technology Foundation (Thailand)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125005047",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Blueqat Inc.",
+        "NSRF",
+        "National Science, Research and Innovation Fund",
+        "Thailand Science Research and Innovation Fund Chulalongkorn University"
+    ]
+}

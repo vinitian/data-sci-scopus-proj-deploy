@@ -1,0 +1,77 @@
+{
+    "eid": "2-s2.0-85140624576",
+    "title": "Comparison of Baseline Wander Correction Methods for Handheld ECG with Motion Artefacts",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "baseline wander",
+        "handheld ECG",
+        "motion artefact",
+        "Savitzky-Golay filter",
+        "wavelet-based weighted percentage root mean square difference (WWPRD)"
+    ],
+    "authors": [
+        "Tanawan Tearwattanarattikal",
+        "Apiwat Lek-Uthai"
+    ],
+    "citedby-count": 1,
+    "ref-count": 10,
+    "ref-list": [
+        "Bioelectrical Signal Processing in Cardiac and Neurological Applications",
+        "New standards for ECG equipment",
+        "Low-distortion baseline removal algorithm for electrocardiogram signals",
+        "On a new method of graduation",
+        "On the use of a penalized least squares method to process kinematic full-field measurements",
+        "Smoothing and differentiation of data by simplified least squares procedures",
+        "Quality assessment of ECG compression techniques using a wavelet-based diagnostic measure",
+        "The weighted diagnostic distortion (WDD) measure for ECG signal compression",
+        "Performance of a QRS detector on self-collected database using a handheld twoelectrode ECG"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

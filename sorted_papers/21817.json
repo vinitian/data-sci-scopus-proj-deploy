@@ -1,0 +1,574 @@
+{
+    "eid": "2-s2.0-85107841229",
+    "title": "Non-motor predictors of 36-month quality of life after subthalamic stimulation in Parkinson disease",
+    "cover-date": "2021-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Neurology",
+            "@code": "2808",
+            "@abbrev": "NEUR"
+        },
+        {
+            "@_fa": "true",
+            "$": "Neurology (clinical)",
+            "@code": "2728",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Cellular and Molecular Neuroscience",
+            "@code": "2804",
+            "@abbrev": "NEUR"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Stefanie T. Jost",
+        "Veerle Visser-Vandewalle",
+        "Alexandra Rizos",
+        "Philipp A. Loehrer",
+        "Monty Silverdale",
+        "Julian Evans",
+        "Michael Samuel",
+        "Jan Niklas Petry-Schmelzer",
+        "Anna Sauerbier",
+        "Alexandra Gronostay",
+        "Michael T. Barbe",
+        "Gereon R. Fink",
+        "Keyoumars Ashkan",
+        "Angelo Antonini",
+        "Pablo Martinez-Martin",
+        "K. Ray Chaudhuri",
+        "Lars Timmermann",
+        "Haidar S. Dafsari",
+        "Roongroj Bhidayasiri",
+        "Cristian Falup-Pecurariu",
+        "Beomseok Jeon",
+        "Valentina Leta",
+        "Per Borghammer",
+        "Per Odin",
+        "Anette Schrag",
+        "Alexander Storch",
+        "Mayela Rodriguez Violante",
+        "Daniel Weintraub",
+        "Charles Adler",
+        "Paolo Barone",
+        "David J. Brooks",
+        "Richard Brown",
+        "Marc Cantillon",
+        "Camille Carroll",
+        "Miguel Coelho",
+        "Tove Henriksen",
+        "Michele Hu",
+        "Peter Jenner",
+        "Milica Kramberger",
+        "Padma Kumar",
+        "M\u00f3nica Kurtis",
+        "Simon Lewis",
+        "Irene Litvan",
+        "Kelly Lyons",
+        "Davide Martino",
+        "Mario Masellis",
+        "Hideki Mochizuki",
+        "James F. Morley",
+        "Melissa Nirenberg",
+        "Javier Pagonabarraga",
+        "Jalesh Panicker",
+        "Nicola Pavese",
+        "Eero Pekkonen",
+        "Ron Postuma",
+        "Raymond Rosales",
+        "Anthony Schapira",
+        "Tanya Simuni",
+        "Fabrizio Stocchi",
+        "Indu Subramanian",
+        "Michele Tagliati",
+        "Michele Tinazzi",
+        "Jon Toledo",
+        "Yoshio Tsuboi",
+        "Richard Walker"
+    ],
+    "citedby-count": 12,
+    "ref-count": 42,
+    "ref-list": [
+        "Five-year follow-up of bilateral stimulation of the subthalamic nucleus in advanced Parkinson\u2019s disease",
+        "A randomized trial of deep-brain stimulation for Parkinson\u2019s disease",
+        "Quality of life predicts outcome of deep brain stimulation in early Parkinson disease",
+        "Beneficial effects of bilateral subthalamic stimulation on alexithymia in Parkinson\u2019s disease",
+        "Left prefrontal connectivity links subthalamic stimulation with depressive symptoms",
+        "Is improvement in the quality of life after subthalamic nucleus stimulation in Parkinson\u2019s disease predictable?",
+        "Deep brain stimulation plus best medical therapy versus best medical therapy alone for advanced Parkinson\u2019s disease (PD SURG trial): a randomised, open-label trial",
+        "A prospective, controlled study of non-motor effects of subthalamic stimulation in Parkinson\u2019s disease: results at the 36-month follow-up",
+        "Short-term quality of life after subthalamic stimulation depends on non-motor symptoms in Parkinson\u2019s disease",
+        "Predicting quality of life outcomes after subthalamic nucleus deep brain stimulation",
+        "ROC-ing along: evaluation and interpretation of receiver operating characteristic curves",
+        "Depression and coping as predictors of change after deep brain stimulation in Parkinson\u2019s disease",
+        "Long-term effects of bilateral subthalamic nucleus stimulation on health-related quality of life in advanced Parkinson\u2019s disease",
+        "Effect of advancing age on outcomes of deep brain stimulation for Parkinson disease",
+        "Gender influence on selection and outcome of deep brain stimulation for Parkinson\u2019s disease",
+        "Long-term impact on quality of life of subthalamic nucleus stimulation in Parkinson\u2019s disease",
+        "EuroInf 2: Subthalamic stimulation, apomorphine, and levodopa infusion in Parkinson\u2019s disease",
+        "Suicide and suicide attempts after subthalamic nucleus stimulation in Parkinson disease",
+        "Negative impact of borderline global cognitive scores on quality of life after subthalamic nucleus stimulation in Parkinson\u2019s disease",
+        "Syncope, fear of falling and quality of life among older adults: findings from the irish longitudinal study on aging (TILDA)",
+        "Patients\u2019 expectations of deep brain stimulation, and subjective perceived outcome related to clinical measures in Parkinson\u2019s disease: a mixed-method approach",
+        "Determination of the longitudinal validity and minimally important difference of the 8-item Parkinson\u2019s Disease Questionnaire (PDQ-8)",
+        "Long-term outcomes of deep brain stimulation in Parkinson disease",
+        "Non-motor outcomes depend on location of neurostimulation in Parkinson\u2019s disease",
+        "Left prefrontal connectivity links subthalamic stimulation with depressive symptoms",
+        "Non-motor outcomes of subthalamic stimulation in Parkinson\u2019s disease depend on location of active contacts",
+        "Beneficial nonmotor effects of subthalamic and pallidal neurostimulation in Parkinson\u2019s disease",
+        "Subthalamic stimulation improves quality of sleep in Parkinson disease: A 36-month controlled study",
+        "Deep brain stimulation: preoperative issues",
+        "Modulation of local field potential power of the subthalamic nucleus during isometric force generation in patients with Parkinson\u2019s disease",
+        "The PDQ-8: Development and validation of a short-form Parkinson\u2019s Disease Questionnaire",
+        "Subthalamic stimulation improves quality of life of patients aged 61 years or older with short duration of Parkinson\u2019s disease",
+        "Non-motor phenotyping of black and asian minority ethnic compared to white individuals with Parkinson\u2019s disease living in the United Kingdom",
+        "Beneficial effect of 24-month bilateral subthalamic stimulation on quality of sleep in Parkinson\u2019s disease",
+        "Nonmotor fluctuations in Parkinson disease: severity and correlation with motor complications",
+        "The metric properties of a novel non-motor symptoms scale for Parkinson\u2019s disease: results from an international pilot study",
+        "The SCOPA-Motor Scale for assessment of Parkinson\u2019s disease is a consistent and valid measure",
+        "SPES/SCOPA, and MDS-UPDRS: formulas for converting scores of two motor scales in Parkinson\u2019s disease",
+        "Systematic review of levodopa dose equivalency reporting in Parkinson\u2019s disease",
+        "Longterm outcome of cognition, affective state, and quality of life following subthalamic deep brain stimulation in Parkinson\u2019s disease",
+        "Interpretation of changes in health-related quality of life: the remarkable universality of half a standard deviation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Aarhus",
+            "@id": "60023882",
+            "affilname": "Aarhus Universitetshospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023882",
+            "affiliation-country": "Denmark"
+        },
+        {
+            "affiliation-city": "Dresden",
+            "@id": "60018353",
+            "affilname": "Technische Universit\u00e4t Dresden",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018353",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "60014232",
+            "affilname": "VA Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014232",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60011520",
+            "affilname": "King's College London",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011520",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Koln",
+            "@id": "60008658",
+            "affilname": "Uniklinik K\u00f6ln",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008658",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Philadelphia",
+            "@id": "60003711",
+            "affilname": "University of Pennsylvania Perelman School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003711",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Oxford",
+            "@id": "60002634",
+            "affilname": "University of Oxford Medical Sciences Division",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002634",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60177635",
+            "affilname": "Faculty of Life Sciences &amp; Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60177635",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Suita",
+            "@id": "60175967",
+            "affilname": "Graduate School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60175967",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Plymouth",
+            "@id": "60172358",
+            "affilname": "Faculty of Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60172358",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "San Diego",
+            "@id": "60121548",
+            "affilname": "Department of Neurosciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60121548",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60111763",
+            "affilname": "L'Institut de Recherche du Centre Universitaire de Sant\u00e9 McGill",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60111763",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60109771",
+            "affilname": "UCL Institute of Cognitive Neuroscience",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60109771",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Barceona",
+            "@id": "60104335",
+            "affilname": "Institut dInvestigaci\u00f3 Biom\u00e8dica Sant Pau (IIB Sant Pau)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104335",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Rome",
+            "@id": "60103767",
+            "affilname": "IRCCS San Raffaele Pisana",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103767",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Bonn",
+            "@id": "60103674",
+            "affilname": "Deutsches Zentrum f\u00fcr Neurodegenerative Erkrankungen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103674",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Manila",
+            "@id": "60089593",
+            "affilname": "Metropolitan Medical Center, Manila",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60089593",
+            "affiliation-country": "Philippines"
+        },
+        {
+            "affiliation-city": "Madrid",
+            "@id": "60085102",
+            "affilname": "Centro de Investigaci\u00f3n Biom\u00e9dica en Red de Enfermedades Neurodegenerativas",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60085102",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Manila",
+            "@id": "60071489",
+            "affilname": "University of Santo Tomas Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071489",
+            "affiliation-country": "Philippines"
+        },
+        {
+            "affiliation-city": "Quezon City",
+            "@id": "60071484",
+            "affilname": "St. Luke's Medical Center Quezon City",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071484",
+            "affiliation-country": "Philippines"
+        },
+        {
+            "affiliation-city": "Verona",
+            "@id": "60032256",
+            "affilname": "Universit\u00e0 degli Studi di Verona",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032256",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Fukuoka",
+            "@id": "60031720",
+            "affilname": "Fukuoka University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031720",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Lund",
+            "@id": "60029170",
+            "affilname": "Lunds Universitet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029170",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "Toronto",
+            "@id": "60029150",
+            "affilname": "Sunnybrook Health Sciences Centre",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029150",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Los Angeles",
+            "@id": "60027550",
+            "affilname": "University of California, Los Angeles",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027550",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Scottsdale",
+            "@id": "60026952",
+            "affilname": "Mayo Clinic Scottsdale-Phoenix, Arizona",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026952",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Newcastle",
+            "@id": "60026712",
+            "affilname": "University of Newcastle upon Tyne, Faculty of Medical Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026712",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Copenhagen",
+            "@id": "60025840",
+            "affilname": "Bispebjerg Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025840",
+            "affiliation-country": "Denmark"
+        },
+        {
+            "affiliation-city": "Sydney",
+            "@id": "60025709",
+            "affilname": "The University of Sydney",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025709",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60024541",
+            "affilname": "NYU Grossman School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024541",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Madrid",
+            "@id": "60024343",
+            "affilname": "Hospital Ruber Internacional",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024343",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Brasov",
+            "@id": "60023654",
+            "affilname": "Universitatea Transilvania din Bra\u0219ov",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023654",
+            "affiliation-country": "Romania"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60021923",
+            "affilname": "King's College Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021923",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Ljubljana",
+            "@id": "60021479",
+            "affilname": "Univerzitetni Klini\u010dni Center Ljubljana",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021479",
+            "affiliation-country": "Slovenia"
+        },
+        {
+            "affiliation-city": "North Shields",
+            "@id": "60021057",
+            "affilname": "North Tyneside General Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021057",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60020736",
+            "affilname": "National Hospital for Neurology and Neurosurgery",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020736",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60019953",
+            "affilname": "UCL Queen Square Institute of Neurology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019953",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Birmingham",
+            "@id": "60019702",
+            "affilname": "University of Birmingham",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019702",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Helsinki",
+            "@id": "60016987",
+            "affilname": "Helsinki University Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016987",
+            "affiliation-country": "Finland"
+        },
+        {
+            "affiliation-city": "Los Angeles",
+            "@id": "60016173",
+            "affilname": "Cedars-Sinai Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016173",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Houston",
+            "@id": "60014933",
+            "affilname": "Houston Methodist Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014933",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Newcastle",
+            "@id": "60014427",
+            "affilname": "John Hunter Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014427",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Chicago",
+            "@id": "60013227",
+            "affilname": "Northwestern University Feinberg School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013227",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Stockholm",
+            "@id": "60012311",
+            "affilname": "Karolinska Institutet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012311",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "Kansas City",
+            "@id": "60007828",
+            "affilname": "University of Kansas Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007828",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Julich",
+            "@id": "60007774",
+            "affilname": "Forschungszentrum J\u00fclich GmbH",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007774",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Salerno",
+            "@id": "60007061",
+            "affilname": "Universit\u00e0 degli Studi di Salerno",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007061",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Cambridge",
+            "@id": "60006303",
+            "affilname": "Harvard Faculty of Arts and Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006303",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Philadelphia",
+            "@id": "60006297",
+            "affilname": "University of Pennsylvania",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006297",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Newcastle",
+            "@id": "60006222",
+            "affilname": "Newcastle University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006222",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Manchester",
+            "@id": "60003771",
+            "affilname": "The University of Manchester",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003771",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Marburg",
+            "@id": "60002681",
+            "affilname": "Universit\u00e4tsklinikum Gie\u00dfen und Marburg, Standort Marburg",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002681",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Calgary",
+            "@id": "60002306",
+            "affilname": "University of Calgary",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002306",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Seoul",
+            "@id": "60000656",
+            "affilname": "Seoul National University College of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000656",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Padua",
+            "@id": "60000481",
+            "affilname": "Universit\u00e0 degli Studi di Padova",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000481",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Tlalpan",
+            "@id": "60000029",
+            "affilname": "Instituto Nacional de Neurolog\u00eda y Neurocirug\u00eda",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000029",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Santa Clara",
+            "@id": "115762901",
+            "affilname": "Inc",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/115762901",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Dystonia society and Innovate UK",
+        "Felgenhauer Foundation",
+        "Felgenhauer-Stiftung",
+        "Forschungspool Klinische Studien",
+        "GE Medical",
+        "ODIS",
+        "Parkinson\u2019s Foundation",
+        "Stiftung zur F\u00f6rderung",
+        "Michael J Fox Foundation",
+        "Abbott",
+        "Medtronic",
+        "St. Jude Medical",
+        "AbbVie",
+        "Chiesi Pharmaceuticals",
+        "Boston Scientific",
+        "University of Marburg",
+        "UCB",
+        "BBSRC",
+        "NIHR",
+        "Parkinson\u2019s UK",
+        "European Union",
+        "German Research Foundation",
+        "Ministry of Education University and Research",
+        "Horizon 2020",
+        "University of Cologne",
+        "EVER Neuro Pharma",
+        "Lundbeck"
+    ]
+}

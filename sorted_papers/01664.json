@@ -1,0 +1,115 @@
+{
+    "eid": "2-s2.0-85135727108",
+    "title": "An explainable self-attention deep neural network for detecting mild cognitive impairment using multi-input digital drawing tasks",
+    "cover-date": "2022-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Neurology",
+            "@code": "2808",
+            "@abbrev": "NEUR"
+        },
+        {
+            "@_fa": "true",
+            "$": "Neurology (clinical)",
+            "@code": "2728",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Cognitive Neuroscience",
+            "@code": "2805",
+            "@abbrev": "NEUR"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Natthanan Ruengchaijatuporn",
+        "Itthi Chatnuntawech",
+        "Surat Teerapittayanon",
+        "Sira Sriswasdi",
+        "Sirawaj Itthipuripat",
+        "Solaphat Hemrungrojn",
+        "Prodpran Bunyabukkana",
+        "Aisawan Petchlorlian",
+        "Sedthapong Chunamchai",
+        "Thiparat Chotibut",
+        "Chaipat Chunharas"
+    ],
+    "citedby-count": 3,
+    "ref-count": 30,
+    "ref-list": [
+        "Estimation of the global prevalence of dementia in 2019 and forecasted prevalence in 2050: An analysis for the Global Burden of Disease Study 2019",
+        "The prevalence of mild cognitive impairment and its etiological subtypes in elderly Chinese",
+        "Mild cognitive impairment: a concept in evolution",
+        "The Mini-Cog as a screen for dementia: validation in a population-based sample",
+        "Learning classification models of cognitive conditions from subtle behaviors in the digital clock drawing test",
+        "Feature extraction method for clock drawing test",
+        "Clock drawing test digit recognition using static and dynamic features",
+        "Clock drawing test interpretation system",
+        "Machine learning analysis of digital clock drawing test performance for differential classification of mild cognitive impairment subtypes versus Alzheimer\u2019s disease",
+        "Automatic, qualitative scoring of the clock drawing test (CDT) based on U-Net, CNN and mobile sensor data",
+        "Automatic dementia screening and scoring by applying deep learning on clock-drawing tests",
+        "An AI-assisted online tool for cognitive impairment detection using images from the clock drawing test",
+        "THink: inferring cognitive status from subtle behaviors",
+        "Segmentation of clock drawings based on spatial and temporal features",
+        "Use of the clock drawing test and the Rey\u2013Osterrieth complex figure test-copy with convolutional neural networks to predict cognitive impairment",
+        "Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead",
+        "Grad-cam: visual explanations from deep networks via gradient-based localization",
+        "The validity of Thai version of the Montreal Cognitive Assessment (MoCA-T)",
+        "Clock-drawing and dementia in the community: a longitudinal study",
+        "Attention is all you need",
+        "A structured self-attentive sentence embedding",
+        "Very deep convolutional networks for large-scale image recognition",
+        "ImageNet: a large-scale hierarchical image database",
+        "BERT: Pre-training of deep bidirectional transformers for language understanding",
+        "Quantifying attention flow in transformers",
+        "The Montreal Cognitive Assessment, MoCA: a brief screening tool for mild cognitive impairment",
+        "Evaluation of digital drawing tests and paper-and-pencil drawing tests for the screening of mild cognitive impairment and dementia: A systematic review and meta-analysis of diagnostic studies"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Thonburi",
+            "@id": "60008786",
+            "affilname": "King Mongkut's University of Technology Thonburi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008786",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60017285",
+            "affilname": "Thailand National Nanotechnology Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017285",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University Technology Center",
+        "Foundation of Thai Gerontology Research and Development Institute",
+        "TGRI",
+        "Chulalongkorn University",
+        "National Research Council of Thailand",
+        "Thailand Science Research and Innovation Fund"
+    ]
+}

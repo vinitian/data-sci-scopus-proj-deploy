@@ -1,0 +1,64 @@
+{
+    "eid": "2-s2.0-85140458910",
+    "title": "Special Tolerance Left Solution for Course Assignment Problem with Interval Workload Constraint",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Course assignment problem",
+        "Special tolerance left solution",
+        "System of interval linear equations",
+        "Tolerance solution"
+    ],
+    "authors": [
+        "Warintorn Pongsumrankul",
+        "Phantipa Thipwiwatpotjana",
+        "Artur Gorka"
+    ],
+    "citedby-count": 0,
+    "ref-count": 9,
+    "ref-list": [
+        "An integer programming formulation for a case study in university timetabling",
+        "The importance of fuzzy preference in course assignment problem",
+        "Solving the teacher assignment problem by two metaheuristics",
+        "A multiobjective faculty-course-time slot assignment problem with preferences",
+        "Tolerance-localized and control-localized solutions of interval linear equations system and their application to course assignment problem",
+        "Solving the interval linear tolerance problem",
+        "Course assignment problem with interval requested workload"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Due West",
+            "@id": "60027259",
+            "affilname": "Erskine College",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027259",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": []
+}

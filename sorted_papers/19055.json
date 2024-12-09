@@ -1,0 +1,75 @@
+{
+    "eid": "2-s2.0-85070861352",
+    "title": "Message from General Chairs",
+    "cover-date": "2018-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Somying Thainimit",
+        "Supavadee Aramvith",
+        "Jitkasem Ngamnil"
+    ],
+    "citedby-count": 0,
+    "ref-count": 0,
+    "ref-list": [],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60021944",
+            "affilname": "Kasetsart University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021944",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60000251",
+            "affilname": "IEEE",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000251",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "EE-KU",
+        "Faculty of Engineering KU",
+        "Provincial Electricity Authority",
+        "Kasetsart University"
+    ]
+}

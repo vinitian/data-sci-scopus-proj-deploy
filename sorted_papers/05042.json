@@ -1,0 +1,170 @@
+{
+    "eid": "2-s2.0-85123519084",
+    "title": "A Novel Machine-Learning-Based Hybrid CNN Model for Tumor Identification in Medical Image Processing",
+    "cover-date": "2022-02-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geography, Planning and Development",
+            "@code": "3305",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Building and Construction",
+            "@code": "2215",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Environmental Science (miscellaneous)",
+            "@code": "2301",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Management, Monitoring, Policy and Law",
+            "@code": "2308",
+            "@abbrev": "ENVI"
+        }
+    ],
+    "keywords": [
+        "Electronic medical records",
+        "Joint extraction",
+        "Medical event extraction",
+        "Migration learning"
+    ],
+    "authors": [
+        "Gaurav Dhiman",
+        "Sapna Juneja",
+        "Wattana Viriyasitavat",
+        "Hamidreza Mohafez",
+        "Maryam Hadizadeh",
+        "Mohammad Aminul Islam",
+        "Ibrahim El Bayoumy",
+        "Kamal Gulati"
+    ],
+    "citedby-count": 26,
+    "ref-count": 41,
+    "ref-list": [
+        "Automatic Detection and Segmentation of Liver Tumors in Multi-phase CT Images by Phase Attention Mask R-CNN",
+        "Segmentation of Brain Tumor in MRI Images Using CNN with Edge Detection",
+        "Classification of MR Brain Images for Detection of Tumor with Transfer Learning from Pretrained CNN Models",
+        "Automatic Segmentation of Liver Tumor in Multiphase CT Images by Mask R-CNN",
+        "Brain Tumor Detection Model from MR Images using Convolutional Neural Network",
+        "Classification and Detection of Glioblastoma Tumor from MRI Images",
+        "Current Trends on Deep Learning Models for Brain Tumor Segmentation and Detection\u2014 A Review",
+        "Deep Learning Approach for Brain Tumor Detection and Segmentation",
+        "Iteratively training classifiers for circulating tumor cell detection",
+        "Handcrafted features with convolutional neural networks for detection of tumor cells in histology images",
+        "Comparison among Supervised Classifiers for Classification of Brain Tumor",
+        "Automated Segmentation and Detection of Brain Tumor from MRI",
+        "Implementation of an improved cellular neural network algorithm for brain tumor detection",
+        "Design and Implementing Brain Tumor Detection Using Machine Learning Approach",
+        "Detecting and Capturing the Intensity of a Brain Tumor using MRI Images",
+        "Brain Tumor Detection and Classification Using Convolutional Neural Network and Deep Neural Network",
+        "Watershed Algorithm based DAPP features for Brain Tumor Segmentation and Classification",
+        "Brain Tumor Detection Using Deep Neural Network and Machine Learning Algorithm",
+        "Tumor Detection in the Brain using Faster R-CNN",
+        "Segmentation and Detection of Tumor in MRI images Using CNN and SVM Classification",
+        "Predicting the Death Rate Around the World Due to COVID-19 Using Regression Analysis",
+        "Recognition of Gurmukhi Handwritten City Names Using Deep Learning and Cloud Computing",
+        "MLA: A New Mutated Leader Algorithm for Solving Optimization Problems",
+        "AMBO: All Members-Based Optimizer for Solving Optimization Problems",
+        "Denial-of-Service Attack Detection over IPv6 Network Based on KNN Algorithm",
+        "A Personalized Eccentric Cyber-Physical System Architecture for Smart Healthcare",
+        "Computer Vision-Enabled Character Recognition of Hand Gestures for Patients with Hearing and Speaking Disability",
+        "Multimedia Concepts on Object Detection and Recognition with F1 Car Simulation Using Convolutional Layers",
+        "Photo voltaic integrated multilevel inverter based hybrid filter using spotted hyena optimizer",
+        "Requirements for the Optimal Design for the Metasystematic Sustainability of Digital Double-Form Systems",
+        "A Perspective Roadmap for IoMT-Based Early Detection and Care of the Neural Disorder, Dementia",
+        "The Identification Nanoparticle Sensor Using Back Propagation Neural Network Optimized by Genetic Algorithm",
+        "Cloud-Based Fault Prediction Using IoT in Office Automation for Improvisation of Health of Employees",
+        "Performance Analysis of WOFDM-WiMAX Integrating Diverse Wavelets for 5G Applications",
+        "Analytical review analysis for screening COVID-19 disease",
+        "Artificial intelligence and patentability: Review and discussions",
+        "A comparative study of fuzzy optimization through fuzzy number",
+        "Deep learning recognition of diseased and normal cell representation",
+        "Mitochondrial Organelle Movement Classification (Fission and Fusion) via Convolutional Neural Network Approach",
+        "Efficient cell classification of mitochondrial images by using deep learning",
+        "Recent Advances of Deep Learning in Biology"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Kuala Lumpur",
+            "@id": "60029157",
+            "affilname": "Universiti Malaya",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029157",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Patiala",
+            "@id": "60276078",
+            "affilname": "Government Bikram College of Commerce",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60276078",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199583",
+            "affilname": "Chulalongkorn Business School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199583",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ghaziabad",
+            "@id": "60093099",
+            "affilname": "KIET Group of Institutions",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60093099",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Noida",
+            "@id": "60076774",
+            "affilname": "Amity University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60076774",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Tanta",
+            "@id": "60001176",
+            "affilname": "Faculty of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001176",
+            "affiliation-country": "Egypt"
+        }
+    ],
+    "funding": [
+        "Malaysian Ministry of Higher Education",
+        "Universiti Malaya"
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85114008726",
+    "title": "Implementation of Non-Orthogonal Multiple Access on DVB-T Using Software-Defined Radio",
+    "cover-date": "2021-06-27",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "digital video broadcasting-terrestrial (DVB-T)",
+        "Non-orthogonal multiple access (NOMA)",
+        "software-defined radio (SDR)",
+        "successive interference cancellation (SIC)"
+    ],
+    "authors": [
+        "Pisit Vanichchanunt",
+        "Panithan La-Aiddee",
+        "Pruk Sasithong",
+        "Sukritta Paripurana"
+    ],
+    "citedby-count": 1,
+    "ref-count": 9,
+    "ref-list": [
+        "A survey of non-orthogonal multiple access for 5g",
+        "A survey on nonorthogonal multiple access for 5g networks: Research challenges and future trends",
+        "Rate compatible modulation for non-orthogonal multiple access",
+        "Optimum power allocation for non-orthogonal multiple access (noma)",
+        "On the performance of qpsk modulation over downlink noma: From error probability derivation to sdrbased validation",
+        "A four-user non-orthogonal multiple access system implementation in software defined radios",
+        "NOMAenabled cooperative unicast-multicast: Design and outage analysis",
+        "Large-scale network analysis on noma-aided broadcast/unicast joint transmission scenarios considering content popularity"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "ECTI Association",
+        "Electrical Engineering/Electronics",
+        "Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology Association of Thailand",
+        "Information Technology Association of Thailand",
+        "TSRI Fund"
+    ]
+}

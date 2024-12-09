@@ -1,0 +1,1412 @@
+{
+    "eid": "2-s2.0-85081412411",
+    "title": "Crowdsourcing Hypothesis Tests: Making transparent how design choices shape research results",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Psychology (all)",
+            "@code": "3200",
+            "@abbrev": "PSYC"
+        }
+    ],
+    "keywords": [
+        "conceptual replications",
+        "crowdsourcing",
+        "forecasting",
+        "research robustness",
+        "scientific transparency"
+    ],
+    "authors": [
+        "Justin F. Landy",
+        "Miaolei Liam",
+        "Isabel L. Ding",
+        "Domenico Viganola",
+        "Warren Tierney",
+        "Anna Dreber",
+        "Magnus Johannesson",
+        "Thomas Pfeiffer",
+        "Charles R. Ebersole",
+        "Quentin F. Gronau",
+        "Alexander Ly",
+        "Don Van Den Bergh",
+        "Maarten Marsman",
+        "Koen Derks",
+        "Eric Jan Wagenmaker",
+        "Andrew Proctor",
+        "Daniel M. Bartels",
+        "Christopher W. Bauman",
+        "William J. Brady",
+        "Felix Cheung",
+        "Andrei Cimpian",
+        "Simone Dohle",
+        "M. Brent Donnellan",
+        "Adam Hahn",
+        "Michael P. Hall",
+        "William Jim\u00e9nez-Leal",
+        "David J. Johnson",
+        "Richard E. Lucas",
+        "Beno\u00cet Monin",
+        "Andres Montealegre",
+        "Elizabeth Mullen",
+        "Jun Pang",
+        "Jennifer Ray",
+        "Diego A. Reinero",
+        "Jesse Reynolds",
+        "Walter Sowden",
+        "Daniel Storage",
+        "Runkun Su",
+        "Christina M. Tworek",
+        "Jay J. Van Bavel",
+        "Daniel Walco",
+        "Julian Wills",
+        "Xiaobing Xu",
+        "Kai Chi Yam",
+        "Xiaoyu Yang",
+        "William A. Cunningham",
+        "Martin Schweinsberg",
+        "Molly Urwitz",
+        "Eric L. Uhlmann",
+        "Mat\u00fa Adamkovic",
+        "Ravin Alaei",
+        "Casper J. Albers",
+        "Aur\u00e9lien Allard",
+        "Ian A. Anderson",
+        "Michael R. Andreychik",
+        "Peter Babin\u010d\u00e1k",
+        "Bradley J. Baker",
+        "Gabriel Ban\u00edk",
+        "Ernest Baskin",
+        "Jozef Bavolar",
+        "Ruud M.W.J. Berkers",
+        "Michal Bia\u0142ek",
+        "Joel Blanke",
+        "Johannes Breuer",
+        "Ambra Brizi",
+        "Stephanie E.V. Brown",
+        "Florian Br\u00fchlmann",
+        "Hendrik Bruns",
+        "Leigh Caldwell",
+        "Jean Fran\u00e7ois Campourcy",
+        "Eugene Y. Chan",
+        "Yen Ping Chang",
+        "Benjamin Y. Cheung",
+        "Alycia Chin",
+        "Kit W. Cho",
+        "Simon Columbus",
+        "Paul Conway",
+        "Conrad A. Corretti",
+        "Adam W. Craig",
+        "Paul G. Curran",
+        "Alexander F. Danvers",
+        "Ian G.J. Dawson",
+        "Martin V. Day",
+        "Erik Dietl",
+        "Johannes T. Doerflinger",
+        "Alice Dominici",
+        "Vilius Dranseika",
+        "Peter A. Edelsbrunner",
+        "John E. Edlund",
+        "Matthew Fisher",
+        "Anna Fung",
+        "Oliver Genschow",
+        "Timo Gnambs",
+        "Matthew H. Goldberg",
+        "Lorenz Graf-Vlachy",
+        "Andrew C. Hafenbrack",
+        "Sebastian Hafenbr\u00e4dl",
+        "Andree Hartanto",
+        "Joseph P. Heffner",
+        "Joseph Hilgard",
+        "Felix Holzmeister",
+        "Oleksandr V. Horchak",
+        "Tina S.T. Huang",
+        "Joachim H\u00fcffmeier",
+        "Sean Hughes",
+        "Ian Hussey",
+        "Roland Imhoff",
+        "Bastian Jaeger",
+        "Konrad Jamro",
+        "Samuel G.B. Johnson",
+        "Andrew Jones",
+        "Lucas Keller",
+        "Olga Kombeiz",
+        "Lacy E. Krueger",
+        "Anthony Lantian",
+        "Justin P. Laplante",
+        "Ljiljana B. Lazarevic",
+        "Jonathan Leclerc",
+        "Nicole Legate",
+        "James M. Leonhardt",
+        "Desmond W. Leung",
+        "Carmel A. Levitan",
+        "Hause Lin",
+        "Qinglan Liu",
+        "Marco Tullio Liuzza",
+        "Kenneth D. Locke",
+        "Albert L. Ly",
+        "Melanie MacEacheron",
+        "Christopher R. Madan",
+        "Harry Manley",
+        "Silvia Mari",
+        "Marcel Marton\u010dik",
+        "Scott L. McLean",
+        "Jonathon McPhetres",
+        "Brett G. Mercier",
+        "Corinna Michels",
+        "Michael C. Mullarkey",
+        "Erica D. Musser",
+        "Ladislas Nalborczyk",
+        "Gustav Nilsonne",
+        "Nicholas G. Otis",
+        "Sarah M.G. Otner",
+        "Philipp E. Otto",
+        "Oscar Oviedo-Trespalacios",
+        "Mariola Paruzel-Czachura",
+        "Francesco Pellegrini",
+        "Vitor M.D. Pereira",
+        "Hannah Perfecto",
+        "Gerit Pfuhl",
+        "Mark H. Phillips",
+        "Ori Plonsky",
+        "Maura Pozzi",
+        "Danka B. Puric",
+        "Brett Raymond-Barker",
+        "David E. Redman",
+        "Caleb J. Reynolds",
+        "Ivan Ropovik",
+        "Lukas R\u00f6seler",
+        "Janna K. Ruessmann",
+        "William H. Ryan",
+        "Nika Sablaturova",
+        "Kurt J. Schuepfer",
+        "Astrid Sch\u00fctz",
+        "Miroslav Sirota",
+        "Matthias Stefan",
+        "Eric L. Stocks",
+        "Garrett L. Strosser",
+        "Jordan W. Suchow",
+        "Anna Szabelska",
+        "Kian Siong Tey",
+        "Leonid Tiokhin",
+        "Jais Troian",
+        "Till Utesch",
+        "Alejandro V\u00e1squez-Echeverri\u00e1",
+        "Leigh Ann Vaughn",
+        "Mark Verschoor",
+        "Bettina Von Helversen",
+        "Pascal Wallisch",
+        "Sophia C. Weissgerber",
+        "Aaron L. Wichman",
+        "Jan K. Woike",
+        "Iris \u017de\u017eelj",
+        "Janis H. Zickfeld",
+        "Yeonsin Ahn",
+        "Philippe F. Blaettchen",
+        "Xi Kang",
+        "Yoo Jin Lee",
+        "Philip M. Parker",
+        "Paul A. Parker",
+        "Jamie S. Song",
+        "May Anne Very",
+        "Lynn Wong"
+    ],
+    "citedby-count": 80,
+    "ref-count": 185,
+    "ref-list": [
+        "Registered replication report: Schooler & Engstler-Schooler (1990)",
+        "Tandem anchoring: Informational and politeness effects of range offers in social exchange",
+        "The effect of severity of initiation on liking for a group",
+        "Implicit attitudes can be measured",
+        "Metastudies for robust tests of theory",
+        "On various intraclass correlation reliability coefficients",
+        "The combination of forecasts",
+        "Charting the future of social psychology on stormy seas: Winners, losers, and recommendations",
+        "Individual differences in prototypicality judgments about trait categories",
+        "Powerball numbers: Why do lottery winners keep working?",
+        "Does expertise matter in replication? An examination of the Reproducibility Project: Psychology",
+        "A basic introduction to fixed-effect and random-effects models for meta-analysis",
+        "The replication recipe: What makes for a convincing replication?",
+        "Postdecision changes in the desirability of alternatives",
+        "Evaluating replicability of laboratory experiments in economics",
+        "Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015",
+        "Convergent and discriminant validation by the multitrait-multimethod matrix",
+        "Show me the money: A systematic exploration of manipulations, moderators, and mechanisms of priming effects",
+        "Nonna\u00efvet\u00e9 among Amazon Mechanical Turk workers: Consequences and solutions for behavioral researchers",
+        "Risks and rewards of crowdsourcing marketplaces",
+        "On the scientific superiority of conceptual replications for scientific progress",
+        "The performance of tests of publication bias and other sample size effects in systematic reviews of diagnostic test accuracy was assessed",
+        "Predicting experimental results: Who knows what?",
+        "What motivates effort? Evidence and expert forecasts",
+        "Replication in empirical economics: The journal of money, credit and banking project",
+        "The satisfaction with life scale",
+        "Welcome back theory!",
+        "Judging cheaters: Is substance misuse viewed similarly in the athletic and academic domains?",
+        "Implicit and explicit prejudice and interracial interaction",
+        "On the other side of the mirror: Priming in cognitive and social psychology",
+        "Using prediction markets to estimate the reproducibility of scientific research",
+        "Political diversity will improve social and personality psychological science",
+        "The folk probably do think what you think they think",
+        "Ambiguity and self-evaluation: The role of idiosyncratic trait definitions in self-serving assessments of ability",
+        "Falsification: How does it relate to reproducibility?",
+        "Many Labs 3: Evaluating participant pool quality across the academic semester via replication",
+        "Bias in meta-analysis detected by a simple, graphical test",
+        "A tragedy of the (academic) commons: Interpreting the replication crisis in psychology as a social dilemma for early-career researchers",
+        "Inference of trustworthiness from intuitive moral judgments",
+        "Variability in automatic activation as an unobtrusive measure of racial attitudes: A bona fide pipeline?",
+        "Cognitive consequences of forced compliance",
+        "Best research practices in psychology: Illustrating epistemological and pragmatic considerations with the case of relationship science",
+        "Replicability and other features of a high-quality science: Toward a balanced and empirical approach",
+        "Public attitudes toward cognitive enhancement",
+        "Predicting replication outcomes in the Many Labs 2 study",
+        "Regulatory focus at the bargaining table: Promoting distributive and integrative success",
+        "First offers as anchors: The role of perspective-taking and negotiator focus",
+        "Vox populi",
+        "Associative and proposi-tional processes in evaluation: An integrative review of implicit and explicit attitude change",
+        "The difference between \u201csignificant\u201d and \u201cnot significant\u201d is not itself statistically significant",
+        "Science or art? How aesthetic standards grease the way through the publication bottleneck but undermine science",
+        "An fMRI Investigation of Emotional Engagement in Moral Judgment",
+        "Invited commentary: The need for cognitive science in methodology",
+        "Consequences of prejudice against the null hypothesis",
+        "Implicit social cognition: Attitudes, self-esteem, and stereotypes",
+        "Measuring individual differences in implicit cognition: The implicit association test",
+        "The impact of soft skill training on female youth employment: Evidence from a randomized experiment in Jordan",
+        "A tutorial on bridge sampling",
+        "A Bayesian model-averaged meta-analysis of the power pose effect with informed and default priors: The case of felt power",
+        "The remarkable robustness of the first-offer effect: Across culture, power, and issues",
+        "Facing one\u2019s implicit biases: From awareness to acknowledgment",
+        "Awareness of implicit attitudes",
+        "Replications, strict replications, and conceptual replications: Are they important?",
+        "The weirdest people in the world?",
+        "Measuring inconsistency in meta-analyses",
+        "Assessing heterogeneity in meta-analysis: Q statistic or I2 index?",
+        "Being tough or being nice? A meta-analysis on the impact of hard-and softline strategies in distributive negotiations",
+        "Fixed effects vs. random effects meta-analysis models: Implications for cumulative research knowledge",
+        "Race, opportunity and diversity of social circles in managerial managers\u2019 networks",
+        "Paving an alternate route: Gender differences in network strategies for career development",
+        "Why most published research findings are false",
+        "An exploratory test for an excess of significant findings",
+        "Third-party punishment as a costly signal of trustworthiness",
+        "Treating stimuli as a random factor in social psychology: A new and comprehensive solution to a pervasive but largely ignored problem",
+        "Sidetracked by trolleys: Why sacrificial moral dilemmas tell us little (or nothing) about utilitarian judgment",
+        "BootES: An R package for bootstrap confidence intervals on effect sizes",
+        "Investigating variation in replicability: A \u201cmany labs\u201d replication project",
+        "Two conceptions of happiness",
+        "Why hackers do what they do: Understanding motivation and effort in free/open source software projects",
+        "What\u2019s wrong with using steroids? Exploring whether and why people oppose the use of performance enhancing drugs",
+        "A unified framework to quantify the credibility of scientific findings",
+        "How social influence can undermine the wisdom of crowd effect",
+        "The first-mover disadvantage: The folly of revealing compatible preferences",
+        "The information-anchoring model of first offers: When moving first helps versus hurts negotiators",
+        "The Chicago face database: A free stimulus set of faces and norming data",
+        "When your anchor sinks your boat: Information asymmetry in distributive negotiations and the disadvantage of making the first offer",
+        "Replications in psychology research how often do they really occur?",
+        "The yin and yang of progress in social psychology: Seven koan",
+        "A contextualist theory of knowledge: Its implications for innovations and reform in psychological research",
+        "Abandon statistical significance",
+        "Large scale replication projects in contemporary psychological research",
+        "Simulating ratios of normalizing constants via a simple identity: A theoretical exploration",
+        "The limits of direct replications and the virtues of stimulus sampling [Commentary on Klein et al. (2014)]",
+        "Deciding vs. reacting: Conceptions of moral judgment and the reason-affect debate",
+        "Combining effect size estimates in meta-analysis with repeated measures and independent-groups designs",
+        "Confirmation bias: A ubiquitous phenomenon in many guises",
+        "The preregistration revolution",
+        "Scientific utopia: II. Restructuring incentives and practices to promote truth over publishabil-ity",
+        "Estimating the reproducibility of psychological science",
+        "Is the replicability crisis overblown? Three arguments examined",
+        "Quantifying selective reporting and the Proteus phenomenon for multiple datasets with similar bias",
+        "True happiness: The role of morality in the folk concept of happiness",
+        "The good in happiness",
+        "Multivariate meta-analysis using individual participant data",
+        "The \u201cfile drawer problem\u201d and the tolerance for null results",
+        "Meta-analysis: Recent developments in quantitative methods for literature reviews",
+        "Happiness is everything, or is it? Explorations on the meaning of psychological well-being",
+        "Impact of contextual factors and substance characteristics on perspectives toward cognitive enhancement",
+        "Fixed or random? A resolution through model-averaging. Reply to Carlsson, Schimmack, Williams, and Burkner (2017)",
+        "The ethics of \u201csmart drugs\u201d: Moral judgments about healthy people\u2019s use of cognitive-enhancing drugs",
+        "The ironic effect of significant results on the credibility of multiple-study articles",
+        "Shall we really do it again? The powerful concept of replication is neglected in the social sciences",
+        "Starting high and ending with nothing: The role of anchors and power in negotiations",
+        "The pipeline project: Pre-publication independent replications of a single laboratory\u2019s research pipeline",
+        "Many hands make tight work: Crowdsourcing research can balance discussions, validate findings and better inform policy",
+        "Many analysts, one data set: Making transparent how variations in analytic choices affect results",
+        "The value of direct replication",
+        "P-curve: A key to the file-drawer",
+        "Ethics and intuitions",
+        "Increasing transparency through a multiverse analysis",
+        "Am I famous yet?\u201d Judging scholarly merit in psychological science an introduction",
+        "The average laboratory samples a population of 7,300 Amazon Mechanical Turk Workers",
+        "The alleged crisis and the illusion of exact replication",
+        "Generalizability is not optional: Insights from a cross-cultural study of social discounting",
+        "Judgment under uncertainty: Heuristics and biases",
+        "Scientific utopia III: Crowdsourcing science",
+        "A person-centered approach to moral judgment",
+        "American moral exceptionalism",
+        "Automatic associations: Personal attitudes or cultural knowledge?",
+        "The implicit legacy of American Protestantism",
+        "Contextual sensitivity in scientific reproducibility",
+        "Estimates of between-study heterogeneity for 705 meta-analyses reported in Psychological Bulletin from 1990\u20132013",
+        "Our obsession with eminence warps research",
+        "Bayesian tests to quantify the result of a replication attempt",
+        "Conducting meta-analyses in R with the metafor package",
+        "Bayesian inference for psychology. Part II: Example applications with JASP",
+        "Bayesian inference for psychology. Part I: Theoretical advantages and practical ramifications",
+        "An agenda for purely confirmatory research",
+        "Two conceptions of happiness: Contrasts of personal expressiveness (Eudaimonia) and hedonic enjoyment",
+        "The questionnaire for Eudaimonic well-being: Psychometric properties, demographic comparisons, and evidence of validity",
+        "Development and validation of brief measures of positive and negative affect: The PANAS scales",
+        "Stimulus sampling in social psychological experimentation",
+        "Replicating studies in which samples of participants respond to samples of stimuli",
+        "Degrees of freedom in planning, running, analyzing, and reporting psychological studies: A checklist to avoid p-hacking",
+        "A model of dual attitudes",
+        "The increasing dominance of teams in production of knowledge",
+        "Why do team authored papers get cited more?",
+        "Improving social and behavioral science by making replication mainstream: A response to commentaries"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60017161",
+            "affilname": "National University of Singapore",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017161",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Amsterdam",
+            "@id": "60002483",
+            "affilname": "Universiteit van Amsterdam",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002483",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Berlin",
+            "@id": "60122523",
+            "affilname": "ESMT Berlin",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60122523",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Ghent",
+            "@id": "60033316",
+            "affilname": "Universiteit Gent",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60033316",
+            "affiliation-country": "Belgium"
+        },
+        {
+            "affiliation-city": "East Lansing",
+            "@id": "60031707",
+            "affilname": "Michigan State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031707",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Beijing",
+            "@id": "60025278",
+            "affilname": "Tsinghua University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025278",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Koln",
+            "@id": "60024025",
+            "affilname": "Universit\u00e4t zu K\u00f6ln",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024025",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Charlottesville",
+            "@id": "60021918",
+            "affilname": "University of Virginia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021918",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60021784",
+            "affilname": "New York University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021784",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Stockholm",
+            "@id": "60021562",
+            "affilname": "Handelsh\u00f6gskolan i Stockholm",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021562",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "College Park",
+            "@id": "60020304",
+            "affilname": "University of Maryland, College Park",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020304",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Fort Lauderdale",
+            "@id": "60019600",
+            "affilname": "Nova Southeastern University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019600",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Fairfax",
+            "@id": "60018319",
+            "affilname": "George Mason University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018319",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "San Jose",
+            "@id": "60015609",
+            "affilname": "San Jose State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015609",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Denver",
+            "@id": "60015404",
+            "affilname": "University of Denver",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015404",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Palo Alto",
+            "@id": "60012708",
+            "affilname": "Stanford University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012708",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bamberg",
+            "@id": "60011372",
+            "affilname": "Universit\u00e4t Bamberg",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011372",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Innsbruck",
+            "@id": "60009999",
+            "affilname": "Universit\u00e4t Innsbruck",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009999",
+            "affiliation-country": "Austria"
+        },
+        {
+            "affiliation-city": "Palmerston North",
+            "@id": "60008221",
+            "affilname": "Massey University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008221",
+            "affiliation-country": "New Zealand"
+        },
+        {
+            "affiliation-city": "Denver",
+            "@id": "124288960",
+            "affilname": "University of Michigan",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/124288960",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "118704961",
+            "affilname": "New York Yankees",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/118704961",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Limerick",
+            "@id": "60212408",
+            "affilname": "Kemmy Business School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60212408",
+            "affiliation-country": "Ireland"
+        },
+        {
+            "affiliation-city": "Clermont-Ferrand",
+            "@id": "60138276",
+            "affilname": "Universit\u00e9 Clermont Auvergne",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60138276",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Beijing",
+            "@id": "60125448",
+            "affilname": "Renmin Business School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60125448",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60116755",
+            "affilname": "John Molson School of Business",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60116755",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Irvine",
+            "@id": "60116494",
+            "affilname": "UCI Paul Merage School of Business",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60116494",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60116484",
+            "affilname": "Imperial College Business School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60116484",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Coventry",
+            "@id": "60115484",
+            "affilname": "Warwick Business School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60115484",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Loma Linda",
+            "@id": "60113483",
+            "affilname": "Loma Linda University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60113483",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Chicago",
+            "@id": "60112748",
+            "affilname": "The University of Chicago Booth School of Business",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60112748",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Toronto",
+            "@id": "60112541",
+            "affilname": "Rotman School of Management",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60112541",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60106360",
+            "affilname": "NUS Business School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60106360",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Lisbon",
+            "@id": "60106051",
+            "affilname": "Universidade de Lisboa",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60106051",
+            "affiliation-country": "Portugal"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "60103563",
+            "affilname": "The University of Hong Kong Li Ka Shing Faculty of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103563",
+            "affiliation-country": "Hong Kong"
+        },
+        {
+            "affiliation-city": "Taipei",
+            "@id": "60103514",
+            "affilname": "Academia Sinica, Institute of Sociology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103514",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Houston",
+            "@id": "60103463",
+            "affilname": "University of Houston-Downtown",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103463",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Commerce",
+            "@id": "60092538",
+            "affilname": "Texas A&amp;M University-Commerce",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60092538",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Belgrade",
+            "@id": "60068815",
+            "affilname": "University of Belgrade",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60068815",
+            "affiliation-country": "Serbia"
+        },
+        {
+            "affiliation-city": "Bogota",
+            "@id": "60052106",
+            "affilname": "Universidad de Los Andes, Colombia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60052106",
+            "affiliation-country": "Colombia"
+        },
+        {
+            "affiliation-city": "Kaunas",
+            "@id": "60042282",
+            "affilname": "Kaunas University of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60042282",
+            "affiliation-country": "Lithuania"
+        },
+        {
+            "affiliation-city": "Moscow",
+            "@id": "60033389",
+            "affilname": "University of Idaho",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60033389",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Minneapolis",
+            "@id": "60033370",
+            "affilname": "Walden University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60033370",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Dortmund",
+            "@id": "60032991",
+            "affilname": "Technische Universit\u00e4t Dortmund",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032991",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Eindhoven",
+            "@id": "60032882",
+            "affilname": "Technische Universiteit Eindhoven",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032882",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60032373",
+            "affilname": "The Graduate Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032373",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Rome",
+            "@id": "60032350",
+            "affilname": "Sapienza Universit\u00e0 di Roma",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032350",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Chicago",
+            "@id": "60031975",
+            "affilname": "Illinois State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031975",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Cedar City",
+            "@id": "60031826",
+            "affilname": "Southern Utah University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031826",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Kosice",
+            "@id": "60031236",
+            "affilname": "Pavol Jozef \u0160af\u00e1rik University in Ko\u0161ice",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031236",
+            "affiliation-country": "Slovakia"
+        },
+        {
+            "affiliation-city": "Mainz",
+            "@id": "60031216",
+            "affilname": "Johannes Gutenberg-Universit\u00e4t Mainz",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031216",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Bath",
+            "@id": "60030480",
+            "affilname": "University of Bath",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030480",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Belfast",
+            "@id": "60029738",
+            "affilname": "Queen's University Belfast",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029738",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Brno",
+            "@id": "60029543",
+            "affilname": "Masaryk University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029543",
+            "affiliation-country": "Czech Republic"
+        },
+        {
+            "affiliation-city": "Wuhan",
+            "@id": "60029386",
+            "affilname": "Hubei University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029386",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Chicago",
+            "@id": "60029278",
+            "affilname": "The University of Chicago",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029278",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Coral Gables",
+            "@id": "60029251",
+            "affilname": "University of Miami",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029251",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Barcelona",
+            "@id": "60028883",
+            "affilname": "IESE Business School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028883",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Holland",
+            "@id": "60028473",
+            "affilname": "Magna Donnelly",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028473",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Lisbon",
+            "@id": "60028300",
+            "affilname": "Iscte \u2013 Instituto Universit\u00e1rio de Lisboa",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028300",
+            "affiliation-country": "Portugal"
+        },
+        {
+            "affiliation-city": "Hamburg",
+            "@id": "60028229",
+            "affilname": "Universit\u00e4t Hamburg",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028229",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hoboken",
+            "@id": "60027392",
+            "affilname": "Stevens Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027392",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Worcester",
+            "@id": "60026910",
+            "affilname": "Clark University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026910",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60026761",
+            "affilname": "University of Roehampton",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026761",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Berlin",
+            "@id": "60026562",
+            "affilname": "Max Planck Institute for Human Development",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026562",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Abilene",
+            "@id": "60026136",
+            "affilname": "Abilene Christian University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026136",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Zurich ZH,",
+            "@id": "60025858",
+            "affilname": "ETH Z\u00fcrich",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025858",
+            "affiliation-country": "Switzerland"
+        },
+        {
+            "affiliation-city": "Allendale",
+            "@id": "60025659",
+            "affilname": "Grand Valley State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025659",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Konstanz",
+            "@id": "60025525",
+            "affilname": "Universit\u00e4t Konstanz",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025525",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Leipzig",
+            "@id": "60025323",
+            "affilname": "Max Planck Institute for Human Cognitive and Brain Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025323",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Southampton",
+            "@id": "60025225",
+            "affilname": "University of Southampton",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025225",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Berkeley",
+            "@id": "60025038",
+            "affilname": "University of California, Berkeley",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025038",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Los Angeles",
+            "@id": "60025034",
+            "affilname": "Occidental College",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025034",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Breukelen",
+            "@id": "60024797",
+            "affilname": "Nyenrode Business University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024797",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Milan",
+            "@id": "60024053",
+            "affilname": "Universit\u00e0 Cattolica del Sacro Cuore",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024053",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Basel",
+            "@id": "60023588",
+            "affilname": "Universitat Basel",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023588",
+            "affiliation-country": "Switzerland"
+        },
+        {
+            "affiliation-city": "Cambridge",
+            "@id": "60022195",
+            "affilname": "Massachusetts Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022195",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60022148",
+            "affilname": "University College London",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022148",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Coventry",
+            "@id": "60022020",
+            "affilname": "University of Warwick",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022020",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Linz",
+            "@id": "60021931",
+            "affilname": "Johannes Kepler University Linz",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021931",
+            "affiliation-country": "Austria"
+        },
+        {
+            "affiliation-city": "Tromso",
+            "@id": "60021255",
+            "affilname": "UiT Norges Arktiske Universitet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021255",
+            "affiliation-country": "Norway"
+        },
+        {
+            "affiliation-city": "Stanford",
+            "@id": "60020928",
+            "affilname": "Stanford Graduate School of Business",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020928",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Liverpool",
+            "@id": "60020661",
+            "affilname": "University of Liverpool",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020661",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "College Station",
+            "@id": "60020547",
+            "affilname": "Texas A&amp;M University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020547",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Melbourne",
+            "@id": "60019578",
+            "affilname": "Monash University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019578",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Tyler",
+            "@id": "60019188",
+            "affilname": "University of Texas at Tyler",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019188",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "St John's",
+            "@id": "60019000",
+            "affilname": "Memorial University of Newfoundland",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019000",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60018933",
+            "affilname": "Singapore Management University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018933",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Kassel",
+            "@id": "60018123",
+            "affilname": "Universit\u00e4t Kassel",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018123",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Haikou",
+            "@id": "60017716",
+            "affilname": "Hainan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017716",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Dallas",
+            "@id": "60017536",
+            "affilname": "Southern Methodist University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017536",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Nanterre",
+            "@id": "60017338",
+            "affilname": "Universit\u00e9 Paris Nanterre",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017338",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Tilburg",
+            "@id": "60017145",
+            "affilname": "Tilburg University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017145",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Toronto",
+            "@id": "60016849",
+            "affilname": "University of Toronto",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016849",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Warsaw",
+            "@id": "60016765",
+            "affilname": "Kozminski University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016765",
+            "affiliation-country": "Poland"
+        },
+        {
+            "affiliation-city": "Lexington",
+            "@id": "60015941",
+            "affilname": "University of Kentucky",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015941",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Honolulu",
+            "@id": "60015285",
+            "affilname": "Tripler Regional Med Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015285",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Miami",
+            "@id": "60015206",
+            "affilname": "Florida International University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015206",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Nottingham",
+            "@id": "60015138",
+            "affilname": "University of Nottingham",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015138",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Bowling Green",
+            "@id": "60014611",
+            "affilname": "Western Kentucky University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014611",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Beijing",
+            "@id": "60014402",
+            "affilname": "Renmin University of China",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014402",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Passau",
+            "@id": "60014151",
+            "affilname": "Universit\u00e4t Passau",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014151",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60013894",
+            "affilname": "University of Massachusetts System",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013894",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Austin",
+            "@id": "60013372",
+            "affilname": "The University of Texas at Austin",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013372",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Stockholm",
+            "@id": "60012311",
+            "affilname": "Karolinska Institutet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012311",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "Milan",
+            "@id": "60012306",
+            "affilname": "Universit\u00e0 degli Studi di Milano-Bicocca",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012306",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Ithaca",
+            "@id": "60012181",
+            "affilname": "Ithaca College",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012181",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Providence",
+            "@id": "60011460",
+            "affilname": "Brown University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011460",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Brisbane",
+            "@id": "60011019",
+            "affilname": "Queensland University of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011019",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60010884",
+            "affilname": "Western University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010884",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Fairfield",
+            "@id": "60010537",
+            "affilname": "Fairfield University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010537",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Vancouver",
+            "@id": "60010365",
+            "affilname": "The University of British Columbia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010365",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Oslo",
+            "@id": "60010348",
+            "affilname": "Universitetet i Oslo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010348",
+            "affiliation-country": "Norway"
+        },
+        {
+            "affiliation-city": "St. Louis",
+            "@id": "60010261",
+            "affilname": "Washington University in St. Louis",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010261",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Tucson",
+            "@id": "60010065",
+            "affilname": "The University of Arizona",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010065",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Groningen",
+            "@id": "60010023",
+            "affilname": "Rijksuniversiteit Groningen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010023",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Istanbul",
+            "@id": "60009715",
+            "affilname": "Istanbul Bilgi \u00dcniversitesi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009715",
+            "affiliation-country": "Turkey"
+        },
+        {
+            "affiliation-city": "Limerick",
+            "@id": "60009602",
+            "affilname": "University of Limerick",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009602",
+            "affiliation-country": "Ireland"
+        },
+        {
+            "affiliation-city": "Richardson",
+            "@id": "60009415",
+            "affilname": "The University of Texas at Dallas",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009415",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Dartmouth",
+            "@id": "60009060",
+            "affilname": "University of Massachusetts Dartmouth",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009060",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Amsterdam",
+            "@id": "60008734",
+            "affilname": "Vrije Universiteit Amsterdam",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008734",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Durham",
+            "@id": "60008724",
+            "affilname": "Duke University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008724",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bremen",
+            "@id": "60008293",
+            "affilname": "Universit\u00e4t Bremen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008293",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Frankfurt/Oder",
+            "@id": "60007892",
+            "affilname": "Europa-Universit\u00e4t Viadrina Frankfurt (Oder)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007892",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Irvine",
+            "@id": "60007278",
+            "affilname": "University of California, Irvine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007278",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "60006541",
+            "affilname": "The University of Hong Kong",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006541",
+            "affiliation-country": "Hong Kong"
+        },
+        {
+            "affiliation-city": "New Haven",
+            "@id": "60005455",
+            "affilname": "Yale University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005455",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Saint-Denis",
+            "@id": "60004885",
+            "affilname": "Universite Paris 8 Vincennes-St Denis",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004885",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Chicago",
+            "@id": "60002873",
+            "affilname": "Illinois Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002873",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Tallahassee",
+            "@id": "60002092",
+            "affilname": "Florida State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002092",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Tacoma",
+            "@id": "60001795",
+            "affilname": "Pacific Lutheran University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001795",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Rochester",
+            "@id": "60001777",
+            "affilname": "Rochester Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001777",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Reno",
+            "@id": "60001769",
+            "affilname": "University of Nevada, Reno",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001769",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Colchester",
+            "@id": "60001359",
+            "affilname": "University of Essex",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001359",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Loughborough",
+            "@id": "60000891",
+            "affilname": "Loughborough University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000891",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Padua",
+            "@id": "60000481",
+            "affilname": "Universit\u00e0 degli Studi di Padova",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000481",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Munster",
+            "@id": "60000401",
+            "affilname": "Westf\u00e4lische Wilhelms-Universit\u00e4t M\u00fcnster",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000401",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "126012370",
+            "affilname": "GESIS-Leibniz Institute for Social Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126012370",
+            "affiliation-country": null
+        },
+        {
+            "affiliation-city": null,
+            "@id": "126012364",
+            "affilname": "University of Presov",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126012364",
+            "affiliation-country": null
+        },
+        {
+            "affiliation-city": null,
+            "@id": "126012360",
+            "affilname": "University of Silesia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126012360",
+            "affiliation-country": null
+        },
+        {
+            "affiliation-city": null,
+            "@id": "126012348",
+            "affilname": "European University Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126012348",
+            "affiliation-country": null
+        },
+        {
+            "affiliation-city": null,
+            "@id": "126012340",
+            "affilname": "University of Pre\u0161ov",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126012340",
+            "affiliation-country": null
+        },
+        {
+            "affiliation-city": null,
+            "@id": "126012338",
+            "affilname": "Saint Joseph's University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126012338",
+            "affiliation-country": null
+        },
+        {
+            "affiliation-city": null,
+            "@id": "126012333",
+            "affilname": "Public Company Accounting Oversight Board",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126012333",
+            "affiliation-country": null
+        },
+        {
+            "affiliation-city": null,
+            "@id": "126012331",
+            "affilname": "University of Andes",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126012331",
+            "affiliation-country": null
+        },
+        {
+            "affiliation-city": null,
+            "@id": "126012327",
+            "affilname": "Irrational Agency",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126012327",
+            "affiliation-country": null
+        },
+        {
+            "affiliation-city": null,
+            "@id": "126012324",
+            "affilname": "University of Republic",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126012324",
+            "affiliation-country": null
+        },
+        {
+            "affiliation-city": "Rochester",
+            "@id": "125811299",
+            "affilname": "HarrisX",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125811299",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Friday Harbor",
+            "@id": "124242704",
+            "affilname": "University of Washington",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/124242704",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": []
+}

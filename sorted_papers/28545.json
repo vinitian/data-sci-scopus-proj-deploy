@@ -1,0 +1,138 @@
+{
+    "eid": "2-s2.0-85106554110",
+    "title": "Assessment of the confidence interval in the multivariable normal tissue complication probability model for predicting radiation-induced liver disease in primary liver cancer",
+    "cover-date": "2021-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Medicine (all)",
+            "@code": "2700",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "confidence interval",
+        "multivariable",
+        "normal tissue complication probability",
+        "prediction model",
+        "radiation-induced liver disease"
+    ],
+    "authors": [
+        "Anussara Prayongrat",
+        "Natchalee Srimaneekarn",
+        "Sira Sriswasdi",
+        "Yoichi M. Ito",
+        "Norio Katoh",
+        "Masaya Tamura",
+        "Yasuhiro Dekura",
+        "Chie Toramatsu",
+        "Chonlakiet Khorprasert",
+        "Napapat Amornwichet",
+        "Petch Alisanant",
+        "Yuichi Hirata",
+        "Anthony Hayter",
+        "Hiroki Shirato",
+        "Shinichi Shimizu",
+        "Keiji Kobashi"
+    ],
+    "citedby-count": 1,
+    "ref-count": 35,
+    "ref-list": [
+        "Radiation-associated liver injury",
+        "Use of normal tissue complication probability models in the clinic",
+        "Analysis of radiationinduced liver disease using the Lyman NTCP model",
+        "Radiation-induced liver disease after three-dimensional conformal radiotherapy for patients with hepatocellular carcinoma: dosimetric analysis and implication",
+        "Prediction of radiation-induced liver disease by Lyman normal-tissue complication probability model in three-dimensional conformal radiation therapy for primary liver carcinoma",
+        "Dose-volumetric parameters predicting radiation-induced hepatic toxicity in unresectable hepatocellular carcinoma patients treated with three-dimensional conformal radiotherapy",
+        "The normal tissue complication probability model-based approach considering uncertainties for the selective use of radiation modality in primary liver cancer patients",
+        "Biologic susceptibility of hepatocellular carcinoma patients treated with radiotherapy to radiationinduced liver disease",
+        "Radiation-induced liver disease in three-dimensional conformal radiation therapy for primary liver carcinoma: the risk factors and hepatic radiation tolerance",
+        "Evaluation of hepatic toxicity after repeated stereotactic body radiation therapy for recurrent hepatocellular carcinoma using deformable image registration",
+        "Multivariable modeling of radiotherapy outcomes, including dose-volume and clinical factors",
+        "Development of NTCP models for head and neck cancer patients treated with threedimensional conformal radiotherapy for xerostomia and sticky saliva: the role of dosimetric and clinical factors",
+        "NTCP models for patient-rated xerostomia and sticky saliva after treatment with intensity modulated radiotherapy for head and neck cancer: the role of dosimetric and clinical factors",
+        "Aprospective cohort study on radiation-induced hypothyroidism: development of an NTCP model",
+        "Predictive modelling for swallowing dysfunction after primary (chemo)radiation: results of a prospective observational study",
+        "Development of a multivariable normal tissue complication probability (NTCP) model for tube feeding dependence after curative radiotherapy/chemo-radiotherapy in head and neck cancer",
+        "NTCP reduction for advanced head and neck cancer patients using proton therapy for complete or sequential boost treatment versus photon therapy",
+        "Swallowing sparing intensity modulated radiotherapy (SW-IMRT) in head and neck cancer: clinical validation according to the modelbased approach",
+        "Selection of patients for radiotherapy with protons aiming at reduction of side effects: the model-based approach",
+        "The quest for evidence for proton therapy: model-based approach and precision medicine",
+        "Development and evaluation of an online three-level proton vs photon decision support prototype for head and neck cancer-comparison of dose, toxicity and cost-effectiveness",
+        "Identification of patient benefit from proton therapy for advanced head and neck cancer patients based on individual and subgroup normal tissue complication probability analysis",
+        "Selection of external beam radiotherapy approaches for precise and accurate cancer treatment",
+        "Impact of model and dose uncertainty on model-based selection of oropharyngeal cancer patients for proton therapy",
+        "The use of 3-D dose volume analysis to predict radiation hepatitis",
+        "Transparent reporting of a multivariable prediction model for individual prognosis or diagnosis (TRIPOD): explanation and elaboration",
+        "MultivariateNormal Distribution",
+        "Hepatic radiation toxicity: avoidance and amelioration",
+        "Extrapolation of normal tissue complication probability for different fractionations in liver irradiation",
+        "Clinical results and prognostic factors in radiotherapy for unresectable hepatocellular carcinoma: a retrospective study of 158 patients",
+        "The model-based approach to clinical studies in particle radiotherapy-a new concept in evidence based radiation oncology?",
+        "Assessing the uncertainty in a normal tissue complication probability difference (NTCP): radiation-induced liver disease (RILD) in liver tumour patients treated with proton vs X-ray therapy",
+        "External validation of three dimensional conformal radiotherapy based NTCP models for patient-rated xerostomia and sticky saliva among patients treated with intensity modulated radiotherapy",
+        "Prediction of liver function by usingmagnetic resonance-based portal venous perfusion imaging",
+        "Modeling of normal tissue complications using imaging and biomarkers after radiation therapy for hepatocellular carcinoma"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Sapporo",
+            "@id": "60171691",
+            "affilname": "Faculty of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60171691",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Sapporo",
+            "@id": "60171692",
+            "affilname": "Graduate School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60171692",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Sapporo",
+            "@id": "60006040",
+            "affilname": "Hokkaido University Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006040",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60091468",
+            "affilname": "Mahidol University, Faculty of Dentistry",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091468",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025639",
+            "affilname": "Tokyo Women's Medical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025639",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Denver",
+            "@id": "60015404",
+            "affilname": "University of Denver",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015404",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Sapporo",
+            "@id": "60014652",
+            "affilname": "Hokkaido University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014652",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Ministry of Education, Science, Sports, and Culture"
+    ]
+}

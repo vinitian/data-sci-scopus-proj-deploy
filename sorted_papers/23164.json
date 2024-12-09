@@ -1,0 +1,91 @@
+{
+    "eid": "2-s2.0-85125196867",
+    "title": "Experiments on Quantum Circuits for Compact Genetic Algorithm",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Automotive Engineering",
+            "@code": "2203",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "compact genetic algorithm (cGA)",
+        "Grover's search algorithm",
+        "Quantum computing"
+    ],
+    "authors": [
+        "Kamonluk Suksen",
+        "Naphan Benchasattabuse",
+        "Prabhas Chongstitvatana"
+    ],
+    "citedby-count": 0,
+    "ref-count": 21,
+    "ref-list": [
+        "Polynomial-Time algorithms for prime factorization and discrete logarithms on a quantum computer",
+        "A fast quantum mechanical algorithm for database search",
+        "Evolutionary algorithms for optimization problems with uncertainties and hybrid indices",
+        "The compact genetic algorithm",
+        "A hardware implementation of the compact genetic algorithm",
+        "Quantum-inspired genetic algorithms",
+        "A quantum-inspired genetic algorithm for solving the antenna positioning problem",
+        "Quantum-inspired evolutionary approach for the quadratic assignment problem",
+        "Simulation of implementable quantum-Assisted genetic algorithm",
+        "Quantum genetic optimization",
+        "The improvement of quantum genetic algorithm and its application on function optimization",
+        "An implementation of compact genetic algorithm on a quantum computer",
+        "Evolving cellular automata by parallel quantum genetic algorithm",
+        "Ising formulations of many np problems"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025997",
+            "affilname": "Keio University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025997",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Program Management Unit for Human Resources and Institutional Development, Research and Innovation",
+        "MEXT"
+    ]
+}

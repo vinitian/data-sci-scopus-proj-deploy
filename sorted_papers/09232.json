@@ -1,0 +1,66 @@
+{
+    "eid": "2-s2.0-85097329912",
+    "title": "An enhanced time series motif discovery using approximated matrix profile",
+    "cover-date": "2020-08-05",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Matrix profile",
+        "Motif discovery",
+        "Time series mining"
+    ],
+    "authors": [
+        "Chanapon Onwongsa",
+        "Chotirat Ratanamahatana"
+    ],
+    "citedby-count": 2,
+    "ref-count": 18,
+    "ref-list": [
+        "Exact discovery of time series motifs",
+        "Earthquake detection through computationally efficient similarity search",
+        "Simple: Assessing music similarity using subsequences joins",
+        "Identifying predictive multidimensional time series motifs: An application to severe weather prediction",
+        "Detecting time series motifs under uniform scaling",
+        "Matrix profile i : All pairs similarity joins for time series: A unifying view that includes motifs, discords and shapelets",
+        "Matrix profile II: Exploiting a novel algorithm and GPUs to break the one hundred million barrier for time series motifs and joins",
+        "Fast time sequence indexing for arbitrary lp norms",
+        "Probabilistic discovery of time series motifs",
+        "Matrix profile xi: Scrimp++: Time series motif discovery at interactive speeds",
+        "Online discovery and maintenance of time series motifs",
+        "A remark on stirling's formula",
+        "Accurate subsequence matching on data stream under time warping distance",
+        "Characterization and correlation of dc electrical penetration graph waveforms with feeding behavior of beet leafhopper, circulifer tenellus"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

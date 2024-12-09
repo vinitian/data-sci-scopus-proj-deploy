@@ -1,0 +1,58 @@
+{
+    "eid": "2-s2.0-85076788358",
+    "title": "Estimation of granger causality of state-space models using a clustering with gaussian mixture model",
+    "cover-date": "2019-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Nattaporn Plub-In",
+        "Jitkomut Songsiri"
+    ],
+    "citedby-count": 0,
+    "ref-count": 18,
+    "ref-list": [
+        "Measuring directional coupling between EEG sources",
+        "Estimation of cortical connectivity from EEG using state-space models",
+        "Modeling effective connectivity in high-dimensional cortical source signals",
+        "A unified estimation framework for state-related changes in effective brain connectivity",
+        "Granger causality for state-space models",
+        "State-space analysis of granger-geweke causality measures with application to fmri",
+        "Critical comments on EEG sensor space dynamical connectivity analysis",
+        "State-space model estimation of EEG time series for classifying active brain sources",
+        "Consistency of EEG source localization and connectivity estimates",
+        "EEG source localization",
+        "State-space models",
+        "Behaviour of granger causality under filtering: Theoretical invariance and practical application",
+        "The mvgc multivariate granger causality toolbox: A new approach to granger-causal inference"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University",
+        "Faculty of Engineering"
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "eid": "2-s2.0-85102739222",
+    "title": "Coordinated photovoltaic and battery control using opf in distribution system for supply-demand balance maintenance of bulk power system",
+    "cover-date": "2020-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Automotive Engineering",
+            "@code": "2203",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Transportation",
+            "@code": "3313",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "Battery energy storage system (BESS)",
+        "Load characteristics",
+        "Optimal power flow (OPF)",
+        "Photovoltaic (PV) power generation"
+    ],
+    "authors": [
+        "Fumiya Hyodo",
+        "Taisuke Masuta",
+        "Thavatchai Tayjasanant",
+        "Kritthapat Peanviboon"
+    ],
+    "citedby-count": 2,
+    "ref-count": 14,
+    "ref-list": [
+        "Coordinated operation of a battery energy storage system and thermal generators for supply-demand balance maintenance and efficient use of photovoltaic energy",
+        "Simultaneous operation scheduling of Generators and battery energy storage system based on Actual and forecasted photovoltaic power outputs",
+        "Study of energy management for decreasing reverse power flow from photovoltaic power systems",
+        "A hierarchical VLSM-based demand response strategy for coordinative voltage control between transmission and distribution systems",
+        "Centralized BESS Control to minimize demand of PV-supplied micro-grid under voltage constraints",
+        "Energy management of AC-DC hybrid distribution systems considering network reconfiguration",
+        "Optimal market participation of distributed load resources under distribution network operational limits and renewable generation uncertainties",
+        "Cross-regional economic-load dispatching control with photovoltaic energy curtailment by OPF in interconnected bulk power systems",
+        "Operation of battery energy storage systems considering transmission Network in bulk power System with Large-scale photovoltaic systems"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nagoya",
+            "@id": "60027762",
+            "affilname": "Meijo University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027762",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

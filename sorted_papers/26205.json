@@ -1,0 +1,72 @@
+{
+    "eid": "2-s2.0-85057737738",
+    "title": "Log-End Cut-Area Detection in Images Taken from Rear End of Eucalyptus Timber Trucks",
+    "cover-date": "2018-09-06",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Eucalyptus log",
+        "Image processing",
+        "Image segmentation",
+        "Log counting",
+        "Log detection",
+        "Machine learning",
+        "Machine vision"
+    ],
+    "authors": [
+        "Noppawat Samdangdech",
+        "Suebskul Phiphobmongkol"
+    ],
+    "citedby-count": 6,
+    "ref-count": 13,
+    "ref-list": [
+        "Roundwood measurement of truck loads by laser scanning",
+        "Image processing technique to count the number of logs in a timber truck 2012",
+        "Photogrammetric technique for timber stack volume contol",
+        "Photogrammetric technique for measurements in woodworking industry",
+        "The algorithm and software for timber batch measurement by using image analysis",
+        "Mean shift: A robust approach toward feature space analysis",
+        "The watershed transform: Definitions, algorithms and parallelization strategies",
+        "An experimental comparison of mincut/max-flow algorithms for energy minimization in vision",
+        "Fully convolutional networks for semantic segmentation",
+        "A threshold selection method from gray-level histograms"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

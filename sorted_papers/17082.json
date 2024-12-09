@@ -1,0 +1,114 @@
+{
+    "eid": "2-s2.0-85125918064",
+    "title": "An intelligent robust cascaded control scheme for renewable energy based microgrid",
+    "cover-date": "2022-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "dispersed generation",
+        "intelligent controller",
+        "microgrid",
+        "renewable energy sources",
+        "type-2 fuzzy sets"
+    ],
+    "authors": [
+        "T. Vigneysh",
+        "Suresh Velamuri",
+        "MVV Prasad Kantipudi",
+        "Wattana Viriyasitavat"
+    ],
+    "citedby-count": 1,
+    "ref-count": 45,
+    "ref-list": [
+        "A novel approach for distributed generation expansion planning considering its added value compared with centralized generation expansion",
+        "A self-evolving type-2 fuzzy energy management strategy for multi-microgrid systems",
+        "An interval type-2 fuzzy logic based strategy for microgrid protection",
+        "A comparative study of type-1 fuzzy logic systems, interval type-2 fuzzy logic systems and generalized type-2 fuzzy logic systems in control problems",
+        "Artificial intelligence and patentability: Review and discussions",
+        "Control scheme for grid-tied distributed generation inverter under unbalanced and distorted utility conditions with power quality ancillary services",
+        "STOA: A bio-inspired based optimization algorithm for industrial engineering problems",
+        "Spotted hyena optimizer: A novel bio-inspired based metaheuristic technique for engineering applications",
+        "Emperor penguin optimizer: A bio-inspired algorithm for engineering problems",
+        "Optimal tuning of 3 degree-of-freedom proportional-integral-derivative controller for hybrid distributed power system using dragonfly algorithm",
+        "Type-2 FLCs: A new generation of fuzzy controllers",
+        "Dynamic response enhancement of grid-tied ac microgrid using salp swarm optimization algorithm",
+        "Smart operations of smart grids integrated with distributed generation: A review",
+        "Tunicate swarm algorithm: A new bio-inspired based metaheuristic paradigm for global optimization",
+        "A new load frequency control strategy for micro-grids with considering electrical vehicles",
+        "A grid-connected dual voltage source inverter with power quality improvement features",
+        "A comparative study of fuzzy optimization through fuzzy number",
+        "Interval type-2 fuzzy logic systems: Theory and design",
+        "A hysteresis current controller for single-phase three-level voltage source inverters",
+        "Type-2 fuzzy sets and systems: An overview",
+        "Type-2 fuzzy sets made simple",
+        "Interval type-2 fuzzy logic systems made simple",
+        "Voltage sag assessment using type-2 fuzzy system considering uncertainties in distribution system",
+        "Energy management in photovoltaic battery hybrid systems: A novel type-2 fuzzy control",
+        "A fault-tolerant control paradigm for microgrid-connected wind energy systems",
+        "An intelligent type-2 fuzzy stabilization of multi-DC Nano power grids",
+        "A software tool: Type-2 fuzzy logic toolbox",
+        "Design and implementation of type-2 fuzzy logic controller for DFIG-based wind energy systems in distribution networks",
+        "A robust control algorithm for a multifunctional grid tied inverter to enhance the power quality of a microgrid under unbalanced conditions",
+        "Model predictive control of distributed generations with feed-forward output currents",
+        "Control for grid-connected DFIG-based wind energy system using adaptive neuro-fuzzy technique",
+        "Improved design of interval type-2 fuzzy based wide area power system stabilizer for inter-area oscillation damping",
+        "Decentralized control strategy for fuel cell/PV/BESS based microgrid using modified fractional order PI controller",
+        "A power quality compensator with DG interface capability using repetitive control",
+        "Proportional-resonant controllers and filters for grid-connected voltage-source converters",
+        "An enhanced grid current compensator for grid-connected distributed generation under nonlinear loads and grid voltage distortions",
+        "Interval type-2 fuzzy sets improved by simulated annealing for locating the electric charging stations",
+        "Analytical review analysis for screening COVID-19 disease",
+        "Grid interconnection of renewable energy sources using multifunctional grid-interactive converters: A fuzzy logic based approach",
+        "Grid interconnection of renewable energy sources using unified power quality conditioner: A fuzzy logic-based approach",
+        "Analysis, design, and implementation of a quasi-proportional-resonant controller for a multifunctional capacitive-coupling grid-connected inverter",
+        "Multi-objective control of multi-functional grid-connected inverter for renewable energy integration and power quality service"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199583",
+            "affilname": "Chulalongkorn Business School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199583",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pune",
+            "@id": "60117095",
+            "affilname": "Symbiosis Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60117095",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Thanjavur",
+            "@id": "60005147",
+            "affilname": "SASTRA Deemed University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005147",
+            "affiliation-country": "India"
+        }
+    ],
+    "funding": []
+}

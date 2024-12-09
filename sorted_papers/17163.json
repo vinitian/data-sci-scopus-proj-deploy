@@ -1,0 +1,76 @@
+{
+    "eid": "2-s2.0-85108403088",
+    "title": "Encoder-decoder based convolutional neural networks with multi-scale-aware modules for crowd counting",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Pongpisit Thanasutives",
+        "Ken Ichi Fukui",
+        "Masayuki Numao",
+        "Boonserm Kijsirikul"
+    ],
+    "citedby-count": 35,
+    "ref-count": 41,
+    "ref-list": [
+        "Pedestrian detection: An evaluation of the state of the art",
+        "Multi-source multi-scale counting in extremely dense crowd images",
+        "Bayesian loss for crowd count estimation with point supervision",
+        "Composition loss for counting, density map estimation and localization in dense crowds",
+        "Single-image crowd counting via multi-column convolutional neural network",
+        "Towards perspective-free object counting with deep learning",
+        "Scale aggregation network for accurate and efficient crowd counting",
+        "Adaptive scenario discovery for crowd counting",
+        "CSRNet: Dilated convolutional neural networks for understanding the highly congested scenes",
+        "ImageNet: A large-scale hierarchical image database",
+        "Context-aware crowd counting",
+        "Spatial pyramid pooling in deep convolutional networks for visual recognition",
+        "Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs",
+        "U-Net: Convolutional networks for biomedical image segmentation",
+        "SegNet: A deep convolutional encoder-decoder architecture for image segmentation",
+        "Encoder-decoder with atrous separable convolution for semantic image segmentation",
+        "Learning from synthetic data for crowd counting in the wild",
+        "AdcrowdNet: An attention-injective deformable convolutional network for crowd understanding",
+        "From open set to closed set: Counting objects by spatial divide-and-conquer",
+        "Semi-supervised learning for segmentation under semantic constraint",
+        "Histograms of oriented gradients for human detection",
+        "Bayesian poisson regression for crowd counting",
+        "Learning to count objects in images",
+        "Cross-scene crowd counting via deep convolutional neural networks",
+        "Crowd counting and density estimation by trellis encoder-decoder networks",
+        "Revisiting perspective information for efficient crowd counting",
+        "HA-CCN: Hierarchical attention-based crowd counting network",
+        "Top-down feedback for crowd counting convolutional neural network",
+        "Multi-level bottom-top and top-bottom feature fusion for crowd counting",
+        "Extremely overlapping vehicle counting",
+        "A deeply-recursive convolutional network for crowd counting",
+        "Lookahead optimizer: K steps forward, 1 step back",
+        "Learning spatial awareness to improve crowd counting",
+        "Perspective-guided convolution networks for crowd counting",
+        "Crowd counting with deep structured scale integration network"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Suita",
+            "@id": "60024322",
+            "affilname": "Osaka University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024322",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

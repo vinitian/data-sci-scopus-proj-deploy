@@ -1,0 +1,117 @@
+{
+    "eid": "2-s2.0-85136770818",
+    "title": "A Comprehensive Motion Compensation Method for In-Plane and Out-of-Plane Motion in Dynamic Contrast-Enhanced Ultrasound of Focal Liver Lesions",
+    "cover-date": "2022-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Radiological and Ultrasound Technology",
+            "@code": "3614",
+            "@abbrev": "HEAL"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biophysics",
+            "@code": "1304",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Acoustics and Ultrasonics",
+            "@code": "3102",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Contrast-enhanced ultrasound",
+        "Focal liver lesion",
+        "Motion compensation"
+    ],
+    "authors": [
+        "Thodsawit Tiyarattanachai",
+        "Simona Turco",
+        "John R. Eisenbrey",
+        "Corinne E. Wessner",
+        "Alexandra Medellin-Kowalewski",
+        "Stephanie Wilson",
+        "Andrej Lyshchik",
+        "Aya Kamaya",
+        "Ahmed El Kaffas"
+    ],
+    "citedby-count": 0,
+    "ref-count": 25,
+    "ref-list": [
+        "Contrast-enhanced ultrasound Liver Imaging Reporting and Data System (CEUS LI-RADS v2017)",
+        "Differentiation of focal liver lesions: Usefulness of parametric imaging with contrast-enhanced US",
+        "Evaluation of indirect methods for motion compensation in 2-D focal liver lesion contrast-enhanced ultrasound (CEUS) imaging",
+        "The openCV library. Dr. Dobb's",
+        "Contrast-enhanced US approach to the diagnosis of focal liver masses",
+        "An EFSUMB introduction into dynamic contrast-enhanced ultrasound (DCE-US) for quantification of tumour perfusion",
+        "How to perform contrast-enhanced ultrasound (CEUS)",
+        "A new automated quantification algorithm for the detection and evaluation of focal liver lesions with contrast-enhanced ultrasound",
+        "Fast algorithm for respiratory motion correction in free-breathing contrast-enhanced ultrasound imaging",
+        "Respiratory compensation in contrast enhanced ultrasound using image clustering",
+        "Computer-aided diagnosis of focal liver lesions using contrast-enhanced ultrasonography with perflubutane microbubbles",
+        "An automatic respiratory gating method for the improvement of microcirculation evaluation: Application to contrast-enhanced ultrasound studies of focal liver lesions",
+        "Quantitative analysis of contrast-enhanced ultrasonography: Differentiating focal nodular hyperplasia from hepatocellular carcinoma",
+        "Usefulness of contrast enhanced ultrasound in monitoring therapeutic response after hepatocellular carcinoma treatment",
+        "Parametric imaging for characterizing focal liver lesions in contrast-enhanced ultrasound",
+        "Semi-automatic motion compensation of contrast-enhanced ultrasound images from abdominal organs for perfusion analysis",
+        "Contrast-enhanced ultrasonography parameters in neural network diagnosis of liver tumors",
+        "Indicator dilution models for the quantification of microvascular blood flow with bolus administration of ultrasound contrast agents",
+        "2-tier in-plane motion correction and out-of-plane motion filtering for contrast-enhanced ultrasound",
+        "Mathematical models of contrast transport kinetics for cancer diagnostic imaging: A review",
+        "Contrast-enhanced ultrasound quantification: From kinetic modeling to machine learning",
+        "Irregular respiratory motion compensation for liver contrast-enhanced ultrasound via transport-based motion estimation",
+        "Respiratory compensation in contrast enhanced ultrasound using image clustering",
+        "Respiratory motion correction for liver contrast-enhanced ultrasound by automatic selection of a reference image"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Calgary",
+            "@id": "60002306",
+            "affilname": "University of Calgary",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002306",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Eindhoven",
+            "@id": "60032882",
+            "affilname": "Technische Universiteit Eindhoven",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032882",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Stanford",
+            "@id": "60032838",
+            "affilname": "Stanford University School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032838",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Philadelphia",
+            "@id": "60015277",
+            "affilname": "Thomas Jefferson University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015277",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "AIMI",
+        "Google Cloud",
+        "Second Century Fund",
+        "Stanford Center for Artificial Intelligence in Medicine and Imaging",
+        "Stichting Hanarth Fonds",
+        "NIH",
+        "GE Healthcare",
+        "Chulalongkorn University",
+        "Bracco Diagnostics Inc."
+    ]
+}

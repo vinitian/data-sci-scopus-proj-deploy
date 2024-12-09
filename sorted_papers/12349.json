@@ -1,0 +1,88 @@
+{
+    "eid": "2-s2.0-85095773913",
+    "title": "An Analysis of Natural Language Text Relating to Thai Criminal Law",
+    "cover-date": "2020-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Statistics, Probability and Uncertainty",
+            "@code": "1804",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Education",
+            "@code": "3304",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "BiLSTM",
+        "Criminal law",
+        "Decision tree",
+        "Deepcut",
+        "LSTM",
+        "Pre-trained word embeddings",
+        "SMOTE",
+        "Soft Voting",
+        "Thai Supreme Court",
+        "Word embedding",
+        "Word2Vec"
+    ],
+    "authors": [
+        "Weerayut Krungklang",
+        "Sukree Sinthupinyo"
+    ],
+    "citedby-count": 2,
+    "ref-count": 21,
+    "ref-list": [
+        "Sentiment analysis of comment texts based on bilstm",
+        "A scheme of criminal law knowledge acquisition using ontology",
+        "A framework of multi-stage classifier for identifying criminal law sentences",
+        "Predicting judicial decisions of criminal cases from Thai supreme court using bidirectional gru with attention mechanism",
+        "Using decision trees to extract decision rules from police reports on road accidents",
+        "Distributed representations of words and phrases and their compositionality",
+        "RegViz visual debugging of regular expressions",
+        "Web information retrieval using python and beautifulsoup",
+        "Soft voting ased ensemble approach to predict early stage DRC violations",
+        "Analysis of k fold cross validation over hold out validation on colossal datasets for quality classification"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

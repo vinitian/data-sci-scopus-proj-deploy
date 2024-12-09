@@ -1,0 +1,93 @@
+{
+    "eid": "2-s2.0-85158833522",
+    "title": "User Embedding Sharing with Deep Canonical Correlation Analysis for Dual-Target Cross-Domain Recommender System",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Communication",
+            "@code": "3315",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "Cross-Domain Recommendation",
+        "Deep Canonical Correlation Analysis",
+        "Dual-Target",
+        "Transfer Learning"
+    ],
+    "authors": [
+        "Pongsakorn Jirachanchaisiri",
+        "Saranya Maneeroj",
+        "Atsuhiro Takasu"
+    ],
+    "citedby-count": 0,
+    "ref-count": 18,
+    "ref-list": [
+        "Cross-domain recommendation: Challenges, progress, and prospects",
+        "Cross domain recommender systems: A systematic literature review",
+        "Conet: Collaborative cross networks for cross-domain recommendation",
+        "A comprehensive survey on transfer learning",
+        "A survey on multi-task learning",
+        "Cccfnet: A content-boosted collaborative filtering neural network for cross domain recommender systems",
+        "A parallel deep neural network using reviews and item metadata for cross-domain recommendation",
+        "Ddtcdr: Deep dual transfer cross domain recommendation",
+        "Cross-domain recommendation with adversarial examples",
+        "Darec: Deep domain adaptation for cross-domain recommendation via transferring rating patterns",
+        "Dtcdr: A framework for dual-target cross-domain recommendation",
+        "Entity knowledge transfer-oriented dual-target cross-domain recommendations",
+        "Relations between two sets of variates",
+        "Deep canonical correlation analysis",
+        "Multi-label classification with feature-aware nonlinear label space transformation",
+        "Category-based deep cca for fine-grained venue discovery from multimodal data",
+        "Justifying recommendations using distantly-labeled reviews and fine-grained aspects"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60028928",
+            "affilname": "Research Organization of Information and Systems National Institute of Informatics",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028928",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hayama",
+            "@id": "60021523",
+            "affilname": "The Graduate University for Advanced Studies",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021523",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,106 @@
+{
+    "eid": "2-s2.0-85061839078",
+    "title": "Physics-based motion capture imitation with deep reinforcement learning",
+    "cover-date": "2018-12-10",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Education",
+            "@code": "3304",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Character Controller",
+        "Deep Learning",
+        "Mocap",
+        "Neural Network",
+        "Simulation"
+    ],
+    "authors": [
+        "Nuttapong Chentanez",
+        "Matthias M\u00fcller",
+        "Miles Macklin",
+        "Viktor Makoviychuk",
+        "Stefan Jeschke"
+    ],
+    "citedby-count": 41,
+    "ref-count": 54,
+    "ref-list": [
+        "Trajectory optimization for full-body movements with complex contacts",
+        "Progressive reinforcement learning with distillation for multi-skilled motion control",
+        "Realtime, physics-based marker following",
+        "Robust task-based control policies for physics-based characters",
+        "Generalized biped walking control",
+        "An analysis of motion blending techniques",
+        "Interactive character animation using simulated physics: A state-of-the-art review",
+        "Simple data-driven control for simulated bipeds",
+        "Flexible muscle-based locomotion for bipedal creatures",
+        "Automated Learning of Muscle-actuated Locomotion Through Control Abstraction",
+        "Emergence of locomotion behaviours in rich environments",
+        "Animating human athletics",
+        "Phase-functioned Neural Networks for Character Control",
+        "A deep learning framework for character motion synthesis and editing",
+        "Style-based biped walking control",
+        "Self-normalizing neural networks",
+        "Control systems for human running using an inverted pendulum model and a reference motion capture sequence",
+        "Limit cycle control and its application to the animation of balancing and walking",
+        "Data-driven Biped Control",
+        "Learning neural network policies with guided policy search under unknown dynamics",
+        "Learning complex neural network policies with trajectory optimization",
+        "Continuous control with deep reinforcement learning",
+        "Guided learning of control graphs for physics-based characters",
+        "Improving Sampling-based Motion Control",
+        "Sampling-based Contact-rich Motion Control",
+        "Learning human behaviors from motion capture by adversarial imitation",
+        "Interactive control of diverse complex characters with neural networks",
+        "Combining the benefits of function approximation and trajectory optimization",
+        "Animating Human Lower Limbs Using Contact-invariant Optimization",
+        "Deep-mimic: Example-guided deep reinforcement learning of physics-based character skills",
+        "Dynamic terrain traversal skills using reinforcement learning",
+        "Terrain-adaptive locomotion skills using deep reinforcement learning",
+        "Deeploco: Dynamic locomotion skills using hierarchical deep reinforcement learning",
+        "Learning locomotion skills using DeepRL: Does the choice of action space matter?",
+        "Trust region policy optimization",
+        "High-dimensional continuous control using generalized advantage estimation",
+        "Proximal policy optimization algorithms",
+        "Evolving virtual creatures",
+        "Simulating biped behaviors from human motion data",
+        "Articulated swimming creatures",
+        "Reinforcement learning in continuous action spaces",
+        "Optimizing locomotion controllers using biologically-based actuators and objectives",
+        "Optimizing walking controllers",
+        "Optimizing walking controllers for uncertain inputs and environments",
+        "Optimization control for biped motion trajectory",
+        "Simbicon: Simple biped locomotion control"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Santa Clara",
+            "@id": "60076695",
+            "affilname": "NVIDIA",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60076695",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

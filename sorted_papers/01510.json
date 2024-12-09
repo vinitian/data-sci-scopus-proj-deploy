@@ -1,0 +1,81 @@
+{
+    "eid": "2-s2.0-85113929060",
+    "title": "Implementing TrafficEngineering with Segment Routing using OpenDaylight Controller and Pathman-SR",
+    "cover-date": "2021-06-27",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "MPLS",
+        "SDN",
+        "Segment Routing",
+        "SR-TE",
+        "Traffic Engineering"
+    ],
+    "authors": [
+        "Htain Lynn Aung",
+        "Sushank Chaudhary",
+        "Muhammad Saadi",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 0,
+    "ref-count": 15,
+    "ref-list": [
+        "Performance analysis of optical wireless communication system using pulse width modulation",
+        "Evolution of random access process: From legacy networks to 5g and beyond",
+        "Segment routing in software-defined networks: A survey",
+        "Advancing multiprotocol label switching traffic engineering with segment routing in software defined network environment",
+        "Simulation tool for vertical transportation systems using python",
+        "Learning polar codes using python program with graphical user interface",
+        "A gui based self-learning tool for polar codes using successive cancellation and list decoders"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Lahore",
+            "@id": "60103839",
+            "affilname": "University of Central Punjab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103839",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "TSRI Fund",
+        "Chulalongkorn University"
+    ]
+}

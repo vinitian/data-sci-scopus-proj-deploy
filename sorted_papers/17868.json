@@ -1,0 +1,119 @@
+{
+    "eid": "2-s2.0-85122210542",
+    "title": "Deep Learning Enables Prostate MRI Segmentation: A Large Cohort Evaluation With Inter-Rater Variability Analysis",
+    "cover-date": "2021-12-21",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Oncology",
+            "@code": "2730",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Cancer Research",
+            "@code": "1306",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [
+        "deep attentive neural network",
+        "large cohort evaluation",
+        "prostate segmentation",
+        "qualitative evaluation",
+        "quantitative evaluation",
+        "volume measurement"
+    ],
+    "authors": [
+        "Yongkai Liu",
+        "Qi Miao",
+        "Chuthaporn Surawech",
+        "Haoxin Zheng",
+        "Dan Nguyen",
+        "Guang Yang",
+        "Steven S. Raman",
+        "Kyunghyun Sung"
+    ],
+    "citedby-count": 4,
+    "ref-count": 25,
+    "ref-list": [
+        "Clinical Value of Prostate Segmentation and Volume Determination on MRI in Benign Prostatic Hyperplasia",
+        "Diagnostic Accuracy of Multi-Parametric MRI and TRUS Biopsy in Prostate Cancer (PROMIS): A Paired Validating Confirmatory Study",
+        "MRI-Targeted or Standard Biopsy for Prostate-Cancer Diagnosis",
+        "EAU Guidelines on the Treatment and Follow-Up of Non-Neurogenic Male Lower Urinary Tract Symptoms Including Benign Prostatic Obstruction",
+        "Comparing Manual and Automatic Segmentation of Hippocampal Volumes: Reliability and Validity Issues in Younger and Older Brains",
+        "Bleeding Frame and Region Detection in the Wireless Capsule Endoscopy Video",
+        "3d PBV-Net: An Automated Prostate MRI Data Segmentation Method",
+        "Automatic Magnetic Resonance Prostate Segmentation by Deep Learning With Holistically Nested Networks",
+        "Artificial Intelligence and Neural Networks in Urology: Current Clinical Applications",
+        "Applications of Neural Networks in Urology: A Systematic Review",
+        "Deeply-Supervised CNN for Prostate Segmentation",
+        "Atlas Registration and Ensemble Deep Convolutional Neural Network-Based Prostate Segmentation Using Magnetic Resonance Imaging",
+        "Exploring Uncertainty Measures in Bayesian Deep Attentive Neural Networks for Prostate Zonal Segmentation",
+        "Measures of the Amount of Ecologic Association Between Species",
+        "Evaluation of a Multi-Atlas Based Method for Segmentation of Cardiac CTA Data: A Large-Scale, Multicenter, and Multivendor Study",
+        "Automatic Prostate Zonal Segmentation Using Fully Convolutional Network With Feature Pyramid Attention",
+        "Benign Conditions That Mimic Prostate Carcinoma: MR Imaging Features With Histopathologic Correlation",
+        "Understanding Bland Altman Analysis",
+        "Tests and Measurements: The T-Test",
+        "Interrater Reliability: The Kappa Statistic",
+        "Comparison of Endorectal Coil and Nonendorectal Coil T2W and Diffusion-Weighted MRI at 3 Tesla for Localizing Prostate Cancer: Correlation With Whole-Mount Histopathology",
+        "Encoder-Decoder With Atrous Separable Convolution for Semantic Image Segmentation",
+        "U-Net: Convolutional Networks for Biomedical Image Segmentation",
+        "Prostate Imaging Reporting and Data System Version 2.1: 2019 Update of Prostate Imaging Reporting and Data System Version 2",
+        "Ccnet: Criss-Cross Attention for Semantic Segmentation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Los Angeles",
+            "@id": "60005247",
+            "affilname": "David Geffen School of Medicine at UCLA",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005247",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Los Angeles",
+            "@id": "60027550",
+            "affilname": "University of California, Los Angeles",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027550",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Dallas",
+            "@id": "60026695",
+            "affilname": "UT Southwestern Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026695",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60010719",
+            "affilname": "National Heart and Lung Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010719",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Shenyang",
+            "@id": "60008872",
+            "affilname": "China Medical University Shenyang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008872",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": [
+        "DRAGON",
+        "European Research Council Innovative Medicines Initiative",
+        "Radiological Sciences and Pathology",
+        "UK Research and Innovation Future Leaders Fellowship",
+        "National Institutes of Health",
+        "David Geffen School of Medicine, UCLA",
+        "British Heart Foundation"
+    ]
+}

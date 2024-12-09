@@ -1,0 +1,114 @@
+{
+    "eid": "2-s2.0-85124591304",
+    "title": "Towards improving the robustness of sequential labeling models against typographical adversarial examples using triplet loss",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Language and Linguistics",
+            "@code": "1203",
+            "@abbrev": "ARTS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Linguistics and Language",
+            "@code": "3310",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Evaluation",
+        "Information extraction",
+        "Part-of-speech tagging",
+        "Tagging"
+    ],
+    "authors": [
+        "Can Udomcharoenchaikit",
+        "Prachya Boonkwan",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 51,
+    "ref-list": [
+        "Pooled contextualized embeddings for named entity recognition",
+        "Contextual string embeddings for sequence labeling",
+        "Synthetic and natural noise both break neural machine translation",
+        "The grammaticalization of thai'come'and'go'",
+        "Robustness to capitalization errors in named entity recognition",
+        "Enriching word vectors with subword information",
+        "BERT: Pre-training of deep bidirectional transformers for language understanding",
+        "Hotflip: White-box adversarial examples for text classification",
+        "CharacterBERT: Reconciling ELMo and BERT for word-level open-vocabulary representations from characters",
+        "Black-box generation of adversarial text sequences to evade deep learning classifiers",
+        "Explaining and harnessing adversarial examples",
+        "How robust are character-based word embeddings in tagging and MT against wrod scramlbing or randdm nouse?",
+        "Sequence tagging with contextual and non-contextual subword representations: A multilingual evaluation",
+        "Bidirectional LSTM-CRF models for sequence tagging",
+        "NeuSpell: A neural spelling correction toolkit",
+        "Adversarial examples for evaluating reading comprehension systems",
+        "Improved differentiable architecture search for language modeling and named entity recognition",
+        "Training on synthetic noise improves robustness to natural noise in machine translation",
+        "Improving answer selection and answer triggering using hard negatives",
+        "Conditional random fields: Probabilistic models for segmenting and labeling sequence data",
+        "Neural architectures for named entity recognition",
+        "Finding function in form: Compositional character models for open vocabulary word representation",
+        "Joint character-level word embedding and adversarial stability training to defend adversarial text",
+        "De-identification of clinical notes via recurrent neural network and conditional random field. Supplement: A Natural Language Processing Challenge for Clinical Records: Research Domains Criteria (RDoC) for Psychiatry.",
+        "Unsupervised dependency parsing with transferring distribution via parallel guidance and entropy regularization",
+        "On evaluation of adversarial perturbations for sequence-to-sequence models",
+        "Description of thai as an isolating language",
+        "Adversarial training methods for semi-supervised text classification",
+        "Restoring capitalization in #tweets",
+        "Comparisons of sequence labeling algorithms and extensions",
+        "Deep contextualized word representations",
+        "A universal part-of-speech tagset",
+        "Misspelling oblivious word embeddings",
+        "Combating adversarial misspellings with robust word recognition",
+        "Design challenges and misconceptions in named entity recognition",
+        "Facenet: A unified embedding for face recognition and clustering",
+        "Neural machine translation of rare words with subword units",
+        "Thai part-of-speech tagged corpus: Orchid",
+        "Neural architectures for nested NER through linearization",
+        "Intriguing properties of neural networks",
+        "The t\u00dcba-d/z treebank: Annotating german with a context-free backbone",
+        "Thai named entity recognition based on conditional random fields",
+        "Introduction to the CoNLL-2003 shared task: Language-independent named entity recognition",
+        "Evaluating the State-of-the-Art in Automatic De-identification",
+        "Universal adversarial triggers for attacking and analyzing NLP",
+        "Learning better internal structure of words for sequence labeling",
+        "Robust multilingual part-of-speech tagging via adversarial training",
+        "Roseq: Robust sequence labeling"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011525",
+            "affilname": "Thailand National Electronics and Computer Technology Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011525",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "National Science and Technology Development Agency",
+        "TGIST"
+    ]
+}

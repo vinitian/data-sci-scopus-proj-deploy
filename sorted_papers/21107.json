@@ -1,0 +1,422 @@
+{
+    "eid": "2-s2.0-85143122544",
+    "title": "Monkeypox: Immune response, vaccination and preventive efforts",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Medicine (miscellaneous)",
+            "@code": "2701",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Epidemiology",
+            "@code": "2713",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Public Health, Environmental and Occupational Health",
+            "@code": "2739",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "emerging viral infectious disease",
+        "Monkeypox virus",
+        "MPXV",
+        "outbreak",
+        "zoonosis"
+    ],
+    "authors": [
+        "Youdiil Ophinni",
+        "Andri Frediansyah",
+        "Salin Sirinam",
+        "Dewi Megawati",
+        "Ana M. Stoian",
+        "Seyi S. Enitan",
+        "Richard Y. Akele",
+        "Ranjit Sah",
+        "Krit Pongpirul",
+        "Ziad Abdeen",
+        "Sevda Aghayeva",
+        "Aamer Ikram",
+        "Yohannes Kebede",
+        "Uwe Wollina",
+        "Kannan Subbaram",
+        "Ai Koyanagi",
+        "Abdulwahed Al Serouri",
+        "H. Blaise Nguendo-Yongsi",
+        "Jeffrey Edwards",
+        "Dina E. Sallam",
+        "Yousef Khader",
+        "Sandro G. Viveiros-Rosa",
+        "Ziad A. Memish",
+        "Mehrdad Amir-Behghadami",
+        "Sandro Vento",
+        "Marius Rademaker",
+        "Malik Sallam"
+    ],
+    "citedby-count": 17,
+    "ref-count": 124,
+    "ref-list": [
+        "The changing epidemiology of human monkeypox\u2014A potential threat? A systematic review",
+        "Emergence of monkeypox as the most important orthopoxvirus infection in humans",
+        "Extended human-to-human transmission during a monkeypox outbreak in the Democratic Republic of the Congo",
+        "Human monkeypox",
+        "Epidemiology of early monkeypox virus transmission in sexual networks of gay and bisexual men, England, 2022",
+        "Community transmission of monkeypox in the United Kingdom, April to May 2022",
+        "Clinical presentation and virological assessment of confirmed human monkeypox virus cases in Spain: a prospective observational cohort study",
+        "Environmental persistence of monkeypox virus on surfaces in household of person with travel-associated infection, Dallas, Texas, USA, 2021",
+        "Monkeypox virus case with maculopapular exanthem and proctitis during the Spanish outbreak in 2022",
+        "Clinical features and novel presentations of human monkeypox in a central London centre during the 2022 outbreak: descriptive case series",
+        "Paediatric monkeypox patient with unknown source of infection, the Netherlands, June 2022",
+        "Monkeypox - Enhancing public health preparedness for an emerging lethal human zoonotic epidemic threat in the wake of the smallpox post-eradication era",
+        "Antivirals with activity against monkeypox: a clinically oriented review",
+        "Therapeutic strategies to address monkeypox",
+        "Monkeypox: A comprehensive review",
+        "Knowledge of human monkeypox viral infection among general practitioners: a cross-sectional study in Indonesia",
+        "Confidence in managing human monkeypox cases in Asia: A cross-sectional survey among general practitioners in Indonesia",
+        "Knowledge of human monkeypox and its relation to conspiracy beliefs among students in Jordanian health schools: filling the knowledge gap on emerging zoonotic viruses",
+        "Monkeypox Knowledge and confidence in diagnosis and management with evaluation of emerging virus infection conspiracies among health professionals in Kuwait",
+        "When a neglected tropical disease goes global: knowledge, attitudes and practices of italian physicians towards monkeypox, preliminary results",
+        "Update on the monkeypox outbreak",
+        "Current status of monkeypox vaccines",
+        "Smallpox and bioterrorism",
+        "Intradermal vaccination for monkeypox \u2014 benefits for individual and public health",
+        "A systematic review of the epidemiology of human monkeypox outbreaks and implications for outbreak strategy",
+        "Protective immunity against secondary poxvirus infection is dependent on antibody but not on CD4 or CD8 T-cell function",
+        "Monkeypox-induced immunity and failure of childhood smallpox vaccination to provide complete protection",
+        "Duration of antiviral immunity after smallpox vaccination",
+        "A pox-like disease in cynomolgus monkeys",
+        "Emergence of monkeypox\u2014west and central Africa, 1970\u20132017",
+        "Reemergence of human monkeypox in Nigeria, 2017",
+        "Outbreak of human monkeypox in Nigeria in 2017\u201318: a clinical and epidemiological report",
+        "Monkeypox spreads as US public-health system plays catch-up",
+        "Multistate outbreak of monkeypox: Illinois, Indiana, Kansas, Missouri, Ohio, and Wisconsin, 2003",
+        "Spectrum of infection and risk factors for human monkeypox, United States, 2003",
+        "Monkeypox: A review of the history and emergence in the Western hemisphere",
+        "Diagnosis of imported monkeypox, Israel, 2018",
+        "Two cases of monkeypox imported to the United Kingdom, September 2018",
+        "A case of imported monkeypox in Singapore",
+        "The outbreak of monkeypox 2022: An overview",
+        "Estimated incubation period for monkeypox cases confirmed in the Netherlands, May 2022",
+        "Monkeypox: What do we know about the outbreaks in Europe and North America?",
+        "A game-theoretic model of Monkeypox to assess vaccination strategies",
+        "Why monkeypox is mostly hitting men who have sex with men",
+        "Characterization of monkeypox virus infection in African rope squirrels (Funisciurus sp.)",
+        "Fatal monkeypox in wild-living sooty mangabey, Cote d' Ivoire, 2012",
+        "The pathology of experimental aerosolized monkeypox virus infection in cynomolgus monkeys (Macaca fascicularis)",
+        "Monkeypox: another sexually transmitted infection?",
+        "Analysis of the monkeypox virus genome",
+        "Surgery. Monkeypox-a menacing challenge or an endemic?",
+        "Monkeypox: A contemporary review for healthcare professionals",
+        "Orthopoxvirus genome evolution: the role of gene loss",
+        "Human monkeypox and smallpox viruses: genomic comparison",
+        "Isolation and identification of monkeypox virus MPXV-ROK-P1-2022 from the first case in the Republic of Korea",
+        "Zoonotic poxviruses",
+        "Poxviruses",
+        "Monkeypox: some keys to understand this emerging disease",
+        "Human monkeypox: an emerging zoonotic disease",
+        "The presumed receptivity and susceptibility to monkeypox of European animal species",
+        "Modelling human-to-human transmission of monkeypox",
+        "Evidence of human-to-dog transmission of monkeypox virus",
+        "Prevention and treatment of monkeypox",
+        "Overseas dispersal of Hyperolius reed frogs from Central Africa to the oceanic islands of S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "Genomic history of human monkey pox infections in the Central African Republic between 2001 and 2018",
+        "The changing epidemiology of human monkeypox\u2014A potential threat? A systematic review",
+        "Monkeypox in 2022\u2014what clinicians need to know",
+        "Virulence differences between monkeypox virus isolates from West Africa and the Congo basin",
+        "Monkeypox-A danger approaching Asia",
+        "Independent evolution of monkeypox and variola viruses",
+        "DNA sequence variation as a clue to the phylogenesis of orthopoxviruses",
+        "Monkeypox virus detection in rodents using real-time 3'-minor groove binder TaqMan\u00ae assays on the Roche LightCycler",
+        "Genome-wide analysis of vaccinia virus protein\u2013protein interactions",
+        "Genomic analysis of the recent monkeypox outbreak",
+        "Outbreak of human monkeypox in Nigeria in 2017\u201318: a clinical and epidemiological report",
+        "An update of orthopoxvirus molecular evolution",
+        "Vaccinia virus-encoded ribonucleotide reductase subunits are differentially required for replication and pathogenesis",
+        "Organization and expression of the poxvirus genome",
+        "Poxvirus use a \"gene accordion\" to tune out host defenses",
+        "Battle Royale: innate recognition of poxviruses and viral immune evasion",
+        "Zinc-finger antiviral protein (ZAP) is a restriction factor for replication of modified vaccinia virus Ankara (MVA) in human cells",
+        "Survival of lethal poxvirus infection in mice depends on TLR9, and therapeutic vaccination provides protection",
+        "Sequential Activation of two pathogen-sensing pathways required for type i interferon expression and resistance to an acute DNA virus infection",
+        "Antigen-specific T-cell responses to a recombinant fowlpox virus are dependent on MyD88 and interleukin-18 and independent of Toll-like receptor 7 (TLR7)- and TLR9-mediated innate immune recognition",
+        "Myxoma virus induces type I interferon production in murine plasmacytoid dendritic cells via a TLR9/MyD88-, IRF5/IRF7-, and IFNAR-dependent pathway",
+        "TLR3 increases disease morbidity and mortality from vaccinia infection",
+        "Protective effect of Toll-like receptor 4 in pulmonary vaccinia infection",
+        "TLR3 and TLR9 agonists improve postexposure vaccination efficacy of live smallpox vaccines",
+        "Vaccinia virus proteins A52 and B14 share a Bcl-2\u2014Like fold but have evolved to inhibit NF-kB rather than apoptosis",
+        "A46R and A52R from vaccinia virus are antagonists of host IL-1 and toll-like receptor signaling",
+        "The poxvirus protein A52R targets Toll-like receptor signaling complexes to suppress host defense",
+        "Vaccinia virus protein A46R targets multiple Toll-like\u2014interleukin-1 receptor adaptors and contributes to virulence",
+        "Inhibition of IkappaB kinase by vaccinia virus virulence factor B14",
+        "Pivotal Roles of cGAS-cGAMP Signaling in Antiviral defense and immune adjuvant effects",
+        "Pan-viral specificity of IFN-induced genes reveals new roles for cGAS in innate immunity",
+        "The cGas-Sting signaling pathway is required for the innate immune response against Ectromelia virus",
+        "Modified vaccinia virus ankara protects macaques against respiratory challenge with monkeypox virus",
+        "Poxviruses Evade cytosolic sensing through disruption of an mTORC1-mTORC2 regulatory circuit",
+        "mTOR Dysregulation by vaccinia virus F17 controls multiple processes with varying roles in infection",
+        "Virulent poxviruses inhibit DNA sensing by preventing STING activation",
+        "Viral and metazoan poxins are cGAMP-specific nucleases that restrict cGASSTING signalling",
+        "Immune response to poxvirus infections in various animals",
+        "DNA-Sensing Antiviral Innate Immunity in Poxvirus Infection",
+        "Poxviruses and immune evasion",
+        "Smallpox vaccine: the good, the bad, and the ugly",
+        "Current status of monkeypox vaccines",
+        "Prevention and Treatment of monkeypox",
+        "Human monkeypox and smallpox viruses: genomic comparison",
+        "Monkeypox virus and insights into its immunomodulatory proteins",
+        "A survey of host range genes in poxvirus genomes",
+        "Vaccinia-virus-based vaccines are expected to elicit highly cross-reactive immunity to the 2022 monkeypox virus",
+        "Maternal and fetal outcomes among pregnant women with human monkeypox infection in the Democratic Republic of Congo",
+        "Epidemiological, clinical and virological characteristics of four cases of monkeypox support transmission through sexual contact, Italy, May 2022",
+        "A Randomized, double-blind, placebo-controlled phase ii trial investigating the safety and immunogenicity of modified vaccinia ankara smallpox vaccine (MVA-BN\u00ae) in 56-80-year-old subjects",
+        "A multicenter, open-label, controlled phase ii study to evaluate safety and immunogenicity of mva smallpox vaccine (IMVAMUNE) in 18-40 year old subjects with diagnosed atopic dermatitis",
+        "A randomized phase II trial to compare safety and immunogenicity of the MVA-BN smallpox vaccine at various doses in adults with a history of AIDS",
+        "Phase 3 efficacy trial of modified vaccinia ankara as a vaccine against smallpox"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Yaounde",
+            "@id": "60275239",
+            "affilname": "Catholic University of Central Africa",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60275239",
+            "affiliation-country": "Cameroon"
+        },
+        {
+            "affiliation-city": "Central Jakarta",
+            "@id": "60273350",
+            "affilname": "Badan Riset dan Inovasi Nasional",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60273350",
+            "affiliation-country": "Indonesia"
+        },
+        {
+            "affiliation-city": "Male",
+            "@id": "60257151",
+            "affilname": "Maldives National University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60257151",
+            "affiliation-country": "Maldives"
+        },
+        {
+            "affiliation-city": "Riyadh",
+            "@id": "60231076",
+            "affilname": "College of Medicine Alfaisal University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60231076",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Sant Boi de Llobregat",
+            "@id": "60212489",
+            "affilname": "Parc Sanitari Sant Joan de D\u00e9u",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60212489",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Tabriz",
+            "@id": "60208585",
+            "affilname": "School of Management and Medical Informatics",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60208585",
+            "affiliation-country": "Iran"
+        },
+        {
+            "affiliation-city": "Amman",
+            "@id": "60199635",
+            "affilname": "School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199635",
+            "affiliation-country": "Jordan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199573",
+            "affilname": "Faculty of Tropical Medicine, Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199573",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Phnom Penh",
+            "@id": "60138781",
+            "affilname": "University of Puthisastra",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60138781",
+            "affiliation-country": "Cambodia"
+        },
+        {
+            "affiliation-city": "Ilishan-Remo",
+            "@id": "60126119",
+            "affilname": "Babcock University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60126119",
+            "affiliation-country": "Nigeria"
+        },
+        {
+            "affiliation-city": "Denpasar",
+            "@id": "60121476",
+            "affilname": "Universitas Warmadewa",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60121476",
+            "affiliation-country": "Indonesia"
+        },
+        {
+            "affiliation-city": "Malmo",
+            "@id": "60118600",
+            "affilname": "Institutionen f\u00f6r Translationell Medicin",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60118600",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "Suita",
+            "@id": "60091997",
+            "affilname": "WPI Immunology Frontier Research Center, Osaka University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091997",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Kathmandu",
+            "@id": "60071822",
+            "affilname": "Tribhuvan University Teaching Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071822",
+            "affiliation-country": "Nepal"
+        },
+        {
+            "affiliation-city": "Jimma",
+            "@id": "60071196",
+            "affilname": "Jimma University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071196",
+            "affiliation-country": "Ethiopia"
+        },
+        {
+            "affiliation-city": "Islamabad",
+            "@id": "60056782",
+            "affilname": "National Institute of Health Pakistan",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60056782",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Amman",
+            "@id": "60052340",
+            "affilname": "Jordan University Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60052340",
+            "affiliation-country": "Jordan"
+        },
+        {
+            "affiliation-city": "Riyadh",
+            "@id": "60032813",
+            "affilname": "Ministry of Health Saudi Arabia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032813",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Abu Dis",
+            "@id": "60031805",
+            "affilname": "Al-Quds University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031805",
+            "affiliation-country": "Palestine"
+        },
+        {
+            "affiliation-city": "Hamilton",
+            "@id": "60025902",
+            "affilname": "Waikato Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025902",
+            "affiliation-country": "New Zealand"
+        },
+        {
+            "affiliation-city": "Sacramento",
+            "@id": "60023317",
+            "affilname": "UC Davis School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023317",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Cambridge",
+            "@id": "60022195",
+            "affilname": "Massachusetts Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022195",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60020543",
+            "affilname": "Bumrungrad International Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020543",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Cairo",
+            "@id": "60015323",
+            "affilname": "Faculty of Medicine - Ain Shams University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015323",
+            "affiliation-country": "Egypt"
+        },
+        {
+            "affiliation-city": "Columbia",
+            "@id": "60008953",
+            "affilname": "MU College of Veterinary Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008953",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Brighton",
+            "@id": "60007919",
+            "affilname": "University of Brighton",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007919",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Baltimore",
+            "@id": "60006183",
+            "affilname": "Johns Hopkins Bloomberg School of Public Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006183",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Port",
+            "@id": "126189225",
+            "affilname": "Medical Research Foundation of Trinidad and Tobago",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126189225",
+            "affiliation-country": "Trinidad and Tobago"
+        },
+        {
+            "affiliation-city": "Sana'a",
+            "@id": "120551377",
+            "affilname": "Yemen Field Epidemiology Training Program",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/120551377",
+            "affiliation-country": "Yemen"
+        },
+        {
+            "affiliation-city": "Baku",
+            "@id": "115245346",
+            "affilname": "Baku Medical Plaza",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/115245346",
+            "affiliation-country": "Azerbaijan"
+        },
+        {
+            "affiliation-city": "Dresden",
+            "@id": "113116595",
+            "affilname": "St\u00e4dtisches Klinikum Dresden",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/113116595",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Amman",
+            "@id": "112569859",
+            "affilname": "Eastern Mediterranean Public Health Network",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112569859",
+            "affiliation-country": "Jordan"
+        },
+        {
+            "affiliation-city": "Rio de Janeiro",
+            "@id": "100614124",
+            "affilname": "National Institute of Industrial Property",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/100614124",
+            "affiliation-country": "Brazil"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,97 @@
+{
+    "eid": "2-s2.0-85146452391",
+    "title": "Combined Gaussian Local Search and Enhanced Comprehensive Learning PSO Algorithm for Size and Shape Optimization of Truss Structures",
+    "cover-date": "2022-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Architecture",
+            "@code": "2216",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Building and Construction",
+            "@code": "2215",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "adaptive learning probability",
+        "enhanced comprehensive learning",
+        "Gaussian local search",
+        "non-convex optimization",
+        "particle swarm optimization",
+        "perturbation-based exploitation"
+    ],
+    "authors": [
+        "Thu Huynh Van",
+        "Sawekchai Tangaramvong",
+        "Soviphou Muong",
+        "Phuc Tran Van"
+    ],
+    "citedby-count": 2,
+    "ref-count": 37,
+    "ref-list": [
+        "Structural shape optimization\u2014A survey",
+        "Truss shape optimization with multiple displacement constraints",
+        "A review of structural shape optimization",
+        "Optimum design of trusses with discrete sizing and shape variables",
+        "Truss optimization on shape and sizing with frequency constraints",
+        "Integrated discrete and configuration optimization of trusses using genetic algorithms",
+        "Optimal layout of bridge trusses by genetic algorithms",
+        "An enhanced charged system search for configuration optimization using the concept of fields of forces",
+        "Shape and size optimization of truss structures considering dynamic constraints through modern metaheuristic algorithms",
+        "An improved constrained differential evolution using discrete variables (D-ICDE) for layout optimization of truss structures",
+        "Simultaneous size and geometry optimization of steel trusses under dynamic excitations",
+        "An improved differential evolution based on roulette wheel selection for shape and size optimization of truss structures with frequency constraints",
+        "A novel hybrid differential evolution and symbiotic organisms search algorithm for size and shape optimization of truss structures under multiple frequency constraints",
+        "AlphaTruss: Monte Carlo Tree Search for Optimal Truss Layout Design",
+        "Metaheuristic research: A comprehensive survey",
+        "On the exploration and exploitation in popular swarm-based metaheuristic algorithms",
+        "A better balance in metaheuristic algorithms: Does it exist?",
+        "No free lunch theorems for optimization",
+        "Particle swarm optimization",
+        "Two-phase ESO and comprehensive learning PSO method for structural optimization with discrete steel sections",
+        "Comprehensive learning particle swarm optimizer for global optimization of multimodal functions",
+        "Enhanced comprehensive learning particle swarm optimization",
+        "Optimal retrofit of moment resisting frames using braces accounting for geometric nonlinearity and serviceability conditions",
+        "Optimal performance-based rehabilitation of steel frames using braces",
+        "Layout optimization of truss structures by hybridizing cellular automata and particle swarm optimization",
+        "Sizing, geometry and topology optimization of trusses via force method and genetic algorithm",
+        "Multimodal size, shape, and topology optimisation of truss structures using the Firefly algorithm",
+        "Combined size and shape optimization of structures with a new meta-heuristic algorithm",
+        "Sizing and layout optimization of truss structures with artificial bee colony algorithm",
+        "On efficient use of simulated annealing in complex structural optimization problems",
+        "Size/Layout Optimization of Truss Structures Using Shuffled Shepherd Optimization Method",
+        "An efficient imperialist competitive algorithm with likelihood assimilation for topology, shape and sizing optimization of truss structures",
+        "Improved genetic algorithm for design optimization of truss structures with sizing, shape and topology variables"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60109585",
+            "affilname": "University of Architecture Ho Chi Minh City",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60109585",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Chulalongkorn University",
+        "Thailand Science Research and Innovation Fund"
+    ]
+}

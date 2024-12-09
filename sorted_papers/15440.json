@@ -1,0 +1,152 @@
+{
+    "eid": "2-s2.0-85091570063",
+    "title": "A predictive model of radiation-related fibrosis based on the radiomic features of magnetic resonance imaging and computed tomography",
+    "cover-date": "2020-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Oncology",
+            "@code": "2730",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Cancer Research",
+            "@code": "1306",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [
+        "Fibrosis",
+        "Machine learning",
+        "Nasopharyngeal carcinoma",
+        "Quality of life"
+    ],
+    "authors": [
+        "Jian Wang",
+        "Rongjie Liu",
+        "Yu Zhao",
+        "Chonnipa Nantavithya",
+        "Hesham Elhalawani",
+        "Hongtu Zhu",
+        "Abdallah Sherif Radwan Mohamed",
+        "Clifton David Fuller",
+        "Danita Kannarunimit",
+        "Pei Yang",
+        "Hong Zhu"
+    ],
+    "citedby-count": 6,
+    "ref-count": 47,
+    "ref-list": [
+        "Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries",
+        "Report of Cancer Incidence and Mortality in China, 2014",
+        "Prognostic analysis of patients with locally advanced nasopharyngeal carcinoma following intensity modulated radiation therapy",
+        "Subcutaneous fibrosis after whole neck irradiation",
+        "Analysis of late toxicity in nasopharyngeal carcinoma patients treated with intensity modulated radiation therapy",
+        "Radiation-Induced Cranial Nerve Palsy: a Cross-Sectional Study of Nasopharyngeal Cancer Patients After Definitive Radiotherapy",
+        "Radiation related cranial nerve palsy in patients with nasopharyngeal carcinoma",
+        "Use of trolamine to prevent and treat acute radiation dermatitis: a systematic review and meta-analysis",
+        "Pentoxifylline attenuates tubulointerstitial fibrosis by blocking Smad3/4-activated transcription and profibrogenic effects of connective tissue growth factor",
+        "Systematic Review of Hyperbaric Oxygen Therapy for the Treatment of Radiation-Induced Skin Necrosis",
+        "Adipose-Derived Tissue in the Treatment of Dermal Fibrosis",
+        "Amelioration of Radiation-induced Fibrosis",
+        "Clinical observation on acupuncture therapy and massage therapy of fibrosis in patients with nasopharyngeal carcinoma after radiotherapy",
+        "The uniform reporting of treatment-related morbidity",
+        "Toxicity criteria of the Radiation Therapy Oncology Group (RTOG) and the European Organization for Research and Treatment of Cancer (EORTC)",
+        "EORTC Late Effects Working Group. Late effects toxicity scoring: the SOMA scale",
+        "Quantitative measurement of post-irradiation neck fibrosis based on the young modulus: description of a new method and clinical results",
+        "Handbook of non-invasive methods and the skin",
+        "In vivo electrical impedance spectroscopic monitoring of the progression of radiation-induced tissue injury",
+        "Noninvasive assessment of radiation injury with electrical impedance spectroscopy",
+        "Supersonic shear imaging: a new technique for soft tissue elasticity mapping",
+        "Magnetic resonance elastography is accurate in detecting advanced fibrosis in autoimmune hepatitis",
+        "Assessment of liver fibrosis in rats by MRI with apparent diffusion coefficient and T1 relaxation time in the rotating frame",
+        "Radiomics: Images are more than pictures, they are data",
+        "Radiomics: Extracting more information from medical images using advanced feature analysis",
+        "A magnetic resonance imaging-based approach to quantify radiation-induced normal tissue injuries applied to trismus in head and neck cancer",
+        "Design and Selection of Machine Learning Methods Using Radiomics and Dosiomics for Normal Tissue Complication Probability Modeling of Xerostomia",
+        "Parotid gland fat related magnetic resonance image biomarkers improve prediction of late radiation-induced xerostomia",
+        "Predicting acute radiation induced xerostomia in head and neck Cancer using MR and CT Radiomics of parotid and submandibular glands",
+        "IBEX: an open infrastructure software platform to facilitate collaborative work in radiomics",
+        "Cervical fibrosis and its influencing factors in patients with nasopharyngeal carcinoma after radiotherapy",
+        "Image Sharpening By Gaussian And Butterworth High Pass Filter",
+        "Delta-radiomics features for the prediction of patient outcomes in non-small cell lung cancer",
+        "An interpretable boosting model to predict side effects of analgesics for osteoarthritis",
+        "Derivation and validation of machine learning approaches to predict acute kidney injury after cardiac surgery",
+        "Using cross-validation to evaluate predictive accuracy of survival risk classifiers based on high-dimensional data",
+        "Textural features for image classification",
+        "Texture analysis using gray level run lengths",
+        "Histogram of Oriented Gradient Based Gist Feature for Building Recognition",
+        "Radiation-induced plexopathy and fibrosis: Is magnetic resonance imaging the adequate diagnostic tool?",
+        "The application of imaging in tumor research",
+        "Monitoring pulmonary fibrosis by fusing clinical, physiological, and computed tomography features",
+        "Lung Texture in Serial Thoracic Computed Tomography Scans: Correlation of Radiomics-based Features With Radiation Therapy Dose and Radiation Pneumonitis Development",
+        "Early prediction of tumor recurrence based on CT texture changes after stereotactic ablative radiotherapy (SABR) for lung cancer",
+        "Radiomic subtyping improves disease stratification beyond key molecular, clinical, and standard imaging characteristics in patients with glioblastoma",
+        "Identification of local recurrence and radiofibrosis by computed tomography perfusion on nasopharyngeal carcinoma after radiotherapy",
+        "Intravoxel incoherent motion MRI in differentiation between recurrent carcinoma and postchemoradiation fibrosis of the skull base in patients with nasopharyngeal carcinoma"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Changsha",
+            "@id": "60277181",
+            "affilname": "Central South University Xiangya School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60277181",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chapel Hill",
+            "@id": "60025111",
+            "affilname": "The University of North Carolina at Chapel Hill",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025111",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Changsha",
+            "@id": "60017060",
+            "affilname": "Central South University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017060",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Houston",
+            "@id": "60015023",
+            "affilname": "The University of Texas MD Anderson Cancer Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015023",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Tallahassee",
+            "@id": "60002092",
+            "affilname": "Florida State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002092",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Rochester",
+            "@id": "108289994",
+            "affilname": "Unity Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/108289994",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Beijing Xisike Clinical Oncology Research Foundation",
+        "Science and Technology Plan of Changsha Science and Technology Bureau",
+        "Scientific Research Program of Hunan Provincial Health Commission",
+        "Xiangya Hospital Clinical Research Project"
+    ]
+}

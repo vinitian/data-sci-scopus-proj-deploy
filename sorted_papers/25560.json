@@ -1,0 +1,154 @@
+{
+    "eid": "2-s2.0-85094844591",
+    "title": "Lightweight pvidnet: A priority vehicles detection network model based on deep learning for intelligent traffic lights",
+    "cover-date": "2020-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analytical Chemistry",
+            "@code": "1602",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Deep learning",
+        "Image detection",
+        "Intelligent traffic light",
+        "Vehicle classification"
+    ],
+    "authors": [
+        "Rodrigo Carvalho Barbosa",
+        "Muhammad Shoaib Ayub",
+        "Renata Lopes Rosa",
+        "Dem\u00f3stenes Zegarra Rodr\u00edguez",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 7,
+    "ref-count": 79,
+    "ref-list": [
+        "RsRS: Ridesharing Recommendation System Based on Social Networks to Improve the User\u2019s QoE",
+        "A Communications-Oriented Perspective on Traffic Management Systems for Smart Cities: Challenges and Innovative Approaches",
+        "Urban traffic congestion: The problem and solutions",
+        "Vehicles of the Future: A Survey of Research on Safety Issues",
+        "Dynamic Traffic Management System Using Neural Network based IoT System",
+        "Stanley: The robot that won the DARPA Grand Challenge",
+        "How Do Autonomous Cars Work?",
+        "A deep learning approach to traffic lights: Detection, tracking, and classification",
+        "Rich feature hierarchies for accurate object detection and semantic segmentation",
+        "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks",
+        "You only look once: Unified, real-time object detection",
+        "SSD: Single Shot MultiBox Detector",
+        "Pedestrian, bike, motorcycle, and vehicle classification via deep learning: Deep belief network and small training set",
+        "Deep Learning-Based Vehicle Classification Using an Ensemble of Local Expert and Global Networks",
+        "Applications of Artificial Intelligence and Machine learning in smart cities",
+        "Traffic management for emergency vehicle priority based on visual sensing",
+        "Intelligent traffic light control using distributed multi-agent Q learning",
+        "Detecting traffic lights by single shot detection",
+        "A new deep learning method based on AlexNet model and SSD model for tennis ball recognition",
+        "Vehicle Detection in the Aerial Infrared Images via an Improved Yolov3 Network",
+        "Densely Connected Convolutional Networks",
+        "Evaluation of the Impact of Traffic Congestion Based on SUMO",
+        "A User Monitoring Road Traffic Information Collection Using SUMO and Scheme for Road Surveillance with Deep Mind Analytics and Human Behavior Tracking",
+        "Optimized Sensor Network and Multi-Agent Decision Support for Smart Traffic Light Management",
+        "Modeling and Characterization of Traffic Flows in Urban Environments",
+        "Towards Realistic Urban Traffic Experiments Using DFROUTER: Heuristic, Validation and Extensions",
+        "Coordinated Control Algorithm at Non-Recurrent Freeway Bottlenecks for Intelligent and Connected Vehicles",
+        "Speech Quality Assessment Over Lossy Transmission Channels Using Deep Belief Networks",
+        "Speech Quality Parametric Model that Considers Wireless Network Characteristics",
+        "A Knowledge-Based Recommendation System That Includes Sentiment Analysis and Deep Learning",
+        "Recommendation system using sentiment analysis considering the polarity of the adverb",
+        "Speech Quality Assessment in Wireless VoIP Communication Using Deep Belief Network",
+        "Age Groups Classification in Social Network Using Deep Learning",
+        "Selective Search for Object Recognition",
+        "Object Detection With Deep Learning: A Review",
+        "Fast R-CNN",
+        "A closer look at Faster R-CNN for vehicle detection",
+        "YOLO v3-Tiny: Object Detection and Recognition using one stage improved model",
+        "Inception Single Shot MultiBox Detector for object detection",
+        "R-fcn: Object detection via region-based fully convolutional networks",
+        "A Survey of Deep Learning-Based Object Detection",
+        "YOLO9000: Better, Faster, Stronger",
+        "Real-time Detection of Vehicle and Traffic Light for Intelligent and Connected Vehicles Based on YOLOv3 Network",
+        "Pedestrian Detection for Transformer Substation Based on Gaussian Mixture Model and YOLO",
+        "A novel YOLO-Based real-time people counting approach",
+        "Pedestrian Detection Based on YOLO Network Model",
+        "Real-Time Pedestrian Detection Based on Improved YOLO Model",
+        "Automated Helmet Detection for Multiple Motorcycle Riders using CNN",
+        "Real-Time Traffic Status Detection from on-Line Images Using Generic Object Detection System with Deep Learning",
+        "Vehicles Detection of Traffic Flow Video Using Deep Learning",
+        "Embedded System Real-Time Vehicle Detection based on Improved YOLO Network",
+        "Speed/Accuracy Trade-Offs for Modern Convolutional Object Detectors",
+        "Object Detection Based on Improved YOLOv3-tiny",
+        "An algorithm for highway vehicle detection based on convolutional neural network",
+        "A Study for Selecting the Best One-Stage Detector for Autonomous Driving",
+        "Car Detection using Unmanned Aerial Vehicles: Comparison between Faster R-CNN and YOLOv3",
+        "Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization Uncertainty for Autonomous Driving",
+        "Combining Yolov3-tiny Model with Dropblock for Tiny-face Detection",
+        "Traffic light control based on fuzzy Q-leaming",
+        "Smart controlling for traffic light time",
+        "Modeling and simulation of queue waiting time at traffic light intersection",
+        "Smart traffic lights switching and traffic density calculation using video processing",
+        "Density based smart traffic control system using canny edge detection algorithm for congregating traffic information",
+        "Smart traffic light for low traffic conditions",
+        "Smart Traffic Light Control System",
+        "A Novel Priority-Based Ambulance-to-Traffic Light Communication for Delay Reduction in Emergency Rescue Operations",
+        "ImageNet: A large-scale hierarchical image database",
+        "Real-time Pedestrian Traffic Light Detection",
+        "Vision Based Advanced Driver Assistance System Using Deep Learning",
+        "Optimized YOLOv3 Algorithm and Its Application in Traffic Flow Detections",
+        "Comparison of Greenshields, Pipes, and Van Aerde Car-Following and Traffic Stream Models"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Lavras",
+            "@id": "60017841",
+            "affilname": "Universidade Federal de Lavras",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017841",
+            "affiliation-country": "Brazil"
+        }
+    ],
+    "funding": [
+        "Center for Artificial Intelligence",
+        "Machine Learning",
+        "Center for Artificial Intelligence",
+        "Funda\u00e7\u00e3o de Amparo \u00e0 Pesquisa do Estado de S\u00e3o Paulo",
+        "Machine Learning"
+    ]
+}

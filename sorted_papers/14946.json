@@ -1,0 +1,65 @@
+{
+    "eid": "2-s2.0-85058433758",
+    "title": "Thai defamatory text classification on social media",
+    "cover-date": "2018-11-09",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Defamation",
+        "Machine-learning",
+        "Social-media",
+        "Text-classification"
+    ],
+    "authors": [
+        "Ratchakrit Arreerard",
+        "Twittie Senivongse"
+    ],
+    "citedby-count": 12,
+    "ref-count": 17,
+    "ref-list": [
+        "Text classification using machine learning techniques",
+        "Filtering offensive language in online communities using grammatical relations",
+        "Detecting offensive language in social media to protect adolescent online safety",
+        "Using appraisal groups for sentiment analysis",
+        "Automatic detection and prevention of cyberbullying",
+        "A robust transformation-based learning approach using ripple down rules for partof-speech tagging",
+        "Rdrpostagger: A ripple down rules-based part-of-speech tagger",
+        "Polyglot-ner: Massive multilingual named entity recognition",
+        "Typed dependency relations for syntactic analysis of Thai sentences",
+        "A dependency parser for Thai",
+        "Universal dependencies v1: A multilingual Treebank collection",
+        "Scikit-learn: Machine learning in python"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

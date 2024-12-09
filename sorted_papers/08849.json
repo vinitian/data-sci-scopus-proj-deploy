@@ -1,0 +1,60 @@
+{
+    "eid": "2-s2.0-85123043149",
+    "title": "A task-oriented dialogue bot using long short-term memory with attention for Thai language",
+    "cover-date": "2019-11-15",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Chatbot",
+        "Deep learning in NLP",
+        "Natural language processing",
+        "Task-Oriented dialogue bot"
+    ],
+    "authors": [
+        "Ramon Robloke",
+        "Boonserm Kijsirikul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 13,
+    "ref-list": [
+        "A survey on dialogue systems: Recent advances and new frontiers",
+        "Long short-term memory",
+        "Neural approaches to conversational AI",
+        "ELIZA-a computer program for the study of natural language communication between man and machine",
+        "Pomdp-based statistical spoken dialog systems: A review"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Thanatwit Angsarawanee and Natthika Srikiattiwong"
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85169296053",
+    "title": "Edge Service Placement Optimization for Location-Based Service",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "edge computing",
+        "indoor localization",
+        "large-scale service",
+        "localization service",
+        "optimization problem"
+    ],
+    "authors": [
+        "Karnkitti Kittikamron",
+        "Natthanon Manop",
+        "Adsadawut Chanakitkarnchok",
+        "Kultida Rojviboonchai"
+    ],
+    "citedby-count": 0,
+    "ref-count": 19,
+    "ref-list": [
+        "Current technologies and location based services",
+        "Location-Based Services",
+        "Pedestrian dead-reckoning indoor localization based on OS-ELM",
+        "Exploiting fingerprint correlation for fingerprint-based indoor localization: a deep learning based approach",
+        "Locating in fingerprint space",
+        "Towards area classification for large-scale fingerprint-based system",
+        "Edge computing technology enablers: A systematic lecture study",
+        "An overview of service placement problem in fog and edge computing",
+        "Large-scale many-objective deployment optimization of edge servers",
+        "A latency-defined edge node placement scheme for opportunistic smart cities",
+        "Network-aware placement optimization for edge computing infrastructure under 5G",
+        "Location-based web service delivery: a data-mining-based approach",
+        "Floor localization algorithm utilizing different order of access point from Wi-Fi signal fingerprint",
+        "Adaptive indoor localization system for large-scale area",
+        "RADAR: An in-building RF-based user location and tracking system",
+        "WinIPS: WiFi-based non-intrusive indoor positioning system with online radio map construction and adaptation",
+        "Simulated Annealing",
+        "Covering problems in facility location: A review",
+        "Capacitated facility location problem with general setup cost"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chula Computer Engineering",
+        "Department of Computer Engineering, Faculty of Engineering, Chulalongkorn University"
+    ]
+}

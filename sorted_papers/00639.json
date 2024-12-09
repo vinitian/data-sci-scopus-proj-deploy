@@ -1,0 +1,710 @@
+{
+    "eid": "2-s2.0-85170270707",
+    "title": "Usability and feasibility of PreventS-MD web app for stroke prevention",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Neurology",
+            "@code": "2808",
+            "@abbrev": "NEUR"
+        },
+        {
+            "@_fa": "true",
+            "$": "Neurology (clinical)",
+            "@code": "2728",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "epidemiology",
+        "hypertension",
+        "prevention",
+        "risk factors",
+        "Stroke",
+        "stroke facilities"
+    ],
+    "authors": [
+        "Valery L. Feigin",
+        "Rita Krishnamurthi",
+        "Oleg Medvedev",
+        "Alexander Merkin",
+        "Balakrishnan Nair",
+        "Michael Kravchenko",
+        "Shabnam Jalili-Moghaddam",
+        "Suzanne Barker-Collo",
+        "Yogini Ratnasabapathy",
+        "Luke Skinner",
+        "Mayowa Owolabi",
+        "Bo Norrving",
+        "Perminder S. Sachdev",
+        "Bruce Arroll",
+        "Michael Brainin",
+        "Amanda Thrift",
+        "Graeme J. Hankey",
+        "Foad Abd-Allah",
+        "Rufus Akinyemi",
+        "Reza Azarpazhooh",
+        "Anjali Bhatia",
+        "Philip M. Bath",
+        "Carol Brayne",
+        "Hrvoje Budincevic",
+        "Nicholas Child",
+        "Kamil Chwojnicki",
+        "Manuel Correia",
+        "Alan Davis",
+        "Gerry Devlin",
+        "Vida Demarin",
+        "Rajinder K. Dhamija",
+        "Ding Ding",
+        "Klara Dokova",
+        "Makarena Dudley",
+        "Jesse Dyer",
+        "Misty Edmonds",
+        "Marcela Ely",
+        "Mehdi Farhoudi",
+        "Svetlana Feigin",
+        "Caroline Fornolles",
+        "Aznida Firzah Abdul Aziz",
+        "Denis Gabriel",
+        "Seana Gall",
+        "Artyom Gil",
+        "Elena Gnedovskaya",
+        "Ann George",
+        "Michal Har\u0161\u00e1ny",
+        "Matire Harwood",
+        "Argye Hillis",
+        "Zeng Guang Hou",
+        "Kevin Hwang",
+        "Norlinah Ibrahim",
+        "Tania Ka\u2019ai",
+        "Nidhi Kalra",
+        "Judith Katzenellenbogen",
+        "Law Zhe Kang",
+        "Arindam Kar",
+        "Bartosz Karaszewski",
+        "Vitalij Kazin",
+        "Miia Kivipelto",
+        "Saltanat Kamenova",
+        "Aida Kondybaeva",
+        "Pablo Lavados",
+        "Tsong Hai Lee",
+        "Liping Liu",
+        "Karim Mahawish",
+        "Michal Maluchnik",
+        "Sheila Martins",
+        "Farrah Mateen",
+        "Nahal Mavaddat",
+        "Man Mohan Mehndiratta",
+        "Robert Mikulik",
+        "Angela Oliver",
+        "Serefnur \u00d6zturk",
+        "Nikhil Patel",
+        "Michael Piradov",
+        "Binita Prakash",
+        "Tara Purvis",
+        "Ulf Dietrich Reips",
+        "Kev Roos",
+        "Jonathan Rosand",
+        "Ramesh Sahathevan",
+        "Lakshmanan Sekaran",
+        "Nikolay Shamalov",
+        "Deidre Anne De Silva",
+        "Vinod Singh",
+        "Alina Solomon",
+        "Padma Srivastava",
+        "Nijasri C. Suwanwela",
+        "Denise Taylor",
+        "Thomas Truelsen",
+        "Narayanaswamy Venketasubramanian",
+        "Ekaterina Volevach",
+        "Ond\u0159ej Voln\u00fd",
+        "Joyce Wan",
+        "Katila Withanapathirana",
+        "Tamara Welte",
+        "David Wiebers",
+        "Andrea S. Winkler",
+        "Tissa Wijeratne",
+        "Teddy Wu",
+        "Wan Asyraf Wan Zaidi"
+    ],
+    "citedby-count": 0,
+    "ref-count": 44,
+    "ref-list": [
+        "Global, regional, and national burden of stroke and its risk factors, 1990\u20132019: a systematic analysis for the Global Burden of Disease Study 2019",
+        "Global and regional effects of potentially modifiable risk factors associated with acute stroke in 32 countries (INTERSTROKE): a case-control study",
+        "The global burden of ischemic stroke: findings of the GBD 2010 study",
+        "Global, regional, and national burden of cardiovascular diseases for 10 causes, 1990 to 2015",
+        "Combining multiple approaches for the secondary prevention of vascular events after stroke: a quantitative modeling study",
+        "Effect of urgent treatment of transient ischaemic attack and minor stroke on early recurrent stroke (EXPRESS study): a prospective population-based sequential comparison",
+        "Derivation and application of a tool to estimate benefits from multiple therapies that reduce recurrent stroke risk",
+        "Risk and secondary prevention of stroke recurrence: a population-base cohort study",
+        "Recurrent ischemic stroke\u2014a systematic review and meta-analysis",
+        "Twenty-year time trends in long-term case-fatality and recurrence rates after ischemic stroke stratified by etiology",
+        "Trends in the incidence of recurrent stroke at 5 years after the first-ever stroke in rural China: a population-based stroke surveillance from 1992 to 2017",
+        "Trends in ischemic stroke outcomes in a rural population in the United States",
+        "Barriers to optimal stroke service care and solutions: a qualitative study engaging people with stroke and their wh\u0101nau",
+        "2021 Guideline for the prevention of stroke in patients with stroke and transient ischemic attack; a guideline from the American Heart Association/American Stroke Association",
+        "WHO SMART guidelines: optimising country-level use of guideline recommendations in the digital age",
+        "Computer-based clinical decision support for general practitioners",
+        "The Stroke RiskometerTMApp: validation of a data collection tool and stroke risk predictor",
+        "Cross-cultural validation of the Stroke Riskometer using generalizability theory",
+        "Global prevention of stroke and dementia: the WSO Declaration",
+        "Digital solutions for primary stroke and cardiovascular disease prevention: a mass individual and public health approach",
+        "WHO Digital Health Guidelines: a milestone for global health",
+        "Digital health in primordial and primary stroke prevention: a systematic review",
+        "2021 ESC Guidelines on cardiovascular disease prevention in clinical practice",
+        "2019 ACC/AHA Guideline on the primary prevention of cardiovascular disease: executive summary: a report of the American College of Cardiology/American Heart Association Task Force on clinical practice guidelines",
+        "Guidelines for the primary prevention of stroke: a statement for healthcare professionals from the American Heart Association/American Stroke Association",
+        "Primary stroke prevention worldwide: translating evidence into action",
+        "A guide and glossary on post-positivist theory building for population health",
+        "Sample sizes for saturation in qualitative research: a systematic review of empirical tests",
+        "The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies",
+        "SUS: a \u201cquick and dirty\u201d usability scale",
+        "System usability scale benchmarking for digital health apps: meta-analysis",
+        "Three approaches to qualitative content analysis",
+        "Consolidated criteria for reporting qualitative research (COREQ): a 32-item checklist for interviews and focus groups",
+        "Comparison of knowledge on stroke for stroke patients and the general population in Burkina Faso: a cross-sectional study",
+        "Community knowledge and awareness of stroke in New Zealand",
+        "Stroke knowledge and awareness: an integrative review of the evidence",
+        "Editors-in-chief perceptions of patients as (co)authors on publications and the acceptability of ICMJE authorship criteria: a cross-sectional survey",
+        "Internal, external, and ecological validity in research design, conduct, and evaluation",
+        "Cut stroke in half: polypill for primary prevention in stroke",
+        "Association between life\u2019s simple 7 and noncardiovascular disease: the multi-ethnic study of atherosclerosis"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Auckland",
+            "@id": "60023760",
+            "affilname": "Auckland University of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023760",
+            "affiliation-country": "New Zealand"
+        },
+        {
+            "affiliation-city": "Gda\u0144sk",
+            "@id": "60012383",
+            "affilname": "Gdanski Uniwersytet Medyczny",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012383",
+            "affiliation-country": "Poland"
+        },
+        {
+            "affiliation-city": "Ibadan",
+            "@id": "60199609",
+            "affilname": "College of Medicine, University of Ibadan",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199609",
+            "affiliation-country": "Nigeria"
+        },
+        {
+            "affiliation-city": "Erlangen",
+            "@id": "60029931",
+            "affilname": "Universit\u00e4tsklinikum Erlangen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029931",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60029929",
+            "affilname": "Massachusetts General Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029929",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Clayton",
+            "@id": "60012932",
+            "affilname": "Faculty of Medicine, Nursing and Health Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012932",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Auckland",
+            "@id": "60005686",
+            "affilname": "The University of Auckland",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005686",
+            "affiliation-country": "New Zealand"
+        },
+        {
+            "affiliation-city": "Perth",
+            "@id": "60189720",
+            "affilname": "UWA Medical School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60189720",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Tabriz",
+            "@id": "60120280",
+            "affilname": "Neurosciences Research Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60120280",
+            "affiliation-country": "Iran"
+        },
+        {
+            "affiliation-city": "Moscow",
+            "@id": "60117973",
+            "affilname": "Federal Center of Brain Research and Neurotechnologies of the FMBA of Russia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60117973",
+            "affiliation-country": "Russian Federation"
+        },
+        {
+            "affiliation-city": "Munich",
+            "@id": "60117640",
+            "affilname": "TUM Fakult\u00e4t f\u00fcr Medizin",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60117640",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Moscow",
+            "@id": "60103893",
+            "affilname": "Research Center of Neurology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103893",
+            "affiliation-country": "Russian Federation"
+        },
+        {
+            "affiliation-city": "Auckland",
+            "@id": "60099622",
+            "affilname": "National Heart Foundation of New Zealand",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60099622",
+            "affiliation-country": "New Zealand"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60095089",
+            "affilname": "Raffles Hospital, Singapore",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60095089",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Warsaw",
+            "@id": "60085172",
+            "affilname": "Ministerstwo Zdrowia, Poland",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60085172",
+            "affiliation-country": "Poland"
+        },
+        {
+            "affiliation-city": "Kensington",
+            "@id": "60082336",
+            "affilname": "University of New South Wales Faculty of Medicine, School of Psychiatry",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60082336",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Auckland",
+            "@id": "60078830",
+            "affilname": "Faculty of Medical and Health Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60078830",
+            "affiliation-country": "New Zealand"
+        },
+        {
+            "affiliation-city": "Shanghai",
+            "@id": "60073628",
+            "affilname": "Huashan Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60073628",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Beijing",
+            "@id": "60073452",
+            "affilname": "Beijing Tiantan Hospital, Capital Medical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60073452",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Almaty",
+            "@id": "60071847",
+            "affilname": "Al Farabi Kazakh National University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071847",
+            "affiliation-country": "Kazakhstan"
+        },
+        {
+            "affiliation-city": "New Delhi",
+            "@id": "60071274",
+            "affilname": "Institute of Human Behaviour &amp; Allied Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071274",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Porto Alegre",
+            "@id": "60069372",
+            "affilname": "Hospital Moinhos de Vento",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60069372",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Ostrava",
+            "@id": "60068908",
+            "affilname": "University Hospital in Ostrava",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60068908",
+            "affiliation-country": "Czech Republic"
+        },
+        {
+            "affiliation-city": "Brno",
+            "@id": "60068899",
+            "affilname": "Fakultn\u00ed Nemocnice u Sv. Anny v Brn\u011b",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60068899",
+            "affiliation-country": "Czech Republic"
+        },
+        {
+            "affiliation-city": "Taipei",
+            "@id": "60031913",
+            "affilname": "Chang Gung Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031913",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Perth",
+            "@id": "60031806",
+            "affilname": "The University of Western Australia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031806",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Christchurch",
+            "@id": "60031678",
+            "affilname": "Christchurch Hospital New Zealand",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031678",
+            "affiliation-country": "New Zealand"
+        },
+        {
+            "affiliation-city": "Luton",
+            "@id": "60029855",
+            "affilname": "Luton and Dunstable University Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029855",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "St Albans",
+            "@id": "60029805",
+            "affilname": "Sunshine Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029805",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Kuala Lumpur",
+            "@id": "60029395",
+            "affilname": "Hospital Canselor Tuanku Muhriz UKM",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029395",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Hobart",
+            "@id": "60027621",
+            "affilname": "Menzies Institute for Medical Research",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027621",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Konstanz",
+            "@id": "60025525",
+            "affilname": "Universit\u00e4t Konstanz",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025525",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60025076",
+            "affilname": "National Neuroscience Institute of Singapore",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025076",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Cairo",
+            "@id": "60024697",
+            "affilname": "Faculty of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024697",
+            "affiliation-country": "Egypt"
+        },
+        {
+            "affiliation-city": "Zagreb",
+            "@id": "60023757",
+            "affilname": "General Hospital Sveti Duh",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023757",
+            "affiliation-country": "Croatia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Houston",
+            "@id": "60021568",
+            "affilname": "University of Texas Medical School at Houston",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021568",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Beijing",
+            "@id": "60018486",
+            "affilname": "Institute of Automation Chinese Academy of Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018486",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Osijek",
+            "@id": "60018368",
+            "affilname": "Sveu\u010dili\u0161te Josipa Jurja Strossmayera u Osijeku",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018368",
+            "affiliation-country": "Croatia"
+        },
+        {
+            "affiliation-city": "Nottingham",
+            "@id": "60015138",
+            "affilname": "University of Nottingham",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015138",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Konya",
+            "@id": "60014248",
+            "affilname": "Sel\u00e7uk Tip Fak\u00fcltesi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014248",
+            "affiliation-country": "Turkey"
+        },
+        {
+            "affiliation-city": "Porto Alegre",
+            "@id": "60014120",
+            "affilname": "Hospital de Clinicas de Porto Alegre",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014120",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Lund",
+            "@id": "60014077",
+            "affilname": "Sk\u00e5nes Universitetssjukhus",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014077",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "Stockholm",
+            "@id": "60012311",
+            "affilname": "Karolinska Institutet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012311",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "New Delhi",
+            "@id": "60012304",
+            "affilname": "Guru Gobind Singh Indraprastha University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012304",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Ballarat",
+            "@id": "60011735",
+            "affilname": "Ballarat Health Services",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011735",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60010884",
+            "affilname": "Western University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010884",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Oslo",
+            "@id": "60010348",
+            "affilname": "Universitetet i Oslo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010348",
+            "affiliation-country": "Norway"
+        },
+        {
+            "affiliation-city": "New Delhi",
+            "@id": "60009790",
+            "affilname": "All India Institute of Medical Sciences, New Delhi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009790",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Zagreb",
+            "@id": "60009702",
+            "affilname": "Hrvatska akademija znanosti i umjetnosti",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009702",
+            "affiliation-country": "Croatia"
+        },
+        {
+            "affiliation-city": "Cambridge",
+            "@id": "60009587",
+            "affilname": "Cambridge Institute of Public Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009587",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Porto",
+            "@id": "60007249",
+            "affilname": "Universidade do Porto",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007249",
+            "affiliation-country": "Portugal"
+        },
+        {
+            "affiliation-city": "Copenhagen",
+            "@id": "60006564",
+            "affilname": "Rigshospitalet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006564",
+            "affiliation-country": "Denmark"
+        },
+        {
+            "affiliation-city": "Concepcion",
+            "@id": "60006469",
+            "affilname": "Universidad del Desarrollo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006469",
+            "affiliation-country": "Chile"
+        },
+        {
+            "affiliation-city": "Varna",
+            "@id": "60005828",
+            "affilname": "Medical University-Varna",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005828",
+            "affiliation-country": "Bulgaria"
+        },
+        {
+            "affiliation-city": "Rochester",
+            "@id": "60005558",
+            "affilname": "Mayo Clinic",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005558",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Baltimore",
+            "@id": "60005248",
+            "affilname": "Johns Hopkins University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005248",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Hamilton",
+            "@id": "60004424",
+            "affilname": "The University of Waikato",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004424",
+            "affiliation-country": "New Zealand"
+        },
+        {
+            "affiliation-city": "Krems an der Donau",
+            "@id": "60004038",
+            "affilname": "Donau-Universit\u00e4t Krems",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004038",
+            "affiliation-country": "Austria"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60002746",
+            "affilname": "Harvard Medical School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002746",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Sydney",
+            "@id": "60001801",
+            "affilname": "Prince of Wales Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001801",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Cambridge",
+            "@id": "60001001",
+            "affilname": "Broad Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001001",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Porto",
+            "@id": "60000817",
+            "affilname": "Hospital Geral de Santo Ant\u00f3nio",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000817",
+            "affiliation-country": "Portugal"
+        },
+        {
+            "affiliation-city": "Washington",
+            "@id": "130165620",
+            "affilname": "All Life Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/130165620",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Auckland",
+            "@id": "130164888",
+            "affilname": "Three Kings Accident and Medical Clinic",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/130164888",
+            "affiliation-country": "New Zealand"
+        },
+        {
+            "affiliation-city": "Auckland",
+            "@id": "130164590",
+            "affilname": "Iwi United Engagement Limited",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/130164590",
+            "affiliation-country": "New Zealand"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "129001864",
+            "affilname": "Te Whatu Ora \u2013 Health New Zealand",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129001864",
+            "affiliation-country": "New Zealand"
+        },
+        {
+            "affiliation-city": "Whangarei",
+            "@id": "127612361",
+            "affilname": "Whang\u0101rei in Tai Tokerau Northland",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/127612361",
+            "affiliation-country": "New Zealand"
+        },
+        {
+            "affiliation-city": "Moscow",
+            "@id": "125183889",
+            "affilname": "Division of Country Health Programme",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125183889",
+            "affiliation-country": "Russian Federation"
+        },
+        {
+            "affiliation-city": "Venlo",
+            "@id": "123051855",
+            "affilname": "Venlo University B.V",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/123051855",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Astana",
+            "@id": "122849860",
+            "affilname": "WHO Country Office",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/122849860",
+            "affiliation-country": "Kazakhstan"
+        },
+        {
+            "affiliation-city": "Perth",
+            "@id": "120638940",
+            "affilname": "Perron Institute for Neurological and Translational Science",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/120638940",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Auckland",
+            "@id": "112993206",
+            "affilname": "Counties Manukau Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112993206",
+            "affiliation-country": "New Zealand"
+        },
+        {
+            "affiliation-city": "New Delhi",
+            "@id": "112905279",
+            "affilname": "BLK Super Speciality Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112905279",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Auckland",
+            "@id": "100517751",
+            "affilname": "Waitemata Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/100517751",
+            "affiliation-country": "New Zealand"
+        }
+    ],
+    "funding": []
+}

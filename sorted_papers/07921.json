@@ -1,0 +1,61 @@
+{
+    "eid": "2-s2.0-85059089102",
+    "title": "Scalable single-source shortest path algorithms on distributed memory systems",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mathematics (all)",
+            "@code": "2600",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Graph algorithm",
+        "Parallel algorithm",
+        "Parallel SSSP",
+        "SSSP"
+    ],
+    "authors": [
+        "Thap Panitanarak"
+    ],
+    "citedby-count": 0,
+    "ref-count": 28,
+    "ref-list": [
+        "Direction-optimizing breadth-first search",
+        "On a routing problem",
+        "Parallel breadth-first search on distributed memory systems",
+        "Scalable single source shortest path algorithms for massively parallel systems",
+        "Computation and communication efficient graph processing with distributed immutable view",
+        "Work-efficient parallel GPU methods for single-source shortest paths",
+        "Introducing ScaleGraph: An X10 library for billion scale graph analytics",
+        "A note on two problems in connection with graphs",
+        "PowerGraph: Distributed graph-parallel computation on natural graphs",
+        "The Parallel BGL: A generic library for distributed graph computations",
+        "Mizan: A system for dynamic load balancing in large-scale graph processing",
+        "Distributed GraphLab: A framework for machine learning and data mining in the cloud",
+        "\u0394-stepping: A parallelizable shortest path algorithm",
+        "Performance analysis of single-source shortest path algorithms on distributed-memory systems",
+        "Managing large graphs on multi-cores with graph awareness",
+        "Ligra: A lightweight graph processing framework for shared memory",
+        "Gunrock: A high-performance graph processing library on the GPU",
+        "Graphx: A resilient distributed graph system on spark",
+        "Medusa: Simplified graph processing on GPUs"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Pennsylvania State University"
+    ]
+}

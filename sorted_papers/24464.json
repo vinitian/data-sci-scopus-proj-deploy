@@ -1,0 +1,140 @@
+{
+    "eid": "2-s2.0-85138147672",
+    "title": "FVC as an adaptive and accurate method for filtering variants from popular NGS analysis pipelines",
+    "cover-date": "2022-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Medicine (miscellaneous)",
+            "@code": "2701",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry, Genetics and Molecular Biology (all)",
+            "@code": "1300",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Agricultural and Biological Sciences (all)",
+            "@code": "1100",
+            "@abbrev": "AGRI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Yongyong Ren",
+        "Yan Kong",
+        "Xiaocheng Zhou",
+        "Georgi Z. Genchev",
+        "Chao Zhou",
+        "Hongyu Zhao",
+        "Hui Lu"
+    ],
+    "citedby-count": 0,
+    "ref-count": 56,
+    "ref-list": [
+        "Paediatric genomics: diagnosing rare disease in children",
+        "Integration of whole genome sequencing into a healthcare setting: high diagnostic rates across multiple clinical entities in 3219 rare disease patients",
+        "Growing up in the genomic era: implications of whole-genome sequencing for children, families, and pediatric practice",
+        "Genomic analysis of a spinal muscular atrophy (SMA) discordant family identifies a novel mutation in TLL2, an activator of growth differentiation factor 8 (myostatin): a case report",
+        "Whole-genome landscape of mucosal melanoma reveals diverse drivers and therapeutic targets",
+        "Pan-cancer whole-genome analyses of metastatic solid tumours",
+        "Whole-genome sequencing in cancer",
+        "Assessing asthma medication responses in U.S. minority children by whole-genome sequencing",
+        "Whole-genome sequencing in personalized therapeutics",
+        "Whole-genome sequencing of pharmacogenetic drug response in racially diverse children with asthma",
+        "Comparative genomics in homo sapiens",
+        "Population genomics of Bronze Age Eurasia",
+        "The functional landscape of the human phosphoproteome",
+        "The impact of rare variation on gene expression across tissues",
+        "Whole-genome and RNA sequencing reveal variation and transcriptomic coordination in the developing human prefrontal cortex",
+        "VCF-Server: a web-based visualization tool for high-throughput variant data mining and management",
+        "The genomic landscape of metastatic castration-resistant prostate cancers reveals multiple distinct genotypes with potential clinical impact",
+        "Genomic medicine for undiagnosed diseases",
+        "The Genome Analysis Toolkit: a MapReduce framework for analyzing next-generation DNA sequencing data",
+        "From FastQ data to high confidence variant calls: the Genome Analysis Toolkit best practices pipeline",
+        "VarScan: variant detection in massively parallel sequencing of individual and pooled samples",
+        "VarScan 2: somatic mutation and copy number alteration discovery in cancer by exome sequencing",
+        "A universal SNP and small-indel variant caller using deep neural networks",
+        "Pathogenic germline variants in 10,389 adult cancers",
+        "An analytical framework for optimizing variant discovery from personal genomes",
+        "GARFIELD-NGS: genomic vARiants fIltering by dEep learning moDels in NGS",
+        "VEF: a variant filtering tool based on ensemble methods",
+        "ForestQC: Quality control on genetic variants from next-generation sequencing data using random forest",
+        "A framework for variation discovery and genotyping using next-generation DNA sequencing data",
+        "Effective filtering strategies to improve data quality from population-based whole exome sequencing studies",
+        "Integrating human sequence data sets provides a resource of benchmark SNP and indel genotype calls",
+        "Empirical design of a variant quality control pipeline for whole genome sequencing data using replicate discordance",
+        "The advantages of the Matthews correlation coefficient (MCC) over F1 score and accuracy in binary classification evaluation",
+        "An open resource for accurately benchmarking small variant and reference calls",
+        "XGBoost: A scalable tree boosting system",
+        "Precision-recall-gain curves: PR analysis done right",
+        "The role of balanced training and testing data sets for binary classifiers in bioinformatics",
+        "Pindel: a pattern growth approach to detect break points of large deletions and medium sized insertions from paired-end short reads",
+        "Strelka2: fast and accurate calling of germline and somatic variants",
+        "A verified genomic reference sample for assessing performance of cancer panels detecting small variants of low allele frequency",
+        "Detection and benchmarking of somatic mutations in cancer genomes using RNA-seq data",
+        "Reliable identification of genomic variants from RNA-seq data",
+        "VaDiR: an integrated approach to Variant Detection in RNA",
+        "RNAmut: robust identification of somatic mutations in acute myeloid leukemia using RNA-sequencing",
+        "A second generation human haplotype map of over 3.1 million SNPs",
+        "The sequence alignment/map format and SAMtools",
+        "Optimizing cancer genome sequencing and analysis",
+        "Sequence variants from whole genome sequencing a large group of Icelanders",
+        "Whole genome sequencing of canids reveals genomic regions under selection and variants influencing morphology",
+        "Accurate whole human genome sequencing using reversible terminator chemistry",
+        "Sentieon DNASeq variant calling workflow demonstrates strong computational performance and accuracy",
+        "Best practices for benchmarking germline small-variant calls in human genomes",
+        "An open resource for accurately benchmarking small variant and reference calls",
+        "FVC is an adaptive method for filtering variant calls from different analysis pipelines",
+        "FVC is an adaptive method for filtering variant calls from different analysis pipelines"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Shanghai",
+            "@id": "60123531",
+            "affilname": "State Key Laboratory of Microbial Metabolism",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60123531",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Shanghai",
+            "@id": "60025084",
+            "affilname": "Shanghai Jiao Tong University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025084",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "New Haven",
+            "@id": "60005455",
+            "affilname": "Yale University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005455",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Shanghai",
+            "@id": "117894243",
+            "affilname": "Shanghai Children's Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/117894243",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": [
+        "Clinical Research Plan of SHDC",
+        "Neil Shen\u2019s SJTU Medical Research Fund",
+        "SJTU-Yale",
+        "Second Century Fund",
+        "Chulalongkorn University",
+        "Shanghai Jiao Tong University",
+        "National Key R&D Program of China"
+    ]
+}

@@ -1,0 +1,813 @@
+{
+    "eid": "2-s2.0-85141890269",
+    "title": "Exome-wide association study to identify rare variants influencing COVID-19 outcomes: Results from the Host Genetics Initiative",
+    "cover-date": "2022-11-03",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Ecology, Evolution, Behavior and Systematics",
+            "@code": "1105",
+            "@abbrev": "AGRI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics (clinical)",
+            "@code": "2716",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Cancer Research",
+            "@code": "1306",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Guillaume Butler-Laporte",
+        "Gundula Povysil",
+        "Jack A. Kosmicki",
+        "Elizabeth T. Cirulli",
+        "Theodore Drivas",
+        "Simone Furini",
+        "Chadi Saad",
+        "Axel Schmidt",
+        "Pawel Olszewski",
+        "Urszula Korotko",
+        "Mathieu Quinodoz",
+        "Elifnaz \u00c7elik",
+        "Kousik Kundu",
+        "Klaudia Walter",
+        "Junghyun Jung",
+        "Amy D. Stockwell",
+        "Laura G. Sloofman",
+        "Daniel M. Jordan",
+        "Ryan C. Thompson",
+        "Diane Del Valle",
+        "Nicole Simons",
+        "Esther Cheng",
+        "Robert Sebra",
+        "Eric E. Schadt",
+        "Seunghee Kim-Schulze",
+        "Sacha Gnjatic",
+        "Miriam Merad",
+        "Joseph D. Buxbaum",
+        "Noam D. Beckmann",
+        "Alexander W. Charney",
+        "Bartlomiej Przychodzen",
+        "Timothy Chang",
+        "Tess D. Pottinger",
+        "Ning Shang",
+        "Fabian Brand",
+        "Francesca Fava",
+        "Francesca Mari",
+        "Karolina Chwialkowska",
+        "Magdalena Niemira",
+        "Szymon Pula",
+        "J. Kenneth Baillie",
+        "Alex Stuckey",
+        "Antonio Salas",
+        "Xabier Bello",
+        "Jacobo Pardo-Seco",
+        "Alberto G\u00f3mez-Carballa",
+        "Irene Rivero-Calle",
+        "Federico Martin\u00f3n-Torres",
+        "Andrea Ganna",
+        "Konrad J. Karczewski",
+        "Kumar Veerapen",
+        "Mathieu Bourgey",
+        "Guillaume Bourque",
+        "Robert J.M. Eveleigh",
+        "Vincenzo Forgetta",
+        "David Morrison",
+        "David Langlais",
+        "Mark Lathrop",
+        "Vincent Mooser",
+        "Tomoko Nakanishi",
+        "Robert Frithiof",
+        "Michael Hultstr\u00f6m",
+        "Miklos Lipcsey",
+        "Yanara Marincevic-Zuniga",
+        "Jessica Nordlund",
+        "Kelly M. Schiabor Barrett",
+        "William Lee",
+        "Alexandre Bolze",
+        "Simon White",
+        "Stephen Riffle",
+        "Francisco Tanudjaja",
+        "Efren Sandoval",
+        "Iva Neveux",
+        "Shaun Dabe",
+        "Nicolas Casadei",
+        "Susanne Motameny",
+        "Manal Alaamery",
+        "Salam Massadeh",
+        "Nora Aljawini",
+        "Mansour S. Almutairi",
+        "Yaseen M. Arabi",
+        "Saleh A. Alqahtani",
+        "Fawz S. Al Harthi",
+        "Amal Almutairi",
+        "Fatima Alqubaishi",
+        "Sarah Alotaibi",
+        "Albandari Binowayn",
+        "Ebtehal A. Alsolm",
+        "Hadeel El Bardisy",
+        "Mohammad Fawzy",
+        "Fang Cai",
+        "Nicole Soranzo",
+        "Adam Butterworth",
+        "Regeneron Genetics Center",
+        "Daniel H. Geschwind",
+        "Stephanie Arteaga",
+        "Alexis Stephens",
+        "Manish J. Butte",
+        "Paul C. Boutros",
+        "Takafumi N. Yamaguchi",
+        "Shu Tao",
+        "Stefan Eng",
+        "Timothy Sanders",
+        "Paul J. Tung",
+        "Michael E. Broudy",
+        "Yu Pan",
+        "Alfredo Gonzalez",
+        "Nikhil Chavan",
+        "Ruth Johnson",
+        "Bogdan Pasaniuc",
+        "Brian Yaspan",
+        "Sandra Smieszek",
+        "Carlo Rivolta",
+        "Stephanie Bibert",
+        "Pierre Yves Bochud",
+        "Maciej Dabrowski",
+        "Pawel Zawadzki",
+        "Mateusz Sypniewski",
+        "El\u017cbieta Kaja",
+        "Pajaree Chariyavilaskul",
+        "Voraphoj Nilaratanakul",
+        "Nattiya Hirankarn",
+        "Vorasuk Shotelersuk",
+        "Monnat Pongpanich",
+        "Chureerat Phokaew",
+        "Wanna Chetruengchai",
+        "Katsushi Tokunaga",
+        "Masaya Sugiyama",
+        "Yosuke Kawai",
+        "Takanori Hasegawa",
+        "Tatsuhiko Naito",
+        "Ho Namkoong",
+        "Ryuya Edahiro",
+        "Akinori Kimura",
+        "Seishi Ogawa",
+        "Takanori Kanai",
+        "Koichi Fukunaga",
+        "Yukinori Okada",
+        "Seiya Imoto",
+        "Satoru Miyano",
+        "Serghei Mangul",
+        "Malak S. Abedalthagafi",
+        "Hugo Zeberg",
+        "Joseph J. Grzymski",
+        "Nicole L. Washington",
+        "Stephan Ossowski",
+        "Kerstin U. Ludwig",
+        "Eva C. Schulte",
+        "Olaf Riess",
+        "Marcin Moniuszko",
+        "Miroslaw Kwasniewski",
+        "Hamdi Mbarek",
+        "Said I. Ismail",
+        "Anurag Verma",
+        "David B. Goldstein",
+        "Krzysztof Kiryluk",
+        "Alessandra Renieri",
+        "Manuel A.R. Ferreira",
+        "J. Brent Richards"
+    ],
+    "citedby-count": 13,
+    "ref-count": 62,
+    "ref-list": [
+        "Impact of the COVID-19 pandemic on a tertiary care public hospital in Singapore: Resources and economic costs",
+        "Impact of COVID-19 on accident and emergency attendances and emergency and planned hospital admissions in Scotland: an interrupted time-series analysis",
+        "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China",
+        "Age-dependent impact of the major common genetic risk factor for COVID-19 on severity and mortality",
+        "A Neanderthal OAS1 isoform protects individuals of European ancestry against COVID-19 susceptibility and severity",
+        "Actionable drug-gable genome-wide Mendelian randomization identifies repurposing opportunities for COVID-19",
+        "A first update on mapping the human genetic architecture of COVID-19",
+        "Mapping the human genetic architecture of COVID-19",
+        "Genomewide Association Study of Severe Covid-19 with Respiratory Failure",
+        "Genetic mechanisms of critical illness in COVID-19",
+        "Whole genome sequencing reveals host factors underlying critical Covid-19",
+        "Benefits and limitations of genome-wide association studies",
+        "Sequencing of 53,831 diverse genomes from the NHLBI TOPMed Program",
+        "Quantifying the Impact of Rare and Ultra-rare Coding Variation across the Phenotypic Spectrum",
+        "Inborn errors of type I IFN immunity in patients with life-threatening COVID-19",
+        "Rare loss-of-function variants in type I IFN immunity genes are not associated with severe COVID-19",
+        "Pan-ancestry exome-wide association analyses of COVID-19 outcomes in 586,157 individuals",
+        "Computationally efficient whole-genome regression for quantitative and binary traits",
+        "Firth logistic regression for rare variant association tests",
+        "The major genetic risk factor for severe COVID-19 is inherited from Neanderthals",
+        "The Increasing Importance of Gene-Based Analyses",
+        "Exome sequencing and analysis of 454,787 UK Biobank participants",
+        "Ensembl 2021",
+        "The mutational constraint spectrum quantified from variation in 141,456 humans",
+        "Blacklisting variants common in private cohorts but not in public databases optimizes human exome analysis",
+        "Differential confounding of rare and common variants in spatially structured populations",
+        "The Toll for Trafficking: Toll-Like Receptor 7 Delivery to the Endosome",
+        "Presence of Genetic Variants Among Young Men With Severe COVID-19",
+        "Association of Toll-like receptor 7 variants with life-threatening COVID-19 disease in males: findings from a nested case-control study. van de Veerdonk FL, van der Meer JWM, editors",
+        "X-linked recessive TLR7 deficiency in ~1% of men under 60 years old with life-threatening COVID-19",
+        "Rare variants in Toll-like receptor 7 results in functional impairment and downregulation of cytokine-mediated signaling in COVID-19 patients",
+        "MARK, a novel family of protein kinases that phosphorylate microtubule-associated proteins and trigger microtubule disruption",
+        "A SARS-CoV-2 protein interaction map reveals targets for drug repurposing",
+        "The Rilp-like proteins Rilpl1 and Rilpl2 regulate ciliary membrane content",
+        "ACAT: A Fast and Powerful p Value Combination Method for Rare-Variant Analysis in Sequencing Studies",
+        "Molecular Basis of ABO Variants Including Identification of 16 Novel ABO Subgroup Alleles in Chinese Han Population",
+        "Weak A phenotypes associated with novel ABO alleles carrying the A2-related 1061C deletion and various missense substitutions",
+        "Associations between blood type and COVID-19 infection, intubation, and death",
+        "100,000 Genomes Pilot on Rare-Disease Diagnosis in Health Care\u2014Preliminary Report",
+        "Why Females Do Better: The X Chromosomal TLR7 Gene-Dose Effect in COVID-19",
+        "Immune mechanisms associated with sex-based differences in severe COVID-19 clinical outcomes",
+        "Genetic Screening for TLR7 Variants in Young and Previously Healthy Men With Severe COVID-19",
+        "Microtubules in Influenza Virus Entry and Egress",
+        "Tocilizumab in patients admitted to hospital with COVID-19 (RECOVERY): a randomised, controlled, open-label, platform trial",
+        "Interleukin-6 Receptor Antagonists in Critically Ill Patients with Covid-19",
+        "AncestryDNA COVID-19 Host Genetic Study Identifies Three Novel Loci",
+        "Genomic privacy and limits of individual detection in a pool",
+        "Optimal Unified Approach for Rare-Variant Association Testing with Application to Small-Sample Case-Control Whole-Exome Sequencing Studies",
+        "Assessing the contribution of rare variants to complex trait heritability from whole-genome sequence data",
+        "Swarm Learning for decentralized and confidential clinical machine learning",
+        "Factors associated with COVID-19-related death using OpenSAFELY",
+        "Genome-wide rare variant analysis for thousands of phenotypes in over 70,000 exomes from two cohorts",
+        "Occupation and risk of severe COVID-19: prospective cohort study of 120 075 UK Biobank participants",
+        "METAL: fast and efficient meta-analysis of genomewide association scans",
+        "random-metal",
+        "Exome sequencing generates high quality data in non-target regions",
+        "SIFT missense predictions for genomes",
+        "Identification of deleterious mutations within three human genomes",
+        "MutationTaster evaluates disease-causing potential of sequence alterations",
+        "Predicting Functional Effect of Human Missense Mutations Using PolyPhen-2",
+        "The NHGRI-EBI GWAS Catalog of published genome-wide association studies, targeted arrays and summary statistics 2019"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "New York",
+            "@id": "60012981",
+            "affilname": "Icahn School of Medicine at Mount Sinai",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012981",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Los Angeles",
+            "@id": "60005247",
+            "affilname": "David Geffen School of Medicine at UCLA",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005247",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bialystok",
+            "@id": "60026724",
+            "affilname": "Uniwersytet Medyczny w Bialymstoku",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026724",
+            "affiliation-country": "Poland"
+        },
+        {
+            "affiliation-city": "Uppsala",
+            "@id": "60003858",
+            "affilname": "Uppsala Universitet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003858",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025252",
+            "affilname": "Keio University School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025252",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Suita",
+            "@id": "60175967",
+            "affilname": "Graduate School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60175967",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Riyadh",
+            "@id": "60033126",
+            "affilname": "King Abdulaziz City for Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60033126",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Bonn",
+            "@id": "60030465",
+            "affilname": "Universit\u00e4tsklinikum Bonn",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030465",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60030162",
+            "affilname": "Columbia University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030162",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60029502",
+            "affilname": "McGill Faculty of Medicine and Health Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029502",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Suita",
+            "@id": "60024322",
+            "affilname": "Osaka University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024322",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60022886",
+            "affilname": "National Center for Global Health and Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022886",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Tubingen",
+            "@id": "60017246",
+            "affilname": "Eberhard Karls Universit\u00e4t T\u00fcbingen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017246",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Stockholm",
+            "@id": "60012311",
+            "affilname": "Karolinska Institutet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012311",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60003303",
+            "affilname": "Tokyo Medical and Dental University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003303",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Siena",
+            "@id": "60002838",
+            "affilname": "Universit\u00e0 degli Studi di Siena",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002838",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60002494",
+            "affilname": "Universit\u00e9 McGill",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002494",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Munich",
+            "@id": "60000291",
+            "affilname": "Klinikum der Universit\u00e4t M\u00fcnchen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000291",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Santiago de Compostela",
+            "@id": "60276820",
+            "affilname": "Hospital Cl\u00ednico Universitario de Santiago",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60276820",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Tarrytown",
+            "@id": "60276418",
+            "affilname": "Regeneron Genetics Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60276418",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Yokohama",
+            "@id": "60274640",
+            "affilname": "RIKEN Center for Integrative Medical Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60274640",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Santiago de Compostela",
+            "@id": "60272603",
+            "affilname": "Instituto de Investigaci\u00f3n Sanitaria de Santiago de Compostela",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60272603",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Koln",
+            "@id": "60204358",
+            "affilname": "Medizinische Fakult\u00e4t",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60204358",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60191838",
+            "affilname": "School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60191838",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Leicester",
+            "@id": "60171766",
+            "affilname": "College of Life Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60171766",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60159815",
+            "affilname": "Genomics England Limited",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60159815",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Cambridge",
+            "@id": "60120015",
+            "affilname": "Department of Haematology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60120015",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Kyoto",
+            "@id": "60119340",
+            "affilname": "Institute for the Advanced Study of Human Biology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60119340",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Kyoto",
+            "@id": "60119317",
+            "affilname": "Graduate School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60119317",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60111763",
+            "affilname": "L'Institut de Recherche du Centre Universitaire de Sant\u00e9 McGill",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60111763",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Riyadh",
+            "@id": "60107466",
+            "affilname": "King Abdulaziz Medical City - Riyadh",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60107466",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Doha",
+            "@id": "60106067",
+            "affilname": "Qatar Foundation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60106067",
+            "affiliation-country": "Qatar"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60103898",
+            "affilname": "The Institute of Medical Science, The University of Tokyo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103898",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Madrid",
+            "@id": "60102756",
+            "affilname": "Centro de Investigaci\u00f3n Biom\u00e9dica en Red de Enfermedades Respiratorias",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60102756",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Suita",
+            "@id": "60091997",
+            "affilname": "WPI Immunology Frontier Research Center, Osaka University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091997",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60089893",
+            "affilname": "Institut de Recherche en Immunologie et en Canc\u00e9rologie de l\u2019Universit\u00e9 de Montr\u00e9al",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60089893",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Siena",
+            "@id": "60082057",
+            "affilname": "Azienda Ospedaliera Universitaria Senese",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60082057",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Riyadh",
+            "@id": "60078536",
+            "affilname": "King Saud bin Abdulaziz University for Health Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60078536",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Poznan",
+            "@id": "60069010",
+            "affilname": "Poznan University of Medical Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60069010",
+            "affiliation-country": "Poland"
+        },
+        {
+            "affiliation-city": "Philadelphia",
+            "@id": "60030118",
+            "affilname": "The Children's Hospital of Philadelphia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030118",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60029929",
+            "affilname": "Massachusetts General Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029929",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Basel",
+            "@id": "60028287",
+            "affilname": "Universit\u00e4tsspital Basel",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028287",
+            "affiliation-country": "Switzerland"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "San Francisco",
+            "@id": "60026209",
+            "affilname": "Genentech, Inc",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026209",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Midlothian",
+            "@id": "60026158",
+            "affilname": "University of Edinburgh, Roslin Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026158",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Koln",
+            "@id": "60024025",
+            "affilname": "Universit\u00e4t zu K\u00f6ln",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024025",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Lausanne",
+            "@id": "60023561",
+            "affilname": "Centre Hospitalier Universitaire Vaudois",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023561",
+            "affiliation-country": "Switzerland"
+        },
+        {
+            "affiliation-city": "Reno",
+            "@id": "60023439",
+            "affilname": "Desert Research Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023439",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Philadelphia",
+            "@id": "60023009",
+            "affilname": "Penn Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023009",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60022165",
+            "affilname": "Lady Davis Institute for Medical Research",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022165",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Munich",
+            "@id": "60019722",
+            "affilname": "Technische Universit\u00e4t M\u00fcnchen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019722",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Santiago de Compostela",
+            "@id": "60019316",
+            "affilname": "Universidad de Santiago de Compostela, Facultad de Medicina y Odontolog\u00eda",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019316",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Edinburgh",
+            "@id": "60017780",
+            "affilname": "MRC Centre for Inflammation Research",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017780",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Riyadh",
+            "@id": "60016332",
+            "affilname": "King Faisal Specialist Hospital and Research Centre",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016332",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60015540",
+            "affilname": "Japan Society for the Promotion of Science",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015540",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Los Angeles",
+            "@id": "60015183",
+            "affilname": "Keck School of Medicine of USC",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015183",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "60014232",
+            "affilname": "VA Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014232",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Poznan",
+            "@id": "60014168",
+            "affilname": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014168",
+            "affiliation-country": "Poland"
+        },
+        {
+            "affiliation-city": "Los Angeles",
+            "@id": "60013994",
+            "affilname": "USC School of Pharmacy",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013994",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Edinburgh",
+            "@id": "60012914",
+            "affilname": "MRC Human Genetics Unit",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012914",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Reno",
+            "@id": "60012526",
+            "affilname": "Renown Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012526",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60011605",
+            "affilname": "Vagelos College of Physicians and Surgeons",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011605",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60011520",
+            "affilname": "King's College London",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011520",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Kyoto",
+            "@id": "60011001",
+            "affilname": "Kyoto University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011001",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bonn",
+            "@id": "60007493",
+            "affilname": "Universit\u00e4t Bonn",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007493",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Hinxton",
+            "@id": "60005517",
+            "affilname": "Wellcome Sanger Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005517",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Baltimore",
+            "@id": "60005248",
+            "affilname": "Johns Hopkins University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005248",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Philadelphia",
+            "@id": "60003711",
+            "affilname": "University of Pennsylvania Perelman School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003711",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Edinburgh",
+            "@id": "60002975",
+            "affilname": "Royal Infirmary of Edinburgh",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002975",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Helsinki",
+            "@id": "60002952",
+            "affilname": "Helsingin Yliopisto",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002952",
+            "affiliation-country": "Finland"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60002746",
+            "affilname": "Harvard Medical School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002746",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Cambridge",
+            "@id": "60001001",
+            "affilname": "Broad Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001001",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Cambridge",
+            "@id": "127899061",
+            "affilname": "MNM Bioscience Inc.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/127899061",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bialystok",
+            "@id": "127183341",
+            "affilname": "IMAGENE.ME SA",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/127183341",
+            "affiliation-country": "Poland"
+        },
+        {
+            "affiliation-city": "Basel",
+            "@id": "121093025",
+            "affilname": "Institute of Molecular and Clinical Ophthalmology Basel (IOB)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/121093025",
+            "affiliation-country": "Switzerland"
+        },
+        {
+            "affiliation-city": "Washington",
+            "@id": "113128822",
+            "affilname": "Vanda Pharmaceuticals",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/113128822",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "San Mateo",
+            "@id": "106993500",
+            "affilname": "Helix",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/106993500",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": []
+}

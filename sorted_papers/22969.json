@@ -1,0 +1,71 @@
+{
+    "eid": "2-s2.0-85072749732",
+    "title": "RNA sequencing data of human periodontal ligament cells treated with continuous and intermittent compressive force",
+    "cover-date": "2019-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Multidisciplinary",
+            "@code": "1000",
+            "@abbrev": "MULT"
+        }
+    ],
+    "keywords": [
+        "Mechanical force",
+        "Periodontal ligament",
+        "RNA sequencing"
+    ],
+    "authors": [
+        "Jeeranan Manokawinchoke",
+        "Prasit Pavasant",
+        "Chenphop Sawangmake",
+        "Nuttapol Limjeerajarus",
+        "Chalida N. Limjeerajarus",
+        "Hiroshi Egusa",
+        "Thanaphum Osathanon"
+    ],
+    "citedby-count": 3,
+    "ref-count": 10,
+    "ref-list": [
+        "Intermittent compressive stress regulates Notch target gene expression via transforming growth factor-beta signaling in murine pre-osteoblast cell line",
+        "Notch signaling participates in TGF-beta-induced SOST expression under intermittent compressive stress",
+        "Intermittent compressive force promotes osteogenic differentiation in human periodontal ligament cells by regulating the transforming growth factor beta Pathway",
+        "Mechanical force-induced TGFB1 increases expression of SOST/POSTN by hPDL cells",
+        "Trimmomatic: a flexible trimmer for Illumina sequence data",
+        "FastQC: a Quality Control tool for high throughput Sequence Data",
+        "HISAT: a fast spliced aligner with low memory requirements",
+        "HTSeq\u2013a Python framework to work with high-throughput sequencing data",
+        "edgeR: a Bioconductor package for differential expression analysis of digital gene expression data",
+        "Differential expression analysis of multifactor RNA-Seq experiments with respect to biological variation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Sendai",
+            "@id": "60008435",
+            "affilname": "Tohoku University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008435",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "106379398",
+            "affilname": "Thai-Nichi Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/106379398",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn Academic Advancement",
+        "JSPS-RONPAKU",
+        "Japan Society for the Promotion of Science",
+        "Chulalongkorn University",
+        "Thailand Research Fund"
+    ]
+}

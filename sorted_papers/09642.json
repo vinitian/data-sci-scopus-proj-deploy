@@ -1,0 +1,81 @@
+{
+    "eid": "2-s2.0-84947240347",
+    "title": "Fast grid-free surface tracking",
+    "cover-date": "2015-07-27",
+    "subject-areas": [
+        {
+            "$": "Computer Graphics and Computer-Aided Design",
+            "@code": "1704"
+        }
+    ],
+    "keywords": [
+        "Hole filling",
+        "Mesh repair",
+        "Surface tracking"
+    ],
+    "authors": [
+        "Nuttapong Chentanez"
+    ],
+    "citedby-count": 11,
+    "ref-count": 45,
+    "ref-list": [
+        "Adaptively sampled particle fluids",
+        "Linear-time triangulation of a simple polygon made easier via randomization",
+        "Polygon mesh repairing: An application perspective",
+        "A lightweight approach to repairing digitized polygon meshes",
+        "The Quickhull Algorithm for Convex Hulls",
+        "Filling gaps in the boundary of a polyhedron",
+        "A semi-lagrangian contouring method for fluid simulation",
+        "Putting holes in holey geometry: Topology change for arbitrary surfaces",
+        "A Generalization of Algebraic Surface Drawing",
+        "Advances in Modelling, Animation and Rendering",
+        "A general discrete contour model in two, three, and four dimensions for topology-adaptive multichannel segmentation",
+        "Robust topological operations fo r dynamic explicit surfaces",
+        "Exact and robust (self-)intersections for polygonal meshes",
+        "Triangulating a simple polygon in linear time",
+        "Multimaterial mesh-based surface tracking",
+        "Animation and rendering of complex water surfaces",
+        "Using the particle level set method and a second order accurate pressure boundary condition for free surface flows",
+        "A fast and accurate semi-Lagrangian particle level set method",
+        "Cutting and stitching: Converting sets of polygons to manifold surfaces",
+        "Filling holes in triangular meshes in engineering",
+        "A piecewise hole filling algorithm in reverse engineering",
+        "Filling Holes in Meshes",
+        "MARCHING CUBES: A HIGH RESOLUTION 3D SURFACE CONSTRUCTION ALGORITHM.",
+        "MARCHING CUBES: A HIGH RESOLUTION 3D SURFACE CONSTRUCTION ALGORITHM.",
+        "Unified particle physics for real-time applications",
+        "Journal of Graphics Tools",
+        "Fast and Robust Tracking of Fluid Surfaces",
+        "Fronts propagating with curvature-dependent speed: Algorithms based on Hamilton-Jacobi formulations",
+        "Constrained delaunay triangulations",
+        "Hybrid booleans",
+        "Filling holes in meshes using a mechanical model to simulate the curvature variation minimization",
+        "Atomic Volumes for Mesh Completion",
+        "Delaunay deformable models: Topology-adaptive meshes based on the restricted delaunay triangulation",
+        "Adaptive precision floating-point arithmetic and fast robust geometric predicates",
+        "Freestyle: Sculpting meshes with self-adaptive topology",
+        "A Fast Semi-Lagrangian Contouring Method for Moving Interfaces",
+        "Optimized Spatial Hashing for Collision Detection of Deformable Objects",
+        "A multiscale approach to mesh-based surface tension flows",
+        "Deforming meshes that split and merge",
+        "Physics-inspired topology changes for thin fluid features",
+        "Reconstructing surfaces of particle-based fluids using anisotropic kernels",
+        "EUROGRAPHICS",
+        "TransforMesh: A topology-adaptive mesh-based approach to surface evolution",
+        "A robust hole-filling algorithm for triangular mesh",
+        "Animating sand as a fluid"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Santa Clara",
+            "affilname": "NVIDIA",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

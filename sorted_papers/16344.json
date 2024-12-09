@@ -1,0 +1,58 @@
+{
+    "eid": "2-s2.0-85123993582",
+    "title": "Convolutional Neural Networks for Artificial Marbling Beef Classification",
+    "cover-date": "2021-07-09",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Artificial marbling beef",
+        "Convolutional neural networks",
+        "Image classification",
+        "Transfer learning"
+    ],
+    "authors": [
+        "Grace Panitchakorn",
+        "Yachai Limpiyakorn"
+    ],
+    "citedby-count": 1,
+    "ref-count": 10,
+    "ref-list": [
+        "Marbling analysis for evaluating meat quality: Methods and techniques",
+        "Prediction of marbling score and carcass traits in Korean Hanwoo beef cattle using machine learning methods and synthetic minority oversampling technique",
+        "Machine learning in the assessment of meat quality",
+        "Classification modelling of beef and pork using convolutional neural network",
+        "Rethinking the inception architecture for computer vision"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

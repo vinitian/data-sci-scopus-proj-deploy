@@ -1,0 +1,68 @@
+{
+    "eid": "2-s2.0-85103913210",
+    "title": "Numerical Simulation of the Disintegration of an Aqueous Drop under Electric Field",
+    "cover-date": "2021-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Electrokinetics",
+        "electrostatic analysis",
+        "finite element analysis",
+        "level set",
+        "oil insulation"
+    ],
+    "authors": [
+        "Wikanda Nantanawut",
+        "Boonchai Techaumnat",
+        "Nutthaphong Tanthanuch"
+    ],
+    "citedby-count": 1,
+    "ref-count": 13,
+    "ref-list": [
+        "Electrostatic atomization of conducting liquids using AC superimposed on DC fields",
+        "Electrohydrodynamic spraying functioning modes: A critical review",
+        "Droplet deformation under pulsatile electric fields",
+        "Electrostatic phase separation: A review",
+        "Electrostatic enhancement of coalescence of water droplets in oil: A review of the current understanding",
+        "Electrocoalescence of an aqueous droplet at an oil-water interface",
+        "The effect of interfacial tension on secondary drop formation in electro-coalescence of water droplets in oil",
+        "Electrostatic enhancement of coalescence of water droplets in oil: A review of the technology",
+        "Experimental studies of deformation and break-up of aqueous drops in high electric fields",
+        "Numerical study on transient response of droplet deformation in a steady electric field",
+        "An improved level set method for incompressible two-phase flows",
+        "Level set methods for fluid interfaces",
+        "A phase field model for multiphase electro-hydrodynamic flow"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60012521",
+            "affilname": "Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012521",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "National Research Council of Thailand",
+        "Thailand Science Research and Innovation"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "eid": "2-s2.0-85056669771",
+    "title": "Defect Classification of Electronic Board Using Dense SIFT and CNN",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Bag of Features",
+        "Convolutional Neural Network",
+        "Defect Classification",
+        "Support Vector Machine"
+    ],
+    "authors": [
+        "Yuji Iwahori",
+        "Yohei Takada",
+        "Tokiko Shiina",
+        "Yoshinori Adachi",
+        "M. K. Bhuyan",
+        "Boonserm Kijsirikul"
+    ],
+    "citedby-count": 9,
+    "ref-count": 14,
+    "ref-list": [
+        "A Method for Detecting Globally Distributed Defects by Using Learning with Mahalanobis Distance",
+        "A Pattern Defect Inspection Method by Grayscale Image Comparison without Precise Image Alignment",
+        "Automatic optical inspection for detecting defects on printed circuit board inner layers",
+        "A Neural Network Approach to Defect Classification on Printed Circuit Boards",
+        "Defect Classification of Electronic Board Using SVM and Table Matching",
+        "Defect Classification of Electronic Circuit Board Using SVM Based on Random Sampling",
+        "SVM Based Defect Classification of Electronic Board Using Bag of Keypoints",
+        "Distinctive image features from scale-invariant keypoints",
+        "ImageNet Classification with Deep Convolutional Neural Networks",
+        "Defect Detection and Classification of Electronic Circuit Boards Using Keypoint Extraction and CNN Features",
+        "SURF: Speeded Up Robust Features"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Guwahati",
+            "@id": "60010126",
+            "affilname": "Indian Institute of Technology Guwahati",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010126",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Kasugai",
+            "@id": "60007976",
+            "affilname": "Chubu University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007976",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Jaflan Society for the Promotion of Science",
+        "Chubu University"
+    ]
+}

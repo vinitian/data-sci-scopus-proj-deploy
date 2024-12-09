@@ -1,0 +1,75 @@
+{
+    "eid": "2-s2.0-85091836229",
+    "title": "Obstacle Avoidance using mmWave Radar Imaging System",
+    "cover-date": "2020-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "K-mean",
+        "mmWave",
+        "Obstacle detection"
+    ],
+    "authors": [
+        "Natthapol Techaphangam",
+        "Manop Wongsaisuwan"
+    ],
+    "citedby-count": 1,
+    "ref-count": 9,
+    "ref-list": [
+        "Edge detection techniques for image segmentation-a survey of soft computing approaches",
+        "Object detection with deep learning: A review",
+        "Individual tree segmentation from lidar point clouds for urban forest inventory",
+        "Detection and classification of multiple objects using an rgb-d sensor and linear spatial pyramid matching",
+        "Selection of k in k-means clustering"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

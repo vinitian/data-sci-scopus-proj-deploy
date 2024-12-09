@@ -1,0 +1,434 @@
+{
+    "eid": "2-s2.0-85158833251",
+    "title": "Levodopa Dose Equivalency in Parkinson's Disease: Updated Systematic Review and Proposals",
+    "cover-date": "2023-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Neurology",
+            "@code": "2808",
+            "@abbrev": "NEUR"
+        },
+        {
+            "@_fa": "true",
+            "$": "Neurology (clinical)",
+            "@code": "2728",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "LEDD",
+        "levodopa equivalent daily dose",
+        "levodopa equivalent dose"
+    ],
+    "authors": [
+        "Stefanie T. Jost",
+        "Marie Ann Kaldenbach",
+        "Angelo Antonini",
+        "Pablo Martinez-Martin",
+        "Lars Timmermann",
+        "Per Odin",
+        "Regina Katzenschlager",
+        "Rupam Borgohain",
+        "Alfonso Fasano",
+        "Fabrizio Stocchi",
+        "Nobutaka Hattori",
+        "Prashanth Lingappa Kukkle",
+        "Mayela Rodr\u00edguez-Violante",
+        "Cristian Falup-Pecurariu",
+        "Sebastian Schade",
+        "Jan Niklas Petry-Schmelzer",
+        "Vinod Metta",
+        "Daniel Weintraub",
+        "Guenther Deuschl",
+        "Alberto J. Espay",
+        "Eng King Tan",
+        "Roongroj Bhidayasiri",
+        "Victor S.C. Fung",
+        "Francisco Cardoso",
+        "Claudia Trenkwalder",
+        "Peter Jenner",
+        "K. Ray Chaudhuri",
+        "Haidar S. Dafsari"
+    ],
+    "citedby-count": 3,
+    "ref-count": 76,
+    "ref-list": [
+        "Motor and nonmotor complications of levodopa: phenomenology, risk factors, and imaging features",
+        "Systematic review of levodopa dose equivalency reporting in Parkinson's disease",
+        "Availability of therapies and services for Parkinson's disease in Africa: a continent-wide survey",
+        "Average annual cost of Parkinson's disease in Sao Paulo, Brazil, with a focus on disease-related motor symptoms",
+        "Prescription pattern and awareness of disease and treatment in patients of Parkinson's disease",
+        "Prescription pattern of anti-Parkinson's disease drugs in Japan based on a nationwide medical claims database",
+        "Real-world prescription patterns for patients with young-onset Parkinson's disease in China: a trend analysis from 2014 to 2019",
+        "Use of antiparkinson medications among elderly Medicare beneficiaries with Parkinson's disease",
+        "Chapter 4: Searching for and selecting studies",
+        "The role of Google Scholar in evidence reviews and its applicability to grey literature searching",
+        "Use of GRADE grid to reach decisions on clinical practice guidelines when consensus is elusive",
+        "Excessive daytime sleepiness and sudden-onset sleep in Parkinson disease: a survey by the Canadian Movement Disorders Group",
+        "Effect of GPi pallidotomy on motor function in Parkinson's disease",
+        "Subthalamic nucleus or internal pallidal stimulation in young onset Parkinson's disease",
+        "Long-term follow-up of unilateral pallidotomy in advanced Parkinson's disease",
+        "Force overflow and levodopa-induced dyskinesias in Parkinson's disease",
+        "Unilateral and bilateral pallidotomy for idiopathic Parkinson's disease: a case series of 115 patients",
+        "Subthalamic nucleus stimulation in Parkinson's disease: clinical evaluation of 18 patients",
+        "High-frequency stimulation of the globus pallidus for the treatment of Parkinson's disease",
+        "Unilateral pallidotomy versus bilateral subthalamic nucleus stimulation in PD: a randomized trial",
+        "A randomized trial of deep-brain stimulation for Parkinson's disease",
+        "Dual-release formulation, a novel principle in L-dopa treatment of Parkinson's disease",
+        "Conversion to IPX066 from standard levodopa formulations in advanced Parkinson's disease: experience in clinical trials",
+        "Conversion of L-dopa to extended release L-dopa (Rytary\u00ae) in patients with fluctuating Parkinson's disease: predictors of dose",
+        "Preclinical and clinical assessment of inhaled levodopa for OFF episodes in Parkinson's disease",
+        "Levodopa/carbidopa microtablets in Parkinson's disease: a study of pharmacokinetics and blinded motor assessment",
+        "Initial experience of the levodopa-entacapone-carbidopa intestinal gel in clinical practice",
+        "Foslevodopa/foscarbidopa subcutaneous infusion maintains equivalent levodopa exposure to levodopa-carbidopa intestinal gel delivered to the jejunum",
+        "EQUIDopa: a responsive web application for the levodopa equivalent dose calculator",
+        "Levodopa equivalent dose conversion factors: an updated proposal including opicapone and safinamide",
+        "Different catechol-O-methyl transferase inhibitors in Parkinson's disease: a Bayesian network meta-analysis",
+        "Effect of opicapone and entacapone upon levodopa pharmacokinetics during three daily levodopa administrations",
+        "Pharmacokinetics, pharmacodynamics, and tolerability of tolcapone: a review of early studies in volunteers",
+        "Pharmacokinetics and comparative bioavailability of apomorphine sublingual film and subcutaneous apomorphine formulations in patients with Parkinson's disease and \"OFF\" episodes: results of a randomized, three-way crossover, open-label study",
+        "Population pharmacokinetic analysis of apomorphine sublingual film or subcutaneous apomorphine in healthy subjects and patients with Parkinson's disease",
+        "Bioavailability and pharmacokinetics of once-daily amantadine extended-release tablets in healthy volunteers: results from three randomized, crossover, open-label, phase 1 studies",
+        "Parkinson's patients with dyskinesia switched from immediate release amantadine to open-label ADS-5102",
+        "Pharmacokinetics of ADS-5102 (amantadine) extended release capsules administered once daily at bedtime for the treatment of dyskinesia",
+        "A Spanish consensus on the use of safinamide for Parkinson's disease in clinical practice",
+        "Real life evaluation of safinamide effectiveness in Parkinson's disease",
+        "Switch from rasagiline to safinamide in fluctuating Parkinson's disease patients: a retrospective, pilot study",
+        "Safinamide in clinical practice: a Spanish multicenter cohort study",
+        "A multiple treatment comparison meta-analysis of monoamine oxidase type B inhibitors for Parkinson's disease",
+        "Comparative effectiveness of dopamine agonists and monoamine oxidase type-B inhibitors for Parkinson's disease: a multiple treatment comparison meta-analysis",
+        "Zonisamide improves motor function in Parkinson disease: a randomized, double-blind study",
+        "Zonisamide improves wearing-off in Parkinson's disease: a randomized, double-blind study",
+        "Randomized, double-blind study of zonisamide with placebo in advanced Parkinson's disease",
+        "Randomized placebo-controlled trial of zonisamide in patients with Parkinson's disease",
+        "Combination therapy with zonisamide and antiparkinson drugs for Parkinson's disease: a meta-analysis",
+        "A Japanese health success story: trends in cardiovascular diseases, their risk factors, and the contribution of public health and personalized approaches",
+        "Prescribing pattern for Parkinson's disease in Indian community before referral to tertiary center",
+        "A prospective study of the drug prescribing rate and pattern and assessment of adverse drug reactions in patients with idiopathic Parkinson disease in a tertiary care hospital",
+        "Trends in antiparkinsonian medication use in New Zealand: 1995-2011",
+        "The impact in Japan of regulatory action on prescribing of dopamine receptor agonists: analysis of a claims database between 2005 and 2008",
+        "Patterns and determinants of prescribing for Parkinson's disease: a systematic literature review",
+        "Utilization of anti-Parkinson drugs in Australia: 1995-2009",
+        "Anticholinergics for symptomatic management of Parkinson's disease",
+        "Comparison of effectiveness of trihexyphenidyl and levodopa on motor symptoms in Parkinson's disease",
+        "Minimal clinically important difference for UPDRS-III in daily practice",
+        "Evaluating the impact of adjunctive istradefylline on the cumulative dose of levodopa-containing medications in Parkinson's disease: study protocol for the ISTRA ADJUST PD randomized, controlled study",
+        "GRADE: an emerging consensus on rating quality of evidence and strength of recommendations",
+        "Grading strength of recommendations and quality of evidence in clinical guidelines: report from an American College of Chest Physicians task force",
+        "Major publications in the critical care pharmacotherapy literature: January-December 2016",
+        "Update on treatments for nonmotor symptoms of Parkinson's disease-an evidence-based medicine review",
+        "International Parkinson and Movement Disorder Society evidence-based medicine review: update on treatments for the motor symptoms of Parkinson's disease",
+        "A real-life search for the optimal set of conversion factors to levodopa-equivalent-dose in Parkinson's disease patients on polytherapy",
+        "Female, aging, difference formulations of DCI, or lower body weight increases AUC4hr of levodopa in patients with Parkinson's disease",
+        "Certain trends in uncertainty and sensitivity analysis: an overview of software tools and techniques",
+        "Network meta-analyses: methodological prerequisites and clinical usefulness",
+        "Multilevel network meta-regression for population-adjusted treatment comparisons",
+        "Causal inference and adjustment for reference-arm risk in indirect treatment comparison meta-analysis",
+        "A causal inference approach to network meta-analysis",
+        "Comparison for efficacy and tolerability among ten drugs for treatment of Parkinson's disease: a network meta-analysis",
+        "Comparative efficacy and safety of monoamine oxidase type B inhibitors plus channel blockers and monoamine oxidase type B inhibitors as adjuvant therapy to levodopa in the treatment of Parkinson's disease: a network meta-analysis of randomized controlled trials",
+        "Dopaminergic therapy for motor symptoms in early Parkinson disease practice guideline summary: a report of the AAN guideline subcommittee"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Gottingen",
+            "@id": "60021110",
+            "affilname": "Universit\u00e4tsmedizin G\u00f6ttingen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021110",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Koln",
+            "@id": "60204358",
+            "affilname": "Medizinische Fakult\u00e4t",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60204358",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60177635",
+            "affilname": "Faculty of Life Sciences &amp; Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60177635",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60172370",
+            "affilname": "Juntendo University Graduate School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60172370",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Rome",
+            "@id": "60103767",
+            "affilname": "IRCCS San Raffaele Pisana",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103767",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60095034",
+            "affilname": "Duke-NUS Medical School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60095034",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Madrid",
+            "@id": "60085102",
+            "affilname": "Centro de Investigaci\u00f3n Biom\u00e9dica en Red de Enfermedades Neurodegenerativas",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60085102",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Belo Horizonte",
+            "@id": "60030074",
+            "affilname": "Universidade Federal de Minas Gerais",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030074",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Lund",
+            "@id": "60029170",
+            "affilname": "Lunds Universitet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029170",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "Beckenham",
+            "@id": "60028884",
+            "affilname": "South London and Maudsley NHS Foundation Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028884",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Cincinnati",
+            "@id": "60025152",
+            "affilname": "University of Cincinnati",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025152",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Brasov",
+            "@id": "60023654",
+            "affilname": "Universitatea Transilvania din Bra\u0219ov",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023654",
+            "affiliation-country": "Romania"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60021923",
+            "affilname": "King's College Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021923",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60017958",
+            "affilname": "Singapore General Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017958",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Toronto",
+            "@id": "60016849",
+            "affilname": "University of Toronto",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016849",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Kassel",
+            "@id": "60015642",
+            "affilname": "Paracelsus- Elena- Klinik Kassel",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015642",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "60014232",
+            "affilname": "VA Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014232",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Lund",
+            "@id": "60014077",
+            "affilname": "Sk\u00e5nes Universitetssjukhus",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014077",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "Bengaluru",
+            "@id": "60012073",
+            "affilname": "Manipal Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012073",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60011520",
+            "affilname": "King's College London",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011520",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Toronto",
+            "@id": "60006377",
+            "affilname": "Krembil Research Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006377",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Kiel",
+            "@id": "60005542",
+            "affilname": "Universit\u00e4tsklinikum Schleswig-Holstein Campus Kiel",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005542",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Hyderabad",
+            "@id": "60005512",
+            "affilname": "Nizam's Institute of Medical Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005512",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Sydney",
+            "@id": "60004437",
+            "affilname": "Westmead Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004437",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Philadelphia",
+            "@id": "60003711",
+            "affilname": "University of Pennsylvania Perelman School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003711",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Marburg",
+            "@id": "60002681",
+            "affilname": "Universit\u00e4tsklinikum Gie\u00dfen und Marburg, Standort Marburg",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002681",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Padua",
+            "@id": "60000481",
+            "affilname": "Universit\u00e0 degli Studi di Padova",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000481",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Tlalpan",
+            "@id": "60000029",
+            "affilname": "Instituto Nacional de Neurolog\u00eda y Neurocirug\u00eda",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000029",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Mexico",
+            "@id": "130013974",
+            "affilname": "Movement Disorders Clinic",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/130013974",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Bra\u0219ov",
+            "@id": "127777907",
+            "affilname": "County Clinic Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/127777907",
+            "affiliation-country": "Romania"
+        },
+        {
+            "affiliation-city": "Vienna",
+            "@id": "125853258",
+            "affilname": "Karl Landsteiner Institute for Neuroimmunological and Neurodegenerative Disorders",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125853258",
+            "affiliation-country": "Austria"
+        },
+        {
+            "affiliation-city": "Bengaluru",
+            "@id": "123807975",
+            "affilname": "Parkinson's Disease and Movement Disorders Clinic",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/123807975",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Toronto",
+            "@id": "122864199",
+            "affilname": "Toronto Western Hospital\u2013University Health Network (UHN)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/122864199",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Como",
+            "@id": "112856667",
+            "affilname": "Moriggia-Pelascini Hospital - Gravedona ed Uniti",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112856667",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "106208652",
+            "affilname": "Academy of Science",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/106208652",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Alzheimer's Disease Cooperative Study",
+        "Angelini Pharmaceuticals, Horizon 2020",
+        "Biogen and Kyowa",
+        "Clintrex LLC",
+        "Everpharma",
+        "Felgenhauer Foundation",
+        "Herantis Pharma",
+        "IPMDS",
+        "National Medical Research Council, Singapore and The Michael J. Fox Foundation",
+        "Neuroderm, Neurocrine, Amneal, Acadia, Acorda, Bexion, Kyowa Kirin",
+        "U.S. Department of Veterans Affairs and Acadia Pharmaceuticals",
+        "USWorldMeds",
+        "National Institute on Health",
+        "Michael J. Fox Foundation",
+        "Roche",
+        "CHDI Foundation",
+        "Avion Pharmaceuticals",
+        "AbbVie",
+        "University of Pennsylvania",
+        "Cariparo Foundation",
+        "Movement Disorders Society",
+        "Boston Scientific",
+        "Japan Agency for Medical Research and Development",
+        "Sunovion",
+        "EU Horizon 2020 programme",
+        "Newton Fund",
+        "UCB",
+        "EU Joint Programme \u2013 Neurodegenerative Disease Research",
+        "Parkinson's Foundation",
+        "Acadia Pharmaceuticals",
+        "Acorda Therapeutics",
+        "Otsuka",
+        "Deutsche Forschungsgemeinschaft",
+        "Japan Society for the Promotion of Science",
+        "Japan Science and Technology Agency",
+        "German Ministry of Education and Research",
+        "Chulalongkorn University",
+        "Ministry of Education University and Research",
+        "Kyowa Kirin",
+        "National Science and Technology Development Agency",
+        "EU Horizon 2020",
+        "German Society of Neurology",
+        "University of Cologne",
+        "Lundbeck",
+        "Deutsche Parkinson Vereinigung"
+    ]
+}

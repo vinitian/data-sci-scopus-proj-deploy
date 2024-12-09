@@ -1,0 +1,133 @@
+{
+    "eid": "2-s2.0-85130511147",
+    "title": "Influence of copula approaches on reliability analysis of slope stability using random adaptive finite element limit analysis",
+    "cover-date": "2022-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computational Mechanics",
+            "@code": "2206",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geotechnical Engineering and Engineering Geology",
+            "@code": "1909",
+            "@abbrev": "EART"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanics of Materials",
+            "@code": "2211",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "adaptive meshing",
+        "copula function",
+        "finite element limit analysis",
+        "random field",
+        "slope stability",
+        "soil parameters"
+    ],
+    "authors": [
+        "Thanh Son Nguyen",
+        "Suched Likitlersuang",
+        "Weeradetch Tanapalungkorn",
+        "Trung Nghia Phan",
+        "Suraparb Keawsawasvong"
+    ],
+    "citedby-count": 8,
+    "ref-count": 63,
+    "ref-list": [
+        "Simulation of random fields via local average subdivision",
+        "Probabilistic infinite slope analysis",
+        "Probabilistic analysis of seepage that considers the spatial variability of permeability for an embankment on soil foundation",
+        "Slope reliability analysis considering spatially variable shear strength parameters using a non-intrusive stochastic finite element method. Engineering",
+        "Effects of the spatial variability of permeability on rainfall-induced landslides",
+        "Efficient reliability analysis of slopes integrating the random field method and a Gaussian process regression-based surrogate model",
+        "Probabilistic analysis of responses of cantilever wall-supported excavations in sands considering vertical spatial variability",
+        "Effect of spatial variability of soft clays on geotechnical design of braced excavations: a case study of Formosa excavation",
+        "System reliability analysis of soil nail wall using random finite element method",
+        "Influence of the spatial variability of soil shear strength on deep excavation: a case study of a Bangkok underground MRT station",
+        "System reliability analysis of soldier-piled excavation in unsaturated soil by combining random finite element and sequential compounding methods",
+        "Efficient reliability analysis of earth dam slope stability using extreme gradient boosting method",
+        "An adaptive high-dimensional model representation method for reliability analysis of geotechnical engineering problems",
+        "Time-dependent reliability analysis of unsaturated slopes under rapid drawdown with intelligent surrogate models",
+        "Probabilistic analysis of a discrete element modelling of the runout behavior of the Jiweishan landslide",
+        "Assessing annual probability of rainfall-induced slope failure through a mechanics-based model",
+        "Continuum hydrodynamics of dry granular flows employing multiplicative elastoplasticity",
+        "Simulation of debris flow on an instrumented test slope using an updated Lagrangian continuum particle method",
+        "SPH\u2013DEM coupling method based on GPU and its application to the landslide tsunami. Part II: reproduction of the Vajont landslide tsunami",
+        "Stiffness and strength parameters for hardening soil model of soft and stiff Bangkok clays",
+        "Geotechnical parameters from pressuremeter tests for MRT Blue Line Extension in Bangkok",
+        "Small strain stiffness and stiffness degradation curve of Bangkok Clays",
+        "Undrained strength-deformation characteristics of Bangkok Clay under general stress condition",
+        "A general framework for coupled hydro-mechanical modelling of rainfall-induced instability in unsaturated slopes with multivariate random fields",
+        "Reliability analysis of unsaturated soil slope stability under infiltration considering hydraulic and shear strength parameters",
+        "Impact of copula selection on geotechnical reliability under incomplete probability information",
+        "Bivariate distribution of shear strength parameters using copulas and its impact on geotechnical system reliability",
+        "Generation of multivariate cross-correlated geotechnical random fields",
+        "Subset simulation for efficient slope reliability analysis involving copula-based cross-correlated random fields",
+        "Upper bound limit analysis using discontinuous velocity fields",
+        "Geotechnical stability analysis",
+        "Design equation for stability of shallow unlined circular tunnels in Hoek-Brown rock masses",
+        "Limit analysis versus limit equilibrium for slope stability",
+        "Stability analysis of complex soil slopes using limit analysis",
+        "Slope stability analysis by means of finite element limit analysis and finite element strength reduction techniques. Part I: numerical studies considering non-associated plasticity",
+        "Comparison of finite-element limit analysis and strength reduction techniques",
+        "Three-dimensional slope stability assessment of two-layered undrained clay",
+        "Three-dimensional slope stability charts for frictional fill materials placed on purely cohesive clay",
+        "Probabilistic stability assessment using adaptive limit analysis and random fields",
+        "Undrained stability of a single circular tunnel in spatially variable soil subjected to surcharge loading",
+        "Stochastic analysis of dual tunnels in spatially random soil",
+        "Undrained stability analysis of strip footings lying on circular voids with spatially random soil",
+        "Reliability-based analysis of embankment on soft Bangkok clay",
+        "Finite element analysis of a deep excavation: a case study from the Bangkok MRT",
+        "Simplified finite-element modelling for tunnelling-induced settlements",
+        "Underground excavation behaviour in Bangkok using three-dimensional finite element method",
+        "Bivariate simulation using copula and its application to probabilistic pile settlement analysis",
+        "The role of copulas in random fields: characterization and application",
+        "On the need for dependence characterization in random fields: findings from cone penetration test (CPT) data",
+        "Pair-copula constructions of multiple dependence",
+        "Characterization of geotechnical variability",
+        "Modeling multivariate cross-correlated geotechnical random fields using vine copulas for slope reliability analysis",
+        "Undrained stability of an unlined square tunnel in spatially random soil",
+        "Probabilistic analysis of the bearing capacity of inclined loaded strip footings near cohesive slopes",
+        "Effect of element sizes in random field finite element simulations of soil shear strength",
+        "Numerical modelling of railway embankments for high-speed train constructed on soft soil",
+        "Probabilistic slope stability analysis by finite elements",
+        "Influence of heterogeneity on the reliability and failure of a long 3D slope",
+        "Effects of soil spatial variability on rainfall-induced landslides",
+        "Quantitative risk assessment of landslide by limit analysis and random fields"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60012521",
+            "affilname": "Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012521",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Ratchadapisek Sompoch Endowment Fund",
+        "Ratchadapisek Sompot Fund",
+        "Second Century Fund",
+        "Chulalongkorn University",
+        "National Research Council of Thailand"
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "eid": "2-s2.0-85064047467",
+    "title": "Hierarchical-p reference picture selection based error resilient video coding framework for high efficiency video coding transmission applications",
+    "cover-date": "2019-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Error propagation",
+        "Error resilient coding",
+        "HEVC",
+        "Reference picture selection",
+        "Video coding",
+        "Video communications",
+        "Wireless video transmission"
+    ],
+    "authors": [
+        "Htoo Maung Maung",
+        "Supavadee Aramvith",
+        "Yoshikazu Miyanaga"
+    ],
+    "citedby-count": 2,
+    "ref-count": 29,
+    "ref-list": [
+        "Overview of the high efficiency video coding (HEVC) standard",
+        "Evaluating HEVC video delivery in VANET scenarios",
+        "No-reference quality assessment of HEVC videos in loss-prone networks",
+        "The impact of network impairment on quality of experience (QoE) in H. 265/HEVC video streaming",
+        "Medical Video Coding Based on 2nd-Generation Wavelets: Performance Evaluation",
+        "Overview of the H. 264/AVC video coding standard",
+        "Feedback-based error control for mobile video transmission",
+        "Error resilient video coding by dynamic replacing of reference pictures",
+        "Proxy-based reference picture selection for error resilient conversational video in mobile networks",
+        "RTP/AVPF compliant feedback for error resilient video coding in conversational applications",
+        "System layer integration of high efficiency video coding",
+        "Overview of HEVC high-level syntax and reference picture management",
+        "H.264 hierarchical P coding in the context of ultra-low delay, low complexity applications",
+        "Region-of-interest based error resilient method for HEVC video transmission",
+        "Improve region-of-interest based rate control for error resilient HEVC framework",
+        "Error resilience aware rate control and mode selection for HEVC video transmission",
+        "Reference picture selection using checkerboard pattern for resilient video coding",
+        "The Gilbert-Elliott model for packet loss in real time services on the Internet",
+        "\u03bb Domain Rate Control Algorithm for High Efficiency Video Coding",
+        "A novel hybrid coarse-to-fine digital image stabilization algorithm",
+        "Region-based rate control for H. 264/AVC for low bit-rate applications",
+        "Image quality assessment: From error visibility to structural similarity",
+        "FSIM: A Feature Similarity Index for Image Quality Assessment"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Sapporo",
+            "@id": "60014652",
+            "affilname": "Hokkaido University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014652",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "JICA",
+        "Ministry of Internal Affairs and Communications"
+    ]
+}

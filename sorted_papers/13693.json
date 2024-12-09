@@ -1,0 +1,95 @@
+{
+    "eid": "2-s2.0-85086523717",
+    "title": "Nurse infected with Covid-19 from a provisional dengue patient",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Epidemiology",
+            "@code": "2713",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Parasitology",
+            "@code": "2405",
+            "@abbrev": "IMMU"
+        },
+        {
+            "@_fa": "true",
+            "$": "Microbiology",
+            "@code": "2404",
+            "@abbrev": "IMMU"
+        },
+        {
+            "@_fa": "true",
+            "$": "Immunology",
+            "@code": "2403",
+            "@abbrev": "IMMU"
+        },
+        {
+            "@_fa": "true",
+            "$": "Drug Discovery",
+            "@code": "3002",
+            "@abbrev": "PHAR"
+        },
+        {
+            "@_fa": "true",
+            "$": "Infectious Diseases",
+            "@code": "2725",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Virology",
+            "@code": "2406",
+            "@abbrev": "IMMU"
+        }
+    ],
+    "keywords": [
+        "Covid-19",
+        "dengue",
+        "nosocomial infection",
+        "personal protective equipment",
+        "SARS-CoV-2"
+    ],
+    "authors": [
+        "Wisit Prasitsirikul",
+        "Krit Pongpirul",
+        "Wannarat A. Pongpirul",
+        "Nayot Panitantum",
+        "Anuttra C. Ratnarathon",
+        "Thiravat Hemachudha"
+    ],
+    "citedby-count": 15,
+    "ref-count": 3,
+    "ref-list": [
+        "Protecting Chinese healthcare workers while combating the 2019 novel coronavirus",
+        "Clinical characteristics of coronavirus disease 2019 in China",
+        "Covert COVID-19 and false-positive dengue serology in Singapore"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Baltimore",
+            "@id": "60006183",
+            "affilname": "Johns Hopkins Bloomberg School of Public Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006183",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Nontaburi",
+            "@id": "106545448",
+            "affilname": "Bamrasnaradura Infectious Diseases Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/106545448",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

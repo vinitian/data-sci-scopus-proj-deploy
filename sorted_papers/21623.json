@@ -1,0 +1,75 @@
+{
+    "eid": "2-s2.0-85116495119",
+    "title": "Behavior of industrial building under seismic loading",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Environmental Engineering",
+            "@code": "2305",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Building and Construction",
+            "@code": "2215",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geotechnical Engineering and Engineering Geology",
+            "@code": "1909",
+            "@abbrev": "EART"
+        },
+        {
+            "@_fa": "true",
+            "$": "Soil Science",
+            "@code": "1111",
+            "@abbrev": "AGRI"
+        }
+    ],
+    "keywords": [
+        "Industrial factory",
+        "Nonlinear time history procedure",
+        "Reinforced concrete",
+        "Seismic behavior"
+    ],
+    "authors": [
+        "Nontawit Muangnoi",
+        "Piyawat Foytong",
+        "Apichat Janpila",
+        "Maetee Boonpichetvong",
+        "Natthapong Areemit",
+        "Tanyada Pannachet",
+        "Anat Ruangrassamee"
+    ],
+    "citedby-count": 0,
+    "ref-count": 11,
+    "ref-list": [
+        "Prestandard and Commentary for the Seismic Rehabilitation of Buildings",
+        "Flexural members with con\ufb01ned concrete",
+        "Stress-strain model for con\ufb01ned reinforced concrete in bridge piers",
+        "Method of analysis for cyclically loaded RC plane frames including changes in geometry and non-elastic behavior of elements under combined normal force and bending",
+        "Seismic performance of rectangular bridge columns with moderate con\ufb01nement",
+        "An experimental study on reinforced concrete partially infilled frames"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Khon Kaen",
+            "@id": "60017165",
+            "affilname": "Khon Kaen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017165",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Electricity Generating Authority of Thailand"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "eid": "2-s2.0-85122018071",
+    "title": "Accuracy assessment of integrated GNSS measurements with LIDAR mobile mapping data in urban environments",
+    "cover-date": "2021-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanics of Materials",
+            "@code": "2211",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "GNSS kinematic positioning",
+        "GNSS/INS/DMI/TLS integration",
+        "Height aiding measurement",
+        "LIDAR mobile mapping system"
+    ],
+    "authors": [
+        "Chanachon Paijitprapaporn",
+        "Thayathip Thongtan",
+        "Chalermchon Satirapod"
+    ],
+    "citedby-count": 2,
+    "ref-count": 7,
+    "ref-list": [
+        "Surveying",
+        "GNSS observation data",
+        "GNSS/INS integration",
+        "Development of Precise Geoid Model of Thailand",
+        "Principles of GNSS, Inertial and Multisensor Integrated Navigation Systems",
+        "Attitude determination"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "113295996",
+            "affilname": "National Institute of Metrology (Thailand)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/113295996",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

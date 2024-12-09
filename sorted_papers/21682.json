@@ -1,0 +1,65 @@
+{
+    "eid": "2-s2.0-85093115355",
+    "title": "Automatic Requirements Elicitation from Social Media (ARESM)",
+    "cover-date": "2020-08-12",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Facebook",
+        "Machine Learning",
+        "Requirements Elicitation",
+        "Social Media",
+        "Text Classification",
+        "Twitter API"
+    ],
+    "authors": [
+        "Natthaphon Kengphanphanit",
+        "Pornsiri Muenchaisri"
+    ],
+    "citedby-count": 3,
+    "ref-count": 22,
+    "ref-list": [
+        "App store mining is not enough",
+        "Personality classification based on twitter text using na\u00efve bayes, knn and SVM",
+        "A little bird told me: Mining tweets for requirements and software evolution",
+        "Exploring and learning suicidal ideation connotations on social media with deep learning",
+        "Kafka: The modern platform for data management and analysis in big data domain",
+        "A novel web scraping approach using the additional information obtained from web pages",
+        "Implementation of a finite state automaton to recognize and remove stop words in english text on its retrieval",
+        "Automatically classifying functional and non-functional requirement using supervised machine learning",
+        "Supporting joint application development (jad) and electronic meeting systems: Moving the case concept into new areas of software development",
+        "Smote-out, smote-cosine, and selected-smote: An enhancement strategy to handle imbalance in data level"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

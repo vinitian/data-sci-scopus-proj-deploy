@@ -1,0 +1,116 @@
+{
+    "eid": "2-s2.0-85105118017",
+    "title": "Mathematical Model to Study Vanadium Ion Crossover in an All-Vanadium Redox Flow Battery",
+    "cover-date": "2021-04-19",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Chemistry (all)",
+            "@code": "1600",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Environmental Chemistry",
+            "@code": "2304",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Chemical Engineering (all)",
+            "@code": "1500",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        }
+    ],
+    "keywords": [
+        "All-vanadium redox flow battery",
+        "Coulombic efficiency",
+        "Overpotential",
+        "Porous electrode",
+        "Potential distribution",
+        "Vanadium ion crossover"
+    ],
+    "authors": [
+        "Yi Sin Chou",
+        "Shi Chern Yen",
+        "Amornchai Arpornwichanop",
+        "Bhupendra Singh",
+        "Yong Song Chen"
+    ],
+    "citedby-count": 15,
+    "ref-count": 30,
+    "ref-list": [
+        "High current polarization tests on a 9 kW vanadium redox flow battery",
+        "Impact of nanofluidic electrolyte on the energy storage capacity in vanadium redox flow battery",
+        "Improved broad temperature adaptability and energy density of vanadium redox flow battery based on sulfate-chloride mixed acid by optimizing the concentration of electrolyte",
+        "Novel polyolefin based alkaline polymer electrolyte membrane for vanadium redox flow batteries",
+        "The importance of key operational variables and electrolyte monitoring to the performance of an all vanadium redox flow battery",
+        "Thermal modeling of industrial-scale vanadium redox flow batteries in high-current operations",
+        "Modeling of ion transport through a porous separator in vanadium redox flow batteries",
+        "Graphite felt as a versatile electrode material: Properties, reaction environment, performance and applications",
+        "The continued development of reticulated vitreous carbon as a versatile electrode material: Structure, properties and applications",
+        "3D-printed porous electrodes for advanced electrochemical flow reactors: A Ni/stainless steel electrode and its mass transport characteristics",
+        "A numerical study of electrode thickness and porosity effects in all vanadium redox flow batteries",
+        "A dynamic performance model for redox-flow batteries involving soluble species",
+        "On the quantification of coulombic efficiency for vanadium redox flow batteries: Cutoff voltages vs. state-of-charge limits",
+        "Effects of the electric field on ion crossover in vanadium redox flow batteries",
+        "Towards uniform distributions of reactants via the aligned electrode design for vanadium redox flow batteries",
+        "Optimal design of current collectors for microfluidic fuel cell with flow-through porous electrodes: Model and experiment",
+        "A simple model for the vanadium redox battery",
+        "A Dynamic Unit Cell Model for the All-Vanadium Flow Battery",
+        "Dynamic model of a vanadium redox flow battery for system performance control",
+        "A transient vanadium flow battery model incorporating vanadium crossover and water transport through the membrane",
+        "Ion effects on vanadium transport in nafion membranes for vanadium redox flow batteries",
+        "Modeling of ion crossover in vanadium redox flow batteries: A computationally-efficient lumped parameter approach for extended cycling",
+        "Self-assembled polyelectrolyte multilayer modified Nafion membrane with suppressed vanadium ion crossover for vanadium redox flow batteries",
+        "Electrical transport of sulphuric acid in nation perfluorosulphonic membranes",
+        "Ion and solvent transport in ion-exchange membranes: I. a macrohomogeneous mathematical model",
+        "Energy efficiency analysis for a kilo-watt class vanadium redox flow battery system",
+        "Experimental determination of the effective electrolyte conductivity in porous lead electrodes in the lead-acid battery",
+        "Electron-transfer kinetics of Np3+/Np4+, NpO2+/NpO22+, V2+/V3+, and VO2+/VO2+at carbon electrodes",
+        "Characterization and electrochemical properties of graphite felt-based electrode modified using an ionomer impregnation approach for vanadium redox flow battery",
+        "A novel ultrasonic velocity sensing approach to monitoring state of charge of vanadium redox flow battery"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Longtan",
+            "@id": "60032186",
+            "affilname": "Institute of Nuclear Energy Research Taiwan",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032186",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Min-Hsiung",
+            "@id": "60007954",
+            "affilname": "National Chung Cheng University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007954",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Taipei",
+            "@id": "60005429",
+            "affilname": "National Taiwan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005429",
+            "affiliation-country": "Taiwan"
+        }
+    ],
+    "funding": [
+        "Ministry of Ministry of Science and Technology",
+        "Bureau of Energy",
+        "MOST",
+        "Ministry of Economic Affairs"
+    ]
+}

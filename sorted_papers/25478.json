@@ -1,0 +1,90 @@
+{
+    "eid": "2-s2.0-85061600349",
+    "title": "Single observation adaptive search for continuous simulation optimization",
+    "cover-date": "2018-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Management Science and Operations Research",
+            "@code": "1803",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "Adaptive search",
+        "Martingale processes",
+        "Simulation optimization"
+    ],
+    "authors": [
+        "Seksan Kiatsupaibul",
+        "Robert L. Smith",
+        "Zelda B. Zabinsky"
+    ],
+    "citedby-count": 6,
+    "ref-count": 37,
+    "ref-list": [
+        "A numerical evaluation of several stochastic algorithms on selected continuous global optimization test problems",
+        "Adaptive random search for continuous simulation optimization",
+        "Metamodel-based simulation optimization",
+        "Stochastic approximation",
+        "An overview of stochastic approximation",
+        "Adaptive search with stochastic acceptance probabilities for global optimization",
+        "Variable-sample methods for stochastic optimization",
+        "A model reference adaptive search algorithm for global optimization",
+        "Model-based annealing random search with stochastic averaging",
+        "Improving hit-and-run with single observations for continuous simulation optimization",
+        "A guide to sample average approximation",
+        "The sample average approximation method for stochastic discrete optimization",
+        "A computational comparison of simulation optimization methods using single observations within a shrinking ball on noisy black-box functions with mixed integer and continuous domains",
+        "Multi-objective interacting particle algorithm for global optimization",
+        "The interacting-particle algorithm with dynamic heating and cooling",
+        "Meta-control of an interacting-particle algorithm",
+        "On choosing parameters in retrospective-approximation algorithms for stochastic root finding and simulation optimization",
+        "Simulation optimization: A concise overview and implementation guide",
+        "Kriging-based simulation-optimization: A stochastic recursion perspective",
+        "A stochastic approximation method",
+        "Simulated annealing and adaptive search in global optimization",
+        "Nested partitions method for global optimization",
+        "Nested partitions method for stochastic optimization",
+        "Efficient Monte Carlo procedures for generating points uniformly distributed over bounded regions",
+        "Global stochastic optimization with low-dispersion point sets",
+        "Stochastic search methods for global optimization",
+        "Hit-and-run methods",
+        "Improving hit-and-run for global optimization",
+        "Simulation optimization via gradient-based stochastic search"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ann Arbor",
+            "@id": "60025778",
+            "affilname": "University of Michigan, Ann Arbor",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025778",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Seattle",
+            "@id": "60015481",
+            "affilname": "University of Washington",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015481",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "National Science Foundation",
+        "Chulalongkorn University",
+        "National Science Foundation"
+    ]
+}

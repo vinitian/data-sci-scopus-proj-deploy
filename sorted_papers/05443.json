@@ -1,0 +1,66 @@
+{
+    "eid": "2-s2.0-85069780451",
+    "title": "Short-Term Load Forecast for Energy Management System Using Neural Networks with Mutual Information Method of Input Selection",
+    "cover-date": "2019-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "artificial neural network",
+        "energy management systems",
+        "features selection",
+        "microgrid",
+        "mutual information",
+        "recurrent neural network",
+        "short-term load forecast"
+    ],
+    "authors": [
+        "Tanwalai Panapongpakorn",
+        "David Banjerdpongchai"
+    ],
+    "citedby-count": 3,
+    "ref-count": 9,
+    "ref-list": [
+        "Microgrids and distributed generation",
+        "Smart energy management system for optimal microgrid economic operation",
+        "Short-term load forecast for energy management systems using time series analysis and neural network method with average true range",
+        "Feature selection using joint mutual information maximisation",
+        "Hybrid artificial neural network models for effective prediction and mitigation of urban roadside NO2 pollution",
+        "Input feature selection by mutual information based on Parzen window",
+        "Using mutual information for selecting features in supervised neural net learning",
+        "Normalized mutual information feature selection"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

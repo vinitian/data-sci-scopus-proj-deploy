@@ -1,0 +1,155 @@
+{
+    "eid": "2-s2.0-85099562394",
+    "title": "Robust hamiltonian energy control based on lyapunov function for four-phase parallel fuel cell boost converter for DC microgrid applications",
+    "cover-date": "2021-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        }
+    ],
+    "keywords": [
+        "Constant power load (CPL)",
+        "electric vehicle",
+        "fuel cell (FC)",
+        "interconnection and damping-assignment-passivity-based controller (IDA-PBC)",
+        "Lyapunov function",
+        "microgrid",
+        "multiphase interleaved step-up converter",
+        "port-Hamiltonian (pH)"
+    ],
+    "authors": [
+        "Phatiphat Thounthong",
+        "Pongsiri Mungporn",
+        "Serge Pierfederici",
+        "Damien Guilbert",
+        "Noureddine Takorabet",
+        "Babak Nahid-Mobarakeh",
+        "Yihua Hu",
+        "Nicu Bizon",
+        "Yigeng Huangfu",
+        "Poom Kumam",
+        "Piyabut Burikham"
+    ],
+    "citedby-count": 11,
+    "ref-count": 45,
+    "ref-list": [
+        "Anadaptive state machine based energy management strategy for a multi-stack fuel cell hybrid electric vehicle",
+        "Comparative study of energy management strategies for hybrid proton exchange membrane fuel cell four wheel drive electric vehicle",
+        "Recent coyote algorithmbased energy management strategy for enhancing fuel economy of hybrid FC/battery/SC system",
+        "Efficient operation of the hybrid power system using an optimal fueling strategy and control of the fuel cell power based on the required power tracking algorithm",
+        "Model-Free control of multiphase interleaved boost converter for fuel cell/reformer power generation",
+        "Differential flatness-based energy/ current cascade control for multiphase interleaved boost fuel cell converter",
+        "Adaptive control of fuel cell converter based on a new hamiltonian energy function for stabilizing the DC bus in DC microgrid applications",
+        "Robust nonlinear control for boost converter",
+        "Analysis and control of a buck DC-DC converter operating with constant power load in sea and undersea vehicles",
+        "Optimal design of a DC-DC boost converter in load transient conditions, including control strategy and stability constraint",
+        "Afrequency-dependent virtual impedance for voltage-regulating converters feeding constant power loads in a DC microgrid",
+        "Constant power loads and negative impedance instability in automotive systems: Definition, modeling, stability, and control of power electronic converters and motor drives",
+        "Active damping in DC/DC power electronic converters: A novel method to overcome the problems of constant power loads",
+        "A virtual negative inductor stabilizing strategy forDCmicrogrid with constant power loads",
+        "Study of hamiltonian energy control of multiphase interleaved fuel cell boost converter",
+        "Constant power load stabilization in DC microgrid systems using passivity-based control with nonlinear disturbance observer",
+        "A nonlinear supplementary controller for transient response improvement of distributed generations in micro-grids",
+        "Stability improvement of cascaded power conversion systems based on Hamiltonian energy control theory",
+        "A nonlinear controller design for power conversion units in islanded micro-grids using interconnection and damping assignment tracking control",
+        "Design and implementation of adaptive energy shaping control for DC-DC converters with constant power loads",
+        "Modeling and control of multiphase interleaved fuelcell boost converter based on hamiltonian control theory for transportation applications",
+        "Integral control of porthamiltonian systems: Nonpassive outputs without coordinate transformation",
+        "Interconnection and damping assignment passivitybased control applied to on-board DC-DC power converter system supplying constant power load",
+        "Experimental validation of a sampled-data passivitybased controller for coordination of converters in a fuel cell system",
+        "Port controlled hamiltonian modeling and IDAPBC control of dual active bridge converters for DC microgrids",
+        "Passivity-based control of switched reluctance-based wind system supplying constant power load",
+        "Control for EESS in three-phase microgrids under time-domain reference frame via PBC theory",
+        "Advanced robustness control of DC-DC converter for proton exchange membrane fuel cell applications",
+        "Stability analysis and active stabilization of on-board DC power converter system with input filter",
+        "Model based control of battery/supercapacitor hybrid source formodern e-Vehicle",
+        "Differential flatness-based control of current/voltage stabilization for a single-phase PFC with multiphase interleaved boost converters",
+        "Differential flatness-based cascade energy/current control of battery/supercapacitor hybrid source for modern e-Vehicle applications",
+        "Design and control of multiphase interleaved boost converters-based on differential flatness theory for PEM fuel cell multistack applications",
+        "Exergy optimal multiphysics aircraftmicrogrid control architecture",
+        "A multiport power conversion system for the more electric aircraft",
+        "A dual-channel-enhanced power generation architecture with back-to-back converter for MEA application",
+        "On the decentralized energy management strategy for the all-electric APU of future more electric aircraft composed of multiple fuel cells and supercapacitors",
+        "Differential flatness based-control strategy of a two-port bidirectional supercapacitor converter for hydrogen mobility applications",
+        "A comprehensive analysis for high-power density, highefficiency 60 kW interleaved boost converter design for electrified powertrains",
+        "A reconfigurable on-board power converter for electric vehicle with reduced switch count",
+        "Design and control of permanent magnet assisted synchronous reluctance motor with copper loss minimization using MTPA",
+        "Hybrid control scheme for anaerobic digestion in a CSTR-UASB reactor system",
+        "Reconfigurable and flexible voltage control strategy using smart PV inverters with integrated energy storage for advanced distribution systems",
+        "Input-output linearizing control of strong Acid-base neutralization processwith fluctuation in feed pH",
+        "Permanent magnet synchronous motor dynamic modeling with state Observer-based parameter estimation for AC servomotor drive application"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Vandoeouvre-les-Nancy",
+            "@id": "60138529",
+            "affilname": "Groupe de Recherche en Energie Electrique de Nancy (GREEN)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60138529",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Hamilton",
+            "@id": "60106385",
+            "affilname": "McMaster University, Faculty of Engineering",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60106385",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Nancy",
+            "@id": "60104289",
+            "affilname": "Universit\u00e9 de Lorraine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104289",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Pitesti",
+            "@id": "60030217",
+            "affilname": "Universitatea din Pitesti",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030217",
+            "affiliation-country": "Romania"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "York",
+            "@id": "60016418",
+            "affilname": "University of York",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016418",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Thonburi",
+            "@id": "60008786",
+            "affilname": "King Mongkut's University of Technology Thonburi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008786",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Xi'an",
+            "@id": "60003977",
+            "affilname": "Northwestern Polytechnical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003977",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": [
+        "Electrical Engineering Thai-French Research Center",
+        "Uni-versit\u00e9 de Lorraine",
+        "King Mongkut\u2019s University of Technology North Bangkok"
+    ]
+}

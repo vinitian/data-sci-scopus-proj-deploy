@@ -1,0 +1,107 @@
+{
+    "eid": "2-s2.0-85102806396",
+    "title": "Stroke screening feature selection for arm weakness using a mobile application",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Arm weakness",
+        "Curl-up",
+        "FAST",
+        "Handcrafted features",
+        "Raise-up",
+        "Stroke screening"
+    ],
+    "authors": [
+        "Phongphan Phienphanich",
+        "Nattakit Tankongchamruskul",
+        "Wasan Akarathanawat",
+        "Aurauma Chutinet",
+        "Rossukon Nimnual",
+        "Charturong Tantibundhit",
+        "Nijasri Charnnarong Suwanwela"
+    ],
+    "citedby-count": 4,
+    "ref-count": 36,
+    "ref-list": [
+        "Stroke: A global response is needed",
+        "Mechanisms of ischemic brain damage",
+        "Classification of subtype of acute ischemic stroke. Definitions for use in a multicenter clinical trial. Toast. Trial of org 10172 in acute stroke Treatment",
+        "Public perception of stroke warning signs and knowledge of potential risk factors",
+        "Rapid ambulance protocol for acute stroke",
+        "BE-FAST (balance, eyes, face, arm, speech, time): Reducing the proportion of strokes missed using the FAST mnemonic",
+        "Clinical signs in young patients with stroke related to FAST: Results of the sifap1 study",
+        "Identification of stroke during the emergency call: A descriptive study of callers' presentation of stroke",
+        "Design and validation of a prehospital stroke scale to predict large arterial occlusion: The rapid arterial occlusion evaluation scale",
+        "Cincinnati prehospital stroke scale: Reproducibility and validity",
+        "Emergency medical services dispatcher identification of stroke and transient ischemic attack",
+        "Automated embolic signal detection using adaptive gain control and classification using ANFIS",
+        "Automated embolic signal detection using deep convolutional neural network",
+        "Automated cerebral emboli detection using adaptive threshold and adaptive neuro-fuzzy inference system",
+        "A polynomial based algorithm for detection of embolism",
+        "The FASt-ED app: A smartphone platform for the field triage of patients with stroke",
+        "Facilitating stroke management using modern information technology",
+        "Direct measurement of human movement by accelerometry",
+        "Muscle strength testing using wearable wireless sensors",
+        "Micromachined inertial sensors",
+        "Feature selection for wearable smartphone-based human activity recognition with able bodied, elderly, and stroke patients",
+        "Power control algorithms for media transmission in remote healthcare systems",
+        "A joint deep learning and Internet of medical things driven framework for elderly patients",
+        "A multi-sensor data fusion enabled ensemble approach for medical data from body sensor networks",
+        "Automatic stroke screening on mobile application: Features of gyroscope and accelerometer for arm factor in FAST",
+        "Acute stroke diagnosis",
+        "Implementing positioning algorithms using accelerometers",
+        "Acceleration, velocity and displacement spectra-Omega arithmetic",
+        "Implementing a tilt-compensated ecompass using accelerometer and magnetometer sensors",
+        "Functional limb weakness and paralysis",
+        "Spas-ticity, weakness, force variability, and sustained spontaneous motor unit discharges of resting spastic-paretic biceps brachii muscles in chronic stroke",
+        "Improvement of dynamic respiration monitoring through sensor fusion of accelerometer and gyro-sensor",
+        "A feature selection method based on information gain and genetic algorithm",
+        "The WEKA data mining software: An update"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60012521",
+            "affilname": "Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012521",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "101730219",
+            "affilname": "Ruamrudee International School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101730219",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Thailand Research Fund",
+        "Thammasat University"
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "eid": "2-s2.0-85132979032",
+    "title": "Assessment of Riverbank Erosion Hotspots along the Mekong River in Cambodia Using Remote Sensing and Hazard Exposure Mapping",
+    "cover-date": "2022-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Geography, Planning and Development",
+            "@code": "3305",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Aquatic Science",
+            "@code": "1104",
+            "@abbrev": "AGRI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Water Science and Technology",
+            "@code": "2312",
+            "@abbrev": "ENVI"
+        }
+    ],
+    "keywords": [
+        "Google Earth Engine",
+        "Landsat",
+        "Mekong River",
+        "riverbank erosion",
+        "Sentinel-2"
+    ],
+    "authors": [
+        "Theara Tha",
+        "Thanapon Piman",
+        "Dhyey Bhatpuria",
+        "Piyatida Ruangrassamee"
+    ],
+    "citedby-count": 10,
+    "ref-count": 88,
+    "ref-list": [
+        "Riverbank changes along the Mekong River: Remote sensing detection in the Vientiane\u2013Nong Khai area",
+        "Impact of River Bank Erosion on Mental Health and Coping Capacity in Bangladesh",
+        "Adaptation to river bank erosion induced displacement in Koyra Upazila of Bangladesh",
+        "River bank erosion induced human displacement and its consequences",
+        "Cause\u2013effect\u2013response chains linking source identification of eroded sediments, loss of aquatic ecosystem integrity and management options in a steppe river catchment (Kharaa, Mongolia)",
+        "Bank erosion in the Mekong River Basin: Is Bank Erosion In My Town Caused by the activities of my neighbours?",
+        "The Council Study: Study on the sustainable Management and Development of the Mekong River, Including Impacts of Mainstream Hydropower Projects",
+        "River bank instability from unsustainable sand mining in the lower Mekong River",
+        "Sand mining in the Mekong Delta revisited-current scales of local sediment deficits",
+        "Streambank erosion rates and loads within a single watershed: Bridging the gap between temporal and spatial scales",
+        "Coupling channel evolution monitoring and RFID tracking in a large, wandering, gravel-bed river: Insights into sediment routing on geomorphic continuity through a riffle\u2013pool sequence",
+        "Morphological change assessment from intertidal to river-dominated zones using multiple-satellite imagery: A case study of the Vietnamese Mekong Delta",
+        "Change detection of land use and riverbank in Mekong Delta, Vietnam using time series remotely sensed data",
+        "Monitoring riverbank erosion in mountain catchments using terrestrial laser scanning",
+        "Monitoring river channel dynamics using remote sensing and GIS techniques",
+        "River bank erosion hazard study of river Ganga, upstream of Farakka barrage using remote sensing and GIS",
+        "Monitoring river morphology & bank erosion using UAV imagery\u2013A case study of the river Bu\u00ebch, Hautes-Alpes, France",
+        "Quantifying streambank erosion using unmanned aerial systems at site-specific and river network scales",
+        "Spatial and temporal variability of bank erosion during the period 1930\u20132016: Case Study\u2014Kolubara River Basin (Serbia)",
+        "Multitemporal monitoring of the morphodynamics of a mid-mountain stream using UAS photogrammetry",
+        "A deep learning approach on building detection from unmanned aerial vehicle-based images in riverbank monitoring",
+        "Airborne laser scanning for riverbank erosion assessment",
+        "Mapping and monitoring erosion-accretion in an alluvial river using satellite imagery\u2013the river bank changes of the Padma river in Bangladesh",
+        "A Novel Method for River Bank Detection from Landsat Satellite Data: A Case Study in the Vietnamese Mekong Delta",
+        "Bank erosion and accretion along the Ningxia\u2013Inner Mongolia reaches of the Yellow River from 1958 to 2008",
+        "Rapid detection of changes in the riverbanks of Laigiang river of the South Central Coast Vietnam: A methodology based on Digital Shoreline Analysis System and Sentinel-2",
+        "Near infrared band of Landsat 8 as water index: A case study around Cordova and Lapu-Lapu City, Cebu, Philippines",
+        "Utilization of satellite data for inventorying prairie ponds and lakes",
+        "The use of the Normalized Difference Water Index (NDWI) in the delineation of open water features",
+        "Modification of normalised difference water index (NDWI) to enhance open water features in remotely sensed imagery",
+        "MSResNet: Multiscale Residual Network via Self-Supervised Learning for Water-Body Detection in Remote Sensing Imagery",
+        "Extraction of urban water bodies from high-resolution remote-sensing imagery using deep learning",
+        "Object-based water body extraction model using Sentinel-2 satellite imagery",
+        "Combining pixel-and object-based machine learning for identification of water-body types from urban high-resolution remote-sensing imagery",
+        "Small Water Body Detection and Water Quality Variations with Changing Human Activity Intensity in Wuhan",
+        "Water body extraction from very high spatial resolution remote sensing data based on fully convolutional networks",
+        "Water identification from high-resolution remote sensing images based on multidimensional densely connected convolutional neural networks",
+        "A deep learning method of water body extraction from high resolution remote sensing images with multisensors",
+        "Fine-Grained Tidal Flat Waterbody Extraction Method (FYOLOv3) for High-Resolution Remote Sensing Images",
+        "Seeing through the clouds with deepwatermap",
+        "Water body extraction from very high-resolution remote sensing imagery using deep U-Net and a superpixel-based conditional random field model",
+        "Detecting water bodies in landsat8 oli image using deep learning",
+        "Towards Synoptic Water Monitoring Systems: A Review of AI Methods for Automating Water Body Detection and Water Quality Monitoring Using Remote Sensing",
+        "Comparative Analysis of Machine Learning Algorithms in Automatic Identification and Extraction of Water Boundaries",
+        "Reappraisal of sediment dynamics in the Lower Mekong River, Cambodia",
+        "Future changes in Mekong River hydrology: Impact of climate change and reservoir operation on discharge",
+        "The Mekong River: Morphology, evolution, management",
+        "The Mekong from satellite imagery: A quick look at a large river",
+        "The geology of the lower Mekong River",
+        "The geomorphological characteristics of the Mekong River in northern Cambodia: A mixed bedrock\u2013alluvial multi-channel network",
+        "Using local knowledge to inventory deep pools, important fish habitats in Cambodia",
+        "Observed and projected changes in temperature and rainfall in Cambodia",
+        "Water bodies\u2019 mapping from Sentinel-2 imagery with modified normalized difference water index at 10-m spatial resolution produced by sharpening the SWIR band",
+        "Water body extraction and change detection using time series: A case study of Lake Burdur, Turkey",
+        "Floodplain mapping through support vector machine and optical/infrared images from Landsat 8 OLI/TIRS sensors: Case study from Varanasi",
+        "A comparison of land surface water mapping using the normalized difference water index from TM, ETM+ and ALI",
+        "Detecting, extracting, and monitoring surface water from space using optical sensors: A review",
+        "Comparison of surface water extraction performances of different classic water indices using OLI and TM imageries in different situations",
+        "Assessment of surface water Dynamicsin Bangalore using WRI, NDWI, MNDWI, supervised classification and KT transformation",
+        "Combining multi-sensor satellite imagery to improve long-term monitoring of temporary surface water bodies in the Senegal river floodplain",
+        "Consistency of suspended particulate matter concentration in turbid water retrieved from Sentinel-2 MSI and Landsat-8 OLI sensors",
+        "Comparative evaluation of the spectral and spatial consistency of Sentinel-2 and Landsat-8 OLI data for Igneada longos forest",
+        "Sentinel-2/Landsat-8 product consistency and implications for monitoring aquatic systems",
+        "Comparing Sentinel-2A and Landsat 7 and 8 using surface reflectance over Australia",
+        "Evaluation of the consistency of simultaneously acquired Sentinel-2 and Landsat 8 imagery on plastic covered greenhouses",
+        "Landsat: Yesterday, today, and tomorrow",
+        "Free access to Landsat imagery",
+        "The next Landsat satellite: The Landsat data continuity mission",
+        "Landsat: Building a strong future",
+        "Landsat-8: Science and product vision for terrestrial global change research",
+        "Sentinel-2: ESA's optical high-resolution mission for GMES operational services",
+        "Copernicus Sentinel-2 calibration and validation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Stockholm",
+            "@id": "60015157",
+            "affilname": "Stockholm Environment Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015157",
+            "affiliation-country": "Sweden"
+        }
+    ],
+    "funding": [
+        "Stockholm Environment Institute for Doctoral Scholarship",
+        "Chulalongkorn University"
+    ]
+}

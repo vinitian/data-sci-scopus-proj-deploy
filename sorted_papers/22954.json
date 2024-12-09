@@ -1,0 +1,101 @@
+{
+    "eid": "2-s2.0-85111252287",
+    "title": "Patient dosimetry of 177Lu-PSMA I&T in metastatic prostate cancer treatment: the experience in Thailand",
+    "cover-date": "2021-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "177Lu-PSMA I&T",
+        "MIRD scheme",
+        "Radionuclide therapy",
+        "Theranostics"
+    ],
+    "authors": [
+        "Kotchakorn Chatachot",
+        "Shuichi Shiratori",
+        "Tawatchai Chaiwatanarat",
+        "Kitiwat Khamwan"
+    ],
+    "citedby-count": 4,
+    "ref-count": 38,
+    "ref-list": [
+        "Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries",
+        "EAU-ESTRO-SIOG guidelines on prostate cancer. Part 1: screening, diagnosis, and local treatment with curative intent",
+        "Prostate cancer imaging with novel PET tracers",
+        "Theranostic concepts: more than just a fashion trend\u2014introduction and overview",
+        "Theranostics in nuclear medicine: emerging and Re-emerging Integrated Imaging and Therapies in the Era of Precision Oncology",
+        "The use of molecular volumetric parameters for the evaluation of Lu-177 PSMA I&T therapy response and survival",
+        "Radiation exposure after177Lu-DOTATATE and177Lu-PSMA-617 therapy",
+        "The rise of PSMA ligands for diagnosis and therapy of prostate cancer",
+        "Biodistribution and radiation dosimetry for a probe targeting prostate-specific membrane antigen for imaging and therapy",
+        "Radiation dosimetry of68Ga-PSMA-11 (HBED-CC) and preliminary evaluation of optimal imaging timing",
+        "Radiopharmaceutical therapy in cancer: clinical advances and challenges",
+        "MIRD pamphlet no. 21: a generalized schema for radiopharmaceutical dosimetry\u2014standardization of nomenclature",
+        "Individualized dosimetry of kidney and bone marrow in patients undergoing177Lu-DOTA-octreotate treatment",
+        "Nephrotoxicity after PRRT with177Lu-DOTA-octreotate",
+        "MIRD pamphlet no 26: joint EANM/MIRD guidelines for quantitative 177Lu SPECT applied for dosimetry of radiopharmaceutical therapy",
+        "Bone marrow absorbed doses and correlations with hematologic response during177Lu-DOTATATE treatments are influenced by image-based dosimetry method and presence of skeletal metastases",
+        "OsiriX: an open-source software for navigating in multidimensional DICOM images",
+        "Methods for quantitating radioactivity, in vivo",
+        "In vivo quantitation of lesion radioactivity using external counting methods",
+        "The UF family of reference hybrid phantoms for computational radiation dosimetry",
+        "RADAR reference adult, pediatric, and pregnant female phantom series for internal and external dosimetry",
+        "RADAR dose estimate report: a compendium of radiopharmaceutical dose estimates based on OLINDA/EXM version 20",
+        "Basic anatomical and physiological data for use in radiological protection: reference values: ICRP Publication 89",
+        "Lacrimal glands may represent organs at risk for radionuclide therapy of prostate cancer with [177Lu] DKFZ-PSMA-617",
+        "A novel planar image-based method for bone marrow dosimetry in177Lu-DOTATATE treatment correlates with haematological toxicity",
+        "Response of the normal eye to high dose radiotherapy",
+        "Influence of the radiation dose to salivary glands on xerostomia in patients with head and neck carcinomas",
+        "Radiation dosimetry for177Lu-PSMA I&T in metastatic castration-resistant prostate cancer: absorbed dose in normal organs and tumor lesions",
+        "OLINDA/EXM: the second-generation personal computer software for internal dose assessment in nuclear medicine",
+        "Dosimetry for177Lu-DKFZ-PSMA-617: a new radiopharmaceutical for the treatment of metastatic prostate cancer",
+        "Factors affecting accuracy of S values and determination of time-integrated activity in clinical Lu-177 dosimetry",
+        "Dosimetry of177Lu-PSMA-617 in metastatic castration-resistant prostate cancer: correlations between pretherapeutic imaging and whole-body tumor dosimetry with treatment outcomes",
+        "Examining absorbed doses of indigenously developed177Lu-PSMA-617 in metastatic castration-resistant prostate cancer patients at baseline and during course of peptide receptor radioligand therapy",
+        "An exponential growth of computational phantom research in radiation protection, imaging, and radiotherapy: a review of the fifty-year history",
+        "A stylized computational model of the head for the reference Japanese male",
+        "Photon SAF calculation based on the Chinese mathematical phantom and comparison with the ORNL phantoms",
+        "NURBS-based 3-D anthropomorphic computational phantoms for radiation dosimetry applications",
+        "68Ga-and177Lu-labeled PSMA I&T: optimization of a PSMA-targeted theranostic concept and first proof-of-concept human studies"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199575",
+            "affilname": "Siriraj Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199575",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Phisanulok",
+            "@id": "60011546",
+            "affilname": "Buddhachinaraj Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011546",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "King Chulalongkorn Memorial Hospital",
+        "Chulalongkorn University"
+    ]
+}

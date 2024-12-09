@@ -1,0 +1,63 @@
+{
+    "eid": "2-s2.0-85096320017",
+    "title": "Toward U-Net-based GANs for Diverse Facial Image Synthesis from Sketch",
+    "cover-date": "2020-01-14",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "facial attribute editing",
+        "GANs",
+        "Generative Adversarial Networks",
+        "image synthesis",
+        "sketch-to-image translation",
+        "U-Net"
+    ],
+    "authors": [
+        "Warintorn Phusomsai",
+        "Yachai Limpiyakorn"
+    ],
+    "citedby-count": 1,
+    "ref-count": 15,
+    "ref-list": [
+        "Towards realistic face photo-sketch synthesis via composition-Aided gans",
+        "Facial synthesis from visual attributes via sketch using multiscale generators",
+        "Gp-gan: Gender preserving gan for synthesizing faces from landmarks",
+        "Z. Mu-gan: Facial attribute editing based on multi-Attention mechanism. (jun 2020)",
+        "Attgan: Facial attribute editing by only changing what you want",
+        "Facial attribute-controlled sketch-to-image translation with generative adversarial networks",
+        "Resattr-gan: Unpaired deep residual attributes learning for multi-domain face image translation",
+        "Adversarially regularized u-net-based gans for facial attribute modification and generation"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

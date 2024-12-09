@@ -1,0 +1,112 @@
+{
+    "eid": "2-s2.0-85146645683",
+    "title": "Energy Production Analysis of Rooftop PV Systems Equipped with Module-Level Power Electronics under Partial Shading Conditions Based on Mixed-Effects Model",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Building and Construction",
+            "@code": "2215",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Fuel Technology",
+            "@code": "2103",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (miscellaneous)",
+            "@code": "2201",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy (miscellaneous)",
+            "@code": "2101",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "DC optimizer",
+        "fixed effect",
+        "microinverter",
+        "mixed-effects model (MEM)",
+        "partial shading conditions (PSC)",
+        "random effect"
+    ],
+    "authors": [
+        "Ngoc Thien Le",
+        "Thanh Le Truong",
+        "Widhyakorn Asdornwised",
+        "Surachai Chaitusaney",
+        "Watit Benjapolakul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 38,
+    "ref-list": [
+        "The impact of shading in the performance of three different solar PV systems",
+        "Different Techniques to Mitigate Partial Shading in Photovoltaic Panels",
+        "An experimental validation of the effect of partial shade on the I-V characteristic of PV panel",
+        "PV energy extraction characteristic study under shading conditions for different converter configurations",
+        "Simulation, validation and analysis of shading effects on a PV system",
+        "Energy improvements from subpanel DC-DC converters in PV arrays with distributed mismatch",
+        "Modular Level Power Electronics (MLPE) Based Distributed PV System for Partial Shaded Conditions",
+        "Novel Maximum-Power-Point Tracking Algorithm For Grid-Connected Photovoltaic System",
+        "Comparative study and performance evaluation of central and distributed topologies of photovoltaic system",
+        "Outdoor characterization and comparison of string and MLPE under clear and partially shaded conditions",
+        "A Time-Series Data Analysis Methodology for Effective Monitoring of Partially Shaded Photovoltaic Systems",
+        "Analysis of the influence of DC optimizers on photovoltaic production",
+        "Critical evaluation and review of partial shading mitigation methods for grid-connected PV system using hardware solutions: The module-level and array-level approaches",
+        "Modeling and Energy Generation Evaluations of Large-Scale Photovoltaic Plants Equipped With Panel-Level DC Optimizers",
+        "Partial-Shading Assessment of Photovoltaic Installations via Module-Level Monitoring",
+        "Estimating electricity impact profiles for building characteristics using smart meter data and mixed models",
+        "Analysis and short-term predictions of non-technical loss of electric power based on mixed effects models",
+        "Student\u2019s t-Test",
+        "Comparative Electrical Energy Yield Performance of Micro-Inverter PV Systems Using a Machine Learning Approach Based on a Mixed-Effect Model of Real Datasets",
+        "Application of The Mixed Effects Model for Analyzing Photovoltaic Datasets and Interpreting Into Meaningful Insights",
+        "Mixed-Effects Models in S and S-PLUS",
+        "Robust mixed effects model for clustered failure time data: Application to Huntington\u2019s disease event measures",
+        "Robustness of linear mixed-effects models to violations of distributional assumptions",
+        "Robustness of the linear mixed effects model to error distribution assumptions and the consequences for genome-wide association studies",
+        "Levelized cost of electricity for solar photovoltaic and electrical energy storage",
+        "Levelized cost of electricity for solar photovoltaic, battery and cogen hybrid systems",
+        "Quantitative analysis of the levelized cost of electricity of commercial scale photovoltaics systems in the US"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Thailand Science Research and Innovation Fund Chulalongkorn University",
+        "Chulalongkorn University"
+    ]
+}

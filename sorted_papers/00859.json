@@ -1,0 +1,62 @@
+{
+    "eid": "2-s2.0-85082508161",
+    "title": "Extracting structured data from unstructured text using conditional random field and jaccard similarity",
+    "cover-date": "2019-12-20",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Conditional Random Fields",
+        "Jaccard Similarity",
+        "Natural Language Processing",
+        "Text Similarity",
+        "Unstructured Text"
+    ],
+    "authors": [
+        "Sarun Wiriyapistan",
+        "Sukree Sinthupinyo"
+    ],
+    "citedby-count": 0,
+    "ref-count": 8,
+    "ref-list": [
+        "Mining documents in a small enterprise using wordstat",
+        "Conditional random fields: Probabilisticmode1s for segmenting and labeling sequence data[C]",
+        "Efficient, feature-based, conditional random field parsing",
+        "Speech recognition using augmented conditional random fields",
+        "A Graph-based Approach to Named Entity Categorization in Wikipedia Using Conditional Random Fields",
+        "Discriminative word alignment with conditional random fields",
+        "The application of CRFs in part-of-speech tagging",
+        "Part of speech tagging for Twitter conversations using Conditional Random Fields model"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

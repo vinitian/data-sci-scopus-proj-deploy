@@ -1,0 +1,55 @@
+{
+    "eid": "2-s2.0-85121788603",
+    "title": "Imaging improvement in angle-domain common-image-gathers by a local stack utilizing segmentation method",
+    "cover-date": "2018-08-27",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Geotechnical Engineering and Engineering Geology",
+            "@code": "1909",
+            "@abbrev": "EART"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geophysics",
+            "@code": "1908",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Pongthep Thongsang",
+        "Hao Hu",
+        "August Lau",
+        "Hua Wei Zhou"
+    ],
+    "citedby-count": 0,
+    "ref-count": 6,
+    "ref-list": [
+        "Cellular automata for edge detection of images",
+        "Non-local means filter for trim statics",
+        "Relaxed flatness-constraint of angle-domain-common-image-gathers generating by Poynting vectors via concurrent vector-median-filter",
+        "Warping for trim statics",
+        "Improving the stacking quality of angle-domain common-image gathers based on local warping and simulated annealing"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Houston",
+            "@id": "60005837",
+            "affilname": "University of Houston",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005837",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "PTTEP",
+        "Chulalongkorn University"
+    ]
+}

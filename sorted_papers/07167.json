@@ -1,0 +1,67 @@
+{
+    "eid": "2-s2.0-85080035196",
+    "title": "A Novel Iterative Method for Automatic Avian Red Blood Cell Counting",
+    "cover-date": "2019-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biomedical Engineering",
+            "@code": "2204",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "avian hematology",
+        "digital image processing",
+        "red blood cell count"
+    ],
+    "authors": [
+        "Tanapat Autaiem",
+        "Supatana Auethavekiat",
+        "Vera Sa-Ing",
+        "Khajornpong Nakgoi",
+        "Noppadol Prasertsincharoen",
+        "Peera Arreesnsom"
+    ],
+    "citedby-count": 1,
+    "ref-count": 7,
+    "ref-list": [
+        "Thailand poultry and products annual 2018",
+        "Development algorithm to count blood cells in urine sediment using ANN and Hough Transform",
+        "Microscopic image analysis and counting of red blood cells and white blood cells in a urine sample",
+        "Complete blood cell count in psittaciformes by using high-throughput image cytometry: A pilot study",
+        "Mizutama: A quick, easy, and accurate method for counting erythrocytes",
+        "A threshold selection method from gray-level histograms"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60021944",
+            "affilname": "Kasetsart University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021944",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "60015265",
+            "affilname": "Thailand Ministry of Agriculture and Cooperatives",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015265",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60000316",
+            "affilname": "Srinakharinwirot University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000316",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

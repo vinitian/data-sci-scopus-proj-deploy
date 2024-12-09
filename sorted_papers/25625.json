@@ -1,0 +1,130 @@
+{
+    "eid": "2-s2.0-85098671768",
+    "title": "A GUI based Self-learning Tool for Polar Codes using Successive Cancellation and List Decoders",
+    "cover-date": "2020-11-04",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Media Technology",
+            "@code": "2214",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "5G",
+        "Channel combining",
+        "Channel splitting",
+        "GUI",
+        "Polar codes",
+        "SC decoder",
+        "SCL decoder"
+    ],
+    "authors": [
+        "Rafee Al Ahsan",
+        "Sunita Khichar",
+        "Watid Phakphisut",
+        "Lunchakorn Wuttisittikulkij",
+        "Audsadang Ngamjob",
+        "Pruk Sasithong",
+        "Ambar Bajpai",
+        "Muhammad Saadi",
+        "Amir Parnianifard",
+        "Irfan Ullah",
+        "May Pyone Han",
+        "Wai Phyo",
+        "Pisit Vanichchanunt"
+    ],
+    "citedby-count": 2,
+    "ref-count": 16,
+    "ref-list": [
+        "Secure indoor traffic modeling in long-term evolution femtocell networks using efficient Markov decision process",
+        "Visible light communication-An architectural perspective on the applications and data rate improvement strategies",
+        "Channel polarization: A Method for Constructing Capacity-Achieving Codes for Symmetric Binary-Input Memoryless Channels",
+        "Implementation of Novel Fractional Powered Binomial Filter (FPBF) in 5G-UFMC",
+        "On the rate of channel polarization",
+        "Design of Polar Codes in 5G New Radio",
+        "An overview of channel coding for 5G NR cellular communications",
+        "Learning Polar Codes using Python Program with Graphical User Interface",
+        "Fast and Flexible Successive-Cancellation List Decoders for Polar Codes",
+        "Coding Techniques for 5G Networks: A Review",
+        "A Simplified Successive-Cancellation Decoder for Polar Codes",
+        "An Improvement of Modified Successive-Cancellation Decoder for Polar Codes",
+        "List decoding of polar codes",
+        "Hardware Decoders for Polar Codes: An Overview",
+        "LLR-Based Successive Cancellation List Decoding of Polar Codes"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bengaluru",
+            "@id": "60250860",
+            "affilname": "Atria Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60250860",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Lahore",
+            "@id": "60103839",
+            "affilname": "University of Central Punjab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103839",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ladkrabang Bangkok",
+            "@id": "60021543",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021543",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

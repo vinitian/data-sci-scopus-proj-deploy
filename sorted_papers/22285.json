@@ -1,0 +1,148 @@
+{
+    "eid": "2-s2.0-85040658275",
+    "title": "A Trichosporonales genome tree based on 27 haploid and three evolutionarily conserved \u2018natural\u2019 hybrid genomes",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biotechnology",
+            "@code": "1305",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Bioengineering",
+            "@code": "1502",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Microbiology and Biotechnology",
+            "@code": "2402",
+            "@abbrev": "IMMU"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [
+        "backbone tree based on genome data",
+        "Cutaneotrichosporon (Trichosporon) mucoides",
+        "interspecies hybrid genome",
+        "Trichosporon coremiiforme",
+        "Trichosporon ovoides"
+    ],
+    "authors": [
+        "Masako Takashima",
+        "Sira Sriswasdi",
+        "Ri Ichiroh Manabe",
+        "Moriya Ohkuma",
+        "Takashi Sugita",
+        "Wataru Iwasaki"
+    ],
+    "citedby-count": 19,
+    "ref-count": 48,
+    "ref-list": [
+        "Automatic clustering of orthologs and inparalogs shared by multiple proteomes",
+        "SPAdes: a new genome assembly algorithm and its applications to single-cell sequencing",
+        "Scaffolding pre-assembled contigs using SSPACE",
+        "Draft genome sequence of the causative antigen of summer-type hypersensitivity pneumonitis, Trichosporon domesticum JCM 9580",
+        "Genome variation in Cryptococcus gattii, an emerging pathogen of immunocompetent hosts",
+        "MUSCLE: multiple sequence alignment with high accuracy and high throughput",
+        "Evolutionary genomics of yeast pathogens in the Saccharomycotina",
+        "Domestication and divergence of Saccharomyces cerevisiae beer yeasts",
+        "High-quality draft assemblies of mammalian genomes from massively parallel sequence data",
+        "Distinct domestication trajectories in top-fermenting beer yeasts and wine yeasts",
+        "Recognition of seven species in the Cryptococcus gattii/Cryptococcus neoformans species complex",
+        "Speciation driven by hybridization and chromosomal plasticity in a wild yeast",
+        "NextClip: an analysis and read preparation tool for Nextera long mate air libraries",
+        "Serotype AD strains of Cryptococcus neoformans are diploid or aneuploid and are heterozygous at the mating-type locus",
+        "Genetic diversity and genomic plasticity of Cryptococcus neoformans AD hybrid strains",
+        "Towards an integrated phylogenetic classification of the Tremellomycetes",
+        "Phylogeny of tremellomycetous yeasts and related dimorphic and filamentous basidiomycetes reconstructed from multiple gene sequence analyses",
+        "Pichia sorbitophila, an interspecies yeast hybrid, reveals early steps of genome resolution after polyploidization",
+        "Differential retention and divergent resolution of duplicate genes following whole-genome duplication",
+        "Trichosporon guehoae sp. nov., an anamorphic basidiomycetous yeast",
+        "The genome sequence of the highly acetic acid-tolerant Zygosaccharomyces bailii-derived interspecies hybrid strain ISA1307, isolated from a sparkling wine plant",
+        "Genome sequence of the lager brewing yeast, an interspecies hybrid",
+        "Characterization of Saccharomyces uvarum (Beijerinck, 1898) and related hybrids: assessment of molecular markers that predict the parent and hybrid genomes and a proposal to name yeast hybrids",
+        "An improved approach to mate-paired library preparation for Illumina sequencing",
+        "Assessing the gene space in draft genomes",
+        "On the complexity of the Saccharomyces bayanus taxon: hybridization and potential hybrid speciation",
+        "Hybridization and adaptive evolution of diverse Saccharomyces species for cellulosic biofuel production",
+        "FastTree 2-approximately maximum-likelihood trees for large alignments",
+        "Genome comparison of Candida orthopsilosis clinical strains reveals the existence of hybrids between two distinct subspecies",
+        "Rapid preparation of DNA from filamentous fungi",
+        "Automatic clustering of orthologs and in-paralogs from pairwise species comparisons",
+        "Novel information theory-based measures for quantifying incongruence among phylogenetic trees",
+        "Acquisition of aneuploidy provides increased fitness during the evolution of antifungal drug resistance",
+        "Reconstructing the backbone of the Saccharomycotina yeast phylogeny using genome-scale data",
+        "Global deceleration of gene evolution following recent genome hybridizations in fungi",
+        "RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies",
+        "Using native and syntenically mapped cDNA alignments to improve de novo gene finding",
+        "Fusion of two divergent fungal individuals led to the recent emergence of a unique widespread pathogen species",
+        "Trichosporon Behrend (1890)",
+        "Chromosomal rearrangements between serotype A and D strains in Cryptococcus neoformans",
+        "Selection of orthologous genes for construction of a highly resolved phylogenetic tree and clarification of the phylogeny of Trichosporonales species",
+        "Preservation of a pseudogene by gene conversion and diversifying selection",
+        "MEGA6: Molecular Evolutionary Genetics Analysis version 6.0",
+        "Gene prediction in novel fungal genomes using an ab initio algorithm with unsupervised training",
+        "A yeast hybrid provides insight into the evolution of gene expression regulation",
+        "Molecular evidence for an ancient duplication of the entire yeast genome",
+        "Multiple origins of hybrid strains of Cryptococcus neoformans with serotype AD",
+        "Draft genome sequence of CBS 2479, the standard type strain of Trichosporon asahii"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025272",
+            "affilname": "The University of Tokyo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025272",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Tsukuba",
+            "@id": "60211264",
+            "affilname": "Riken BRC Microbe Division (JCM)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60211264",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Kiyose",
+            "@id": "60025065",
+            "affilname": "Meiji Pharmaceutical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025065",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Wako",
+            "@id": "60016648",
+            "affilname": "Riken",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016648",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Genome Information Upgrading Program",
+        "Institute for Fermentation, Osaka",
+        "Japanese Society for the Promotion of Science",
+        "MEXT",
+        "RIKEN"
+    ]
+}

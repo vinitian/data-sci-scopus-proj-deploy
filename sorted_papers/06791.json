@@ -1,0 +1,121 @@
+{
+    "eid": "2-s2.0-85165264508",
+    "title": "Simulation using representative data selection for transboundary radiation effect evaluation by Nuclear Accident Consequence Analysis Code (NACAC)",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Nuclear and High Energy Physics",
+            "@code": "3106",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Nuclear Energy and Engineering",
+            "@code": "2104",
+            "@abbrev": "ENER"
+        }
+    ],
+    "keywords": [
+        "atmospheric dispersion",
+        "meteorological data selection",
+        "Radiation consequence evaluation"
+    ],
+    "authors": [
+        "Narakhan Khunsrimek",
+        "Wasin Vechgama",
+        "Kampanart Silva",
+        "Somboon Rassame",
+        "Takashi Hibiki"
+    ],
+    "citedby-count": 0,
+    "ref-count": 71,
+    "ref-list": [
+        "Atmospheric transport of 131I and 137Cs from Fukushima by the East Asian northeast monsoon",
+        "The Chernobyl nuclear accident 137Cs cumulative depositions simulated by means of the CALMET/CALPUFF modelling system",
+        "Ten Years after the NPP accident at Fukushima: review on fuel debris behavior in contact with water",
+        "Dynamic probabilistic risk assessment of seismic-induced flooding in pressurized water reactor by seismic, flooding, and thermal-hydraulics simulations",
+        "Quantitative visualization of a radioactive plume with harmonizing gamma-ray imaging spectrometry and real-time atmospheric dispersion simulation based on 3D wind observation",
+        "Application of Bayesian machine learning for estimation of uncertainty in forecasted plume directions by atmospheric dispersion simulations",
+        "Radio-tellurium released into the environment during the complete oxidation of fuel cladding, containment venting and reactor building failure of the Fukushima accident",
+        "Radiation imaging using an integrated radiation imaging system based on a compact Compton camera under unit 1/2 exhaust stack of Fukushima Daiichi nuclear power station",
+        "A review of efforts for volume reduction of contaminated soil in the ten years after the accident at the Fukushima Daiichi nuclear power plant",
+        "Comprehensive health risk management after the Fukushima nuclear power plant accident",
+        "Atmospheric dispersion modeling and radiological safety assessment for expected operation of Baiji nuclear power plant potential site",
+        "Atmospheric dispersion modeling and radiological environmental impact assessment for normal operation of a proposed pressurized water reactor in the eastern coast of Saudi Arabia",
+        "Radiation dose consequences of postulated limiting accidents in small modular reactors to inform emergency planning zone size requirements",
+        "Dispersion and ground deposition of radioactive material according to airflow patterns for enhancing the preparedness to N/R emergencies",
+        "Reevaluation of the emergency planning zone for nuclear power plants in Taiwan using MACCS2 code",
+        "A study on annual atmospheric dispersion factors between continuous and purge releases of gaseous radioactive effluents",
+        "Simulation and dose analysis of a hypothetical accident in Sanmen nuclear power plant",
+        "Emergency preparedness for the accidental release of radionuclides from the Uljin nuclear power plant in Korea",
+        "Simulation of potential formation of atmospheric pollution from aboveground storage tank leakage after severe storms",
+        "Consequences for Norway from a hypothetical accident at the Sellafield reprocessing plant: Atmospheric transport of radionuclides",
+        "Nuclear accident consequence assessment in Hong Kong using JRODOS",
+        "Investigating the recurrence of meteorological hazards",
+        "Consequences of selecting different subsets of meteorological data to utilize in deterministic safety analysis",
+        "Analysis for relocation strategy using the method of probabilistic accident consequence assessment",
+        "Consideration of change over time in nuclear accident consequence assessment to support optimization of long-term remediation strategy",
+        "Verification of the NACAC atmospheric dispersion calculation using a hypothetical accident in a neighboring nuclear power plant",
+        "Determination of emergency planning zones distances and scaling-based comparison criteria for downsized Nuclear Power Plants",
+        "Risk and regulatory considerations for small modular reactor emergency planning zones based on passive decontamination potential",
+        "Environmental impact on the Korean peninsula due to hypothetical accidental scenarios at the Haiyang nuclear power plant in China",
+        "Dispersion characteristics of radioactive materials estimated by wind patterns",
+        "Sensitivity of the modelled deposition of Caesium-137 from the Fukushima Dai-ichi nuclear power plant to the wet deposition parameterisation in NAME",
+        "Sensitivity analysis of atmospheric dispersion simulations by FLEXPART to the WRF-Simulated meteorological predictions in a coastal environment",
+        "A review of numerical models to predict the atmospheric dispersion of radionuclides",
+        "Mesoscale modelling of radioactive contamination formation in Ukraine caused by the Chernobyl accident",
+        "Xenon-133 and caesium-137 releases into the atmosphere from the Fukushima Dai-ichi nuclear power plant: determination of the source term, atmospheric dispersion, and deposition",
+        "The environmental effects of the April 2020 wildfires and the Cs-137 re-suspension in the Chernobyl exclusion zone: a multi-hazard threat",
+        "Atmospheric dispersion modeling and radiological safety analysis for a hypothetical accident of Ghana Research Reactor-1 (GHARR-1)",
+        "Derivation of the gaussian plume model",
+        "Technical note: The Lagrangian particle dispersion model FLEXPART version 6.2",
+        "Evaluation of the precautionary action zone using a probabilistic consequence analysis",
+        "Probabilistic risk assessment from potential exposures to the public applied for innovative nuclear installations",
+        "Characteristics of regional scale atmospheric dispersion around Ki-Jang research reactor using the Lagrangian Gaussian puff dispersion model",
+        "Radioactive impact on Iran and the world from a postulated accident at Bushehr nuclear power plant",
+        "Cost per severe accident as an index for severe accident consequence assessment and its applications",
+        "UFOMOD-atmospheric dispersion and deposition",
+        "Uncertainty and sensitivity studies with the probabilistic accident consequence assessment code OSCAAR",
+        "Model testing using data on 131I released from Hanford",
+        "Model testing using data on 137Cs from Chernobyl fallout in the Iput River catchment area of Russia",
+        "1990 recommendations of the international commission on radiological protection: ICRP publication 60, Pergamon press, 1991",
+        "Inter-comparison of transboundary atmospheric dispersion calculations: A summary of outputs from the ASEAN NPSR benchmark exercise",
+        "Manual of surface weather observation standards",
+        "ICRP publication 103"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60250877",
+            "affilname": "Thailand National Energy Technology Center (ENTEC)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60250877",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "60013983",
+            "affilname": "City University of Hong Kong",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013983",
+            "affiliation-country": "Hong Kong"
+        },
+        {
+            "affiliation-city": "Nakhon Nayok",
+            "@id": "112865691",
+            "affilname": "Thailand Institute of Nuclear Technology (Public Organization)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112865691",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "National Research Council of Thailand",
+        "Thailand Institute of Nuclear Technology"
+    ]
+}

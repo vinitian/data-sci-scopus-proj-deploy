@@ -1,0 +1,193 @@
+{
+    "eid": "2-s2.0-85167502905",
+    "title": "Cyber Security and 5G-assisted Industrial Internet of Things using Novel Artificial Adaption based Evolutionary Algorithm",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Artificial intelligence algorithm",
+        "Industrial internet of things",
+        "Optimization",
+        "Quality of services",
+        "Security"
+    ],
+    "authors": [
+        "Shailendra Pratap Singh",
+        "Giuseppe Piras",
+        "Wattana Viriyasitavat",
+        "Elham Kariri",
+        "Kusum Yadav",
+        "Gaurav Dhiman",
+        "S. Vimal",
+        "Surbhi B. Khan"
+    ],
+    "citedby-count": 0,
+    "ref-count": 57,
+    "ref-list": [
+        "DMDE: Diversity-maintained multi-trial vector differential evolution algorithm for non-decomposition large-scale global optimization",
+        "A differential evolution with adaptive neighborhood mutation and local search for multi-modal optimization",
+        "Dynamic multi-objective evolutionary algorithm for IoT services",
+        "Homeostasis Mutation Based Differential Evolution Algorithm",
+        "Multi-objective differential evolution with ranking-based mutation operator and its application in chemical process optimization",
+        "Differential Evolution Based Feature Selection: A Niching-based Multi-objective Approach",
+        "Two-stage differential evolution with novel parameter control",
+        "Pareto Based Differential Evolution with Homeostasis Based Mutation",
+        "Not guaranteeing convergence of differential evolution on a class of multimodal functions",
+        "Whale Optimization Algorithm With Applications to Resource Allocation in Wireless Networks",
+        "Improved based Differential Evolution Algorithm using New Environment Adaption Operator",
+        "Tari A \"Flexible, \"QoS-aware services composition for service computing environments",
+        "A survey study on Internet of things resource management",
+        "Toward dynamic resources management for IoT-basedmanufacturing",
+        "Biologically inspired resource allocation for network slices in 5G-enabled internet of things",
+        "Service popularity-based smart resources partitioning for fog computing-enabled industrial Internet of things",
+        "A data-emergency-aware scheduling scheme for internet of things in smart cities",
+        "A novel PSO algorithm for dynamic wireless sensor network multiobjective optimization problem",
+        "Brief Survey on Attack Detection Methods for Cyber-Physical Systems",
+        "A Hybrid Optimized Weighted Minimum Spanning Tree for the Shortest Intrapath Selection in Wireless Sensor Network",
+        "The Internet of Everything: Smart things and their impact on business models",
+        "Differential evolution using homeostasis adaption based mutation operator and its application for software cost estimation",
+        "On Vulnerability and Resilience of Cyber-Physical Power Systems: A Review",
+        "Modified particle swarm algorithm for scheduling agricultural products",
+        "Multi-Objective Whale Optimization Algorithm for Computation Offloading Optimization in Mobile Edge Computing",
+        "A hybrid genetic-firefly algorithm for engineering design problems",
+        "Industry 4.0 Implementation Challenges and Opportunities: A Technological Perspective",
+        "A Proxy Re-Encryption Approach to Secure Data Sharing in the Internet of Things Based on Blockchain",
+        "IoT Network Traffic Classification Using Machine Learning Algorithms: An Experimental Analysis",
+        "IoT-Proctor: A Secure and Lightweight Device Patching Framework for Mitigating Malware Spread in IoT Networks",
+        "A Lightweight ECC-Based Authentication Scheme for Internet of Things (IoT)",
+        "Multi-Robot Exploration Based on Multi-Objective Grey Wolf Optimizer",
+        "Accurate and compact convolutional neural network based on stochastic computing",
+        "Noisy output based direct learning tracking control with markov nonuniform trial lengths using adaptive gains",
+        "A Probabilistically Quantized Learning Control Framework for Networked Linear Systems",
+        "A proportional-derivative-double derivative controller for robot manipulators",
+        "Iterative learning control: practical implementation and automation",
+        ") On demand fog federations for horizontal federated learning in IoV",
+        "Gaze Prediction Based on Convolutional Neural Network",
+        "Automated Diagnosis of Acne and Rosacea using Convolution Neural Networks",
+        "Attack-Specific Feature Selection for Anomaly Detection in Software-Defined Networks",
+        "Artificial intelligence-based digital transformation for sustainable societies: The prevailing effect of COVID-19 crises",
+        "Swarm intelligence-based hyper-heuristic for the vehicle routing problem with prioritized customers",
+        "Stable federated fog formation: An evolutionary game theoretical approach",
+        "Optimizing Information Freshness for MEC-Enabled Cooperative Autonomous Driving",
+        "A smart green house control and management system using iot",
+        "An improved construction approach using ant colony optimization for solving the dynamic facility layout problem",
+        "Demand-driven deep reinforcement learning for scalable fog and service placement",
+        "Solving the multiple level warehouse layout problem using ant colony optimization",
+        "Locally adaptive statistical background modeling with deep learning-based false positive rejection for defect detection in semiconductor units",
+        "Age of information aware trajectory planning of UAVs in intelligent transportation systems: A deep learning approach",
+        "Ad hoc vehicular fog enabling cooperative low-latency intrusion detection",
+        "FedMCCS: Multicriteria client selection model for optimal IoT federated learning",
+        "A survey on federated learning: The journey from centralized to distributed on-site learning and beyond"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Patiala",
+            "@id": "60276078",
+            "affilname": "Government Bikram College of Commerce",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60276078",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199583",
+            "affilname": "Chulalongkorn Business School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199583",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Greater Noida",
+            "@id": "60121496",
+            "affilname": "Bennett University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60121496",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Rajapalayam",
+            "@id": "60114916",
+            "affilname": "Ramco Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60114916",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Mohali",
+            "@id": "60111704",
+            "affilname": "Chandigarh University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60111704",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Hail",
+            "@id": "60104671",
+            "affilname": "University of Ha'il",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104671",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Dehradun",
+            "@id": "60103785",
+            "affilname": "Graphic Era Deemed to be University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103785",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Phagwara",
+            "@id": "60094571",
+            "affilname": "Lovely Professional University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60094571",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Beirut",
+            "@id": "60068769",
+            "affilname": "Lebanese American University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60068769",
+            "affiliation-country": "Lebanon"
+        },
+        {
+            "affiliation-city": "Rome",
+            "@id": "60032350",
+            "affilname": "Sapienza Universit\u00e0 di Roma",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032350",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Salford",
+            "@id": "60008250",
+            "affilname": "University of Salford",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008250",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Al Kharj",
+            "@id": "124372557",
+            "affilname": "PrinceSattam Bin Abdulaziz University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/124372557",
+            "affiliation-country": "Saudi Arabia"
+        }
+    ],
+    "funding": []
+}

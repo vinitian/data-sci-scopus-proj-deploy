@@ -1,0 +1,99 @@
+{
+    "eid": "2-s2.0-85148993859",
+    "title": "Strategic Cross-Border Capacity Planning Under Uncertainty",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Aerospace Engineering",
+            "@code": "2202",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geography, Planning and Development",
+            "@code": "3305",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Transportation",
+            "@code": "3313",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Communication",
+            "@code": "3315",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "capacity ordering policies",
+        "cross-border capacity provision",
+        "decomposition methods",
+        "integer programming applications"
+    ],
+    "authors": [
+        "Stefano Starita",
+        "Radosav Jovanovic",
+        "Nikola Ivanov",
+        "Arne K. Strauss",
+        "Frank Fichert"
+    ],
+    "citedby-count": 0,
+    "ref-count": 16,
+    "ref-list": [
+        "Air traffic control capacity planning under demand and capacity provision uncertainty",
+        "A proposal for the future architecture of the european airspace",
+        "Synchronization of traffic flow and sector opening for collaborative demand and capacity balancing",
+        "The newsvendor problem: Review and directions for future research",
+        "Annex 5: ACC traffic forecast and capacity plans"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60138776",
+            "affilname": "Sasin School of Management, Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60138776",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Belgrade",
+            "@id": "60068815",
+            "affilname": "University of Belgrade",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60068815",
+            "affiliation-country": "Serbia"
+        },
+        {
+            "affiliation-city": "Worms",
+            "@id": "60029327",
+            "affilname": "Fachhochschule Worms",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029327",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Vallendar",
+            "@id": "60012481",
+            "affilname": "WHU - Otto Beisheim School of Management",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012481",
+            "affiliation-country": "Germany"
+        }
+    ],
+    "funding": [
+        "EU's Horizon 2020 research and innovation programme",
+        "EU\u2019s Horizon 2020 research and innovation programme"
+    ]
+}

@@ -1,0 +1,210 @@
+{
+    "eid": "2-s2.0-85073694205",
+    "title": "Southeast Asian Pharmacogenomics Research Network (SEAPharm): Current Status and Perspectives",
+    "cover-date": "2019-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Public Health, Environmental and Occupational Health",
+            "@code": "2739",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics (clinical)",
+            "@code": "2716",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Drug-induced liver injury",
+        "Pharmacogenomics",
+        "Southeast Asia",
+        "Stevens-Johnson syndrome",
+        "Toxic epidermal necrolysis"
+    ],
+    "authors": [
+        "Supatat Chumnumwat",
+        "Zen Huat Lu",
+        "Chonlaphat Sukasem",
+        "Michael David Winther",
+        "Francis R. Capule",
+        "Asma A.tiyah Abdul Hamid",
+        "Bibek Bhandari",
+        "Usa Chaikledkaew",
+        "Noppadol Chanhom",
+        "Soranun Chantarangsu",
+        "Angkana Charoenyingwattana",
+        "Tong Thi Hang",
+        "Tin Maung Hlaing",
+        "Kyaw Soe Htun",
+        "Jiraphun Jittikoon",
+        "Ly Le",
+        "Surakameth Mahasirimongkol",
+        "Dzul Azri Mohamed Noor",
+        "Jesus Shrestha",
+        "Lakkana Suwannoi",
+        "Pramote Tragulpiankit",
+        "Saowalak Turongkaravee",
+        "Sukanya Wattanapokayakit",
+        "Phonepadith Xangsayarath",
+        "Rika Yuliwulandari",
+        "Shamsul Mohd Zain",
+        "Wasun Chantratita"
+    ],
+    "citedby-count": 17,
+    "ref-count": 16,
+    "ref-list": [
+        "Implementation of inpatient models of pharmacogenetics programs",
+        "Implementing pharmacogenomics at your institution: Establishment and overcoming implementation challenges",
+        "The Pharmacogenomics research network translational pharmacogenetics program: Overcoming challenges of real-world implementation",
+        "New pharmacogenomics research network: An open community catalyzing research and translation in precision medicine",
+        "The IGNITE network: A model for genomic medicine implementation and research",
+        "GSTP1 rs1695 is associated with both hematological toxicity and prognosis of ovarian cancer treated with paclitaxel plus carboplatin combination chemotherapy: A comprehensive analysis using targeted resequencing of 100 pharmacogenes",
+        "A European spectrum of pharmacogenomic biomarkers: Implications for clinical pharmacogenomics",
+        "Implementing pharmacogenomics in Europe: Design and implementation strategy of the ubiquitous pharmacogenomics consortium",
+        "Pharmacogenetics and ethnicity: Relevance for clinical implementation, clinical trials, pharmacovigilance and drug regulation in Latin America",
+        "1000 Genomes project",
+        "Personalized medicine and genomics: Challenges and opportunities in assessing effectiveness, cost-effectiveness, and future research priorities",
+        "Educational strategies to enable expansion of pharmacogenomics-based care",
+        "Clinical implementation of pharmacogenomics for personalized precision medicine: Barriers and solutions"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199578",
+            "affilname": "Ramathibodi Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199578",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60012718",
+            "affilname": "Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012718",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Central Jakarta",
+            "@id": "60121697",
+            "affilname": "YARSI University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60121697",
+            "affiliation-country": "Indonesia"
+        },
+        {
+            "affiliation-city": "Minden",
+            "@id": "60120552",
+            "affilname": "School of Pharmaceutical Sciences, Universiti Sains Malaysia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60120552",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60104479",
+            "affilname": "International University,Vietnam National University Ho Chi Minh City",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104479",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Bandar Seri Begawan",
+            "@id": "60072089",
+            "affilname": "Universiti Brunei Darussalam",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60072089",
+            "affiliation-country": "Brunei Darussalam"
+        },
+        {
+            "affiliation-city": "Kathmandu",
+            "@id": "60071826",
+            "affilname": "Kathmandu Medical College",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071826",
+            "affiliation-country": "Nepal"
+        },
+        {
+            "affiliation-city": "Manila",
+            "@id": "60071495",
+            "affilname": "University of the Philippines Manila",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071495",
+            "affiliation-country": "Philippines"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60031198",
+            "affilname": "A-Star, Genome Institute of Singapore",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031198",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Kuala Lumpur",
+            "@id": "60029157",
+            "affilname": "Universiti Malaya",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029157",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60017161",
+            "affilname": "National University of Singapore",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017161",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Nontaburi",
+            "@id": "60015728",
+            "affilname": "Thailand Ministry of Public Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015728",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hanoi",
+            "@id": "123339749",
+            "affilname": "Vingroup Big Data Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/123339749",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "118307944",
+            "affilname": "Defence Services Medical Research Centre (DSMRC)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/118307944",
+            "affiliation-country": "Myanmar"
+        },
+        {
+            "affiliation-city": "Vientiane",
+            "@id": "101616734",
+            "affilname": "National Center for Laboratory and Epidemiology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101616734",
+            "affiliation-country": "Laos"
+        },
+        {
+            "affiliation-city": "Bandar Seri Begawan",
+            "@id": "101184684",
+            "affilname": "Ministry of Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101184684",
+            "affiliation-country": "Brunei Darussalam"
+        }
+    ],
+    "funding": [
+        "Agency for Science, Technology and Research, Singapore, Singapore",
+        "International University",
+        "National University of Singapore, Singapore, Singapore",
+        "Vietnam National University",
+        "City",
+        "Ministry of Health",
+        "dGenome Institute of Singapore, Agency for Science, Technology and Research",
+        "Chulalongkorn University",
+        "Mahidol University",
+        "University of Malaya",
+        "Ministry of Public Health",
+        "Pharmaceutical Sciences, Universiti Sains Malaysia",
+        "Faculty of Pharmacy, Mahidol University",
+        "University of the Philippines",
+        "lDefence Services Medical Research Centre"
+    ]
+}

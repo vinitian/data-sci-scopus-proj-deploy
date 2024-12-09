@@ -1,0 +1,89 @@
+{
+    "eid": "2-s2.0-85061529820",
+    "title": "Predicting judicial decisions of criminal cases from Thai supreme court using bi-directional gru with attention mechanism",
+    "cover-date": "2018-12-27",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Decision Sciences (miscellaneous)",
+            "@code": "1801",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Aerospace Engineering",
+            "@code": "2202",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanics of Materials",
+            "@code": "2211",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Attention mechanism",
+        "Bi-directional GRU",
+        "criminal law",
+        "Deep Learning",
+        "predicting judgement",
+        "Thai Supreme Court"
+    ],
+    "authors": [
+        "Kankawin Kowsrihawat",
+        "Peerapon Vateekul",
+        "Prachya Boonkwan"
+    ],
+    "citedby-count": 24,
+    "ref-count": 20,
+    "ref-list": [
+        "Predicting judicial decisions of the european court of human rights: A natural language processing perspective",
+        "A general approach for predicting the behavior of the supreme court of the nited states",
+        "A Two-stage classifier that identifies charge and punishment under criminal law of civil law system",
+        "An elements-based multi-stage charges identification model for textual criminal cases",
+        "Thai criminal code",
+        "An information extraction framework for legal documents: A case study of Thai Supreme Court verdicts",
+        "Element of crime structure",
+        "Deep learning",
+        "Hierarchical question-image co-Attention for visual question answering",
+        "Neural machine translation by jointly learning to align and translate",
+        "Learning phrase representations using RNN encoderdecoder for statistical machine translation",
+        "Long Short-Term Memory",
+        "Empirical evaluation of gated recurrent neural networks on sequence modeling",
+        "Dynamic coattention networks for question answering",
+        "Thai lexeme tokenizer: Lexto",
+        "Thai royal society",
+        "A Structured self-Attentive sentence embedding",
+        "Office of the council of state"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011525",
+            "affilname": "Thailand National Electronics and Computer Technology Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011525",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

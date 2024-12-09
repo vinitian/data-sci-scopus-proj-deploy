@@ -1,0 +1,126 @@
+{
+    "eid": "2-s2.0-85062107683",
+    "title": "Image quality optimization using a narrow vertical detector dental cone-beam CT",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Otorhinolaryngology",
+            "@code": "2733",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Dentistry (all)",
+            "@code": "3500",
+            "@abbrev": "DENT"
+        }
+    ],
+    "keywords": [
+        "Computed-assisted image analysis",
+        "Cone-beam CT",
+        "Image quality",
+        "Imaging",
+        "Optimization",
+        "Phantoms"
+    ],
+    "authors": [
+        "Danieli Moura Brasil",
+        "Ruben Pauwels",
+        "Wim Coucke",
+        "Francisco Haiter-Neto",
+        "Reinhilde Jacobs"
+    ],
+    "citedby-count": 7,
+    "ref-count": 28,
+    "ref-list": [
+        "What is cone-beam CT and how does it work?",
+        "The basics of maxillofacial cone beam computed tomography",
+        "Effective dose of dental CBCT\u2014a meta analysis of published data and additional data for nine CBCT units44:",
+        "Image quality produced by different cone-beam computed tomography settings",
+        "Cone beam computed tomography radiation dose and image quality assessments",
+        "Evaluation of subjective image quality in relation to diagnostic task for cone beam computed tomography with different fields of view",
+        "Objective and subjective image evaluation of maxillary alveolar bone based on cone beam computed tomography exposure parameters",
+        "Image quality assessment of three cone beam CT machines using the SEDENTEXCT CT phantom42: 20120445",
+        "Development and applicability of a quality control phantom for dental cone-beam CT",
+        "As low dose as sufficient quality: Optimization of Cone-beam Computed Tomographic Scanning Protocol for Tooth Autotrans-plantation Planning and Follow-up in Children",
+        "Optimization of dental CBCT exposures through mAs reduction",
+        "Low-dose dental computed tomography: Significant dose reduction without loss of image quality",
+        "A pragmatic approach to determine the optimal kVp in cone beam CT: Balancing contrast-to-noise ratio and radiation dose",
+        "Cone beam CT: A current overview of devices42: 20120443",
+        "Determination of size-specific exposure settings in dental cone-beam CT",
+        "Elastix: A toolbox for intensity-based medical image registration",
+        "Quantification of metal artifacts on cone beam computed tomography images",
+        "The measurement of observer agreement for categorical data",
+        "Principal component analysis: A review and recent developmentsdoi",
+        "A comparative evaluation of Cone Beam Computed Tomography (CBCT) and Multi-Slice CT (MSCT). Part II: On 3D model accuracy",
+        "Zoom reconstruction tool: Evaluation of image quality and influence on the diagnosis of root fracture",
+        "Influence of the milliamperage settings on cone beam computed tomography imaging for implant planning",
+        "Relationship between physical factors and subjective image quality of cone-beam computed tomography images according to diagnostic task",
+        "Image quality vs radiation dose of four cone beam computed tomography scanners",
+        "Reduction of scatter-induced image noise in cone beam computed tomography: Effect of field of view size and position",
+        "Image quality assessment of clinically-applied CBCT protocols using a QAT phantom",
+        "Prospects and challenges of rendering tissue density in Hounsfield units for cone beam computed tomography",
+        "Dose distribution for dental cone beam CT and its implication for defining a dose index"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Leuven",
+            "@id": "60121202",
+            "affilname": "Departement Beeldvorming &amp; Pathologie",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60121202",
+            "affiliation-country": "Belgium"
+        },
+        {
+            "affiliation-city": "Leuven",
+            "@id": "60031069",
+            "affilname": "KU Leuven\u2013 University Hospital Leuven",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031069",
+            "affiliation-country": "Belgium"
+        },
+        {
+            "affiliation-city": "Campinas",
+            "@id": "60029570",
+            "affilname": "Universidade Estadual de Campinas",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029570",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "3000 Leuven",
+            "@id": "60025063",
+            "affilname": "KU Leuven",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025063",
+            "affiliation-country": "Belgium"
+        },
+        {
+            "affiliation-city": "Stockholm",
+            "@id": "60012311",
+            "affilname": "Karolinska Institutet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012311",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "Leuven",
+            "@id": "122203690",
+            "affilname": "Freelance statistician",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/122203690",
+            "affiliation-country": "Belgium"
+        }
+    ],
+    "funding": [
+        "CAPES"
+    ]
+}

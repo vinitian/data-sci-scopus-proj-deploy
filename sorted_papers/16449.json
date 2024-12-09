@@ -1,0 +1,113 @@
+{
+    "eid": "2-s2.0-85052633538",
+    "title": "Deep multi-label 3D ConvNet for breast cancer diagnosis in DBT with inversion augmentation",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Condensed Matter Physics",
+            "@code": "3104",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "3D convolutional network",
+        "Breast cancer",
+        "Deep learning",
+        "Digital breast tomosynthesis",
+        "Medical imaging"
+    ],
+    "authors": [
+        "Itsara Wichakam",
+        "Jatuporn Chayakulkheeree",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 1,
+    "ref-count": 53,
+    "ref-list": [
+        "Digital breast tomosynthesis utilization in the United States: A survey of physician members of the society of breast imaging",
+        "Increased cancer detection rate and variations in the recall rate resulting from implementation of 3d digital breast tomosynthesis into a population-based screening program",
+        "Risk of breast cancer in women with false-positive results according to mammographic features",
+        "A review of breast tomosynthesis. part i. the image acquisition process",
+        "A review of breast tomosynthesis. part II. image reconstruction, processing and analysis, and advanced applications",
+        "Time to diagnosis and performance levels during repeat interpretations of digital breast tomosynthesis: Preliminary observations",
+        "How widely is computer-aided detection used in screening and diagnostic mammography?",
+        "Assessing the stand-alone sensitivity of computer-aided detection with cancer cases from the digital mammographic imaging screening trial",
+        "Breast cancer: Computer-aided detection with digital breast tomosynthesis",
+        "Automatic microcalcification detection in multi-vendor mammography using convolutional neural networks",
+        "Learning from unbalanced data: A cascade-based approach for detecting clustered microcalcifications",
+        "Computer-aided detection of clustered microcalcifications in digital breast tomosynthesis: A 3d approach",
+        "Mass detection in reconstructed digital breast tomosynthesis volumes with a computer-aided detection system trained on 2d mammograms",
+        "Digital breast tomosynthesis: Computer-aided detection of clustered microcalcifications on planar projection images",
+        "Deep-learning convolution neural network for computer-aided detection of microcalcifications in digital breast tomosynthesis",
+        "Detection of soft tissue densities from digital breast tomosynthesis: Comparison of conventional and deep learning approaches",
+        "Large scale deep learning for computer aided detection of mammographic lesions",
+        "Imagenet classification with deep convolutional neural networks",
+        "Overfeat: Integrated recognition, localization and detection using convolutional networks",
+        "Visualizing and understanding convolutional networks",
+        "Very deep convolutional networks for large-scale image recognition",
+        "Going deeper with convolutions",
+        "Deep residual learning for image recognition",
+        "Rich feature hierarchies for accurate object detection and semantic segmentation",
+        "Fast R-CNN",
+        "Faster R-CNN: Towards real-time object detection with region proposal networks",
+        "Mitosis detection in breast cancer histology images with deep neural networks",
+        "Digital mammography imaging: Breast tomosynthesis and advanced applications",
+        "A review of automatic mass detection and segmentation in mammographic images",
+        "Deep neural networks segment neuronal membranes in electron microscopy images",
+        "Deep feature learning for knee cartilage segmentation using a triplanar convolutional neural network",
+        "Deep learning based imaging data completion for improved brain disease diagnosis",
+        "Multi-modal brain tumor segmentation using deep convolutional neuralnetworks",
+        "Multi-scale 3d convolutional neural networks for lesion segmentation in brain mri",
+        "U-net: Convolutional networks for biomedical image segmentation",
+        "Deep mri brain extraction: A 3d convolutional neural network for skull stripping",
+        "Hough-cnn: Deep learning for segmentation of deep brain regions in MRI and ultrasound",
+        "3d u-net: Learning dense volumetric segmentation from sparse annotation",
+        "Improving computer-aided detection usingconvolutional neural networks and random view aggregation",
+        "Convolutional neural networks for medical image analysis: Full training or fine tuning?",
+        "Deep convolutional neural networks for computer-aided detection: Cnn architectures, dataset characteristics and transfer learning",
+        "Efficient multi-scale 3d cnn with fully connected crf for accurate brain lesion segmentation",
+        "Brain tumor segmentation with deep neural networks",
+        "Learning spatiotemporal features with 3d convolutional networks",
+        "High-resolution breast cancer screening with multi-view deep convolutional neural networks",
+        "Convolutional learning of spatio-temporal features",
+        "Sequential deep learning for human action recognition",
+        "3d convolutional neural networks for human action recognition",
+        "Large-scale video classification with convolutional neural networks",
+        "Deep end2end voxel2voxel prediction",
+        "Batch normalization: Accelerating deep network training by reducing internal covariate shift",
+        "Learning deep features for discriminative localization"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

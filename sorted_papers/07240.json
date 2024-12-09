@@ -1,0 +1,128 @@
+{
+    "eid": "2-s2.0-85090393700",
+    "title": "A spring-embedded planetary-geared parallel elastic actuator",
+    "cover-date": "2020-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Ronnapee Chaichaowarat",
+        "Jun Kinugawa",
+        "Akira Seino",
+        "Kazuhiro Kosuge"
+    ],
+    "citedby-count": 16,
+    "ref-count": 57,
+    "ref-list": [
+        "Series elastic actuators",
+        "Design and control of a variable stiffness actuator for safe and fast physical human/robot interaction",
+        "Collision detection and reaction: A contribution to safe physical human-robot interaction",
+        "Investigation of safety in human-robot interaction for a series elastic, tendon-driven robot arm",
+        "Characterization and control of a screw-driven robot for neurorehabilitation",
+        "The sparky (spring ankle with regenerative kinetics) project: Choosing a dc motor based actuation method",
+        "Powered ankle-foot prosthesis improves walking metabolic economy",
+        "Design and evaluation of the lopes exoskeleton robot for interactive gait rehabilitation",
+        "Comparison of mechanical design and energy consumption of adaptable, passive-compliant actuators",
+        "Soft actuation in cyclic motions: Stiffness profile optimization for energy efficiency",
+        "A new variable stiffness design: Matching requirements of the next robot generation",
+        "The vsaut-II: A novel rotational variable stiffness actuator",
+        "A new variable stiffness actuator (compact-vsa): Design and modelling",
+        "Design, modeling and control of a series elastic actuator for an assistive knee exoskeleton",
+        "A compact rotary series elastic actuator for knee joint assistive system",
+        "Maccepa: The mechanically adjustable compliance and controllable equilibrium position actuator for 'controlled passive walking'",
+        "Maccepa 2. 0: Adjustable compliant actuator with stiffening characteristic for energy efficient hopping",
+        "Torsion maccepa: A novel compact compliant actuator designed around the drive axis",
+        "A compact, modular series elastic actuator",
+        "Design and architecture of a series elastic snake robot",
+        "Configuration and performance analysis of a compact planetary geared elastic actuator",
+        "A comparison of parallel-and series elastic elements in an actuator for mimicking human ankle joint in walking and running",
+        "An asymmetric compliant antagonistic joint design for high performance mobility",
+        "Series and parallel elastic actuation: Influence of operating positions on design and control",
+        "Unparameterized optimization of the spring characteristic of parallel elastic actuators",
+        "Parallel elastic actuators as a control tool for preplanned trajectories of underactuated mechanical systems",
+        "Spring uses in exoskeleton actuation design",
+        "Design and evaluation of a parallel-series elastic actuator for lower limb exoskeletons",
+        "Control of a powered ankle-foot prosthesis based on a neuromuscular model",
+        "Design of powered ankle-foot prosthesis driven by parallel elastic actuator",
+        "Reduction of the torque requirements of an active ankle prosthesis using a parallel spring",
+        "On the electrical energy consumption of active ankle prostheses with series and parallel elastic elements",
+        "Mechanical design and analysis of light weight hip joint parallel elastic actuator for industrial exoskeleton",
+        "A parallel-elastic actuator for a torque-controlled back-support exoskeleton",
+        "Actuator with angledependent elasticity for biomimetic transfemoral prostheses",
+        "Design of a novel intermittent self-closing mechanism for a maccepa-based series-parallel elastic actuator (spea)",
+        "Cylindrical cam mechanism for unlimited subsequent spring recruitment in series-parallel elastic actuators",
+        "Variable recruitment of parallel elastic elements: Series-parallel elastic actuators (spea) with dephased mutilated gears",
+        "A resonant parallel elastic actuator for biorobotic applications",
+        "A new compliant actuation: Electromagnetic spring uses in parallel elastic actuator",
+        "A clutched parallel elastic actuator concept: Towards energy efficient powered legs in prosthetics and robotics",
+        "A switchable parallel elastic actuator and its application to leg design for running robots",
+        "Reducing the energy consumption of robots using bidirectional clutched parallel elastic actuator",
+        "Passive knee exoskeleton using torsion spring for cycling assistance",
+        "Cycling-enhanced knee exoskeleton using planar spiral spring",
+        "Unpowered knee exoskeleton reduces quadriceps activity during cycling",
+        "Human cooperative motion adapted wearable anti-gravity muscle support system",
+        "Control of wearable walking helper on slope based on integration of acceleration and grf information",
+        "Design of a quasi-passive knee exoskeleton to assist running",
+        "Design and evaluation of an orthotic knee-extension assist",
+        "A unidirectional series-elastic actuators design using a spiral torsion spring",
+        "Design of a rotational hydroelastic actuator for a power exoskeleton for upper limb rehabilitation",
+        "Design of an electric series elastic actuated joint for robotic gait rehabilitation training",
+        "Design and analysis of planar rotary spring",
+        "Design and characterization of a novel high-compliance spring for robots with soft joints"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Cambridge",
+            "@id": "60022195",
+            "affilname": "Massachusetts Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022195",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Sendai",
+            "@id": "60008435",
+            "affilname": "Tohoku University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008435",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Fukushima",
+            "@id": "60006101",
+            "affilname": "Fukushima University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006101",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

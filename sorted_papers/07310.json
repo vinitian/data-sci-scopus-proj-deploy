@@ -1,0 +1,165 @@
+{
+    "eid": "2-s2.0-85130178460",
+    "title": "Valorization of fish bone waste as novel bioflocculant for rapid microalgae harvesting: Experimental evaluation and modelling using back propagation artificial neural network",
+    "cover-date": "2022-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biotechnology",
+            "@code": "1305",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Waste Management and Disposal",
+            "@code": "2311",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Process Chemistry and Technology",
+            "@code": "1508",
+            "@abbrev": "CENG"
+        }
+    ],
+    "keywords": [
+        "Artificial neural network",
+        "Bioflocculant",
+        "Harvesting",
+        "Microalgae",
+        "Modelling"
+    ],
+    "authors": [
+        "Uganeeswary Suparmaniam",
+        "Nagoor Basha Shaik",
+        "Man Kee Lam",
+        "Jun Wei Lim",
+        "Yoshimitsu Uemura",
+        "Siew Hoong Shuit",
+        "Pau Loke Show",
+        "Inn Shi Tan",
+        "Keat Teong Lee"
+    ],
+    "citedby-count": 14,
+    "ref-count": 60,
+    "ref-list": [
+        "Application of bio-based alkali to induce flocculation of microalgae biomass",
+        "Synergy between membrane filtration and flocculation for harvesting microalgae",
+        "A review on flocculation as an efficient method to harvest energy microalgae: mechanisms, performances, influencing factors and perspectives",
+        "Recent achievements in polymer bio-based flocculants for water treatment",
+        "Development of fruit-based waste material as bioflocculant for water clarification",
+        "Synthesis and characterization of hydroxyapatite from fish bone waste",
+        "Calcium orthophosphates: occurrence, properties, biomineralization, pathological calcification and biomimetic applications",
+        "Natural hydroxyapatite from fishbone waste for the rapid adsorption of heavy metals of aqueous effluent",
+        "Bone morphogenesis in implants of insoluble bone gelatin",
+        "Chemical coagulation of greywater: modelling using artificial neural networks",
+        "Comparison of different artificial neural network architectures in modeling of Chlorella sp. flocculation",
+        "Dosage optimization of polyaluminum chloride by the application of convolutional neural network to the floc images captured in jar tests",
+        "Optimization and modeling of coagulation-flocculation to remove algae and organic matter from surface water by response surface methodology",
+        "Comparison of artificial neural network (ANN) and response surface methodology (RSM) in fermentation media optimization: case study of fermentative production of scleroglucan",
+        "Explainable artificial intelligence (xAI) approaches and deep meta-learning models",
+        "Potential of using organic fertilizer to cultivate Chlorella vulgaris for biodiesel production",
+        "Cultivation of Chlorella vulgaris using plant-based and animal waste-based compost: a comparison study",
+        "Carbonation model for fly ash concrete based on artificial neural network: development and parametric analysis",
+        "Modeling the effect of process parameters on the photocatalytic degradation of organic pollutants using artificial neural networks",
+        "A brief intoduction to neural networks, nonlinear syst",
+        "A review on the application of response surface method and artificial neural network in engine performance and exhaust emissions characteristics in alternative fuel",
+        "Prediction of SPT value based on CPT data and soil properties using ANN with and without normalization",
+        "Artificial neural network based photovoltaic fault detection algorithm integrating two bi-directional input parameters",
+        "An artificial intelligence approach to predict the thermophysical properties of MWCNT nanofluids",
+        "An intelligent model to predict the life condition of crude oil pipelines using artificial neural networks",
+        "Remaining useful life prediction of a piping system using artificial neural networks: a case study",
+        "Bioflocculants from wastewater: insights into adsorption affinity, flocculation mechanisms and mixed particle flocculation based on biopolymer size-fractionation",
+        "Protein measurement with the folin phenol reagent",
+        "Extraction and characterization of keratin from chicken and swiftlet feather",
+        "Low-cost biosorbent: Anadara inaequivalvis shells for removal of Pb (II) and Cu (II) from aqueous",
+        "Microalgae harvesting techniques: a review",
+        "Effect of eggshells for the harvesting of microalgae species",
+        "Harvesting microalgal biomass and lipid extraction for potential biofuel production: a review",
+        "CaCl2 applied to the extraction of Moringa oleifera seeds and the use for Microcystis aeruginosa removal",
+        "Harvesting of microalgae (Chlorella sp.) from aquaculture bioflocs using an environmental-friendly chitosan-based bio-coagulant",
+        "A review on development and application of plant-based bioflocculants and grafted bioflocculants",
+        "Methods coagulation/flocculation and flocculation with ballast agent for effective harvesting of microalgae",
+        "Evaluation of Moringa oleifera seed flour as a flocculating agent for potential biodiesel producer microalgae",
+        "Biosorption of malachite green by eggshells: mechanism identification and process optimization",
+        "Temperature and pressure effects on zeta potential values of reservoir minerals",
+        "Mineral nutrition and bone health in salmonids",
+        "Treatment method affects color, chemical, and mineral composition of seabream (Sparus aurata) fish bone powder from by-products of fish fillet",
+        "Flocculation of Chlorella vulgaris by shell waste-derived bioflocculants for biodiesel production: process optimization, characterization and kinetic studies",
+        "Development of bioflocculant from Chicken's eggshell membrane to harvest Chlorella vulgaris",
+        "Experimental studies on zeta potential of flocculants for harvesting of algae",
+        "Flocculation as a low-cost method for harvesting microalgae for bulk biomass production",
+        "Synergistic effect and mechanisms of compound bioflocculant and AlCl3 salts on enhancing Chlorella regularis harvesting",
+        "Effect of calcination temperature on characterization of natural hydroxyapatite prepared from carp fish bones",
+        "Fish collagen: extraction, characterization, and applications for biomaterials engineering",
+        "Bacterial cellulose/collagen hydrogel for wound healing",
+        "Revealing the characteristics of a novel bioflocculant and its flocculation performance in Microcystis aeruginosa removal",
+        "Synthesis, characterization and flocculation efficiency of grafted moringa gum based derivatives",
+        "Insights into the microalgae cultivation technology and harvesting process for biofuel production: a review",
+        "Fast and sensitive total protein and peptide assays for proteomic analysis",
+        "Evaluating coagulant activity of locally available Syzygium cumini, Artocarpus heterophyllus and Moringa oleifera for treatment of community drinking water, Uganda",
+        "Meat & bone meal extract and gelatin as renewable flocculants",
+        "Application of plant based coagulants for waste water treatment"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Seri Iskandar",
+            "@id": "60001278",
+            "affilname": "Universiti Teknologi PETRONAS",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001278",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Kajang",
+            "@id": "60090708",
+            "affilname": "Universiti Tunku Abdul Rahman",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60090708",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Semenyih",
+            "@id": "60090616",
+            "affilname": "The University of Nottingham Malaysia Campus",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60090616",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Miri",
+            "@id": "60008183",
+            "affilname": "Curtin University, Malaysia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008183",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Minden",
+            "@id": "60000906",
+            "affilname": "Universiti Sains Malaysia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000906",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "124173418",
+            "affilname": "NPO Kuramae Bioenergy",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/124173418",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Ministry of Higher Education Malaysia",
+        "Yayasan Universiti Teknologi PETRONAS"
+    ]
+}

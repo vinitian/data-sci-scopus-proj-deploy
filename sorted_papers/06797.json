@@ -1,0 +1,105 @@
+{
+    "eid": "2-s2.0-85125471976",
+    "title": "Retinal Nerve Fiber Layer Defect Detection using Machine Learning on Optic Disc Photograph",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Health Informatics",
+            "@code": "2718",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Health (social science)",
+            "@code": "3306",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "Glaucoma",
+        "Machine learning classifier",
+        "Optic disc photograph",
+        "Red-green-blue",
+        "Retinal nerve fiber layer"
+    ],
+    "authors": [
+        "Anita Manassakorn",
+        "Kitiwat Khamwan",
+        "Dhammathat Owasirikul",
+        "Rath Itthipanichpong",
+        "Vera Sa-Ing",
+        "Supatana Auethavekiat"
+    ],
+    "citedby-count": 1,
+    "ref-count": 23,
+    "ref-list": [
+        "Global prevalence of glaucoma and projections of glaucoma burden through 2040. A systematic review and meta-analysis",
+        "Prevalence of glaucoma in a South Brazilian population: Projeto glaucoma",
+        "The prevalence and types of glaucoma in an urban Chinese population: The Singapore Chinese Eye study",
+        "The prevalence of glaucoma in a population-based study of Hispanic subjects. Proyecto Ver",
+        "Burden of undetected and untreated glaucoma in the United States",
+        "Prevalence of glaucoma in the United States: The 2005-2008 national health and nutrition examination survey",
+        "The association between glaucomatous visual fields and optic nerve head features in the Ocular Hypertension Treatment Study",
+        "Optic disk and cup segmentation from monocular color retinal images for glaucoma assessment",
+        "Superpixel classification based optic disc and optic cup segmentation for glaucoma screening",
+        "Optic disc and optic cup segmentation methodologies for glaucoma image detection: A survey",
+        "Automated segmentation of optic disc using statistical region merging and morphological operations",
+        "Efficacy of a deep learning system for detecting glaucomatous optic neuropathy based on color fundus photographs",
+        "Detection of retinal nerve fiber layer defects on retinal fundus images for early diagnosis of glaucoma",
+        "Thickness related textural properties of retinal nerve fiber layer in color fundus images",
+        "Automatic computer-aided diagnosis of retinal nerve fiber layer defects using fundus photographs in optic neuropathy",
+        "Automated retinal nerve fiber layer defect detection using fundus imaging in glaucoma",
+        "Automated detection of retinal nerve fiber layer by texture-based analysis for glaucoma evaluation",
+        "Deep convolutional neural network-based patch classification for retinal nerve fiber layer defect detection in early glaucoma",
+        "Human versus machine: Comparing a deep learning algorithm to human gradings for detecting glaucoma on fundus photographs",
+        "Recurrent neural network based retinal nerve fiber layer defect detection in early glaucoma",
+        "A clinician's guide to artificial intelligence: How to critically appraise machine learning studies",
+        "Development of a deep residual learning algorithm to screen for glaucoma from fundus photography",
+        "Performance of deep learning architectures and transfer learning for detecting glaucomatous optic neuropathy in fundus photographs"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60012718",
+            "affilname": "Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012718",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60000316",
+            "affilname": "Srinakharinwirot University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000316",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chula-longkorn University"
+    ]
+}

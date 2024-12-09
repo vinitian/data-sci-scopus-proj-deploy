@@ -1,0 +1,61 @@
+{
+    "eid": "2-s2.0-85078087049",
+    "title": "Photovoltaic Power Generation Forecast by Using Estimator Model and Kalman Filter",
+    "cover-date": "2019-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Auto Regressive Integrated Moving Average",
+        "Kalman Filter",
+        "Photovoltaic forecast",
+        "Real time forecast"
+    ],
+    "authors": [
+        "Peeraphon Jiranantacharoen",
+        "Watit Benjapolakul"
+    ],
+    "citedby-count": 2,
+    "ref-count": 5,
+    "ref-list": [
+        "Solar and photovoltaic forecasting through post Processing of the global environmental multiscale numerical weather prediction model",
+        "Post-processing of solar irradiance forecasts from wrf model at reunion island",
+        "Practical approach for sub-hourly and hourly prediction of pv power output",
+        "A robust forecasting framework based on the kalman filtering approach with a twofold parameter tuning procedure: Application to solar and photovoltaic prediction"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Machine Learning",
+        "Rachadapisek Sompote Fund for Artificial Intelligence",
+        "Chulalongkorn University"
+    ]
+}

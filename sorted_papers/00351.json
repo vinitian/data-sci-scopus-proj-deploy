@@ -1,0 +1,102 @@
+{
+    "eid": "2-s2.0-85129126915",
+    "title": "Imaging Technology for Promoting Live Streaming in Thai Traditional Long-Boat Racing",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Agricultural and Biological Sciences (miscellaneous)",
+            "@code": "1101",
+            "@abbrev": "AGRI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biomedical Engineering",
+            "@code": "2204",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Education",
+            "@code": "3304",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "computer graphic",
+        "deep learning",
+        "Sport image processing",
+        "streaming",
+        "Thai long-boat"
+    ],
+    "authors": [
+        "Thirachit Saenphon",
+        "Chulapong Panichkriangkrai",
+        "Witchakorn Suansong",
+        "Porsit Chaimanee",
+        "Piyarat Silapasuphakornwong"
+    ],
+    "citedby-count": 1,
+    "ref-count": 8,
+    "ref-list": [
+        "Function of long-boat racing tradition of Isan region",
+        "The classification of skateboarding trick manoeuvres through the integration of image processing techniques and machine learning",
+        "Identifying sport types and postures with complex background by fusion of local descriptors",
+        "Augmented reality tools for sports education and training",
+        "Mobile communication technology of sports events in 5G era",
+        "Performance metrics for evaluating object and human detection and tracking systems",
+        "A survey on performance metrics for object-detection algorithms"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60018809",
+            "affilname": "Silpakorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018809",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Atsugi",
+            "@id": "60001409",
+            "affilname": "Kanagawa Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001409",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "NSRF",
+        "National Science, Research and Innovation Fund",
+        "Thailand Science Research and Innovation"
+    ]
+}

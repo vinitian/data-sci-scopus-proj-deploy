@@ -1,0 +1,57 @@
+{
+    "eid": "2-s2.0-85163397013",
+    "title": "Pre-trained Model Robustness Against GAN-Based Poisoning Attack in Medical Imaging Analysis",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "adversarial machine learning",
+        "generative adversarial networks (GANs)",
+        "medical image classification",
+        "poisoning attack"
+    ],
+    "authors": [
+        "Pakpoom Singkorapoom",
+        "Suronapee Phoomvuthisarn"
+    ],
+    "citedby-count": 0,
+    "ref-count": 30,
+    "ref-list": [
+        "A review of deep learning in medical imaging: Imaging traits, technology trends, case studies with progress highlights, and future promises",
+        "Secure and robust machine learning for healthcare: A survey",
+        "Wild patterns: Ten years after the rise of adversarial machine learning",
+        "A survey on security threats and defensive techniques of machine learning: A data driven view",
+        "Privacy and security issues in deep learning: A survey",
+        "Generative adversarial networks for black-box API attacks with limited training data",
+        "Poisoning attacks via generative adversarial text to image synthesis",
+        "Medical image synthesis with generative adversarial networks for tissue recognition",
+        "Data augmentation using generative adversarial networks for pneumonia classification in chest Xrays",
+        "Evaluation of deep convolutional generative adversarial networks for data augmentation of chest x-ray images",
+        "Fake data generation for medical image augmentation using GANs",
+        "Poisonous label attack: Black-box data poisoning attack with enhanced conditional DCGAN",
+        "Towards poisoning of deep learning algorithms with back-gradient optimization",
+        "Systematic poisoning attacks on and defenses for machine learning in healthcare",
+        "Vulnerability analysis of chest X-ray image classification against adversarial attacks",
+        "COVID-19 infection localization and severity grading from chest X-ray images",
+        "Automated COVID-19 detection in chest X-ray images using fine-tuned deep learning architectures",
+        "Gans trained by a two time-scale update rule converge to a local nash equilibrium",
+        "Image-to-image translation with conditional adversarial networks",
+        "Deconvolution and checkerboard artifacts",
+        "On aliased resizing and surprising subtleties in gan evaluation",
+        "A convnet for the 2020s"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60199583",
+        "affilname": "Chulalongkorn Business School",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199583",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

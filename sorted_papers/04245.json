@@ -1,0 +1,54 @@
+{
+    "eid": "2-s2.0-85049908202",
+    "title": "Combining accelerometry-based motion artifact cancellation with pulse oximetry processing",
+    "cover-date": "2018-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Accelerometer",
+        "Adaptive filtering",
+        "Motion artifact",
+        "Pulse oximetry"
+    ],
+    "authors": [
+        "Theera Leeudomwong",
+        "Tayard Deesudchit",
+        "Chedsada Chinrungrueng"
+    ],
+    "citedby-count": 1,
+    "ref-count": 13,
+    "ref-list": [
+        "The effect of motion on pulse oximetry and its clinical significance",
+        "A novel approach for motion artifact reduction in PPG signals based on AS-LMS adaptive filter",
+        "Motion artifact removal from photoplethysmographic signals by combining temporally constrained independent component analysis and adaptive filter",
+        "A motion-tolerant adaptive algorithm for wearable photoplethysmographic biosensors",
+        "Active noise cancellation using MEMS accelerometers for motion-tolerant wearable bio-sensors",
+        "Reducing motion artifact in wearable bio-sensors using MEMS accelerometers for active noise cancellation",
+        "Noise cancellation model validation for reduced motion artifact wearable PPG sensors using MEMS accelerometers",
+        "A comparative evaluation of adaptive noise cancellation algorithms for minimizing motion artifacts in a forehead-mounted wearable pulse oximeter",
+        "What is a Savitzky-Golay filter? [Lecture Notes]",
+        "Characterization and adaptive filtering of motion artifacts in pulse oximetry using accelerometers",
+        "Statistical methods for assessing agreement between two methods of clinical measurement",
+        "Accuracy and errors"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

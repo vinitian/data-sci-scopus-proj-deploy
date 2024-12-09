@@ -1,0 +1,93 @@
+{
+    "eid": "2-s2.0-85160723878",
+    "title": "A dense search challenge phantom fabricated with pixel-based 3D printing for precise detectability assessment",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biomaterials",
+            "@code": "2502",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "3D printed phantoms",
+        "CT assessment",
+        "detectability",
+        "model observer"
+    ],
+    "authors": [
+        "Scott S. Hsieh",
+        "Kai Mei",
+        "Nadav Shapira",
+        "Picha Shunhavanich",
+        "J. Webster Stayman",
+        "Cynthia H. McCollough",
+        "Grace Gang",
+        "Shuai Leng",
+        "Michael Geagen",
+        "Lifeng Yu",
+        "Peter B. No\u00ebl"
+    ],
+    "citedby-count": 0,
+    "ref-count": 6,
+    "ref-list": [
+        "A minimum SNR criterion for computed tomography object detection in the projection domain",
+        "Clinical evaluation of a phantom-based deep convolutional neural network for whole-body-low-dose and ultra-low-dose CT skeletal surveys",
+        "Objective assessment of image quality and dose reduction in CT iterative reconstruction",
+        "Rapid measurement of the low contrast detectability of CT scanners",
+        "Three?dimensional printing of patient?specific lung phantoms for CT imaging: Emulating lung tissue with accurate attenuation profiles and textures",
+        "Nonparametric signal detectability evaluation using an exponential transformation of the FROC curve"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Philadelphia",
+            "@id": "60023009",
+            "affilname": "Penn Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023009",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Rochester",
+            "@id": "60005558",
+            "affilname": "Mayo Clinic",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005558",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Baltimore",
+            "@id": "60005248",
+            "affilname": "Johns Hopkins University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005248",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "National Institutes of Health"
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "eid": "2-s2.0-84984879043",
+    "title": "Shallow-water simulations by a well-balanced WAF finite volume method: a case study to the great flood in 2011, Thailand",
+    "cover-date": "2016-12-01",
+    "subject-areas": [
+        {
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703"
+        },
+        {
+            "$": "Computational Mathematics",
+            "@code": "2605"
+        },
+        {
+            "$": "Computers in Earth Sciences",
+            "@code": "1903"
+        },
+        {
+            "$": "Computer Science Applications",
+            "@code": "1706"
+        }
+    ],
+    "keywords": [
+        "Finite volume method",
+        "Numerical simulation",
+        "Shallow water equations",
+        "Weighted average flux",
+        "Well-balanced scheme"
+    ],
+    "authors": [
+        "Thida Pongsanguansin"
+    ],
+    "citedby-count": 6,
+    "ref-count": 26,
+    "ref-list": [
+        "Upwind methods for hyperbolic conservation laws with source terms",
+        "Integration of a shallow water model with a local time step",
+        "A fast and stable well-balanced scheme with hydrostatic reconstruction for shallow water flows",
+        "Extension of WAF type methods to non-homogeneous shallow water equations with pollutant",
+        "Proc. R. Soc. Land. A, vol. 423",
+        "Riemann solvers and numerical methods for fluid dynamics: A practical introduction",
+        "John Willy and Sons LTD",
+        "J. Philos. Trans. R. Soc. London Ser.",
+        "Proceedings of the 16th Intern Symposium on Shock Tubes and Waves",
+        "Well-balanced RKDG2 solutions to the shallow water equations over irregular domains with wetting and drying",
+        "A discontinuous Galerkin algorithm for the two-dimensional shallow water equations",
+        "Discretization of multidimensional mathematical equations of dam break phenomena using a novel approach of finite volume method",
+        "Dam-break flow in the presence of obstacle: Experiment and CFD simulation",
+        "Solution of the 2D shallow water equations using the finite volume method on unstructured triangular meshes",
+        "Modified predictor-corrector WAF method for the shallow water equations with source terms",
+        "Int. J. Numer. Meth. Fluids.",
+        "Mec\u00e0nica Computational Vol. XXII, Bah\u00eda Blanca",
+        "Adaptive quadtree simulation of shallow flows with wet-dry fronts over complex topography",
+        "A Weighted Average Flux (WAF) scheme applied to shallow water equations for real-life applications",
+        "Cambridge University Press",
+        "Birkh\u00e4user Verlag Press",
+        "On WAF-type schemes for multidimensional hyperbolic conservation laws",
+        "Well-balanced finite volume schemes of arbitrary order of accuracy for shallow water flows",
+        "Int. J. Civil and Env. Eng.",
+        "Numerical tracking of shallow water waves by the unstructured finite volume WAF approximation",
+        "High order well-balanced finite volume WENO schemes and discontinuous Galerkin methods for a class of hyperbolic systems with source terms"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Kasetsart University",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Science Achivement Scholarship Thailand",
+        "School of Aerospace Science and Technology"
+    ]
+}

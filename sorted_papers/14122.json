@@ -1,0 +1,86 @@
+{
+    "eid": "2-s2.0-85146828557",
+    "title": "Mobile Vehicle to Microgrid for Emergency Distribution System Operation Considering EV SOCs",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "distribution system",
+        "electric vehicle (EV)",
+        "microgrid",
+        "Vehicle-to-Grid (V2G)"
+    ],
+    "authors": [
+        "Yuki Sato",
+        "Taisuke Masuta",
+        "Thavatchai Tayjasanant"
+    ],
+    "citedby-count": 0,
+    "ref-count": 11,
+    "ref-list": [
+        "The implementation framework of a microgrid: A review",
+        "A Methodology for Transforming an Existing Distribution Network Into a Sustainable Autonomous Micro-Grid",
+        "Economic Analysis and Optimal Design on Microgrids With SS-PVs for Industries",
+        "Robust Energy Management and Economic Analysis of Microgrids Considering Different Battery Characteristics",
+        "Black-Start and Service Restoration in Resilient Distribution Systems with Dynamic Microgrids",
+        "A chanceconstraints-based control strategy for microgrids with energy storage and integrated electric vehicles",
+        "Method for EV charging in stochastic smart microgrid operation with fuel cell and renewable energy source (RES) units",
+        "EV related technology (V2G, V2H)",
+        "Distribution System Emergency Operation using a Mobile Vehicle-to-Grid Microgrid"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nagoya",
+            "@id": "60027762",
+            "affilname": "Meijo University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027762",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Meijo Asian Research Center"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "eid": "2-s2.0-85092649698",
+    "title": "Hybrid Precoding Design for Two Carriers Aggregated in 5G Massive MIMO System",
+    "cover-date": "2020-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "carrier aggregation (CA)",
+        "hybrid beamforming (HB)",
+        "massive MIMO"
+    ],
+    "authors": [
+        "Muhammad Shoaib Ayub",
+        "Lunchakorn Wuttisittikulkij",
+        "Pablo Adasme",
+        "Ismael Soto"
+    ],
+    "citedby-count": 4,
+    "ref-count": 14,
+    "ref-list": [
+        "Hybrid digital and analog beamforming design for large-scale antenna arrays",
+        "Frequency selective hybrid precoding for limited feedback millimeter wave systems",
+        "A vector-perturbation technique for communication-part i?: Channel inversion and regularization",
+        "Hybrid digital and analog beamforming design for large-scale mimo systems",
+        "Optimal transmitter beamforming with per-Antenna power constraints",
+        "Validity of the kronecker model for mimo correlated channels",
+        "Linear precoding gain for large mimo configuration with qam and reduced complexity",
+        "Relay hybrid precoding design in milimeter wave massive mimo system"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Santiago",
+            "@id": "60023383",
+            "affilname": "Universidad de Santiago de Chile",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023383",
+            "affiliation-country": "Chile"
+        }
+    ],
+    "funding": [
+        "FONDECYT"
+    ]
+}

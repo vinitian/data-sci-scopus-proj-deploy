@@ -1,0 +1,75 @@
+{
+    "eid": "2-s2.0-85169545789",
+    "title": "Estimating Stock Price Based on Information from Financial Statements Using Long Short-Term Memory Network",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Decision Sciences (miscellaneous)",
+            "@code": "1801",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "financial statements",
+        "fundamental analysis",
+        "Long Short-Term Memory (LSTM)",
+        "machine learning",
+        "stock price estimation"
+    ],
+    "authors": [
+        "Thitikun Kunathananon",
+        "Pittipol Kantavat"
+    ],
+    "citedby-count": 0,
+    "ref-count": 18,
+    "ref-list": [
+        "A systematic review of fundamental and technical analysis of stock market predictions",
+        "Fundamental analysis and technical analysis integrated system",
+        "SP-A Computer Program for Fundamental Analysis of Stocks",
+        "A Model for Stock Price Predictions Using Deep Learning Techniques",
+        "Stock Price Prediction and Portfolio Selection Using Artificial Intelligence",
+        "Using SVM with Financial Statement Analysis for Prediction of Stocks",
+        "Stock Price Prediction Based on Financial Statements Using SVM",
+        "Machine Learning in Stock Price Forecast",
+        "Driving Style Analysis Using Recurrent Neural Networks with LSTM Cells",
+        "Credit Card Fraud Detection Model Based on LSTM Recurrent Neural Networks",
+        "Novel Shared Input Based LSTM for Semantic Similarity Prediction",
+        "Gamelan Melody Generation Using LSTM Networks Controlled by Composition Meter Rules and Special Notes",
+        "A comparative study of a recurrent neural network and support vector machine for predicting price movements of stocks of different volatilites",
+        "Stock Market Prediction Using LSTM Recurrent Neural Network",
+        "Long short-term memory"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

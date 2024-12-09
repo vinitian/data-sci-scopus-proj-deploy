@@ -1,0 +1,96 @@
+{
+    "eid": "2-s2.0-84999861870",
+    "title": "A clustering algorithm for stream data with LDA-based unsupervised localized dimension reduction",
+    "cover-date": "2017-03-01",
+    "subject-areas": [
+        {
+            "$": "Theoretical Computer Science",
+            "@code": "2614"
+        },
+        {
+            "$": "Software",
+            "@code": "1712"
+        },
+        {
+            "$": "Control and Systems Engineering",
+            "@code": "2207"
+        },
+        {
+            "$": "Computer Science Applications",
+            "@code": "1706"
+        },
+        {
+            "$": "Artificial Intelligence",
+            "@code": "1702"
+        },
+        {
+            "$": "Information Systems and Management",
+            "@code": "1802"
+        }
+    ],
+    "keywords": [
+        "Clustering algorithm",
+        "Dimension reduction",
+        "Linear discriminant analysis",
+        "Linear discriminant analysis subspace",
+        "Stream data clustering"
+    ],
+    "authors": [
+        "Sirisup Laohakiat"
+    ],
+    "citedby-count": 36,
+    "ref-count": 49,
+    "ref-list": [
+        "A Framework for Projected Clustering of High Dimensional Data Streams",
+        null,
+        "A stability based method for discovering structure in clustered data.",
+        "When is \u201cnearest neighbor\u201d meaningful?",
+        "Density connected clustering with local subspace preferences",
+        "Streaming k-means on well-clusterable data",
+        "Density-based clustering over an evolving data stream with noise",
+        "Better streaming algorithms for clustering problems",
+        "A fast density-based data stream clustering algorithm with cluster centers self-determined for mixed data",
+        "High dimensional data regression using Lasso model and neural networks with random weights",
+        "A survey on soft subspace clustering",
+        "Adaptive dimension reduction using discriminant analysis and K-means clustering",
+        "Proceedings of the 3rd SIAM International Conference on Data Mining",
+        "A Density-Based Algorithm for Discovering Clusters A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise",
+        "Fuzzy classifications using fuzzy inference networks",
+        "High-dimensional feature selection via feature grouping: A Variable Neighborhood Search approach",
+        "Clustering data streams",
+        "Third International Workshop on the Web and Databases (WebDB 2000)",
+        "Can shared-neighbor distances defeat the curse of dimensionality?",
+        "Comparing partitions",
+        "Approximate nearest neighbors: Towards removing the curse of dimensionality",
+        "Clustering high-dimensional data: A survey on subspace clustering, pattern-based clustering, and correlation clustering",
+        "Hyper-cylindrical micro-clustering for streaming data with unscheduled data removals",
+        "Localized feature selection for clustering",
+        "Probabilistic anonymity",
+        "Autonomous data stream clustering implementing split-and-merge concepts - Towards a plug-and-play approach",
+        "Linear discriminant analysis: New formulations and overfit analysis",
+        "Twitter spammer detection using data stream clustering",
+        "Information theoretic measures for clusterings comparison: Variants, properties, normalization and correction for chance",
+        "Laplacian linear discriminant analysis approach to unsupervised feature selection",
+        "Density-based projected clustering over high dimensional data streams",
+        "Streaming-data algorithms for high-quality clustering",
+        "Objective criteria for the evaluation of clustering methods",
+        "Hyper-ellipsoidal clustering technique for evolving data stream",
+        "Think globally, fit locally: Unsupervised learning of low dimensional manifolds",
+        "A framework for clustering uncertain data",
+        "Lecture notes: Locality-sensitive hashing for finding nearest neighbors",
+        "Dynamic Clustering Forest: An ensemble framework to efficiently classify textual data stream with concept drift",
+        "Laplacian linear discriminant analysis",
+        "A detailed analysis of the KDD CUP 99 data set",
+        "Discriminative cluster analysis",
+        "Characterization of a family of algorithms for generalized discriminant analysis on undersampled problems",
+        "Discriminative K-means for clustering"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "affilname": "Chulalongkorn University",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Thailand Research Fund"
+    ]
+}

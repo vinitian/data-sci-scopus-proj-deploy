@@ -1,0 +1,99 @@
+{
+    "eid": "2-s2.0-85074776400",
+    "title": "Maximizing double-link failure recovery of over-dimensioned optical mesh networks",
+    "cover-date": "2020-02-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Double-failure",
+        "Link failure",
+        "Optical mesh networks",
+        "Optimization",
+        "Protection"
+    ],
+    "authors": [
+        "Pruk Sasithong",
+        "Le Quang Quynh",
+        "Poompat Saengudomlert",
+        "Pisit Vanichchanunt",
+        "Nguyen Hoang Hai",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 5,
+    "ref-count": 28,
+    "ref-list": [
+        "A cost-efficient protection scheme for service recovery against single shared-risk link group failure in long-reach passive optical network",
+        "Optimal design for shared backup path protected elastic optical networks under single-link failure",
+        "Design of a wdm network using a multiple ring approach",
+        "A comparative study of mesh and multi-ring designs for survivable wdm networks",
+        "Using mesh and multi-ring methods in the design of survivable wavelength-routed all-optical networks",
+        "Cycle-oriented distributed preconfiguration: ring-like speed with mesh-like capacity for self-planning network restoration",
+        "p-cycles: an overview",
+        "Availability analysis of span-restorable mesh networks",
+        "A comparison on capacity requirement of optical wdm mesh network protection strategies",
+        "Survivability analysis on non-triconnected optical networks under dual-link failures",
+        "Dual-failure availability analysis of span-restorable mesh networks",
+        "Preconfigured ball (p-ball) protection method with minimum backup links for dual-link failure in optical mesh networks",
+        "Incremental spare capacity allocation for optical networks restoration",
+        "Pre-configured polyhedron (p-poly) with optimal protection efficiency for dual-link failure in optical mesh networks",
+        "Mesh-restorable networks with enhanced dual-failure restorability properties",
+        "Strategies for enhanced dual failure restorability with static or reconfigurable p-cycle networks",
+        "Multiple-quality of protection classes including dual-failure survivable services in p-cycle networks",
+        "Unified ilp formulation of protection in mesh networks",
+        "The illiac iv system",
+        "Permutations on illiac iv-type networks",
+        "Pulp: A Linear Programming Toolkit for python",
+        "Lower bounds on the redundancy of link-recovery mechanisms",
+        "Traffic characteristics of the t1 nsfnet backbone",
+        "Bi nary quadratic programming formulation for routing and wavelength assignment problem in all-optical wdm networks",
+        "The design of a european optical network",
+        "Study on the implementation of optical transparent transport networks in the european environmentresults of the research project cost 239",
+        "Multiobjective metaheuristics for traffic grooming in optical networks"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hanoi",
+            "@id": "60071354",
+            "affilname": "Hanoi University of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071354",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60012448",
+            "affilname": "Bangkok University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012448",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Huawei technology",
+        "Rachadapisek Sompote Fund"
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "eid": "2-s2.0-85115788844",
+    "title": "A systematic review of proton therapy for the management of nasopharyngeal cancer",
+    "cover-date": "2021-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Nasopharyngeal cancer",
+        "Proton therapy",
+        "Systematic review"
+    ],
+    "authors": [
+        "Anna Lee",
+        "Sarin Kitpanit",
+        "Marina Chilov",
+        "Johannes A. Langendijk",
+        "Jiade Lu",
+        "Nancy Y. Lee"
+    ],
+    "citedby-count": 6,
+    "ref-count": 36,
+    "ref-list": [
+        "Cancer incidence and mortality worldwide: Sources, methods and major patterns in GLOBOCAN 2012",
+        "Intensity-modulated radiation therapy with or without chemotherapy for nasopharyngeal carcinoma: Radiation therapy oncology group phase II trial 0225",
+        "Addition of bevacizumab to standard chemoradiation for locoregionally advanced nasopharyngeal carcinoma (RTOG 0615): A phase 2 multi-institutional trial",
+        "Treatment outcomes after reduction of the target volume of intensity-modulated radiotherapy following induction chemotherapy in patients with locoregionally advanced nasopharyngeal carcinoma: A prospective, multi-center, randomized clinical trial",
+        "Quality of life in patients cured from a carcinoma of the head and neck by radiotherapy: The importance of the target volume",
+        "Health-related quality of life for nasopharyngeal carcinoma patients with cancer-free survival after treatment",
+        "Assessment of quality of life of nasopharyngeal carcinoma patients with EORTC QLQ-C30 and H&N-35 modules",
+        "A cross sectional study in cognitive and neurobehavioral impairment in long-term nasopharyngeal cancer survivors treated with intensity-modulated radiotherapy",
+        "Long-term disease-specific and cognitive quality of life after intensity-modulated radiation therapy: A cross-sectional survey of nasopharyngeal carcinoma survivors",
+        "Beam path toxicities to non-target structures during intensity-modulated radiation therapy for head and neck cancer",
+        "The potential benefit of radiotherapy with protons in head and neck cancer with respect to normal tissue sparing: A systematic review of literature",
+        "Multifield optimization intensity modulated proton therapy for head and neck tumors: A translation to practice",
+        "Intensitymodulated radiotherapy of nasopharyngeal carcinoma: A comparative treatment planning study of photons and protons",
+        "Intensity-modulated proton therapy versus helical tomotherapy in nasopharynx cancer: Planning comparison and NTCP evaluation",
+        "Preferred reporting items for systematic reviews and metaanalyses: The PRISMA statement",
+        "Acute toxicity in comprehensive head and neck radiation for nasopharynx and paranasal sinus cancers: Cohort comparison of 3D conformal proton therapy and intensity modulated radiation therapy",
+        "Proton therapy reduces treatment-related toxicities for patients with nasopharyngeal cancer: A case-match control study of intensity-modulated proton therapy and intensity-modulated photon therapy",
+        "Intensity-modulated proton therapy for nasopharyngeal carcinoma: Decreased radiation dose to normal structures and encouraging clinical outcomes",
+        "Efficacy and toxicity of proton with photon radiation for locally advanced nasopharyngeal carcinoma",
+        "Clinical results of proton therapy reirradiation for recurrent nasopharyngeal carcinoma",
+        "Early clinical outcomes of helical tomotherapy/intensity-modulated proton therapy combination in nasopharynx cancer",
+        "Individualization of clinical target volume delineation based on stepwise spread of nasopharyngeal carcinoma: Outcome of more than a decade of clinical experience",
+        "Mixed-beam approach in locally advanced nasopharyngeal carcinoma: IMRT followed by proton therapy boost versus IMRT-only: Evaluation of toxicity and efficacy",
+        "Proton pencil-beam scanning radiotherapy in the treatment of nasopharyngeal cancer: Dosimetric parameters and 2-year results",
+        "Identification of patient benefit from proton therapy for advanced head and neck cancer patients based on individual and subgroup normal tissue complication probability analysis",
+        "Concurrent chemotherapy for T4 classification nasopharyngeal carcinoma in the era of intensity-modulated radiotherapy",
+        "A randomized phase II/III study of adverse events between sequential (SEQ) versus simultaneous integrated boost (SIB) intensity modulated radiation therapy (IMRT) in nasopharyngeal carcinoma; Preliminary result on acute adverse events",
+        "Physics controversies in proton therapy",
+        "Intensity-modulated radiation therapy (IMRT) for nasopharynx cancer: Update of the Memorial Sloan-Kettering experience",
+        "Ten-year survival outcomes for patients with nasopharyngeal carcinoma receiving intensity-modulated radiotherapy: An analysis of 614 patients from a single center",
+        "Analysis of dosimetric factors associated with temporal lobe necrosis (TLN) in patients with nasopharyngeal carcinoma (NPC) after intensity modulated radiotherapy",
+        "Prognostic variables for temporal lobe injury after intensity modulatedradiotherapy of nasopharyngeal carcinoma",
+        "Temporal lobe necrosis in head and neck cancer patients after proton therapy to the skull base",
+        "Proton versus photon radiotherapy for nasopharyngeal carcinoma",
+        "Proton radiotherapy with chemotherapy for nasopharyngeal carcinoma",
+        "Individualized treatment in treating patients with stage II-IVB nasopharyngeal cancer based on EBV DNA"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "New York",
+            "@id": "60009343",
+            "affilname": "Memorial Sloan-Kettering Cancer Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009343",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Shanghai",
+            "@id": "60108904",
+            "affilname": "Fudan University Shanghai Cancer Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60108904",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Houston",
+            "@id": "60015023",
+            "affilname": "The University of Texas MD Anderson Cancer Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015023",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Groningen",
+            "@id": "60006027",
+            "affilname": "Universitair Medisch Centrum Groningen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006027",
+            "affiliation-country": "Netherlands"
+        }
+    ],
+    "funding": [
+        "National Institutes of Health",
+        "National Institute of Biomedical Imaging and Bioengineering",
+        "Pfizer",
+        "Astra Zeneca",
+        "Merck",
+        "Siemens"
+    ]
+}

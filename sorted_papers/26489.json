@@ -1,0 +1,69 @@
+{
+    "eid": "2-s2.0-85057745826",
+    "title": "Enhance Accuracy of Hierarchical Text Categorization Based on Deep Learning Network Using Embedding Strategies",
+    "cover-date": "2018-09-06",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Deep Learning",
+        "Hierarchical Multi-Label Classification",
+        "Text Categorization"
+    ],
+    "authors": [
+        "Chanantip Saetia",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 13,
+    "ref-list": [
+        "Reduction strategies for hierarchical multi-label classification in protein function prediction",
+        "Hierarchical text categorization using level based neural networks of word embedding sequences with sharing layer information",
+        "Top-down optimized SVMs for hierarchical multi-label classification: A case study in gene function prediction",
+        "LIBSVM: A library for support vector machines",
+        "A survey of hierarchical classification across different application domains",
+        "Distributed representations of sentences and documents",
+        "On the stratification of multilabel data",
+        "Experiment with a hierarchical text categorization method on WIPO patent collections"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Commission of Higher Education, Ministry of Education, Thailand",
+        "Thailand Research Fund"
+    ]
+}

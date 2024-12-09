@@ -1,0 +1,68 @@
+{
+    "eid": "2-s2.0-85105873704",
+    "title": "Stacking Ensemble Learning for Housing Price Prediction: A Case Study in Thailand",
+    "cover-date": "2021-01-21",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "CNN",
+        "housing price prediction",
+        "linear regression",
+        "machine learning",
+        "stacking model"
+    ],
+    "authors": [
+        "Gan Srirutchataboon",
+        "Saranpat Prasertthum",
+        "Ekapol Chuangsuwanich",
+        "Ploy N. Pratanwanich",
+        "Chotirat Ratanamahatana"
+    ],
+    "citedby-count": 6,
+    "ref-count": 12,
+    "ref-list": [
+        "Housing Price Prediction via Improved Machine Learning Techniques",
+        "Housing value forecasting based on machine learning methods",
+        "DCNR: Deep cube CNN with random forest for hyperspectral image classification",
+        "Predicting the housing price direction using machine learning techniques",
+        "A hybrid regression technique for house prices prediction",
+        "Linear inversion of band-limited reflection seismograms",
+        "Housing Price Prediction Using Machine Learning Algorithms: The Case of Melbourne City, Australia",
+        "Support-vector networks\" (PDF",
+        "House Price Prediction Using Machine Learning and Neural Networks",
+        "The proof and measurement of correlation between two things",
+        "Robust scale adaptive kernel correlation filter tracker with hierarchical convolutional features"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "123178583",
+            "affilname": "Home Dot Tech. Co. Ltd.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/123178583",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Home Dot Tech Co., Ltd.",
+        "Chulalongkorn University"
+    ]
+}

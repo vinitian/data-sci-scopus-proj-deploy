@@ -1,0 +1,555 @@
+{
+    "eid": "2-s2.0-85150003425",
+    "title": "Individual participant data meta-analysis to compare EPDS accuracy to detect major depression with and without the self-harm item",
+    "cover-date": "2023-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Multidisciplinary",
+            "@code": "1000",
+            "@abbrev": "MULT"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Xia Qiu",
+        "Yin Wu",
+        "Ying Sun",
+        "Brooke Levis",
+        "Jizhou Tian",
+        "Jill T. Boruff",
+        "Pim Cuijpers",
+        "John P.A. Ioannidis",
+        "Sarah Markham",
+        "Roy C. Ziegelstein",
+        "Simone N. Vigod",
+        "Andrea Benedetti",
+        "Brett D. Thombs",
+        "Chen He",
+        "Ankur Krishnan",
+        "Parash Mani Bhandari",
+        "Dipika Neupane",
+        "Zelalem Negeri",
+        "Mahrukh Imran",
+        "Danielle B. Rice",
+        "Marleine Azar",
+        "Matthew J. Chiovitti",
+        "Simon Gilbody",
+        "Lorie A. Kloda",
+        "Scott B. Patten",
+        "Nicholas D. Mitchell",
+        "Rub\u00e9n Alvarado",
+        "Jacqueline Barnes",
+        "Cheryl Tatano Beck",
+        "Carola Bindt",
+        "Humberto Correa",
+        "Tiago Castro e. Couto",
+        "Genesis Chorwe-Sungani",
+        "Valsamma Eapen",
+        "Nicolas Favez",
+        "Ethel Felice",
+        "Gracia Fellmeth",
+        "Michelle Fernandes",
+        "Sally Field",
+        "Barbara Figueiredo",
+        "Jane R.W. Fisher",
+        "Eric P. Green",
+        "Simone Honikman",
+        "Louise M. Howard",
+        "Pirjo A. Kettunen",
+        "Jane Kohlhoff",
+        "Zolt\u00e1n Kozinszky",
+        "Angeliki A. Leonardou",
+        "Michael Maes",
+        "Pablo Mart\u00ednez",
+        "Sandra Naki\u0107 Rado\u0161",
+        "Daisuke Nishi",
+        "Susan J. Pawlby",
+        "Tamsen J. Rochat",
+        "Heather J. Rowe",
+        "Deborah J. Sharp",
+        "Alkistis Skalkidou",
+        "Johanne Smith-Nielsen",
+        "Alan Stein",
+        "Kuan Pin Su",
+        "Inger Sundstr\u00f6m-Poromaa",
+        "Meri Tadinac",
+        "S. Darius Tandon",
+        "Iva Tendais",
+        "Annam\u00e1ria T\u00f6reki",
+        "Thach D. Tran",
+        "Kylee Trevillion",
+        "Katherine Turner",
+        "Mette S. V\u00e6ver",
+        "Thandi van Heyningen",
+        "Johann M. Vega-Dienstmaier",
+        "Karen Wynter",
+        "Kimberly A. Yonkers"
+    ],
+    "citedby-count": 1,
+    "ref-count": 53,
+    "ref-list": [
+        "Postpartum depression: Pathophysiology, treatment, and emerging therapeutics",
+        "Retinoids, anxiety and peripartum depressive symptoms among Chinese women: A prospective cohort study",
+        "Perinatal depression: A systematic review of prevalence and incidence",
+        "Psychiatric disorders in pregnant and postpartum women in the United States",
+        "Non-psychotic mental disorders in the perinatal period",
+        "The effect of perinatal depression treatment for mothers on parenting and child development: A systematic review",
+        "Prenatal and postpartum depression in fathers and its association with maternal depression: A meta-analysis",
+        "Postpartum depression",
+        "Rethinking recommendations for screening for depression in primary care",
+        "Does depression screening improve depression outcomes in primary care?",
+        "Mental health care in the perinatal period: Australian clinical practice guideline",
+        "Screening for depression in adults: US preventive services task force recommendation statement",
+        "Recommendations on screening for depression in adults",
+        "Detection of postnatal depression: Development of the 10-item Edinburgh Postnatal Depression Scale",
+        "Methods to identify postnatal depression in primary care: An integrated evidence synthesis and value of information analysis",
+        "Thirty years with the Edinburgh Postnatal Depression Scale: Voices from the past and recommendations for the future",
+        "A systematic review of studies validating the Edinburgh Postnatal Depression Scale in antepartum and postpartum women",
+        "Primary care screening for and treatment of depression in pregnant and postpartum women: Evidence report and systematic review for the US Preventive Services Task Force",
+        "Accuracy of the Edinburgh Postnatal Depression Scale (EPDS) for screening to detect major depression among pregnant and postpartum women: Systematic review and meta-analysis of individual participant data",
+        "The P4 screener: Evaluation of a brief measure for assessing potential suicide risk in 2 randomized effectiveness trials of primary care and oncology patients",
+        "Onset timing, thoughts of self-harm, and diagnoses in postpartum women with screen-positive depression findings",
+        "Prevalence of suicidality during pregnancy and the postpartum",
+        "A prospective study of thoughts of self-harm and suicidal ideation during the postpartum period in women with mood disorders",
+        "Suicide risk among perinatal women who report thoughts of self-harm on depression screens",
+        "Does the Edinburgh Postnatal Depression Scale measure anxiety?",
+        "What do Black Caribbean women think about screening with the EPDS?",
+        "Screening beyond postpartum depression: Occluded anxiety component in the EPDS (EPDS-3A) in french mothers",
+        "Diagnostic accuracy of the Edinburgh Postnatal Depression Scale (EPDS) for detecting major depression in pregnant and postnatal women: Protocol for a systematic review and individual patient data meta-analyses",
+        "Equivalency of the diagnostic accuracy of the PHQ-8 and PHQ-9: A systematic review and individual participant data meta-analysis",
+        "QUADAS-2: A revised tool for the quality assessment of diagnostic accuracy studies",
+        "A difference that matters: Comparisons of structured and semi-structured psychiatric diagnostic interviews in the general population",
+        "Probability of major depression diagnostic classification using semi-structured vs. fully structured diagnostic interviews",
+        "Comparison of major depression diagnostic classification probability using the SCID, CIDI and MINI diagnostic interviews among women in pregnancy or postpartum: An individual participant data meta-analysis",
+        "Probability of major depression diagnostic classification based on the SCID, CIDI and MINI diagnostic interviews controlling for Hospital Anxiety and Depression Scale\u2014Depression subscale scores: An individual participant data meta-analysis of 73 primary studies",
+        "Probability of major depression classification based on the SCID, CIDI and MINI diagnostic interviews: A synthesis of three individual participant data meta-analyses",
+        "Meta-analysis of diagnostic test studies using individual patient data and aggregate data",
+        "Understanding equivalence and noninferiority testing",
+        "Bootstrap methods for two-level models",
+        "Chapter 11: Resampling multilevel models. In Handbook of Research Methods in Abnormal and Clinical Psychology (D. McKay). (ed. J. Leeuw, & E",
+        "Recommended tests and confidence intervals for paired binomial proportions",
+        "Quantifying heterogeneity in a meta-analysis",
+        "Plea for routinely presenting prediction intervals in meta-analysis",
+        "R: A language and environment for statistical computing",
+        "Fitting linear mixed-effects models using lme4",
+        "Selective cutoff reporting in studies of the accuracy of the Patient Health Questionnaire-9 and Edinburgh Postnatal Depression Scale: Comparison of results based on published cutoffs versus all cutoffs using individual participant data meta-analysis"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60191838",
+            "affilname": "School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60191838",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60002494",
+            "affilname": "Universit\u00e9 McGill",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002494",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60011520",
+            "affilname": "King's College London",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011520",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Oxford",
+            "@id": "60002634",
+            "affilname": "University of Oxford Medical Sciences Division",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002634",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Zagreb",
+            "@id": "60274652",
+            "affilname": "Catholic University of Croatia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60274652",
+            "affiliation-country": "Croatia"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60178602",
+            "affilname": "Graduate School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60178602",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bristol",
+            "@id": "60171764",
+            "affilname": "Bristol Medical School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60171764",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Chengdu",
+            "@id": "60122029",
+            "affilname": "West China Second University Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60122029",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60111763",
+            "affilname": "L'Institut de Recherche du Centre Universitaire de Sant\u00e9 McGill",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60111763",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Lima",
+            "@id": "60089523",
+            "affilname": "Universidad Peruana Cayetano Heredia, Facultad de Medicina Alberto Hurtado",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60089523",
+            "affiliation-country": "Peru"
+        },
+        {
+            "affiliation-city": "Kensington",
+            "@id": "60082336",
+            "affilname": "University of New South Wales Faculty of Medicine, School of Psychiatry",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60082336",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Johannesburg",
+            "@id": "60079992",
+            "affilname": "University of the Witwatersrand Faculty of Health Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60079992",
+            "affiliation-country": "South Africa"
+        },
+        {
+            "affiliation-city": "Zomba",
+            "@id": "60072660",
+            "affilname": "University of Malawi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60072660",
+            "affiliation-country": "Malawi"
+        },
+        {
+            "affiliation-city": "Attard",
+            "@id": "60072652",
+            "affilname": "Mount Carmel Hospital Malta",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60072652",
+            "affiliation-country": "Malta"
+        },
+        {
+            "affiliation-city": "Joensuu",
+            "@id": "60070302",
+            "affilname": "North Karelia Central Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60070302",
+            "affiliation-country": "Finland"
+        },
+        {
+            "affiliation-city": "Zagreb",
+            "@id": "60069793",
+            "affilname": "University of Zagreb, Faculty of Humanities and Social Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60069793",
+            "affiliation-country": "Croatia"
+        },
+        {
+            "affiliation-city": "Athens",
+            "@id": "60067083",
+            "affilname": "School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60067083",
+            "affiliation-country": "Greece"
+        },
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60033154",
+            "affilname": "Concordia University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60033154",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Stanford",
+            "@id": "60032838",
+            "affilname": "Stanford University School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032838",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Taichung",
+            "@id": "60031941",
+            "affilname": "China Medical University Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031941",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Copenhagen",
+            "@id": "60030840",
+            "affilname": "K\u00f8benhavns Universitet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030840",
+            "affiliation-country": "Denmark"
+        },
+        {
+            "affiliation-city": "Edmonton",
+            "@id": "60030835",
+            "affilname": "University of Alberta",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030835",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Belo Horizonte",
+            "@id": "60030074",
+            "affilname": "Universidade Federal de Minas Gerais",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030074",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60029502",
+            "affilname": "McGill Faculty of Medicine and Health Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029502",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Szeged",
+            "@id": "60027332",
+            "affilname": "Szegedi Tudom\u00e1nyegyetem (SZTE)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027332",
+            "affiliation-country": "Hungary"
+        },
+        {
+            "affiliation-city": "Danderyd",
+            "@id": "60026150",
+            "affilname": "Danderyds Sjukhus",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026150",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "Southampton",
+            "@id": "60023615",
+            "affilname": "MRC Lifecourse Epidemiology Unit",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023615",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Santiago",
+            "@id": "60023383",
+            "affilname": "Universidad de Santiago de Chile",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023383",
+            "affiliation-country": "Chile"
+        },
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60022165",
+            "affilname": "Lady Davis Institute for Medical Research",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022165",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Braga",
+            "@id": "60020475",
+            "affilname": "Universidade do Minho",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020475",
+            "affiliation-country": "Portugal"
+        },
+        {
+            "affiliation-city": "Keele",
+            "@id": "60019202",
+            "affilname": "Keele University, School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019202",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Geelong",
+            "@id": "60018805",
+            "affilname": "Deakin University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018805",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "New Haven",
+            "@id": "60017994",
+            "affilname": "Yale School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017994",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Toronto",
+            "@id": "60016849",
+            "affilname": "University of Toronto",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016849",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "York",
+            "@id": "60016418",
+            "affilname": "University of York",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016418",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Milan",
+            "@id": "60016182",
+            "affilname": "Ospedale San Paolo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016182",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Uberlandia",
+            "@id": "60015104",
+            "affilname": "Universidade Federal de Uberl\u00e2ndia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015104",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Chicago",
+            "@id": "60013227",
+            "affilname": "Northwestern University Feinberg School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013227",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Clayton",
+            "@id": "60012932",
+            "affilname": "Faculty of Medicine, Nursing and Health Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012932",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60009016",
+            "affilname": "Birkbeck, University of London",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009016",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Amsterdam",
+            "@id": "60008734",
+            "affilname": "Vrije Universiteit Amsterdam",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008734",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Durham",
+            "@id": "60008724",
+            "affilname": "Duke University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008724",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Storrs",
+            "@id": "60008122",
+            "affilname": "School of Nursing",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008122",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Hamburg",
+            "@id": "60005036",
+            "affilname": "Universit\u00e4tsklinikum Hamburg-Eppendorf",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005036",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Geneva",
+            "@id": "60004718",
+            "affilname": "Universit\u00e9 de Gen\u00e8ve",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004718",
+            "affiliation-country": "Switzerland"
+        },
+        {
+            "affiliation-city": "Uppsala",
+            "@id": "60003858",
+            "affilname": "Uppsala Universitet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003858",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "Santiago",
+            "@id": "60002946",
+            "affilname": "Facultad de Medicina de la Universidad de Chile",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002946",
+            "affiliation-country": "Chile"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Calgary",
+            "@id": "60002306",
+            "affilname": "University of Calgary",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002306",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Baltimore",
+            "@id": "60001117",
+            "affilname": "Johns Hopkins School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001117",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Cape Town",
+            "@id": "60000356",
+            "affilname": "University of Cape Town",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000356",
+            "affiliation-country": "South Africa"
+        }
+    ],
+    "funding": [
+        "Care Health and Development Trust",
+        "Community Support Board III",
+        "Cordaid Netherlands",
+        "Croatian Ministry of Science, Education, and Sports",
+        "European Community Fund FEDER",
+        "Feindt Foundation",
+        "Iniciativa Cient\u00edfica Milenio",
+        "Kroschke Foundation",
+        "Tejada Family Foundation",
+        "Thomas Wilson Sanitarium",
+        "Tier 1 Canada Research Chair",
+        "Truworths Community Foundation Trust",
+        "Tuixen Foundation",
+        "University of Malawi",
+        "University of Southampton National Institute for Health Research",
+        "Vanier Canada Graduate Scholarship",
+        "Victorian Centre of Excellence in Depression and Related Disorders",
+        "charitable foundation Tryg Foundation",
+        "National Institute of Child Health and Human Development",
+        "Patrick and Catherine Weldon Donaghue Medical Research Foundation",
+        "American Psychological Association",
+        "Duke Global Health Institute",
+        "University of Connecticut Research Foundation",
+        "Marta Lundqvist Foundation",
+        "Wellcome Trust",
+        "Exeter College, University of Oxford",
+        "Canadian Institutes of Health Research",
+        "Fonds de recherche du Qu\u00e9bec \u2013 Sant\u00e9",
+        "National Institute for Health Research",
+        "Department of Health",
+        "Health Foundation",
+        "University of Oxford",
+        "University of Manchester",
+        "Australian National Health and Medical Research Council",
+        "Myer Foundation",
+        "National Research Foundation of South Africa",
+        "Medical Research Council of South Africa",
+        "Japan Society for the Promotion of Science",
+        "Swiss National Science Foundation",
+        "Funda\u00e7\u00e3o de Amparo \u00e0 Pesquisa do Estado de S\u00e3o Paulo",
+        "FAS",
+        "Fondo Nacional de Desarrollo Cient\u00edfico y Tecnol\u00f3gico",
+        "Chulalongkorn University",
+        "CNPq",
+        "Swedish Research Council",
+        "China Medical University and Hospital",
+        "Harry Crossley Foundation",
+        "China Scholarship Council",
+        "Minas Gerais State Research Foundation",
+        "Ministry of Health of Chile",
+        "Australian Government Department of Families",
+        "Brazilian Ministry of Health",
+        "Medical Research Council",
+        "Swedish Society of Medicine",
+        "National Center of Neurology and Psychiatry",
+        "Werner Otto Foundation"
+    ]
+}

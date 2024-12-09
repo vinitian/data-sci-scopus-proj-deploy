@@ -1,0 +1,78 @@
+{
+    "eid": "2-s2.0-85144701942",
+    "title": "How to Distinguish Cospectral Graphs",
+    "cover-date": "2022-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mathematics (all)",
+            "@code": "2600",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (miscellaneous)",
+            "@code": "2201",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "cospectral graphs",
+        "generalized adjacency matrix",
+        "graph isomorphism problem"
+    ],
+    "authors": [
+        "Saeree Wananiyakul",
+        "J\u00f6rn Steuding",
+        "Janyarak Tongsomporn"
+    ],
+    "citedby-count": 0,
+    "ref-count": 16,
+    "ref-list": [
+        "Group, graphs, algorithms: The graph isomorphism problem",
+        "The isomorphism problem for circulant graphs via Schur ring theory",
+        "Enumeration of cospectral graphs",
+        "Constructions of isospectral circulant graphs",
+        "A Note on Cospectral Graphs",
+        "Cospectral graphs and the generalized adjacency matrix",
+        "Developments on spectral characterizations of graphs",
+        "Which graphs are determined by their spectrum?",
+        "A simple arithmetic criterion for graphs being determined by their generalized spectra",
+        "A sufficient condition for a family of graphs being determined by their generalized spectra",
+        "Cospectral graphs and digraphs",
+        "The uniqueness of the L2association scheme"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tha Sala",
+            "@id": "60026526",
+            "affilname": "Walailak University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026526",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Wurzburg",
+            "@id": "60012689",
+            "affilname": "Julius-Maximilians-Universit\u00e4t W\u00fcrzburg",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012689",
+            "affiliation-country": "Germany"
+        }
+    ],
+    "funding": [
+        "National Research Council of Thailand",
+        "Walailak University"
+    ]
+}

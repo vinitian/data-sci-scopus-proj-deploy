@@ -1,0 +1,75 @@
+{
+    "eid": "2-s2.0-85144592500",
+    "title": "Improved Height Determination Using a Correction Surface by Combining GNSS/Leveling Co-points and Thailand Geoid Model 2017",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Earth and Planetary Sciences (all)",
+            "@code": "1900",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [
+        "Correction Surface",
+        "Geoid",
+        "Kriging",
+        "Orthometric Height",
+        "Thailand Geoid Model 2017"
+    ],
+    "authors": [
+        "Puttipol Dumrongchai",
+        "Titin Buatong",
+        "Chalermchon Satirapod",
+        "Seonghyeon Yun"
+    ],
+    "citedby-count": 1,
+    "ref-count": 21,
+    "ref-list": [
+        "The DTU13 MSS (Mean Sea Surface) and MDT (Mean Dynamic Topography) from 20 Years of Satellite Altimetry",
+        "Performance of network-based RTK GNSS for the cadastral survey in Thailand",
+        "A comparative study betweensimpleKrigingandordinaryKrigingforestimating and modeling the Cu concentration in Chehlkureh deposit, SE Iran",
+        "The determination of Thailand Geoid Model 2017 (TGM2017) from airborne and terrestrial gravimetry",
+        "Modelling local GPS levelling geoid with the assessment of Inverse Distance Weighting and Geostatistical Kriging Methods",
+        "The first Australian gravimetric quasigeoid model with location-specific uncertainty estimates",
+        "GECO: a global gravity model by locally combining GOCE data and EGM2008",
+        "Status, perspectives and trends of satellite navigation",
+        "Stochastic modeling for VRS network-based GNSS RTK with residual interpolation uncertainty",
+        "Accuracy analysis of GNSS-derived orthometric heights on the leveling loop disconnected area",
+        "Unification of GNSS CORS Coordinates in Thailand",
+        "Research into GNSS levelling using network RTK in Taiwan",
+        "Improved determination of heights using a conversion surface by combining gravimetric quasi-geoid/geoid and GPS-levelling height differences",
+        "Modeling Post-Seismic Displacements in Thai Geodetic Network due to the Sumatra-Andaman and Nias Earthquakes Using GPS Observations",
+        "Contribution of GNSS CORS infrastructure to the mission of modern geodesy and status of GNSS CORS in Thailand",
+        "Analysis of geostatistical surface model for GPS height transformation: a case study in Izmir territory of Turkey",
+        "The precise multimode GNSS positioning for UAV and its application in large scale photogrammetry",
+        "GNSS time and frequency transfers through national positioning, navigation and timing infrastructure"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Changwon",
+            "@id": "60012178",
+            "affilname": "Changwon National University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012178",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Chaing Mai",
+            "@id": "60000881",
+            "affilname": "Chiang Mai University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000881",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "NIMT",
+        "RTSD"
+    ]
+}

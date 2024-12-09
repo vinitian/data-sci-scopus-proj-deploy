@@ -1,0 +1,63 @@
+{
+    "eid": "2-s2.0-85076708497",
+    "title": "A refactoring approach for too large packages using community detection and dependency-based impacts",
+    "cover-date": "2019-09-20",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Architecture Refactoring",
+        "Architecture Smells",
+        "Community Detection",
+        "Extract Package Refactoring"
+    ],
+    "authors": [
+        "Bunyachai Chantian",
+        "Pornsiri Muenchaisri"
+    ],
+    "citedby-count": 2,
+    "ref-count": 16,
+    "ref-list": [
+        "Toward a catalogue of architectural bad smells",
+        "A survey on software smells",
+        "Refactoring for software architecture smells",
+        "Using structural and semantic information to support software refactoring",
+        "Toward a classification framework for software architectural smells",
+        "Identifying architectural bad smells in proceedings of the 2009",
+        "Hotspot patterns: The formal definition and automatic detection of architecture smells",
+        "Support for architectural smell refactoring",
+        "Community detection in networks: A user guide",
+        "Fast unfolding of communities in large networks"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

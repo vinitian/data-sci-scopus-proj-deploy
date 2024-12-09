@@ -1,0 +1,135 @@
+{
+    "eid": "2-s2.0-85128865661",
+    "title": "On invariance of spatial isogeometric Timoshenko\u2013Ehrenfest beam formulations for static analysis",
+    "cover-date": "2022-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computational Mechanics",
+            "@code": "2206",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanics of Materials",
+            "@code": "2211",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Physics and Astronomy (all)",
+            "@code": "3100",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Beams with twisting configuration",
+        "Invariance",
+        "Isogeometric analysis",
+        "Numerical instabilities",
+        "Spatial Timoshenko\u2013Ehrenfest beam formulations"
+    ],
+    "authors": [
+        "Duy Vo",
+        "Pruettha Nanakorn",
+        "Tinh Quoc Bui",
+        "Jaroon Rungamornrat"
+    ],
+    "citedby-count": 2,
+    "ref-count": 55,
+    "ref-list": [
+        "Isogeometric analysis: CAD, finite elements, NURBS, exact geometry and mesh refinement",
+        "Locking free isogeometric formulations of curved thick beams",
+        "Improved numerical integration for locking treatment in isogeometric structural elements, Part I: Beams",
+        "Isogeometric analysis of plane-curved beams",
+        "Isogeometric vibration analysis of free-form Timoshenko curved beams",
+        "NURBS-based isogeometric vibration analysis of generally laminated deep curved beams with variable curvature",
+        "Order reduction method for locking free isogeometric analysis of timoshenko beams",
+        "Multi-patch isogeometric analysis of planar compliant mechanisms",
+        "A total Lagrangian timoshenko beam formulation for geometrically nonlinear isogeometric analysis of planar curved beams",
+        "Locking-free isogeometric collocation methods for spatial Timoshenko rods",
+        "A global formulation for complex rod structures in isogeometric analysis",
+        "Analysis of three-dimensional curved beams using isogeometric approach",
+        "On the locking free isogeometric formulations for 3-D curved timoshenko beams",
+        "Effects of parameterization and knot placement techniques on primal and mixed isogeometric collocation formulations of spatial shear-deformable beams with varying curvature and torsion",
+        "Analysis-aware modelling of spacial curve for isogeometric analysis of timoshenko beam",
+        "A total Lagrangian timoshenko beam formulation for geometrically nonlinear isogeometric analysis of spatial beam structures",
+        "Nonlinear Solid Mechanics for Finite Element Analysis: Statics",
+        "Objectivity of strain measures in the geometrically exact three-dimensional beam theory and its finite-element implementation",
+        "Geometrically exact 3D beam theory: Implementation of a strain-invariant finite element for statics and dynamics",
+        "An exact conserving algorithm for nonlinear dynamics with rotational dofs and general hyperelasticity, Part 1: rods",
+        "A frame-invariant scheme for the geometrically exact beam using rotation vector parametrization",
+        "On the role of frame-invariance in structural mechanics models at finite rotations",
+        "Variational considerations for elastic beams and shells",
+        "Some considerations on a naturally curved and twisted slender beam",
+        "Theories of elastic slender curved rods",
+        "Finite element formulation of spatially curved and twisted rods",
+        "On the dynamics of spatially curved and twisted rods\u2014a finite element formulation",
+        "Finite element analysis of curved beams on elastic foundations",
+        "A theoretical and numerical finite element analysis of spatial rod systems",
+        "Spatial buckling of arches\u2014a finite element analysis",
+        "Pretwisted rods\u2014an efficient finite element modelling",
+        "A spatially curved and twisted rod element for buckling analysis",
+        "General curved beam elements based on the assumed strain fields",
+        "A consistent finite element formulation for linear buckling analysis of spatial beams",
+        "Analysis of three-dimensional locking-free curved beam element",
+        "A mixed-hybrid finite element for three-dimensional isotropic helical beam analysis",
+        "Free vibration analysis of non-cylindrical helices with, variable cross-section by using mixed fem",
+        "A finite element for dunamic analysis of a cylindrical isotropic helical spring",
+        "Out-of-plane free vibration of functionally graded circular curved beams in thermal environment",
+        "Free vibration of functionally graded spatial curved beams",
+        "Improved thin-walled finite curved beam elements",
+        "A three-dimensional curved beam element for helical components modeling",
+        "Differential equations of motion for naturally curved and twisted composite space beams",
+        "Free vibration analysis of functionally graded cylindrical helices with variable cross-section",
+        "Spatially curved functionally graded timoshenko microbeams: A numerical study using IGA",
+        "Spatial arbitrarily curved microbeams with the modified couple stress theory: Formulation of equations of motion",
+        "Structural analysis of a curved beam element defined in global coordinates",
+        "Variational formulation of curved beams in global coordinates",
+        "Elimination of self-straining in isogeometric formulations of curved Timoshenko beams in curvilinear coordinates",
+        "Non-Linear Finite Element Analysis of Solids and Structures",
+        "Isogeometric configuration design sensitivity analysis of geometrically exact shear-deformable beam structures",
+        "Geometrically exact finite element formulations for slender beams: Kirchhoff\u2013love theory versus simo\u2013Reissner theory",
+        "Isogeometric analysis: Approximation, stability and error estimates for h-refined meshes",
+        "B-spline interpolation of Kirchhoff\u2013Love space rods"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60031126",
+            "affilname": "Tokyo Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031126",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011220",
+            "affilname": "Sirindhorn International Institute of Technology, Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011220",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "eid": "2-s2.0-85151711247",
+    "title": "Solving single-vehicle open-loop VRPPD with a limit of distance constraint by using the Genetic Algorithm",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Decision Sciences (miscellaneous)",
+            "@code": "1801",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "a limit of distance",
+        "delivery service",
+        "genetic algorithm",
+        "routing",
+        "single-vehicle open-loop VRPPD"
+    ],
+    "authors": [
+        "Peerayu Phengsuwan",
+        "Teerapol Silawan"
+    ],
+    "citedby-count": 0,
+    "ref-count": 13,
+    "ref-list": [
+        "VRP with Pickup and Delivery",
+        "Dynamic Memory Memetic Algorithm for VRPPD With Multiple Arrival Time and Traffic Congestion Constraints",
+        "Single-Commodity Vehicle Routing Problem with Pickup and Delivery Service",
+        "Minimizing the handling time in VRP with pickup-and-delivery and time windows",
+        "A Performance Comparison of Genetic Algorithm's Mutation Operators in n-Cities Open Loop Travelling Salesman Problem",
+        "Optimised Genetic Algorithm Crossover and Mutation Stage for Vehicle Routing Problem Pick-Up and Delivery with Time Windows",
+        "A new VRPPD model and a hybrid heuristic solution approach for e-tailing",
+        "GENETIC ALGORITHM: REVIEW AND APPLICATION",
+        "A review on genetic algorithm: Past, present, and future",
+        "Distributed Optimization by Ant Colonies",
+        "Ant colony optimization",
+        "A method for solving traveling salesman problems",
+        "learning 2-opt heuristics for the traveling salesman problem via deep reinforcement learning proceeding"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Wireless Network and Future Internet Research Unit",
+        "Chulalongkorn university"
+    ]
+}

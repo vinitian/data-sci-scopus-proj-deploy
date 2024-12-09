@@ -1,0 +1,94 @@
+{
+    "eid": "2-s2.0-85133386805",
+    "title": "Precise Integrated Contactless Attendance Tracking, Recording and Analyzing System",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Facial Recognition",
+        "Finger-print Detection",
+        "RFID",
+        "Thermal Detector"
+    ],
+    "authors": [
+        "Janith Geeganage",
+        "Kushan Rathnayake",
+        "Vinura Fernando",
+        "Pasindu Kumarasinghe",
+        "Sanjeeva Dinesh De Silva",
+        "Lunchakorn Wuttisittikulkij",
+        "Sanika K. Wijayasekara"
+    ],
+    "citedby-count": 0,
+    "ref-count": 13,
+    "ref-list": [
+        "RF Sensor-Based Liveness Detection Scheme with Loop Stability Compensation Circuit for a Capacitive Fingerprint System",
+        "Design and Implementation of a Smart Sensor and RFID Door Lock Security System with Email Notification"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "128301833",
+            "affilname": "Digital Lab Research and Development Sri Lanka Telecom. PLC",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/128301833",
+            "affiliation-country": "Sri Lanka"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "118144558",
+            "affilname": "Kotelawala Defense University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/118144558",
+            "affiliation-country": "Sri Lanka"
+        }
+    ],
+    "funding": []
+}

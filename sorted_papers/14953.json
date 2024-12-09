@@ -1,0 +1,108 @@
+{
+    "eid": "2-s2.0-85135079226",
+    "title": "Improvements to a vehicle\u2019s ride comfort by controlling the vertical component of the driving force based on in-wheel motors",
+    "cover-date": "2023-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Automotive Engineering",
+            "@code": "2203",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Aerospace Engineering",
+            "@code": "2202",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanics of Materials",
+            "@code": "2211",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "driving force",
+        "in-wheel motor",
+        "ride comfort",
+        "torque control",
+        "vehicle dynamics"
+    ],
+    "authors": [
+        "Semen Kopylov",
+        "Gridsada Phanomchoeng",
+        "Miha Ambro\u017e",
+        "\u017diga Petan",
+        "Robert Kunc",
+        "Yi Qiu"
+    ],
+    "citedby-count": 0,
+    "ref-count": 31,
+    "ref-list": [
+        "Control of automotive semi-active MR suspensions for in-wheel electric vehicles",
+        "Experimental investigation of an automotive magnetorheological shock absorber",
+        "Decoupled 3D moment control using in-wheel motors",
+        "Review of integrated vehicle dynamics control architectures",
+        "Acceleration based ground-hook control of an electromagnetic regenerative tuned mass damper for automotive application",
+        "Back-iron design-based electromagnetic regenerative tuned mass damper",
+        "Implementation of an Electromagnetic Regenerative Tuned Mass Damper in a Vehicle Suspension System",
+        "Integration design and optimization control of a dynamic vibration absorber for electric wheels with in-wheel motor",
+        "Ride comfort optimization of in-wheel-motor electric vehicles with in-wheel vibration absorbers",
+        "Optimization control for dynamic vibration absorbers and active suspensions of in-wheel-motor-driven electric vehicles Proceedings of the Institution of Mechanical Engineers",
+        "Innovation by in-wheel-motor drive unit",
+        "Longitudinal Modelling and Control of In-Wheel-Motor Electric Vehicles as Multi-Agent Systems",
+        "A method to eliminate unsprung adverse effect of in-wheel motor-driven vehicles",
+        "Measuring a centre of gravity of an object using 4 load transducer method",
+        "Ride blending control for electric vehicles",
+        "Design and optimization of a tubular linear electromagnetic vibration energy harvester",
+        "Modelling and ride analysis of a hydraulic interconnected suspension based on the hydraulic energy regenerative shock absorbers"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ljubljana",
+            "@id": "60122189",
+            "affilname": "Elaphe Ltd.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60122189",
+            "affiliation-country": "Slovenia"
+        },
+        {
+            "affiliation-city": "Hangzhou",
+            "@id": "60117835",
+            "affilname": "College of Energy Engineering, Zhejiang University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60117835",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Ljubljana",
+            "@id": "60031106",
+            "affilname": "Univerza v Ljubljani",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031106",
+            "affiliation-country": "Slovenia"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Chulalongkorn University",
+        "Slovenian Research Agency"
+    ]
+}

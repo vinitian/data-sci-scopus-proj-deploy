@@ -1,0 +1,92 @@
+{
+    "eid": "2-s2.0-85163364564",
+    "title": "CNN Transfer Learning for Two Stage Classification of Diabetic Retinopathy using Fundus Images",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Education",
+            "@code": "3304",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Arts and Humanities (miscellaneous)",
+            "@code": "1201",
+            "@abbrev": "ARTS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Media Technology",
+            "@code": "2214",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Health Informatics",
+            "@code": "2718",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Binary Classification",
+        "CNN",
+        "Diabetic Retinopathy",
+        "InceptionV3",
+        "MobileNet",
+        "Transfer Learning",
+        "VGG16"
+    ],
+    "authors": [
+        "Pranajit Kumar Das",
+        "Suree Pumrin"
+    ],
+    "citedby-count": 0,
+    "ref-count": 17,
+    "ref-list": [
+        "Diabetic retinopathy detection through deep learning techniques: A review",
+        "Proposed international clinical diabetic retinopathy and diabetic macular edema disease severity scales",
+        "Convolutional neural networks in medical image understanding: A survey",
+        "An overview of deep learning in medical imaging focusing on mri",
+        "Deep learning for diabetic retinopathy detection and classification based on fundus images: A review",
+        "Convolutional neural networks for diabetic retinopathy",
+        "Image preprocessing in classification and identification of diabetic eye diseases",
+        "A deep learning interpretable classifier for diabetic retinopathy disease grading",
+        "Improving the accuracy of diabetic retinopathy severity classification with transfer learning",
+        "Transfer learning with fine-tuned mobilenetv2 for diabetic retinopathy",
+        "Feedback on a publicly distributed image database: The messidor database",
+        "Rethinking the inception architecture for computer vision"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

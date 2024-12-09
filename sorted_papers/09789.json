@@ -1,0 +1,117 @@
+{
+    "eid": "2-s2.0-85072695860",
+    "title": "System identification of PEM fuel cells using an improved Elman neural network and a new hybrid optimization algorithm",
+    "cover-date": "2019-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy (all)",
+            "@code": "2100",
+            "@abbrev": "ENER"
+        }
+    ],
+    "keywords": [
+        "FSO",
+        "Improved Elman neural network",
+        "Optimization",
+        "Parameter identification",
+        "Proton exchange membrane fuel cell",
+        "WCO"
+    ],
+    "authors": [
+        "Dongmin Yu",
+        "Yong Wang",
+        "Huanan Liu",
+        "Kittisak Jermsittiparsert",
+        "Navid Razmjooy"
+    ],
+    "citedby-count": 135,
+    "ref-count": 55,
+    "ref-list": [
+        "Robust adaptive neural network control for PEM fuel cell",
+        "Optimal offering and bidding strategies of renewable energy based large consumer using a novel hybrid robust-stochastic approach",
+        "Multi-objective energy management in a micro-grid",
+        "An analytical methodology for assessment of smart monitoring impact on future electric power distribution system reliability",
+        "Risk-assessment of photovoltaic-wind-battery-grid based large industrial consumer using information gap decision theory",
+        "Multi-objective Shark Smell Optimization for Solving the Reactive Power Dispatch Problem,",
+        "Optimal tuning of PID controller parameters for speed control of DC motor based on world cup optimization algorithm",
+        "Particle swarm optimization",
+        "Two-dimensional modeling of a polymer electrolyte membrane fuel cell with long flow channel. Part II. Physics-based electrochemical impedance analysis",
+        "PEM fuel cell model suitable for energy optimization purposes",
+        "New optimization algorithm inspired by fluid mechanics to combined economic",
+        "Optimized parameters of SOFC for steady state and transient simulations using interior search algorithm",
+        "A new formulation to reduce the number of variables and constraints to expedite SCUC in bulky power systems",
+        "Genetically tuning of lead\u2013lag controller in order to control of fuel cell voltage",
+        "A new hybrid algorithm based on optimal fuzzy controller in multimachine power system",
+        "PSO based fuzzy stochastic long-term model for deployment of distributed energy resources in distribution systems with several objectives",
+        "Two stage forecast engine with feature selection technique and improved meta-heuristic algorithm for electricity load forecasting",
+        "Dynamic neural network controller model of PEM fuel cell system",
+        "Genetic algorithms",
+        "Energy efficiency improvements by investigating the water flooding management on proton exchange membrane fuel cell (PEMFC)",
+        "Discovery of conserved regions in DNA sequences by Artificial Bee Colony (ABC) algorithm based methods",
+        "A powerful and efficient algorithm for numerical function optimization: artificial bee colony (ABC) algorithm",
+        "Fuzzy-based heat and power hub models for cost-emission operation of an industrial consumer using compromise programming",
+        "PEM fuel cell system identification and control",
+        "Electricity load forecasting by an improved forecast engine for building level consumers",
+        "A novel chaotic image encryption algorithm based on improved baker map and logistic map",
+        "The whale optimization algorithm",
+        "A new prediction model of battery and wind-solar output in hybrid power system",
+        "Parameter optimization for a PEMFC model with a hybrid genetic algorithm",
+        "Optimal threshold computing in automatic image thresholding using adaptive particle swarm optimization",
+        "Semantic image classification by genetic algorithm using optimised fuzzy system based on Zernike moments",
+        "A new meta-heuristic algorithm for optimization based on variance reduction of guassian distribution",
+        "Reliability based optimal allocation of distributed generations in transmission systems under demand response program",
+        "Parametric analysis of the steady state and dynamic performance of proton exchange membrane fuel cell models",
+        "Shark Smell Optimizer applied to identify the optimal parameters of the proton exchange membrane fuel cell model",
+        "A new meta-heuristic optimization algorithm inspired by FIFA world cup competitions: Theory and its application in PID designing for AVR system",
+        "Training Wavelet Neural Networks Using Hybrid Particle Swarm Optimization and Gravitational Search Algorithm for System Identification",
+        "An improved quantum evolutionary algorithm based on invasive weed optimization",
+        "Solving Ordinary Differential Equations using World Cup Optimization Algorithm",
+        "A hybrid neural network\u2013world cup optimization algorithm for melanoma detection",
+        "A modified elman neural network with a new learning rate scheme",
+        "Proton exchange membrane fuel cell controlusing a predictive control based on neuralnetwork",
+        "Robust optimization based optimal chiller loading under cooling demand uncertainty",
+        "Image segmentation based on world cup optimization algorithm",
+        "Control-oriented model of a membrane humidifier for fuel cell applications",
+        "Polymer electrolyte fuel cell model",
+        "Diagnosis of polymer electrolyte fuel cells failure modes (flooding & drying out) by neural networks modeling",
+        "Parameter identification of PEMFC model based on hybrid adaptive differential evolution algorithm",
+        "Nonlinear modeling of PEMFC based on neural networks identification",
+        "Power decoupling control of a solid oxide fuel cell and micro gas turbine hybrid power system",
+        "An adaptive RNA genetic algorithm for modeling of proton exchange membrane fuel cells"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Jilin",
+            "@id": "60073562",
+            "affilname": "Northeast Electric Power University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60073562",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tafresh",
+            "@id": "123226454",
+            "affilname": "Tsfresh University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/123226454",
+            "affiliation-country": "Iran"
+        },
+        {
+            "affiliation-city": "Beijing",
+            "@id": "112839409",
+            "affilname": "Electric Power Research Institute of China",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112839409",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": [
+        "Open Fund of State Key Laboratory of Power Grid Safety and Energy Conservation",
+        "China Electric Power Research Institute"
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "eid": "2-s2.0-85060970184",
+    "title": "Applying Text Mining for Classifying Disease from Symptoms",
+    "cover-date": "2018-12-24",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "Classification",
+        "Data preparation",
+        "Disease",
+        "ICD-10-CM",
+        "Symptom",
+        "Text mining"
+    ],
+    "authors": [
+        "Pannaporn Ketpupong",
+        "Krerk Piromsopa"
+    ],
+    "citedby-count": 4,
+    "ref-count": 19,
+    "ref-list": [
+        "Medical errors-i : The problem",
+        "Reducing diagnostic errors in musculoskeletal trauma by reviewing non-Admission Orthopaedic Referrals in the Next-Day Trauma Meeting",
+        "Development of Thai text-mining model for classifying icd-10 tm",
+        "Biomedical text mining and its applications in cancer research",
+        "Information extraction from pathology reports in a hospital setting",
+        "Feature-ranking-based Alzheimer's disease classification from structural MRI",
+        "Text mining approach to predict hospital admissions using early medical records from the emergency department",
+        "Icd9-based text mining approach to children epilepsy classification",
+        "Text mining electronic hospital records to automatically classify admissions against disease: Measuring the impact of linking data sources",
+        "Coronary artery disease risk assessment from unstructured electronic health records using text mining",
+        "Agile text mining for the 2014 i2b2/UTHealth Cardiac risk factors challenge",
+        "Knowledge based word-concept model estimation and refinement for biomedical text mining",
+        "DISEASES: Text mining and data integration of disease-gene associations",
+        "Unsupervised text mining for assessing and augmenting GWAS results",
+        "An Introduction to ROC Analysis",
+        "Scikit-learn: Machine learning in python"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

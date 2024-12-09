@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85086929838",
+    "title": "Learning from noisy out-of-domain corpus using dataless classification",
+    "cover-date": "2022-01-17",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Language and Linguistics",
+            "@code": "1203",
+            "@abbrev": "ARTS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Linguistics and Language",
+            "@code": "3310",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Dataless classification",
+        "Domain adaptation",
+        "Noisy labels",
+        "Text classification"
+    ],
+    "authors": [
+        "Yiping Jin",
+        "Dittaya Wanvarie",
+        "Phu T.V. Le"
+    ],
+    "citedby-count": 0,
+    "ref-count": 51,
+    "ref-list": [
+        "An experimental comparison of three methods for constructing ensembles of decision trees: Bagging, boosting, and randomization",
+        "Classification in the presence of label noise: A survey",
+        "Domain-adversarial training of neural networks",
+        "Bayesian model selection for logistic regression with misclassified outcomes",
+        "Complete convergence and the law of large numbers",
+        "Bootstrap domain-specific sentiment classifiers from unlabeled corpora",
+        "Maximizing subset accuracy with recurrent neural networks in multi-label classification",
+        "A study of the effect of different types of noise on the precision of supervised learning techniques",
+        "A survey on transfer learning",
+        "Gile: A generalized input-label embedding for text classification",
+        "Toward any-language zero-shot topic classification of textual documents",
+        "Identifying and correcting mislabeled training instances",
+        "Bayesian identifiability and misclassification in multinomial data",
+        "Multi-label dataless text classification with topic modeling",
+        "Character-level convolutional networks for text classification"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "122484831",
+            "affilname": "Knorex Pte. Ltd.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/122484831",
+            "affiliation-country": "Singapore"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

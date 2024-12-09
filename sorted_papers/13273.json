@@ -1,0 +1,98 @@
+{
+    "eid": "2-s2.0-85164706653",
+    "title": "Extending Quadrotor Motion Capability by Centrally Coaxial Tilting Rotors",
+    "cover-date": "2023-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biomedical Engineering",
+            "@code": "2204",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Aerial systems: mechanics and control",
+        "nonlinear PID controller",
+        "optimal thrust force allocation",
+        "UAV design"
+    ],
+    "authors": [
+        "Phongsaen Pitakwatchara",
+        "Supachock Tuntivivat"
+    ],
+    "citedby-count": 0,
+    "ref-count": 20,
+    "ref-list": [
+        "Modeling, control, and design optimization for a fully-actuated hexarotor aerial vehicle with tilted propellers",
+        "Design, modeling, and control of an omni-directional aerial vehicle",
+        "Omnidirectional aerial vehicles with unidirectional thrusters: Theory, optimal design, and control",
+        "ODAR: Aerial manipulation platform enabling omnidirectional wrench generation",
+        "A novel overactuated quadrotor UAV: Modeling, control, and experimental validation",
+        "Design and implementation of a dual-axis tilting quadcopter",
+        "The Voliro omnidirectional hexacopter: An agile and maneuverable tiltable-rotor aerial vehicle",
+        "Design and optimal control of a tiltrotor micro aerial vehicle for efficient omnidirectional flight",
+        "Modeling and control of FAST-Hex: A fully-actuated by synchronized-tilting hexarotor",
+        "A fully actuated quadrotor UAV with a propeller tilting mechanism: Modeling and control",
+        "TiltDrone: A fullyactuated tilting quadrotor platform",
+        "An over-actuated multi-rotor aerial vehicle with unconstrained attitude angles and high thrust efficiencies",
+        "Nonlinear H8 and its application to rigid spacecraft",
+        "Integral sliding mode flight controller design for a quadrotor and the application in a heterogeneous multi-agent system",
+        "Neural-fly enables rapid learning for agile flight in strong winds",
+        "Nonlinear attitude control of spacecraft with a large captured object",
+        "Contraction theory for nonlinear stability analysis and learning-based control: A tutorial overview",
+        "On contraction analysis for nonlinear systems",
+        "Geometric nonlinear PID control of a quadrotor UAV on SE(3)"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

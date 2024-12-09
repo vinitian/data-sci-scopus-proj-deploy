@@ -1,0 +1,89 @@
+{
+    "eid": "2-s2.0-85168876492",
+    "title": "Risk Prediction of Cardioembolic Stroke using Clinical Data and Non-contrast CT",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Cardioembolic stroke",
+        "deep learning",
+        "multimodal fusion",
+        "non-contrast CT"
+    ],
+    "authors": [
+        "Pasit Jakkrawankul",
+        "Chaipat Chunharas",
+        "Wasan Akarathanawat",
+        "Pongpat Vorasayan",
+        "Sedthapong Chunamchai",
+        "Ploy N. Pratanwanich",
+        "Proadpran Punyabukkana",
+        "Ekapol Chuangsuwanich"
+    ],
+    "citedby-count": 0,
+    "ref-count": 22,
+    "ref-list": [
+        "Global burden of stroke",
+        "Stroke severity in atrial fibrillation: The framingham study",
+        "Automating ischemic stroke subtype classification using machine learning and natural language processing",
+        "Emr-based phenotyping of ischemic stroke using supervised machine learning and text mining techniques",
+        "Automated ischemic stroke subtyping based on machine learning approach",
+        "Automated electronic phenotyping of cardioembolic stroke",
+        "Medical image analysis methods in mr/ct-imaged acute-subacute ischemic stroke lesion: Segmentation, prediction and insights into dynamic evolution simulation models. A critical appraisal",
+        "An explainable deeplearning algorithm for the detection of acute intracranial haemorrhage from small datasets",
+        "Machine learning for detecting early infarction in acute stroke with non-contrast-enhanced ct",
+        "Detecting the early infarct core on non-contrast ct images with a deep learning residual network",
+        "Eis-net: Segmenting early infarct and scoring aspects simultaneously on noncontrast ct of patients with acute ischemic stroke",
+        "Fusion of medical imaging and electronic health records using deep learning: A systematic review and implementation guidelines",
+        "Improved image classification explainability with high-accuracy heatmaps",
+        "Cardioembolic stroke: clinical features, specific cardiac disorders and prognosis",
+        "Long-term cancer survival prediction using multimodal deep learning",
+        "Predicting esophageal fistula risks using a multimodal self-attention network",
+        "Multi-transsp: Multimodal transformer for survival prediction of nasopharyngeal carcinoma patients",
+        "Attention is all you need",
+        "Pytorch: An imperative style, high-performance deep learning library",
+        "Adam: A method for stochastic optimization",
+        "Attention-based deep multiple instance learning"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

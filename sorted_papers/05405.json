@@ -1,0 +1,81 @@
+{
+    "eid": "2-s2.0-85081699729",
+    "title": "Lukthung Classification Using Neural Networks on Lyrics and Audios",
+    "cover-date": "2019-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Media Technology",
+            "@code": "2214",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Kawisorn Kamtue",
+        "Kasina Euchukanonchai",
+        "Dittaya Wanvarie",
+        "Naruemon Pratanwanich"
+    ],
+    "citedby-count": 2,
+    "ref-count": 18,
+    "ref-list": [
+        "Luk thung: The culture and politics of thailands most popular music",
+        "Lukthung: Authenticity and modernity in Thai country music",
+        "Musical genre classification of audio signals",
+        "Music genre recognition using spectrograms",
+        "End-to-end learning for music audio tagging at scale",
+        "Music artist style identification by semisupervised learning from both lyrics and content",
+        "Lyrics-based analysis and classification of music",
+        "Music genre classification by ensembles of audio and lyrics features",
+        "Turkish music genre classification using audio and lyrics features",
+        "Automatic musical pattern feature extraction using convolutional neural network",
+        "Audio music genre classification using different classifiers and feature selection methods",
+        "Deep convolutional neural networks for lvcsr",
+        "End-to-end learning for music audio",
+        "Transfer learning by supervised pre-training for audio-based music classification",
+        "Lyrics-based music genre classification using a hierarchical attention network",
+        "Deep residual learning for image recognition"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Shenzhen",
+            "@id": "60114181",
+            "affilname": "Tencent",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60114181",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

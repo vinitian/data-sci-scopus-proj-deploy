@@ -1,0 +1,79 @@
+{
+    "eid": "2-s2.0-85083500440",
+    "title": "Ticket machine queuing system design application for service efficiency simulation and comparison",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Queuing Simulation",
+        "Service Efficiency",
+        "Ticket Machines",
+        "Ticket vending"
+    ],
+    "authors": [
+        "Suvit Poomrittigul",
+        "Amorn Koomsubsiri",
+        "Htain Lynn Aung",
+        "Pruk Sasithong",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 3,
+    "ref-count": 6,
+    "ref-list": [
+        "Queuing theory analysis for Bangkok rapid transit train ticket system",
+        "Application of queuing theory to patient satisfaction at a tertiary hospital in Nigeria",
+        "Traffic micro-simulation model for design and operational analysis of barrier toll stations",
+        "The queuing theory application in bank service optimization",
+        "The simulation of queuing model for Bangkok rapid transit train ticket system using python",
+        "Visual flow influences gait transition speed and preferred walking speed"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "106606986",
+            "affilname": "Pathumwan Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/106606986",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "National Science and Technology Development Agency"
+    ]
+}

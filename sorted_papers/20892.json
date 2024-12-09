@@ -1,0 +1,136 @@
+{
+    "eid": "2-s2.0-85057279150",
+    "title": "Multi-institutional evaluation using the end-to-end test for implementation of dynamic techniques of radiation therapy in Thailand",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Oncology",
+            "@code": "2730",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Accuracy",
+        "End-to-end test",
+        "IMRT",
+        "Quality assurance",
+        "VMAT"
+    ],
+    "authors": [
+        "Lalida Tuntipumiamorn",
+        "Puangpen Tangboonduangjit",
+        "Taweap Sanghangthum",
+        "Rattapol Rangseevijitprapa",
+        "Chirasak Khamfongkhruea",
+        "Thida Niyomthai",
+        "Boonrut Vuttiprasertpong",
+        "Supranee Supanant",
+        "Nongnuch Chatchaipaiboon",
+        "Porntip Iampongpaiboon",
+        "Pitchayut Nakkrasae",
+        "Tanwiwat Jaikuna"
+    ],
+    "citedby-count": 3,
+    "ref-count": 31,
+    "ref-list": [
+        "Intensity modulated radiotherapy: current status and issues of interest",
+        "Intensity-modulated radiotherapy for locally advanced non-small cell lung cancer: adose-escalation planning study",
+        "Intensity-modulated radiotherapy, not 3 dimensional conformal, is the preferred technique for treating locally advanced lung cancer",
+        "Volumetric modulated arc therapy of the pelvic lymph nodes to the aortic bifurcation in higher risk prostate cancer: early toxicity outcomes",
+        "Can advanced new radiation therapy technologies improve outcome of high grade glioma (HGG) patients? Analysis of 3D-conformal radiotherapy (3DCRT) versus volumetric-modulated arc therapy (VMAT) in patients treated with surgery, concomitant and adjuvant chemo-radiotherapy",
+        "A survey of radiation therapy utilization in Korea from 2010 to 2016: focusing on use of intensity-modulated radiation therapy",
+        "Guidance document on delivery, treatment planning, and clinical implementation of IMRT: report of the IMRT Subcommittee of the AAPM Radiation Therapy Committee",
+        "Guidelines for the verification of IMRT",
+        "Credentialing of institutions for IMRT through the use of anthropomorphic phantom",
+        "Independent evaluation of IMRT head and neck trial",
+        "Dosimetry audit for a multi-centre IMRT head and neck trial",
+        "IMRT commissioning: multiple institution planning and dosimetry comparisons, a report from AAPM Task Group 119",
+        "Pre-trial quality assurance processes for an intensity-modulated radiation therapy (IMRT) trial: PARSPORT, a UK multicentre Phase III trial comparing conventional radiotherapy and parotid-sparing IMRT for locally advanced head and neck cancer",
+        "UK guidelines for the safe delivery of intensity-modulated radiotherapy",
+        "A national dosimetric audit of IMRT",
+        "An external dosimetry audit programme to credential static and rotational IMRT delivery for clinical trials quality assurance",
+        "Japanese structure survey of high-precision radiotherapy in 2012. Based on institutional questionnaire about the patterns of care",
+        "A survey towards standardization of dosimetric verification in intensity-modulated radiation therapy",
+        "A survey on the quality assurance procedures used in intensity modulated radiation therapy (IMRT) at Indian hospitals",
+        "A multi-institutional study for tolerance and action levels of IMRT dose quality assurance measurements in Korea",
+        "The Swiss IMRT dosimetry intercomparison using a thorax phantom",
+        "A multi-institutional dosimetry audit of rotational intensity-modulated",
+        "A multi-institution evaluation of MLC log files and performance in IMRT delivery",
+        "DEMAT: a multi-institutional dosimetry audit of rotational and static intensity-modulated radiotherapy",
+        "Multi-centre audit of VMAT planning and pre-treatment verification",
+        "Auditing local methods for quality assurance in radiotherapy using the same set of predefined treatment plans",
+        "Annual Survey 2016\u20132017",
+        "Analysis of uncertainties in the IAEA/WHO TLD postal dose audit system",
+        "Multi-institutional evaluation of end-to-end protocol for IMRT/VMAT treatment chains utilizing conventional linacs",
+        "Independent evaluations of IMRT through the use of an anthropomorphic phantom",
+        "Dosimetric feasibility of an \u201coff-breast isocenter\u201d technique for whole-breast cancer radiotherapy"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199578",
+            "affilname": "Ramathibodi Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199578",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199575",
+            "affilname": "Siriraj Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199575",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "60029487",
+            "affilname": "National Cancer Institute Thailand",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029487",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Khon Kaen",
+            "@id": "60026046",
+            "affilname": "Faculty of Medicine, Khon Kaen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026046",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022464",
+            "affilname": "Chulabhorn Royal Academy",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022464",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60020543",
+            "affilname": "Bumrungrad International Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020543",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "105816640",
+            "affilname": "Wattanosoth Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/105816640",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "International Atomic Energy Agency"
+    ]
+}

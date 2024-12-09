@@ -1,0 +1,70 @@
+{
+    "eid": "2-s2.0-85053139810",
+    "title": "Feature reduction on fuzzy SVM-based coding unit decision in HEVC",
+    "cover-date": "2018-08-13",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (miscellaneous)",
+            "@code": "2201",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Ei Ei Tun",
+        "Supavadee Aramvith",
+        "Yoshikazu Miyanaga"
+    ],
+    "citedby-count": 0,
+    "ref-count": 12,
+    "ref-list": [
+        "Overview of the high efficiency video coding (HEVC) standard",
+        "Overview of the H.264/AVC video coding standard",
+        "Content based hierarchical fast coding unit decision algorithm for HEVC",
+        "Fast coding unit size selection for HEVC based on bayesian decision rule",
+        "An effective CU size decision method for HEVC encoders",
+        "Fast HEVC encoding decisions using data mining",
+        "CU splitting early termination based on weighted svm",
+        "Machine learning-based coding unit depth decisions for flexible complexity allocation in high efficiency video coding",
+        "Binary and multi-class learning based low complexity optimization for hevc encoding",
+        "Fuzzy SVM-based coding unit decision in HEVC"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Sapporo",
+            "@id": "60014652",
+            "affilname": "Hokkaido University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014652",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "JICA"
+    ]
+}

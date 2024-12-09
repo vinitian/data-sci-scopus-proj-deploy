@@ -1,0 +1,83 @@
+{
+    "eid": "2-s2.0-85136195597",
+    "title": "Multi-Label Classification for Articles in Thai Journal Database from Article's Abstract",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Education",
+            "@code": "3304",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "Binary Relevance",
+        "Classifier Chains",
+        "Label Power-set",
+        "multi-label classification"
+    ],
+    "authors": [
+        "Chintrai Puttipornchai",
+        "Sapa Chanyachatchawan",
+        "Nuengwong Tuaycharoen"
+    ],
+    "citedby-count": 0,
+    "ref-count": 11,
+    "ref-list": [
+        "A comparative study on Thai word segmentation approaches",
+        "Article classification using natural language processing and machine learning",
+        "Modi, Multi-label classification methods: A comparative study",
+        "Cross-validation",
+        "Text mining: Use of TF-IDF to examine the relevance of words to documents",
+        "Feature extraction based text classification using k-nearest neighbor algorithm",
+        "Multi-label arabic text classification: An overview",
+        "Comparison of base classifiers for multi-label learning"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011525",
+            "affilname": "Thailand National Electronics and Computer Technology Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011525",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,83 @@
+{
+    "eid": "2-s2.0-85020441618",
+    "title": "Magnetic Resonance\u2013based Motion Correction for Quantitative PET in Simultaneous PET-MR Imaging",
+    "cover-date": "2017-07-01",
+    "subject-areas": [
+        {
+            "$": "Radiology",
+            "@code": "2741"
+        },
+        {
+            "$": "Radiation",
+            "@code": "3108"
+        }
+    ],
+    "keywords": [
+        "Cardiac motion",
+        "MR-based motion correction",
+        "PET-MR",
+        "Respiratory motion"
+    ],
+    "authors": [
+        "Yothin Rakvongthai"
+    ],
+    "citedby-count": 12,
+    "ref-count": 39,
+    "ref-list": [
+        "The impact of respiratory motion on tumor quantification and delineation in static PET/CT imaging",
+        "Four-dimensional (4D) PET/CT imaging of the thorax",
+        "Respiratory motion artefact in the liver dome on FDG PET/CT: Comparison of attenuation correction with CT and a caesium external source",
+        "PET/CT imaging artifacts",
+        "Effect of respiratory gating on quantifying PET images of lung cancer",
+        "Impact of respiratory motion correction and spatial resolution on lesion detection in PET: A simulation study based on real MR dynamic data",
+        "High-resolution PET detector design: Modelling components of intrinsic spatial resolution",
+        "Evaluation of the spatial dependence of the point spread function in 2D PET image reconstruction using LOR-OSEM",
+        "Respiratory gating for 3-dimensional PET of the thorax: Feasibility and initial results",
+        "Strategies for Motion Tracking and Correction in PET",
+        "PET-MRI: A review of challenges and solutions in the development of integrated multimodality imaging",
+        "Magnetic resonance-based motion correction for positron emission tomography imaging",
+        "Quantitative simultaneous positron emission tomography and magnetic resonance imaging",
+        "Relative role of motion and PSF compensation in whole-body oncologic PET-MR imaging",
+        "Pulmonary imaging using respiratory motion compensated simultaneous PET/MR",
+        "Motion correction strategies for integrated PET/MR",
+        "Accelerated acquisition of tagged MRI for cardiac motion correction in simultaneous PET-MR: Phantom and patient studies",
+        "A simple regularizer for B-spline nonrigid image registration that encourages local invertibility",
+        "Motion correction of PET images using multiple acquisition frames",
+        "Non-rigid summing of gated PET via optical flow",
+        "Lung motion correction on respiratory gated 3-D PET/CT images",
+        "A motion-incorporated reconstruction method for gated PET studies",
+        "Model-based image reconstruction for four-dimensional PET",
+        "List-mode-based reconstruction for respiratory motion correction in PET using non-rigid body transformations",
+        "Towards coronary plaque imaging using simultaneous PET-MR: A simulation study",
+        "Motion compensation in histogram-mode and list-mode EM reconstructions: Beyond the event-driven approach",
+        "Respiratory motion correction in oncologic PET using T1-weighted MR imaging on a simultaneous whole-body PET/MR system",
+        "Self-gated MRI motion modeling for respiratory motion compensation in integrated PET/MRI",
+        "Nonrigid PET motion compensation in the lower abdomen using simultaneous tagged-MRI and PET imaging",
+        "MRI-based nonrigid motion correction in simultaneous PET/MRI",
+        "Motion compensation for brain PET imaging using wireless MR active markers in simultaneous PET-MR: Phantom and non-human primate studies",
+        "Cardiac motion compensation and resolution modeling in simultaneous PET-MR: A cardiac lesion detection study",
+        "A Theoretical study of the contrast recovery and variance of MAP reconstructions from PET data",
+        "Statistical approaches in quantitative positron emission tomography",
+        "MRI-based motion correction of thoracic PET: Initial comparison of acquisition protocols and correction strategies suitable for simultaneous PET/MRI systems",
+        "Analysis and comparison of two methods for motion correction in PET imaging",
+        "The effect of regularization in motion compensated PET image reconstruction: A realistic numerical 4D simulation study",
+        "Reconstruction-incorporated respiratory motion correction in clinical simultaneous PET/MR imaging for oncology applications",
+        "Practical PET respiratory motion correction in clinical PET/MR"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Boston",
+            "affilname": "Massachusetts General Hospital",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "National Institute of Biomedical Imaging and Bioengineering",
+        "National Institute of Biomedical Imaging and Bioengineering"
+    ]
+}

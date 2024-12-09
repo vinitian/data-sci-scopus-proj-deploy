@@ -1,0 +1,75 @@
+{
+    "eid": "2-s2.0-85102276868",
+    "title": "Application of the mixed effects model for analysing photovoltaic datasets and interpreting into meaningful insights",
+    "cover-date": "2021-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Ngoc Thien Le",
+        "Widhyakorn Asdornwised",
+        "Surachai Chaitusaney",
+        "Watit Benjapolakul"
+    ],
+    "citedby-count": 2,
+    "ref-count": 35,
+    "ref-list": [
+        "A new tidy data structure to support exploration and modeling of temporal data",
+        "Investigation of operating parameters and degradation of photovoltaic panels in a photovoltaic power plant",
+        "Non-technical loss detection using state estimation and analysis of variance",
+        "Electricity theft detection in low voltage networks with smart meters using state estimation",
+        "Time series method for short-term load forecasting using smart metering in distribution systems",
+        "A cluster analysis of energy-consuming activities in everyday life",
+        "A solution to dependency: using multilevel analysis to accommodate nested data",
+        "Estimating electricity impact profiles for building characteristics using smart meter data and mixed models",
+        "Analysis and short-term predictions of non-technical loss of electric power based on mixed effects models",
+        "Some differences between fixed, mixed, and random effects analysis of variance models",
+        "A review on linear mixed models for longitudinal data, possibly subject to dropout",
+        "Multilevel mixed linear model analysis using iterative generalized least squares",
+        "Nonlinear mixed effects models for repeated measures data",
+        "A mixed-effects model for categorical data",
+        "Estimating correlation coefficient between two variables with repeated observations using mixed effects model",
+        "Effects of parental hypertension on longitudinal trends in blood pressure and plasma metabolic profile",
+        "Mixed-effects estimation in dynamic models of plant growth for the assessment of inter-individual variability",
+        "Nonlinear mixed-effects models for kinetic parameter estimation with batch reactor data",
+        "A nonlinear mixed effects model for the prediction of natural gas consumption by individual customers",
+        "Comparative electrical energy yield performance of micro-inverter pv systems using a machine learning approach based on a mixed-effect model of real datasets",
+        "Chapter 9-electric load modeling for long-term forecasting",
+        "Prediction and forecast of a wind power",
+        "Fitting linear mixed-effects models using lme4",
+        "A sharper Bonferroni procedure for multiple tests of significance",
+        "Power of tukey's test for non-additivity",
+        "Model selection and akaike's information criterion (aic): The general theory and its analytical extensions",
+        "The use of the akaike information criterion in the identification of an optimum flood frequency model"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Machine Learning",
+        "Ratchadapisek Somphot Fund for Artificial Intelligence",
+        "Chulalongkorn University"
+    ]
+}

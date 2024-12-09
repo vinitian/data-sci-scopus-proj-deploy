@@ -1,0 +1,99 @@
+{
+    "eid": "2-s2.0-85030749075",
+    "title": "3DTV at home: Eulerian-lagrangian stereo-to-multiview conversion",
+    "cover-date": "2017-01-01",
+    "subject-areas": [
+        {
+            "$": "Computer Graphics and Computer-Aided Design",
+            "@code": "1704"
+        }
+    ],
+    "keywords": [
+        "Automultiscopic displays",
+        "Interperspective antialiasing",
+        "View synthesis",
+        "View transitions"
+    ],
+    "authors": [
+        "Petr Kellnhofer"
+    ],
+    "citedby-count": 15,
+    "ref-count": 49,
+    "ref-list": [
+        "JUMP: Virtual reality video",
+        "Advances in computational stereo",
+        "Optimizing stereo-to-multiview conversion for autostereoscopic displays",
+        "Trends in the 3D TV market",
+        "A luminance-contrast-aware disparity model and applications",
+        "Joint view expansion and filtering for automultiscopic 3D displays",
+        "Improving visual quality of view transitions in automultiscopic displays",
+        "Eulerian-on-lagrangian simulation",
+        "Automatic content creation for multiview autostereoscopic displays using image domain warping",
+        "Computation of component image velocity from local phase information",
+        "Phase-based disparity measurement",
+        "DeepStereo: Learning to Predict New Views from the World's Imagery",
+        "Compact algorithm for rectification of stereo pairs",
+        "Boundary matting for view synthesis",
+        "Evaluation of cost functions for stereo matching",
+        "Fast cost-volume filtering for visual correspondence and beyond",
+        "Learning-based view synthesis for light field cameras",
+        "Image-based rendering in the gradient domain",
+        "Nonlinear disparity mapping for stereoscopic 3D",
+        "Stereo matching and viewpoint synthesis FPGA implementation",
+        "An accurate algorithm for nonuniform fast Fourier transforms (NUFFT's)",
+        "Post-rendering 3D warping",
+        "Display adaptive 3D content remapping",
+        "Weighted joint bilateral filter with slope depth compensation filter for depth map refinement",
+        "3D TV: A scalable system for real-time acquisition, transmission, and autostereoscopic display of dynamic scenes",
+        "A Survey of Perceptual Evaluations and Requirements of Three-Dimensional TV",
+        "PRACTICAL REAL-TIME IMAGING STEREO MATCHER.",
+        "Mealtime phase-based optical flow on the GPU",
+        "Coherent spatiotemporal filtering, upsampling and rendering of RGBZ videos",
+        "The Best of IET and IBC",
+        "Circuits and Systems for Video Technology, IEEE Trans. On",
+        "The zone of comfort: Predicting visual discomfort with stereo displays",
+        "Image Processing, International Conference On",
+        "Shiftable Multiscale Transforms",
+        "Piecewise Planar Stereo for Image-based Rendering",
+        "Intermediate view interpolation based on multiview video plus depth for advanced 3D video systems",
+        "Automatic view synthesis by image-domain-warping",
+        "Layer extraction from multiple images containing reflections and transparency",
+        "Phase-based video motion processing",
+        "Image quality assessment: From error visibility to structural similarity",
+        "High performance imaging using large camera arrays",
+        "The Light Field Video Camera",
+        "Eulerian Video Magnification for Revealing Subtle Changes in the World",
+        "Light field from micro-baseline image pair",
+        "Quaternion wavelet phase based stereo matching for uncalibrated images",
+        "High-quality video view interpolation using a layered representation",
+        "Proc. of the 17th Eurographics Conference on Rendering Techniques"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Saarbrucken",
+            "affilname": "Universit\u00e4t des Saarlandes",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Cambridge",
+            "affilname": "MIT Computer Science &amp; Artificial Intelligence Laboratory",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Saarbrucken",
+            "affilname": "Max Planck Institute for Informatics",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": null,
+            "affilname": "MMCI",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": []
+}

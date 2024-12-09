@@ -1,0 +1,97 @@
+{
+    "eid": "2-s2.0-85085167218",
+    "title": "Context-Aware User and Item Representations Based on Unsupervised Context Extraction from Reviews",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Attention mechanism",
+        "context-aware recommender systems",
+        "region embedding",
+        "representation learning"
+    ],
+    "authors": [
+        "Padipat Sitkrongwong",
+        "Atsuhiro Takasu",
+        "Saranya Maneeroj"
+    ],
+    "citedby-count": 4,
+    "ref-count": 36,
+    "ref-list": [
+        "Recommender systems based on user reviews: The state of the art",
+        "Collaborative topic modeling for recommending scientific articles",
+        "Hidden factors and hidden topics: Understanding rating dimensions with review text",
+        "Joint deep modeling of users and items using reviews for recommendation",
+        "Convolutional matrix factorization for document context-aware recommendation",
+        "Interpretable convolutional neural networks with dual local and global attention for review rating prediction",
+        "Neural attentional rating regression with review-level explanations",
+        "Incorporating contextual information in recommender systems using a multidimensional approach",
+        "Context-aware recommender systems",
+        "Matrix factorization techniques for context aware recommendation",
+        "Bayesian probabilistic model for context-aware recommendations",
+        "Contextual recommendation based on text mining",
+        "Context-aware recommendation based on review mining",
+        "Recommendation based on contextual opinions",
+        "Inferring context from users' reviews for context aware recommendation",
+        "Mining context information from consumers reviews",
+        "A text classification based method for context extraction from online reviews",
+        "Using context similarity for service recommendation",
+        "Predicting and detecting the relevant contextual information in a movie-recommender system",
+        "Discovering contextual information from user reviews for recommendation purposes",
+        "Unsupervised context-driven recommendations based on user reviews",
+        "A context-aware user-item representation learning for item recommendation",
+        "Unsupervised context extraction via region embedding for context-aware recommendations",
+        "A new method of region embedding for text classification",
+        "Matrix factorization techniques for recommender systems",
+        "Probabilistic matrix factorization",
+        "Algorithms for non-negative matrix factorization",
+        "Convolutional neural networks for sentence classification",
+        "Attention is all you need",
+        "Distributed representations of words and phrases and their compositionality",
+        "Glove: Global vectors for word representation",
+        "Bert: Pre-training of deep bidirectional transformers for language understanding",
+        "Adam: A method for stochastic optimization",
+        "Justifying recommendations using distantlylabeled reviews and fine-grained aspects",
+        "Factorization machines with libFM",
+        "Visualizing data using t-SNE"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Hayama",
+            "@id": "60021523",
+            "affilname": "The Graduate University for Advanced Studies",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021523",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Cross-Ministerial Strategic Innovation Promotion Program",
+        "SIP",
+        "New Energy and Industrial Technology Development Organization"
+    ]
+}

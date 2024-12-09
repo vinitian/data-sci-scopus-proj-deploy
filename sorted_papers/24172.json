@@ -1,0 +1,114 @@
+{
+    "eid": "2-s2.0-85152621750",
+    "title": "Exploring polyamine interactions and binding pockets in SARS-CoV-2 ORF3a",
+    "cover-date": "2023-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Spectroscopy",
+            "@code": "1607",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Physical and Theoretical Chemistry",
+            "@code": "1606",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Graphics and Computer-Aided Design",
+            "@code": "1704",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Chemistry",
+            "@code": "2505",
+            "@abbrev": "MATE"
+        }
+    ],
+    "keywords": [
+        "Molecular docking",
+        "Molecular dynamics",
+        "ORF3a",
+        "SAR-CoV-2",
+        "Spermidine"
+    ],
+    "authors": [
+        "Panisak Boonamnaj",
+        "R. B. Pandey",
+        "Pornthep Sompornpisut"
+    ],
+    "citedby-count": 0,
+    "ref-count": 47,
+    "ref-list": [
+        "The architecture of the SARS-CoV-2 RNA genome inside virion",
+        "SARS-CoV-2 accessory proteins in viral pathogenesis: knowns and unknowns",
+        "The proteins of severe acute respiratory syndrome coronavirus-2 (SARS CoV-2 or n-COV19), the cause of COVID-19",
+        "Coronavirus envelope protein: current knowledge",
+        "Accessory proteins of SARS-CoV and other coronaviruses",
+        "Understanding the role of SARS-CoV-2 ORF3a in viral pathogenesis and COVID-19",
+        "Cryo-EM structure of SARS-CoV-2 ORF3a in lipid nanodiscs",
+        "Functional and druggability analysis of the SARS-CoV-2 proteome",
+        "The SARS-CoV-2 accessory protein ORF3a is not an ion channel, but does interact with trafficking proteins",
+        "Interactions of polyamines with ion channels",
+        "Analysis of SARS-CoV-2-controlled autophagy reveals spermidine, MK-2206, and niclosamide as putative antiviral therapeutics",
+        "Inward rectifiers and their regulation by endogenous polyamines",
+        "Progress of small molecular inhibitors in the development of anti-influenza virus agents",
+        "Targeting polyamine metabolism for control of human viral diseases",
+        "Recent advances in the development of polyamine analogues as antitumor agents",
+        "PubChem in 2021: new data content and improved web interfaces",
+        "Open Babel: an open chemical toolbox",
+        "Very fast prediction and rationalization of pKavalues for protein-ligand complexes",
+        "VMD: visual molecular dynamics",
+        "CHARMM-GUI: a web-based graphical user interface for CHARMM",
+        "CHARMM general force field: a force field for drug-like molecules compatible with the CHARMM all-atom additive biological force fields",
+        "Evaluating conformational free energies: the colony energy and its application to the problem of loop prediction",
+        "An open source platform for ligand pocket detection",
+        "AutoDock Vina 1.2.0: new docking methods, expanded force field, and Python bindings",
+        "AutoDock4 and AutoDockTools4: automated docking with selective receptor flexibility",
+        "ROSETTALIGAND: protein\u2013small molecule docking with full side-chain flexibility",
+        "Automated docking of substrates to proteins by simulated annealing",
+        "Automated docking using a Lamarckian genetic algorithm and an empirical binding free energy function",
+        "Computational modelling of nanotube delivery of anti-cancer drug into glutathione reductase enzyme",
+        "BCL: conf: small molecule conformational sampling using a knowledge based rotamer library",
+        "Effect of ionization state on voltage-sensor structure in resting state of the Hv1 channel",
+        "Continuum electrostatic approach for evaluating positions and interactions of proteins in a bilayer membrane",
+        "Improvements to the APBS biomolecular solvation software suite",
+        "PDB2PQR: an automated pipeline for the setup of Poisson\u2013Boltzmann electrostatics calculations",
+        "Comparison of simple potential functions for simulating liquid water",
+        "CHARMM36 all-atom additive protein force field: validation based on comparison to NMR data",
+        "Scalable molecular dynamics with NAMD",
+        "Atomistic modeling towards predictive cardiotoxicity",
+        "Wordom: a user-friendly program for the analysis of molecular structures, trajectories, and free energy surfaces",
+        "Analysis of SARS-CoV-2 ORF3a structure reveals chloride binding sites",
+        "Hijacking of cellular functions by severe acute respiratory syndrome coronavirus-2. Permeabilization and polarization of the host lipid membrane by viroporins",
+        "Biogenic polyamines spermine and spermidine activate RNA polymerase and inhibit RNA helicase of hepatitis C virus",
+        "Design, synthesis and biological evaluation of 2-aminoquinazolin-4(3H)-one derivatives as potential SARS-CoV-2 and MERS-CoV treatments",
+        "Ring of negative charge in BK channels facilitates block by intracellular Mg2+and polyamines through electrostatics",
+        "Scanning the topography of polyamine blocker binding in an inwardly rectifying potassium channel",
+        "Innate immunity: the first line of defense against SARS-CoV-2",
+        "SARS-CoV-2 drives NLRP3 inflammasome activation in human microglia through spike protein"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hattiesburg",
+            "@id": "60007027",
+            "affilname": "University of Southern Mississippi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007027",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Thailand Science Research and Innovation Fund Chulalongkorn University",
+        "Chulalongkorn University"
+    ]
+}

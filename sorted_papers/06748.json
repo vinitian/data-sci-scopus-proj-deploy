@@ -1,0 +1,74 @@
+{
+    "eid": "2-s2.0-85078032220",
+    "title": "A Fast CU Depth Estimation Algorithm for HEVC Inter Coding",
+    "cover-date": "2019-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Media Technology",
+            "@code": "2214",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "CU depth estimation",
+        "genetic algorithm",
+        "HEVC"
+    ],
+    "authors": [
+        "Ei Ei Tun",
+        "Supavadee Aramvith",
+        "Yoshikazu Miyanaga"
+    ],
+    "citedby-count": 0,
+    "ref-count": 5,
+    "ref-list": [
+        "Overview of the high efficiency video coding (HEVC) standard",
+        "Overview of the H.264/AVC video coding standard",
+        "Fuzzy SVM-based coding unit decision in HEVC"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Sapporo",
+            "@id": "60014652",
+            "affilname": "Hokkaido University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014652",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "JICA",
+        "Ministry of Internal Affairs and Communications"
+    ]
+}

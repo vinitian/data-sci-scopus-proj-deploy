@@ -1,0 +1,66 @@
+{
+    "eid": "2-s2.0-85152056801",
+    "title": "Y-X-Y Encoding for Identifying Types of Sentence Similarity",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Media Technology",
+            "@code": "2214",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Classifier",
+        "Encoder",
+        "SemEval",
+        "Sentence similarity"
+    ],
+    "authors": [
+        "Thanaporn Jinnovart",
+        "Chidchanok Lursinsap"
+    ],
+    "citedby-count": 0,
+    "ref-count": 15,
+    "ref-list": [
+        "SemEval-2014 task 1: Evaluation of compositional distributional semantic models on full sentences through semantic relatedness and textual entailment",
+        "GloVe: Global vectors for word representation",
+        "Long short-term memory",
+        "Attention is all you need",
+        "Distributional structure",
+        "NeuralLog: Natural language inference with joint neural and logical reasoning",
+        "Illinois-LH: A denotational and distributional approach to semantics"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

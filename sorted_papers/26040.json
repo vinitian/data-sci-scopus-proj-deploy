@@ -1,0 +1,62 @@
+{
+    "eid": "2-s2.0-85123469207",
+    "title": "HT-RBAC: A Design of Role-based Access Control Model for Microservice Security Manager",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Health Informatics",
+            "@code": "2718",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Education",
+            "@code": "3304",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "identity management",
+        "IT security",
+        "microservices",
+        "role-based access control"
+    ],
+    "authors": [
+        "Chittipat Pasomsup",
+        "Yachai Limpiyakorn"
+    ],
+    "citedby-count": 3,
+    "ref-count": 12,
+    "ref-list": [
+        "Microservices: Yesterday today and tomorrow",
+        "Role-based cryptosystem: A new cryptographic RBAC system based on role-key hierarchy",
+        "From RBAC to ABAC: Constructing flexible data access control for cloud storage services",
+        "A development of multi-SSO authentication and RBAC model in the distributed systems",
+        "RBAC+: Dynamic access control for RBAC-administered web-based databases",
+        "Microservices architecture enables devops: Migration to a cloud-native architecture",
+        "Research on unified authentication and authorization in microservice architecture",
+        "Multi-tenancy authorization models for collaborative cloud services",
+        "A chain calling in coordination for multi-tenant collaborative cloud services"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

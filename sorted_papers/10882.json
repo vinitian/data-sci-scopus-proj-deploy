@@ -1,0 +1,93 @@
+{
+    "eid": "2-s2.0-85065103402",
+    "title": "A Preliminary Study on Fundamental Thai NLP Tasks for User-generated Web Content",
+    "cover-date": "2018-07-02",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Health Informatics",
+            "@code": "2718",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Anuruth Lertpiya",
+        "Teerapat Chaiwachirasak",
+        "Nattasit Maharattanamalai",
+        "Theerapat Lapjaturapit",
+        "Tawunrat Chalothorn",
+        "Nutcha Tirasaroj",
+        "Ekapol Chuangsuwanich"
+    ],
+    "citedby-count": 15,
+    "ref-count": 29,
+    "ref-list": [
+        "BEST 2009: Thai word segmentation software contest",
+        "Building a Thai part-of-speech tagged corpus (orchid)",
+        "Some applications of tree-based modelling to speech and language",
+        "Sentence boundary detection: A long solved problem",
+        "Thoughts on word and sentence segmentation in Thai",
+        "Automatic sentence break disambiguation for Thai",
+        "Deep learning",
+        "Distributed representations of words and phrases and their compositionality",
+        "Techniques for automatically correcting words in text",
+        "A sequence labeling approach to deriving word variants",
+        "Named entity recognition for Nepali text using support vector machines",
+        "Named entity recognition and classification in kannada language",
+        "A named entity recognition approach for albanian",
+        "A hybrid method for Persian named entity recognition",
+        "A named entity recognition (ner) system for Sinhala language",
+        "Ensemble based active annotation for named entity recognition",
+        "A Chinese named entity recognition system with neural networks",
+        "Chinese named entity recognition based on bilstm neural network with additional features",
+        "Improving Thai word segmentation with named entity recognition",
+        "Thai named entity extraction by incorporating maximum entropy model with simple heuristic information",
+        "Spell checker for Thai document",
+        "A comparative study on different techniques for Thai part-of-speech tagging",
+        "Contextual language models for ranking answers to natural language definition questions"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nontaburi",
+            "@id": "122490113",
+            "affilname": "Kasikorn Labs",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/122490113",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Kasikorn Business-Technology Group"
+    ]
+}

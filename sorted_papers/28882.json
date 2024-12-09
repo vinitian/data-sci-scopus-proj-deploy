@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85164530759",
+    "title": "GNSS rover receivers\u2019 horizontal positioning accuracy assessments based on NRTK-VRS surveying",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computers in Earth Sciences",
+            "@code": "1903",
+            "@abbrev": "EART"
+        },
+        {
+            "@_fa": "true",
+            "$": "Earth and Planetary Sciences (miscellaneous)",
+            "@code": "1901",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [
+        "Cadastral surveying Thailand",
+        "NRTK-VRS GNSS positioning services",
+        "Receiver horizontal positioning accuracy"
+    ],
+    "authors": [
+        "Teetat Charoenkalunyuta",
+        "Chalermchon Satirapod",
+        "Namphon Saksanit",
+        "Thayathip Thongtan"
+    ],
+    "citedby-count": 0,
+    "ref-count": 26,
+    "ref-list": [
+        "Network RTK: A case study in Florida",
+        "Evaluation of light detection and ranging (lidar) for measuring river corridor topography",
+        "Performance of network-based RTK GPS in low-latitude region: A case study in Thailand",
+        "Performance of network-based RTK GNSS for the cadastral survey in Thailand",
+        "Effect of Thai ionospheric maps (THIM) model on the performance of network based RTK GPS in Thailand",
+        "A variance model in NRTK-based geodetic positioning as a function of baseline length",
+        "Evaluation of RTK-GPS and total station for applications in land surveying",
+        "Unification of GNSS CORS coordinates in Thailand",
+        "Root mean square error compared to, and contrasted with, standard deviation",
+        "Precision performance evaluation of RTK and RTN solutions: a case study",
+        "An approach to reduce root mean square error in toposheets",
+        "Network RTK research and implementation: A geodetic perspective",
+        "Contribution of GNSS CORS infrastructure to the mission of modern geodesy and status of GNSS CORS in Thailand",
+        "A survey of forecast error measures",
+        "How well does the virtual reference station (VRS) system of GPS base stations perform in comparison to conventional RTK?",
+        "Can long-range single-baseline RTK provide service in Shanghai comparable to network RTK?"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "124761509",
+            "affilname": "National Institute of Metrology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/124761509",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "113039673",
+            "affilname": "Royal Thai Survey Department",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/113039673",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

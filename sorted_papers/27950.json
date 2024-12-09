@@ -1,0 +1,72 @@
+{
+    "eid": "2-s2.0-85046023620",
+    "title": "Numerical investigation of circle defining curve for two-dimensional problem with general boundaries using the scaled boundary finite element method",
+    "cover-date": "2019-02-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Architecture",
+            "@code": "2216",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "circular defining curve",
+        "exact geometry",
+        "general boundaries",
+        "SBFEM"
+    ],
+    "authors": [
+        "Chung Nguyen Van"
+    ],
+    "citedby-count": 2,
+    "ref-count": 26,
+    "ref-list": [
+        "Body loads in scaled boundary finite-element method",
+        "The scaled boundary finite-element method-alias consistent infinitesimal finite-element cell method-for elastodynamics",
+        "The scaled boundary finite-element method\u2013A fundamental solution-less boundary-element method",
+        "A virtual work derivation of the scaled boundary finite-element method for elastostatics",
+        "Prescribed side-face displacements in the scaled boundary finite-element method",
+        "An h-hierarchical adaptive procedure for the scaled boundary finite-element method",
+        "Use of higher-order shape functions in the scaled boundary finite element method",
+        "Adaptive coupling of the finite-element and scaled boundary finite-element methods for non-linear analysis of unbounded media",
+        "A p-adaptive scaled boundary finite element method based on maximization of the error decrease rate",
+        "An Element-free Galerkin (EFG) scaled boundary method",
+        "Use of Fourier shape functions in the scaled boundary method",
+        "Using fundamental solutions in the scaled boundary finite element method to solve problems with concentrated loads",
+        "A scaled boundary finite element method applied to electrostatic problems",
+        "A scaled boundary finite element method for cyclically symmetric two-dimensional elastic analysis",
+        "Automatic modelling of cohesive crack propagation in concrete using polygon scaled boundary finite elements",
+        "Dynamic crack propagation simulation with scaled boundary polygon elements and automatic remeshing technique",
+        "Volumetric parametrization from a level set boundary representation with PHT-splines",
+        "Isogeometric analysis: an overview and computer implementation aspects",
+        "A level-set based^IGA formulation for topology optimization of flexoelectric materials",
+        "Isogeometric symmetric Galerkin boundary element method for three-dimensional elasticity problems",
+        "An isogeometric symmetric Galerkin boundary element method for two-dimensional crack problems"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60112735",
+            "affilname": "HCMC University of Technology and Education",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60112735",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "CU"
+    ]
+}

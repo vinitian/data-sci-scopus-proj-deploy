@@ -1,0 +1,58 @@
+{
+    "eid": "2-s2.0-85057420667",
+    "title": "Extraction of Trend Keywords and stop words from Thai Facebook pages using character n-Grams",
+    "cover-date": "2018-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Information retrieval",
+        "Keyword extraction",
+        "Social media mining",
+        "Stop words"
+    ],
+    "authors": [
+        "Nattapong Ousirimaneechai",
+        "Sukree Sinthupinyo"
+    ],
+    "citedby-count": 9,
+    "ref-count": 13,
+    "ref-list": [
+        "'N-gram-based text categorization,'",
+        "'An Overview of Graph-Based Keyword Extraction Methods and Approaches,'",
+        "'Stop word in readability assessment of Thai text,'",
+        "'Automatically building a stopword list for an information retrieval system,'",
+        "'Finding Key Terms Representing Events from Thai Twitter,'",
+        "'LearnLexTo: a machine-learning based word segmentation for indexing Thai texts,'",
+        "'LexToPlus: a Thai lexeme tokenization and normalization tool,'",
+        "'Algorithm AS 136: A k-means clustering algorithm,'",
+        "'Review on determining number of cluster in K-Means clustering,'"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

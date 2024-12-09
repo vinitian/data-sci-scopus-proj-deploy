@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85088300040",
+    "title": "Family of chaotic maps from game theory",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Mathematics (all)",
+            "@code": "2600",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Center of mass",
+        "Chaos",
+        "Congestion game",
+        "Interval maps",
+        "Multiplicative weights"
+    ],
+    "authors": [
+        "Thiparat Chotibut",
+        "Fryderyk Falniowski",
+        "Micha\u0142 Misiurewicz",
+        "Georgios Piliouras"
+    ],
+    "citedby-count": 8,
+    "ref-count": 9,
+    "ref-list": [
+        "The multiplicative weights update method: A meta-algorithm and applications",
+        "Odd chaos",
+        "Period three implies chaos",
+        "Rotation theory",
+        "Multiplicative Weights Update with Constant Step-Size in Congestion Games: Convergence, Limit Cycles and Chaos",
+        "A class of games possessing pure-strategy Nash equilibria",
+        "Co-existence of the cycles of a continuous mapping of the line into itself"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "60104290",
+            "affilname": "Singapore University of Technology and Design",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104290",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Indianapolis",
+            "@id": "60024609",
+            "affilname": "Indiana University-Purdue University Indianapolis",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024609",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Krakow",
+            "@id": "60015632",
+            "affilname": "Krakow University of Economics",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015632",
+            "affiliation-country": "Poland"
+        }
+    ],
+    "funding": [
+        "SUTD-ZJU",
+        "Simons Foundation",
+        "COST",
+        "National Science Centre",
+        "Faculty of Science, Chulalongkorn University"
+    ]
+}

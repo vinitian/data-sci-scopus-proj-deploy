@@ -1,0 +1,79 @@
+{
+    "eid": "2-s2.0-85077959855",
+    "title": "Multi-step Power Consumption Forecasting in Thailand Using Dual-Stage Attentional LSTM",
+    "cover-date": "2019-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Attention Mechanism",
+        "Deep learning",
+        "Long short-term memory",
+        "Power consumption forecasting"
+    ],
+    "authors": [
+        "Chukwan Siridhipakul",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 8,
+    "ref-count": 24,
+    "ref-list": [
+        "Electricity consumption forecasting using time series analysis",
+        "Electric load forecasting using support vector machines for robust regression",
+        "Segmenting residential smart meter data for short-term load forecasting",
+        "A hybrid approach towards improved artificial neural network training for short-term load forecasting",
+        "Day ahead load forecasting for IESCO using Artificial Neural Network and Bagged Regression Tree",
+        "An efficient deep model for day-ahead electricity load forecasting with stacked denoising auto-encoders",
+        "Deep neural network based demand side short term load forecasting",
+        "A deep learning model for short-term power load and probability density forecasting",
+        "Deep neural networks for energy load forecasting",
+        "Energy load forecast using S2S deep neural networks with k-Shape clustering",
+        "A whole system assessment of novel deep learning approach on short-term load forecasting",
+        "Long term load forecasting with hourly predictions based on long-short-term-memory networks",
+        "Short term electricity load forecasting using a hybrid model",
+        "Predicting the household power consumption using cnn-lstm hybrid networks: 19th international conference, madrid, Spain, November 21-23 2018",
+        "Load forecasting via deep neural networks",
+        "Improving time series' forecast errors by using recurrent neural networks",
+        "Multiple steps time series prediction by a novel Recurrent Kernel Extreme Learning Machine approach",
+        "Multi-step ahead time series forecasting for different data patterns based on lstm recurrent neural network"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Electricity Generating Authority of Thailand"
+    ]
+}

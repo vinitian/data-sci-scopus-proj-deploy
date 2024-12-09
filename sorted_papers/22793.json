@@ -1,0 +1,91 @@
+{
+    "eid": "2-s2.0-85127955982",
+    "title": "Efficient Image Embedding for Fine-Grained Visual Classification",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Decision Sciences (miscellaneous)",
+            "@code": "1801",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "convolutional neural network",
+        "deep learning",
+        "embedding",
+        "Fine-grained visual classification",
+        "localization",
+        "loss function"
+    ],
+    "authors": [
+        "Soranan Payatsuporn",
+        "Boonserm Kijsirikul"
+    ],
+    "citedby-count": 1,
+    "ref-count": 36,
+    "ref-list": [
+        "3d object representations for fine-grained categorization",
+        "Deep residual learning for image recognition",
+        "Densely connected convolutional networks",
+        "Efficientnet: Rethinking model scaling for convolutional neural networks",
+        "Part-based R-CNNs for fine-grained category detection",
+        "Part-stacked cnn for finegrained visual categorization",
+        "Bilinear cnn models for fine-grained visual recognition",
+        "Compact bilinear pooling",
+        "ELoPE: Fine-Grained Visual Classification with Efficient Localization, Pooling and Embedding",
+        "Learning multi-attention convolutional neural network for fine-grained image recognition",
+        "Look closer to see better: Recurrent attention convolutional neural network for fine-grained image recognition",
+        "Learning a discriminative filter bank within a cnn for fine-grained recognition",
+        "A discriminative feature learning approach for deep face recognition",
+        "Pairwise confusion for fine-grained visual classification",
+        "Multi-attention multiclass constraint for fine-grained image recognition",
+        "The devil is in the channels: Mutual-channel loss for fine-grained image classification",
+        "Looking for the devil in the details: Learning trilinear attention sampling network for finegrained image recognition",
+        "Learning to navigate for fine-grained classification",
+        "Mask-CNN: Localizing parts and selecting descriptors for fine-grained bird species categorization",
+        "Selective sparse sampling for fine-grained image recognition",
+        "Channel interaction networks for fine-grained image categorization",
+        "Learning Semantically Enhanced Feature for Fine-Grained Image Classification",
+        "Selective convolutional descriptor aggregation for fine-grained image retrieval",
+        "Arcface: Additive angular margin loss for deep face recognition",
+        "Grad-cam: Visual explanations from deep networks via gradient-based localization",
+        "Imagenet: A large-scale hierarchical image database 2009",
+        "Sphereface: Deep hypersphere embedding for face recognition",
+        "Focal loss for dense object detection",
+        "Rethinking feature distribution for loss functions in image classification",
+        "Cosface: Large margin cosine loss for deep face recognition"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

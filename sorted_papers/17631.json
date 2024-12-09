@@ -1,0 +1,929 @@
+{
+    "eid": "2-s2.0-85148566599",
+    "title": "The economic well-being of nations is associated with positive daily situational experiences",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Human Factors and Ergonomics",
+            "@code": "3307",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Social Psychology",
+            "@code": "3207",
+            "@abbrev": "PSYC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geography, Planning and Development",
+            "@code": "3305",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Psychology (miscellaneous)",
+            "@code": "3201",
+            "@abbrev": "PSYC"
+        }
+    ],
+    "keywords": [
+        "Culture",
+        "Ecological psychology",
+        "Economic development",
+        "Positive psychology",
+        "Situational assessment",
+        "Socioeconomic status",
+        "Subjective well-being"
+    ],
+    "authors": [
+        "Gwendolyn Gardiner",
+        "Daniel I. Lee",
+        "Erica Baranski",
+        "David C. Funder",
+        "Maite Beramendi",
+        "Brock Bastian",
+        "Aljoscha Neubauer",
+        "Diego Cortez",
+        "Eric Roth",
+        "Ana Torres",
+        "Daniela S. Zanini",
+        "Kristina Petkova",
+        "Jessica Tracy",
+        "Catherine Amiot",
+        "Mathieu Pelletier-Dumas",
+        "Roberto Gonz\u00e1lez",
+        "Ana Rosenbluth",
+        "Sergio Salgado",
+        "Yanjun Guan",
+        "Yu Yang",
+        "Diego Forero",
+        "Andr\u00e9s Camargo",
+        "Emmanouil Papastefanakis",
+        "Georgios Kritsotakis",
+        "Eirini Spyridaki",
+        "Evangelia Fragkiadaki",
+        "\u017deljko Jernei\u0107",
+        "Martina H\u0159eb\u00ed\u010dkov\u00e1",
+        "Sylvie Graf",
+        "Pernille Str\u00f8b\u00e6k",
+        "Anu Realo",
+        "Maja Becker",
+        "Christelle Maisonneuve",
+        "Sofian El-Astal",
+        "Vladimer Lado Gamsakhurdia",
+        "John Rauthmann",
+        "Matthias Ziegler",
+        "Lars Penke",
+        "Emma E. Buchtel",
+        "Victoria Wai Lan Yeung",
+        "\u00c1gota Kun",
+        "Peter Gadanecz",
+        "Zolt\u00e1n Vass",
+        "M\u00e1t\u00e9 Smohai",
+        "Anagha Lavalekar",
+        "Meta Zahro Aurelia",
+        "Dian Kinayung",
+        "Vanessa Gaffar",
+        "Gavin Sullivan",
+        "Christopher Day",
+        "Eyal Rechter",
+        "Marco Perugini",
+        "Giulio Costantini",
+        "Augusto Gnisci",
+        "Ida Sergi",
+        "Vincenzo Paolo Senese",
+        "Francesca Mottola",
+        "Tatsuya Sato",
+        "Yuki Nakata",
+        "Shizuka Kawamoto",
+        "Asuka Komiya",
+        "Marwan Al-Zoubi",
+        "Nicholas Owsley",
+        "Chaning Jang",
+        "Georgina Mburu",
+        "Irene Ngina",
+        "Girts Dimdins",
+        "Rasa Barkauskiene",
+        "Alfredas Laurinavicius",
+        "Marijana Markovikj",
+        "Eleonara Serafimovska",
+        "Khairul A. Mastor",
+        "Elliott Kruse",
+        "Nair\u00e1n Ram\u00edrez-Esparza",
+        "Jaap Denissen",
+        "Marcel Van Aken",
+        "Ron Fischer",
+        "Ike E. Onyishi",
+        "Kalu T. Ogba",
+        "Siri Leknes",
+        "Vera Waldal Holen",
+        "Ingelin Hansen",
+        "Christian Krog Tamnes",
+        "Kaia Kl\u00e6va",
+        "Rukhsana Kausar",
+        "Nashi Khan",
+        "Muhammad Rizwan",
+        "Agust\u00edn Espinosa",
+        "Maria Cecilia Gastardo-Conaco",
+        "Diwa Malaya A. Qui\u00f1ones",
+        "Pawe\u0142 Izdebski",
+        "Martyna Koty\u015bko",
+        "Piotr Szarota",
+        "Joana Henriques-Calado",
+        "Florin Alin Sava",
+        "Olya Lvova",
+        "Victoria Pogrebitskaya",
+        "Mikhail Allakhverdov",
+        "Sergey Manichev",
+        "Oumar Barry",
+        "Sne\u017eana Smederevac",
+        "Petar \u010colovi\u0107",
+        "Du\u0161anka Mitrovi\u0107",
+        "Milan Olja\u010da",
+        "Ryan Hong",
+        "Peter Halama",
+        "Janek Musek",
+        "Francois De Kock",
+        "Gyuseog Han",
+        "Eunkook M. Suh",
+        "Soyeon Choi",
+        "David Gallardo-Pujol",
+        "Luis Oceja",
+        "Sergio Villar",
+        "Zoltan Kekecs",
+        "Nils Arlinghaus",
+        "Daniel P. Johnson",
+        "Alice Kathryn O'Donnell",
+        "Clara Kulich",
+        "Fabio Lorenzi-Cioldi",
+        "Janina Larissa B\u00fchler",
+        "Mathias Allemand",
+        "Yen Ping Chang",
+        "Wei fang Lin",
+        "Watcharaporn Boonyasiriwat",
+        "S. Adil Saribay",
+        "Oya Somer",
+        "Pelin Karakus Akalin",
+        "Peter Kakubeire Baguma",
+        "Alexander Vinogradov",
+        "Larisa Zhuravlova",
+        "Mark Conner",
+        "Jason Rentfrow",
+        "Alexa Tullett",
+        "Kyle Sauerberger",
+        "Douglas E. Colman",
+        "Joey T. Cheng",
+        "Eric Stocks",
+        "Huyen Thi Thu Bui"
+    ],
+    "citedby-count": 0,
+    "ref-count": 52,
+    "ref-list": [
+        "Do daily stress processes account for socioeconomic health disparities?",
+        "Multi-country evaluation of affective experience: validation of an abbreviated version of the day reconstruction method in seven countries",
+        "On \u201cnationology\u201d: The gravitational field of national culture",
+        "Who in the world is trying to change their personality traits? Volitional personality change among college students on 6 continents",
+        "International optimism: correlates and consequences of dispositional optimism across 61 countries",
+        "Predicting more of the people more of the time: assessing the personality of situations",
+        "How comparable are the Gallup World Poll life satisfaction data?",
+        "International evidence on well-being",
+        "Cross-national variation in individual life satisfaction: effects of national wealth, human development, and environmental conditions",
+        "Taking stock of happiness and meaning in everyday life: an experience sampling approach",
+        "Income, health, and well-being around the world: evidence from the Gallup World Poll",
+        "Subjective well-being",
+        "Factors predicting the subjective well-being of nations",
+        "Wealth and happiness across the world: material prosperity predicts life evaluation, whereas psychosocial prosperity predicts positive feeling",
+        "Obesity and socioeconomic status in developing countries: a systematic review",
+        "The experience of situations before and during a COVID-19 shelter-at-home period",
+        "Evaluating effect size in psychological research: sense and nonsense",
+        "Happiness around the world: a combined etic-emic approach across 63 countries",
+        "Towards meaningful comparisons of personality in large-scale cross-cultural studies",
+        "Small effects: the indispensable foundation for a cumulative psychological science",
+        "The world at 7:00: comparing the experience of situations across 20 countries",
+        "Most people are not WEIRD",
+        "The relation of socioeconomic status to subjective well-being in developing countries: a meta-analysis",
+        "Income reliably predicts daily sadness, but not happiness: a replication and extension of Kushlev, Dunn, and Lucas (2015)",
+        "A survey method for characterizing daily life experience: the day reconstruction method",
+        "Dissatisfied with life but having a good day: time-use and well-being of the unemployed",
+        "Measuring the Subjective Well-Being of Nations: National Accounts of Time Use and Well-Being",
+        "The role of positive and negative emotions in life satisfaction across nations",
+        "Higher income is associated with less daily sadness but not more daily happiness",
+        "Situational experience around the world: a replication and extension in 62 countries",
+        "Socioeconomic status and child development: a meta-analysis",
+        "The impact of childhood and adult SES on physical, mental, and cognitive well-being in later life",
+        "The how of happiness: A practical guide to getting the life you want",
+        "Socioecological psychology",
+        "Cultural psychology: a new look",
+        "Influences of socioeconomic status, social network, and competence on subjective well-being in later life: a meta-analysis",
+        "Subjective socioeconomic status and adolescent health: a meta-analysis",
+        "R: A language and Environment for Statistical Computing",
+        "The Riverside situational Q-sort",
+        "Evaluating correlations in studies of personality and behavior: beyond the number of significant findings to be expected by chance",
+        "Individual and culture-level components of survey response styles: a multi-level analysis using cultural models of selfhood",
+        "The next Big Five Inventory (BFI-2): Developing and assessing a hierarchical model with 15 facets to enhance bandwidth, fidelity, and predictive power",
+        "Life course socioeconomic status, daily stressors, and daily well-being: examining the chain of risk models",
+        "The association between objective and subjective socioeconomic status and subjective well-being: A meta-analytic review",
+        "Needs and subjective well-being around the world",
+        "Human Development Report 2019: Beyond Income, Beyond Averages, Beyond Today - Inequalities in Human Development in the 21st Century",
+        "Worldwide socioeconomic status and stroke mortality: an ecological study",
+        "Socioeconomic status is associated with global diabetes prevalence"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bogota",
+            "@id": "60107234",
+            "affilname": "Fundaci\u00f3n Universitaria del \u00c1rea Andina",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60107234",
+            "affiliation-country": "Colombia"
+        },
+        {
+            "affiliation-city": "Riverside",
+            "@id": "60029526",
+            "affilname": "University of California, Riverside",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029526",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bielefeld",
+            "@id": "60015595",
+            "affilname": "Universit\u00e4t Bielefeld",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015595",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Nashua",
+            "@id": "60253271",
+            "affilname": "Hellenic American University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60253271",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Toulouse",
+            "@id": "60123084",
+            "affilname": "Laboratoire Cognition, Langues, Langage, Ergonomie",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60123084",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "San Pedro Garza Garcia",
+            "@id": "60116188",
+            "affilname": "EGADE Business School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60116188",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Kiriat Ono",
+            "@id": "60112467",
+            "affilname": "Ono Academic College",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60112467",
+            "affiliation-country": "Israel"
+        },
+        {
+            "affiliation-city": "Zhytomyr",
+            "@id": "60109815",
+            "affilname": "Polissia National University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60109815",
+            "affiliation-country": "Ukraine"
+        },
+        {
+            "affiliation-city": "Lisbon",
+            "@id": "60106167",
+            "affilname": "Faculdade de Psicologia, Universidade de Lisboa",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60106167",
+            "affiliation-country": "Portugal"
+        },
+        {
+            "affiliation-city": "Rennes",
+            "@id": "60105533",
+            "affilname": "Laboratoire de Psychologie : Cognition, Comportement, Communication (LP3C)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60105533",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Shanghai",
+            "@id": "60105232",
+            "affilname": "ShanghaiTech University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60105232",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Nicosia",
+            "@id": "60104395",
+            "affilname": "Uluslararas\u0131 K\u0131br\u0131s \u00dcniversitesi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104395",
+            "affiliation-country": "Cyprus"
+        },
+        {
+            "affiliation-city": "Bandung",
+            "@id": "60103797",
+            "affilname": "Universitas Pendidikan Indonesia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103797",
+            "affiliation-country": "Indonesia"
+        },
+        {
+            "affiliation-city": "Bydgoszcz",
+            "@id": "60082121",
+            "affilname": "Kazimierz Wielki University in Bydgoszcz",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60082121",
+            "affiliation-country": "Poland"
+        },
+        {
+            "affiliation-city": "Gaza",
+            "@id": "60072734",
+            "affilname": "Al-Azhar University of Gaza",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60072734",
+            "affiliation-country": "Palestine"
+        },
+        {
+            "affiliation-city": "Tbilisi",
+            "@id": "60071909",
+            "affilname": "Ivane Javakhishvili Tbilisi State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071909",
+            "affiliation-country": "Georgia"
+        },
+        {
+            "affiliation-city": "Kampala",
+            "@id": "60071676",
+            "affilname": "Makerere University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071676",
+            "affiliation-country": "Uganda"
+        },
+        {
+            "affiliation-city": "Dakar",
+            "@id": "60071540",
+            "affilname": "Universit\u00e9 Cheikh Anta Diop de Dakar",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071540",
+            "affiliation-country": "Senegal"
+        },
+        {
+            "affiliation-city": "Quezon City",
+            "@id": "60071491",
+            "affilname": "University of the Philippines Diliman",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071491",
+            "affiliation-country": "Philippines"
+        },
+        {
+            "affiliation-city": "Hanoi",
+            "@id": "60071397",
+            "affilname": "Tr\u01b0\u1eddng \u0110\u1ea1i h\u1ecdc S\u01b0 ph\u1ea1m H\u00e0 N\u1ed9i",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071397",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Famagusta",
+            "@id": "60071323",
+            "affilname": "Eastern Mediterranean University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071323",
+            "affiliation-country": "Turkey"
+        },
+        {
+            "affiliation-city": "Lima",
+            "@id": "60071236",
+            "affilname": "Pontificia Universidad Catolica del Peru",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071236",
+            "affiliation-country": "Peru"
+        },
+        {
+            "affiliation-city": "Riga",
+            "@id": "60071043",
+            "affilname": "Latvijas Universit\u0101te",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071043",
+            "affiliation-country": "Latvia"
+        },
+        {
+            "affiliation-city": "Novi Sad",
+            "@id": "60068801",
+            "affilname": "University of Novi Sad",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60068801",
+            "affiliation-country": "Serbia"
+        },
+        {
+            "affiliation-city": "Amman",
+            "@id": "60064180",
+            "affilname": "The University of Jordan",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60064180",
+            "affiliation-country": "Jordan"
+        },
+        {
+            "affiliation-city": "Vilnius",
+            "@id": "60059987",
+            "affilname": "Vilniaus Universitetas",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60059987",
+            "affiliation-country": "Lithuania"
+        },
+        {
+            "affiliation-city": "Lahore",
+            "@id": "60053707",
+            "affilname": "University of the Punjab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60053707",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Heraklion",
+            "@id": "60032307",
+            "affilname": "Hellenic Mediterranean University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032307",
+            "affiliation-country": "Greece"
+        },
+        {
+            "affiliation-city": "Saint Petersburg",
+            "@id": "60031888",
+            "affilname": "Saint Petersburg State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031888",
+            "affiliation-country": "Russian Federation"
+        },
+        {
+            "affiliation-city": "Gottingen",
+            "@id": "60031514",
+            "affilname": "Georg-August-Universit\u00e4t G\u00f6ttingen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031514",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Prague",
+            "@id": "60031135",
+            "affilname": "Academy of Sciences of the Czech Republic",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031135",
+            "affiliation-country": "Czech Republic"
+        },
+        {
+            "affiliation-city": "Cholula",
+            "@id": "60031120",
+            "affilname": "Universidad de las Am\u00e9ricas Puebla",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031120",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Ljubljana",
+            "@id": "60031106",
+            "affilname": "Univerza v Ljubljani",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031106",
+            "affiliation-country": "Slovenia"
+        },
+        {
+            "affiliation-city": "Cambridge",
+            "@id": "60031101",
+            "affilname": "University of Cambridge",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031101",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Hayward",
+            "@id": "60030992",
+            "affilname": "California State University, East Bay",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030992",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Copenhagen",
+            "@id": "60030840",
+            "affilname": "K\u00f8benhavns Universitet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030840",
+            "affiliation-country": "Denmark"
+        },
+        {
+            "affiliation-city": "Higashihiroshima",
+            "@id": "60030788",
+            "affilname": "Hiroshima University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030788",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Budapest",
+            "@id": "60030035",
+            "affilname": "Budapest University of Technology and Economics",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030035",
+            "affiliation-country": "Hungary"
+        },
+        {
+            "affiliation-city": "Taoyuan",
+            "@id": "60029740",
+            "affilname": "Chung Yuan Christian University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029740",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Santiago",
+            "@id": "60029681",
+            "affilname": "Pontificia Universidad Cat\u00f3lica de Chile",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029681",
+            "affiliation-country": "Chile"
+        },
+        {
+            "affiliation-city": "Lund",
+            "@id": "60029170",
+            "affilname": "Lunds Universitet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029170",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "Istanbul",
+            "@id": "60029111",
+            "affilname": "Kadir Has \u00dcniversitesi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029111",
+            "affiliation-country": "Turkey"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60027863",
+            "affilname": "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027863",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Madrid",
+            "@id": "60026796",
+            "affilname": "Universidad Aut\u00f3noma de Madrid",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026796",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Melbourne",
+            "@id": "60026553",
+            "affilname": "University of Melbourne",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026553",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Naukka",
+            "@id": "60025390",
+            "affilname": "University of Nigeria",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025390",
+            "affiliation-country": "Nigeria"
+        },
+        {
+            "affiliation-city": "Olsztyn WM",
+            "@id": "60024421",
+            "affilname": "Uniwersytet Warminsko-Mazurski w Olsztynie",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024421",
+            "affiliation-country": "Poland"
+        },
+        {
+            "affiliation-city": "Sofia",
+            "@id": "60024147",
+            "affilname": "The Bulgarian Academy of Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024147",
+            "affiliation-country": "Bulgaria"
+        },
+        {
+            "affiliation-city": "Basel",
+            "@id": "60023588",
+            "affilname": "Universitat Basel",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023588",
+            "affiliation-country": "Switzerland"
+        },
+        {
+            "affiliation-city": "Kyiv",
+            "@id": "60023137",
+            "affilname": "Taras Shevchenko National University of Kyiv",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023137",
+            "affiliation-country": "Ukraine"
+        },
+        {
+            "affiliation-city": "Graz",
+            "@id": "60022457",
+            "affilname": "Universit\u00e4t Graz",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022457",
+            "affiliation-country": "Austria"
+        },
+        {
+            "affiliation-city": "Coventry",
+            "@id": "60022020",
+            "affilname": "University of Warwick",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022020",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Tyler",
+            "@id": "60019188",
+            "affilname": "University of Texas at Tyler",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019188",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Hsinchu",
+            "@id": "60018029",
+            "affilname": "National Tsing Hua University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018029",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "60017919",
+            "affilname": "The Education University of Hong Kong",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017919",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Coventry",
+            "@id": "60017326",
+            "affilname": "Coventry University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017326",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60017161",
+            "affilname": "National University of Singapore",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017161",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Tilburg",
+            "@id": "60017145",
+            "affilname": "Tilburg University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017145",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Seoul",
+            "@id": "60016912",
+            "affilname": "Yonsei University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016912",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Budapest",
+            "@id": "60016551",
+            "affilname": "K\u00e1roli G\u00e1sp\u00e1r Reform\u00e1tus Egyetem",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016551",
+            "affiliation-country": "Hungary"
+        },
+        {
+            "affiliation-city": "Zurich",
+            "@id": "60012614",
+            "affilname": "Universit\u00e4t Z\u00fcrich",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012614",
+            "affiliation-country": "Switzerland"
+        },
+        {
+            "affiliation-city": "Milan",
+            "@id": "60012306",
+            "affilname": "Universit\u00e0 degli Studi di Milano-Bicocca",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012306",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Leeds",
+            "@id": "60012070",
+            "affilname": "University of Leeds",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012070",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Temuco",
+            "@id": "60012035",
+            "affilname": "Universidad de la Frontera",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012035",
+            "affiliation-country": "Chile"
+        },
+        {
+            "affiliation-city": "Warsaw",
+            "@id": "60011671",
+            "affilname": "Instytut Psychologii Polskiej Akademii Nauk",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011671",
+            "affiliation-country": "Poland"
+        },
+        {
+            "affiliation-city": "Joao Pessoa",
+            "@id": "60011324",
+            "affilname": "Universidade Federal da Para\u00edba",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011324",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Vancouver",
+            "@id": "60010365",
+            "affilname": "The University of British Columbia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010365",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Oslo",
+            "@id": "60010348",
+            "affilname": "Universitetet i Oslo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010348",
+            "affiliation-country": "Norway"
+        },
+        {
+            "affiliation-city": "Bratislava",
+            "@id": "60010330",
+            "affilname": "Slovak Academy of Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010330",
+            "affiliation-country": "Slovakia"
+        },
+        {
+            "affiliation-city": "Kofu",
+            "@id": "60009064",
+            "affilname": "University of Yamanashi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009064",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Zagreb",
+            "@id": "60008408",
+            "affilname": "University of Zagreb",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008408",
+            "affiliation-country": "Croatia"
+        },
+        {
+            "affiliation-city": "Utrecht",
+            "@id": "60007989",
+            "affilname": "Universiteit Utrecht",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007989",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Gwangju",
+            "@id": "60007215",
+            "affilname": "Chonnam National University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007215",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Pocatello",
+            "@id": "60005437",
+            "affilname": "Idaho State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005437",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Geneva",
+            "@id": "60004718",
+            "affilname": "Universit\u00e9 de Gen\u00e8ve",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004718",
+            "affiliation-country": "Switzerland"
+        },
+        {
+            "affiliation-city": "Santiago",
+            "@id": "60003942",
+            "affilname": "Universidad Adolfo Ib\u00e1\u00f1ez",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003942",
+            "affiliation-country": "Chile"
+        },
+        {
+            "affiliation-city": "Goiania",
+            "@id": "60003865",
+            "affilname": "Universidade Catolica de Goias",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003865",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "60002798",
+            "affilname": "Chinese University of Hong Kong",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002798",
+            "affiliation-country": "Hong Kong"
+        },
+        {
+            "affiliation-city": "Wellington",
+            "@id": "60002316",
+            "affilname": "Victoria University of Wellington",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002316",
+            "affiliation-country": "New Zealand"
+        },
+        {
+            "affiliation-city": "Bangi",
+            "@id": "60001821",
+            "affilname": "Universiti Kebangsaan Malaysia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001821",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Barcelona",
+            "@id": "60001576",
+            "affilname": "Universitat de Barcelona",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001576",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Buenos Aires",
+            "@id": "60001563",
+            "affilname": "Universidad de Buenos Aires",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001563",
+            "affiliation-country": "Argentina"
+        },
+        {
+            "affiliation-city": "Rethymnon",
+            "@id": "60001524",
+            "affilname": "University of Crete",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001524",
+            "affiliation-country": "Greece"
+        },
+        {
+            "affiliation-city": "Berlin",
+            "@id": "60000762",
+            "affilname": "Humboldt-Universit\u00e4t zu Berlin",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000762",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Urbana",
+            "@id": "60000745",
+            "affilname": "University of Illinois Urbana-Champaign",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000745",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Timisoara",
+            "@id": "60000434",
+            "affilname": "Universitatea de Vest din Timi\u0219oara",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000434",
+            "affiliation-country": "Romania"
+        },
+        {
+            "affiliation-city": "Cape Town",
+            "@id": "60000356",
+            "affilname": "University of Cape Town",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000356",
+            "affiliation-country": "South Africa"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "129211041",
+            "affilname": "Univeritas Ahmad Dahlan",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129211041",
+            "affiliation-country": null
+        },
+        {
+            "affiliation-city": null,
+            "@id": "129210962",
+            "affilname": "Ritsumeikan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129210962",
+            "affiliation-country": null
+        },
+        {
+            "affiliation-city": null,
+            "@id": "129210909",
+            "affilname": "Busara Center for Behavioral Economics",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129210909",
+            "affiliation-country": null
+        },
+        {
+            "affiliation-city": null,
+            "@id": "129210885",
+            "affilname": "University of Campania",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129210885",
+            "affiliation-country": null
+        },
+        {
+            "affiliation-city": null,
+            "@id": "129210813",
+            "affilname": "Lingnan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129210813",
+            "affiliation-country": null
+        },
+        {
+            "affiliation-city": "La Paz",
+            "@id": "125632422",
+            "affilname": "Universidad Cat\u00f3lica Bolviana",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125632422",
+            "affiliation-country": "Bolivia"
+        },
+        {
+            "affiliation-city": "Nancy",
+            "@id": "124212166",
+            "affilname": "University of Connecticut",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/124212166",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Blacksburg",
+            "@id": "122976312",
+            "affilname": "University of Alabama",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/122976312",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Skopje",
+            "@id": "122280478",
+            "affilname": "Saints Cyril and Methodius University of Skopje",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/122280478",
+            "affiliation-country": "Serbia"
+        },
+        {
+            "affiliation-city": "Pune",
+            "@id": "106704511",
+            "affilname": "Jnana Prabodihini's Institute of Psychology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/106704511",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Lahore",
+            "@id": "100978498",
+            "affilname": "Government of Pakistan",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/100978498",
+            "affiliation-country": "Pakistan"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,68 @@
+{
+    "eid": "2-s2.0-85114518560",
+    "title": "Flight delay prediction using a hybrid deep learning method",
+    "cover-date": "2021-08-31",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Deep learning",
+        "Feed-forward artificial neural network",
+        "Flight delay prediction",
+        "Hybrid deep learning",
+        "Machine learning",
+        "XGBoost"
+    ],
+    "authors": [
+        "Warittorn Cheevachaipimol",
+        "Bhudharhita Teinwan",
+        "Parames Chutima"
+    ],
+    "citedby-count": 4,
+    "ref-count": 30,
+    "ref-list": [
+        "Total delay impact study: A comprehensive assessment of the costs and impacts of flight delay in the United States",
+        "Analysis of aircraft arrival and departure delay characteristics",
+        "Flight delay prediction based on aviation big data and machine learning",
+        "Using scalable data mining for predicting flight delays",
+        "Chained predictions of flight delay using machine learning",
+        "A methodology for predicting aggregate flight departure delays in airports based on supervised learning",
+        "A statistical approach to predict flight delay using gradient boosted decision tree",
+        "A data mining approach to flight arrival delay prediction for American Airlines",
+        "Prediction of delay due to air traffic control by machine learning",
+        "A comparative analysis of models for predicting delays in air traffic networks",
+        "Flight delay prediction for commercial air transport: A deep learning approach",
+        "A deep learning approach to flight delay prediction",
+        "A deep learning approach to predict the spatial and temporal distribution of flight delay in network",
+        "A new multilevel input layer artificial neural network for predicting flight delays at JFK Airport",
+        "Traffic flow prediction with big data: A deep learning approach",
+        "A deep hybrid learning model to detect unsafe behavior: Integrating convolution neural networks and long short-term memory",
+        "A deep hybrid learning model for customer repurchase behavior",
+        "SMOTE: Synthetic minority over-sampling technique",
+        "Optuna: A next-generation hyperparameter optimization framework",
+        "A hybrid sampling algorithm combining M-SMOTE and ENN based on Random forest for medical imbalanced data",
+        "Learning from imbalanced data: open challenges and future directions"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "106208652",
+            "affilname": "Academy of Science",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/106208652",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,72 @@
+{
+    "eid": "2-s2.0-85077954030",
+    "title": "Formalizing Time Petri Nets with Metric Temporal Logic using Promela",
+    "cover-date": "2019-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "Linear temporal logic (LTL)",
+        "Metric temporal logic (MTL)",
+        "Promela",
+        "SPIN Tool",
+        "Time Petri nets"
+    ],
+    "authors": [
+        "Jutamard Kawises",
+        "Wiwat Vatanawood"
+    ],
+    "citedby-count": 2,
+    "ref-count": 11,
+    "ref-list": [
+        "A refinement calculus for promela",
+        "Translating basic metric temporal logic formulas into promela",
+        "Monitoring algorithms for metric temporal logic specifications: Electronic notes in theoretical computer",
+        "Some recent results in metric temporal logic",
+        "Temporal logic",
+        "Petri nets: Properties, analysis and applications"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

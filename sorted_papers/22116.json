@@ -1,0 +1,69 @@
+{
+    "eid": "2-s2.0-85116115731",
+    "title": "Thai/English Cross-Language Transliterated Word Retrieval using Transformer",
+    "cover-date": "2021-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Language and Linguistics",
+            "@code": "1203",
+            "@abbrev": "ARTS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "information retrieval",
+        "semi-supervised learning",
+        "supervised learning",
+        "Thai language",
+        "transformer",
+        "transliterated word"
+    ],
+    "authors": [
+        "Apichad Chodkawanich",
+        "Boonserm Kijsirikul"
+    ],
+    "citedby-count": 1,
+    "ref-count": 11,
+    "ref-list": [
+        "Machine transliteration",
+        "Thai-English Cross-language transliterated word retrieval using soundex technique",
+        "Transliterated Word encoding and retrieval algorithms for Thai-english cross-language retrieval",
+        "Thai/English transliterated word encoding for cross-language retrieval using neural networks",
+        "Thai/English cross-language transliterated word retrieval using neural networks, hidden markov models and genetic algorithms",
+        "Romanized Thai input method editor",
+        "Calculation of Chinese-Thai cross-language similarity based on sentence embedding",
+        "Phonetic string matching: Lessons from information retrieval"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

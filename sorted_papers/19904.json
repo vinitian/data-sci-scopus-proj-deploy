@@ -1,0 +1,146 @@
+{
+    "eid": "2-s2.0-85065160658",
+    "title": "Accounting for biological variation with linear mixed-effects modelling improves the quality of clinical metabolomics data",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biotechnology",
+            "@code": "1305",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biophysics",
+            "@code": "1304",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Structural Biology",
+            "@code": "1315",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Confounding biological factors",
+        "Linear mixed-effects models",
+        "Metabolomics",
+        "Multivariate analysis",
+        "Subject metadata"
+    ],
+    "authors": [
+        "Kwanjeera Wanichthanarak",
+        "Saharuetai Jeamsripong",
+        "Natapol Pornputtapong",
+        "Sakda Khoomrung"
+    ],
+    "citedby-count": 23,
+    "ref-count": 49,
+    "ref-list": [
+        "A tutorial review: metabolomics and partial least squares-discriminant analysis\u2013a marriage of convenience or a shotgun wedding",
+        "Metabolomics: the apogee of the omics trilogy",
+        "Metabolomics \u2013 the link between genotypes and phenotypes",
+        "Emerging applications of metabolomics in drug discovery and precision medicine",
+        "Metabolomics: beyond biomarkers and towards mechanisms",
+        "Analytical pitfalls and challenges in clinical metabolomics",
+        "Metabolic phenotyping in health and disease",
+        "Rise of deep learning for genomic, proteomic, and metabolomic data integration in precision medicine",
+        "Normalizing and integrating metabolomics data",
+        "Batch normalizer: a fast total abundance regression calibration method to simultaneously adjust batch and injection order effects in liquid chromatography/time-of-flight mass spectrometry-based metabolomics data and comparison with current calibration methods",
+        "Normalization method for metabolomics data using optimal selection of multiple internal standards",
+        "Improved quantification of farnesene during microbial production from Saccharomyces cerevisiae in two-liquid-phase fermentations",
+        "Expanded metabolite coverage of Saccharomyces cerevisiae extract through improved chloroform/methanol extraction and tert-butyldimethylsilyl derivatization",
+        "Identification and characterization of fish oil supplements based on fatty acid analysis combined with a hierarchical clustering algorithm",
+        "Fast and accurate preparation fatty acid methyl esters by microwave-assisted derivatization in the yeast Saccharomyces cerevisiae",
+        "Linear mixed effects models",
+        "Linear mixed-effects models: Basic concepts and examples",
+        "Impact of freezing delay time on tissue samples for Metabolomic studies",
+        "Metabolomic markers of altered nucleotide metabolism in early stage adenocarcinoma",
+        "A linear mixed model spline framework for analysing time course 'Omics' data",
+        "Analysis of gene expression data using a linear mixed model/finite mixture model approach: application to regional differences in the human brain",
+        "Assessing gene significance from cDNA microarray expression data via mixed models",
+        "Multivariate paired data analysis: multilevel PLSDA versus OPLSDA",
+        "A novel approach for biomarker selection and the integration of repeated measures experiments from two assays",
+        "Metabolomics and transcriptomics identify pathway differences between visceral and subcutaneous adipose tissue in colorectal cancer patients: the ColoCare study",
+        "Metabolomics workbench: an international repository for metabolomics data and metadata, metabolite standards, protocols, tutorials and training, and analysis tools",
+        "Fitting linear mixed-effects models using lme4",
+        "Metabolomics and integrative Omics for the development of Thai traditional medicine",
+        "Trials and tribulations of 'omics data analysis: assessing quality of SIMCA-based multivariate models using examples from pulmonary medicine",
+        "Building predictive models in R using the caret package",
+        "mixOmics: an R package for 'omics feature selection and multiple data integration",
+        "Analysis of the human adult urinary Metabolome variations with age, body mass index, and gender by implementing a comprehensive workflow for Univariate and OPLS statistical analyses",
+        "Metabolite patterns predicting sex and age in participants of the Karlsruhe metabolomics and nutrition (KarMeN)study",
+        "The Arachidonic acid Metabolome serves as a conserved regulator of cholesterol metabolism",
+        "Differential tissue fatty acids profiling between colorectal Cancer patients with and without synchronous metastasis",
+        "Cholesterol enhances colorectal Cancer progression via ROS elevation and MAPK Signaling pathway activation",
+        "Cholesterol metabolism and colorectal cancers",
+        "Cholesterol and prostate cancer",
+        "Role of cholesterol in the development and progression of breast Cancer",
+        "Analysis of the human adult urinary Metabolome variations with age, body mass index, and gender by implementing a comprehensive workflow for Univariate and OPLS statistical analyses",
+        "Metabolite patterns predicting sex and age in participants of the Karlsruhe metabolomics and nutrition (KarMeN)study",
+        "Plasma lipid profiling in a large population-based cohort",
+        "Effects of aging on serum levels of lipid molecular species as determined by lipidomics analysis in Japanese men and women",
+        "Human serum metabolic profiles are age dependent",
+        "Human metabolic correlates of body mass index",
+        "Gender"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199575",
+            "affilname": "Siriraj Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199575",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Khon Kaen",
+            "@id": "60017165",
+            "affilname": "Khon Kaen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017165",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60012718",
+            "affilname": "Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012718",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chalermphrakiat Grant, Faculty of Medicine Siriraj Hospital, Mahidol University"
+    ]
+}

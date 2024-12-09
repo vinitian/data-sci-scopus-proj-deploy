@@ -1,0 +1,90 @@
+{
+    "eid": "2-s2.0-85128297012",
+    "title": "Manipulation Planning Using Wave Variables",
+    "cover-date": "2022-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biomedical Engineering",
+            "@code": "2204",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Manipulation planning",
+        "Robot safety",
+        "Wave planning",
+        "Wave variables"
+    ],
+    "authors": [
+        "Phongsaen Pitakwatchara",
+        "Jetnipit Arunrat"
+    ],
+    "citedby-count": 0,
+    "ref-count": 14,
+    "ref-list": [
+        "Impedance control: An approach to manipulation",
+        "Hybrid motion/force control: A review",
+        "Real-time obstacle avoidance for manipulators and mobile robots",
+        "Elastic strips: A framework for motion generation in human environments",
+        "Real-time adaptive motion planning (RAMP) of mobile manipulators in dynamic environments with unforeseen changes",
+        "Collision detection system for manipulator based on adaptive impedance control law",
+        "Collision detection and reaction: A contribution to safe physical human-robot interaction",
+        "Force and motion constrained planning for tool use",
+        "Manipulation planning under changing external forces",
+        "Online trajectory generation: Basic concepts for instantaneous reactions to unforeseen events",
+        "Telemanipulation with time delays",
+        "Employing wave variables for coordinated control of robots with distributed control architecture",
+        "Wave correction scheme for task space control of time-varying delayed teleoperation systems"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

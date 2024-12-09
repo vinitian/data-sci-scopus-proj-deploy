@@ -1,0 +1,95 @@
+{
+    "eid": "2-s2.0-85143195861",
+    "title": "Enhancing Lifelong Language Learning by Improving Pseudo-Sample Generation",
+    "cover-date": "2022-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Language and Linguistics",
+            "@code": "1203",
+            "@abbrev": "ARTS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Linguistics and Language",
+            "@code": "3310",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Kasidis Kanwatchara",
+        "Thanapapas Horsuwan",
+        "Piyawat Lertvittayakumjorn",
+        "Boonserm Kijsirikul",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 48,
+    "ref-list": [
+        "Avoiding catastrophic forgetting by coupling two reverberating neural networks",
+        "Learning to continually learn",
+        "Continual lifelong learning in natural language processing: A survey",
+        "Efficient lifelong learning with A-GEM",
+        "Lifelong language knowledge distillation",
+        "BoolQ: Exploring the surprising difficulty of natural yes/no questions",
+        "BERT: Pre-training of deep bidirectional transformers for language understanding",
+        "Continual relation learning via episodic memory activation and reconsolidation",
+        "Parameter-efficient transfer learning for NLP",
+        "Meta-learning representations for continual learning",
+        "TriviaQA: A large scale distantly supervised challenge dataset for reading comprehension",
+        "Overcoming catastrophic forgetting in neural networks",
+        "Diachronic word embeddings and semantic shifts: A survey",
+        "Temporal ensembling for semi-supervised learning",
+        "Gradient episodic memory for continual learning",
+        "Episodic memory in lifelong language learning",
+        "Catastrophic interference in connectionist networks: The sequential learning problem",
+        "Normalizing flows for probabilistic modeling and inference",
+        "Continual lifelong learning with neural networks: A review",
+        "MAD-X: An Adapter-Based Framework for Multi-Task Cross-Lingual Transfer",
+        "Language models are unsupervised multitask learners",
+        "Adaptive posterior learning: Few-shot learning with a surprise-based memory module",
+        "Incremental learning from noisy data",
+        "Continual learning with deep generative replay",
+        "Generating accurate pseudo examples for continual learning",
+        "Beneficial effect of combined replay for continual learning",
+        "Memory-based parameter adaptation",
+        "LAMOL: Language modeling for lifelong language learning",
+        "Distill and replay for continual language learning",
+        "FEVER: A large-scale dataset for fact extraction and VERification",
+        "An empirical study of example forgetting during deep neural network learning",
+        "2020. Fact or fiction: Verifying scientific claims",
+        "Efficient meta lifelong-learning with limited memory",
+        "BatchEnsemble: An alternative approach to efficient ensemble and lifelong learning",
+        "Machine learning with annotator rationales to reduce annotation cost"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60015150",
+            "affilname": "Imperial College London",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015150",
+            "affiliation-country": "United Kingdom"
+        }
+    ],
+    "funding": []
+}

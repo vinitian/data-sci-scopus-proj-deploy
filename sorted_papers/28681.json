@@ -1,0 +1,62 @@
+{
+    "eid": "2-s2.0-85056539592",
+    "title": "New location recommendation technique on social network",
+    "cover-date": "2018-04-27",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Collaborative filtering (CF)",
+        "Content-based filtering (CBF)",
+        "Recommender system (RS)",
+        "Social filtering"
+    ],
+    "authors": [
+        "Sutarat Choenaksorn",
+        "Saranya Maneeroj"
+    ],
+    "citedby-count": 1,
+    "ref-count": 11,
+    "ref-list": [
+        "Empirical analysis of predictive algorithms for collaborative filtering",
+        "Wheretogo: Personalized travel recommendation for individuals and groups",
+        "Travel intention-based attraction network for recommending travel destination",
+        "A personalized travel recommender model based on content-based prediction and collaborative recommendation",
+        "Personalized travel package with multi-point-of-interest recommendation based on crowdsourced user footprints",
+        "Point of interest recommendation with social and geographical influence",
+        "Exploiting geographical neighborhood characteristics for location recommendation",
+        "Personalized point-of-interest recommendation by mining users' preference transition",
+        "A theoretical analysis of NDCG ranking measures"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

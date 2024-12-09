@@ -1,0 +1,75 @@
+{
+    "eid": "2-s2.0-85078064378",
+    "title": "Validation of SDN Emulator Based on Mininet and ONOS Controller for IEC 61850 Packet Delay Measurement",
+    "cover-date": "2019-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Media Technology",
+            "@code": "2214",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "IEC 61850",
+        "smart grid",
+        "Software defined networking",
+        "wide area networks"
+    ],
+    "authors": [
+        "Saran Jitnukulsiri",
+        "Chaodit Aswakul"
+    ],
+    "citedby-count": 1,
+    "ref-count": 10,
+    "ref-list": [
+        "A methodology to implement and investigate performance of sampled values for wide-area protection",
+        "Analysis of communication network challenges for synchrophasor-based wide-area applications",
+        "Softwaredefined networking for smart grid communications: Applications, challenges and advantages",
+        "Traffic generation of IEC 61850 sampled values"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nontaburi",
+            "@id": "60022674",
+            "affilname": "Electricity Generating Authority of Thailand",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022674",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Gwangju Institute of Science and Technology",
+        "Electricity Generating Authority of Thailand"
+    ]
+}

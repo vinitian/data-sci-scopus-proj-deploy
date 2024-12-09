@@ -1,0 +1,85 @@
+{
+    "eid": "2-s2.0-85143966136",
+    "title": "Simulation of Homogenous Fish Schools in the Presence of Food and Predators using Reinforcement Learning",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Decision Sciences (miscellaneous)",
+            "@code": "1801",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "deep reinforcement learning",
+        "fish school",
+        "foraging",
+        "predator avoidance"
+    ],
+    "authors": [
+        "Ravipas Wangananont",
+        "Norapat Buppodom",
+        "Sanpat Chanthanuraks",
+        "Vishnu Kotrajaras"
+    ],
+    "citedby-count": 1,
+    "ref-count": 17,
+    "ref-list": [
+        "Synchronous fireflies",
+        "Flocks, herds and schools: A distributed behavioral model",
+        "Simulations of the social organization of large schools of fish whose perception is obstructed",
+        "Foraging behavior of fish schools via diffusion adaptation",
+        "Bioeconomics of schooling fishes: selfish fish, quasi-free riders, and other fishy tales",
+        "A simulation study on the form of fish schooling for escape from predator",
+        "Deterministic policy gradient algorithms",
+        "An image synthesizer",
+        "Long short-term memory",
+        "A comprehensive foundation",
+        "Curiosity-driven exploration by self-supervised prediction",
+        "Collective states, multistability and transitional behavior in schooling fish"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

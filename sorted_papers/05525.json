@@ -1,0 +1,110 @@
+{
+    "eid": "2-s2.0-85141579442",
+    "title": "Prescreening MCI and Dementia Using Shank-Mounted IMU during TUG Task",
+    "cover-date": "2022-12-15",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Dementia (DEM)",
+        "gait",
+        "inertial measurement unit (IMU)",
+        "mild cognitive impairment (MCI)",
+        "wearable device"
+    ],
+    "authors": [
+        "Phuridet Cherachapridi",
+        "Patcharapol Wachiraphan",
+        "Phurin Rangpong",
+        "Suktipol Kiatthaveephong",
+        "Supavit Kongwudhikunakorn",
+        "Kamonwan Thanontip",
+        "Maytus Piriyajitakonkij",
+        "Amrest Chinkamol",
+        "Chnan Likitvanichkul",
+        "Pathitta Dujada",
+        "Vorapun Senanarong",
+        "Theerawit Wilaiprasitporn",
+        "Thapanun Sudhawiyangkul",
+        "Vorapun Senanarong",
+        "Theerawit Wilaiprasitporn",
+        "Thapanun Sudhawiyangkul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 42,
+    "ref-list": [
+        "Rate of progression of mild cognitive impairment to dementia\u2013meta-analysis of 41 robust inception cohort studies",
+        "Spontaneous reversion of mild cognitive impairment to normal cognition: A systematic review of literature and meta-analysis",
+        "The Beijing version of the Montreal cognitive assessment as a brief screening tool for mild cognitive impairment: A community-based study",
+        "NMD-12: A new machine-learning derived screening instrument detect mild cognitive impairment and dementia",
+        "Dementia: Diagnosis and evaluation",
+        "Iterative filtering decomposition based early dementia diagnosis using EEG with cognitive tests",
+        "Using micro-Doppler radar to measure gait features associated with cognitive functions in elderly adults",
+        "Detection of mild cognitive impairment and Alzheimer\u2019s disease using dual-task gait assessments and machine learning",
+        "Laboratory-based gait variability and habitual gait entropy do not differentiate community-dwelling older adults from those with subjective memory complaints",
+        "Measuring gait speed to better identify prodromal dementia",
+        "Gait speed or gait variability, which one to use as a marker of risk to develop Alzheimer disease? A pilot study",
+        "Ambulatory gait behavior in patients with dementia: A comparison with Parkinson\u2019s disease",
+        "Gait nonlinear patterns related to Parkinson\u2019s disease and age",
+        "Gait variability across neurodegenerative and cognitive disorders: Results from the Canadian consortium of neurodegeneration in aging (CCNA) and the gait and brain study",
+        "Prediction of gait freezing in parkinsonian patients: A binary classification augmented with time series prediction",
+        "Prediction of freezing of gait in patients with Parkinson\u2019s disease by identifying impaired gait patterns",
+        "Unbiased and mobile gait analysis detects motor impairment in Parkinson\u2019s disease",
+        "Metric learning for parkinsonian identification from IMU gait measurements",
+        "Characterization of gait abnormalities in Parkinson\u2019s disease using a wireless inertial sensor system",
+        "Biometric and mobile gait analysis for early diagnosis and therapy monitoring in Parkinson\u2019s disease",
+        "IMU-based classification of Parkinson\u2019s disease from gait: A sensitivity analysis on sensor location and feature selection",
+        "Alzheimer\u2019s disease classification based on gait information",
+        "Association between timed up and go test and future dementia onset",
+        "Automated prescreening of mild cognitive impairment using shank-mounted inertial sensors based gait biomarkers",
+        "A robust deep model for improved classification of AD/MCI patients",
+        "Neuroimaging and machine learning for dementia diagnosis: Recent advancements and future prospects",
+        "The effects of aerobic exercise in patients with early-onset dementia: A scoping review",
+        "High accuracy discrimination of Parkinson\u2019s disease participants from healthy controls using smartphones",
+        "Wearable sensor devices for early detection of Alzheimer disease using dynamic time warping algorithm",
+        "Differentiating dementia disease subtypes with gait analysis: Feasibility of wearable sensors?",
+        "Analysis of the performance of 17 algorithms from a systematic review: Influence of sensor position, analysed variable and computational approach in gait timing estimation from IMU measurements",
+        "Multiple-wearable-sensor-based gait classification and analysis in patients with neurological disorders",
+        "Comparison of gait and cognitive function among the elderly with Alzheimer\u2019s disease, mild cognitive impairment and healthy",
+        "Implementation and validation of a stride length estimation algorithm, using a single basic inertial sensor on healthy subjects and patients suffering from Parkinson\u2019s disease",
+        "Gait assessment in Parkinson\u2019s disease: Toward an ambulatory system for long-term monitoring",
+        "Concurrent validity of the Groningen meander walking and timed up and go tests in older adults with dementia",
+        "Gait assessment in mild cognitive impairment and Alzheimer\u2019s disease: The effect of dual-task challenges across the cognitive spectrum",
+        "A pilot study on visually stimulated cognitive tasks for EEG-based dementia recognition"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Rayong",
+            "@id": "60110787",
+            "affilname": "Vidyasirimedhi Institute of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60110787",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60011189",
+            "affilname": "Faculty of Medicine Siriraj Hospital, Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011189",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

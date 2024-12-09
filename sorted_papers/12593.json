@@ -1,0 +1,148 @@
+{
+    "eid": "2-s2.0-85170059053",
+    "title": "Targeted sequencing analysis pipeline for species identification of human pathogenic fungi using long-read nanopore sequencing",
+    "cover-date": "2023-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Ecology, Evolution, Behavior and Systematics",
+            "@code": "1105",
+            "@abbrev": "AGRI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Agricultural and Biological Sciences (miscellaneous)",
+            "@code": "1101",
+            "@abbrev": "AGRI"
+        }
+    ],
+    "keywords": [
+        "Fungal identification",
+        "Internal transcribed spacer (ITS)",
+        "Nanopore technology",
+        "Targeted long-read sequencing"
+    ],
+    "authors": [
+        "Nattapong Langsiri",
+        "Navaporn Worasilchai",
+        "Laszlo Irinyi",
+        "Piroon Jenjaroenpun",
+        "Thidathip Wongsurawat",
+        "Janet Jennifer Luangsa-ard",
+        "Wieland Meyer",
+        "Ariya Chindamporn"
+    ],
+    "citedby-count": 0,
+    "ref-count": 35,
+    "ref-list": [
+        "Distribution, prevalence, and causative agents of fungal keratitis: a systematic review and meta-analysis (1990\u20132020)",
+        "Assessing intragenomic variation of the internal transcribed spacer two: adapting the Illumina metagenomics protocol",
+        "Uniform Manifold Approximation and Projection (UMAP) reveals composite patterns and resolves visualization artifacts in microbiome data",
+        "Assembling large genomes with single-molecule sequencing and locality-sensitive hashing",
+        "BLAST+: architecture and applications",
+        "QIIME allows analysis of high-throughput community sequencing data",
+        "Serious fungal infections in Thailand",
+        "NGS barcode sequencing in taxonomy and diagnostics, an application in \u201cCandida\u201d pathogenic yeasts with a metagenomic perspective",
+        "Rapid and real-time identification of fungi up to species level with long amplicon nanopore sequencing from clinical samples",
+        "Sequencing DNA with nanopores: Troubles and biases",
+        "Accuracy of taxonomy prediction for 16S rRNA and fungal ITS sequences",
+        "Mixed fungaemia: an 18-year report from a tertiary-care university hospital and a systematic review",
+        "International Society of Human and Animal Mycology (ISHAM)-ITS reference DNA barcoding database\u2014the quality controlled standard tool for routine identification of human and animal pathogenic fungi",
+        "The Oxford Nanopore MinION: delivery of nanopore sequencing to the genomics community",
+        "Centrifuge: rapid and sensitive classification of metagenomic sequences",
+        "Canu: scalable and accurate long-read assembly via adaptive k-mer weighting and repeat separation",
+        "The function and synthesis of ribosomes",
+        "A rapid approach to profiling diverse fungal communities using the MinION\u2122 nanopore sequencer",
+        "hdbscan: Hierarchical density based clustering",
+        "A first look at the Oxford Nanopore MinION sequencer",
+        "Nanopore sequencing of the fungal intergenic spacer sequence as a potential rapid diagnostic assay",
+        "The UNITE database for molecular identification of fungi: handling dark taxa and parallel taxonomic classifications",
+        "Using nanopore sequencing to identify fungi from clinical samples with high phylogenetic resolution",
+        "Intragenomic variation in nuclear ribosomal markers and its implication in species delimitation, identification and barcoding in fungi",
+        "NCBI Reference Sequence (RefSeq): a curated non-redundant sequence database of genomes, transcripts and proteins",
+        "BOLD: the barcode of life data system (www.barcodinglife.org)",
+        "NanoCLUST: a species-level analysis of 16S rRNA nanopore sequencing data",
+        "VSEARCH: a versatile open source tool for metagenomics",
+        "Introducing mothur: open-source, platform-independent, community-supported software for describing and comparing microbial communities",
+        "Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for Fungi",
+        "Finding needles in haystacks: linking scientific names, reference specimens and molecular data for Fungi",
+        "SeqKit: a cross-platform and ultrafast toolkit for FASTA/Q file manipulation",
+        "Mixed mycotic infections",
+        "One fungus, which genes? Development and assessment of universal primers for potential secondary fungal DNA barcodes",
+        "Mixed invasive pulmonary Mucor and Aspergillus infection: a case report and literature review"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199575",
+            "affilname": "Siriraj Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199575",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Perth",
+            "@id": "60189154",
+            "affilname": "Curtin Medical School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60189154",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Little Rock",
+            "@id": "60031189",
+            "affilname": "UAMS College of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031189",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Sydney",
+            "@id": "60025709",
+            "affilname": "The University of Sydney",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025709",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011947",
+            "affilname": "Thailand National Center for Genetic Engineering and Biotechnology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011947",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Sydney",
+            "@id": "60010710",
+            "affilname": "Faculty of Medicine and Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010710",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Utrecht",
+            "@id": "60001472",
+            "affilname": "Westerdijk Fungal Biodiversity Institute - KNAW",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001472",
+            "affiliation-country": "Netherlands"
+        }
+    ],
+    "funding": [
+        "100-year-old Chulalongkorn University",
+        "Chulalongkorn Medical Research Center",
+        "Department of Microbiology, Faculty of Medicine, Chulalongkorn University",
+        "Rachadapisek Sompoch",
+        "Chulalongkorn University",
+        "National Research Council of Thailand",
+        "Faculty of Medicine, Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "eid": "2-s2.0-85144596016",
+    "title": "Analysis of Terrestrial Surface-FSO Link Over alpha-mu Distribution",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "Alpha-mu distribution",
+        "Free space optical",
+        "Pointing Error",
+        "Radio frequency",
+        "Turbulence"
+    ],
+    "authors": [
+        "Kritica Sharma",
+        "Sanmukh Kaur",
+        "Sushank Chaudhary"
+    ],
+    "citedby-count": 0,
+    "ref-count": 6,
+    "ref-list": [
+        "Performance of a laser satellite network with an optical preamplifier",
+        "Estimation of optical attenuation in reduced visibility conditions in different environments across free space optics link",
+        "The role and challenges of freespace optical systems",
+        "Analysis of RIS-based terrestrial-FSO link over GG turbulence with distance and jitter ratios",
+        "Performance investigation of hybrid MDM-WDM-FSO link under influence of rainfall and fog conditions",
+        "Analysis of earth-to-satellite free space optical link performance in the presence of turbulence, beam-wander induced pointing error and weather conditions for different intensity modulation schemes"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Noida",
+            "@id": "60076774",
+            "affilname": "Amity University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60076774",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

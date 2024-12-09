@@ -1,0 +1,81 @@
+{
+    "eid": "2-s2.0-85088403003",
+    "title": "Design and use of a phantom for testing and comparing the performance of computed tomography automatic tube current modulation systems",
+    "cover-date": "2020-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Waste Management and Disposal",
+            "@code": "2311",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Public Health, Environmental and Occupational Health",
+            "@code": "2739",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "automatic tube current modulation (ATCM)",
+        "computed tomography",
+        "optimi sation",
+        "phantom",
+        "quality control (QC)"
+    ],
+    "authors": [
+        "S. Sookpeng",
+        "C. J. Martin",
+        "A. Krisanachinda"
+    ],
+    "citedby-count": 5,
+    "ref-count": 29,
+    "ref-list": [
+        "Updated estimates of typical effective doses for common CT examinations in the UK following the 2011 national review",
+        "U.S. diagnostic reference levels and achievable doses for 10 adult CT examinations",
+        "International variation in radiation dose for computed tomography examinations: Prospective cohort study",
+        "Radiation dose associated with common computed tomography examinations and the associated lifetime attributable risk of cancer",
+        "Techniques and applications of automatic tube current modulation for CT",
+        "Radiation dose modulation techniques in the multi-detector CT era: From basics to practice",
+        "Comparison of angular and combined automatic tube current modulation techniques with constant tube current CT of the abdomen and pelvis",
+        "Automatic exposure control in computed tomography - An evaluation of systems from different manufacturers",
+        "Comparison of image quality and radiation dose between fixed tube current and combined automatic tube current modulation in craniocervical CT angiography",
+        "Use of automatic tube current modulation with a standardized noise index in young children undergoing chest computed tomography scans with 64-slice multi-detector computed tomography",
+        "Automatic exposure control in CT: Applications and limitations",
+        "Setting up computed tomography automatic tube current modulation systems",
+        "Tissue equivalent phantoms for evaluating in-plane tube current modulated CT dose and image quality",
+        "Performance evaluation for CT-AEC (CT automatic exposure control) systems",
+        "A practical method to standardise and optimise the Philips DoseRight 2.0 CT automatic exposure control system",
+        "Comparison of different phantom designs for CT scanner automatic tube current modulation system tests",
+        "Methods for CT automatic exposure control protocol translation between scanner platforms",
+        "A study of CT dose distribution in an elliptical phantom and the influence of automatic tube current modulation in the x-y plane",
+        "Evaluating the impact of scan settings on automatic tube current modulation in CT using a novel phantom",
+        "A methodology for image quality evaluation of advanced CT systems",
+        "ICRU Report 44",
+        "ICRU Report No. 87: Radiation dose and image-quality assessment in computed tomography"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pitsanulok",
+            "@id": "60022498",
+            "affilname": "Naresuan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022498",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Glasgow",
+            "@id": "60001490",
+            "affilname": "University of Glasgow",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001490",
+            "affiliation-country": "United Kingdom"
+        }
+    ],
+    "funding": []
+}

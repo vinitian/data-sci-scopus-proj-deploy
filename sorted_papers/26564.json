@@ -1,0 +1,76 @@
+{
+    "eid": "2-s2.0-85069235331",
+    "title": "ICTV virus taxonomy profile: Nimaviridae",
+    "cover-date": "2019-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Virology",
+            "@code": "2406",
+            "@abbrev": "IMMU"
+        }
+    ],
+    "keywords": [
+        "ICTV Report",
+        "Nimaviridae",
+        "Taxonomy",
+        "White spot syndrome virus"
+    ],
+    "authors": [
+        "Han Ching Wang",
+        "Ikuo Hirono",
+        "Mary Beth Bacano Maningas",
+        "Kunlaya Somboonwiwat",
+        "Grant Stentiford"
+    ],
+    "citedby-count": 31,
+    "ref-count": 5,
+    "ref-list": [
+        "Identification of the nucleocapsid, tegument, and envelope proteins of the shrimp white spot syndrome virus virion",
+        "Proteomic analysis of the major envelope and nucleocapsid proteins of white spot syndrome virus",
+        "Complete genome sequence of the shrimp white spot bacilliform virus",
+        "Genetic variation among isolates of White spot syndrome virus",
+        "Whispovirus"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Tainan",
+            "@id": "60014982",
+            "affilname": "National Cheng Kung University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014982",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Manila",
+            "@id": "60071488",
+            "affilname": "University of Santo Tomas, Manila",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071488",
+            "affiliation-country": "Philippines"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60018357",
+            "affilname": "Tokyo University of Marine Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018357",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Lowestoft",
+            "@id": "60016939",
+            "affilname": "Centre for the Environment Fisheries and Aquaculture Science",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016939",
+            "affiliation-country": "United Kingdom"
+        }
+    ],
+    "funding": [
+        "ICTV",
+        "Wellcome Trust"
+    ]
+}

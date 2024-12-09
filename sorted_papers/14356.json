@@ -1,0 +1,111 @@
+{
+    "eid": "2-s2.0-85140757019",
+    "title": "Neural network-based adaptive control and energy management system of a direct methanol fuel cell in a hybrid renewable power system",
+    "cover-date": "2022-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Geography, Planning and Development",
+            "@code": "3305",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Transportation",
+            "@code": "3313",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "Direct methanol fuel cells",
+        "Energy management system",
+        "Hybrid power system",
+        "Neural network"
+    ],
+    "authors": [
+        "Prathak Jienkulsawad",
+        "Kornkamol Eamsiri",
+        "Yong Song Chen",
+        "Amornchai Arpornwichanop"
+    ],
+    "citedby-count": 5,
+    "ref-count": 39,
+    "ref-list": [
+        "A review on renewable energy and electricity requirement forecasting models for smart grid and buildings",
+        "Hybrid grid-tie electrification analysis of bio-shared renewable energy systems for domestic application",
+        "Artificial Intelligence techniques applied as estimator in chemical process systems \u2013 A literature survey",
+        "Characterization of lithium-batteries for high power applications",
+        "Model predictive control of a hybrid fuel cell & battery power system",
+        "Comparative performance analysis of a hybrid PV/FC/battery stand-alone system using different power management strategies and sizing approaches",
+        "Neural Network Applications in Power Electronics and Motor Drives\u2014An Introduction and Perspective",
+        "Models for Dynamic Applications. Product and Process Modelling: A Case Study Approach",
+        "The research of active direct methanol fuel cell control system",
+        "The Active Control Design for DMFC/Battery Hybrid System Using PIDNN",
+        "Multi-objective residential load scheduling approach for demand response in smart grid",
+        "Artificial-neural-network-based model predictive control to exploit energy flexibility in multi-energy systems comprising district cooling",
+        "Neural network inverse model-based controller for the control of a steel pickling process",
+        "Department of Alternative Energy Development and Efficiency",
+        "Machine Learning in Chemical Engineering: Strengths, Weaknesses, Opportunities, and Threats",
+        "Neural network based model reference adaptive control for processes with time delay",
+        "Investigation of a solar heating system assisted by coupling with electromagnetic heating unit and phase change energy storage tank: Towards sustainable rural buildings in northern China",
+        "Direct methanol fuel cell (DMFC) and H2 proton exchange membrane fuel (PEMFC/H2) cell performance under atmospheric flight conditions of Unmanned Aerial Vehicles",
+        "Model reference adaptive control of five-phase IPM Motors based on neural network",
+        "A cost-efficient sizing of grid-tied hybrid renewable energy system with different types of demands",
+        "Neural network based model predictive control for a steel pickling process",
+        "Non-isothermal dynamic modelling and optimization of a direct methanol fuel cell",
+        "Future Energy Systems: Integrating Renewable Energy Sources into the Smart Power Grid Through Industrial Electronics",
+        "Direct methanol fuel cell systems for backup power \u2013 Influence of the standby procedure on the lifetime",
+        "Optimal Operation of a Grid-Connected Hybrid Renewable Energy System for Residential Applications",
+        "3.20 Concluding Remarks",
+        "Hybrid Power Systems Energy Controller Based on Neural Network and Fuzzy Logic",
+        "Customer domain supply and load coordination: A case for smart villages and transactive control in rural off-grid microgrids",
+        "Enhance the resilience of distribution system against direct and indirect effects of extreme winds using battery energy storage systems",
+        "A novel control strategy and power management of hybrid PV/FC/SC/battery renewable power system-based grid-connected microgrid",
+        "Dynamics of the direct methanol fuel cell (DMFC): experiments and model-based analysis",
+        "A review on renewable energy potentials and energy usage statistics in Ghana",
+        "Modeling, control and simulation of a PV/FC/UC based hybrid power generation system for stand-alone applications",
+        "A review of energy management strategies for renewable hybrid energy systems with hydrogen backup",
+        "Power Management of a Stand-Alone Wind/Photovoltaic/Fuel Cell Energy System. Energy Conversion",
+        "Numerical simulation and optimization of a direct methanol fuel cell",
+        "Blockchain based optimal decision making of dispatchable units in smart grids considering the high uncertainty effects"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chiang Rai",
+            "@id": "60020524",
+            "affilname": "Mae Fah Luang University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020524",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Min-Hsiung",
+            "@id": "60007954",
+            "affilname": "National Chung Cheng University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007954",
+            "affiliation-country": "Taiwan"
+        }
+    ],
+    "funding": [
+        "Ratchadapisek Sompoch Endowment Fund",
+        "Chulalongkorn University"
+    ]
+}

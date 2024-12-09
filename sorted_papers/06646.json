@@ -1,0 +1,88 @@
+{
+    "eid": "2-s2.0-85084151441",
+    "title": "Collaborative learning of estimation of distribution algorithms for RNA secondary structure prediction",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Collaborative Learning",
+        "Estimation of Distribution Algorithm",
+        "RNA Secondary Structure Prediction"
+    ],
+    "authors": [
+        "Supawadee Srikamdee",
+        "Prabhas Chongstitvatana"
+    ],
+    "citedby-count": 1,
+    "ref-count": 36,
+    "ref-list": [
+        "Nature inspired optimization algorithm for prediction of \u201cminimum free energy RNA secondary structure\u201d",
+        "Infernal 1.1: 100-fold faster RNA homology searches",
+        "Analysis of RNA nearest neighbor parameters reveals interdependencies and quantifies the uncertainty in RNA secondary structure prediction",
+        "A review on RNA secondary structure prediction algorithms",
+        "DM Fold: A novel method to predict RNA secondary structure with pseudoknots based on deep learning and improved base pair maximization principle",
+        "A new method of RNA secondary structure prediction based on convolutional neural network and dynamic programming",
+        "Prediction of RNA secondary structure by free energy minimization",
+        "Improved RNA secondary structure prediction by maximizing expected pair accuracy",
+        "Developing parallel ant colonies Filtered by deep learned constrains for predicting RNA secondary structure with pseudo-knots",
+        "The challenge of RNA branching prediction: A parametric analysis of multi loop initiation under thermodynamic optimization",
+        "Algorithms for loop matchings",
+        "Optimal computer folding of large RNA sequences using thermodynamics and auxiliary information",
+        "A heuristic algorithm for RNA secondary structure based on genetic algorithm",
+        "A Multi objective RNA Secondary Structure Prediction Algorithm Based on NSGAII",
+        "Sparse RNA folding: Time and space efficient algorithms",
+        "M fold web server for nucleic acid folding and hybridization prediction",
+        "\u201cVienna RNA Package 2.0",
+        "RNA structure: Web servers for RNA secondary structure prediction and analysis",
+        "Dynamic programming algorithms for RNA secondary structure prediction with pseudo-knots",
+        "Ant colony optimization for predicting RNA folding pathways",
+        "RNA Prediction evolutionary algorithm for RNA secondary structure prediction",
+        "SARNA-Predict: Using adaptive annealing schedule and inversion mutation operator for RNA secondary structure prediction",
+        "An efficient simulated annealing algorithm for the RNA secondary structure prediction with Pseudo-knots",
+        "How to benchmark RNA secondary structure prediction accuracy",
+        "Protein folding in 2-dimensional lattices with estimation of distribution algorithms",
+        "\u201cProtein folding in simplified models with estimation of distribution algorithms",
+        "\u201cCombining variable neighborhood search and estimation of distribution algorithms in the protein side chain placement problem",
+        "MARLEDA: Effective distribution estimation through Markov random Felds",
+        "RNA secondary structure prediction with coincidence algorithm",
+        "Guidelines for developing effective estimation of distribution algorithms in solving single machine scheduling problems",
+        "A hybrid estimation of distribution algorithm for simulation based scheduling in a stochastic permutation flow shop",
+        "A hybrid particle swarm optimization with estimation of distribution algorithm for solving permutation flow shop scheduling problem",
+        "A hybrid EDA with ACS for solving permutation flow shop scheduling",
+        "\u201cRNA STRAND: The RNA secondary structure and statistical analysis database",
+        "NNDB: The nearest neighbor parameter database for predicting stability of nucleic acid secondary structure",
+        "Evolutionary algorithm for RNA secondary structure prediction based on simulated SHAPE data"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

@@ -1,0 +1,70 @@
+{
+    "eid": "2-s2.0-85151141752",
+    "title": "Linear Analysis of Planar Curved Bi-directional Functionally Graded Microbeams Using the Modified Couple Stress Theory",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Bi-directional functionally graded beams",
+        "Euler-Bernoulli beam theory",
+        "Isogeometric analysis",
+        "Modified couple stress elasticity",
+        "Planar curved microbeams"
+    ],
+    "authors": [
+        "Duy Vo",
+        "Pana Suttakul",
+        "Jaroon Rungamornrat",
+        "Pruettha Nanakorn"
+    ],
+    "citedby-count": 0,
+    "ref-count": 15,
+    "ref-list": [
+        "Isogeometric analysis: CAD, finite elements, NURBS, exact geometry and mesh refinement",
+        "A review on the size-dependent models of micro-beam and micro-plate based on the modified couple stress theory",
+        "The size-dependent natural frequency of Bernoulli-Euler micro-beams",
+        "Experiments and theory in strain gradient elasticity",
+        "A microstructure-dependent Timoshenko beam model based on a modified couple stress theory",
+        "Bernoulli-Euler beam model based on a modified couple stress theory",
+        "Variational formulation of a modified couple stress theory and its application to a simple shear problem",
+        "An artificial neural network-differential evolution approach for optimization of bidirectional functionally graded beams",
+        "Dynamic multi-patch isogeometric analysis of planar Euler-Bernoulli beams",
+        "Spatial arbitrarily curved microbeams with the modified couple stress theory: Formulation of equations of motion",
+        "Static analysis of planar arbitrarily curved microbeams with the modified couple stress theory. Part I: Euler-Bernoulli beam formulation",
+        "Ueber die beziehung zwischen den beiden elasticit\u00e4tsconstanten isotroper k\u00f6rper",
+        "Couple stress based strain gradient theory for elasticity"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011220",
+            "affilname": "Sirindhorn International Institute of Technology, Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011220",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chaing Mai",
+            "@id": "60000881",
+            "affilname": "Chiang Mai University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000881",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Chulalongkorn University"
+    ]
+}

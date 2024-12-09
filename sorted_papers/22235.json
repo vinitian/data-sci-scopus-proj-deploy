@@ -1,0 +1,74 @@
+{
+    "eid": "2-s2.0-85050234834",
+    "title": "A Data Imputation Model in Phasor Measurement Units Based on Bagged Averaging of Multiple Linear Regression",
+    "cover-date": "2018-07-17",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "bagged averaging",
+        "bootstrap",
+        "correlation analysis",
+        "multiple linear regression",
+        "Phasor measurement unit",
+        "synchronized frequency data"
+    ],
+    "authors": [
+        "Ngoc Thien Le",
+        "Watit Benjapolakul"
+    ],
+    "citedby-count": 14,
+    "ref-count": 31,
+    "ref-list": [
+        "A review on the forecasting of wind speed and generated power",
+        "Energy models for demand forecasting- A review",
+        "A pre-estimation filtering process of bad data for linear power systems state estimators using PMUs",
+        "HIBAG-HLA genotype imputation with attribute bagging",
+        "Improved short-term load forecasting using bagged neural networks",
+        "Measurement-based correlation approach for power system dynamic response estimation",
+        "QoS metrics modeling and analysis for neighborhood area network in smart grid applications",
+        "Phasor state estimation from PMU measurements with bad data",
+        "Data quality issues for synchrophasor applications part II: Problem formulation and potential solutions",
+        "Missing data recovery by exploiting low-dimensionality in power system synchrophasor measurements",
+        "Data quality of electricity consumption data in a smart grid environment",
+        "Big data analytics on smart grid: Mining PMU data for event and anomaly detection",
+        "Ensemble learning for wind profile prediction with missing values",
+        "On the generalised distance in statistics",
+        "Algorithm for screening phasor measurement unit data for power system events and categories and common characteristics for events seen in phasor measurement unit relative phase-angle differences and frequency signals",
+        "Correlation coefficient rule of thumb",
+        "The correlation coefficient: Its values range between C1 and 1, or do they",
+        "Four assumptions of multiple regression that researchers should always test",
+        "An extension of shapiro andWilk'sWtest for normality to large samples",
+        "Bagging predictors",
+        "Bagged averaging of regression models",
+        "Power and sample size calculations for studies involving linear regression",
+        "A simple method of sample size calculation for linear and logistic regression"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

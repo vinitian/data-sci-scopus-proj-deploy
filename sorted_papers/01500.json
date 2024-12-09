@@ -1,0 +1,94 @@
+{
+    "eid": "2-s2.0-85086251139",
+    "title": "Visual-based Items Recommendation Using Deep Neural Network",
+    "cover-date": "2020-04-24",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Deep Learning",
+        "Items' Recommendation",
+        "Machine learning",
+        "VGG-16"
+    ],
+    "authors": [
+        "Farhan Ullah",
+        "Bofeng Zhang",
+        "Rehan Ullah Khan",
+        "Irfan Ullah",
+        "Aamir Khan",
+        "Ali Mustafa Qamar"
+    ],
+    "citedby-count": 1,
+    "ref-count": 23,
+    "ref-list": [
+        "Strategies and best practice for neural network image classification",
+        "Ups and downs: Modeling the visual evolution of fashion trends with one-class collaborative filtering",
+        "Image-based recommendations on styles and substitutes",
+        "Large scale visual recommendations from street fashion images",
+        "Imagenet classification with deep convolutional neural networks",
+        "Learning image similarity from flickr groups using fast kernel machines",
+        "Learning invariance through imitation",
+        "Learning fine-grained image similarity with deep ranking",
+        "Generating images with perceptual similarity metrics based on deep networks",
+        "Content-based similar document image retrieval using fusion of cnn features",
+        "Learning visual similarity for product design with convolutional neural networks",
+        "Visual and semantic similarity in imagenet",
+        "From image descriptions to visual denotations: New similarity metrics for semantic inference over event descriptions",
+        "Semantic image browser: Bridging information visualization with automated intelligent image analysis",
+        "Contextual topic model based image recommendation system",
+        "Travel recommendation using geo-tagged photos in social media for tourist",
+        "Road-based travel recommendation using geo-tagged images",
+        "A content-based goods image recommendation system",
+        "Personality modeling based image recommendation",
+        "Green generation: Millennials say sustainability is a shopping priority",
+        "Image-based service recommendation system: A jpeg-coefficient rfs approach"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Buraidah",
+            "@id": "60025518",
+            "affilname": "Al Qassim University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025518",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Shanghai",
+            "@id": "60023813",
+            "affilname": "Shanghai University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023813",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

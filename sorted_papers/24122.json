@@ -1,0 +1,60 @@
+{
+    "eid": "2-s2.0-85143827986",
+    "title": "Volumetric Measurement of Rectangular Parcel Box Using LiDAR Depth Camera for Dimensioning and 3D Bin Packing Applications",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Media Technology",
+            "@code": "2214",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "3D Bin Packing",
+        "Dimensioning",
+        "LiDAR depth camera",
+        "Volumetric measurement"
+    ],
+    "authors": [
+        "Napol Ladplee",
+        "Alongkorn Pimpin",
+        "Werayut Srituravanich",
+        "Nattapol Damrongplasit"
+    ],
+    "citedby-count": 0,
+    "ref-count": 10,
+    "ref-list": [
+        "Planercnn: 3d plane detection and reconstruction from a single image",
+        "3DPMNet: Plane Segmentation and Matching for Point Cloud Registration",
+        "Deep learning-based visual defectinspection system for reinforced concrete bridge substructure",
+        "Plane segmentation in organized point clouds using flood fill",
+        "The distributor's three-dimensional pallet-packing problem: A human intelligence-based heuristic approach"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

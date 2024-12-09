@@ -1,0 +1,112 @@
+{
+    "eid": "2-s2.0-85141769662",
+    "title": "Active Pre-Equalizer for Broadband Optical Wireless Communication Integrated with RF Amplifier",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "optical wireless communication",
+        "pre-equalizer",
+        "Sallen-Key high pass filter"
+    ],
+    "authors": [
+        "Kamol Boonlom",
+        "Rungrat Viratikul",
+        "Panuwat Janpugdee",
+        "Jessada Konpang",
+        "Nonchanutt Chudpooti",
+        "Ian Robertson",
+        "Tim Amsdon",
+        "Nutapong Somjit"
+    ],
+    "citedby-count": 0,
+    "ref-count": 9,
+    "ref-list": [
+        "On the Role of Power Electronics in Visible Light Communication",
+        "over 700 MHz-3 dB Bandwidth UOWC System Based on Blue HV-LED With T-Bridge Pre-Equalizer",
+        "Design and Implementation of a Pre-Equalizer for Visible Light Communication",
+        "A Novel Method for Constructing VLC Equalizer With Active-Passive Hybrid Network",
+        "Nano-Fluidic Millimeter-Wave Lab-on-a-Waveguide Sensor for Liquid-Mixture Characterization",
+        "Electronics-Based Free-Space Terahertz Measurement Using Hemispherical Lens Antennas",
+        "Terahertz Dielectric Property Characterization of Photopolymers for Additive Manufacturing",
+        "Equivalent Circuit Model of High Power LEDs for VLC Systems",
+        "A New LED Response Model and its Application to Pre-Equalization in VLC Systems"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60105229",
+            "affilname": "Rajamangala University of Technology Krungthep",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60105229",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Leeds",
+            "@id": "60012070",
+            "affilname": "University of Leeds",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012070",
+            "affiliation-country": "United Kingdom"
+        }
+    ],
+    "funding": [
+        "NSRF",
+        "National Science, Research, and Innovation Fund",
+        "King Mongkut\u2019s University of Technology North Bangkok"
+    ]
+}

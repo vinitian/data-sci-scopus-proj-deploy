@@ -1,0 +1,166 @@
+{
+    "eid": "2-s2.0-85115215991",
+    "title": "The Thai reference exome (T-REx) variant database",
+    "cover-date": "2021-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics (clinical)",
+            "@code": "2716",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "database",
+        "genomic medicine",
+        "population genetics",
+        "precision medicine",
+        "rare disease",
+        "Thai"
+    ],
+    "authors": [
+        "Vorasuk Shotelersuk",
+        "Duangdao Wichadakul",
+        "Chumpol Ngamphiw",
+        "Chalurmpon Srichomthong",
+        "Chureerat Phokaew",
+        "Alisa Wilantho",
+        "Sujiraporn Pakchuen",
+        "Vorthunju Nakhonsri",
+        "Philip James Shaw",
+        "Rujipat Wasitthankasem",
+        "Jittima Piriyapongsa",
+        "Pongsakorn Wangkumhang",
+        "Adjima Assawapitaksakul",
+        "Wanna Chetruengchai",
+        "Keswadee Lapphra",
+        "Athiphat Khuninthong",
+        "Pattarapong Makarawate",
+        "Kanya Suphapeetiporn",
+        "Surakameth Mahasirimongkol",
+        "Nusara Satproedprai",
+        "Thantrira Porntaveetus",
+        "Prapaporn Pisitkun",
+        "Verayuth Praphanphoj",
+        "Piranit Kantaputra",
+        "Wichittra Tassaneeyakul",
+        "Sissades Tongsima"
+    ],
+    "citedby-count": 15,
+    "ref-count": 35,
+    "ref-list": [
+        "The mutational constraint spectrum quantified from variation in 141,456 humans",
+        "The GenomeAsia 100K project enables genetic discoveries across Asia",
+        "Korean variant archive (KOVA): a reference database of genetic variations in the Korean population",
+        "KoVariome: Korean National Standard Reference Variome database of whole genomes with comprehensive SNV, indel, CNV, and SV analyses",
+        "Large-scale whole-genome sequencing of three diverse Asian populations in Singapore",
+        "Scaling accurate genetic variant discovery to tens of thousands of samples",
+        "IPCAPS: an R package for iterative pruning to capture population structure",
+        "Enhancements to the ADMIXTURE algorithm for individual ancestry estimation",
+        "The ensembl variant effect predictor",
+        "dbNSFP v3.0: a one-stop database of functional predictions and annotations for human nonsynonymous and splice-site SNVs",
+        "The database of genomic variants: a curated collection of structural variation in the human genome",
+        "GENCODE: the reference human genome annotation for the ENCODE project",
+        "Genetics and genomics in Thailand: challenges and opportunities",
+        "Precision medicine in Thailand",
+        "Principal components analysis corrects for stratification in genome-wide association studies",
+        "Insight into the peopling of mainland Southeast Asia from Thai population genetic structure",
+        "The sequence ontology: a tool for the unification of genome annotations",
+        "COSMIC: the catalogue of somatic mutations in cancer",
+        "SIFT: predicting amino acid changes that affect protein function",
+        "ClinVar: improving access to variant interpretations and supporting evidence",
+        "Genes that affect brain structure and function identified by rare variant analyses of Mendelian neurologic disease",
+        "High prevalence of V37I genetic variant in the connexin-26 (GJB2) gene among non-syndromic hearing-impaired and control Thai individuals",
+        "Positively selected G6PD-Mahidol mutation reduces plasmodium vivax density in southeast Asians",
+        "Prevalence and molecular study of G6PD deficiency in the Dai and Jingpo ethnic groups in the Dehong prefecture of the Yunnan Province",
+        "Systematic inference of copy-number genotypes from personal genome sequencing data reveals extensive olfactory receptor gene content diversity",
+        "Deletion polymorphism of SIGLEC14 and its functional implications",
+        "BTNL8, a butyrophilin-like molecule that costimulates the primary immune response",
+        "A common 56-kilobase deletion in a primate-specific segmental duplication creates a novel butyrophilin-like protein",
+        "Complete haplotype sequence of the human immunoglobulin heavy-chain variable, diversity, and joining genes and characterization of allelic and copy-number variation",
+        "Deletion of the late cornified envelope LCE3B and LCE3C genes as a susceptibility factor for psoriasis",
+        "Deletion of the late cornified envelope genes, LCE3C and LCE3B, is associated with rheumatoid arthritis",
+        "Searching for the major histocompatibility complex psoriasis susceptibility gene"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199575",
+            "affilname": "Siriraj Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199575",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Khon Kaen",
+            "@id": "60026046",
+            "affilname": "Faculty of Medicine, Khon Kaen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026046",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nontaburi",
+            "@id": "60015728",
+            "affilname": "Thailand Ministry of Public Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015728",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60015887",
+            "affilname": "Faculty of Medicine Ramathibodi Hospital, Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015887",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011947",
+            "affilname": "Thailand National Center for Genetic Engineering and Biotechnology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011947",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60004391",
+            "affilname": "Thailand National Science and Technology Development Agency",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004391",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chaing Mai",
+            "@id": "60000881",
+            "affilname": "Chiang Mai University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000881",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "National Research Council of Thailand, Thailand Research Fund",
+        "Ratchadapisek Sompoch Endowment Fund",
+        "TSRI Fund",
+        "Chulalongkorn University",
+        "NSTDA",
+        "Thailand Research Fund",
+        "National Research Council of Thailand",
+        "Health Systems Research Institute"
+    ]
+}

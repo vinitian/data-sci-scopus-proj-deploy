@@ -1,0 +1,81 @@
+{
+    "eid": "2-s2.0-85062208949",
+    "title": "Dynamic programming approach to optimal maintenance scheduling of substation equipment considering life cycle cost and reliability",
+    "cover-date": "2019-01-18",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Dynamic programming",
+        "Life cycle cost",
+        "Maintenance scheduling",
+        "Reliability",
+        "Weibull distribution"
+    ],
+    "authors": [
+        "Surawit Laohanan",
+        "David Banjerdpongchai"
+    ],
+    "citedby-count": 4,
+    "ref-count": 11,
+    "ref-list": [
+        "Preventive maintenance and replacement scheduling for repairable and maintainable systems using dynamic programming",
+        "Evaluating unavailability of equipment aging failures",
+        "Cost optimal preventive maintenance and replacement scheduling",
+        "Life cycle cost estimate of power system planning",
+        "Failure rate analysis of circuit breaker and its preventive maintenance application",
+        "Optimal maintenance and replacement policy for a deteriorating system with increased mean downtime",
+        "Substation maintenance strategy adaption for life-cycle cost reduction using genetic algorithm"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Electricity Generating Authority of Thailand"
+    ]
+}

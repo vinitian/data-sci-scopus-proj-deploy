@@ -1,0 +1,143 @@
+{
+    "eid": "2-s2.0-85154065584",
+    "title": "Evaluation of Applicability and Accuracy of Bus Travel Time Prediction in High and Low Frequency Bus Routes Using Tree-Based ML Techniques",
+    "cover-date": "2023-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Building and Construction",
+            "@code": "2215",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "High-frequency route",
+        "Low-frequency service",
+        "Machine learning",
+        "Travel time prediction",
+        "Tree-based models"
+    ],
+    "authors": [
+        "Seyed Mohammad Hossein Moosavi",
+        "Mahdi Aghaabbasi",
+        "Choon Wah Yuen",
+        "Danial Jahed Armaghani"
+    ],
+    "citedby-count": 1,
+    "ref-count": 72,
+    "ref-list": [
+        "Traffic congestion relief associated with public transport: State-of-the-art",
+        "Does the service quality of urban public transport enhance sustainable mobility?",
+        "Simulation-Based Sensitivity Analysis for Evaluating Factors Affecting Bus Service Reliability: A Big and Smart Data Implementation",
+        "Measuring Bus Running Time Variation during High-Frequency Operation Using Automatic Data Collection Systems",
+        "Travel time estimation in the age of big data",
+        "Bus quality improvements and local commuter mode share",
+        "Using simulation model as a tool for analyzing bus service reliability and implementing improvement strategies",
+        "Dynamic headway control for high\u2010frequency bus line based on speed guidance and intersection signal adjustment",
+        "How network structure can boost and shape the demand for bus transit",
+        "Assessing operation and customer perception characteristics of high frequency local and limited-stop bus service in Vancouver",
+        "Effect of transit signal priority on bus service reliability",
+        "An improved model for headway-based bus service unreliability prevention with vehicle load capacity constraint at bus stops",
+        "Performance comparison of bus travel time prediction models across Indian cities",
+        "A review of travel time estimation and forecasting for Advanced Traveller Information Systems",
+        "Bus travel time prediction with real-time traffic information",
+        "Tensile strength prediction of rock material using non-destructive tests: A comparative intelligent study",
+        "Data-Driven Compressive Strength Prediction of Fly Ash Concrete Using Ensemble Learner Algorithms",
+        "Data-driven estimation models of asphalt mixtures dynamic modulus using ANN, GP and combinatorial GMDH approaches",
+        "Developing bearing capacity model for geogrid-reinforced stone columns improved soft clay utilizing MARS-EBS hybrid method",
+        "Compressive strength prediction of hollow concrete masonry blocks using artificial intelligence algorithms",
+        "Modeling Flexural and Compressive Strengths Behaviour of Cement-Grouted Sands Modified with Water Reducer Polymer",
+        "Three Steps towards Better Forecasting for Streamflow Deep Learning",
+        "Assessment of tunnel blasting-induced overbreak: A novel metaheuristic-based random forest approach",
+        "On the Use of Neuro-Swarm System to Forecast the Pile Settlement",
+        "Structural Damage Identification Using Ensemble Deep Convolutional Neural Network Models",
+        "Feasibility of indirect determination of blast induced ground vibration based on support vector machine",
+        "Introducing stacking machine learning approaches for the prediction of rock deformation",
+        "Revealing the nature of metakaolin-based concrete materials using artificial intelligence techniques",
+        "Development of a binary classification model to assess safety in transportation systems using GMDH-type neural network algorithm",
+        "Feasibility of stochastic models for evaluation of potential factors for safety: A case study in southern Italy",
+        "Evaluation of Contributing Factors Affecting Number of Vehicles Involved in Crashes Using Machine Learning Techniques in Rural Roads of Cosenza, Italy",
+        "Developing Predictive Models of Collapse Settlement and Coefficient of Stress Release of Sandy-Gravel Soil via Evolutionary Polynomial Regression",
+        "Traffic simulation with METANET",
+        "Freeway travel-time estimation based on temporal\u2013spatial queueing model",
+        "Analysis of bus travel time distributions for varying horizons and real-time applications",
+        "Challenges and Opportunities of Using Data Fusion Methods for Travel Time Estimation",
+        "Kumazawa H. Univariate short-term prediction of road travel times. Proceedings",
+        "An adaptive information fusion model to predict the short-term link travel time distribution in dynamic traffic networks",
+        "Arterial travel time forecast with streaming data: A hybrid approach of flow modeling and machine learning",
+        "Understanding and Predicting the Usage of Shared Electric Scooter Services on University Campuses",
+        "Dynamic bus arrival time prediction with artificial neural networks",
+        "Bus arrival time prediction with real-time and historic data",
+        "Prediction intervals to account for uncertainties in neural network predictions: Methodology and application in bus travel time prediction",
+        "Incorporating uncertainty into short-term travel time predictions",
+        "Artificial neural network travel time prediction model for buses using only GPS data",
+        "Travel time prediction using floating car data applied to logistics planning",
+        "Travel-time prediction with support vector regression",
+        "Comparing state-of-the-art regression methods for long term travel time prediction",
+        "Bus arrival time prediction using support vector machine with genetic algorithm",
+        "Bus Arrival Time Prediction Using Support Vector Machines",
+        "Bus arrival time prediction at bus stop with multiple routes",
+        "Prediction of bus travel time using random forests based on near neighbors",
+        "A methodological framework of travel time distribution estimation for urban signalized arterial roads",
+        "Issues in on-time performance of bus systems",
+        "Bus arrival time calculation model based on smart card data",
+        "Use of GPS probe data and passenger data for prediction of bus transit travel time",
+        "Estimation of travel time and the benefits of upgrading the fare payment technology in urban bus services",
+        "Prediction model of bus arrival and departure times using AVL and APC data",
+        "Travel time in case of accident prediction model",
+        "Experienced travel time prediction for congested freeways",
+        "Estimation of trip travel time distribution using a generalized Markov chain approach",
+        "Bus travel time prediction using a time-space discretization approach",
+        "Impacts of weather on public transport ridership: Results from mining data from different sources",
+        "Impacts of winter weather on bus travel time in cold regions: Case study of Harbin, China",
+        "Extreme weather, public transport ridership and moderating effect of bus stop shelters",
+        "To travel or not to travel:\u2018Weather\u2019is the question. Modelling the effect of local weather conditions on bus ridership",
+        "Development and evaluation of a hybrid travel time forecasting model",
+        "Practical approach for travel time estimation from point traffic detector data",
+        "An exploratory technique for investigating large quantities of categorical data"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Kuala Lumpur",
+            "@id": "60029157",
+            "affilname": "Universiti Malaya",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029157",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Johor Bahru",
+            "@id": "60021005",
+            "affilname": "Universiti Teknologi Malaysia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021005",
+            "affiliation-country": "Malaysia"
+        }
+    ],
+    "funding": [
+        "Department of Civil Engineering, Faculty of Engineering, University of Malaya"
+    ]
+}

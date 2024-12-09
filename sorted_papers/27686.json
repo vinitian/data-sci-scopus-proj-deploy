@@ -1,0 +1,91 @@
+{
+    "eid": "2-s2.0-85075036504",
+    "title": "Zinc-air battery dynamics' identification using transfer functions and hammerstein-wiener models",
+    "cover-date": "2019-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Process Chemistry and Technology",
+            "@code": "1508",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Battery modeling",
+        "Hammerstein-Wiener model",
+        "System identification",
+        "Zinc-air battery"
+    ],
+    "authors": [
+        "Woranunt Lao-Atiman",
+        "Soorathep Kheawhom",
+        "Sorin Olaru"
+    ],
+    "citedby-count": 0,
+    "ref-count": 10,
+    "ref-list": [
+        "Advanced zinc-air batteries based on high-performance hybrid electrocatalysts",
+        "Computational analysis of the zinc utilization in the primary zinc-air batteries",
+        "Model-based analysis of an integrated zinc-air flow battery/zinc electrolyzer system",
+        "Lithium-ion battery dynamic model for wide range of operating conditions",
+        "Modeling of novel single flow zinc-nickel battery for energy storage system",
+        "Equivalent circuit modeling and simulation of the zinc nickel single flow battery",
+        "On-line scheme for parameter estimation of nonlinear lithium ion battery equivalent circuit models using the simplified refined instrumental variable method for a modified Wiener continuous-time model",
+        "Hammerstein and Wiener nonlinear models identification using a multimodal particle swarm optimizer",
+        "Identification of Hammerstein-Wiener models",
+        "Nonlinear system identification of Hammerstein-Wiener model using AWPSO"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Gif-sur-Yvette",
+            "@id": "60106017",
+            "affilname": "Universit\u00e9 Paris-Saclay",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60106017",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn Academic Advancement",
+        "Hadamard Mathematics LabEx",
+        "IDEX Paris-Saclay",
+        "Thailand\u2019s Office of Higher Education, Chulalongkorn University",
+        "Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "eid": "2-s2.0-85074226338",
+    "title": "A Hotel Hybrid Recommendation Method based on Context-Driven using Latent Dirichlet Allocation",
+    "cover-date": "2019-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "Collaborative filtering",
+        "Content-based filtering",
+        "Context-driven",
+        "Hotel",
+        "Latent Dirichlet Allocation",
+        "Recommendation"
+    ],
+    "authors": [
+        "Weraphat Nimchaiyanan",
+        "Saranya Maneeroj"
+    ],
+    "citedby-count": 0,
+    "ref-count": 13,
+    "ref-list": [
+        "Using context to improve predictive modeling of customers in personalization applications",
+        "Incorporating contextual information in recommender systems using a multidimensional approach",
+        "Latent dirichlet allocation",
+        "Improved collaborative filtering algorithm using topic model",
+        "An implicit feedback integrated LDA-based topic model for IPTV program recommendation",
+        "Latent dirichlet allocation for tag recommendation in Proceedings of the third",
+        "IR evaluation methods for retrieving highly relevant documents"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

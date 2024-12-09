@@ -1,0 +1,45 @@
+{
+    "eid": "2-s2.0-85055648959",
+    "title": "Toward real-time data query systems in HEP",
+    "cover-date": "2018-10-18",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Physics and Astronomy (all)",
+            "@code": "3100",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Jim Pivarski",
+        "David Lange",
+        "Thanat Jatuphattharachat"
+    ],
+    "citedby-count": 1,
+    "ref-count": 10,
+    "ref-list": [
+        "Apache drill: Interactive ad-hoc analysis at scale",
+        "ROOT-BulkIO and Numpy interface",
+        "ROOT: An object oriented data analysis framework"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Princeton",
+            "@id": "60003269",
+            "affilname": "Princeton University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003269",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "National Science Foundation"
+    ]
+}

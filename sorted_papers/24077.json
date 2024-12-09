@@ -1,0 +1,61 @@
+{
+    "eid": "2-s2.0-85081090984",
+    "title": "Convolutional Neural Network using Stacked Frames for Video Classification",
+    "cover-date": "2019-11-23",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Convolutional Neural Network",
+        "Median Layer",
+        "Video Classification"
+    ],
+    "authors": [
+        "Itthisak Phueaksri",
+        "Sukree Sinthupinyp"
+    ],
+    "citedby-count": 1,
+    "ref-count": 15,
+    "ref-list": [
+        "A large-scale hierarchical image database",
+        "Two-stream convolutional networks for action recognition in videos",
+        "Modeling spatial- temporal clues in a hybrid deep learning framework for video classification",
+        "Multiscale deep alternative neural network for large-scale video classification",
+        "Large-scale video classification with convolutional neural networks",
+        "Scanner: Efficient video analysis at scale",
+        "Beyond short snippets: Deep networks for video classification",
+        "Modeling multimodal clues in a hybrid deep learning framework for video classification",
+        "Learning spatiotemporal features with 3d convolutional networks"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

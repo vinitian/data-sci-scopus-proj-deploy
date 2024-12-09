@@ -1,0 +1,115 @@
+{
+    "eid": "2-s2.0-85080029996",
+    "title": "Risk and profit-based bidding and offering strategies for pumped hydro storage in the energy market",
+    "cover-date": "2020-05-20",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Environmental Science (all)",
+            "@code": "2300",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Strategy and Management",
+            "@code": "1408",
+            "@abbrev": "BUSI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Bidding and offering strategy",
+        "Downside risk constraints method",
+        "Pumped hydro storages",
+        "Risk-averse strategy",
+        "Risk-neutral strategy",
+        "Stochastic programming"
+    ],
+    "authors": [
+        "Man Wen Tian",
+        "Shu Rong Yan",
+        "Xiao Xiao Tian",
+        "Sayyad Nojavan",
+        "Kittisak Jermsittiparsert"
+    ],
+    "citedby-count": 53,
+    "ref-count": 40,
+    "ref-list": [
+        "On the use of adjustable-speed pumped hydro storage operation in the U.S electricity market",
+        "Risk-assessment of photovoltaic-wind-battery-grid based large industrial consumer using information gap decision theory",
+        "Distribution markets",
+        "Medium-term storage volume prediction for optimum reservoir management: a hybrid data-driven approach",
+        "Optimal scheduling of electric vehicles aggregator under market price uncertainty using robust optimization technique",
+        "Modeling the real-time use of reserves in the joint energy and reserve hourly scheduling of a pumped storage plant",
+        "Scenario approach to capacity planning",
+        "{Cplex} 12",
+        "Cplex 12",
+        "Stochastic joint optimization of wind generation and pumped-storage units in an electricity market",
+        "Risk-constrained bidding strategy for a joint operation of wind power and compressed air energy storage aggregators",
+        "Bidding strategies for electricity producers in a competitive electricity marketplace",
+        "Optimal hybrid pumped hydro-battery storage scheme for off-grid renewable energy systems",
+        "A stochastic-based decision-making framework for an electricity retailer: time-of-use pricing and electricity portfolio optimization",
+        "Economic analysis of large-scale pumped storage plants in Norway",
+        "Hybrid pumped hydro and battery storage for renewable energy based power supply system",
+        "Economic impact of pumped storage power plant on social welfare of electricity market",
+        "Bidding strategy for pumped-storage plant in pool-based electricity market",
+        "Pumped storage bidding and its impacts in combined pool-bilateral market",
+        "Evolutionary tristate PSO for strategic bidding of pumped-storage hydroelectric plant",
+        "Optimal bidding strategy for multi-unit pumped storage plant in pool-based electricity market using evolutionary tristate PSO",
+        "Scheduling and value of pumped storage hydropower plant in Iran power grid based on fuel-saving in thermal units",
+        "Self-scheduling of a joint hydro and pumped-storage plants in energy, spinning reserve and regulation markets",
+        "Risk-constrained dynamic self-scheduling of a pumped-storage plant in the energy and ancillary service markets",
+        "Co-optimized bidding strategy of an integrated wind-thermal-photovoltaic system in deregulated electricity market under uncertainties",
+        "Optimal operation scheduling of grid-connected PV with ground pumped hydro storage system for cost reduction in small farming activities",
+        "Metaheuristic methods applied to the pumps and turbines configuration design of water pumped storage systems",
+        "Pumped-storage hydro-turbine bidding strategies in a competitive electricity market",
+        "A TODIM-based approach for environmental impact assessment of pumped hydro energy storage plant",
+        "Optimal bidding strategy for a GENCO in day-ahead energy and spinning reserve markets with considerations for coordinated wind-pumped storage-thermal system and CO2 emission",
+        "Forecasting next-day electricity prices by time series models",
+        "Optimal short-term operation of pumped-storage power plants with differential evolution algorithm",
+        "A stochastic framework for short-term operation of a distribution company",
+        "Developing bidding and offering curves of a price-maker energy storage facility based on robust optimization",
+        "Risk-constrained bidding and offering strategy for a merchant compressed air energy storage plant",
+        "A microgrid energy management system and risk management under an electricity market environment",
+        "Electricity price short-term forecasting using artificial neural networks",
+        "Application of CVaR risk aversion approach in the dynamical scheduling optimization model for virtual power plant connected with wind-photovoltaic-energy storage system with uncertainties and demand response",
+        "Power Generation, Operation, and Control"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bonab",
+            "@id": "60108382",
+            "affilname": "University of Bonab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60108382",
+            "affiliation-country": "Iran"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nanchang",
+            "@id": "60010606",
+            "affilname": "East China Jiaotong University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010606",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": [
+        "National Social Science Foundation"
+    ]
+}

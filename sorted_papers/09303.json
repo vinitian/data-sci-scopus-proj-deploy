@@ -1,0 +1,131 @@
+{
+    "eid": "2-s2.0-85065547837",
+    "title": "Thermal-response of a protein (hHv1)by a coarse-grained MC and all-atom MD computer simulations",
+    "cover-date": "2019-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Statistical and Nonlinear Physics",
+            "@code": "3109",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Statistics and Probability",
+            "@code": "2613",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Coarse-grained model",
+        "Molecular Dynamics simulation",
+        "Monte Carlo simulation",
+        "Voltage-gated proton channel protein hHv1"
+    ],
+    "authors": [
+        "Panisak Boonamnaj",
+        "Sunita Subedi Paudel",
+        "Warin Jetsadawisut",
+        "Sunan Kitjaruwankul",
+        "Pornthep Sompornpisut",
+        "R. B. Pandey"
+    ],
+    "citedby-count": 4,
+    "ref-count": 69,
+    "ref-list": [
+        "Studies on protein folding, unfolding, and fluctuations by computer simulations.II. A three-dimensional lattice model of lysozyme",
+        "Medium and long range interaction parameters between amino acids for predicting three dimensional structures of proteins",
+        "Estimation of effective interresidue contact energies from protein crystal structures: quasi-chemical approximation",
+        "Residue-residue potentials with a favorable contact pair term for simulation and treading",
+        "Inferring ideal amino acid interaction forms from statistical protein contact potentials",
+        "The origin and extent of coarse grained irregularities in protein internal packing I",
+        "CaLculation of protein backbone geometry from alpha-carbon coordinates based on peptide-group dipole alignment",
+        "Pair potentials for protein folding: choice of reference states and sensitivity of predicted native states to variations in the interaction schemes",
+        "How to guarantee optimal stability for most representative structures in the proten data bank",
+        "Contact potential that recognizes the correct folding of globular proteins",
+        "Knowledge-based potentials for protein folding: what can we learn from protein structures?",
+        "Derivation and testing of pair potentials for protein folding: When is the quasichemical approximation correct?",
+        "A lattice model for protein structure prediction at low resolution",
+        "Protein core assembly processes",
+        "An empirical energy function for threading protein sequence through folding motif",
+        "Navigating the folding routes",
+        "On the design and analysis of protein folding potentials",
+        "Can a pairwise contact potential stabilize native protein folds against decoys obtained by threading?",
+        "Coarse-grained modeling of proline rich protein 1 (PRP-1)in bulk solution and adsorbed to a negatively charged surface",
+        "Using protein folding rates to test protein folding theories",
+        "Colloquium: geometrical approach to protein folding: a tube picture",
+        "Interpreting the folding kinetics of helical proteins",
+        "All-atom fast protein folding simulations: the villin headpiece",
+        "Design of a novel globular protein fold with atomic-level accuracy",
+        "Exploring the helix-coil transition via all-atom equilibrium ensemble simulations",
+        "Thermal stability limits of proteins in solution and adsorbed on a hydrophobic surface",
+        "In silico folding of a three helix protein and characterization of its free-energy landscape in an all-atom force field",
+        "Structural information content and lyapunov exponent Calculation in protein unfolding",
+        "Coarse-grained lattice model for molecular recognition",
+        "Discrete molecular dynamics simulations of peptide aggregation",
+        "Globular structure of a human immunodeficiency virus-1 protease (1DIFA dimer)in an effective solvent medium by a Monte Carlo simulation",
+        "Conformational temperature-dependent behavior of a histone h2ax: A coarse-grained Monte Carlo approach via knowledge-based interaction potentials",
+        "Challenges in protein-folding simulations",
+        "Coarse-grained simulations of conformational dynamics of proteins: application to apomyoglobin",
+        "Monte Carlo Simulation of polyalanine using a reduced model and statistics based interaction potential",
+        "Coarse-grained peptide modeling using a systematic multiscale approach",
+        "Improved parameters for Martini coarse-grained protein force field",
+        "Perspective: Coarse-grained models for biomolecular systems",
+        "Asymmetry in structural response of inner and outer transmembrane segments of CorA protein by a coarse-grain model",
+        "Consequences of dimerization of the voltage-gated proton channel",
+        "Structural revelations of the human proton channel",
+        "Resting state of the human proton channel dimer in a lipid bilayer",
+        "Acid extrusion from human spermatozoa is mediated by flagellar voltage-gated proton channel",
+        "Nox5 in human spermatozoa: expression, function, and regulation",
+        "Functions of Proton Channels in Phagocytes, Vol. 1",
+        "NADPH Oxidase of neutrophils",
+        "Voltage-gated proton channels find their dream job managing the respiratory burst in phagocytes",
+        "The voltage dependence of NADPH oxidase reveals why phagocytes need proton channels",
+        "Voltage-gated proton channels maintain pH in human neutrophils during phagocytosis",
+        "Function of Proton Channels in Lung Epithelia, Vol. 1",
+        "Hv1 proton channels are required for high-level NADPH oxidase-dependent superoxide production during the phagocyte respiratory burst",
+        "Hvcn1 modulates BCR signal strength via regulation of BCR-dependent generation of reactive oxygen species",
+        "The cytoplasmic coiled-coil mediates cooperative gating temperature sensitivity in the voltage-gated H(+)channel Hv1",
+        "Fluctuations in kinetics of linear protein assembly",
+        "Critical fluctuations in native state of proteins",
+        "Monte Carlo and Molecular Dynamics Simulations in Polymer Science",
+        "Consistent treatment of hydrophopbicity in protein lattice models accounts for cold denaturation",
+        "Aggregation and network formation in self-assembly of protein (h3.1)by a coarse-grained Monte Carlo simulation",
+        "Scaffolding of an antimicrobial peptide (KSL)by a scale-down coarse-grained approach",
+        "Scalable molecular dynamics with NAMD",
+        "All-atom empirical potential for molecular modeling and dynamics studies of proteins",
+        "Structural refinement of membrane proteins by restrained molecular dynamics and solvent accessibility data",
+        "Resting state of the human proton channel dimer in a lipid bilayer",
+        "Comparison of simple potential functions for simulating liquid water",
+        "Increasing temperature accelerates protein unfolding without changing the pathway of unfolding",
+        "New tricks for old dogs: improving the accuracy of biomolecular force fields by pair-specific corrections to non-bonded interactions",
+        "Thermal-induced folding and unfolding of a transmembrane protein (cora)"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Si Racha",
+            "@id": "60108674",
+            "affilname": "Kasetsart University Sriracha Campus",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60108674",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hattiesburg",
+            "@id": "60007027",
+            "affilname": "University of Southern Mississippi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007027",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "National Science Foundation",
+        "Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "eid": "2-s2.0-85139115568",
+    "title": "Weighted Token-Level Virtual Adversarial Training in Text Classification",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "natural language processing",
+        "text classification",
+        "transformer",
+        "virtual adversarial training"
+    ],
+    "authors": [
+        "Teerapong Sae-Lim",
+        "Suronapee Phoomvuthisarn"
+    ],
+    "citedby-count": 0,
+    "ref-count": 32,
+    "ref-list": [
+        "BERT: Pretraining of Deep Bidirectional Transformers for Language Understanding",
+        "RoBERTa: A Robustly Optimized BERT Pretraining Approach",
+        "DistilBERT, a distilled version of BERT: Smaller, faster, cheaper and lighter",
+        "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
+        "The PASCAL Recognising Textual Entailment Challenge",
+        "Automatically Constructing a Corpus of Sentential Paraphrases",
+        "Neural Network Acceptability Judgments",
+        "Contextual Augmentation: Data Augmentation by Words with Paradigmatic Relations",
+        "EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks",
+        "Conditional BERT Contextual Augmentation",
+        "Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning",
+        "Improving BERT With Self-Supervised Attention",
+        "Self-supervised Regularization for Text Classification",
+        "SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization",
+        "Adversarial Training for Commonsense Inference",
+        "FreeLB: Enhanced Adversarial Training for Natural Language Understanding",
+        "Kullback-Leibler Divergence",
+        "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
+        "Adversarial Training Methods for Semi-Supervised Text Classification",
+        "Targeted Adversarial Training for Natural Language Understanding",
+        "Token-Aware Virtual Adversarial Training in Natural Language Understanding",
+        "Adversarial Training for Aspect-Based Sentiment Analysis with BERT",
+        "Improving Gradient-based Adversarial Training for Text Classification by Contrastive Learning and Auto-Encoder",
+        "Recursive Deep Models for Semantic Compositionality over a Sentiment Treebank",
+        "Lump at SemEval-2017 Task 1: Towards an Interlingua Semantic Similarity",
+        "A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference",
+        "SQuAD: 100, 000+ Questions for Machine Comprehension of Text",
+        "Transformers: State-of-the-art Natural Language Processing",
+        "The Microsoft Toolkit of Multi-Task Deep Neural Networks for Natural Language Understanding"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60199583",
+        "affilname": "Chulalongkorn Business School",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199583",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

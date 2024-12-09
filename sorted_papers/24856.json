@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85083516048",
+    "title": "IoT devices and edge gateway provisioning, realtime analytics for simulated and virtually emulated devices",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Analytics",
+        "Device provisioning",
+        "Edge gateway",
+        "Health-care",
+        "IoT edge",
+        "IoT platforms"
+    ],
+    "authors": [
+        "Omer Ali",
+        "Mohamad Khairi Ishak",
+        "Lunchakorn Wuttisittikulkij",
+        "Tay Zar Bhone Maung"
+    ],
+    "citedby-count": 3,
+    "ref-count": 13,
+    "ref-list": [
+        "Magic quadrant for industrial iot platforms",
+        "Leading the iot",
+        "Internet of things: A survey on enabling technologies, protocols, and applications",
+        "A review of low-end, middle-end, and high-end iot devices",
+        "Internet-of-things (iot)",
+        "Mobile edge computing: A survey",
+        "An overview of enabling technologies for the internet of things",
+        "The role of 5G wireless networks in the internet-of-things (IoT)",
+        "Federated edge-assisted mobile clouds for service provisioning in heterogeneous IoT environments",
+        "Composition-driven iot service provisioning in distributed edges",
+        "The iot and digital transformation: Toward the data-driven enterprise",
+        "Rapid prototyping iot end applications using software development kits and add on plugins"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Minden",
+            "@id": "60000906",
+            "affilname": "Universiti Sains Malaysia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000906",
+            "affiliation-country": "Malaysia"
+        }
+    ],
+    "funding": []
+}

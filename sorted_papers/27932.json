@@ -1,0 +1,54 @@
+{
+    "eid": "2-s2.0-85042617226",
+    "title": "Design of a globally stable position estimator for surface permanent-magnet synchronous motors",
+    "cover-date": "2018-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "global stability",
+        "permanent-magnet synchronous motors",
+        "position estimation",
+        "robustness"
+    ],
+    "authors": [
+        "Prachuab Iamsamang",
+        "Somboon Sangwongwanich"
+    ],
+    "citedby-count": 1,
+    "ref-count": 22,
+    "ref-list": [
+        "Back EMF sensorless-control algorithm for high-dynamic performance PMSM",
+        "Sensorless control of synchronous machines based on direct speed and position estimation in polar stator-current coordinates",
+        "A Simple Startup Strategy based on current regulation for back-EMF-based Sensorless control of PMSM",
+        "A general algorithm for speed and position estimation of AC motors",
+        "Synchronization at startup and stable rotation reversal of sensorless nonsalient PMSM drives",
+        "Implementation and sensorless vector-control design and tuning strategy for SMPM Machines in fan-type applications",
+        "New \"D-state-observer\" based sensorless vector control for permanent magnet synchronous motors. Industry Applications Conference, 2004",
+        "New sensorless vector control using minimum-order flux state observer in a stationary reference frame for permanent-magnet synchronous motors",
+        "A novel approach to the design of back-EMF observer based sensorless control of non-salient PMSM theoretical analysis and experimental investigations",
+        "Design issues and estimation errors analysis of back-EMF-based position and speed observer for SPM synchronous motors",
+        "Estimation of rotor position and speed of permanent magnet synchronous motors with guaranteed stability",
+        "Globally Convergent Nonlinear Observer for the Sensorless Control of Surface\u2010Mount Permanent Magnet Synchronous Machines",
+        "Position and speed sensorless control of brushless DC motor based on an adaptive observer",
+        "Stability and dynamic performance improvement of adaptive full-order observers for sensorless PMSM drive",
+        "AC drive observability analysis",
+        "Discussion on \u201cAC drive observability analysis",
+        "A synchro-perspective high-frequency signal injection method for position-sensorless vector control of doubly-fed induction machines",
+        "Analysis and design of a third order phase-lock loop. Military Communications Conference, 1988. MILCOM 88, Conference record",
+        "Lyapunov redesign of analog phase-lock loops"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

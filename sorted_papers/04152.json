@@ -1,0 +1,115 @@
+{
+    "eid": "2-s2.0-85148975046",
+    "title": "Sooty Tern Optimization Algorithm-Based Deep Learning Model for Diagnosing NSCLC Tumours",
+    "cover-date": "2023-02-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analytical Chemistry",
+            "@code": "1602",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "deep learning model",
+        "lung cancer",
+        "non-small cell lung cancer (NSCLC)",
+        "sooty tern optimization algorithm (STOA)"
+    ],
+    "authors": [
+        "Muhammad Asim Saleem",
+        "Ngoc Thien Le",
+        "Widhyakorn Asdornwised",
+        "Surachai Chaitusaney",
+        "Ashir Javeed",
+        "Watit Benjapolakul"
+    ],
+    "citedby-count": 2,
+    "ref-count": 32,
+    "ref-list": [
+        "Lung cancer diagnosis based on an ANN optimized by an improved TEO algorithm",
+        "Hybrid bio-inspired algorithm and convolutional neural network for automatic lung tumor detection",
+        "Automatic lung cancer detection from CT image using improved deep neural network and ensemble classifier",
+        "Computer-aided diagnosis (CAD) of a pulmonary nodule of thoracic CT image using transfer learning",
+        "Deep transfer convolutional neural network and extreme learning machine for lung nodule diagnosis on CT images",
+        "Deep learning aided decision support for pulmonary nodules diagnosing: A review",
+        "Research on key algorithms of the lung CAD system based on deep feature fusion and MKL-SVM-IPSO recognition",
+        "Deep maxout network for lung cancer detection using optimization algorithm in intelligent Internet of things",
+        "Intelligent and novel multi-type cancer prediction model using optimized ensemble learning",
+        "A hybrid algorithm for lung cancer classification using SVM and neural networks",
+        "Deep learning neural network for lung cancer classification: Enhanced optimization function",
+        "A deep learning-based approach for detection of lung cancer using self-adaptive sea lion optimization algorithm (SA-slno)",
+        "Computer-aided bright lesion classification in fundus image based on feature extraction",
+        "A neural network and optimization-based lung cancer detection system in CT images",
+        "Cat swarm optimization-based computer-aided diagnosis model for lung cancer classification in computed tomography images",
+        "Light deep model for pulmonary nodule detection from CT scan images for mobile devices",
+        "An automatic detection system of lung nodule based on multigroup patch-based deep learning network",
+        "Fusing texture, shape and deep model-learned information at the decision level for automated classification of lung nodules on chest CT",
+        "Automated system for lung nodules classification based on wavelet feature descriptor and support vector machine",
+        "Multi-crop convolutional neural networks for lung nodule malignancy suspiciousness classification",
+        "Automated lung nodule detection and classification using deep learning combined with multiple strategies",
+        "Convolutional neural networks are promising in lung cancer T-parameter assessment on baseline FDG-PET/CT",
+        "Knowledge-based collaborative deep learning for benign-malignant lung nodule classification on chest CT",
+        "The optimal deep learning model for classification of lung cancer on CT images",
+        "Highly accurate model for prediction of lung nodule malignancy with CT scans",
+        "Benign-malignant pulmonary nodule classification in low-dose CT with convolutional features",
+        "Breast cancer detection from histopathological images using deep learning",
+        "The Behavior of Noddy and Sooty Terns",
+        "The spiral optimization algorithm: Convergence conditions and settings",
+        "A Clinical Decision Support System (CDSS) for Unbiased Prediction of Caesarean Section Based on Features Extraction and Optimized Classification",
+        "Machine Learning for Dementia Prediction: A Systematic Review and Future Research Directions",
+        "An Intelligent Learning System for Unbiased Prediction of Dementia Based on Autoencoder and Adaboost Ensemble Learning"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Stockholm",
+            "@id": "60012311",
+            "affilname": "Karolinska Institutet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012311",
+            "affiliation-country": "Sweden"
+        }
+    ],
+    "funding": [
+        "Machine Learning",
+        "Ratchadapisek Somphot Fund for Center of Excellence in Artificial Intelligence",
+        "Second Century Fund",
+        "Chulalongkorn University"
+    ]
+}

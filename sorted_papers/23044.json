@@ -1,0 +1,134 @@
+{
+    "eid": "2-s2.0-85072063681",
+    "title": "Nonlinear Analysis for Bending, Buckling and Post-buckling of Nano-Beams with Nonlocal and Surface Energy Effects",
+    "cover-date": "2019-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Building and Construction",
+            "@code": "2215",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Aerospace Engineering",
+            "@code": "2202",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Ocean Engineering",
+            "@code": "2212",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Euler-Bernoulli beam",
+        "Gurtin-Murdoch",
+        "nano-beams",
+        "nonlocal elasticity",
+        "size-dependency",
+        "surface stresses"
+    ],
+    "authors": [
+        "Thai Binh Nguyen",
+        "J. N. Reddy",
+        "Jaroon Rungamornrat",
+        "Jintara Lawongkerd",
+        "Teerapong Senjuntichai",
+        "Van Hai Luong"
+    ],
+    "citedby-count": 21,
+    "ref-count": 51,
+    "ref-list": [
+        "Postbuckling characteristics of nanobeams based on the surface elasticity theory",
+        "Surface effects in non-uniform nanobeams: Continuum vs. Atomistic modeling",
+        "Bending and resonance behavior of nanowires based on Timoshenko beam theory with high-order surface stress effects, Phys. e",
+        "Interaction between edge dislocations and amorphous interphase in carbon nanotubes reinforced metal matrix nanocomposites incorporating interface effect",
+        "Static and stability analysis of nonlocal functionally graded nanobeams",
+        "A general nonlocal nonlinear model for buckling of nanobeams",
+        "On differential equations of nonlocal elasticity and solutions of screw dislocation and surface waves",
+        "Static, free vibration and stability analysis of three-dimensional nano-beams by atomistic refined models accounting for surface free energy effect",
+        "Stability and optimal shape of Pfl\u00fcger micro/nano beam",
+        "A continuum theory of elastic material surfaces",
+        "Surface stress in solids",
+        "A general theory of curved deformable interfaces in solids at equilibrium",
+        "Surface effect on the elastic behavior of static bending nanowires",
+        "Nonlocal nonlinear free vibration of nanobeams with surface effects",
+        "Effect of surface layer thickness on buckling and vibration of nonlocal nanowires",
+        "Static analysis of tapered nanowires based on nonlocal Euler-Bernoulli beam theory via differential quadrature method",
+        "Timoshenko beam model for static bending of nanowires with surface effects, Phys. e",
+        "The size-dependent bending elastic properties of nanobeams with surface effects",
+        "Bending and buckling of nanowires including the effects of surface stress and nonlocal elasticity, Phys. e",
+        "A different approach to Eringen's nonlocal integral stress model with applications for beams",
+        "Dependence of Young's modulus of nanowires on surface effect",
+        "Continuum models incorporating surface energy for static and dynamic response of nanoscale beams",
+        "Finite element modeling of beams with surface energy effects",
+        "Large displacement of a static bending nanowire with surface effects, Phys. e",
+        "Static analysis of nanobeams including surface effects by nonlocal finite element",
+        "Application of nonlocal continuum models to nanotechnology",
+        "Stability via nonlocal continuum mechanics",
+        "Bending, buckling and vibration analyses of nonhomogeneous nanotubes using GDQ and nonlocal elasticity theory",
+        "Surface and nonlocal effects for nonlinear analysis of Timoshenko beams",
+        "Nonlocal theories for bending, buckling and vibration of beams",
+        "Nonlocal continuum theories of beams for the analysis of carbon nanotubes",
+        "Non-linear analysis of functionally graded microbeams using Eringen's nonlocal differential model",
+        "Analysis of linearly elastic inextensible frames undergoing large displacement and rotation",
+        "A model for large deflections of nanobeams and experimental comparison",
+        "Analytical solutions for bending and buckling of functionally graded nanobeams based on the nonlocal Timoshenko beam theory",
+        "Nonlinear continuum models for the dynamic behavior of 1D microstructured solids",
+        "Buckling analysis of microand nano-rods/tubes based on nonlocal Timoshenko beam theory, J. Phys. D",
+        "Beam bending solutions based on nonlocal Timoshenko beam theory",
+        "Surface effects on buckling of nanowires under uniaxial compression",
+        "Postbuckling analysis of nanowires with surface effects",
+        "Application of nonlocal continuum mechanics to static analysis of micro-and nano-structures",
+        "The effects of surface tension on the elastic properties of nano structures",
+        "Surface effects on static bending of nanowires based on non-local elasticity theory",
+        "A variational principle approach for buckling of carbon nanotubes based on nonlocal Timoshenko beam models"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60071399",
+            "affilname": "Ho Chi Minh City University of Technology - HUTECH",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071399",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "College Station",
+            "@id": "60020547",
+            "affilname": "Texas A&amp;M University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020547",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "Thailand Research Fund"
+    ]
+}

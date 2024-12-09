@@ -1,0 +1,228 @@
+{
+    "eid": "2-s2.0-85101805060",
+    "title": "Molecular characterization of DICER1-mutated pituitary blastoma",
+    "cover-date": "2021-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Pathology and Forensic Medicine",
+            "@code": "2734",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Neurology (clinical)",
+            "@code": "2728",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Cellular and Molecular Neuroscience",
+            "@code": "2804",
+            "@abbrev": "NEUR"
+        }
+    ],
+    "keywords": [
+        "DICER1",
+        "DICER1 syndrome",
+        "Differentiation",
+        "Methylation",
+        "miRNA",
+        "miRNA-sequencing",
+        "mRNA-sequencing",
+        "PI3K",
+        "Pituitary blastoma",
+        "PRAME",
+        "Pre-miRNA",
+        "Whole genome sequencing"
+    ],
+    "authors": [
+        "Javad Nadaf",
+        "Leanne de Kock",
+        "Anne Sophie Chong",
+        "M\u00e1rta Korbonits",
+        "Paul Thorner",
+        "Naciba Benlimame",
+        "Lili Fu",
+        "Andrew Peet",
+        "Justin Warner",
+        "Oswald Ploner",
+        "Shanop Shuangshoti",
+        "Steffen Albrecht",
+        "Nancy Hamel",
+        "John R. Priest",
+        "Barbara Rivera",
+        "Jiannis Ragoussis",
+        "William D. Foulkes"
+    ],
+    "citedby-count": 12,
+    "ref-count": 63,
+    "ref-list": [
+        "HTSeq\u2013a Python framework to work with high-throughput sequencing data",
+        "Cancer-associated somatic DICER1 hotspot mutations cause defective miRNA processing and reverse strand expression bias to predominantly mature 3p strands through loss of 5p strand cleavage",
+        "Minfi: a flexible and comprehensive Bioconductor package for the analysis of Infinium DNA methylation microarrays",
+        "Control-FREEC: a tool for assessing copy number and allelic content using next-generation sequencing data",
+        "Trimmomatic: a flexible trimmer for Illumina sequence data",
+        "Comparison of medulloblastoma and normal neural transcriptomes identifies a restricted set of activated genes",
+        "DNA methylation-based classification of central nervous system tumours",
+        "Recurrent DICER1 hotspot mutations in endometrial tumours and their impact on microRNA biogenesis",
+        "Single-cell RNA sequencing reveals novel markers of male pituitary stem cells and hormone-producing cell types",
+        "Molecular mechanisms of pituitary organogenesis: In search of novel regulatory genes",
+        "An update on the central nervous system manifestations of DICER1 syndrome",
+        "Pituitary blastoma: a pathognomonic feature of germ-line DICER1 mutations",
+        "Ten years of DICER1 mutations: Provenance, distribution, and associated phenotypes",
+        "An insight to pituitary folliculo-stellate cells",
+        "The human tumor antigen PRAME is a dominant repressor of retinoic acid receptor signaling",
+        "DICER1: mutations, microRNAs and mechanisms",
+        "Bioconductor: open software development for computational biology and bioinformatics",
+        "Paediatric pituitary adenomas: a decade of change",
+        "Imaging of DICER1 syndrome",
+        "Recurrent somatic DICER1 mutations in nonepithelial ovarian cancers",
+        "DICER1 mutations in familial pleuropulmonary blastoma",
+        "Single cell transcriptomic analysis of the adult mouse pituitary reveals a novel multi-hormone cell cluster and physiologic demand-induced lineage plasticity",
+        "Folliculo-stellate cells of the human pituitary as adult stem cells: examples of their neoplastic potential",
+        "Folliculo-stellate cells of the human pituitary: a type of adult stem cell?",
+        "Characterization of an antigen that is recognized on a melanoma showing partial HLA loss by CTL expressing an NK inhibitory receptor",
+        "Stalled developmental programs at the root of pediatric brain tumors",
+        "Pituitary tumors in childhood: update of diagnosis, treatment and molecular genetics",
+        "Genetic regulation of pituitary gland development in human and mouse",
+        "Quantification of thyroid cancer and multinodular Goiter risk in the DICER1 syndrome: a family-based cohort study",
+        "Fast gapped-read alignment with Bowtie 2",
+        "Ultrafast and memory-efficient alignment of short DNA sequences to the human genome",
+        "voom: precision weights unlock linear model analysis tools for RNA-seq read counts",
+        "featureCounts: an efficient general purpose program for assigning sequence reads to genomic features",
+        "The molecular signatures database (MSigDB) hallmark gene set collection",
+        "MicroRNA biogenesis pathways in cancer",
+        "Clinical outcomes and complications of pituitary blastoma",
+        "The 2017 World Health Organization classification of tumors of the pituitary gland: a summary",
+        "Diagnosis of endocrine disease: SDHx mutations: beyond pheochromocytomas and paragangliomas",
+        "Cutadapt removes adapter sequences from high-throughput sequencing reads",
+        "The ensembl variant effect predictor",
+        "Regulation of TRAIL expression by PRAME and EZH2 as potential therapeutic target against solid tumors",
+        "The tumor-associated antigen PRAME is universally expressed in high-stage neuroblastoma and associated with poor outcome",
+        "The preferentially expressed antigen in melanoma (PRAME) inhibits myeloid differentiation in normal hematopoietic and leukemic progenitor cells",
+        "GEMINI: integrative exploration of genetic variation and genome annotations",
+        "Pleuropulmonary blastoma: a marker for familial disease",
+        "Exome sequencing of pleuropulmonary blastoma reveals frequent biallelic loss of TP53 and two hits in DICER1 resulting in retention of 5p-derived miRNA hairpin loop sequences",
+        "Somatic mutations in DROSHA and DICER1 impair microRNA biogenesis through distinct mechanisms in Wilms tumours",
+        "DELLY: structural variant discovery by integrated paired-end and split-read analysis",
+        "limma powers differential expression analyses for RNA-sequencing and microarray studies",
+        "edgeR: a Bioconductor package for differential expression analysis of digital gene expression data",
+        "Basic research advances on pituitary stem cell function and regulation",
+        "Germline and somatic DICER1 mutations in a pituitary blastoma causing infantile-onset Cushing's disease",
+        "Pituitary blastoma: a unique embryonal tumor",
+        "Pituitary blastoma",
+        "Biallelic DICER1 mutations in sporadic pleuropulmonary blastoma",
+        "Novel insights into pituitary tumorigenesis: genetic and epigenetic mechanisms",
+        "Whole-exome sequencing as a diagnostic tool: current challenges and future opportunities",
+        "Integrative Genomics Viewer (IGV): high-performance genomics data visualization and exploration",
+        "The oncogenic roles of DICER1 RNase IIIb domain mutations in ovarian Sertoli-Leydig cell tumors",
+        "Molecular physiology of pituitary development: signaling and transcriptional networks"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60029502",
+            "affilname": "McGill Faculty of Medicine and Health Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029502",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60022165",
+            "affilname": "Lady Davis Institute for Medical Research",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022165",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60191838",
+            "affilname": "School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60191838",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Birmingham",
+            "@id": "60170285",
+            "affilname": "Birmingham Women\u2019s and Children\u2019s NHS Foundation Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60170285",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60111763",
+            "affilname": "L'Institut de Recherche du Centre Universitaire de Sant\u00e9 McGill",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60111763",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60021435",
+            "affilname": "Barts and The London School of Medicine and Dentistry",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021435",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Birmingham",
+            "@id": "60019702",
+            "affilname": "University of Birmingham",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019702",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Ottawa",
+            "@id": "60018471",
+            "affilname": "Children's Hospital of Eastern Ontario, Ottawa",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018471",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Toronto",
+            "@id": "60016849",
+            "affilname": "University of Toronto",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016849",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Barcelona",
+            "@id": "60011805",
+            "affilname": "Hospital Universitari de Bellvitge",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011805",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Stuttgart",
+            "@id": "60009819",
+            "affilname": "Diakonie-Klinikum Stuttgart",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009819",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60006558",
+            "affilname": "Centre Universitaire de Sant\u00e9 McGill",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006558",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Cardiff",
+            "@id": "60000020",
+            "affilname": "University Hospital of Wales",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000020",
+            "affiliation-country": "United Kingdom"
+        }
+    ],
+    "funding": [
+        "Canadian Cancer Society Research Institute Innovation",
+        "Childhood Cancer Canada Foundation",
+        "Vanier Canada Graduate Scholarship and Delta Kappa Gamma World Fellowship",
+        "Canadian Institutes for Health Research"
+    ]
+}

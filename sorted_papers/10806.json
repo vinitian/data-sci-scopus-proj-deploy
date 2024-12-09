@@ -1,0 +1,107 @@
+{
+    "eid": "2-s2.0-85163277757",
+    "title": "Can 1.25 mm thin-section images generated with Deep Learning Image Reconstruction technique replace standard-of-care 5 mm images in abdominal CT?",
+    "cover-date": "2023-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Radiological and Ultrasound Technology",
+            "@code": "3614",
+            "@abbrev": "HEAL"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Gastroenterology",
+            "@code": "2715",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Urology",
+            "@code": "2748",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Abdomen",
+        "ASIR",
+        "Computed tomography",
+        "Deep learning image reconstruction"
+    ],
+    "authors": [
+        "Jinjin Cao",
+        "Nayla Mroueh",
+        "Nisanard Pisuchpen",
+        "Anushri Parakh",
+        "Simon Lennartz",
+        "Theodore T. Pierce",
+        "Avinash R. Kambadakone"
+    ],
+    "citedby-count": 0,
+    "ref-count": 35,
+    "ref-list": [
+        "Iterative reconstruction techniques in abdominopelvic CT: technical concepts and clinical implementation",
+        "Comparison of image quality from filtered back projection, statistical iterative reconstruction, and model-based iterative reconstruction algorithms in abdominal computed tomography",
+        "Iterative reconstruction technique for reducing body radiation dose at CT: feasibility study",
+        "Innovations in CT dose reduction strategy: application of the adaptive statistical iterative reconstruction algorithm",
+        "Low-tube-voltage, high-tube-current multidetector abdominal CT: improved image quality and decreased radiation dose with adaptive statistical iterative reconstruction algorithm\u2013initial clinical experience",
+        "Low-dose CT angiography using ASiR-V for potential living renal donors: a prospective analysis of image quality and diagnostic accuracy",
+        "Initial phantom study comparing image quality in computed tomography using adaptive statistical iterative reconstruction and new adaptive statistical iterative reconstruction v",
+        "Quantitative and qualitative evaluation of hybrid iterative reconstruction, with and without noise power spectrum models: A phantom study",
+        "Low contrast detectability and spatial resolution with model-based Iterative reconstructions of MDCT images: a phantom and cadaveric study",
+        "Impact of model-based iterative reconstruction on low-contrast lesion detection and image quality in abdominal CT: a 12-reader-based comparative phantom study with filtered back projection at different tube voltages",
+        "Model-based iterative reconstruction for detection of subtle hypoattenuation in early cerebral infarction: a phantom study",
+        "AirNet: Fused analytical and iterative reconstruction with deep neural network regularization for sparse-data CT",
+        "Low-dose abdominal CT using a deep learning-based denoising algorithm: a comparison with CT reconstructed with filtered back projection or iterative reconstruction algorithm",
+        "Sinogram-based deep learning image reconstruction technique in abdominal CT: image quality considerations",
+        "Quality initiatives: CT radiation dose reduction: How to implement change without sacrificing diagnostic quality",
+        "Comparison of iterative model, hybrid iterative, and filtered back projection reconstruction techniques in low-dose brain CT: impact of thin-slice imaging",
+        "AAPM tutorial. CT image detail and noise",
+        "Automated technique to measure noise in clinical CT examinations",
+        "Improvement of low-contrast detectability in low-dose hepatic multidetector computed tomography using a novel adaptive filter: evaluation with a computer-simulated liver including tumors",
+        "NCCN clinical practice guidelines in oncology: hepatobiliary cancers",
+        "Pancreatic adenocarcinoma, version 2.2021, NCCN clinical practice guidelines in oncology",
+        "Optimal reconstructed section thickness for the detection of liver lesions with multidetector CT",
+        "Image Quality Assessment of Abdominal CT by Use of New Deep Learning Image Reconstruction: Initial Experience",
+        "Deep learning reconstruction improves image quality of abdominal ultra-high-resolution CT",
+        "A study of using a deep learning image reconstruction to improve the image quality of extremely low-dose contrast-enhanced abdominal CT for patients with hepatic lesions",
+        "Informatics in radiology: Sliding-thin-slab averaging for improved depiction of low-contrast lesions with radiation dose savings at thin-section CT",
+        "Protocol optimization considerations for implementing deep learning CT reconstruction",
+        "Feasibility of thin-slice abdominal CT in overweight patients using a vendor neutral image-based denoising algorithm: Assessment of image noise, contrast, and quality",
+        "Detection of liver metastases under 2 cm: comparison of different acquisition protocols in four row multidetector-CT (MDCT)",
+        "New adaptive statistical iterative reconstruction ASiR-V: assessment of noise performance in comparison to ASiR",
+        "A third-generation adaptive statistical iterative reconstruction technique: phantom study of image noise, spatial resolution, lesion detectability, and dose reduction potential"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Koln",
+            "@id": "60204358",
+            "affilname": "Medizinische Fakult\u00e4t",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60204358",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60002746",
+            "affilname": "Harvard Medical School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002746",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "GE"
+    ]
+}

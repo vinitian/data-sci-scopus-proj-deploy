@@ -1,0 +1,62 @@
+{
+    "eid": "2-s2.0-85124892869",
+    "title": "Evaluation of Schedule and Operation for Aggregators with Photovoltaic-Battery Systems Considering Distribution Network Constraints",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "aggregator",
+        "battery energy storage system (BESS)",
+        "distribution system",
+        "optimal power flow (OPF)",
+        "photovoltaic (PV) power generation"
+    ],
+    "authors": [
+        "Fumiya Hyodo",
+        "Taisuke Masuta",
+        "Thavatchai Tayjasanant"
+    ],
+    "citedby-count": 2,
+    "ref-count": 8,
+    "ref-list": [
+        "A consensus-based cooperative control of PEV battery and PV active power curtailment for voltage regulation in distribution networks",
+        "Coordinated operation of a battery energy storage system and thermal generators for supply-demand balance maintenance and efficient use of photovoltaic energy",
+        "Simultaneous operation scheduling of generators and battery energy storage system based on actual and forecasted photovoltaic power outputs",
+        "Current status of power quality and corresponding technologies in distribution systems"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nagoya",
+            "@id": "60027762",
+            "affilname": "Meijo University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027762",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

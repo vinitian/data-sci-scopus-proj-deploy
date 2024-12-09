@@ -1,0 +1,87 @@
+{
+    "eid": "2-s2.0-85116056923",
+    "title": "Model-based deep reinforcement learning for wind energy bidding",
+    "cover-date": "2022-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Deep learning",
+        "Energy bidding strategy",
+        "Machine learning",
+        "Model-based reinforcement learning"
+    ],
+    "authors": [
+        "Manassakan Sanayha",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 13,
+    "ref-count": 47,
+    "ref-list": [
+        "Short-term electricity demand forecasting using a functional state space model",
+        "Forecasting next-day electricity demand and prices based on functional models",
+        "Short-term electricity demand forecasting using components estimation technique",
+        "Electricity price forecasting: A review of the state-of-the-art with a look into the future",
+        "Forecasting Nord Pool day-ahead prices with an autoregressive model",
+        "Short-term electricity price forecasting on the nord pool market",
+        "High-resolution electricity spot price forecast for the danish power market",
+        "Recent advances in electricity price forecasting: A review of probabilistic forecasting",
+        "Day-ahead electricity price forecasting via the application of artificial neural network based models",
+        "Artificial intelligence and nord pool's intraday electricity market elbas: a demonstration and pragmatic evaluation of employing deep learning for price prediction: using extensive market data and spatio-temporal weather forecasts",
+        "A multi-stage price forecasting model for day-ahead electricity markets",
+        "Electricity price forecasting in the danish day-ahead market using the TBATS, ANN and ARIMA methods",
+        "Theseus: Forecasting nord pool's day-ahead hourly spot prices in Finland",
+        "Load forecasting techniques for power systems with high levels of unmetered renewable generation: A comparative study",
+        "Short-term solar irradiance forecasting based on a hybrid deep learning methodology",
+        "Short-term wind power forecasting based on two-stage attention mechanism",
+        "A deep reinforcement learning method for managing wind farm uncertainties through energy storage system control and external reserve purchasing",
+        "Energy trading in smart grid: A deep reinforcement learning-based approach",
+        "A deep reinforcement learning bidding algorithm on electricity market",
+        "A data-driven approach for designing STATCOM additional damping controller for wind farms",
+        "Deep reinforcement learning approach for autonomous agents in consumer-centric electricity market",
+        "Automatic P2P energy trading model based on reinforcement learning using long short-term delayed reward",
+        "Subsidy-free renewable energy trading: A meta agent approach",
+        "Combined heat and power system intelligent economic dispatch: A deep reinforcement learning approach",
+        "Asynchronous methods for deep reinforcement learning",
+        "Bidding strategy for trading wind energy and purchasing reserve of wind power producer \u2013 A DRL based approach",
+        "Deep reinforcement learning for economic dispatch of virtual power plant in internet of energy",
+        "A parallel multi-scenario learning method for near-real-time power dispatch optimization",
+        "Dyna, an integrated architecture for learning, planning, and reacting",
+        "Temporal difference models: Model-free deep RL for model-based control",
+        "Algorithmic framework for model-based deep reinforcement learning with theoretical guarantees",
+        "When to trust your model: Model-based policy optimization",
+        "Model-based policy gradient reinforcement learning",
+        "A deep reinforcement learning method for managing wind farm uncertainties through energy storage system control and external reserve purchasing",
+        "Reinforcement learning and Markov decision processes",
+        "Reinforcement Learning: An Introduction",
+        "Emergence of locomotion behaviours in rich environments",
+        "Trust region policy optimization",
+        "Long short-term memory",
+        "Attention is all you need",
+        "Classification of hand movements from EEG using a deep attention-based LSTM network",
+        "A self-attention based LSTM network for text classification",
+        "Exploring wind power prognosis data on nord pool: The case of Sweden and Denmark"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Second Century Fund",
+        "Chulalongkorn University"
+    ]
+}

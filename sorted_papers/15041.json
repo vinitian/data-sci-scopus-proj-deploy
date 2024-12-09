@@ -1,0 +1,76 @@
+{
+    "eid": "2-s2.0-85069206548",
+    "title": "An evaluation of anonymized models and ensemble classifiers",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Data anonymization",
+        "Data mining",
+        "De-identification",
+        "Ensemble classifiers",
+        "Privacy model",
+        "Privacy-preserving data mining"
+    ],
+    "authors": [
+        "Peerapong Vanichayavisalsakul",
+        "Krerk Piromsopa"
+    ],
+    "citedby-count": 4,
+    "ref-count": 23,
+    "ref-list": [
+        "K-anonymity: A model for protecting privacy",
+        "Generalizing data to provide anonymity when disclosing information (abstract)",
+        "L-diversity: Privacy beyond k-anonymity",
+        "T-closeness: Privacy beyond k-anonymity and L-diversity",
+        "Effects of data anonymization on the data mining results",
+        "A benchmark of globally-optimal anonymization methods for biomedical data",
+        "A survey on privacy preserving data mining",
+        "SaFEPUB: A truthful data anonymization algorithm with strong privacy guarantees",
+        "Protecting privacy using K-anonymity",
+        "The random subspace method for constructing decision forests",
+        "Bagging predictors",
+        "Experiments with a new boosting algorithm",
+        "An empirical comparison of voting classification algorithms: Bagging, boosting, and variants",
+        "Rotation forest: A new classifier ensemble method",
+        "Scikit-learn: Machine learning in python",
+        "Matplotlib: A 2D graphics environment",
+        "Estimating the re-identification risk of clinical data sets",
+        "ARX-a comprehensive tool for anonymizing biomedical data",
+        "Defining privacy for data mining"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "National Science Foundation Workshop on Next Generation Data Mining"
+    ]
+}

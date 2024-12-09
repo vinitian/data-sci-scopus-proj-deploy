@@ -1,0 +1,111 @@
+{
+    "eid": "2-s2.0-85127971707",
+    "title": "Genome Assembly and Genome Annotation of Leishmania martiniquensis Isolated from a Leishmaniasis Patient in Thailand",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Parasitology",
+            "@code": "2405",
+            "@abbrev": "IMMU"
+        },
+        {
+            "@_fa": "true",
+            "$": "Infectious Diseases",
+            "@code": "2725",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Songtham Anuntakarun",
+        "Atchara Phumee",
+        "Vorthon Sawaswong",
+        "Kesmanee Praianantathavorn",
+        "Witthaya Poomipak",
+        "Rungrat Jitvaropas",
+        "Padet Siriyasatien",
+        "Sunchai Payungporn"
+    ],
+    "citedby-count": 1,
+    "ref-count": 47,
+    "ref-list": [
+        "Leishmania (Mundinia) orientalis n. sp. (Trypanosomatidae), a parasite from Thailand responsible for localised cutaneous leishmaniasis",
+        "An appraisal of the taxonomy and nomenclature of trypanosomatids presently classified as Leishmania and Endotrypanum",
+        "Isolation of novel trypanosomatid, Zelonia australiensis sp. nov. (Kinetoplastida: Trypanosomatidae) provides support for a Gondwanan origin of dixenous parasitism in the Leishmaniinae",
+        "A suspected new species of _Leishmania_, the causative agent of visceral leishmaniasis in a Thai patient",
+        "Chronic generalized fibrotic skin lesions from disseminated leishmaniasis caused by Leishmania martiniquensis in two patients from northern Thailand infected with HIV",
+        "First isolation of Leishmania from northern Thailand: Case report, identification as Leishmania martiniquensis and phylogenetic position within the Leishmania enriettii complex",
+        "Early detection of novel Leishmania species DNA in the saliva of two HIV-infected patients",
+        "Multiple cutaneous nodules in an HIV-infected patient",
+        "Determination of anti-leishmanial drugs efficacy against _Leishmania martiniquensis_ using a colorimetric assay",
+        "A complete _Leishmania donovani_ reference genome identifies novel genetic variations associated with virulence",
+        "Leishmania naiffiandLeishmania guyanensisreference genomes highlight genome structure and gene evolution in theVianniasubgenus",
+        "Identification of virulence factors in Leishmania infantum strains by a proteomic approach",
+        "Proteinases as virulence factors in Leishmania spp. infection in mammals",
+        "Consecutive cutaneous and visceral leishmaniasis manifestations involving a novel Leishmania species in two HIV patients in Thailand",
+        "Detection of Leishmania siamensis DNA in saliva by polymerase chain reaction",
+        "Experimental transmission of Leishmania (Mundinia) parasites by biting midges (Diptera: Ceratopogonidae)",
+        "Multilocus characterization and phylogenetic analysis of Leishmania siamensis isolated from autochthonous visceral leishmaniasis cases, southern Thailand",
+        "Trimmomatic: A flexible trimmer for Illumina sequence data",
+        "SPAdes: A new genome assembly algorithm and its applications to single-cell sequencing",
+        "Chromosome-scale assembly of the complete genome sequence of Leishmania (Mundinia) martiniquensis, isolate LSCM1, strain LV760",
+        "ACT: The Artemis comparison tool",
+        "Fast and accurate short read alignment with Burrows-Wheeler transform",
+        "AUGUSTUS: A web server for gene prediction in eukaryotes that allows user-defined constraints",
+        "EggNOG-mapper v2: Functional annotation, orthology assignments, and domain prediction at the metagenomic scale",
+        "EggNOG 5.0: A hierarchical, functionally and phylogenetically annotated orthology resource based on 5090 organisms and 2502 viruses",
+        "Expanded microbial genome coverage and improved protein family annotation in the COG database",
+        "KEGG: New perspectives on genomes, pathways, diseases and drugs",
+        "The Gene Oncology (GO) database and informatics resource",
+        "ProtVirDB: A database of protozoan virulent proteins",
+        "PHI-base: A new interface and further additions for the multi-species pathogen-host interactions database",
+        "OrthoFinder: Phylogenetic orthology inference for comparative genomics",
+        "Interactive tree of life (iTOL) v5: An online tool for phylogenetic tree display and annotation",
+        "Fast, scalable generation of high-quality protein multiple sequence alignments using Clustal Omega",
+        "Genomic analysis of Colombian _Leishmania panamensis_ strains with different level of virulence",
+        "Heat shock proteins regulatory role in neurodevelopment",
+        "The role of heat shock protein (hsp70) in dendritic cell maturation: Hsp70 induces the maturation of immature dendritic cells but reduces DC differentiation from monocyte precursors",
+        "HSP70 peptide binding mutants separate antigen delivery from dendritic cell stimulation",
+        "MEROPS: The peptidase database",
+        "_Leishmania mexicana_: Identification and characterization of an aspartyl proteinase activity",
+        "Cysteine proteases of parasitic organisms",
+        "Biological roles of peptidases in trypanosomatids!2009-11-26!2010-02-15!2010-03-18!",
+        "Analysis of the roles of cysteine proteinases ofLeishmania mexicanain the host-parasite interaction",
+        "SODB1 is essential for Leishmania major infection of macrophages and pathogenesis in mice",
+        "SOD enzymes and microbial pathogens: Surviving the oxidative storm of infection",
+        "Superoxide dismutases - A review of the metal-associated mechanistic variations",
+        "Comparative genomics of Leishmania (Mundinia)"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tha Sala",
+            "@id": "60026526",
+            "affilname": "Walailak University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026526",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60013939",
+            "affilname": "Faculty of Medicine, Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013939",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

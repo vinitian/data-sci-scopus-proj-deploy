@@ -1,0 +1,67 @@
+{
+    "eid": "2-s2.0-85149182820",
+    "title": "Implementation of Edge Servers on an Open 5G Core Network",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "5G network",
+        "core network",
+        "edge computing",
+        "Edge server"
+    ],
+    "authors": [
+        "Pisit Vanichchanunt",
+        "Ittipon Yamyuan",
+        "Pruk Sasithong",
+        "Lunchakorn Wuttisittikulkij",
+        "Sukritta Paripurana"
+    ],
+    "citedby-count": 0,
+    "ref-count": 16,
+    "ref-list": [
+        "The Future of Infrastructure Edge Computing",
+        "Edge computing",
+        "Deployment of Edge-Computing in 5G NFV Environment and Future Service-Based Architecture",
+        "5G Edge Cloud Networking and Case Analysis",
+        "DNN inference offloading for object detection in 5G multi-Access edge computing",
+        "The 5G MEC Applications in Smart Manufacturing",
+        "Open Source 5G Security Testbed for Edge Computing",
+        "Enabling Autonomous and Connected Vehicles at the 5G Network Edge",
+        "Over-The-Air Demonstration of Satellite Integration with 5G Core Network and Multi-Access Edge Computing Use Case",
+        "Traffic-Aware Horizontal Pod Autoscaler in Kubernetes-Based Edge Computing Infrastructure"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Department of Electrical and Computer Engineering, Faculty of Engineering",
+        "TSRI Fund",
+        "KMUTNB"
+    ]
+}

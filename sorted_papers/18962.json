@@ -1,0 +1,161 @@
+{
+    "eid": "2-s2.0-85081573227",
+    "title": "Modeling and Control of Multiphase Interleaved Fuel-Cell Boost Converter Based on Hamiltonian Control Theory for Transportation Applications",
+    "cover-date": "2020-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Automotive Engineering",
+            "@code": "2203",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Transportation",
+            "@code": "3313",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Constant power load (CPL)",
+        "DC microgrid",
+        "fuel cell (FC)",
+        "interleaved boost converter",
+        "passivity-based controller (PBC)",
+        "port-controlled Hamiltonian (PCH)",
+        "voltage regulation"
+    ],
+    "authors": [
+        "Pongsiri Mungporn",
+        "Phatiphat Thounthong",
+        "Burin Yodwong",
+        "Chainarin Ekkaravarodome",
+        "Anusak Bilsalam",
+        "Serge Pierfederici",
+        "Damien Guilbert",
+        "Babak Nahid-Mobarakeh",
+        "Nicu Bizon",
+        "Zahir Shah",
+        "Surin Khomfoi",
+        "Poom Kumam",
+        "Piyabut Burikham"
+    ],
+    "citedby-count": 27,
+    "ref-count": 31,
+    "ref-list": [
+        "Model predictive control for electrochemical impedance spectroscopy measurement of fuel cells based on neural network optimization",
+        "Better fuel economy by optimizing airflow of the fuel cell hybrid power systems using fuel flow-based load-following control",
+        "Voltage reduction technique for use with electrochemical impedance spectroscopy in high-voltage fuel cell and battery systems",
+        "Fuel cell highpower applications",
+        "A state machine control based on equivalent consumption minimization for fuel cell/supercapacitor hybrid tramway",
+        "Hydrogen economy of the fuel cell hybrid power system optimized by air flow control to mitigate the effect of the uncertainty about available renewable power and load dynamics",
+        "Air flow real-time optimization strategy for fuel cell hybrid power sources with fuel flow based on load-following",
+        "Analysis, modeling and implementation of an interleaved boost DC-DC converter for fuel cell used in electric vehicle",
+        "Load estimator-based hybrid controller design for twointerleaved boost converter dedicated to renewable energy and automotive applications",
+        "Simulation of interleaved current fed full bridge converter for fuel cell electrical vehicle",
+        "An analytical investigation of DC/DC power electronic converters with constant power loads in vehicular power systems",
+        "Largesignal stabilization of a DC-link supplying a constant power load using a virtual capacitor: Impact on the domain of attraction",
+        "Passivity-based control of switched reluctance-based wind system supplying constant power load",
+        "A comprehensive review on constant power loads compensation techniques",
+        "Active stabilisation design of DC-DC converters with constant power load using a sampled discretetime model: Stability analysis and experimental verification",
+        "Improved stabilization of nonlinear DC microgrids: Cubature Kalman filter approach",
+        "A virtual negative inductor stabilizing strategy for DC microgrid with constant power loads",
+        "Existence and stability of equilibrium of DC microgrid with constant power loads",
+        "PBC approach for SMES devices in electric distribution networks",
+        "PID passivity-based control of port-Hamiltonian systems",
+        "An approach to suppress low frequency oscillation in the traction network of high-speed railway using passivitybased control",
+        "Passivity-based control strategy for SMES under an unbalanced voltage condition",
+        "Nonlinear disturbance observer-based control for a class of port-controlled Hamiltonian disturbed systems",
+        "Study of a multiphase interleaved stepup converter for fuel cell high power applications",
+        "A new control law based on the differential flatness principle for multiphase interleaved DC-DC converter",
+        "Interconnection and damping assignment passivitybased control applied to on-board DC-DC power converter system supplying constant power load",
+        "Differential flatness-based control of Current/ Voltage stabilization for a single-phase PFC with multiphase interleaved boost converters",
+        "Dynamics improvement of 3-phase inverter with output LC-filter by using differential flatness based control for grid connected applications",
+        "DC link stabilization of single-phase power factor correction by using differential flatness-based control approach",
+        "Model based control of permanent magnet AC servo motor drives",
+        "DC bus stabilization of li-ion battery based energy storage for a hydrogen/solar power plant for autonomous network applications"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Vandoeouvre-les-Nancy",
+            "@id": "60138529",
+            "affilname": "Groupe de Recherche en Energie Electrique de Nancy (GREEN)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60138529",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Mardan",
+            "@id": "60107589",
+            "affilname": "Abdul Wali Khan University Mardan",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60107589",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Nancy",
+            "@id": "60104289",
+            "affilname": "Universit\u00e9 de Lorraine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104289",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hamilton",
+            "@id": "60031828",
+            "affilname": "McMaster University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031828",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Pitesti",
+            "@id": "60030217",
+            "affilname": "Universitatea din Pitesti",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030217",
+            "affiliation-country": "Romania"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ladkrabang Bangkok",
+            "@id": "60021543",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021543",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Thonburi",
+            "@id": "60008786",
+            "affilname": "King Mongkut's University of Technology Thonburi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008786",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "EE-TFRC",
+        "Electrical Engineering Thai-French Research Center",
+        "Universit\u00e9 de Lorraine",
+        "King Mongkut\u2019s University of Technology North Bangkok"
+    ]
+}

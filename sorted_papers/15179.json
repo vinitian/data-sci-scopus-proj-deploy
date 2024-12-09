@@ -1,0 +1,105 @@
+{
+    "eid": "2-s2.0-85104488343",
+    "title": "Network diffusion with centrality measures to identify disease-related genes",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Agricultural and Biological Sciences (all)",
+            "@code": "1100",
+            "@abbrev": "AGRI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Centrality",
+        "Diffusion",
+        "Disease-related genes",
+        "Protein-protein interaction network"
+    ],
+    "authors": [
+        "Panisa Janyasupab",
+        "Apichat Suratanee",
+        "Kitiporn Plaimas"
+    ],
+    "citedby-count": 10,
+    "ref-count": 39,
+    "ref-list": [
+        "Network medicine: A network-based approach to human disease",
+        "Interactome-based approaches to human disease",
+        "Molecular networks in network medicine: development and applications",
+        "Gene co-expression in the interactome: moving from correlation toward causation via an integrated approach to disease module discovery",
+        "Integrated transcriptomic correlation network analysis identifies COPD molecular determinants",
+        "Computational identification of specific genes for glioblastoma stem-like cells identity",
+        "Recent approaches to the prioritization of candidate disease genes",
+        "Identification of inflammatory bowel disease-related proteins using a reverse k-nearest neighbor search",
+        "Identifying and analyzing novel epilepsy-related genes using random walk with restart algorithm",
+        "A DIseAse MOdule Detection (DIAMOnD) algorithm derived from a systematic analysis of connectivity patterns of disease proteins in the human interactome",
+        "SWIM: A computational tool to unveiling crucial nodes in complex biological networks",
+        "Benchmarking network propagation methods for disease gene identification",
+        "One for all and all for one: Improving replication of genetic studies through network diffusion",
+        "diffuStats: An R package to compute diffusion-based scores on biological networks",
+        "Network diffusion-based prioritization of autism risk genes identifies significantly connected gene modules",
+        "Network diffusion-based analysis of high-throughput data for the detection of differentially enriched modules",
+        "Benchmarking network algorithms for contextualizing genes of interest",
+        "Analyzing a co-occurrence gene-interaction network to identify disease-gene association",
+        "Analysis of topological parameters of complex disease genes reveals the importance of location in a biomolecular network",
+        "Effect of community structures in protein-protein interaction network in cancer protein identification",
+        "STRING v11: Protein-protein association networks with increased coverage, supporting functional discovery in genome-wide experimental datasets",
+        "DisGeNET: A discovery platform for the dynamical exploration of human diseases and their genes",
+        "Kernels and regularization on graphs",
+        "The matrix-forest theorem and measuring relations in small social Groups",
+        "Emergence of scaling in random networks",
+        "EGAD: Ultra-fast functional analysis of gene networks",
+        "RANKS: A flexible tool for node label ranking and classification in biological networks",
+        "GeneMANIA: A real-time multiple association network integration algorithm for predicting gene function",
+        "Null diffusion-based enrichment for metabolomics data",
+        "AptRank: An adaptive PageRank model for protein function prediction on bi-relational graphs",
+        "Comprehensive analysis of the long noncoding RNA HOXA11-AS gene interaction regulatory network in NSCLC cells",
+        "Serine protease inhibitor kazal-type 6 inhibits tumorigenesis of human hepatocellular carcinoma cells via its extracellular action",
+        "Identification of hub genes in Hepatocellular Carcinoma related to progression and prognosis by weighted gene co-expression network analysis",
+        "A large-scale multi-ancestry genome-wide study accounting for smoking behavior identifies multiple significant loci for blood pressure",
+        "Ciliary neurotrophic factor (CNTF): New facets of an old molecule for treating neurodegenerative and metabolic syndrome pathologies",
+        "Molecular signatures in post-mortem brain tissue of younger individuals at high risk for Alzheimer's disease as based on APOE genotype",
+        "Identification of soluble WSX-1 not as a dominant-negative but as an alternative functional subunit of a receptor for an anti-Alzheimer's disease rescue factor Humanin",
+        "Humanin inhibits neuronal cell death by interacting with a cytokine receptor complex or complexes Involving CNTF Receptor /WSX-1/gp130"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "King Mongkut\u2019s University of Technology North Bangkok",
+        "Thailand Science Research and Innovation Fund"
+    ]
+}

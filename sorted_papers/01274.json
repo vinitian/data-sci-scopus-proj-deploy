@@ -1,0 +1,62 @@
+{
+    "eid": "2-s2.0-85081689000",
+    "title": "Vision-Based Bus Route Number Reader for Visually Impaired Travelers",
+    "cover-date": "2018-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "assistive technology",
+        "bus route number recognition",
+        "faster RCNN",
+        "low vision",
+        "tensorflow object detection",
+        "visually impaired"
+    ],
+    "authors": [
+        "Pitchakorn Wongta",
+        "Thanarat H. Chalidabhongse"
+    ],
+    "citedby-count": 1,
+    "ref-count": 20,
+    "ref-list": [
+        "An automatic bus route number recognition",
+        "Robust wide-baseline stereo from maximally stable extremal regions",
+        "Thai text localization in natural scene images using Convolutional Neural Network",
+        "A method for multi-oriented Thai text localization in natural scene images using Convolutional Neural Network",
+        "Bus detection device for the blind using RFID application",
+        "Bus detection system for blind people using RFID",
+        "Automatic bus line number localization and recognition on mobile phones-A computer vision aid for the visually impaired",
+        "A primary travelling assistant system of bus detection and recognition for visually impaired people",
+        "Automatic number recognition for bus route information aid for the visually-impaired",
+        "Detection of bus route number via motion and ycbcr features",
+        "Detection of bus routes number in bus panel via learning approach",
+        "Faster R-CNN: Towards real-time object detection with region proposal networks",
+        "Deep residual learning for image recognition"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

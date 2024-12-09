@@ -1,0 +1,88 @@
+{
+    "eid": "2-s2.0-84970990065",
+    "title": "DBMUTE: density-based majority under-sampling technique",
+    "cover-date": "2017-03-01",
+    "subject-areas": [
+        {
+            "$": "Artificial Intelligence",
+            "@code": "1702"
+        },
+        {
+            "$": "Hardware and Architecture",
+            "@code": "1708"
+        },
+        {
+            "$": "Human-Computer Interaction",
+            "@code": "1709"
+        },
+        {
+            "$": "Information Systems",
+            "@code": "1710"
+        },
+        {
+            "$": "Software",
+            "@code": "1712"
+        }
+    ],
+    "keywords": [
+        "Class imbalance",
+        "Density-based",
+        "Pattern recognition",
+        "Under-sampling"
+    ],
+    "authors": [
+        "Chumphol Bunkhumpornpat"
+    ],
+    "citedby-count": 47,
+    "ref-count": 32,
+    "ref-list": [
+        "The UC Irvine machine learning repository.",
+        "The use of the area under the ROC curve in the evaluation of machine learning algorithms",
+        "The relationship between Recall and Precision",
+        "DBSMOTE: Density-based synthetic minority over-sampling technique",
+        "MUTE: Majority under-sampling technique",
+        "Safe-level-SMOTE: Safe-level-synthetic minority over-sampling technique for handling the class imbalanced problem",
+        "Data mining and knowledge discovery handbook",
+        "SMOTE: Synthetic minority over-sampling technique",
+        "Building a medical decision support system for colon polyp screening by using fuzzy classification trees",
+        "Fast Effective Rule Induction",
+        "Nearest Neighbor Pattern Classification",
+        "Statistical comparisons of classifiers over multiple data sets",
+        "the ICML 2003 workshop on learning from imbalanced datasets",
+        "A Density-Based Algorithm for Discovering Clusters A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise",
+        "Naive bayes for text classification with unbalanced classes",
+        "Zaragoza, Spain",
+        "Borderline-SMOTE: A new over-sampling method in imbalanced data sets learning",
+        "Data Mining: Concepts and Techniques",
+        "A data mining approach for retailing bank customer attrition analysis",
+        "The class imbalance problem: significance and strategies. In: The 2000 international conference on artificial intelligence",
+        "The class imbalance problem: A systematic study",
+        "A cascaded classifier approach for improving detection rates on rare attack categories in network intrusion detection",
+        "Machine learning for the detection of oil spills in satellite radar images",
+        "An incremental neural learning framework and its application to vehicle diagnostics",
+        "Pattern recognition: an algorithmic approach",
+        "Pattern recognition",
+        "Class imbalances versus class overlapping: An analysis of a learning system behavior",
+        "C4.5: programs for machine learning",
+        "Neural Network Studies. 1. Comparison of Overfitting and Overtraining",
+        "TWO MODIFICATIONS OF CNN.",
+        "Applying adaptive over-sampling technique based on data density and cost-sensitive SVM to imbalanced learning",
+        "Data Mining: Practical Machine Learning Tools and Techniques, Third Edition"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chiang Mai",
+            "affilname": "Chiang Mai University",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Research Administration Center, Chiang Mai University",
+        "Thailand Research Fund"
+    ]
+}

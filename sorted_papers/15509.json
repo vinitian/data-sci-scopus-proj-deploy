@@ -1,0 +1,85 @@
+{
+    "eid": "2-s2.0-85112790072",
+    "title": "Airport buildings classification through remote sensing images using EfficientNet",
+    "cover-date": "2021-05-19",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Airport buildings",
+        "Classification",
+        "EfficientNet",
+        "Remote sensing images"
+    ],
+    "authors": [
+        "Pimpisa Charoenchittang",
+        "Petarpa Boonserm",
+        "Kazuki Kobayashi",
+        "Nagul Cooharojananone"
+    ],
+    "citedby-count": 4,
+    "ref-count": 9,
+    "ref-list": [
+        "Going deeper with convolutions",
+        "Rethinking the inception architecture for computer vision",
+        "Deep residual learning for image recognition",
+        "Xception: Deep learning with depthwise separable convolutions",
+        "Inception-v4, inception-resnet and the impact of residual connections on learning",
+        "Aggregated residual transformations for deep neural networks",
+        "Efficientnet: Rethinking model scaling for convolutional neural networks",
+        "Mobilenetv2: Inverted residuals and linear bottlenecks",
+        "Mnasnet: Platform-aware neural architecture search for mobile"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Matsumoto",
+            "@id": "60031955",
+            "affilname": "Shinshu University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031955",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

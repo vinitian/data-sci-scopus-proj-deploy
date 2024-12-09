@@ -1,0 +1,89 @@
+{
+    "eid": "2-s2.0-85077887018",
+    "title": "Automatic Stroke Screening on Mobile Application: Features of Gyroscope and Accelerometer for Arm Factor in FAST",
+    "cover-date": "2019-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biomedical Engineering",
+            "@code": "2204",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Health Informatics",
+            "@code": "2718",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "automatic stroke screening",
+        "FAST method",
+        "gyroscope and accelerometer",
+        "handcrafted features"
+    ],
+    "authors": [
+        "P. Phienphanich",
+        "N. Tankongchamruskul",
+        "W. Akarathanawat",
+        "A. Chutinet",
+        "R. Nimnual",
+        "C. Tantibundhit",
+        "N. C. Suwanwela"
+    ],
+    "citedby-count": 4,
+    "ref-count": 17,
+    "ref-list": [
+        "Stroke: A global response is needed",
+        "Diagnostic accuracy of stroke referrals from primary care, emergency room physicians, and ambulance staff using the face arm speech test",
+        "Face arm speech time test use in the prehospital setting, better in the ambulance than in the emergency medical communication center",
+        "Identification of stroke during the emergency call: A descriptive study of callers' presentation of stroke",
+        "Clinical signs in young patients with stroke related to FAST: Results of the sifap1 study",
+        "BE-FAST (Balance, Eyes, Face, Arm, Speech, Time)",
+        "Muscle strength testing using wearable wireless sensors",
+        "An iPhone application for upper arm posture and movement measurements",
+        "Improvement of dynamic respiration monitoring through sensor fusion of accelerometer and gyro-sensor",
+        "The WEKA data mining software: An update",
+        "Motor recovery after stroke: A systematic review",
+        "Presence of finger extension and shoulder abduction within 72 hours after stroke predicts functional recovery: Early prediction of functional outcome after stroke: The EPOS cohort study"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60012521",
+            "affilname": "Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012521",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "101730219",
+            "affilname": "Ruamrudee International School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101730219",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Thailand Research Fund",
+        "Thammasat University"
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "eid": "2-s2.0-85137070568",
+    "title": "An ICA-based framework for joint analysis of cognitive scores and MEG event-related fields",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biomedical Engineering",
+            "@code": "2204",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Health Informatics",
+            "@code": "2718",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "correlation",
+        "GDM",
+        "HCPC",
+        "ICA",
+        "MEG"
+    ],
+    "authors": [
+        "P. Boonyakitanont",
+        "B. Gabrielson",
+        "I. Belyaeva",
+        "P. Olikkal",
+        "J. Songsiri",
+        "Y. P. Wang",
+        "T. W. Wilson",
+        "V. D. Calhoun",
+        "J. M. Stephen",
+        "T. Adali"
+    ],
+    "citedby-count": 1,
+    "ref-count": 23,
+    "ref-list": [
+        "Mapping language from MEG beta power modulations during auditory and visual naming",
+        "Diversity in independent component and vector analyses: Identifiability, algorithms, and applications in medical imaging",
+        "Applying stochastic spike train theory for high-accuracy human MEG/EEG",
+        "Group differences in MEG-ICA derived resting state networks: Application to major depressive disorder",
+        "A method to compare the discriminatory power of data-driven methods: Application to ICA and IVA",
+        "The Developmental Chronnecto-Genomics (Dev-CoG) study: A multimodal study on the developing brain",
+        "WASI-II: Wechsler abbreviated scale of intelligence",
+        "I. NIH Toolbox Cognition Battery (CB): introduction and pediatric data",
+        "Principal component methodshierarchical clustering-partitional clustering: why would we need to choose for visualizing data",
+        "Ward's hierarchical agglomerative clustering method: which algorithms implement Ward's criterion",
+        "Measuring and testing dependence by correlation of distances",
+        "Approximately unbiased tests of regions using multistep-multiscale bootstrap resampling",
+        "Suppression of interference and artifacts by the signal space separation method",
+        "Likelihood estimators for dependent samples and their application to order detection",
+        "Blind source separation by entropy rate minimization",
+        "Well-separated clusters and optimal fuzzy partitions",
+        "A dendrite method for cluster analysis",
+        "A cluster separation measure",
+        "Clustisz: A program to test for the quality of clustering of a set of objects",
+        "Determining the number of clusters using information entropy for mixed data",
+        "Cluster validity methods: part I",
+        "Controlling the false discovery rate: A practical and powerful approach to multiple testing"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Albuquerque",
+            "@id": "60102515",
+            "affilname": "The Mind Research Network",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60102515",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Baltimore",
+            "@id": "60024997",
+            "affilname": "University of Maryland, Baltimore County (UMBC)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024997",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "New Orleans",
+            "@id": "60017672",
+            "affilname": "Tulane University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017672",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Atlanta",
+            "@id": "60012387",
+            "affilname": "Georgia State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012387",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Omaha",
+            "@id": "60001562",
+            "affilname": "Boys Town National Research Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001562",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "NSF-NCS",
+        "NSF",
+        "NIH"
+    ]
+}

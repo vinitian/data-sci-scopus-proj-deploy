@@ -1,0 +1,89 @@
+{
+    "eid": "2-s2.0-84958757857",
+    "title": "A Bayesian spatial temporal mixtures approach to kinetic parametric images in dynamic positron emission tomography",
+    "cover-date": "2016-03-01",
+    "subject-areas": [
+        {
+            "$": "Biophysics",
+            "@code": "1304"
+        },
+        {
+            "$": "Radiology",
+            "@code": "2741"
+        }
+    ],
+    "keywords": [
+        "kinetic model",
+        "MCMC",
+        "myocardium",
+        "PET image",
+        "spatial mixture model"
+    ],
+    "authors": [
+        "W. Zhu"
+    ],
+    "citedby-count": 7,
+    "ref-count": 31,
+    "ref-list": [
+        "Simplified reference tissue model for PET receptor studies",
+        null,
+        null,
+        "Parametric imaging of ligand-receptor binding in PET using a simplified reference region model",
+        "Positron emission tomography compartmental models: A basis pursuit strategy for kinetic modeling",
+        "Spatially-coordinated regression for image-wise model fitting to dynamic pet data for generating parametric images1",
+        "Direct reconstruction of kinetic parameter images from dynamic PET data",
+        "Use of ridge regression for improved estimation of kinetic constants from PET data",
+        "Sparsity constrained mixture modeling for the estimation of kinetic parameters in dynamic PET",
+        "Bayesian model comparison for compartmental models with applications in positron emission tomography",
+        "Clustering huge data sets for parametric PET imaging",
+        "Joint Conference of the Classification Society of North America and Interface Foundation of North America",
+        "Simultaneous segmentation, kinetic parameter estimation, and uncertainty visualization of dynamic PET images",
+        "Parametric myocardial perfusion PET imaging using physiological clustering",
+        "Development of a New Dynamic NURBS-based Cardiac Torso (NCAT) Phantom",
+        "Standardized myocardial segmentation and nomenclature for tomographic imaging of the heart: A statement for healthcare professionals from the Cardiac Imaging Committee of the Council on Clinical Cardiology of the American Heart Association",
+        null,
+        null,
+        "Generalized five-dimensional dynamic and spectral factor analysis",
+        "Cardiac motion compensation and resolution modeling in simultaneous PET-MR: A cardiac lesion detection study",
+        "Accelerated Image Reconstruction Using Ordered Subsets of Projection Data",
+        "Generalized algorithms for direct reconstruction of parametric images from dynamic PET data",
+        "The Potts model",
+        "Kinetic Modeling in Positron Emission Tomography",
+        "Modelling spatially correlated data via mixtures: A Bayesian approach",
+        "Relabelling algorithms for mixture models with applications for large data sets",
+        "Efficient classification-based relabeling in mixture models",
+        "Frontiers of Statistical Decision Making and Bayesian Analysis",
+        "Ann. Stat.",
+        "A variational Bayesian framework for graphical models",
+        "Hidden Markov models and disease mapping"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Boston",
+            "affilname": "Massachusetts General Hospital",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Sydney",
+            "affilname": "UNSW Sydney",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Boston",
+            "affilname": "Harvard Medical School",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "UNSW 2014 Science Silver Star",
+        "National Institutes of Health",
+        "National Institutes of Health",
+        "National Heart, Lung, and Blood Institute",
+        "National Heart, Lung, and Blood Institute"
+    ]
+}

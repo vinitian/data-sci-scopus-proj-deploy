@@ -1,0 +1,61 @@
+{
+    "eid": "2-s2.0-85047221923",
+    "title": "Evaluation of FOCEI and SAEM Estimation Methods in Population Pharmacokinetic Analysis Using NONMEM \u00ae Across Rich, Medium, and Sparse Sampling Data",
+    "cover-date": "2018-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Pharmacology",
+            "@code": "3004",
+            "@abbrev": "PHAR"
+        },
+        {
+            "@_fa": "true",
+            "$": "Pharmacology (medical)",
+            "@code": "2736",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Waroonrat Sukarnjanaset",
+        "Thitima Wattanavijitkul",
+        "Sutep Jarurattanasirikul"
+    ],
+    "citedby-count": 13,
+    "ref-count": 13,
+    "ref-list": [
+        "A survey of population analysis methods and software for complex pharmacokinetic and pharmacodynamic models with examples",
+        "Derivation of various NONMEM estimation methods",
+        "Introduction to NONMEM 7 and higher",
+        "Comparison of Nonmem 7.2 estimation methods and parallel processing efficiency on a target-mediated drug disposition model",
+        "Maximum likelihood from incomplete data via Em algorithm",
+        "Performance of different population pharmacokinetic algorithms",
+        "Convergence of a stochastic approximation version of the EM algorithm",
+        "Stochastic Approximation Expectation Maximization (SAEM) Method",
+        "Performance comparison of various maximum likelihood nonlinear mixed-effects estimation methods for dose\u2013response models",
+        "Evaluation of bias, precision, robustness and runtime for estimation methods in NONMEM 7",
+        "Comparing the performance of FOCE and different expectation-maximization methods in handling complex population physiologically-based pharmacokinetic models",
+        "Population Pharmacokinetics and Pharmacodynamics of Piperacillin/Tazobactam in Patients with Nosocomial Infections",
+        "Systematic comparison of the population pharmacokinetics and pharmacodynamics of piperacillin in cystic fibrosis patients and healthy volunteers"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hatyai",
+            "@id": "60025527",
+            "affilname": "Faculty of Medicine, Prince of Songkia University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025527",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

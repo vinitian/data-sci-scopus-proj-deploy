@@ -1,0 +1,123 @@
+{
+    "eid": "2-s2.0-85099503836",
+    "title": "Ant colony-based hyperparameter optimisation in total variation reconstruction in x-ray computed tomography",
+    "cover-date": "2021-01-02",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analytical Chemistry",
+            "@code": "1602",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Ant colony optimization",
+        "Computer-aided hyperparameter selection",
+        "Hyperparameter tuning",
+        "Image reconstruction",
+        "Iterative reconstruction",
+        "Limited data x-ray ct",
+        "Total variation (tv) regularization",
+        "X-ray computed tomography"
+    ],
+    "authors": [
+        "Manasavee Lohvithee",
+        "Wenjuan Sun",
+        "Stephane Chretien",
+        "Manuchehr Soleimani"
+    ],
+    "citedby-count": 5,
+    "ref-count": 27,
+    "ref-list": [
+        "Nonstationary filtering of transmission tomograms in high photon counting noise",
+        "Accurate image reconstruction from few-views and limited-angle data in divergent-beam CT",
+        "Prior image constrained compressed sensing (PICCS)",
+        "The Shannon sampling theorem-Its various extensions and applications: A tutorial review",
+        "Chest computed tomography using iterative reconstruction vs. filtered back projection (Part 1): Evaluation of image noise reduction in 32 patients",
+        "Chest computed tomography using iterative reconstruction vs. filtered back projection (Part 2): Image quality of low-dose CT examinations in 80 patients",
+        "Parameter selection in limited data cone-beam CT reconstruction using edge-preserving total variation algorithms",
+        "Image reconstruction in circular cone-beam computed tomography by constrained, total-variation minimization",
+        "GPU-based fast cone beam CT reconstruction from undersampled and noisy projection data via total variation",
+        "GPU-based iterative cone-beam CT reconstruction using tight frame regularization",
+        "Efficient Hyper-Parameter Selection in Total Variation-Penalised XCT Reconstruction Using Freund and Shapire\u2019s Hedge Approach",
+        "Intelligent parameter tuning in optimization-based iterative CT reconstruction via deep reinforcement learning",
+        "Ant Algorithms for Discrete Optimization",
+        "DQS advisor: A visual interface and knowledge-based system to balance dose, quality, and reconstruction speed in iterative CT reconstruction with application to NLM regularization",
+        "4D XCAT phantom for multimodality imaging research",
+        "Low-dose CT reconstruction via edge preserving total variation regularization",
+        "Adaptive-weighted total variation minimization for sparse data toward low-dose x-ray computed tomography image reconstruction",
+        "TIGRE: A MATLAB-GPU toolbox for CBCT image reconstruction",
+        "Simultaneous Algebraic Reconstruction Technique (SART): A superior implementation of the ART algorithm",
+        "Scale-Space and edge detection using anisotropic diffusion",
+        "Ant system: Optimization by a colony of cooperating agents",
+        "Electronic noise modeling in statistical iterative reconstruction",
+        "Variance analysis of x-ray CT sinograms in the presence of electronic noise background",
+        "A study of cross-validation and bootstrap for accuracy estimation and model selection"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bath",
+            "@id": "60030480",
+            "affilname": "University of Bath",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030480",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Middlesex",
+            "@id": "60010785",
+            "affilname": "National Physical Laboratory",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010785",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Lyon",
+            "@id": "60002142",
+            "affilname": "Universit\u00e9 Lumi\u00e8re Lyon 2",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002142",
+            "affiliation-country": "France"
+        }
+    ],
+    "funding": [
+        "European Union\u2019s Horizon 2020 research and innovation programme",
+        "BEIS",
+        "EMPIR",
+        "UK Government\u2019s Department for Business, Energy and Industrial Strategy"
+    ]
+}

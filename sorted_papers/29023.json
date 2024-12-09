@@ -1,0 +1,74 @@
+{
+    "eid": "2-s2.0-85054008064",
+    "title": "Movie Revenue Prediction Using Regression and Clustering",
+    "cover-date": "2018-08-27",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanics of Materials",
+            "@code": "2211",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mechanics",
+            "@code": "2206",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Clustering",
+        "component",
+        "Expectation-maximization",
+        "K-means",
+        "Movies",
+        "predictive analytics",
+        "regression"
+    ],
+    "authors": [
+        "Pakom Walanaraya",
+        "Weerapat Puengpipattrakul",
+        "Daricha Sutivong"
+    ],
+    "citedby-count": 2,
+    "ref-count": 10,
+    "ref-list": [
+        "Role of different factors in predicting movie success",
+        "Multi-model or single model? a study of movie box-office revenue prediction",
+        "A study on the relationship among the leading actors, directors, and the box office income of a film-based on multiple linear regression model",
+        "Predicting movie market revenue using social media data",
+        "Predicting movie success from search query using support vector regression method"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

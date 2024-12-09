@@ -1,0 +1,99 @@
+{
+    "eid": "2-s2.0-85078310167",
+    "title": "Scene text detection with polygon offsetting and border augmentation",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Convolutional neural networks",
+        "Curved text detection",
+        "Scene text detection"
+    ],
+    "authors": [
+        "Thananop Kobchaisawat",
+        "Thanarat H. Chalidabhongse",
+        "Shin\u2019Ichi Satoh"
+    ],
+    "citedby-count": 9,
+    "ref-count": 35,
+    "ref-list": [
+        "Detecting Text in Natural Image with Connectionist Text Proposal Network",
+        "TextBoxes: A Fast Text Detector with a Single Deep Neural Network",
+        "EAST: An Efficient and Accurate Scene Text Detector",
+        "Arbitrary-Oriented Scene Text Detection via Rotation Proposals",
+        "Rotation-Sensitive Regression for Oriented Scene Text Detection",
+        "TextBoxes++: A Single-Shot Oriented Scene Text Detector",
+        "Detecting Oriented Text in Natural Images by Linking Segments",
+        "PixelLink: Detecting scene text via instance segmentation",
+        "Identity mappings in deep residual networks",
+        "Feature Pyramid Networks for Object Detection",
+        "ICDAR 2015 competition on Robust Reading",
+        "ICDAR 2017 Robust Reading Challenge on Multi-Lingual Scene Text Detection and Script Identification\u2014RRC-MLT",
+        "Total-Text: A Comprehensive Dataset for Scene Text Detection and Recognition",
+        "Detecting text in natural scenes with stroke width transform",
+        "Real-time scene text localization and recognition",
+        "Canny Text Detector: Fast and Robust Scene Text Localization Algorithm",
+        "Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes",
+        "Scene Text Detection with Supervised Pyramid Context Network",
+        "TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes",
+        "Shape Robust Text Detection With Progressive Scale Expansion Network",
+        "Faster R-CNN: Towards Real-time Object Detection with Region Proposal Networks",
+        "Mask R-CNN",
+        "Single Shot MultiBox Detector",
+        "U-Net: Convolutional Networks for Biomedical Image Segmentation",
+        "Tversky Loss Function for Image Segmentation Using 3D Fully Convolutional Deep Networks",
+        "Focal loss for dense object detection",
+        "Synthetic Data for Text Localisation in Natural Images",
+        "Character Region Awareness for Text Detection"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60028928",
+            "affilname": "Research Organization of Information and Systems National Institute of Informatics",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028928",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "National Institute of Informatics"
+    ]
+}

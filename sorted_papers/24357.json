@@ -1,0 +1,96 @@
+{
+    "eid": "2-s2.0-85153850844",
+    "title": "DPIDNS:A Deep Packet Inspection Based IPS for Security Of P4 Network Data Plane",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "deep packet Inspection (DPI)",
+        "Domain name system filtering",
+        "fast network speed",
+        "switches with p4 programming"
+    ],
+    "authors": [
+        "Abdul Ahad",
+        "Rana Abu Bakar",
+        "Muhammad Arslan",
+        "Muhammad Hasan Ali"
+    ],
+    "citedby-count": 0,
+    "ref-count": 29,
+    "ref-list": [
+        "Detecting Internet abuse by analyzing passive DNS traffic: A survey of implemented systems",
+        "Understanding the mirai botnet",
+        "Injection Attacks Reloaded: Tunnelling Malicious Payloads over {DNS}",
+        "SANE: A Protection Architecture for Enterprise Networks",
+        "OpenFlow: enabling innovation in campus networks",
+        "P4: Programming protocol-independent packet processors",
+        "A survey on security applications of P4 programmable switches and a STRIDE-based vulnerability assessment",
+        "Analyzing traffic by domain name in the data plane",
+        "DNS water torture detection in the data plane",
+        "Towards a unified in-network DDoS detection and mitigation strategy",
+        "Fast string searching on pisa",
+        "DeepMatch: practical deep packet inspection in the data plane using network processors",
+        "A survey on malicious domains detection through DNS data analysis",
+        "An exhaustive survey on p4 programmable data plane switches: Taxonomy, applications, challenges, and future trends",
+        "Poseidon: Mitigating volumetric ddos attacks with programmable switches",
+        "Enabling TCP pacing using programmable data plane switches",
+        "P4DDPI: Securing P4-Programmable Data Plane Networks via DNS Deep Packet Inspection",
+        "P4DDPI: Securing P4-Programmable Data Plane Networks via DNS Deep Packet Inspection",
+        "P4DDPI: Securing P4-Programmable Data Plane Networks via DNS Deep Packet Inspection",
+        "P4DDPI: Securing P4-Programmable Data Plane Networks via DNS Deep Packet Inspection",
+        "P4DDPI: Securing P4-Programmable Data Plane Networks via DNS Deep Packet Inspection",
+        "P4DDPI: Securing P4-Programmable Data Plane Networks via DNS Deep Packet Inspection",
+        "Using P4 and RDMA to collect telemetry data",
+        "Generic external memory for switch data planes",
+        "Understanding the impact of encrypted DNS on internet censorship",
+        "A review on P4-Programmable data planes: Architecture, research efforts, and future directions"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Sahiwal",
+            "@id": "124173488",
+            "affilname": "University of Sahiwal",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/124173488",
+            "affiliation-country": "Pakistan"
+        }
+    ],
+    "funding": []
+}

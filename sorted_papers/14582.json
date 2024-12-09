@@ -1,0 +1,74 @@
+{
+    "eid": "2-s2.0-85063269672",
+    "title": "Wheel Slip Angle Estimation of a Planar Mobile Platform",
+    "cover-date": "2019-02-20",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mechanics",
+            "@code": "2206",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "drifting",
+        "mobile robot",
+        "slip angle",
+        "state estimation"
+    ],
+    "authors": [
+        "Ronnapee Chaichaowarat",
+        "Witaya Wannasuphoprasit"
+    ],
+    "citedby-count": 5,
+    "ref-count": 12,
+    "ref-list": [
+        "Robots in human environments: Basic autonomous capabilities",
+        "Kinematic modeling of wheeled mobile robots",
+        "A new family of omnidirectional and holonomic wheeled platforms for mobile robots",
+        "Robust control prevents car skidding",
+        "Vehicle stabilization by the vehicle dynamic control system ESP",
+        "Improvements in vehicle handling through integrated control of chassis systems",
+        "Two dimensional dynamic model of drifting vehicle",
+        "Dynamics and simulation of RWD vehicles drifting and steady state using BNP-MNC tire model",
+        "Optimal control for steady state drifting of RWD vehicle",
+        "Linear quadratic optimal regulator for steady state drifting of rear wheel drive vehicle",
+        "Full-slip kinematics based estimation of vehicle yaw rate from differential wheel speeds",
+        "Kinematics-based analytical solution for wheel slip angle estimation of a RWD vehicle with drift"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "National Science and Technology Development Agency of Thailand",
+        "Department of Mechanical Engineering, Chulalongkorn University"
+    ]
+}

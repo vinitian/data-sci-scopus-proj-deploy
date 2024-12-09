@@ -1,0 +1,112 @@
+{
+    "eid": "2-s2.0-85131718503",
+    "title": "IoT and Machine Learning-Based Hypoglycemia Detection System",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        }
+    ],
+    "keywords": [
+        "Good Health and Well-Being",
+        "Hypoglycemia",
+        "IoT",
+        "Machine Learning"
+    ],
+    "authors": [
+        "Fahim Hossain Sifat",
+        "Rahnuma Mahzabin",
+        "Sadia Anjum",
+        "Al Akhir Nayan",
+        "Muhammad Golam Kibria"
+    ],
+    "citedby-count": 0,
+    "ref-count": 28,
+    "ref-list": [
+        "Probable dapagliflozin-associated acute pancreatitis",
+        "Mechanisms of hypoglycemia-associated autonomic failure and its component syndromes in diabetes",
+        "IoT-Based Smart Blind Stick",
+        "IoT Based Smart Kitchen Security System",
+        "IoT based smart inhaler for context-aware service provisioning",
+        "Internet of things (IoT) based ECG system for rural health care",
+        "IoT based smart water quality prediction for biofloc aquaculture",
+        "A machine learning approach for early detection of fish diseases by analyzing water quality",
+        "River water quality analysis and prediction using GBM",
+        "A novel IoT based framework for blood glucose examination",
+        "Risk of cardiac arrhythmias during hypoglycemia in patients with type 2diabetes and cardiovascular risk",
+        "Hypoglycemia-induced blood pressure elevation in patients with diabetes",
+        "IoT-based continuous glucose monitoring system: A feasibility study",
+        "Predicting the risk of inpatient hypoglycemia with machine learning using electronic health records",
+        "Hypoglycemia prediction using machine learning models for patients with type 2 diabetes",
+        "Towards wearable-based hypoglycemia detection and warning in diabetes",
+        "Development and validation of a machine learning model to predict near-term risk of iatrogenic hypoglycemia in hospitalized patients",
+        "Continuous glucose monitoring sensors for diabetes management: A review of technologies and applications",
+        "CGM sensor technology",
+        "Smartwatch: Performance evaluation for long-term heart rate monitoring",
+        "Heart rate data collecting using smart watch",
+        "Fog computing systems: State of the art, research issues and future trends, with a focus on resilience",
+        "K-Nearest Neighbour classifiers-A tutorial",
+        "Introduction to machine learning: k-nearest neighbors",
+        "The random forest algorithm for statistical learning",
+        "Support Vector Machines: Theory and Applications",
+        "Gradient boosting machines, a tutorial"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Dhaka",
+            "@id": "60159848",
+            "affilname": "University of Liberal Arts Bangladesh",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60159848",
+            "affiliation-country": "Bangladesh"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "ICT Division"
+    ]
+}

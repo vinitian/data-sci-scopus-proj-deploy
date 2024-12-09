@@ -1,0 +1,131 @@
+{
+    "eid": "2-s2.0-85071160717",
+    "title": "Genome and transcriptome evolve separately in recently hybridized Trichosporon fungi",
+    "cover-date": "2019-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Medicine (miscellaneous)",
+            "@code": "2701",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry, Genetics and Molecular Biology (all)",
+            "@code": "1300",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Agricultural and Biological Sciences (all)",
+            "@code": "1100",
+            "@abbrev": "AGRI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Sira Sriswasdi",
+        "Masako Takashima",
+        "Ri ichiroh Manabe",
+        "Moriya Ohkuma",
+        "Wataru Iwasaki"
+    ],
+    "citedby-count": 8,
+    "ref-count": 51,
+    "ref-list": [
+        "Hybridization: expressing yourself in a crowd",
+        "Hybridization as an invasion of the genome",
+        "Genome clashes in hybrids: insights from gene expression",
+        "Gene regulation and speciation",
+        "Transcriptome shock after interspecific hybridization in senecio is ameliorated by genome duplication",
+        "Nonadditive gene expression in polyploids",
+        "Transcriptomic shock generates evolutionary novelty in a newly formed, natural allopolyploid plant",
+        "Homoeolog expression bias and expression level dominance in allopolyploid cotton",
+        "RNA-seq analysis of allele-specific expression, hybrid effects, and regulatory divergence in hybrids compared with their parents from natural populations",
+        "Regulatory divergence between parental alleles determines gene expression patterns in hybrids",
+        "Genome-wide dosage-dependent and -independent regulation contributes to gene expression and evolutionary novelty in plant polyploids",
+        "Determination of dosage compensation and comparison of gene expression in a triploid hybrid fish",
+        "Evolution at two levels of gene expression in yeast",
+        "An interspecific fungal hybrid reveals cross-kingdom rules for allopolyploid gene expression patterns",
+        "Chromatin regulators as capacitors of interspecies variations in gene expression",
+        "Genomewide nonadditive gene regulation in Arabidopsis allotetraploids",
+        "Differential paralog divergence modulates genome evolution across yeast species",
+        "Global deceleration of gene evolution following recent genome hybridizations in fungi",
+        "A Trichosporonales genome tree based on 27 haploid and three evolutionarily conserved \u2018natural\u2019 hybrid genomes",
+        "Global trends of whole-genome duplications revealed by the ciliate Paramecium tetraurelia",
+        "Maintenance of duplicate genes and their functional redundancy by reduced expression",
+        "Expression properties exhibit correlated patterns with the fate of duplicated genes, their divergence, and transcriptional plasticity in Saccharomycotina",
+        "The relationship between enzyme activity, cell geometry, and fitness in Saccharomyces cerevisiae",
+        "Maintenance and loss of duplicated genes by dosage subfunctionalization",
+        "Reciprocally retained genes in the angiosperm lineage show the hallmarks of dosage balance sensitivity",
+        "Dosage, duplication, and diploidization: clarifying the interplay of multiple models for duplicate gene evolution over time",
+        "Quantitative measurement of allele-specific protein expression in a diploid yeast hybrid by LC\u2013MS",
+        "Gene balance hypothesis: connecting issues of dosage sensitivity across biological disciplines",
+        "Tight regulation of unstructured proteins: from transcript synthesis to protein degradation",
+        "Intrinsic protein disorder and interaction promiscuity are widely associated with dosage sensitivity",
+        "Subgenome dominance in an interspecific hybrid, synthetic allopolyploid, and a 140-year-old naturally established neo-allopolyploid monkeyflower",
+        "Differentiation of the maize subgenomes by genome dominance and both ancient and ongoing gene loss",
+        "Gene prediction in novel fungal genomes using an ab initio algorithm with unsupervised training",
+        "Draft genome sequence of CBS 2479, the standard type strain of Trichosporon asahii",
+        "Automatic clustering of orthologs and in-paralogs from pairwise species comparisons",
+        "Automatic clustering of orthologs and inparalogs shared by multiple proteomes",
+        "The Yeast Gene Order Browser: combining curated homology and syntenic context reveals gene fate in polyploid species",
+        "RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies",
+        "MapSplice: accurate mapping of RNA-seq reads for splice junction discovery",
+        "Differential gene and transcript expression analysis of RNA-seq experiments with TopHat and Cufflinks",
+        "Near-optimal probabilistic RNA-seq quantification",
+        "Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2",
+        "PAML 4: phylogenetic analysis by maximum likelihood",
+        "MUSCLE: multiple sequence alignment with high accuracy and high throughput",
+        "Saccharomyces Genome Database: the genomics resource of budding yeast",
+        "Cytoscape: a software environment for integrated models of biomolecular interaction networks",
+        "The Pfam protein families database: towards a more sustainable future",
+        "BLAST+: architecture and applications",
+        "YEASTRACT: an upgraded database for the analysis of transcription regulatory networks in Saccharomyces cerevisiae",
+        "RSAT 2018: regulatory sequence analysis tools 20th anniversary"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025272",
+            "affilname": "The University of Tokyo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025272",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Yokohama",
+            "@id": "60274640",
+            "affilname": "RIKEN Center for Integrative Medical Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60274640",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Tsukuba",
+            "@id": "60211264",
+            "affilname": "Riken BRC Microbe Division (JCM)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60211264",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Kiyose",
+            "@id": "60025065",
+            "affilname": "Meiji Pharmaceutical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025065",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Canon Foundation",
+        "Japan Society for the Promotion of Science",
+        "Ministry of Education, Culture, Sports, Science and Technology in Japan",
+        "Japan Science and Technology Agency",
+        "CREST"
+    ]
+}

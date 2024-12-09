@@ -1,0 +1,91 @@
+{
+    "eid": "2-s2.0-85091842621",
+    "title": "Modelling the Concentration Changes of 18F-FDOPA using Compartmental Model in Parkinson Patients",
+    "cover-date": "2020-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "18F-FDOPA",
+        "Compartment model",
+        "Dynamical Model",
+        "Parkinson's Disease",
+        "PET/CT imaging"
+    ],
+    "authors": [
+        "Printaporn Sanguansuttigul",
+        "Teerapol Saleewong",
+        "Kitiwat Khamwam",
+        "Saknan Bongsebandhu-Phubhakdi"
+    ],
+    "citedby-count": 0,
+    "ref-count": 7,
+    "ref-list": [
+        "Reduced striatal volumes in Parkinson's disease: A magnetic resonance imaging study",
+        "Morphological alterations in the caudate, putamen, pallidum, and thalamus in Parkinson's disease",
+        "Non-motor symptoms as predictors of quality of life in egyptian patients with Parkinson's disease: A cross-sectional study using a culturally adapted 39-item Parkinson's disease questionnaire",
+        "A threshold selection method from gray-level histograms",
+        "The kinetic model of 18f-fdopa in pet imaging correlated to brain structures: A case study on Parkinson's disease",
+        "Ueber die numerische au\u00f6sung von dierentialgleichungen"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Thonburi",
+            "@id": "60008786",
+            "affilname": "King Mongkut's University of Technology Thonburi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008786",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "King Mongkut\u2019s University of Technology Thonburi"
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "eid": "2-s2.0-85060783515",
+    "title": "Flood simulation by a well-balanced finite volume method in tapi river basin, Thailand, 2017",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Sutatip Vichiantong",
+        "Thida Pongsanguansin",
+        "Montri Maleewong"
+    ],
+    "citedby-count": 4,
+    "ref-count": 26,
+    "ref-list": [
+        "A weighted average flux (waf) scheme applied to shallow water equations for real-life applications",
+        "A weighted average flux method for hyperbolic conservation laws",
+        "Riemann problems and the WAF method for solving the two-dimensional shallow water equations",
+        "A hybridised high-order random choice method for quasi-linear hyperbolic systems",
+        "Modified predictor-corrector WAF method for the shallow water equations with source terms",
+        "On WAF-type schemes for multidimensional hyperbolic conservation laws",
+        "Numerical tracking of shallow water waves by the unstructured finite volume WAF approximation",
+        "Extension of WAF type methods to non-homogeneous shallow water equations with pollutant",
+        "Shallow-water simulations by a well-balanced WAF finite volume method: A case study to the great flood in 2011, +ailand",
+        "Balancing source terms and flux gradients in high-resolution Godunov methods: The quasi-steady wavepropagation algorithm",
+        "A twodimensional well-balanced numerical model for shallow water equations",
+        "Well-balanced RKDG2 solutions to the shallow water equations over irregular domains with wetting and drying",
+        "A discontinuous Galerkin algorithm for the two-dimensional shallow water equations",
+        "Upwind methods for hyperbolic conservation laws with source terms",
+        "A fast and stable well-balanced scheme with hydrostatic reconstruction for shallow water flows",
+        "Discretization of multidimensional mathematical equations of dam break phenomena using a novel approach of finite volume method",
+        "Solution of the 2D shallow water equations using the finite volume method on unstructured triangular meshs",
+        "Adaptive quadtree simulation of shallow flows with wet-dry fronts over complex topography"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60021944",
+            "affilname": "Kasetsart University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021944",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

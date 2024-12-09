@@ -1,0 +1,73 @@
+{
+    "eid": "2-s2.0-85149665989",
+    "title": "A Hybrid Book Recommendation System for University Library",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Collaborative Filtering",
+        "Content-based Filtering",
+        "Hybrid Filtering",
+        "Recommendation"
+    ],
+    "authors": [
+        "Pitiwat Arunruviwat",
+        "Veera Muangsin"
+    ],
+    "citedby-count": 0,
+    "ref-count": 11,
+    "ref-list": [
+        "Automatic non-personalized Book Recommender Algorithm for Bookstore Shelf Management",
+        "Online Book Recommendation System",
+        "A Hybrid Model for Book Recommendation",
+        "A Study of Hybrid Recommendation Algorithm Based on User",
+        "Dynamic Weighted Hybrid Recommender Systems",
+        "College Library Personalized Recommendation System Based on Hybrid Recommendation Algorithm",
+        "Recommender System for Books in University Library with Implicit Data",
+        "A personalized Recommendation Algorithm for College Books based on User Interest"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

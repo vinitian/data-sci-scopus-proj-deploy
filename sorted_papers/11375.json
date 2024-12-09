@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85164290114",
+    "title": "Real Time Map Matching for Low Frequency GPS Data Based on Machine Learning Technology",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Strategy and Management",
+            "@code": "1408",
+            "@abbrev": "BUSI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "GPS",
+        "Low frequency data",
+        "Machine learning",
+        "Map matching",
+        "Random forest"
+    ],
+    "authors": [
+        "Ornicha Sinthopvaragul",
+        "Veera Muangsin"
+    ],
+    "citedby-count": 0,
+    "ref-count": 13,
+    "ref-list": [
+        "A practical guide to an open-source map-matching approach for big GPS data",
+        "Map-Matching on Low Sampling Rate Trajectories through Frequent Pattern Mining",
+        "Hidden Markov Map Matching through Noise and Sparseness",
+        "Estimation for Motion in Tracking and Detection Objects with Kalman Filter",
+        "A trajectory collaboration based map matching approach for low-sampling-rate GPS trajectories",
+        "Map-matching algorithm for large-scale low-frequency floating car data",
+        "Shortest path and vehicle trajectory aided map-matching for low frequency GPS data",
+        "A map-matching algorithm with extraction of multigroup information for low-frequency data",
+        "Map matching for low-sampling-rate GPS trajectories by exploring real-time moving directions",
+        "Enhanced map-matching algorithm with a hidden markov model for mobile phone positioning",
+        "A machine learning approach to improve the accuracy of GPS-based map-matching algorithms (Invited Paper)",
+        "DRFMM: A map-matching algorithm based on distributed random forest multi-classification"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

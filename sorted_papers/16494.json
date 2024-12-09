@@ -1,0 +1,107 @@
+{
+    "eid": "2-s2.0-85150863551",
+    "title": "Prediction of Future Caries in 1-Year-Old Children via the Salivary Microbiome",
+    "cover-date": "2023-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Dentistry (all)",
+            "@code": "3500",
+            "@abbrev": "DENT"
+        }
+    ],
+    "keywords": [
+        "biomarkers",
+        "dental caries",
+        "infant",
+        "machine learning",
+        "microbiota",
+        "saliva"
+    ],
+    "authors": [
+        "R. Raksakmanut",
+        "P. Thanyasrisung",
+        "S. Sritangsirikul",
+        "K. Kitsahawong",
+        "A. L. Seminario",
+        "W. Pitiphat",
+        "O. Matangkasombut"
+    ],
+    "citedby-count": 0,
+    "ref-count": 40,
+    "ref-list": [
+        "Metagenome sequencing-based strain-level and functional characterization of supragingival microbiome associated with dental caries in children",
+        "Beyond the dmft: the human and economic cost of early childhood caries",
+        "The use and limitations of the 16S rRNA sequence for species classification of anaplasma samples",
+        "High-quality nucleic acid isolation from hard-to-lyse bacterial strains using PMAP-36, a broad-spectrum antimicrobial peptide",
+        "A methodological study to assess the measurement properties (reliability and validity) of a caries risk assessment tool for young children",
+        "Temporal development of the oral microbiome and prediction of early childhood caries",
+        "Evaluation of variable selection methods for random forests and omics data sets",
+        "Gene selection and classification of microarray data using random forest",
+        "Improving caries risk prediction modeling: a call for action",
+        "Ultra-deep and quantitative saliva proteome reveals dynamics of the oral microbiome",
+        "Oral microbiota composition predicts early childhood caries onset",
+        "Geography, ethnicity or subsistence-specific variations in human microbiome composition and diversity",
+        "Salivary proteins and microbiota as biomarkers for early childhood caries risk assessment",
+        "Evaluating the information content of shallow shotgun metagenomics",
+        "Salivary Streptococcus mutans level: value in caries prediction for 11-12-year-old children",
+        "The effect of taxonomic classification by full-length 16S rRNA sequencing with a synthetic long-read technology",
+        "Comparison of oral microbiome profiles in 18-month-old infants and their parents",
+        "Campylobacter concisus utilizes blood but not short chain fatty acids despite showing associations with Firmicutes taxa",
+        "Changes in Candida spp., mutans streptococci and lactobacilli following treatment of early childhood caries: a 1-year follow-up",
+        "Feature selection with the Boruta package",
+        "Investigation of motility and biofilm formation by intestinal Campylobacter concisus strains",
+        "Identification of early microbial colonizers in human dental biofilm",
+        "Correlation between salivary mutans streptococci, lactobacilli and the severity of early childhood caries",
+        "Campylobacter species in health, gingivitis, and periodontitis",
+        "Microbial ecology of dental plaque and its significance in health and disease",
+        "Metagenomic biomarker discovery and explanation",
+        "Solving the etiology of dental caries",
+        "Prediction of early childhood caries via spatial-temporal variations of oral microbiota",
+        "Association between oral candida and bacteriome in children with severe ECC",
+        "Oral microbiome shifts from caries-free to caries-affected status in 3-year-old Chinese children: a longitudinal study",
+        "Isolation and detection of Campylobacter concisus from saliva of healthy individuals and patients with inflammatory bowel disease",
+        "The predictive potentiality of salivary microbiome for the recurrence of early childhood caries"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Khon Kaen",
+            "@id": "60017165",
+            "affilname": "Khon Kaen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017165",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60276477",
+            "affilname": "Laboratory of Biotechnology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60276477",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Seattle",
+            "@id": "60015481",
+            "affilname": "University of Washington",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015481",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Department of Mathematics and Computer Science, Faculty of Science",
+        "Faculty of Dentistry, Chulalongkorn University Bangkok",
+        "Ratchadaphiseksomphot Endowment Fund",
+        "School of Dentistry, University of Washington",
+        "US National Institutes of Health",
+        "Chulalongkorn University",
+        "Khon Kaen University",
+        "Rangsit University",
+        "Faculty of Dentistry, Chulalongkorn University Bangkok"
+    ]
+}

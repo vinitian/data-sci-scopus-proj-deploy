@@ -1,0 +1,136 @@
+{
+    "eid": "2-s2.0-85083201464",
+    "title": "Neuro-fuzzy estimation of reference crop evapotranspiration by neuro fuzzy logic based on weather conditions",
+    "cover-date": "2020-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Forestry",
+            "@code": "1107",
+            "@abbrev": "AGRI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Agronomy and Crop Science",
+            "@code": "1102",
+            "@abbrev": "AGRI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Horticulture",
+            "@code": "1108",
+            "@abbrev": "AGRI"
+        }
+    ],
+    "keywords": [
+        "Evapotranspiration",
+        "Neuro fuzzy",
+        "Reference crop",
+        "Regression"
+    ],
+    "authors": [
+        "Biljana Petkovi\u0107",
+        "Dalibor Petkovi\u0107",
+        "Boris Kuzman",
+        "Milos Milovan\u010devi\u0107",
+        "Karzan Wakil",
+        "Lanh Si Ho",
+        "Kittisak Jermsittiparsert"
+    ],
+    "citedby-count": 27,
+    "ref-count": 36,
+    "ref-list": [
+        "An innovative remote sensing based reference evapotranspiration method to support irrigation water management under semi-arid conditions",
+        "Forecasting of reference crop evapotranspiration",
+        "An R package for modelling actual, potential and reference evapotranspiration",
+        "Improvement of Makkink model for reference evapotranspiration estimation using temperature data in Northwest China",
+        "Estimation of crop evapotranspiration through spatial distributed crop coefficient in a semi-arid environment",
+        "Multi-station artificial intelligence based ensemble modeling of reference evapotranspiration using pan evaporation measurements",
+        "Comparison of 16 models for reference crop evapotranspiration against weighing lysimeter measurement",
+        "Daily forecasting of reference and strawberry crop evapotranspiration in greenhouses in a Mediterranean climate based on solar radiation estimates",
+        "Simulation of actual evapotranspiration from agricultural landscapes in the Canadian Prairies",
+        "Evaluation of reference evapotranspiration models and determination of crop coefficient for Momordica charantia and Capsicum annuum",
+        "Crop evapotranspiration estimation with FAO56: past and future",
+        "Daily reference evapotranspiration estimates by artificial neural networks technique and empirical equations using limited input climate variables",
+        "Using scintillometry to assess reference evapotranspiration methods and their impact on the water balance of olive groves",
+        "Determination of evapotranspiration and basal crop coefficient of alfalfa with a weighing lysimeter",
+        "Comparison of ELM, GANN, WNN and empirical models for estimating reference evapotranspiration in humid region of Southwest China",
+        "A novel approach to predict shear strength of tilted angle connectors using artificial intelligence techniques",
+        "Hybrid ANN-based techniques in predicting cohesion of sandy-soil combined with fiber",
+        "Estimation of moment and rotation of steel rack connections using extreme learning machine",
+        "Using genetic algorithms method for the paramount design of reinforced concrete structures",
+        "Application of extreme learning machine (ELM) and genetic programming (GP) to design steel-concrete composite floor systems at elevated temperatures",
+        "Identification of a suitable ANN architecture in predicting strain in tie section of concrete deep beams",
+        "Kriging empirical mode decomposition via support vector machine learning technique for autonomous operation diagnosing of CHP in microgrid",
+        "Prediction of concrete strength in presence of furnace slag and fly ash using hybrid ANN-GA (artificial neural network-genetic algorithm)",
+        "Application of a hybrid artificial neural network-particle swarm optimization (ANN-PSO) model in behavior prediction of channel shear connectors embedded in normal and high-strength concrete",
+        "ANFIS: adaptive-network-based fuzzy inference systems",
+        "Identification of the most influencing parameters on the properties of corroded concrete beams using an adaptive neuro-fuzzy inference system (ANFIS)",
+        "Development of neuro-fuzzy and neuro-bee predictive models for prediction of the safety factor of eco-protection slopes",
+        "An evolutionary fuzzy modelling approach and comparison of different methods for shear strength prediction of high-strength concrete beams without stirrups",
+        "Prediction of shear capacity of channel shear connectors using the ANFIS model",
+        "Estimating the friction angle of black shale core specimens with hybrid-ANN approaches",
+        "Yield response to water",
+        "Simulation of the water balance of arable land and pastures"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Nis",
+            "@id": "60068806",
+            "affilname": "University of Ni\u0161",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60068806",
+            "affiliation-country": "Serbia"
+        },
+        {
+            "affiliation-city": "Halabja",
+            "@id": "60276750",
+            "affilname": "University of Halabja",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60276750",
+            "affiliation-country": "Iraq"
+        },
+        {
+            "affiliation-city": "Sulaymaniyah",
+            "@id": "60118438",
+            "affilname": "Sulaimani Polytechnic University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60118438",
+            "affiliation-country": "Iraq"
+        },
+        {
+            "affiliation-city": "Da Nang",
+            "@id": "60111656",
+            "affilname": "Duy Tan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60111656",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Belgrade",
+            "@id": "114252876",
+            "affilname": "Alfa BK University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/114252876",
+            "affiliation-country": "Serbia"
+        },
+        {
+            "affiliation-city": "Belgrade",
+            "@id": "112573778",
+            "affilname": "Institute of Agricultural Economics",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112573778",
+            "affiliation-country": "Serbia"
+        }
+    ],
+    "funding": [
+        "Ministry of Education, Science and Technological Development of the Republic of Serbia"
+    ]
+}

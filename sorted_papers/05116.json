@@ -1,0 +1,79 @@
+{
+    "eid": "2-s2.0-85137473741",
+    "title": "Seed Word Selection for Weakly-Supervised Text Classification with Unsupervised Error Estimation",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Yiping Jin",
+        "Akshay Bhatia",
+        "Dittaya Wanvarie"
+    ],
+    "citedby-count": 2,
+    "ref-count": 21,
+    "ref-list": [
+        "Importance of semantic representation: Dataless classification",
+        "Unsupervised supervised learning i: Estimating classification and regression errors without labels",
+        "Learning from labeled features using generalized expectation criteria",
+        "Mining a lexicon of technical terms and lay equivalents",
+        "Computing semantic relatedness using wikipediabased explicit semantic analysis",
+        "One seed to find them all: mining opinion features via association",
+        "Mining opinion features in customer reviews",
+        "Estimating the accuracies of multiple classifiers without labeled data",
+        "Learning from noisy out-of-domain corpus using dataless classification",
+        "Convolutional neural networks for sentence classification",
+        "Seed-guided topic model for document filtering and classification",
+        "Contextualized weak supervision for text classification",
+        "Weakly-supervised neural text classification",
+        "Weakly-supervised hierarchical text classification",
+        "Text classification using label names only: A language model self-training approach",
+        "Estimating accuracy from unlabeled data",
+        "Estimating accuracy from unlabeled data: A bayesian approach",
+        "Closing the loop: Fast, interactive semi-supervised annotation with queries on features and instances",
+        "Hierarchical attention networks for document classification"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "128546350",
+            "affilname": "Knorex",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/128546350",
+            "affiliation-country": "Singapore"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

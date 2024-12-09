@@ -1,0 +1,138 @@
+{
+    "eid": "2-s2.0-85128235241",
+    "title": "Simultaneous phenotyping of five Rh red blood cell antigens on a paper-based analytical device combined with deep learning for rapid and accurate interpretation",
+    "cover-date": "2022-05-15",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analytical Chemistry",
+            "@code": "1602",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Environmental Chemistry",
+            "@code": "2304",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Spectroscopy",
+            "@code": "1607",
+            "@abbrev": "CHEM"
+        }
+    ],
+    "keywords": [
+        "Artificial intelligence",
+        "Deep learning",
+        "Paper-based analytical device",
+        "Red blood cell antigen typing",
+        "Rh typing"
+    ],
+    "authors": [
+        "Nutcha Larpant",
+        "Wisanu Niamsi",
+        "Julaluk Noiphung",
+        "Wipada Chanakiat",
+        "Tasanee Sakuldamrongpanich",
+        "Veerayuth Kittichai",
+        "Teerawat Tongloy",
+        "Santhad Chuwongin",
+        "Siridech Boonsang",
+        "Wanida Laiwattanapaisal"
+    ],
+    "citedby-count": 4,
+    "ref-count": 47,
+    "ref-list": [
+        "Blood management: transfusion medicine comes of age",
+        "Transfusion guidelines: when to transfuse",
+        "Bad blood: a coagulopathy associated with trauma and massive transfusion review",
+        "Guidelines for pre-transfusion compatibility procedures in blood transfusion laboratories",
+        "The genetics of the rhesus blood group system",
+        "Red-blood-cell alloimmunisation in relation to antigens' exposure and their immunogenicity: a cohort study",
+        "Distribution of ABO and Rh-D blood groups among blood donors in a tertiary care centre in South India",
+        "The Rh blood group system: a review",
+        "Evaluation of the ID-gel test for antibody screening and identification, Transfus",
+        "A microplate system for ABO and Rh (D) blood grouping",
+        "The gel test: a new way to detect red cell antigen\u2013antibody reactions",
+        "Evaluation of a new automated instrument for pretransfusion testing",
+        "Synthetic receptors for selectively detecting erythrocyte ABO subgroups",
+        "Sensing approaches on paper-based devices: a review",
+        "Usability as a guiding principle for the design of paper-based, point-of-care devices\u2013A review",
+        "Turning the page: advancing paper-based microfluidics for broad diagnostic application",
+        "Development of paper-based analytical kit for point-of-care testing",
+        "Beyond the lateral flow assay: a review of paper-based microfluidics",
+        "Activity and longevity of antibody in paper-based blood typing diagnostics",
+        "Paper based analytical devices for blood grouping: a comprehensive review",
+        "Paper-based blood typing device that reports patient's blood type \u201cin writing",
+        "A novel paper-based assay for the simultaneous determination of Rh typing and forward and reverse ABO blood groups",
+        "A dye-assisted paper-based point-of-care assay for fast and reliable blood grouping",
+        "Enhanced fully cellulose based forward and reverse blood typing assay",
+        "Paper-based device for rapid typing of secondary human blood groups",
+        "The detection of blood group phenotypes using paper diagnostics",
+        "Rhesus blood typing within a few seconds by packing-enhanced nanoscattering on individual erythrocytes",
+        "Simultaneous forward and reverse ABO blood group typing using a paper-based device and barcode-like interpretation",
+        "A simple and low-cost portable paper-based ABO blood typing device for point-of-care testing",
+        "Fighting against COVID-19: a novel deep learning model based on YOLO-v2 with ResNet-50 for medical face mask detection",
+        "Deep learning approaches for challenging species and gender identification of mosquito vectors",
+        "Deep learning for generic object detection: a survey",
+        "Pre-trained convolutional neural networks as feature extractors toward improved malaria parasite detection in thin blood smear images",
+        "A deep transfer learning model with classical data augmentation and CGAN to detect COVID-19 from chest CT radiography digital images",
+        "A guide to Whatman qualitative filter paper grades",
+        "Portable paper-based device for ABO and RhD typing using smartphone interpretation: optical answer sheet reading concept",
+        "Validation of paper-based assay for rapid blood typing",
+        "Mechanisms of red blood cells agglutination in antibody-treated paper",
+        "Fluid transport mechanisms in paper-based microfluidic devices",
+        "Factors affecting the antigen-antibody reaction",
+        "Electronic crossmatching",
+        "Education committee of the academy of clinical laboratory physicians and scientists, pathology consultation on electronic crossmatch",
+        "Classification for avian malaria parasite Plasmodium gallinaceum blood stages by using deep convolutional neural networks",
+        "Receiver operating characteristic (ROC) curve analysis for medical diagnostic test evaluation",
+        "A deep learning model using data augmentation for detection of architectural distortion in whole and patches of images",
+        "Deep learning-enabled point-of-care sensing using multiplexed paper-based sensors",
+        "Development of a paper-based analytical device for the colourimetric detection of alanine transaminase and the application of deep learning for image analysis"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Ladkrabang Bangkok",
+            "@id": "60021543",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021543",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60020796",
+            "affilname": "Bansomdejchaopraya Rajabhat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020796",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nontaburi",
+            "@id": "113059060",
+            "affilname": "Central Chest Institute of Thailand",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/113059060",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University Technology Center",
+        "Second Century Fund",
+        "Chulalongkorn University",
+        "Thailand Research Fund",
+        "Thailand Science Research and Innovation Fund"
+    ]
+}

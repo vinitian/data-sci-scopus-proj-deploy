@@ -1,0 +1,159 @@
+{
+    "eid": "2-s2.0-85098755899",
+    "title": "MetaSleepLearner: A Pilot Study on Fast Adaptation of Bio-Signals-Based Sleep Stage Classifier to New Individual Subject Using Meta-Learning",
+    "cover-date": "2021-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Health Informatics",
+            "@code": "2718",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Health Information Management",
+            "@code": "3605",
+            "@abbrev": "HEAL"
+        }
+    ],
+    "keywords": [
+        "convolutional neural network",
+        "meta-learning",
+        "pre-trained EEG",
+        "Sleep stage classification",
+        "transfer learning"
+    ],
+    "authors": [
+        "Nannapas Banluesombatkul",
+        "Pichayoot Ouppaphan",
+        "Pitshaporn Leelaarporn",
+        "Payongkit Lakhan",
+        "Busarakum Chaitusaney",
+        "Nattapong Jaimchariyatam",
+        "Ekapol Chuangsuwanich",
+        "Wei Chen",
+        "Huy Phan",
+        "Nat Dilokthanakul",
+        "Theerawit Wilaiprasitporn"
+    ],
+    "citedby-count": 37,
+    "ref-count": 61,
+    "ref-list": [
+        "Polysomnography",
+        "Polysomnography for obstructive sleep apnea should include arousal-based scoring: An American academy of sleep medicine position statement",
+        "A comparative review on sleep stage classification methods in patients and healthy individuals",
+        "A review of automated sleep stage scoring based on physiological signals for the new millennia",
+        "Sleep classification according to AASM and Rechtschaffen & Kales: Effects on sleep scoring parameters",
+        "The AASM manual for the scoring of sleep and associated events",
+        "Symbolic fusion: A novel decision support algorithm for sleep staging application",
+        "Sleep stage classification using EEG signal analysis: A comprehensive survey and new investigation",
+        "HyCLASSS: A hybrid classifier for automatic sleep stage scoring",
+        "Automated identification of sleep states from EEG signals by means of ensemble empirical mode decomposition and random under sampling boosting",
+        "An automated method for sleep staging from EEG signals using normal inverse Gaussian parameters and adaptive boosting",
+        "A decision support system for automated identification of sleep stages from single-channel EEG signals",
+        "Investigating the contribution of distance-based features to automatic sleep stage classification",
+        "Ensemble SVM method for automatic sleep stage classification",
+        "Robust sleep stage classification with single-channel EEG signals using multimodal decomposition and HMM-based refinement",
+        "Sleep staging using plausibility score: A novel feature selection method based on metric learning",
+        "Automatic sleep stage scoring using time-frequency analysis and stacked sparse autoencoders",
+        "Ahierarchical neural network for sleep stage classification based on comprehensive feature learning and multi-flow sequence learning",
+        "Mixed neural network approach for temporal sleep stage classification",
+        "A deep learning architecture for temporal sleep stage classification using multivariate and multimodal time series",
+        "A convolutional neural network for sleep stage scoring from raw single-channel EEG",
+        "Accurate deep learning-based sleep staging in a clinical population with suspected obstructive sleep apnea",
+        "U-Time: A fully convolutional network for time series segmentation applied to sleep staging",
+        "Joint classification and prediction cnn framework for automatic sleep stage classification",
+        "A residual based attention model for EEG based sleep staging",
+        "DeepSleepNet: A model for automatic sleep stage scoring based on raw single-channel EEG",
+        "SeqSleep-Net: End-to-end hierarchical recurrent neural network for sequence-tosequence automatic sleep staging",
+        "Multichannel sleep stage classification and transfer learning using convolutional neural networks",
+        "Universal joint feature extraction for p300 EEG classification using multi-task autoencoder",
+        "Deep convolutional neural networks for interpretable analysis of EEG sleep stage scoring",
+        "Deep transfer learning for single-channel automatic sleep staging with channel mismatch",
+        "Towards more accurate automatic sleep staging via deep transfer learning",
+        "Trait-like individual differences in the human sleep electroencephalogram",
+        "Personalized automatic sleep staging with single-night data: A pilot study with KL-divergence regularization",
+        "Interobserver agreement among sleep scorers from different centers in a large dataset",
+        "Towards a hybrid expert system based on sleep event's threshold dependencies for automated personalized sleep staging by combining symbolic fusion and differential evolution algorithm",
+        "Model-agnostic meta-learning for fast adaptation of deep networks",
+        "Classifying options for deep reinforcement learning",
+        "Transferring end-to-end visuomotor control from simulation to real world for amulti-stage task",
+        "You only look once: Unified, real-time object detection",
+        "Learning to segment every thing",
+        "Recent trends in deep learning based natural language processing",
+        "XLNet: Generalized autoregressive pretraining for language understanding",
+        "Montreal archive of sleep studies: An open-access resource for instrument benchmarking and exploratory research",
+        "Understanding the difficulty of training deep feedforward neural networks",
+        "Analysis of a sleep-dependent neuronal feedback loop: The slow-wave microcontinuity of the EEG",
+        "Atlas, rules, and recording techniques for the scoring of cyclic alternating pattern (CAP) in human sleep",
+        "ISRUC-sleep: A comprehensive public dataset for sleep researchers",
+        "Physiobank, physiotoolkit, and physionet: Components of a new research resource for complex physiologic signals",
+        "Interpretable deep neural networks for single-trial EEG classification",
+        "Sleep scoring using artificial neural networks",
+        "Meta-learning with memory-augmented neural networks",
+        "Meta-learning with implicit gradients",
+        "Neural network ensembles, cross validation, and active learning",
+        "Development of a human-computer collaborative sleep scoring system for polysomnography recordings",
+        "Rectified linear units improve restricted boltzmann machines"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Rayong",
+            "@id": "60110787",
+            "affilname": "Vidyasirimedhi Institute of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60110787",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60022109",
+            "affilname": "Queen Mary University of London",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022109",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Shanghai",
+            "@id": "60009860",
+            "affilname": "Fudan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009860",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": [
+        "Office of National Higher Education Science Research and Innovation Policy Council",
+        "PTT Public Company Limited"
+    ]
+}

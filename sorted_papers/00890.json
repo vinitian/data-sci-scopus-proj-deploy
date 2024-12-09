@@ -1,0 +1,121 @@
+{
+    "eid": "2-s2.0-85144673826",
+    "title": "Photonic Sensor for Multiple Targets Detection under Adverse Weather Conditions in Autonomous Vehicles",
+    "cover-date": "2022-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "autonomous vehicles",
+        "fog",
+        "photonic radar",
+        "rain",
+        "wavelength division multiplexing"
+    ],
+    "authors": [
+        "Abhishek Sharma",
+        "Sushank Chaudhary",
+        "Jyoteesh Malhotra",
+        "Sunita Khichar",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 5,
+    "ref-count": 66,
+    "ref-list": [
+        "Moving Object Detection and Tracking Based on Interaction of Static Obstacle Map and Geometric Model-Free Approachfor Urban Autonomous Driving",
+        "Road course estimation using deep learning on radar data",
+        "Automotive LIDAR objects detection and classification algorithm using the belief theory",
+        "Chip-based photonic radar for high-resolution imaging",
+        "Chip-Based Microwave-Photonic Radar for High-Resolution Imaging",
+        "Field Experiment of Photonic Radar for Low-RCS Target Detection and High-Resolution Image Acquisition",
+        "A lidar and vision-based approach for pedestrian and vehicle detection and tracking",
+        "Looking at vehicles on the road: A survey of vision-based vehicle detection, tracking, and behavior analysis",
+        "Automotive LiDAR Technology: A Survey",
+        "Photonic technologies for autonomous cars: Feature introduction",
+        "System analysis of a phased-array radar applying adaptive beam-control for future automotive safety applications",
+        "Measurement of Target range and Doppler shift by incorporating PDM-enabled FMCW-based photonic radar",
+        "A Cost-Effective Photonic Radar under Adverse Weather conditions for Autonomous Vehicles by incorporating Frequency Modulated Direct Detection Scheme",
+        "Coherent detection-based photonic radar for autonomous vehicles under diverse weather conditions",
+        "Linearization of the frequency sweep of a frequency-modulated continuous-wave semiconductor laser radar and the resulting ranging performance",
+        "Photonics-based real-time ultra-high-range-resolution radar with broadband signal generation and processing",
+        "Modeling and comparative study of various detection techniques for FMCW LIDAR using optisystem",
+        "Simulative investigation of FMCW based optical photonic radar and its different configurations",
+        "Wake vortex detection and monitoring",
+        "Pulsed 1.5-$\\mu $ m LIDAR for Axial Aircraft Wake Vortex Detection Based on High-Brightness Large-Core Fiber Amplifier",
+        "Automotive LIDAR sensor development scenarios for harsh weather conditions",
+        "Towards reliable perception for unmanned ground vehicles in challenging conditions",
+        "Comparison of 905 nm and 1550 nm semiconductor laser rangefinders\u2019 performance deterioration due to adverse environmental conditions",
+        "A benchmark for lidar sensors in fog: Is detection breaking down?",
+        "Influences of weather phenomena on automotive laser radar systems",
+        "Effects of exhaust gases on laser scanner data quality at low ambient temperatures",
+        "Moving from Legacy 24 GHz to State-of-the-Art 77-GHz Radar",
+        "Feasibility analysis of WDM links for radar applications",
+        "Research on high-resolution wide-swath SAR based on microwave photonics",
+        "Demonstration of a microwave photonic synthetic aperture radar based on photonic-assisted signal generation and stretch processing",
+        "Dual-band dechirping LFMCW radar receiver with high image rejection using microwave photonic I/Q mixer",
+        "Experimental study of photonic based radar for FOD detection systems using 90 GHz-band",
+        "Signal-to-noise ratio improvement of photonic time-stretch coherent radar enabling high-sensitivity ultrabroad W-band operation",
+        "Range detection assessment of photonic radar under adverse weather perceptions",
+        "Performance analysis of 80 Gbps Ro-FSO system by incorporating hybrid WDM-MDM scheme",
+        "High Speed 4\u00d7 2.5 Gbps-5 GHz AMI-WDM-RoF Transmission System for WLANs",
+        "Performance analysis of duobinary and CSRZ modulation based polarization interleaving for high-speed WDM-FSO transmission system",
+        "6 \u00d7 20 Gbps Hybrid WDM\u2013PI Inter-satellite System under the Influence of Transmitting Pointing Errors",
+        "A novel photonic-based MIMO radar architecture with all channels sharing a single transceiver",
+        "Microwave photonic radar with a fiber-distributed antenna array for three-dimensional imaging",
+        "Scan-less 3D optical sensing/Lidar scheme enabled by wavelength division demultiplexing and position-to-angle conversion of a lens",
+        "Generation of linear frequency-modulated waveforms by a frequency-sweeping optoelectronic oscillator",
+        "Analysis of analog fiber optical links based on DSB+ C and SSB+ C modulation techniques",
+        "Microwave photonics filtering technique for interrogating a very-weak fiber Bragg grating cascade sensor",
+        "Advances on polymer optical fiber gratings using a KrF pulsed laser system operating at 248 nm",
+        "Fabrication and characterization of femtosecond laser induced microwave frequency photonic fiber grating",
+        "All-fiber narrow-bandwidth rectangular Optical filter with reconfigurable bandwidth and tunable center wavelength",
+        "Laser and LIDAR in A system for visibility distance estimation in fog conditions",
+        "Fog attenuation prediction for optical and infrared waves",
+        "Spectrum slicing WDM for FSO communication systems under the heavy rain weather",
+        "The aRbrelation in the calculation of rain attenuation",
+        "Cloud attenuations for free-space optical links",
+        "Photonic approach for on-board and ground radars in automotive applications",
+        "Simultaneous detection of the distance and direction for a noncooperative target based on the microwave photonic radar",
+        "Multi-Functional Microwave Photonic Radar System for Simultaneous Distance and Velocity Measurement and High-Resolution Microwave Imaging",
+        "Dual-Chirp Photonics-Based Radar for Distance and Velocity Measurement Based on Compressive Sensing",
+        "Millimeter-wave joint radar and communication system based on photonic frequency-multiplying constant envelope LFM-OFDM"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Amritsar",
+            "@id": "60000078",
+            "affilname": "Guru Nanak Dev University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000078",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Thailand Science Research and Innovation Fund Chulalongkorn University",
+        "Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "eid": "2-s2.0-85115066701",
+    "title": "Water Quality Classification by Integration of Attribute-Realization and Support Vector Machine for the Chao Phraya River",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Ecology, Evolution, Behavior and Systematics",
+            "@code": "1105",
+            "@abbrev": "AGRI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Environmental Science (all)",
+            "@code": "2300",
+            "@abbrev": "ENVI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Chalisa Veesommai Sillberg",
+        "Pratin Kullavanijaya",
+        "Orathai Chavalparit"
+    ],
+    "citedby-count": 14,
+    "ref-count": 52,
+    "ref-list": [
+        "An improved Apriori algorithm for association rules",
+        "The Use of Support Vectors from Support Vector Machines for Hydrometeorologic Monitoring Network Analyses",
+        "Estimation of suspended sediment concentration from turbidity measurements using artificial neural networks",
+        "Dissolved oxygen as a physico-chemical supporting element in the Water Framework Directive",
+        "Support vector machines import vector machines and relevance vector machines for hyperspectral classification\u2014A comparison",
+        "Application of support vector machines in landslide susceptibility assessment for the Hoa Binh province (Vietnam) with kernel functions analysis",
+        "Mining of instant messaging data in the Internet of Things based on support vector machine",
+        "Monitor and Analyzing Salinity intrusion using Salinity Intrusion Forecast System in the Chao Phraya River During Tropical Pabuk 2019",
+        "The advantages of the Matthews correlation coefficient (MCC) over F1 score and accuracy in binary classification evaluation",
+        "Accommodating Change of Bacterial Indicators in Long Term Water Quality Datasets",
+        "Water quality in an urban environmental protection area in the Cerrado Biome, Brazil",
+        "Classification of water quality status based on minimum quality parameters: application of machine learning techniques",
+        "Machine-learning research",
+        "LIBLINEAR: A library for large linear classification",
+        "Escherichia coli and fecal-coliform bacteria as indicators of recreational water quality",
+        "Dissolved oxygen criteria for freshwater fish in New Zealand: a revised approach",
+        "Temporal and vertical distribution of total ammonia nitrogen and un-ionized ammonia nitrogen in sediment pore water from the upper Mississippi River",
+        "On the use of multivariate statistical methods for combining in-stream monitoring data and spatial analysis to characterize water quality conditions in the White River Basin, Indiana",
+        "Case-based statistical learning: a non-parametric implementation with a conditional-error rate SVM",
+        "Assessment of the water quality of a subtropical lake using the NSF-WQI and a newly proposed ecosystem specific water quality index",
+        "Mining medical data to identify frequent diseases using Apriori algorithm",
+        "Comparison of the accuracy of SVM kemel functions in text classification",
+        "A review of classification approaches using support vector machine in intrusion detection",
+        "DAG SVM and pitch synchronous wavelet transform for induction motor diagnosis",
+        "Statistical assessment of the surface water quality monitoring network in Saskatchewan",
+        "Predicting Water Quality Parameters in a Complex River System",
+        "Larval development of the giant river prawn Macrobrachiumrosenbergii at different ammonia concentrations and pH values",
+        "Machine learning approaches for anomaly detection of water quality on a real-world data set",
+        "An application of different artificial intelligences techniques for water quality prediction",
+        "Effectiveness of Water Quality Index for Monitoring Malaysian River Water Quality",
+        "Deep support vector machine for hyperspectral image classification",
+        "Design and development of low cost smart turbidity sensor for water quality monitoring in fish farms",
+        "Determination of physico-chemical parameters and water quality index (WQI) of Chandlodia Lake, Ahmedabad, Gujarat, India",
+        "Sentiment classification of Hinglish text",
+        "A new exponential naive bayes classifier with fuzzy parameters",
+        "Water Quality Assessment of the Surface Water of the Southern Bug River Basin by Complex Indices",
+        "Support vector machines in water quality management",
+        "An assessment of two-step linear regression and multifactor probit analysis as alternatives to acute to chronic ratios in the estimation of chronic response from acute toxicity data to derive water quality guidelines",
+        "Water quality index with missing parameters",
+        "Adaptation of water quality index (WQI) for groundwater quality assessment near the landfill site",
+        "Development web and mobile application and open data platform for water quality management in Pak Phanang river basin",
+        "A survey on river water quality modelling using artificial intelligence models: 2000\u20132020",
+        "Influencing factors and prediction of carbon dioxide emissions using factor analysis and optimized least squares support vector machine",
+        "A dynamic water quality index model based on functional data analysis",
+        "A parallel apriori algorithm for frequent itemsets mining",
+        "Approximation with polynomial kernels and SVM classifiers"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103476",
+            "affilname": "King Mongkuts University of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103476",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60021944",
+            "affilname": "Kasetsart University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021944",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Kasetsart University Research and Development Institute"
+    ]
+}

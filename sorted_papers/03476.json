@@ -1,0 +1,119 @@
+{
+    "eid": "2-s2.0-85106584668",
+    "title": "Computer Vision-aided CRISPR Diagnostics for the Detection of COVID-19",
+    "cover-date": "2021-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Acoustics and Ultrasonics",
+            "@code": "3102",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "COVID-19",
+        "CRISPR",
+        "Diagnostics",
+        "SARS-CoV-2"
+    ],
+    "authors": [
+        "Pattaraporn Nimsamer",
+        "Oraphan Mayuramart",
+        "Aubin Samacoits",
+        "Naphat Chantaravisoot",
+        "Chajchawan Nakhakes",
+        "Suchada Suphanpayak",
+        "Natta Padungwattanachoke",
+        "Nutcha Leelarthaphin",
+        "Hathaichanok Huayhongthong",
+        "Trairak Pisitkun",
+        "Sunchai Payungporn",
+        "Pimkhuan Hannanta-Anan"
+    ],
+    "citedby-count": 2,
+    "ref-count": 13,
+    "ref-list": [
+        "SHERLOCK: Nucleic acid detection with CRISPR nucleases",
+        "Nucleic acid detection with CRISPR-Cas13a/C2c2",
+        "Field-deployable viral diagnostics using CRISPR-Cas13",
+        "CRISPR-Cas12a target binding unleashes singlestranded DNase activity",
+        "CRISPR-Cas12-based detection of SARS-CoV-2",
+        "Clinical validation of a Cas13-based assay for the detection of SARS-CoV-2 RNA",
+        "Ultrasensitive and visual detection of SARS-CoV-2 using all-in-one dual CRISPR-Cas12a assay",
+        "Predicting infectious severe acute respiratory syndrome coronavirus 2 from diagnostic samples",
+        "Duration of infectiousness and correlation with RT-PCR cycle threshold values in cases of COVID-19, England, January to May 2020",
+        "Detection of severe acute respiratory syndrome coronavirus 2 and influenza viruses based on CRISPR-Cas12a",
+        "Machine learning-driven and smartphone-based fluorescence detection for crispr diagnostic of sars-cov-2"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ladkrabang Bangkok",
+            "@id": "60021543",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021543",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60005255",
+            "affilname": "Rajavithi Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005255",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "124236214",
+            "affilname": "Sertis Corporation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/124236214",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "King Mongkut\u2019s Institute of Technology Ladkrabang Research Fund",
+        "Chulalongkorn University"
+    ]
+}

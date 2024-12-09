@@ -1,0 +1,114 @@
+{
+    "eid": "2-s2.0-85082009237",
+    "title": "Parameter-dependent linear matrix inequality approach to robust state estimation of noisy genetic networks",
+    "cover-date": "2020-05-08",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Chemical Engineering (all)",
+            "@code": "1500",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Genetic networks",
+        "H\u221e performance",
+        "Parameter-dependent linear matrix inequalities",
+        "Robust estimator design",
+        "Stochastic differential equations"
+    ],
+    "authors": [
+        "Tanagorn Jennawasin",
+        "Chun Liang Lin",
+        "David Banjerdpongchai"
+    ],
+    "citedby-count": 0,
+    "ref-count": 54,
+    "ref-list": [
+        "Parameter dependent filter design for linear continuous-time uncertain systems with arbitrarily time-varying parameters in polytopic domains",
+        "Optimal Filtering",
+        "Computational Modeling of Genetic and Biochemical Networks",
+        "Linear Matrix Inequalities in System and Control Theory",
+        "Robust h\u221e-stabilization design in gene networks under stochastic molecular noises: fuzzy-interpolation approach",
+        "Resilient set-membership state estimation for uncertain complex networks with sensor saturation under round-robin protocol",
+        "Noise-induced cooperative behavior in a multicell system",
+        "A sampled-data approach to robust h\u221estate estimation for genetic regulatory networks with random delays",
+        "Polynomially parameter-dependent lyapunov functions for robust stability of polytopic systems: an LMI approach",
+        "Robust estimation of stochastic gene-network systems",
+        "State and input estimation for a class of uncertain systems",
+        "Observer design for stochastic nonlinear systems via contraction-based incremental stability",
+        "Modelling and simulation of genetic regulatory systems: a literature review",
+        "Analysis and design of polynomial control systems using dissipation inequalities and sum of squares",
+        "Handbook of Stochastic Methods of Differential Equations",
+        "Reduced-order h\u221eand l2\u2212l\u221efiltering via linear matrix inequalities",
+        "Delay-dependent h\u221eand generalized h2filtering for stochastic neural networks with time-varying delay and noise disturbance",
+        "Optimal control for polynomial systems using matrix sum of squares relaxation",
+        "Regularized maximum likelihood estimation of sparse stochastic monomolecular biochemical reaction networks",
+        "Stabilization of Nonlinear Systems with Bounded Actuators Using Convex Optimization",
+        "A region-dividing technique for constructing the sum-of-squares approximations to robust semidefinite programs",
+        "Systems Biology in Practice: Concepts, Implementation and Application",
+        "Modeling genetic switches with positive feedback loops",
+        "Global optimization with polynomials and the problems of moments",
+        "A linear matrix inequality approach to robust h\u221efiltering",
+        "Robust state estimation for stochastic genetic regulatory networks",
+        "Synchronization and state estimation for discrete-time complex networks with distributed delays",
+        "YALMIP: A Toolbox for Modeling and Optimization in MATLAB",
+        "On contraction analysis for nonlinear systems",
+        "Semidefinite programming relaxations for semialgebraic problems",
+        "Summing up the noise in gene networks",
+        "Passive state estimator design for markovian complex networks with polytopic sensor failures",
+        "A contraction theory approach to stochastic incremental stability",
+        "Nonlinear Control Synthesis by Sum of Squares Optimization: A Lyapunov-based Approach",
+        "Robust state estimation for discrete-time genetic regulatory networks with randomly occurring uncertainties",
+        "Matrix sum-of-squares relaxations for robust semi-definite programs",
+        "Sampled data h\u221efiltering for stochastic genetic regulatory networks",
+        "Mathematical modeling of gene networks",
+        "Using sedumi 1.02, a MATLAB toolbox for optimization over symmetric cones",
+        "Observer-based online compensation of inner filter effect in monitoring fluorescence of GFP-expressing plant cell cultures",
+        "Modelling periodic oscillation of biological systems with multiple timescale networks",
+        "Event-based robust state estimator for linear time-varying system with uncertain observations and randomly occurring uncertainties",
+        "Periodic oscillation in delayed gene networks with SUM regulatory logic and small perturbations",
+        "Delay-dependent robust h\u221efiltering of uncertain stochastic genetic regulatory networks with mixed time-varying delays",
+        "State estimation for delayed neural networks",
+        "An extended kalman filtering approach to modeling nonlinear dynamic gene regulatory networks via short gene expression time series",
+        "On modeling and state estimation for genetic regulatory networks with polytopic uncertainties",
+        "Optimal unbiased filtering via linear matrix inequalities",
+        "Robust filtering for stochastic genetic regulatory networks with time-varying delay",
+        "State feedback h\u221econtrol for a class of nonlinear stochastic systems",
+        "Robust h\u221efiltering for nonlinear stochastic systems",
+        "State estimation for delayed genetic regulatory networks with reaction diffusion terms",
+        "Design of nonfragile state estimator for discrete-time genetic regulatory networks subject to randomly occurring uncertainties and time-varying delays"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Taichung",
+            "@id": "60017511",
+            "affilname": "National Chung Hsing University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017511",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Thonburi",
+            "@id": "60008786",
+            "affilname": "King Mongkut's University of Technology Thonburi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008786",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

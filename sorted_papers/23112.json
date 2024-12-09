@@ -1,0 +1,97 @@
+{
+    "eid": "2-s2.0-85082516255",
+    "title": "Transportation mobility factor extraction using image recognition techniques",
+    "cover-date": "2019-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Development",
+            "@code": "3303",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Urban Studies",
+            "@code": "3322",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "Image Recognition",
+        "Object Detection",
+        "Quality of Life (QOL)",
+        "Semantic Segmentation",
+        "Transportation Mobility"
+    ],
+    "authors": [
+        "Pittipol Kantavat",
+        "Boonserm Kijsirikul",
+        "Yuji Iwahori",
+        "Yoshitsugu Hayashi",
+        "Teerapong Panboonyuen",
+        "Peerapon Vateekul",
+        "Witsarut Achariyaviriya"
+    ],
+    "citedby-count": 7,
+    "ref-count": 28,
+    "ref-list": [
+        "An integrated evaluation method of accessibility, quality of life, and social interaction",
+        "Evaluation for low-carbon land-use transport development with qol indexes in asian developing megacities: A case study of Bangkok",
+        "Comparative analysis of qol in station areas between cities at different development stages, Bangkok and Nagoya",
+        "Measuring and mapping the spatial distribution of the quality of life in a city: A case study in Nanjing",
+        "Effective vehicle tracking algorithm for smart traffic networks",
+        "Estimated vehicle density based on video processing using the Gaussian mixture model method",
+        "Extracting vehicle trajectories using unmanned aerial vehicles in congested traffic conditions",
+        "Intelligent traffic management system for cross section of roads using computer vision",
+        "Probabilistic neural networks based moving vehicles extraction algorithm for intelligent traffic surveillance systems",
+        "Real-time vehicle recognition and improved traffic congestion resolution",
+        "Traffic congestion model: Challenges and opportunities",
+        "Vehicle classification and detection based coarse data for warning traffic jam in Vietnam",
+        "Vehicle counting module design in small scale for traffic management in smart city",
+        "Vehicle tracking at intersection in image sequences with multilayer concept",
+        "Videobased tracking of vehicles using multiple time-spatial images",
+        "Densely connected convolutional networks",
+        "The one hundred layers tiramisu: Fully convolutional densenets for semantic segmentation",
+        "Segmentation and recognition using structure from motion point clouds",
+        "Semantic object classes in video: A high-definition ground truth database",
+        "You only look once: Unified, real-time object detection",
+        "The PASCAL VOC project",
+        "TensorFlow: A system for large-scale machine learning",
+        "Batch normalization: Accelerating deep network training by reducing internal covariate shift"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Kasugai",
+            "@id": "60007976",
+            "affilname": "Chubu University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007976",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Aid for Scientific Research",
+        "Japan Society for the Promotion of Science",
+        "JST",
+        "Chubu University",
+        "JICA"
+    ]
+}

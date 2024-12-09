@@ -1,0 +1,99 @@
+{
+    "eid": "2-s2.0-85147251232",
+    "title": "Electroporation of Canine MCT Cells and the Examination by Impedance Measurement",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biomedical Engineering",
+            "@code": "2204",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biomaterials",
+            "@code": "2502",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Canine MCT cells",
+        "Cell membrane",
+        "Dielectrophoretic force",
+        "Electroporation",
+        "Impedance analysis",
+        "Microfluidics"
+    ],
+    "authors": [
+        "Patcharapon Kangwarnchokchai",
+        "Boonchai Techaumnat",
+        "Noppadon Nuntawong",
+        "Kenji Mishima",
+        "Tanjina Sharmin",
+        "Taku Michael Aida"
+    ],
+    "citedby-count": 0,
+    "ref-count": 15,
+    "ref-list": [
+        "Electroporation for nanomedicine: A review",
+        "The origins and the future of microfluidics",
+        "Quantification of the specific membrane capacitance of single cells using a microfluidic device and impedance spectroscopy measurement",
+        "Micromachined impedance spectroscopy flow cytometer for cell analysis and particle sizing",
+        "Micro-impedance cytometry for detection and analysis of micron-sized particles and bacteria",
+        "Electric impedance-microflow cytometry for characterization of cell disease states",
+        "Electroporation through a micro-fabricated orifice and its application to the measurement of cell response to external stimuli",
+        "High-yield electrofusion of biological cells based on field tailoring by microfabricated structures",
+        "Analysis of the effects of an orifice plate on the membrane potential in electroporation and electrofusion of cells",
+        "Experimental Study on Breakdown Behavior and Vacuole Isolation of Protoplasts under Electrical Pulses",
+        "Canine mast cell tumors: Diagnosis, treatment, and prognosis",
+        "Electric field-mediated fusion and related electrical phenomena",
+        "Biophysics of electroinjection and electrofusion",
+        "Electric field and dielectrophoretic force on a dielectric particle chain in a parallel-plate electrode system",
+        "Soft lithography for microfluidics: A review"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Fukuoka",
+            "@id": "60031720",
+            "affilname": "Fukuoka University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031720",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011525",
+            "affilname": "Thailand National Electronics and Computer Technology Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011525",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "National Research Council of Thailand",
+        "Thailand Science Research and Innovation"
+    ]
+}

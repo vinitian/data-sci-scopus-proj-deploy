@@ -1,0 +1,81 @@
+{
+    "eid": "2-s2.0-85126121321",
+    "title": "Improved Development Cycle for 8-bit FPGA-Based Soft-Macros Targeting Complex Algorithms",
+    "cover-date": "2021-12-30",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "8-bit soft microprocessor",
+        "FPGA",
+        "PicoBlaze",
+        "Software development methods",
+        "Verification techniques"
+    ],
+    "authors": [
+        "Ehsan Ali",
+        "Wanchalerm Pora"
+    ],
+    "citedby-count": 0,
+    "ref-count": 63,
+    "ref-list": [
+        "Intel Microprocessors\u20138008 to 8086",
+        "Software based finite state machine (FSM) with general purpose processors",
+        "Implementation of a colorful RGB-LED light source with an 8-bit microcontroller",
+        "Selfregulating fuzzy control for forward DC-DC converters using an 8-bit microcontroller",
+        "Peak current-mode control for a boost converter using an 8-bit microcontroller",
+        "DC motor speed control by embedded PI controller with hardware-in-loop simulation",
+        "A microcontrollerbased data acquisition system for solar radiation and environmental monitoring",
+        "Implementation of simple MPPT algorithms using low-cost 8-bit microcontrollers",
+        "High-performance ideal lattice-based cryptography on 8-bit AVR microcontrollers",
+        "Highly efficient implementation of NIST-compliant Koblitz curve for 8-bit AVR-based sensor nodes",
+        "Full TCP/IP for 8-bit architectures",
+        "Measuring the gap between FPGAs and ASICs",
+        "FPGAs as reconfigurable processing elements",
+        "A flexible ADC approach for mixed-signal SoC platforms",
+        "A 16-nm multiprocessing system-on-chip field-programmable gate array platform",
+        "FPGA-based system-on-chip designs for real-time applications in particle physics",
+        "Programmable-logic and application-specific integrated circuits (Plasic)",
+        "A study of the speedups and competitiveness of FPGA soft processor cores using dynamic hardware/software partitioning",
+        "Picoblaze 8-bit Microcontroller",
+        "Lattice Mico8 Open, Free Soft Microcontroller",
+        "Navr\u00e9 avr clone (8-bit risc)",
+        "pavr",
+        "MCL86, MCL51, and MCL65",
+        "Interface tasks oriented 8-bit soft-core processor",
+        "Design of a general purpose 8-bit risc processor for computer architecture learning",
+        "Minimips: An 8-bit MIPS in an FPGA for educational purposes",
+        "8-bit softcore microprocessor with aual accumulator designed to be used in FPGA",
+        "Silicon Labs-8-bit Microcontrollers (mcus)",
+        "A. L. R. d. Ita,B. Hernandez-Rodriguez, R. C. d. l. Monteros,F. Garcia-Chavez, V. Tellez-Rojas, and A. BautistaHernandez, \u201cA PicoBlaze-based embedded system for monitoring applications",
+        "Using a PicoBlaze processor to traffic light control",
+        "MIMD implementation with PicoBlaze microprocessor using MPI functions",
+        "Smart sensor implemented with PicoBlaze multiprocessors technology",
+        "Implementation of wireless sensor network using MicroBlaze and PicoBlaze processors",
+        "Lowoverhead fault-tolerance technique for a dynamically reconfigurable softcore processor",
+        "Embedded software design of scalable low-area elliptic-curve cryptography",
+        "Very small FPGA application-specific instruction processor for AES",
+        "Open PicoBlaze Assembler",
+        "Concepts of model verification and validation",
+        "Performance evaluation of inter-processor communication for an embedded heterogeneous multi-core processor",
+        "Implementation and verification of IEEE-754 64-bit floating-point arithmetic library for 8-bit soft-core processors",
+        "Executing hardware as parallel software for picoblaze networks",
+        "PicoTETRIS"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn Academic Advancement",
+        "Chulalongkorn University"
+    ]
+}

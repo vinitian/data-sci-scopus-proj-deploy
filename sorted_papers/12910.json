@@ -1,0 +1,82 @@
+{
+    "eid": "2-s2.0-85114367787",
+    "title": "IPRIns: A tool with the improved precision and recall for insertion detection in the human genome",
+    "cover-date": "2021-05-25",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Agricultural and Biological Sciences (miscellaneous)",
+            "@code": "1101",
+            "@abbrev": "AGRI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Medicine (miscellaneous)",
+            "@code": "2701",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Health Informatics",
+            "@code": "2718",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Algorithms",
+        "Bioinformatics",
+        "Insertion",
+        "Next-generation sequencing",
+        "Paired-end short reads",
+        "Structural variations"
+    ],
+    "authors": [
+        "Sakkayaphab Piwluang",
+        "Duangdao Wichadakul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 20,
+    "ref-list": [
+        "Association between insertion mutation in NOD2 gene and Crohn's disease in German and British populations",
+        "A novel gene containing a trinucleotide repeat that is expanded and unstable on Huntington's disease chromosomes",
+        "Identification of a gene (FMR-1) containing a CGG repeat coincident with a breakpoint cluster region exhibiting length variation in fragile X syndrome",
+        "Roles for retrotransposon insertions in human disease",
+        "Structural variants caused by Alu insertions are associated with risks for many human diseases",
+        "Identification of pathogenic retrotransposon insertions in cancer predisposition genes",
+        "Diseases of the nERVous system: Retrotransposon activity in neurodegenerative disease",
+        "Comprehensive evaluation of structural variation detection algorithms for whole genome sequencing",
+        "Transient structural variations have strong effects on quantitative traits and reproductive isolation in fission yeast",
+        "A global reference for human genetic variation",
+        "Fast and accurate short read alignment with Burrows-Wheeler transform",
+        "DDBJ launches a new archive database with analytical tools for next-generation sequence data",
+        "DDBJ Database updates and computational infrastructure enhancement",
+        "DDBJ database and genetic information analysis softwares",
+        "Detection of genomic structural variants from next-generation sequencing data",
+        "Evaluating the necessity of PCR duplicate removal from next-generation sequencing data and a comparison of approaches",
+        "Manta: Rapid detection of structural variants and indels for germline and cancer sequencing applications",
+        "Lightning-fast genome variant detection with GROM",
+        "Wham: Identifying structural variants of biological consequence"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn Academic Advancement"
+    ]
+}

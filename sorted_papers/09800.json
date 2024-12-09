@@ -1,0 +1,74 @@
+{
+    "eid": "2-s2.0-85088745028",
+    "title": "Experimental study on improvement of sign language motion classification performance using pre-trained network models",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Classification",
+        "Data augmentation",
+        "Ensemble learning",
+        "Pre-trained network model",
+        "Sign language motion"
+    ],
+    "authors": [
+        "Kaito Kawaguchi",
+        "Zhizhong Wang",
+        "Tomoki Kuniwa",
+        "Paporn Daraseneeyakul",
+        "Phaphimon Veerakiatikit",
+        "Eiji Ohta",
+        "Hiromitsu Nishimura",
+        "Hiroshi Tanaka"
+    ],
+    "citedby-count": 1,
+    "ref-count": 13,
+    "ref-list": [
+        "Coupled HMM-based multi-sensor data fusion for sign language recognition",
+        "Hand gesture recognition based on Karhunen-Loeve transform",
+        "Deep convolutional neural networks on multichannel time series for human activity recognition",
+        "Time series classification using multi-channels deep convolutional neural networks",
+        "Hyper-class augmented and regularized deep learning for fine-grained image classification",
+        "Ensemble methods in machine learning",
+        "Investigation of feature elements and performance improvement for sign language recognition by hidden Markov model",
+        "Trial report on applying deep learning to sign language recognition",
+        "Basic investigation of sign language motion classification by feature extraction using pre-trained network models",
+        "An overview and comparison of voting methods for pattern recognition"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Atsugi",
+            "@id": "60001409",
+            "affilname": "Kanagawa Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001409",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Iruma",
+            "@id": "124886619",
+            "affilname": "Freelance",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/124886619",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

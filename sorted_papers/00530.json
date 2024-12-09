@@ -1,0 +1,73 @@
+{
+    "eid": "2-s2.0-85129385402",
+    "title": "Considering similarity and the rating conversion of neighbors on neural collaborative filtering",
+    "cover-date": "2022-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Multidisciplinary",
+            "@code": "1000",
+            "@abbrev": "MULT"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Thitiporn Neammanee",
+        "Saranya Maneeroj",
+        "Atsuhiro Takasu"
+    ],
+    "citedby-count": 0,
+    "ref-count": 36,
+    "ref-list": [
+        "Recommendation systems: Principles, methods and evaluation",
+        "Recommender Systems: An Overview",
+        "A new approach for combining content-based and collaborative filters",
+        "Collaborative Filtering Recommender Systems",
+        "Hybrid Recommender Systems: Survey and Experiments",
+        "Introduction to Matrix Factorization for Recommender Systems",
+        "Matrix Factorization Model in Collaborative Filtering Algorithms: A Survey",
+        "Matrix Factorization Techniques for Recommender Systems",
+        "Latent Dirichlet Allocation",
+        "LGLMF: Local Geographical Based Logistic Matrix Factorization Model for POI Recommendation",
+        "A Posterior-neighborhood-regularized Latent Factor Model for Highly Accurate Web Service QoS Prediction",
+        "Understanding of a convolutional neural network",
+        "Long Short-Term Memory",
+        "Learning to forget: continual prediction with LSTM",
+        "LSTM recurrent networks learn simple context-free and context-sensitive languages",
+        "A Clustering-Based Collaborative Filtering Recommendation Algorithm via Deep Learning User Side Information",
+        "Neural Collaborative Filtering",
+        "Outer Product-based Neural Collaborative Filtering",
+        "TCR: Temporal-CNN for Reviews Based Recommendation System",
+        "A Neural Collaborative Filtering Model with Interaction-based Neighborhood",
+        "BPAM: Recommendation Based on BP Neural Network with Attention Mechanism (IJCAI-19)",
+        "Collaborative Memory Network for Recommendation Systems",
+        "Social Attentional Memory Network: Modeling Aspect- and Friend-Level Differences in Recommendation",
+        "Distributed representations of words and phrases and their compositionality",
+        "Bag of Tricks for Efficient Text Classification",
+        "Rating Pattern Formation for Better Recommendation",
+        "A New Method of Region Embedding for Text Classification",
+        "Yelp Reviews CSV",
+        "Adam: A Method for Stochastic Optimization",
+        "A Comparative Analysis of Gradient Descent-Based Optimization Algorithms on Convolutional Neural Networks"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hayama",
+            "@id": "60021523",
+            "affilname": "The Graduate University for Advanced Studies",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021523",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "National Institute of Informatics"
+    ]
+}

@@ -1,0 +1,955 @@
+{
+    "eid": "2-s2.0-85141502475",
+    "title": "Monogenic early-onset lymphoproliferation and autoimmunity: Natural history of STAT3 gain-of-function syndrome",
+    "cover-date": "2023-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Immunology and Allergy",
+            "@code": "2723",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Immunology",
+            "@code": "2403",
+            "@abbrev": "IMMU"
+        }
+    ],
+    "keywords": [
+        "autoimmunity",
+        "cytopenia",
+        "gain of function",
+        "immune dysregulation",
+        "immunodeficiency",
+        "lymphoproliferation",
+        "precision medicine",
+        "STAT3"
+    ],
+    "authors": [
+        "Jennifer W. Leiding",
+        "Tiphanie P. Vogel",
+        "Valentine G.J. Santarlas",
+        "Rahul Mhaskar",
+        "Madison R. Smith",
+        "Alexandre Carisey",
+        "Alexander Vargas-Hern\u00e1ndez",
+        "Manuel Silva-Carmona",
+        "Maximilian Heeg",
+        "Anne Rensing-Ehl",
+        "B\u00e9n\u00e9dicte Neven",
+        "J\u00e9r\u00f4me Hadjadj",
+        "Sophie Hambleton",
+        "Timothy Ronan Leahy",
+        "Kornvalee Meesilpavikai",
+        "Charlotte Cunningham-Rundles",
+        "Cullen M. Dutmer",
+        "Svetlana O. Sharapova",
+        "Mervi Taskinen",
+        "Ignatius Chua",
+        "Rosie Hague",
+        "Christian Klemann",
+        "Larysa Kostyuchenko",
+        "Tomohiro Morio",
+        "Akaluck Thatayatikom",
+        "Ahmet Ozen",
+        "Anna Scherbina",
+        "Cindy S. Bauer",
+        "Sarah E. Flanagan",
+        "Eleonora Gambineri",
+        "Lisa Giovannini-Chami",
+        "Jennifer Heimall",
+        "Kathleen E. Sullivan",
+        "Eric Allenspach",
+        "Neil Romberg",
+        "Sean G. Deane",
+        "Benjamin T. Prince",
+        "Melissa J. Rose",
+        "John Bohnsack",
+        "Talal Mousallem",
+        "Rohith Jesudas",
+        "Maria Marluce Dos Santos Vilela",
+        "Michael O'Sullivan",
+        "Jana Pachlopnik Schmid",
+        "\u0160t\u011bp\u00e1nka Pr\u016fhov\u00e1",
+        "Adam Klocperk",
+        "Matthew Rees",
+        "Helen Su",
+        "Sami Bahna",
+        "Safa Baris",
+        "Lisa M. Bartnikas",
+        "Amy Chang Berger",
+        "Tracy A. Briggs",
+        "Shannon Brothers",
+        "Vanessa Bundy",
+        "Alice Y. Chan",
+        "Shanmuganathan Chandrakasan",
+        "Mette Christiansen",
+        "Theresa Cole",
+        "Matthew C. Cook",
+        "Mukesh M. Desai",
+        "Ute Fischer",
+        "David A. Fulcher",
+        "Silvanna Gallo",
+        "Amelie Gauthier",
+        "Andrew R. Gennery",
+        "Jos\u00e9 Gon\u00e7alo Marques",
+        "Fr\u00e9d\u00e9ric Gottrand",
+        "Bodo Grimbacher",
+        "Eyal Grunebaum",
+        "Emma Haapaniemi",
+        "Sari H\u00e4m\u00e4l\u00e4inen",
+        "Kaarina Heiskanen",
+        "Tarja Heiskanen-Kosma",
+        "Hal M. Hoffman",
+        "Luis Ignacio Gonzalez-Granado",
+        "Anthony L. Guerrerio",
+        "Leena Kainulainen",
+        "Ashish Kumar",
+        "Monica G. Lawrence",
+        "Carina Levin",
+        "Timi Martelius",
+        "Olaf Neth",
+        "Peter Olbrich",
+        "Alejandro Palma",
+        "Niraj C. Patel",
+        "Tamara Pozos",
+        "Kahn Preece",
+        "Sa\u00fal Oswaldo Lugo Reyes",
+        "Mark A. Russell",
+        "Yael Schejter",
+        "Christine Seroogy",
+        "Jan Sinclair",
+        "Effie Skevofilax",
+        "Daniel Suan",
+        "Daniel Suez",
+        "Paul Szabolcs",
+        "Helena Velasco",
+        "Klaus Warnatz",
+        "Kelly Walkovich",
+        "Austen Worth",
+        "Svetlana Aleshkevich",
+        "Luis M. Allende",
+        "T. Prescott Atkinson",
+        "Faranaz Atschekzei",
+        "Sezin Aydemir",
+        "Utku Aygunes",
+        "Vincent Barlogis",
+        "Ulrich Baumann",
+        "John Belko",
+        "Liliana Bezrodnik",
+        "Ariane Biebl",
+        "Lori Broderick",
+        "Nancy J. Bunin",
+        "Maria Soledad Caldirola",
+        "Martin Castelle",
+        "Fatih Celmeli",
+        "Louis Marie Charbonnier",
+        "Talal A. Chatila",
+        "Deepak Chellapandian",
+        "Haluk Cokugras",
+        "Niall Conlon",
+        "Fionnuala Cox",
+        "Etienne Crickx",
+        "Buket Dalgic",
+        "Virgil ASH Dalm",
+        "Silvia Danielian",
+        "Nerea Dominguez-Pinilla",
+        "Tal Dujovny",
+        "Mikael Ebbo",
+        "Ahmet Eken",
+        "Brittany Esty",
+        "Alexandre Fabre",
+        "Alain Fischer",
+        "Mark Hannibal",
+        "Laura Huppert",
+        "Marc D. Ikeda",
+        "Stephen Jolles",
+        "Kent W. Jolly",
+        "Neil Jones",
+        "Maria Kanariou",
+        "Elif Karakoc-Aydiner",
+        "Theoni Karamantziani",
+        "Charikleia Kelaidi",
+        "Mary Keogan",
+        "Ay\u015fenur Pac Kisaarslan",
+        "Ayca Kiykim",
+        "Kosmas Kotsonis",
+        "Natalia Kuzmenko",
+        "Sylvie Leroy",
+        "Dimitra Lianou",
+        "Hilary Longhurst",
+        "Myriam Ricarda Lorenz",
+        "Patrick Maffucci",
+        "Ania Manson",
+        "Sarah Marchal",
+        "Marion Malphettes",
+        "Lia Furlaneto Marega",
+        "Andrea A. Mauracher",
+        "Holly Miller",
+        "Joy Mombourquette",
+        "Noel G. Morgan",
+        "Anna Mukhina",
+        "Aladjidi Nathalie",
+        "Brigitte Nelken",
+        "David Nolan",
+        "Anna Carin Norlin",
+        "Matias Oleastro",
+        "Alper Ozcan",
+        "Marlene Pasquet",
+        "Jos\u00e9 Roberto Pegler",
+        "Capucine Picard",
+        "Sophia Polychronopoulou",
+        "Pierre Quartier",
+        "Juan Francisco Quesada",
+        "Jan Ramakers",
+        "Katrina L. Randall",
+        "V. Koneti Rao",
+        "Allison Remiker",
+        "Geraldine Resin",
+        "Peter Richmond",
+        "Frederic Rieux-Laucat",
+        "Yulia Rodina",
+        "Pierre Rohrlich",
+        "Johnathan Sachs",
+        "Inga Sakovich",
+        "Christopher Santarlas",
+        "Sinan Sari",
+        "Gregory Sawicki",
+        "Uwe Schauer",
+        "Selma C. Scheffler Mendoza",
+        "Oksana Schvetz",
+        "Reinhold Ernst Schmidt",
+        "Klaus Schwarz",
+        "Anna Sediva",
+        "Kyle Sinclair",
+        "Mary Slatter",
+        "John Sleasman",
+        "Katerina Stergiou",
+        "Narissara Suratannon",
+        "Kay Tanita",
+        "Grace Thompson",
+        "Stephen Travis",
+        "Timothy Trojan",
+        "Maria Tsinti",
+        "Ekrem Unal",
+        "Luciano Urdinez",
+        "Felisa Vazquez-Gomez",
+        "Mariana Villa",
+        "Michael Weinrich",
+        "Mitchell J. Weiss",
+        "Benjamin Wright",
+        "Ebru Yilmaz",
+        "Radana Zachova",
+        "Yu Zhang",
+        "Mikko R.J. Sepp\u00e4nen",
+        "Troy R. Torgerson",
+        "Georgios Sogkas",
+        "Stephan Ehl",
+        "Stuart G. Tangye",
+        "Megan A. Cooper",
+        "Joshua D. Milner",
+        "Lisa R. Forbes Satter"
+    ],
+    "citedby-count": 10,
+    "ref-count": 65,
+    "ref-list": [
+        "Human inborn errors of immunity: 2019 update of the IUIS phenotypical classification",
+        "Primary immune regulatory disorders: a growing universe of immune dysregulation",
+        "Jakinibs for the treatment of immune dysregulation in patients with gain-of-function signal transducer and activator of transcription 1 (STAT1) or STAT3 mutations",
+        "Pediatric Evans syndrome is associated with a high frequency of potentially damaging variants in immune genes",
+        "Use of genetic testing for primary immunodeficiency patients",
+        "Development of classification and response criteria for rheumatic diseases",
+        "Primary immunodeficiency diseases: genomic approaches delineate heterogeneous Mendelian disorders",
+        "Somatic STAT3 mutations in large granular lymphocytic leukemia",
+        "Activating mutations of STAT5B and STAT3 in lymphomas derived from gammadelta-T or NK cells",
+        "Hepatocellular adenomas: morphology and genomics",
+        "Activating germline mutations in STAT3 cause early-onset multi-organ autoimmune disease",
+        "Autoimmunity, hypogammaglobulinemia, lymphoproliferation, and mycobacterial disease in patients with activating mutations in STAT3",
+        "Early-onset lymphoproliferation and autoimmunity caused by germline STAT3 gain-of-function mutations",
+        "Pediatric-onset Evans syndrome: heterogeneous presentation and high frequency of monogenic disorders including LRBA and CTLA4 mutations",
+        "Clinical aspects of STAT3 gain-of-function germline mutations: a systematic review",
+        "STAT3 gain of function: a new aetiology of severe rheumatic disease",
+        "STAT3 gain-of-function mutation in a patient with pulmonary Mycobacterium abscessus infection",
+        "Partial growth hormone insensitivity and dysregulatory immune disease associated with de novo germline activating STAT3 mutations",
+        "Distinct molecular response patterns of activating STAT3 mutations associate with penetrance of lymphoproliferation and autoimmunity",
+        "Tocilizumab promotes regulatory T-cell alleviation in STAT3 gain-of-function\u2013associated multi-organ autoimmune syndrome",
+        "Genetic diagnosis using whole exome sequencing in common variable immunodeficiency",
+        "Erythropoiesis defect observed in STAT3 GOF patients with severe anemia",
+        "STAT3 gain-of-function mutations associated with autoimmune lymphoproliferative syndrome like disease deregulate lymphocyte apoptosis and can be targeted by BH3 mimetic compounds",
+        "Efficacy of ruxolitinib therapy in a patient with severe enterocolitis associated with a STAT3 gain-of-function mutation",
+        "A novel de novo activating mutation in STAT3 identified in a patient with common variable immunodeficiency (CVID)",
+        "Short stature in a boy with multiple early-onset autoimmune conditions due to a STAT3 activating mutation: could intracellular growth hormone signalling be compromised?",
+        "Successful treatment of interstitial lung disease in STAT3 gain-of-function using JAK inhibitors",
+        "Papilledema from gain-of-function mutations in the STAT3 gene",
+        "Genetic heterogeneity of uncharacterized childhood autoimmune diseases with lymphoproliferation",
+        "Clinical and immunological heterogeneity in Japanese patients with gain-of-function variants in STAT3",
+        "Multisystem autoimmune disease caused by increased STAT3 phosphorylation and dysregulated gene expression",
+        "An activating mutation in STAT3 results in neonatal diabetes through reduced insulin synthesis",
+        "Up, down, and all around: diagnosis and treatment of novel STAT3 variant",
+        "A novel human STAT3 mutation presents with autoimmunity involving Th17 hyperactivation",
+        "The mutational constraint spectrum quantified from variation in 141,456 humans",
+        "A novel STAT3 mutation in a Qatari patient with hyper-IgE syndrome",
+        "Activating somatic mutations outside the SH2-domain of STAT3 in LGL leukemia",
+        "The ying and yang of STAT3 in human disease",
+        "Hyper-IgE syndrome update",
+        "Persistence of naive CD45RA+regulatory T cells in adult life",
+        "Lymphocyte subsets in healthy children from birth through 18 years of age: the Pediatric AIDS Clinical Trials Group P1009 study",
+        "Past, present, and future of regulatory T cell therapy in transplantation and autoimmunity",
+        "The role of IL-17 and Th17 lymphocytes in autoimmune diseases",
+        "Extended immunophenotyping reference values in a healthy pediatric population",
+        "Revised diagnostic criteria and classification for the autoimmune lymphoproliferative syndrome (ALPS): report from the 2009 NIH International Workshop",
+        "Abnormally differentiated CD4+or CD8+T cells with phenotypic and genetic features of double negative T cells in human Fas deficiency",
+        "A distinct CD38+CD45RA+population of CD4+, CD8+, and double-negative T cells is controlled by FAS",
+        "Ruxolitinib controls lymphoproliferation and diabetes in a STAT3-GOF patient",
+        "Impaired TH17 cell differentiation in subjects with autosomal dominant hyper-IgE syndrome",
+        "The role of IL-17 and related cytokines in inflammatory autoimmune diseases",
+        "Imbalance of regulatory T cells in human autoimmune diseases",
+        "Diffuse large B cell lymphoma in hyper-IgE syndrome due to STAT3 mutation",
+        "PD-L1 up-regulation restrains Th17 cell differentiation in STAT3 loss- and STAT1 gain-of-function patients",
+        "Growth hormone insensitivity associated with a STAT5b mutation",
+        "Emerging translational approaches to target STAT3 signalling and its impact on vascular disease",
+        "Activation of signal transducer and activator of transcription 3 correlates with cell proliferation and renal injury in human glomerulonephritis",
+        "Signal tranducers and activators of transcription: expression and function in anti-neutrophil cytoplasmic antibody-associated vasculitis",
+        "Inhibition of JAK-STAT signaling suppresses pathogenic immune responses in medium and large vessel vasculitis",
+        "STAT3 signaling in polycystic kidney disease",
+        "Reduced expression of endothelial nitric oxide synthase in the lungs of patients with pulmonary hypertension",
+        "A phase 1 dosing study of ruxolitinib in children with relapsed or refractory solid tumors, leukemias, or myeloproliferative neoplasms: a Children's Oncology Group phase 1 consortium study (ADVL1011)",
+        "JAK inhibition as a therapeutic strategy for immune and inflammatory diseases",
+        "A phase 2 study of ruxolitinib, an oral JAK1 and JAK2 inhibitor, in patients with advanced polycythemia vera who are refractory or intolerant to hydroxyurea",
+        "Novel gain-of-function mutation in STAT1 sumoylation site leads to CMC/CID phenotype responsive to ruxolitinib",
+        "STAT1 gain of function, type 1 diabetes, and reversal with JAK inhibition"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Exeter",
+            "@id": "60111707",
+            "affilname": "University of Exeter Medical School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60111707",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Columbus",
+            "@id": "60080012",
+            "affilname": "Nationwide Children\u2019s Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60080012",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "San Francisco",
+            "@id": "60031970",
+            "affilname": "UCSF School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031970",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Kuopio",
+            "@id": "60024252",
+            "affilname": "Kuopio University Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024252",
+            "affiliation-country": "Finland"
+        },
+        {
+            "affiliation-city": "Hannover",
+            "@id": "60024052",
+            "affilname": "Hannover Medical School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024052",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Prague",
+            "@id": "60023469",
+            "affilname": "Fakultn\u00ed Nemocnice v Motole",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023469",
+            "affiliation-country": "Czech Republic"
+        },
+        {
+            "affiliation-city": "Memphis",
+            "@id": "60019905",
+            "affilname": "St. Jude Children's Research Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019905",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Houston",
+            "@id": "60008978",
+            "affilname": "Texas Children's Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008978",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Helsinki",
+            "@id": "60002952",
+            "affilname": "Helsingin Yliopisto",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002952",
+            "affiliation-country": "Finland"
+        },
+        {
+            "affiliation-city": "Atlanta",
+            "@id": "60002339",
+            "affilname": "Emory University School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002339",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Baltimore",
+            "@id": "60001117",
+            "affilname": "Johns Hopkins School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001117",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Glasgow",
+            "@id": "60190225",
+            "affilname": "Royal Hospital for Children, Glasgow",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60190225",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Seattle",
+            "@id": "60138686",
+            "affilname": "Seattle Children's Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60138686",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Perth",
+            "@id": "60136288",
+            "affilname": "Perth Children's Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60136288",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Paris",
+            "@id": "60123804",
+            "affilname": "l'Institut des Maladies G\u00e9n\u00e9tiques Imagine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60123804",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Gainesville",
+            "@id": "60122772",
+            "affilname": "UF Health Shands Children\u2019s Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60122772",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "San Diego",
+            "@id": "60121552",
+            "affilname": "Department of Pediatrics",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60121552",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Manchester",
+            "@id": "60120605",
+            "affilname": "Manchester University NHS Foundation Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60120605",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Puerto Montt",
+            "@id": "60109634",
+            "affilname": "Hospital Puerto Montt",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60109634",
+            "affiliation-country": "Chile"
+        },
+        {
+            "affiliation-city": "Lille",
+            "@id": "60107862",
+            "affilname": "Institute for Translational Research in Inflammation (INFINITE)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60107862",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Toronto",
+            "@id": "60085584",
+            "affilname": "SickKids Research Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60085584",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Dusseldorf",
+            "@id": "60085126",
+            "affilname": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf Medizinische Fakult\u00e4t",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60085126",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Canberra",
+            "@id": "60083392",
+            "affilname": "ANU College of Health &amp; Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60083392",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Quebec",
+            "@id": "60079127",
+            "affilname": "CHU de Qu\u00e9bec - Universit\u00e9 Laval",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60079127",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Sevilla",
+            "@id": "60033267",
+            "affilname": "Hospital Universitario Virgen del Roc\u00edo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60033267",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Columbus",
+            "@id": "60032497",
+            "affilname": "The Ohio State University College of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032497",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Rotterdam",
+            "@id": "60032114",
+            "affilname": "Erasmus MC",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032114",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Nice",
+            "@id": "60030964",
+            "affilname": "Centre Hospitalier Universitaire de Nice",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030964",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60030162",
+            "affilname": "Columbia University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030162",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Campinas",
+            "@id": "60029570",
+            "affilname": "Universidade Estadual de Campinas",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029570",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Aurora",
+            "@id": "60028421",
+            "affilname": "University of Colorado School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028421",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Los Angeles",
+            "@id": "60027550",
+            "affilname": "University of California, Los Angeles",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027550",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Melbourne",
+            "@id": "60026489",
+            "affilname": "Royal Children's Hospital, Melbourne",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026489",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Turku",
+            "@id": "60025765",
+            "affilname": "Turun Yliopistollinen Keskussairaala",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025765",
+            "affiliation-country": "Finland"
+        },
+        {
+            "affiliation-city": "Madison",
+            "@id": "60025553",
+            "affilname": "University of Wisconsin School of Medicine and Public Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025553",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Salt Lake City",
+            "@id": "60024978",
+            "affilname": "University of Utah School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024978",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Freiburg im Breisgau",
+            "@id": "60024805",
+            "affilname": "Universit\u00e4tsklinikum Freiburg",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024805",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Sacramento",
+            "@id": "60023317",
+            "affilname": "UC Davis School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023317",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "St. Louis",
+            "@id": "60022756",
+            "affilname": "Washington University School of Medicine in St. Louis",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022756",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Haifa",
+            "@id": "60022403",
+            "affilname": "Technion - Israel Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022403",
+            "affiliation-country": "Israel"
+        },
+        {
+            "affiliation-city": "Charlottesville",
+            "@id": "60021918",
+            "affilname": "University of Virginia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021918",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Florence",
+            "@id": "60021859",
+            "affilname": "Universit\u00e0 degli Studi di Firenze",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021859",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Athens",
+            "@id": "60021061",
+            "affilname": "Aghia Sophia Children's Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021061",
+            "affiliation-country": "Greece"
+        },
+        {
+            "affiliation-city": "Lisbon",
+            "@id": "60021007",
+            "affilname": "Santa Maria Hospital, Lisbon",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021007",
+            "affiliation-country": "Portugal"
+        },
+        {
+            "affiliation-city": "Auckland",
+            "@id": "60020518",
+            "affilname": "Starship Children's Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020518",
+            "affiliation-country": "New Zealand"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60018207",
+            "affilname": "Great Ormond Street Hospital for Children NHS Foundation Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018207",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Cincinnati",
+            "@id": "60017412",
+            "affilname": "University of Cincinnati College of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017412",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bethesda",
+            "@id": "60017336",
+            "affilname": "National Institute of Allergy and Infectious Diseases (NIAID)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017336",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Helsinki",
+            "@id": "60016987",
+            "affilname": "Helsinki University Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016987",
+            "affiliation-country": "Finland"
+        },
+        {
+            "affiliation-city": "Seattle",
+            "@id": "60015481",
+            "affilname": "University of Washington",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015481",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Erie",
+            "@id": "60015078",
+            "affilname": "Lake Erie College of Osteopathic Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015078",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60012981",
+            "affilname": "Icahn School of Medicine at Mount Sinai",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012981",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Tampa",
+            "@id": "60011951",
+            "affilname": "Morsani College of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011951",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Kensington",
+            "@id": "60011463",
+            "affilname": "UNSW Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011463",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Sydney",
+            "@id": "60010710",
+            "affilname": "Faculty of Medicine and Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010710",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Ann Arbor",
+            "@id": "60008966",
+            "affilname": "C.S. Mott Children's Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008966",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Jerusalem",
+            "@id": "60007903",
+            "affilname": "Hebrew University of Jerusalem",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007903",
+            "affiliation-country": "Israel"
+        },
+        {
+            "affiliation-city": "Phoenix",
+            "@id": "60007421",
+            "affilname": "Phoenix Children's Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007421",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Newcastle",
+            "@id": "60006222",
+            "affilname": "Newcastle University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006222",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Pittsburgh",
+            "@id": "60005708",
+            "affilname": "UPMC Children\u2019s Hospital of Pittsburgh",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005708",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Shreveport",
+            "@id": "60005448",
+            "affilname": "LSU Health Sciences Center - Shreveport",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005448",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Mexico",
+            "@id": "60004914",
+            "affilname": "Instituto Nacional de Pediatr\u00eda",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004914",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Istanbul",
+            "@id": "60004502",
+            "affilname": "Marmara \u00dcniversitesi Tip Fak\u00fcltesi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004502",
+            "affiliation-country": "Turkey"
+        },
+        {
+            "affiliation-city": "Madrid",
+            "@id": "60004024",
+            "affilname": "Hospital Universitario 12 de Octubre",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004024",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Manchester",
+            "@id": "60003771",
+            "affilname": "The University of Manchester",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003771",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Philadelphia",
+            "@id": "60003711",
+            "affilname": "University of Pennsylvania Perelman School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003711",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60003303",
+            "affilname": "Tokyo Medical and Dental University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003303",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Sydney",
+            "@id": "60002773",
+            "affilname": "Garvan Institute of Medical Research",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002773",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60002746",
+            "affilname": "Harvard Medical School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002746",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Zurich",
+            "@id": "60002695",
+            "affilname": "Kinderspital Z\u00fcrich",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002695",
+            "affiliation-country": "Switzerland"
+        },
+        {
+            "affiliation-city": "San Diego",
+            "@id": "60002645",
+            "affilname": "Rady Children's Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002645",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Buenos Aires",
+            "@id": "60001680",
+            "affilname": "Fundacion Hospital de Pediatria Professor Dr. Juan P. Garrahan",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001680",
+            "affiliation-country": "Argentina"
+        },
+        {
+            "affiliation-city": "Newcastle",
+            "@id": "60000825",
+            "affilname": "John Hunter Children's Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000825",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Mumbai",
+            "@id": "60000667",
+            "affilname": "Bai Jerbai Wadia Hospital for Children",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000667",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "129516384",
+            "affilname": "Clinical Immunogenomics Research Consortium of Australasia (CIRCA)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129516384",
+            "affiliation-country": null
+        },
+        {
+            "affiliation-city": "Durham",
+            "@id": "129459284",
+            "affilname": "Duke Department of Pediatric Allergy and Immunology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129459284",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Seattle",
+            "@id": "129195449",
+            "affilname": "Allen Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129195449",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Irving",
+            "@id": "128829540",
+            "affilname": "Allergy",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/128829540",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Dublin",
+            "@id": "124142357",
+            "affilname": "Children's Health Ireland at Crumlin",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/124142357",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Moscow",
+            "@id": "122725868",
+            "affilname": "Dmitry Rogachev National Medical and Research Center of Pediatric Hematology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/122725868",
+            "affiliation-country": "Russian Federation"
+        },
+        {
+            "affiliation-city": "Lviv",
+            "@id": "118769666",
+            "affilname": "Western Ukrainian Specialized Children's Medical Centre",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/118769666",
+            "affiliation-country": "Ukraine"
+        },
+        {
+            "affiliation-city": "St Petersburg",
+            "@id": "115099757",
+            "affilname": "Johns Hopkins All Children's Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/115099757",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Minsk",
+            "@id": "112608093",
+            "affilname": "Belarusian Research Center for Pediatric Oncology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112608093",
+            "affiliation-country": "Belarus"
+        },
+        {
+            "affiliation-city": "Minneapolis",
+            "@id": "110069318",
+            "affilname": "Children's Minnesota",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/110069318",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Oslo",
+            "@id": "108159836",
+            "affilname": "Centre for Molecular Medicine Norway",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/108159836",
+            "affiliation-country": "Norway"
+        },
+        {
+            "affiliation-city": "Christchurch",
+            "@id": "105636438",
+            "affilname": "Christchurch Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/105636438",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Porto Alegre",
+            "@id": "101305613",
+            "affilname": "Moinhos de Vento Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101305613",
+            "affiliation-country": "Brazil"
+        }
+    ],
+    "funding": [
+        "Jon Brown Cook Foundation",
+        "Jon Brown Fook Foundation",
+        "National Institutes of Health",
+        "National Institute of Allergy and Infectious Diseases",
+        "Arthritis National Research Foundation",
+        "Jeffrey Modell Foundation",
+        "Baylor College of Medicine",
+        "CIRCA",
+        "National Health and Medical Research Council of Australia",
+        "German Research Foundation",
+        "BMBF",
+        "Scientific and Technological Research Council of Turkey"
+    ]
+}

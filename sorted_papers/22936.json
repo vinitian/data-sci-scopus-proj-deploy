@@ -1,0 +1,57 @@
+{
+    "eid": "2-s2.0-85081113130",
+    "title": "Prototype framework of low-latency collection of multi-point video stream over multi-hop multi-channel wireless network",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Apache Kafka",
+        "Raspberry Pi",
+        "Video streaming",
+        "Wireless"
+    ],
+    "authors": [
+        "Aung Myo Htut",
+        "Juseong Kim",
+        "Jong Won Kim",
+        "Chaodit Aswakul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 8,
+    "ref-list": [
+        "Review of road traffic control strategies",
+        "A survey on urban traffic management system using wireless sensor networks",
+        "Building a replicated logging systemwith Apache Kafka",
+        "Streaming video over the Internet: Approaches and directions",
+        "Testbed Design of near Real-time Wireless Image Streaming with Apache Kafka for Road Traffic Monitoring",
+        "SVIs: Large scale video data ingestion into big data platform"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Gwangju",
+            "@id": "60068688",
+            "affilname": "Gwangju Institute of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60068688",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "NetCS",
+        "School of Electrical Engineering and Computer Science",
+        "Gwangju Institute of Science and Technology",
+        "Chulalongkorn University"
+    ]
+}

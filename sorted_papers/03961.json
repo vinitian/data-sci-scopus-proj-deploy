@@ -1,0 +1,97 @@
+{
+    "eid": "2-s2.0-85133310679",
+    "title": "Automatic Diagnosis Model for Risk Factors of Symptomatic Venous Thromboembolism based on Machine Learning",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "imbalanced data",
+        "machine learning",
+        "resampling method",
+        "venous thromboembolism"
+    ],
+    "authors": [
+        "Pakapol Anupoomchaiya",
+        "Autcharaporn Sukperm",
+        "Polapat Rojnuckarin",
+        "Vera Sa-Ing"
+    ],
+    "citedby-count": 0,
+    "ref-count": 13,
+    "ref-list": [
+        "Venous thromboembolism risk and prophylaxis in the acute hospital care setting (ENDORSE study): A multinational cross-sectional study",
+        "Risk factors for symptomatic venous thromboembolism in Thai hospitalised medical patients",
+        "Advanced cardiovascular magnetic resonance myocardial perfusion imaging: High-spatial resolution versus 3-dimensional whole-heart coverage",
+        "An incremental density-based clustering framework using fuzzy local clustering",
+        "Validation of a Machine Learning Approach for Venous Thromboembolism Risk Prediction in Oncology",
+        "Machine learning to predict venous thrombosis in acutely ill medical patients",
+        "A Machine Learning Approach to Predict Deep Venous Thrombosis among Hospitalized Patients",
+        "Automatic Diagnosis of Venous Thromboembolism Risk based on Machine Learning",
+        "Enhancing robustness of machine learning systems via data transformations",
+        "RAAF: Resource-Aware Auto Featuring",
+        "A decision-Theoretic generalization of on-line learning and an application to boosting",
+        "Analysis of a Random Forests Model",
+        "XGBoost: A scalable tree boosting system. Proceedings of the 22nd"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60000316",
+            "affilname": "Srinakharinwirot University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000316",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Srinakharinwirot University"
+    ]
+}

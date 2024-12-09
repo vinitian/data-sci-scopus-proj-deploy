@@ -1,0 +1,104 @@
+{
+    "eid": "2-s2.0-85130187468",
+    "title": "Measurement of target range and doppler shift by incorporating PDM-enabled FMCW-based photonic radar",
+    "cover-date": "2022-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Autonomous vehicles",
+        "LFMCW",
+        "Measurement",
+        "Photonic radar",
+        "Polarization division multiplexing",
+        "Range resolution"
+    ],
+    "authors": [
+        "Abhishek Sharma",
+        "Sushank Chaudhary",
+        "Jyoteesh Malhotra",
+        "Amir Parnianifard",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 9,
+    "ref-count": 50,
+    "ref-list": [
+        "\u201cPhotonic integrated circuit-based FMCW coherent LiDAR,\u201d",
+        "\u201cMicrowave photonics combines two worlds,\u201d",
+        "\u201cMicrowave photonics,\u201d",
+        "\u201cA fully photonics-based coherent radar system,\u201d",
+        "\u201cMicrowave photonic imaging radar with a sub-centimeter-level resolution,\u201d",
+        "\u201cCoherent detection-based photonic radar for autonomous vehicles under diverse weather conditions,\u201d",
+        "\u201cA cost-effective photonic radar under adverse weather conditions for autonomous vehicles by incorporating frequency modulated direct detection scheme,\u201d",
+        "\u201cDetection and estimation of LFMCW radar signals,\u201d",
+        "Moving from Legacy 24 GHz to State-of-the-Art 77-GHz Radar",
+        "\u201cSimulative investigation of FMCW based optical photonic radar and its different configurations,\u201d",
+        "\u201cAnalytic specific attenuation model for rain for use in prediction methods,\u201d",
+        "Realization of free space optics with OFDM under atmospheric turbulence",
+        "\u201cInfluences of weather phenomena on automotive laser radar systems,\u201d",
+        "Hybrid MDM-PDM Based Ro-FSO System for Broadband Services by Incorporating Donut Modes Under Diverse Weather Conditions",
+        "\u201cA Cost Effective 100 Gbps FSO System Under the Impact of Fog by Incorporating OCDMA-PDM Scheme,\u201d",
+        "\u201cAnalysis of 2 \u00d7 10 Gbps MDM enabled inter satellite optical wireless communication under the impact of pointing errors,\u201d",
+        "\u201cA Cost-Effective High-Speed Radio over Fibre System for Millimeter Wave Applications,\u201d",
+        "\u201cPerformance analysis of 80 Gbps Ro-FSO system by incorporating hybrid WDM-MDM scheme,\u201d",
+        "\u201cA cost-effective 100 Gbps SAC-OCDMA\u2013PDM based inter-satellite communication link,\u201d",
+        "Optimization of high speed and long haul inter-satellite communication link by incorporating differential phase shift key and orthogonal frequency division multiplexing scheme",
+        "\u201cEmpirical Evaluation of 4 QAM and 4 PSK in OFDM-based Inter-Satellite Communication System,\u201d",
+        "\u201cHigh Speed 4\u00d7 2.5 Gbps-5 GHz AMI-WDM-RoF Transmission System for WLANs,\u201d",
+        "\u201cPerformance analysis of duobinary and CSRZ modulation based polarization interleaving for high-speed WDM-FSO transmission system,\u201d",
+        "\u201cChandni. Analysis of FSO system and its challenges\u2013A review,\u201d",
+        "\u201cComprehensive study of radio over fiber with different modulation techniques\u2013a review,\u201d",
+        "\u201c6 \u00d7 20 Gbps Hybrid WDM\u2013PI Inter-satellite System under the Influence of Transmitting Pointing Errors,\u201d",
+        "\u201c6 x 20Gbps long reach WDM-PI based high altitude platform inter-satellite communication system,\u201d",
+        "\u201cComparison of 905 nm and 1550 nm semiconductor laser rangefinders\u2019 performance deterioration due to adverse environmental conditions,\u201d",
+        "\u201cDual-band dechirping LFMCW radar receiver with high image rejection using microwave photonic I/Q mixer,\u201d",
+        "\u201cMethods and models for simulating autonomous vehicle sensors,\u201d",
+        "Full-duty triangular pulse generation based on a polarization-multiplexing dual-drive Mach-Zehnder modulator",
+        "\u201cMultifunction Lidar System Based on Polarization-Division Multiplexing,\u201d",
+        "Fog Research: A Review of Past Achievements and Future Perspectives",
+        "\u201cLinearization of the frequency sweep of a frequency-modulated continuous-wave semiconductor laser radar and the resulting ranging performance,\u201d",
+        "Cloud attenuations for free-space optical links,\" in",
+        "\u201cCharacterization of fog and snow attenuations for free-space optical propagation,\u201d",
+        "\u201cMulti-Functional Microwave Photonic Radar System for Simultaneous Distance and Velocity Measurement and High-Resolution Microwave Imaging,\u201d",
+        "\u201cA novel scheme for processing FMCW-ladar data acquired with low sampling rate,\u201d",
+        "\u201cPhotonic approach for on-board and ground radars in automotive applications,\u201d",
+        "\u201cRange detection assessment of photonic radar under adverse weather perceptions,\u201d",
+        "\u201cSimultaneous detection of the distance and direction for a noncooperative target based on the microwave photonic radar,\u201d"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Amritsar",
+            "@id": "60000078",
+            "affilname": "Guru Nanak Dev University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000078",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Thailand Science Research and Innovation Fund Chulalongkorn University"
+    ]
+}

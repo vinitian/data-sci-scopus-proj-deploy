@@ -1,0 +1,82 @@
+{
+    "eid": "2-s2.0-85089552303",
+    "title": "Closed knight's tours on (m, n, r)-ringboards",
+    "cover-date": "2020-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Chemistry (miscellaneous)",
+            "@code": "1601",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mathematics (all)",
+            "@code": "2600",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Physics and Astronomy (miscellaneous)",
+            "@code": "3101",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Annulus-board",
+        "Closed knight's tour",
+        "Hamiltonian cycle",
+        "Legal knight's move",
+        "Open knight's tour",
+        "Ringboard"
+    ],
+    "authors": [
+        "Wasupol Srichote",
+        "Ratinan Boonklurb",
+        "Sirirat Singhun"
+    ],
+    "citedby-count": 0,
+    "ref-count": 15,
+    "ref-list": [
+        "Pillow chess",
+        "Which chessboards have a closed knight's tour within the cube?",
+        "Which chessboards have a closed knight's tour within the rectangular prism?",
+        "Knight's tours for cubes and boxes",
+        "Knight's tours on a torus",
+        "Knight's tours on cylinders and other surfaces",
+        "Some Forbidden Rectangular Chessboards with Generalized Knight's Moves",
+        "Generalized knight's tour on 3D chessboards",
+        "Generalized Knight's tours on rectangular chessboards",
+        "Which rectangular chessboards have a knight's tour?",
+        "Closed Knight's Tours with Minimal Square Removal for All Rectangular Boards",
+        "Knight's tours on rectangular chessboards using external squares",
+        "Knight's Tours on 3 \u00b1 n Chessboards with a Single Square Removed",
+        "Knight's tours on boards with odd dimensions",
+        "The knight's tour problem on boards with holes"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022676",
+            "affilname": "Ramkhamhaeng University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022676",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

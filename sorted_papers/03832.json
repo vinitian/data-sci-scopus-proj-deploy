@@ -1,0 +1,87 @@
+{
+    "eid": "2-s2.0-85099878158",
+    "title": "Biologically plausible sequence learning with spiking neural networks",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Zuozhu Liu",
+        "Thiparat Chotibut",
+        "Christopher Hillar",
+        "Shaowei Lin"
+    ],
+    "citedby-count": 3,
+    "ref-count": 26,
+    "ref-list": [
+        "Learning patterns and pattern sequences by self-organizing nets of threshold elements",
+        "Stdp-compatible approximation of backpropagation in an energy-based model",
+        "Synaptic modifications in cultured hippocampal neurons: dependence on spike timing, synaptic strength, and postsynaptic cell type",
+        "Synaptic modification by correlated activity: Hebb's postulate revisited",
+        "Matching recall and storage in sequence learning with spiking neural networks",
+        "Noise in the nervous system",
+        "A neuronal learning rule for sub-millisecond temporal coding",
+        "Robust exponential memory in hopfield networks",
+        "Efficient and optimal binary Hopfield associative memory storage using minimum probability flow",
+        "Neural networks and physical systems with emergent collective computational abilities",
+        "Variational probability flow for biologically plausible training of deep neural networks",
+        "Action potentials propagating back into dendrites trigger changes in efficacy of single-axon synapses between layer v pyramidal neurons",
+        "A logical calculus of the ideas immanent in nervous activity",
+        "Learning precisely timed spikes",
+        "Spatiotemporal spike train analysis for large scale networks using the maximum entropy principle and monte carlo method",
+        "Bayesian computation emerges in generic cortical microcircuits through spike-timing-dependent plasticity",
+        "Variational learning for recurrent spiking networks",
+        "Equilibrium propagation: Bridging the gap between energy-based models and backpropagation",
+        "Minimum probability flow learning",
+        "The effect of nonstationarity on models inferred from neural data",
+        "Impact of synaptic unreliability on the information transmitted by spiking neurons",
+        "Maximum likelihood reconstruction for ising models with asynchronous updates"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": null,
+            "@id": "60104290",
+            "affilname": "Singapore University of Technology and Design",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104290",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Berkeley",
+            "@id": "60025038",
+            "affilname": "University of California, Berkeley",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025038",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60017161",
+            "affilname": "National University of Singapore",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017161",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "125707775",
+            "affilname": "Awecom, Inc",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125707775",
+            "affiliation-country": null
+        }
+    ],
+    "funding": [
+        "SUTD-ZJU",
+        "SUTDZJU"
+    ]
+}

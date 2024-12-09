@@ -1,0 +1,77 @@
+{
+    "eid": "2-s2.0-85082386286",
+    "title": "Anomaly event detection using generative adversarial network for surveillance videos",
+    "cover-date": "2019-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Thittaporn Ganokratanaa",
+        "Supavadee Aramvith",
+        "Nicu Sebe"
+    ],
+    "citedby-count": 9,
+    "ref-count": 36,
+    "ref-list": [
+        "Anomaly detection and localization in crowded scenes",
+        "Observe locally, infer globally: A space-time mrf for detecting abnormal activities with incremental updates",
+        "Anomaly detection in crowded scenes",
+        "Abnormal crow? Behavior detection using social force model",
+        "Abnormal event detection at 150 fps in matlab",
+        "Video anomaly detection based on local statistical aggregates",
+        "Sparse reconstruction cost for abnormal event detection",
+        "Fast R-CNN",
+        "Decaf: A deep convolutional activation feature for generic visual recognition",
+        "CNN features off-the-shelf: An astounding baseline for recognition",
+        "Two-stream convolutional networks for action recognition",
+        "Learning deep event models for crowd anomaly detection",
+        "Structured dictionary learning for abnormal event detection in crowded scenes",
+        "Analyzing tracklets for the detection of abnormal crowd behavior",
+        "Learning temporal regularity in video sequences",
+        "Detecting anomalous events in videos by learning deep representations of appearance and motion",
+        "Video anomaly detection and localization by local motion based joint video representation and OCELM",
+        "Learning deep event models for crowd anomaly detection",
+        "Abnormal event detection in videos using generative adversarial nets",
+        "Plug-and-play cnn for crowd motion analysis: An application in abnormal event detection",
+        "Abnormal event detection based on sparse reconstruction in crowded scenes",
+        "Histograms of optical flow orientation and magnitude to detect anomalous events in videos",
+        "Video anomaly detection and localization using hierarchical feature representation and Gaussian process regression",
+        "Toward abnormal trajectory and event detection in video surveillance",
+        "Generative adversarial nets",
+        "Improved techniques for training GANs",
+        "Unsupervised representation learning with deep convolutional generative adversarial networks",
+        "Image-to-image translation with conditional adversarial networks",
+        "Fast optical flow using dense inverse search",
+        "Crowd motion monitoring using tracklet based commotion measure",
+        "Detecting irregularities in images and in video",
+        "An on-line, real-time learning method for detecting anomalies in videos using spatiotemporal compositions",
+        "Anomaly detection and localization in crowded scenes",
+        "Learning to detect anomalies in surveillance video",
+        "Video anomaly search in crowded scenes via spatio-temporal motion context"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Trento",
+            "@id": "60015986",
+            "affilname": "Universit\u00e0 di Trento",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015986",
+            "affiliation-country": "Italy"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

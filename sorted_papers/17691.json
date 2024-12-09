@@ -1,0 +1,62 @@
+{
+    "eid": "2-s2.0-85042654137",
+    "title": "A multi model HMM based speech synthesis",
+    "cover-date": "2018-01-31",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "HMM-based speech synthesis",
+        "Multi model HMM",
+        "Multi-space probability distribution HMM"
+    ],
+    "authors": [
+        "Supadaech Chanjaradwichai",
+        "Atiwong Suchato",
+        "Proadpran Punyabukkana"
+    ],
+    "citedby-count": 0,
+    "ref-count": 26,
+    "ref-list": [
+        "Implementing Thai text-to-speech synthesis for hand-held devices",
+        "Multilingual AAC on Android",
+        "Concatenative speech synthesis: A Review",
+        "Continuous F0 modeling for HMM based statistical parametric speech synthesis",
+        "Multi-space probability distribution HMM",
+        "Speech reconstruction from mel-frequency cepstral coefficients using a source-filter model",
+        "Aperiodicity extraction and control using mixed mode excitation and group delay manipulation for a high quality speech analysis, modification and synthesis system straight",
+        "The HMM-based speech synthesis system (HTS) version 2.0",
+        "Minimum generation error training for HMM-based speech synthesis",
+        "Duration modeling for HMM-based speech synthesis",
+        "A speech parameter generation algorithm considering global variance for HMM-based speech synthesis",
+        "Speech parameter generation from HMM using dynamic features",
+        "On the convergence of cubic interpolating splines,\u201d in Spline Functions and Approximation Theory",
+        "A simple continuous pitch estimation algorithm",
+        "Restructuring speech representations using a pitch-adaptive time-frequency smoothing and an instantaneous-frequency-based F0 extraction: Possible role of a repetitive structure in sounds",
+        "Maximum voiced frequency estimation: Exploiting amplitude and phase spectra",
+        "Modeling unvoiced sounds in statistical parametric speech synthesis with a continuous vocoder",
+        "From discontinuous to continuous F0 modelling in HMM-based speech synthesis",
+        "Simultaneous modeling of spectrum, pitch and duration in HMM-based speech synthesis",
+        "Thai tagged speech corpus for speech synthesis",
+        "Synthesizer voice quality of new languages calibrated with mean mel cepstral distortion",
+        "Merlin: An open source neural network speech synthesis system",
+        "Performance evaluation of speech synthesis techniques for English language",
+        "Toward accurate dynamic time warping in linear time and space",
+        "Prediction of tone naturalness perception using geometric model"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "CU"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "eid": "2-s2.0-85061895439",
+    "title": "Classification of advertisement text on Facebook using synthetic minority over-sampling technique",
+    "cover-date": "2018-12-21",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "AISAS model",
+        "Feature selection",
+        "SMOTE"
+    ],
+    "authors": [
+        "Suphamongkol Akkaradamrongrat",
+        "Pornpimon Kachamas",
+        "Sukree Sinthupinyo"
+    ],
+    "citedby-count": 0,
+    "ref-count": 11,
+    "ref-list": [
+        "Thailand makes top 10 in social media use",
+        "Measuring effectiveness of marketing communication using AISAS ARCAS model",
+        "A review and critique of the hierarchy of effects in advertising",
+        "SMOTE: Synthetic minority over-sampling technique",
+        "A comparison of oversampling methods on imbalanced topic classification of Korean news articles",
+        "Improving emotion classification in imbalanced YouTube dataset using SMOTE algorithm",
+        "The impact of oversampling with SMOTE on the performance of 3 classifiers in prediction of type 2 diabetes",
+        "Improving imbalanced question classification using structured smote based approach",
+        "Aspect term extraction for sentiment analysis in large movie reviews using Gini Index feature selection method and SVM classifier",
+        "Multi-class sentiment classification: The experimental comparisons of feature selection and machine learning algorithms",
+        "A feature selection model based on genetic rank aggregation for text sentiment classification"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

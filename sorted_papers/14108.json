@@ -1,0 +1,73 @@
+{
+    "eid": "2-s2.0-85082427077",
+    "title": "Self-regulating artificial-free linear programming solver using a jump and simplex method",
+    "cover-date": "2020-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Mathematics (all)",
+            "@code": "2600",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Artificial-free linear programming method",
+        "Jump technique",
+        "Non-acute constraint",
+        "Relaxation model",
+        "Simplex method"
+    ],
+    "authors": [
+        "Rujira Visuthirattanamanee",
+        "Krung Sinapiromsaran",
+        "Aua Aree Boonperm"
+    ],
+    "citedby-count": 5,
+    "ref-count": 25,
+    "ref-list": [
+        "Solving large airline crew scheduling problems: Random pairing generation and strong branching",
+        "Exact solution of crew scheduling problems using the set partitioning model: Recent successful applications",
+        "An algorithm for large scale 0-1 integer programming with application to airline crew scheduling",
+        "A linear programming approach to production and employment scheduling",
+        "Diet planning in the third world by linear and goal programming",
+        "A model and an algorithm for a large-scale sustainable supplier selection and order allocation problem",
+        "A new polynomial-time algorithm for linear programming",
+        "The gravitational method for linear programming",
+        "An artificial-free simplex-type algorithm for general LP models",
+        "Initialization of the simplex algorithm: An artifical-free approach",
+        "A counterexample to H. Arsham's \"initialization of the simplex algorithm: An artificial-free approach\"",
+        "Improvement and its computer implementation of an artificial-free simplex-type algorithm by Arsham",
+        "An improved initial basis for the simplex algorithm",
+        "Big-M free solution algorithm for general linear programs",
+        "A computationally stable solution algorithm for linear programs",
+        "The cosine simplex algorithm",
+        "Artificial-free simplex algorithm based on the non-acute constraint relaxation",
+        "Artificial free clone of simplex method for feasibility",
+        "A streamlined artificial variable free version of simplex method",
+        "An algorithm for simplex tableau reduction: The push-to-pull solution strategy",
+        "A simplified algebraic method for system of linear inequalities with LP applications",
+        "An efficient search direction for linear programming problems",
+        "Hybrid-LP: Finding advanced starting points for simplex, and pivoting LP methods",
+        "Primal perturbation simplex algorithms for linear programming"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60012521",
+            "affilname": "Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012521",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Department of Mathematics and Computer Science, Faculty of Science, Chulalongkorn University",
+        "Science Achievement Scholarship of Thailand"
+    ]
+}

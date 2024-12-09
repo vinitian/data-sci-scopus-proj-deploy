@@ -1,0 +1,175 @@
+{
+    "eid": "2-s2.0-85125345370",
+    "title": "Assisted peritoneal dialysis performed by caregivers and its association with patient outcomes",
+    "cover-date": "2022-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Nephrology",
+            "@code": "2727",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Assisted peritoneal dialysis",
+        "caregiver",
+        "dependency",
+        "outcomes",
+        "patient survival"
+    ],
+    "authors": [
+        "Pongpratch Puapatanakul",
+        "Talerngsak Kanjanabuch",
+        "Kriang Tungsanga",
+        "Areewan Cheawchanwattana",
+        "Kittisak Tangjittrong",
+        "Niwat Lounseng",
+        "Phichit Songviriyavithaya",
+        "Junhui Zhao",
+        "Angela Yee Moon Wang",
+        "Jenny Shen",
+        "Jeffrey Perl",
+        "Simon J. Davies",
+        "Fredric O. Finkelstein",
+        "David W. Johnson"
+    ],
+    "citedby-count": 4,
+    "ref-count": 23,
+    "ref-list": [
+        "Educating end-stage renal disease patients on dialysis modality selection: clinical advice from the European Renal Best Practice (ERBP) Advisory Board",
+        "Worldwide experiences with assisted peritoneal dialysis",
+        "Home care assistance and the utilization of peritoneal dialysis",
+        "Influence of autonomy and type of home assistance on the prevention of peritonitis in assisted automated peritoneal dialysis patients. An analysis of data from the French Language Peritoneal Dialysis Registry",
+        "Is assisted peritoneal dialysis associated with technique survival when competing events are considered?",
+        "Peritoneal dialysis in elderly patients: report from the French Peritoneal Dialysis Registry (RDPLF)",
+        "PD First policy: Thailand\u2019s response to the challenge of meeting the needs of patients with end-stage renal disease",
+        "Global dialysis perspective: Thailand",
+        "Quality of life of caregivers and patients on peritoneal dialysis",
+        "Experiences with assisted peritoneal dialysis in China",
+        "Helper-assisted continuous ambulatory peritoneal dialysis: does the choice of helper matter?",
+        "The Peritoneal Dialysis Outcomes and Practice Patterns Study (PDOPPS): unifying efforts to inform practice and improve global outcomes in peritoneal dialysis",
+        "Progress in development of the index of ADL",
+        "Assessment of older people: self-maintaining and instrumental activities of daily living",
+        "The association of functional status with mortality and dialysis modality change: results from the Peritoneal Dialysis Outcomes and Practice Patterns Study (PDOPPS)",
+        "A 12-item short-form health survey: construction of scales and preliminary tests of reliability and validity",
+        "Multiple imputation using chained equations: issues and guidance for practice",
+        "A proportional hazards model for the subdistribution of a competing risk",
+        "International comparison of peritoneal dialysis prescriptions from the Peritoneal Dialysis Outcomes and Practice Patterns Study (PDOPPS)",
+        "Current status of peritoneal dialysis in Japan",
+        "Synthetic 2018 data report of the French Language Peritoneal Dialysis and Home Hemodialysis Registry (RDPLF)"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ann Arbor",
+            "@id": "60136265",
+            "affilname": "Arbor Research Collaborative for Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60136265",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Woolloongabba",
+            "@id": "60109259",
+            "affilname": "Translational Research Institute Australia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60109259",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Brisbane",
+            "@id": "60031004",
+            "affilname": "The University of Queensland",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031004",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Keele",
+            "@id": "60030210",
+            "affilname": "Keele University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030210",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Woolloongabba",
+            "@id": "60025258",
+            "affilname": "Princess Alexandra Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025258",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "60023241",
+            "affilname": "Trang Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023241",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "New Haven",
+            "@id": "60017994",
+            "affilname": "Yale School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017994",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Khon Kaen",
+            "@id": "60017165",
+            "affilname": "Khon Kaen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017165",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Toronto",
+            "@id": "60017018",
+            "affilname": "Saint Michael's Hospital University of Toronto",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017018",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Torrance",
+            "@id": "60016081",
+            "affilname": "Harbor-UCLA Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016081",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "60006541",
+            "affilname": "The University of Hong Kong",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006541",
+            "affiliation-country": "Hong Kong"
+        },
+        {
+            "affiliation-city": "Amnat Charoen",
+            "@id": "119310173",
+            "affilname": "Amnat Charoen Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/119310173",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nontaburi",
+            "@id": "100840713",
+            "affilname": "Pranangklao Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/100840713",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "National Research Council of Thailand, Thailand",
+        "Thailand Research Foundation",
+        "Thailand Science Research and Innovation Fund Chulalongkorn University",
+        "National Institutes of Health",
+        "Chulalongkorn University"
+    ]
+}

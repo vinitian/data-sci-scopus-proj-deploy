@@ -1,0 +1,107 @@
+{
+    "eid": "2-s2.0-85148702916",
+    "title": "Antenna Delay-Independent Simultaneous Ranging for UWB-Based RTLSs",
+    "cover-date": "2023-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "antenna delay",
+        "localization",
+        "simultaneous ranging",
+        "two-way ranging",
+        "ultra-wideband"
+    ],
+    "authors": [
+        "Shashi Shah",
+        "Sushank Chaudhary",
+        "Rizwan Ullah",
+        "Amir Parnianifard",
+        "Muhammad Zain Siddiqi",
+        "Pisit Vanichchanunt",
+        "Wiroonsak Santipach",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 0,
+    "ref-count": 40,
+    "ref-list": [
+        "An update on location based services: Current state and future prospects",
+        "Technologies and Solutions for Location-Based Services in Smart Cities: Past, Present, and Future",
+        "Recent Advances in Indoor Localization: A Survey on Theoretical Approaches and Applications",
+        "A Survey of Indoor Localization Systems and Technologies",
+        "A Meta-Review of Indoor Positioning Systems",
+        "Indoor Location Data for Tracking Human Behaviours: A Scoping Review",
+        "GPS based Multi-hop Communication with Localization in Subterranean Wireless Sensor Networks",
+        "A hybrid outdoor localization scheme with high-position accuracy and low-power consumption",
+        "Localization and Positioning Systems for Emergency Responders: A Survey",
+        "Autocalibration of a Mobile UWB Localization System for Ad-Hoc Multi-Robot Deployments in GNSS-Denied Environments",
+        "Indoor Positioning and Navigation",
+        "An overview of the IEEE 802.15.4a Standard",
+        "Indoor Localization Using Improved RSS-Based Lateration Methods",
+        "A survey of mathematical methods for indoor localization",
+        "Survey of Wireless Indoor Positioning Techniques and Systems",
+        "Ultra Wideband Indoor Positioning Technologies: Analysis and Recent Advances",
+        "Symmetric double side two way ranging",
+        "An Asymmetric Double Sided Two-Way Ranging for Crystal Offset",
+        "An alternative double-sided two-way ranging method",
+        "Clock Synchronization of Wireless Sensor Networks",
+        "Numerical and Experimental Evaluation of Error Estimation for Two-Way Ranging Methods",
+        "Multiple Simultaneous Ranging in IR-UWB Networks",
+        "Novel Active-Passive Two-Way Ranging Protocols for UWB Positioning Systems",
+        "Indoor location based services challenges, requirements and usability of current solutions",
+        "Calibration method of antenna delays for UWB-based localization systems",
+        "A New Calibration Method of UWB Antenna Delay Based on the ADS-TWR",
+        "Antenna Delay Calibration of UWB Nodes",
+        "A Calibration Method for Antenna Delay Estimation and Anchor Self-Localization in UWB Systems",
+        "Node Calibration in UWB-Based RTLSs Using Multiple Simultaneous Ranging",
+        "Passive extended double-sided two-way ranging with alternative calculation",
+        "A Novel NLOS Mitigation Algorithm for UWB Localization in Harsh Indoor Environments",
+        "Identification of NLOS and Multi-Path Conditions in UWB Localization Using Machine Learning Methods",
+        "Improving Deep Learning-Based UWB LOS/NLOS Identification with Transfer Learning: An Empirical Approach"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60021944",
+            "affilname": "Kasetsart University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021944",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Thailand Science Research and Innovation Fund Chulalongkorn University",
+        "Chulalongkorn University"
+    ]
+}

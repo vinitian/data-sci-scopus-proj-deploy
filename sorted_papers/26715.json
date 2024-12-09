@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85169298593",
+    "title": "Two-stage Thai Misspelling Correction based on Pre-trained Language Models",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "language models",
+        "misspelling detection and correction",
+        "two-stage models"
+    ],
+    "authors": [
+        "Idhibhat Pankam",
+        "Peerat Limkonchotiwat",
+        "Ekapol Chuangsuwanich"
+    ],
+    "citedby-count": 0,
+    "ref-count": 21,
+    "ref-list": [
+        "Thai spelling correction and word normalization on social text using a two-stage pipeline with neural contextual attention",
+        "Handling cross- and out-of-domain samples in Thai word segmentation",
+        "Dealing with typos for BERT-based passage retrieval and ranking",
+        "Analysing the robustness of dual encoders for dense retrieval against misspellings",
+        "Attention is all you need",
+        "Thai spelling correction and word normalization on social text using a two-stage pipeline with neural contextual attention",
+        "Text normalization in social media by using spell correction and dictionary based approach",
+        "Adaptive edit-distance and regression approach for postocr text correction",
+        "Deep learning-based context-sensitive spelling typing error correction",
+        "Automatic correction of indonesian grammatical errors based on transformer",
+        "Automatic correction of real-word errors in spanish clinical texts",
+        "Masked language model scoring"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Rayong",
+            "@id": "60110787",
+            "affilname": "Vidyasirimedhi Institute of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60110787",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

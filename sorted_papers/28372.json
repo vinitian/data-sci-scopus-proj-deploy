@@ -1,0 +1,95 @@
+{
+    "eid": "2-s2.0-85130619724",
+    "title": "Experiment of a Phase-Gradient Metasurface Reflector for Millimeter Wave and 5G Applications",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiation",
+            "@code": "3108",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "5G",
+        "Metasurface",
+        "millimeter wave",
+        "phase gradient",
+        "reflector"
+    ],
+    "authors": [
+        "Sarawuth Chaimool",
+        "Chawalit Rakluea",
+        "Pubet Sangmahamad",
+        "Yan Zhao",
+        "Apisak Worapishet",
+        "Prayoot Akkaraekthalin"
+    ],
+    "citedby-count": 2,
+    "ref-count": 4,
+    "ref-list": [
+        "Announcement of the Local 5G implementation guidelines-Institutional development for Local 5G implementation",
+        "Gradient metasurfaces: A review of fundamentals and applications",
+        "From the generalized reflection law to the realization of perfect anomalous reflectors",
+        "Light Propagation with Phase Discontinuities: Generalized Laws of Reflection and Refraction"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60030267",
+            "affilname": "Rajamangala University of Technology Thanyaburi (RMUTT)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030267",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Khon Kaen",
+            "@id": "60017165",
+            "affilname": "Khon Kaen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017165",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60009119",
+            "affilname": "Mahanakorn University of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009119",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Advance Wireless Network Company Limited",
+        "Thailand Science Research and Innovation"
+    ]
+}

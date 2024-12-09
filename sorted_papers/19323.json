@@ -1,0 +1,75 @@
+{
+    "eid": "2-s2.0-85136215409",
+    "title": "A Microservices Quality Model Based on Microservices Anti-patterns",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Education",
+            "@code": "3304",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "anti-patterns",
+        "microservices",
+        "quality measurement",
+        "quality model"
+    ],
+    "authors": [
+        "Sermsook Pulnil",
+        "Twittie Senivongse"
+    ],
+    "citedby-count": 2,
+    "ref-count": 12,
+    "ref-list": [
+        "Microservices anti patterns: A taxonomy",
+        "On the definition of microservice bad smells",
+        "A hierarchical model for object-oriented design quality assessment",
+        "Automated code-smell detection in microservices through static analysis: A case study",
+        "On the study of microservices antipatterns: A catalog proposal",
+        "A design quality model for service-oriented architecture",
+        "Towards microservice smells detection",
+        "Attributes assessing the quality of microservices automatically decomposed from monolithic applications",
+        "Understanding and addressing quality attributes of microservices architecture: A systematic literature review",
+        "Benchmarking microservice systems for software engineering research"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

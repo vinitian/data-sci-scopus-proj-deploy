@@ -1,0 +1,75 @@
+{
+    "eid": "2-s2.0-85102626113",
+    "title": "Design of Supervisory Model Predictive Control for Building HVAC System with Consideration of Peak-Load Shaving and Thermal Comfort",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Heating-ventilation-air-conditioning (HVAC)",
+        "model predictive control (MPC)",
+        "peak-load shaving",
+        "predicted mean vote (PMV)",
+        "supervisory control (SC)"
+    ],
+    "authors": [
+        "Chanthawit Anuntasethakul",
+        "David Banjerdpongchai"
+    ],
+    "citedby-count": 12,
+    "ref-count": 36,
+    "ref-list": [
+        "Multivariate granger causality between electricity consumption, exports and GDP: Evidence from a panel of middle eastern countries",
+        "Electricity demand, GDP and employment: Evidence from Italy",
+        "Energy consumption and GDP in developing countries: A cointegrated panel analysis",
+        "The relationship between GDP and electricity consumption in 10 Asian countries",
+        "Comprehensive review of the recent advances in industrial and commercial DR",
+        "Assessment of Thailand indoor set-point impact on energy consumption and environment",
+        "A summary of demand response in electricity markets",
+        "Demand side management: Demand response, intelligent energy systems, and smart loads",
+        "Supervisory and optimal control of building HVAC systems: A review",
+        "Total and peak energy consumption minimization of building HVAC systems using model predictive control",
+        "Theory and applications ofHVAC control systems_A review of model predictive control (MPC)",
+        "Frequency control of air conditioners in response to real-time dynamic electricity prices in smart grids",
+        "MPC-based appliance scheduling for residential building energy management controller",
+        "Optimization of predicted mean vote index within model predictive control framework: Computationally tractable solution",
+        "A SCADA system for energy management in intelligent buildings",
+        "Supervisory model predictive controller (MPC) for residential HVAC systems: Implementation and experimentation on archetype sustainable house in Toronto",
+        "Energy-efficient predictive control of indoor thermal comfort and air quality in a direct expansion air conditioning system",
+        "Distributed control for a multi-evaporator air conditioning system",
+        "Model predictive control strategy based on predicted mean vote for buildingHVAC system",
+        "Dynamic model of an HVAC system for control analysis",
+        "Nonlinear control of a heating, ventilating, and air conditioning system with thermal load estimation",
+        "Effect of neutral temperature on energy saving of centralized air-conditioning systems in subtropical Hong Kong",
+        "Optimization of room air temperature in stratum-ventilated rooms for both thermal comfort and energy saving",
+        "Impact of ventilation rates on indoor thermal comfort and energy Efficiency of ground-source heat pump system",
+        "Real-time model predictive control for shipboard power management using the IPA-SQP approach"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

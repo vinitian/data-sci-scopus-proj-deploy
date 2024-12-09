@@ -1,0 +1,213 @@
+{
+    "eid": "2-s2.0-85164845879",
+    "title": "Speech Emotion Recognition Using Convolution Neural Networks and Multi-Head Convolutional Transformer",
+    "cover-date": "2023-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analytical Chemistry",
+            "@code": "1602",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "convolutional neural networks",
+        "convolutional Transformer encoder",
+        "multi-head attention",
+        "spatial features",
+        "speech emotion recognition",
+        "temporal features"
+    ],
+    "authors": [
+        "Rizwan Ullah",
+        "Muhammad Asif",
+        "Wahab Ali Shah",
+        "Fakhar Anjam",
+        "Ibrar Ullah",
+        "Tahir Khurshaid",
+        "Lunchakorn Wuttisittikulkij",
+        "Shashi Shah",
+        "Syed Mansoor Ali",
+        "Mohammad Alibakhshikenari"
+    ],
+    "citedby-count": 1,
+    "ref-count": 87,
+    "ref-list": [
+        "Speech emotion recognition based on an improved brain emotion learning model",
+        "Speech emotion recognition using hidden Markov models",
+        "Emotion recognition from speech with gaussian mixture models via boosted gmm",
+        "Speech emotion recognition: Features and classification models",
+        "Emotion recognition from speech: A review",
+        "Speech emotion recognition: Emotional models, databases, features, preprocessing methods, supporting modalities, and classifiers",
+        "Survey of deep representation learning for speech emotion recognition",
+        "Evaluating deep learning architectures for Speech Emotion Recognition",
+        "Automated accurate speech emotion recognition system using twine shuffle pattern and iterative neighborhood component analysis techniques",
+        "A multimodal hierarchical approach to speech emotion recognition from audio and text",
+        "Voice analysis using PRAAT software and classification of user emotional state",
+        "Attention-based Multi-modal Sentiment Analysis and Emotion Detection in Conversation using RNN",
+        "Speech emotion recognition using Fourier parameters",
+        "Learning salient features for speech emotion recognition using convolutional neural networks",
+        "Multimodal approach of speech emotion recognition using multi-level multi-head fusion attention-based recurrent neural network",
+        "Deepresgru: Residual gated recurrent neural network-augmented kalman filtering for speech enhancement and recognition",
+        "Speech emotion recognition using deep 1D & 2D CNN LSTM networks",
+        "Speech emotion classification using attention-based LSTM",
+        "Speech emotion recognition with dual-sequence LSTM architecture",
+        "Robust semisupervised generative adversarial networks for speech emotion recognition via distribution smoothness",
+        "Speech emotion recognition using data augmentation method by cycle-generative adversarial networks",
+        "Improving speech emotion recognition with adversarial data augmentation network",
+        "A research of speech emotion recognition based on deep belief network and SVM",
+        "Feature fusion methods research based on deep belief networks for speech emotion recognition under noise condition",
+        "Speech emotion recognition: Two decades in a nutshell, benchmarks, and ongoing trends",
+        "Exploration of complementary features for speech emotion recognition based on kernel extreme learning machine",
+        "Speech emotion recognition using deep neural network and extreme learning machine",
+        "Multi-conditioning and data augmentation using generative noise model for speech emotion recognition in noisy conditions",
+        "Speech emotion recognition from spectrograms with deep convolutional neural network",
+        "Affect-salient event sequence modelling for continuous speech emotion recognition",
+        "A novel dual attention-based BLSTM with hybrid features in speech emotion recognition",
+        "Attention guided 3D CNN-LSTM model for accurate speech based emotion recognition",
+        "Gender differences in emotion recognition: Impact of sensory modality and emotional category",
+        "Multi-modality emotion recognition model with GAT-based multi-head inter-modality attention",
+        "Speech expression multimodal emotion recognition based on deep belief network",
+        "Combining a parallel 2d cnn with a self-attention dilated residual network for ctc-based discrete speech emotion recognition",
+        "Analysis of emotional speech\u2014A review",
+        "The role of voice quality in communicating emotion, mood and attitude",
+        "Vowels formants analysis allows straightforward detection of high arousal emotions",
+        "Toward detecting emotions in spoken dialogs",
+        "Timing levels in segment-based speech emotion recognition",
+        "The relevance of voice quality features in speaker independent emotion recognition",
+        "Feature extraction methods: A review",
+        "Fedd: Feature extraction for explicit concept drift detection in time series",
+        "Feature extraction of the first difference of EMG time series for EMG pattern recognition",
+        "Automatic feature extraction and selection for classification of cyclical time series data",
+        "Feature extraction: A survey of the types, techniques, applications",
+        "Accent classification of the three major nigerian indigenous languages using 1d cnn lstm network model",
+        "Emotion detection from speech signals using voting mechanism on classified frames",
+        "Bagged support vector machines for emotion recognition from speech",
+        "Speech emotion recognition using CNN",
+        "Transfer learning for improving speech emotion classification accuracy",
+        "Robust multimodal emotion recognition from conversation with transformer-based crossmodality fusion",
+        "An Ensemble 1D-CNN-LSTM-GRU Model with Data Augmentation for Speech Emotion Recognition",
+        "Attention-LSTM-attention model for speech emotion recognition and analysis of IEMOCAP database",
+        "Autoembedder: A semi-supervised DNN embedding system for clustering",
+        "Clustering-based speech emotion recognition by incorporating learned features and deep BiLSTM",
+        "A first look into a convolutional neural network for speech emotion detection",
+        "Negative emotion recognition using deep learning for Thai language",
+        "Deep-net: A lightweight CNN-based speech emotion recognition system using deep frequency features",
+        "Speech emotion recognition using deep convolutional neural network and discriminant temporal pyramid matching",
+        "Adieu features? end-to-end speech emotion recognition using a deep convolutional recurrent network",
+        "CLSTM: Deep feature-based speech emotion recognition using the hierarchical ConvLSTM network",
+        "BLSTM and CNN Stacking Architecture for Speech Emotion Recognition",
+        "Emotion recognition from Chinese speech for smart affective services using a combination of SVM and DBN",
+        "A CNN-assisted enhanced audio signal processing for speech emotion recognition",
+        "A review on speech emotion recognition using deep learning and attention mechanism",
+        "Att-Net: Enhanced emotion recognition system using lightweight self-attention module",
+        "The impact of attention mechanisms on speech emotion recognition",
+        "Improved End-to-End Speech Emotion Recognition Using Self Attention Mechanism and Multitask Learning",
+        "Speech Emotion Recognition Using Spectrogram Phoneme Embedding",
+        "Emotion Identification from Raw Speech Signals Using DNNs",
+        "Automatic speech emotion recognition using recurrent neural networks with local attention",
+        "Speech emotion recognition with deep convolutional neural networks",
+        "A multi-layer and multi-ensemble stock trader using deep learning and deep reinforcement learning",
+        "Multi-head attention fusion networks for multi-modal speech emotion recognition",
+        "Detection of fake news and hate speech for Ethiopian languages: A systematic review of the approaches",
+        "Speech Emotion Recognition Based on Parallel CNN-Attention Networks with Multi-Fold Data Augmentation",
+        "Comparative Analysis of Deep Learning Models for Aspect Level Amharic News Sentiment Analysis",
+        "Deep Learning-Based Speech Emotion Recognition Using Multi-Level Fusion of Concurrent Features",
+        "Multi-Stream Convolution-Recurrent Neural Networks Based on Attention Mechanism Fusion for Speech Emotion Recognition",
+        "MLT-DNet: Speech emotion recognition using 1D dilated CNN based on multi-learning trick approach",
+        "Attention is all you need",
+        "The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS): A dynamic, multimodal set of facial and vocal expressions in North American English",
+        "IEMOCAP: Interactive emotional dyadic motion capture database",
+        "Spectrogram based multi-task audio classification",
+        "E2E-DASR: End-to-end deep learning-based dysarthric automatic speech recognition"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Mianwali",
+            "@id": "60166770",
+            "affilname": "Namal University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60166770",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Peshawar",
+            "@id": "60104814",
+            "affilname": "University of Engineering and Technology, Peshawar",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104814",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Bannu",
+            "@id": "60070624",
+            "affilname": "University of Science and Technology Bannu",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60070624",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Riyadh",
+            "@id": "60005353",
+            "affilname": "College of Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005353",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Getafe",
+            "@id": "60001741",
+            "affilname": "Universidad Carlos III de Madrid",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001741",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Gyeongsan",
+            "@id": "60001170",
+            "affilname": "Yeungnam University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001170",
+            "affiliation-country": "South Korea"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "European Union\u2019s Horizon 2020 research and innovation programme",
+        "Marie Sklodowska-Curie",
+        "King Saud University",
+        "Chulalongkorn University",
+        "Universidad Carlos III de Madrid"
+    ]
+}

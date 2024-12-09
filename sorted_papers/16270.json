@@ -1,0 +1,76 @@
+{
+    "eid": "2-s2.0-85080951045",
+    "title": "On the maximum edge-pair embedding bipartite matching",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Approximation algorithm",
+        "Computational complexity",
+        "Network optimization",
+        "Wireless localization"
+    ],
+    "authors": [
+        "Cam Ly Nguyen",
+        "Vorapong Suppakitpaisarn",
+        "Athasit Surarerks",
+        "Phanu Vajanopath"
+    ],
+    "citedby-count": 1,
+    "ref-count": 15,
+    "ref-list": [
+        "The hardness of approximate optima in lattices, codes, and systems of linear equations",
+        "Semidefinite programming based algorithms for sensor network localization",
+        "Improved approximation algorithms for label cover problems",
+        "X. 1 algorithms for Eulerian trails. In: Eulerian Graphs and Related Topics: Part 1",
+        "Maximum independent sets in 3-and 4-regular Hamiltonian graphs",
+        "Deux problemes de geometrie de situation",
+        "Greed is good: Approximating independent sets in sparse and bounded-degree graphs",
+        "An n5/2algorithm for maximum matchings in bipartite graphs",
+        "Localization for mobile sensor networks",
+        "The wireless localisation matching problem and a maximum likelihood based solution",
+        "The wireless localization matching problem",
+        "Coloring bipartite graphs, chap. 5.5.2",
+        "Robust network flow against attackers with knowledge of routing method"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025272",
+            "affilname": "The University of Tokyo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025272",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60018735",
+            "affilname": "Toshiba Corporation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018735",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "WALCOM 2020",
+        "University of Tokyo",
+        "GSI"
+    ]
+}

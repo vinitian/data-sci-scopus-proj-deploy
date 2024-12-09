@@ -1,0 +1,98 @@
+{
+    "eid": "2-s2.0-85124013309",
+    "title": "Non-uniform bound on normal approximation for call function of locally dependent random variables",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Algebra and Number Theory",
+            "@code": "2602",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Statistics and Probability",
+            "@code": "2613",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Numerical Analysis",
+            "@code": "2612",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Discrete Mathematics and Combinatorics",
+            "@code": "2607",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "call function",
+        "local dependence",
+        "non-uniform bound",
+        "normal approximation",
+        "Stein\u2019s method"
+    ],
+    "authors": [
+        "Suporn Jongpreechaharn",
+        "Kritsana Neammanee"
+    ],
+    "citedby-count": 0,
+    "ref-count": 11,
+    "ref-list": [
+        "A comparative analysis of CDO pricing models under the factor copula framework",
+        "Normal approximation under local dependence",
+        "Correlation expansion for CDO pricing",
+        "Normal approximation for call function via Stein\u2019s method",
+        "Stein\u2019s method and zero bias transformation for CDO tranche pricing",
+        "Gaussian and Poisson approximation: application to CDOs tranche pricing",
+        "Poisson approximation for call function via Stein-Chen method"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60001884",
+            "affilname": "Ministry of Higher Education, Science, Research and Innovation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001884",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Human Resource Development in Science Project",
+        "Science Achievement Scholarship of Thailand",
+        "SAST"
+    ]
+}

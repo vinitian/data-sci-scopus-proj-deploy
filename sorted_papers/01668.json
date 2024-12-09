@@ -1,0 +1,60 @@
+{
+    "eid": "2-s2.0-85085858330",
+    "title": "Automatic Trash Classification using Convolutional Neural Network Machine Learning",
+    "cover-date": "2019-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Patipol Tiyajamorn",
+        "Pollakrit Lorprasertkul",
+        "Rawin Assabumrungrat",
+        "Warin Poomarin",
+        "Ratchatin Chancharoen"
+    ],
+    "citedby-count": 10,
+    "ref-count": 10,
+    "ref-list": [
+        "Predicting three dimensions of residential curbside recycling: An observational study",
+        "Development of reverse vending machine (rvm) framework for implementation to a standard recycle bin",
+        "Image processing, analysis, and machine vision",
+        "Recurrent convolutional neural network for object recognition",
+        "Classification of trash for recyclability status",
+        "Going deeper with convolutions"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Rayong",
+            "@id": "60272485",
+            "affilname": "Kamnoetvidya Science Academy",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60272485",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

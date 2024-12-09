@@ -1,0 +1,158 @@
+{
+    "eid": "2-s2.0-85133640451",
+    "title": "A multi-institutional evaluation of small field output factor determination following the recommendations of IAEA/AAPM TRS-483",
+    "cover-date": "2022-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biophysics",
+            "@code": "1304",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "small field dosimetry",
+        "small field output factors",
+        "TRS-483"
+    ],
+    "authors": [
+        "Wolfgang Lechner",
+        "Rodolfo Alfonso",
+        "Mehenna Arib",
+        "M. Saiful Huq",
+        "Anas Ismail",
+        "Rajesh Kinhikar",
+        "Jos\u00e9 M. L\u00e1rraga-Guti\u00e9rrez",
+        "Karthick Raj Mani",
+        "Nkosingiphile Maphumulo",
+        "Otto A. Sauer",
+        "Shaima Shoeir",
+        "Sivalee Suriyapee",
+        "Karen Christaki"
+    ],
+    "citedby-count": 1,
+    "ref-count": 20,
+    "ref-list": [
+        "The physics of small megavoltage photon beam dosimetry",
+        "The influence of errors in small field dosimetry on the dosimetric accuracy of treatment plans",
+        "Multi-centre audit of VMAT planning and pre-treatment verification",
+        "Testing the methodology for a dosimetric end-to-end audit of IMRT/VMAT: results of IAEA multicentre and national studies",
+        "IAEA methodology for on-site end-to-end IMRT/VMAT audits: an international pilot study",
+        "A multinational audit of small field output factors calculated by treatment planning systems used in radiotherapy",
+        "Dosimetry of small static fields used in external photon beam radiotherapy: summary of TRS-483, the IAEA\u2013AAPM international Code of Practice for reference and relative dose determination",
+        "An analytical formalism for the assessment of dose uncertainties due to positioning uncertainties",
+        "A dosimetric evaluation of the IAEA-AAPM TRS483 code of practice for dosimetry of small static fields used in conventional linac beams and comparison with IAEA TRS-398, AAPM TG51, and TG51 Addendum protocols",
+        "6-MV small field output factors: intra-/intermachine comparison and implementation of TRS-483 using various detectors and several linear accelerators",
+        "Verification of representative data for output factors of {SRS} cones utilizing {IAEA} {TRS} 483 recommendations",
+        "Field output factors for small fields: a large multicentre study",
+        "Measurement of the small field output factors for 10 {MV} photon beam using {IAEA} {TRS}-483 dosimetry protocol and implementation in Eclipse {TPS} commissioning",
+        "Small field output correction factors of the microSilicon detector and a deeper understanding of their origin by quantifying perturbation factors",
+        "A novel method for the determination of field output factors and output correction factors for small static fields for six diodes and a microdiamond detector in megavoltage photon beams",
+        "Output correction factors for small static fields in megavoltage photon beams for seven ionization chambers in two orientations\u2014perpendicular and parallel",
+        "Evaluation of the dosimetric characteristics of 6MV flattened and unflattened photon beam",
+        "Measurement of output factors for small photon beams",
+        "Small-field dosimetry of TrueBeamTM flattened and flattening filter-free beams: a multi-institutional analysis"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Cairo",
+            "@id": "60113915",
+            "affilname": "Children's Cancer Hospital 57357",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60113915",
+            "affiliation-country": "Egypt"
+        },
+        {
+            "affiliation-city": "Mumbai",
+            "@id": "60079949",
+            "affilname": "Homi Bhabha National Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60079949",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Pretoria",
+            "@id": "60078848",
+            "affilname": "National Metrology Institute of South Africa",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60078848",
+            "affiliation-country": "South Africa"
+        },
+        {
+            "affiliation-city": "Damascus",
+            "@id": "60072774",
+            "affilname": "Atomic Energy Commission of Syria",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60072774",
+            "affiliation-country": "Syrian Arab Republic"
+        },
+        {
+            "affiliation-city": "Havana",
+            "@id": "60046703",
+            "affilname": "Universidad de La Habana",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60046703",
+            "affiliation-country": "Cuba"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Vienna",
+            "@id": "60019311",
+            "affilname": "International Atomic Energy Agency, Vienna",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019311",
+            "affiliation-country": "Austria"
+        },
+        {
+            "affiliation-city": "Riyadh",
+            "@id": "60016332",
+            "affilname": "King Faisal Specialist Hospital and Research Centre",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016332",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Wurzburg",
+            "@id": "60012689",
+            "affilname": "Julius-Maximilians-Universit\u00e4t W\u00fcrzburg",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012689",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Vienna",
+            "@id": "60011394",
+            "affilname": "Medizinische Universit\u00e4t Wien",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011394",
+            "affiliation-country": "Austria"
+        },
+        {
+            "affiliation-city": "Pittsburgh",
+            "@id": "60001361",
+            "affilname": "University of Pittsburgh School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001361",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Tlalpan",
+            "@id": "60000029",
+            "affilname": "Instituto Nacional de Neurolog\u00eda y Neurocirug\u00eda",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000029",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Dhaka",
+            "@id": "114273347",
+            "affilname": "United Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/114273347",
+            "affiliation-country": "Bangladesh"
+        }
+    ],
+    "funding": [
+        "IAEA"
+    ]
+}

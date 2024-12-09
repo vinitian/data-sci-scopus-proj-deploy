@@ -1,0 +1,119 @@
+{
+    "eid": "2-s2.0-85089075779",
+    "title": "Development of international mirroring system for real-time web of meteorological satellite data",
+    "cover-date": "2020-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Earth and Planetary Sciences (all)",
+            "@code": "1900",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [
+        "APAN",
+        "Himawari-8",
+        "International network",
+        "JGN",
+        "Latency",
+        "Packet loss",
+        "Real-time web",
+        "Remotely sensed image"
+    ],
+    "authors": [
+        "Praphan Pavarangkoon",
+        "Ken T. Murata",
+        "Kazunori Yamamoto",
+        "Kazuya Muranaga",
+        "Atsushi Higuchi",
+        "Takamichi Mizuhara",
+        "Yuya Kagebayashi",
+        "Chalermpol Charnsripinyo",
+        "Natawut Nupairoj",
+        "Takatoshi Ikeda",
+        "Jin Tanaka",
+        "Keiichiro Fukazawa"
+    ],
+    "citedby-count": 3,
+    "ref-count": 29,
+    "ref-list": [
+        "An introduction to himawari-8/9 \u2014 japan\u2019s New-Generation geostationary meteorological satellites",
+        "Delay-Tolerant Networking architecture",
+        "Highspeed TCP for Large Congestion Windows",
+        "UDT: UDP-Based data transfer for high-speed wide area networks",
+        "CUBIC: A new TCP-friendly High-Speed TCP variant",
+        "A Science Cloud for Data Intensive Sciences",
+        "A Report of the NICT Science Cloud in 2013",
+        "A quality measurement tool for high-speed data transfer in long fat networks",
+        "An application of novel communications protocol to high throughput satellites",
+        "A high-speed data transfer protocol for geostationary orbit satellites",
+        "Improvement of real-time transfer of phased array weather radar data on long-distance networks",
+        "A web-based real-time and full-resolution data visualization for Himawari-8 satellite sensed images",
+        "WAN Acceleration technology for enhanced data transmission performance",
+        "Bandwidth utilization enhancement using high-performance and flexible protocol for INTELSAT satellite network",
+        "A Closer Look at the ABI on the GOES-R Series",
+        "Large-scale data processing with Pwrake, a parallel and distributed workflow system",
+        "Gfarm grid file system"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60276939",
+            "affilname": "Systems Engineering Consultants Co., Ltd.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60276939",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Kyoto",
+            "@id": "60119660",
+            "affilname": "Academic Center for Computing and Media Studies",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60119660",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Koganei",
+            "@id": "60032325",
+            "affilname": "Japan National Institute of Information and Communications Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032325",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60021208",
+            "affilname": "KDDI Corporation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021208",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011525",
+            "affilname": "Thailand National Electronics and Computer Technology Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011525",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chiba",
+            "@id": "60002787",
+            "affilname": "Chiba University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002787",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Kyoto",
+            "@id": "117844616",
+            "affilname": "CLEALINKTECHNOLOGY Co., Ltd.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/117844616",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "JSPS"
+    ]
+}

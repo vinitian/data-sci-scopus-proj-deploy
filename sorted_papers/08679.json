@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85121864198",
+    "title": "Object detection of road assets using transformer-based yolox with feature pyramid decoder on thai highway panorama",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Deep learning",
+        "Highway scenes",
+        "Vision Transformer",
+        "YOLO",
+        "YOLOX"
+    ],
+    "authors": [
+        "Teerapong Panboonyuen",
+        "Sittinun Thongbai",
+        "Weerachai Wongweeranimit",
+        "Phisan Santitamnont",
+        "Kittiwan Suphan",
+        "Chaiyut Charoenphon"
+    ],
+    "citedby-count": 11,
+    "ref-count": 38,
+    "ref-list": [
+        "Dynamic Head: Unifying Object Detection Heads with Attentions",
+        "Center-Boundary Dual Attention for Oriented Object Detection in Remote Sensing Images",
+        "Pyramid constrained self-attention network for fast video salient object detection",
+        "Road Object Detection: A Comparative Study of Deep Learning-Based Algorithms",
+        "VCANet: Vanishing-Point-Guided Context-Aware Network for Small Road Object Detection",
+        "An advanced YOLOv3 method for small-scale road object detection",
+        "Detection of road objects with small appearance in images for autonomous driving in various traffic situations using a deep learning based approach",
+        "YOLO v3-Tiny: Object Detection and Recognition using one stage improved model",
+        "Mask r-cnn",
+        "Bisenet: Bilateral segmentation network for real-time semantic segmentation",
+        "Using channel pruning-based YOLO v4 deep learning algorithm for the real-time and accurate detection of apple flowers in natural environments",
+        "Application of local fully Convolutional Neural Network combined with YOLO v5 algorithm in small target detection of remote sensing image",
+        "ViT-YOLO: Transformer-Based YOLO for Object Detection",
+        "Attention is all you need",
+        "Spatial-Spectral Transformer for Hyperspectral Image Classification",
+        "Improved Transformer Net for Hyperspectral Image Classification",
+        "Rethinking transformer-based set prediction for object detection",
+        "Uncertainty-Guided Transformer Reasoning for Camouflaged Object Detection",
+        "Transformer Meets Convolution: A Bilateral Awareness Network for Semantic Segmentation of Very Fine Resolution Urban Scene Images",
+        "TrSeg: Transformer for semantic segmentation",
+        "Parallel feature pyramid network for object detection",
+        "TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-captured Scenarios",
+        "Pre-trained image processing transformer",
+        "Vision transformers for dense prediction",
+        "Bottleneck transformers for visual recognition",
+        "Rethinking the Self-Attention in Vision Transformers",
+        "Revamping Cross-Modal Recipe Retrieval with Hierarchical Transformers and Self-supervised Learning",
+        "Training data-efficient image transformers & distillation through attention",
+        "Tensorflow: A system for large-scale machine learning",
+        "Rethinking semantic segmentation from a sequence-to-sequence perspective with transformers",
+        "Revisiting rcnn: On awakening the classification power of faster rcnn",
+        "Reconstructing pascal voc"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "117011815",
+            "affilname": "Ltd.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/117011815",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Center of Excellence in Infrastructure Management, Chulalongkorn University",
+        "Chulalongkorn University"
+    ]
+}

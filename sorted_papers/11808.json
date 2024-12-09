@@ -1,0 +1,87 @@
+{
+    "eid": "2-s2.0-85086993973",
+    "title": "Scalable Hyper-Ellipsoidal Function with Projection Ratio for Local Distributed Streaming Data Classification",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "discard-after-learn",
+        "discriminant analysis",
+        "incremental learning",
+        "projection ratio",
+        "Streaming data classification"
+    ],
+    "authors": [
+        "Perasut Rungcharassang",
+        "Chidchanok Lursinsap"
+    ],
+    "citedby-count": 1,
+    "ref-count": 35,
+    "ref-list": [
+        "Solution pattern for anomaly detection in financial data streams",
+        "Application of classification models on credit card fraud detection",
+        "Translational bioinformatics in the era of real-time biomedical, health care and wellness data streams",
+        "Using time-dependent neural networks for EEG classification",
+        "Classification of focal and non focal EEG using entropies",
+        "On evaluating stream learning algorithms",
+        "A survey on data stream clustering and classification",
+        "Characterizing concept drift",
+        "Learning under concept drift: A review",
+        "Scalable real-time classification of data streams with concept drift",
+        "Fast incremental LDA feature extraction",
+        "Incremental linear discriminant analysis: A fast algorithm and comparisons",
+        "A new and fast implementation of orthogonal LDAalgorithm and its incremental extension",
+        "LearnCC: An incremental learning algorithm for supervised neural networks",
+        "Incremental linear discriminant analysis for classification of data streams",
+        "New incremental learning algorithm with support vector machines",
+        "Akernel-based feature selection method forSVMwith RBF kernel for hyperspectral image classification",
+        "One-pass online learning:A local approach",
+        "A very fast neural learning for classification using only new incoming datum",
+        "A fast learning method for streaming and randomly ordered multi-class data chunks by using onepass-throw-away class-wise learning concept",
+        "Local linear discriminant analysis framework using sample neighbors",
+        "Locally linear discriminant analysis for multimodally distributed classes for face recognition with a single model image",
+        "Versatile hyper-elliptic clustering approach for streaming data based on one-passthrown-away learning",
+        "Fast learning and testing for imbalanced multi-class changes in streaming data by dynamic multi-stratum network",
+        "The use of multiple measurements in taxonomic problems",
+        "Determining if two solid ellipsoids intersect",
+        "Linear discriminant analysis for the small sample size problem: An overview",
+        "Regularized discriminant analysis",
+        "Approximation of Euclidean distance between point from ellipse",
+        "Algorithms for ellipsoids",
+        "Efficient online evaluation of big data stream classifiers"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Thailand Research Fund"
+    ]
+}

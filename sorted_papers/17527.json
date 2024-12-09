@@ -1,0 +1,86 @@
+{
+    "eid": "2-s2.0-85062208205",
+    "title": "Influential variable selection for improving solar forecasts from numerical weather prediction",
+    "cover-date": "2019-01-18",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Model Output Statistics (MOS)",
+        "Numerical Weather Prediction (NWP)",
+        "Spatial averaging",
+        "Variable selection"
+    ],
+    "authors": [
+        "Supachai Suksamosorn",
+        "Naebboon Hoonchareon",
+        "Jitkomut Songsiri"
+    ],
+    "citedby-count": 3,
+    "ref-count": 12,
+    "ref-list": [
+        "Solar forecasting methods for renewable energy integration",
+        "A Description of the advanced research WRF version 3",
+        "Evaluation of WRF shortwave radiation parameterizations in predicting global horizontal irradiance in Greece",
+        "Irradiance forecasting for the power prediction of grid-connected photovoltaic systems",
+        "The Use of model output statistics (MOS) in objective weather forecasting",
+        "Evaluation of numerical weather prediction for intra-day solar forecasting in the continental United States",
+        "Improved model output statistics of numerical weather prediction based irradiance forecasts for solar power applications",
+        "Evaluation of numerical weather prediction solar irradiance forecasts in the US",
+        "Benchmarking of different approaches to forecast solar irradiance",
+        "Comparison of global horizontal irradiance forecasts based on numerical weather prediction models with different spatio-temporal resolutions",
+        "A New airmass independent formulation for the Linke turbidity coefficient"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "National Research Council of Thailand",
+        "Electricity Generating Authority of Thailand"
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "eid": "2-s2.0-85135810839",
+    "title": "Locking-free isogeometric Timoshenko\u2013Ehrenfest beam formulations for geometrically nonlinear analysis of planar beam structures",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mathematics (all)",
+            "@code": "2600",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanics of Materials",
+            "@code": "2211",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "-continuous NURBS selective reduced integration",
+        "geometrically nonlinear analysis",
+        "Isogeometric analysis",
+        "membrane and shear locking effect",
+        "planar curved beams",
+        "projection"
+    ],
+    "authors": [
+        "Duy Vo",
+        "Pruettha Nanakorn",
+        "Tinh Quoc Bui",
+        "Jaroon Rungamornrat"
+    ],
+    "citedby-count": 1,
+    "ref-count": 54,
+    "ref-list": [
+        "Isogeometric analysis: CAD, finite elements, NURBS, exact geometry and mesh refinement",
+        "Strength of materials",
+        "Locking free isogeometric formulations of curved thick beams",
+        "Improved numerical integration for locking treatment in isogeometric structural elements, part I: Beams",
+        "Isogeometric analysis of plane-curved beams",
+        "Constitutive models for strongly curved beams in the frame of isogeometric analysis",
+        "Single-variable formulations and isogeometric discretizations for shear deformable beams",
+        "Order reduction method for locking free isogeometric analysis of Timoshenko beams",
+        "An efficient isogeometric beam formulation for analysis of 2D non-prismatic beams",
+        "Non-linear buckling of elliptical curved beams",
+        "Isogeometric analysis of free-form Timoshenko curved beams including the nonlinear effects of large deformations",
+        "A total Lagrangian Timoshenko beam formulation for geometrically nonlinear isogeometric analysis of planar curved beams",
+        "Analysis of three-dimensional curved beams using isogeometric approach",
+        "A geometrically exact isogeometric beam for large displacements and contacts",
+        "Locking-free isogeometric collocation methods for spatial Timoshenko rods",
+        "Isogeometric collocation methods for cosserat rods and rod structures",
+        "Locking-free isogeometric collocation formulation for three-dimensional geometrically exact shear-deformable beams with arbitrary initial curvature",
+        "A total Lagrangian Timoshenko beam formulation for geometrically nonlinear isogeometric analysis of spatial beam structures",
+        "Isogeometric analysis of the nonlinear deformation of planar flexible beams with snap-back",
+        "Rotation-free isogeometric analysis of an arbitrarily curved plane Bernoulli\u2013Euler beam",
+        "Isogeometric Bernoulli beam element with an exact representation of concentrated loadings",
+        "Geometrically nonlinear multi-patch isogeometric analysis of planar curved Euler\u2013Bernoulli beams",
+        "Dynamic multi-patch isogeometric analysis of planar Euler\u2013Bernoulli beams",
+        "Isogeometric rotation-free bending-stabilized cables: Statics, dynamics, bending strips and coupling with shells",
+        "B-spline interpolation of Kirchhoff-Love space rods",
+        "Nonlinear isogeometric spatial Bernoulli beam",
+        "Linear static isogeometric analysis of an arbitrarily curved spatial Bernoulli\u2013Euler beam",
+        "Weak coupling of nonlinear isogeometric spatial Bernoulli beams",
+        "Geometrically nonlinear multi-patch isogeometric analysis of spatial Euler\u2013Bernoulli beam structures",
+        "B-spline finite element approach for the analysis of thin-walled beam structures based on 1d refined theories using carrera unified formulation",
+        "Isogeometric analysis of 3D straight beam-type structures by carrera unified formulation",
+        "Analysis of metallic and functionally graded beams using isogeometric approach and carrera unified formulation",
+        "Isogeometric buckling analysis of orthotropic thin-walled laminated beams using the carrera unified formulation",
+        "Equivalence of finite elements for nearly incompressible elasticity",
+        "Generalization of selective integration procedures to anisotropic and nonlinear media",
+        "Locking and hourglass phenomena in an element-free galerkin context: The b-bar method with stabilization and an enhanced strain method",
+        "Reduced integration technique in general analysis of plates and shells",
+        "Mixed finite element methods \u2014 reduced and selective integration techniques: A unification of concepts",
+        "Membrane locking and reduced integration for curved elements",
+        "B\u0304 and \u0305F projection methods for nearly incompressible linear and non-linear elasticity and plasticity using higher-order NURBS elements",
+        "Efficient isogeometric NURBS-based solid-shell elements: Mixed formulation and B\u0304-method",
+        "Isogeometric analysis of thin Reissner\u2013Mindlin shells: Locking phenomena and b-bar method",
+        "B\u00e9zier B\u0304 projection",
+        "On the locking free isogeometric formulations for 3-D curved Timoshenko beams",
+        "Efficient quadrature for NURBS-based isogeometric analysis",
+        "A simple algorithm for obtaining nearly optimal quadrature rules for NURBS-based isogeometric analysis",
+        "Improved numerical integration for locking treatment in isogeometric structural elements. Part II: Plates and shells",
+        "An isogeometric implicit g1 mixed finite element for Kirchhoff space rods",
+        "An efficient blended mixed B-spline formulation for removing membrane locking in plane curved Kirchhoff rods",
+        "A simple and efficient finite element for plate bending",
+        "Reduced integration and the shear-flexible beam element",
+        "Numerical results from large deflection beam and frame problems analysed by means of elliptic integrals",
+        "Instability of clamped-hinged circular arches subjected to a point load"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Da Nang",
+            "@id": "60111656",
+            "affilname": "Duy Tan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60111656",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011220",
+            "affilname": "Sirindhorn International Institute of Technology, Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011220",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Chulalongkorn University"
+    ]
+}

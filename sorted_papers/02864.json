@@ -1,0 +1,99 @@
+{
+    "eid": "2-s2.0-85133926641",
+    "title": "Evaluation of the Varian TrueBeam\u2122 6 MV phase-space files for the Monte Carlo simulation in small field dosimetry",
+    "cover-date": "2022-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Health Professions (miscellaneous)",
+            "@code": "3601",
+            "@abbrev": "HEAL"
+        },
+        {
+            "@_fa": "true",
+            "$": "Occupational Therapy",
+            "@code": "3609",
+            "@abbrev": "HEAL"
+        },
+        {
+            "@_fa": "true",
+            "$": "Medical Laboratory Technology",
+            "@code": "3607",
+            "@abbrev": "HEAL"
+        },
+        {
+            "@_fa": "true",
+            "$": "Health Information Management",
+            "@code": "3605",
+            "@abbrev": "HEAL"
+        }
+    ],
+    "keywords": [
+        "Monte Carlo simulation",
+        "phase-space file",
+        "Small field"
+    ],
+    "authors": [
+        "Mananchaya Vimolnoch",
+        "Isra Israngkul Na Ayuthaya",
+        "Sakda Kingkaew",
+        "Sornjarod Oonsiri"
+    ],
+    "citedby-count": 0,
+    "ref-count": 38,
+    "ref-list": [
+        "Report of the AAPM Task Group No. 105: Issues associated with clinical implementation of Monte Carlo-based photon and electron external beam treatment planning",
+        "Output correction factors for nine small field detectors in 6 MV radiation therapy photon beams: a PENELOPE Monte Carlo study",
+        "Calculation of k(Q(clin),Q(msr)) (f(clin),f(msr)) for several small detectors and for two linear accelerators using Monte Carlo simulations",
+        "Experimental small field 6MV output ratio analysis for various diode detector and accelerator combi-nations",
+        "Modeling the truebeam linac using a CAD to Geant4 geometry implementation: dose and IAEA-compliant phase space calculations",
+        "Monte Carlo simulation of TrueBeam flattening-filter-free beams using Varian phase-space files: Comparison with experimental data",
+        "A Monte Carlo approach to validation of FFF VMAT treatment plans for the TrueBeam linac",
+        "Monte Carlo modeling of HD120 multileaf collimator on Varian TrueBeam linear accelerator for verification of 6X and 6X FFF VMAT SABR treatment plans",
+        "Deriving detector-specific correction factors for rectangular small fields using a scintillator detector",
+        "Monte Carlo simulation of beam characteristics from small fields based on TrueBeam flattening-filter-free mode",
+        "Modeling the primary source intensity distri-bution: reconstruction and inter-comparison of six Varian TrueBeam sources",
+        "BEAMnrc users manual",
+        "DOSXYZnrc users manual",
+        "Evaluation of the gamma dose distribution comparison method",
+        "Output factor comparison of Monte Carlo and measurement for Varian TrueBeam 6 MV and 10 MV flattening filter-free stereotactic radiosurgery system",
+        "Monte Carlo validation of the TrueBeam 10XFFF phase\u2013space files for applications in lung SABR",
+        "Influence of initial electron beam parameters on Monte Carlo calculated absorbed dose distributions for radiotherapy photon beams",
+        "Commissioning of the Varian TrueBeam linear accelerator: A multi-institutional study",
+        "Commissioning measurements for photon beam data on three TrueBeam linear accelerators, and comparison with Trilogy and Clinac 2100 linear accelerators",
+        "Commissioning and dosimetric characteristics of TrueBeam system: composite data of three TrueBeam machines",
+        "The impact of corrected field output factors based on IAEA/AAPM code of practice on small-field dosimetry to the calculated monitor unit in eclipse\u2122 treatment planning system",
+        "Dosimetric Characteristics of Edge Detector(TM) in Small Beam Dosimetry",
+        "A methodological approach to reporting corrected small field relative outputs",
+        "Variation of kQclin,Qmsrfclin,fmsr for the small-field dosimetric parameters percentage depth dose, tissue-maximum ratio, and off-axis ratio",
+        "On the correction, perturbation and modification of small field detectors in relative dosimetry",
+        "Dosimetry of a 6 MV flattening filter-free small photon beam using various detectors",
+        "Characterization of a microSilicon diode detector for small-field photon beam dosimetry",
+        "Report of AAPM Task Group 155: Megavoltage photon beam dosimetry in small fields and non-equilibrium conditions",
+        "Clinical use of diodes and micro-chambers to obtain accurate small field output factor measurements",
+        "Detector to detector corrections: a comprehensive experimental study of detector specific correction factors for beam output measurements for small radiotherapy beams",
+        "Can small field diode correction factors be applied universally?",
+        "Detector comparison for small field output factor measurements in flattening filter free photon beams",
+        "Evaluation of the IAEA-TRS 483 protocol for the dosimetry of small fields (square and stereotactic cones) using multiple detectors",
+        "Small-field dosimetry of TrueBeam(TM) flattened and flattening filter-free beams: A multi-institutional analysis",
+        "A novel method for the determination of field output factors and output correction factors for small static fields for six diodes and a microdiamond detector in megavoltage photon beams",
+        "Do the representative beam data for TrueBeam(\u2122) linear accelerators represent average data?"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

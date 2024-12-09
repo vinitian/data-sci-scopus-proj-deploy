@@ -1,0 +1,102 @@
+{
+    "eid": "2-s2.0-85101985511",
+    "title": "Accurate surface ultraviolet radiation forecasting for clinical applications with deep neural network",
+    "cover-date": "2021-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Multidisciplinary",
+            "@code": "1000",
+            "@abbrev": "MULT"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "R. Raksasat",
+        "P. Sri-iesaranusorn",
+        "J. Pemcharoen",
+        "P. Laiwarin",
+        "S. Buntoung",
+        "S. Janjai",
+        "E. Boontaveeyuwat",
+        "P. Asawanonda",
+        "S. Sriswasdi",
+        "E. Chuangsuwanich"
+    ],
+    "citedby-count": 3,
+    "ref-count": 49,
+    "ref-list": [
+        "Guidelines of care for the management of psoriasis and psoriatic arthritis: section 5. Guidelines of care for the treatment of psoriasis with phototherapy and photochemotherapy",
+        "Importance of phototherapy in the treatment of chronic pruritus",
+        "Safety and efficacy of phototherapy in the management of eczema",
+        "The clinical application of heliotherapy",
+        "Heliotherapy in Colorado",
+        "The Jeremiah Metzger lecture: Jeremiah Metzger and the era of heliotherapy",
+        "Heliotherapy of mycosis fungoides",
+        "Heliotherapy of psoriasis",
+        "To the history of development of heliotherapy",
+        "Climatotherapy in Japan: a pilot study",
+        "Comparison of the antipsoriatic efficacy of heliotherapy and ultraviolet B: a cross-over study",
+        "Effect of heliotherapy on skin and joint symptoms in psoriasis: a 6-month follow-up study",
+        "Heliotherapy of pityriasis licgenoides chronica",
+        "Solar ultraviolet (UV) radiation and UV doses received by patients during four-week climate therapy periods in the Canary Islands",
+        "Supervised four-week heliotherapy alleviates the long-term course of psoriasis",
+        "Perspectives of the antipsoriatic heliotherapy in Poland",
+        "Effectiveness of heliotherapy for psoriasis clearance in low and mid-latitudinal regions: a theoretical approach",
+        "Heliotherapy: a South African perspective",
+        "24 hour forecast of the surface UV for the antipsoriatic heliotherapy in Poland",
+        "An empirical model to predict the UV-index based on solar zenith angles and total ozone",
+        "Ultraviolet forecasting in Thailand",
+        "Very short-term reactive forecasting of the solar ultraviolet index using an extreme learning machine integrated with the solar zenith angle",
+        "UV index forecasts and measurements of health-effective radiation",
+        "A simple all weather model to estimate ultraviolet solar radiation (290\u2013385 nm)",
+        "Hourly day-ahead solar irradiance prediction using weather forecasts by LSTM",
+        "Wavelet decomposition and convolutional LSTM networks based improved deep learning model for solar irradiance forecasting",
+        "Testing the applicability of artificial intelligence techniques to the subject of erythemal ultraviolet solar radiation. Part two: an intelligent system based on multi-classifier technique",
+        "Artificial neural network models for estimating daily solar global UV, PAR and broadband radiant fluxes in an eastern Mediterranean site",
+        "Finding structure in time",
+        "Long short-term memory",
+        "Day-ahead solar irradiance forecasting for microgrids using a long short-term memory recurrent neural network: a deep learning approach",
+        "Forecasting hourly solar irradiance using hybrid wavelet transformation and Elman model in smart grid",
+        "An investigation of total solar ultraviolet radiation at Nakhon Pathom, Thailand",
+        "Mapping solar ultraviolet radiation from satellite data in a tropical environment",
+        "Sequence to sequence learning with neural networks",
+        "European S3-guideline on the systemic treatment of psoriasis vulgaris\u2014update Apremilast and Secukinumab\u2014EDF in cooperation with EADV and IPC",
+        "ERA5 Hourly Data on Single Levels from 1979 to Present",
+        "Action spectrum for phototherapy of psoriasis",
+        "Ultraviolet-action spectrum and evaluation of ultraviolet lamps for psoriasis healing",
+        "Show and tell: A neural image caption generator",
+        "Bidirectional recurrent neural networks",
+        "Dropout: a simple way to prevent neural networks from overfitting",
+        "Smoothing and differentiation of data by simplified least squares procedures",
+        "Quantile regression",
+        "Adam: A method for stochastic optimization"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ikoma",
+            "@id": "60025017",
+            "affilname": "Nara Institute of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025017",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60018809",
+            "affilname": "Silpakorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018809",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Royal College of Physicians of Thailand",
+        "Chulalongkorn University"
+    ]
+}

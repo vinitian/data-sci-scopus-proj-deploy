@@ -1,0 +1,116 @@
+{
+    "eid": "2-s2.0-85128185665",
+    "title": "Resistance distance distribution in large sparse random graphs",
+    "cover-date": "2022-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Statistical and Nonlinear Physics",
+            "@code": "3109",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Statistics and Probability",
+            "@code": "2613",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Statistics, Probability and Uncertainty",
+            "@code": "1804",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "random graphs, networks",
+        "random matrix theory and extensions"
+    ],
+    "authors": [
+        "Pawat Akara-Pipattana",
+        "Thiparat Chotibut",
+        "Oleg Evnin"
+    ],
+    "citedby-count": 1,
+    "ref-count": 71,
+    "ref-list": [
+        "Geodesic distance in planar graphs",
+        "Resistance distance",
+        "Resistance-distance sum rules",
+        "Resistance distance and Laplacian spectrum",
+        "Random walks and the effective resistance of networks",
+        "Random walks on graphs: a survey Combinatorics: Paul Erd\u00c5's is Eighty",
+        "Getting lost in space: large sample analysis of the resistance distance Advances in Neural Information Processing Systems vol 23 p 2622 von Luxburg U Radl A Hein M 2014 Hitting and commute times in large random neighborhood graphs",
+        "Theory of resistor networks: the two-point resistance",
+        "Pseudoinverse of the Laplacian and best spreader node in a network",
+        "The Laplacian matrix in chemistry",
+        "QSAR and QSPR molecular descriptors computed from the resistance distance and electrical conductance matrices",
+        "Resistance-distance matrix: a computational algorithm and its application",
+        "Resistance distances in fullerene graphs",
+        "Topological descriptors in drug design and modeling studies",
+        "Statistical methods in spatial genetics",
+        "Resistance distance-based graph invariants of subdivisions and triangulations of graphs",
+        "The degree resistance distance of cacti",
+        "On degree resistance distance of cacti",
+        "The link prediction problem for social networks",
+        "Learning from labeled and unlabeled data using random walks DAGM'2004",
+        "The principal components analysis of a graph, and its relationships to spectral clustering",
+        "Clustering using a random walk based distance measure",
+        "Prediction on a graph with a perceptron NIPS'",
+        "On the cover time and mixing time of random geometric graphs",
+        "Graph 2008 sparsification by effective resistances",
+        "family of dissimilarity measures between nodes generalizing both the shortest-path and the commute-time distances",
+        "Fast and optimal prediction on a labeled tree COLT'2009",
+        "Reconstruction of graphs based on random walks",
+        "The cover time of random geometric graphs",
+        "Metrics for graph comparison: a practitioner's guide",
+        "Damage and fluctuations induce loops in optimal transport networks",
+        "Random trees and random graphs",
+        "Distribution of diameters for Erd\u00c5's-R\u00e9nyi random graphs",
+        "Analytical results for the distribution of shortest path lengths in random networks",
+        "Distance distribution in configuration model networks",
+        "The distribution of shortest path lengths in subcritical Erd\u00c5's-R\u00e9nyi networks",
+        "Concentration of the Kirchhoff index for Erd\u00c5's-R\u00e9nyi graphs",
+        "Random walk hitting times and effective resistance in sparsely connected Erd\u00c5's-R\u00e9nyi random graphs",
+        "Phase transition in the family of p-resistances",
+        "Submean variance bound for effective resistance of random electric networks",
+        "Minimizing effective resistance of a graph",
+        "Quantum field theory in the large N limit: a review",
+        "Solution of the two-star model of a network",
+        "Finite size correction to the spectrum of regular random graphs: an analytical solution",
+        "The two-star model: exact solution in the sparse regime and condensation transition",
+        "Analytic solution of the two-star model with correlated degrees",
+        "Random incidence matrices: moments of the spectral density",
+        "Universality of level correlation function of sparse random matrices",
+        "Spectra of Euclidean random matrices",
+        "Fluctuation spectra of large random dynamical systems reveal hidden structure in ecological networks",
+        "Asymptotic enumeration of spanning trees",
+        "Growth of the number of spanning trees of the Erd\u00c5's-R\u00e9nyi giant component",
+        "Complexity of random energy landscapes, glass transition, and absolute value of the spectral determinant of random matrices",
+        "On random matrix averages involving half-integer powers of GOE characteristic polynomials",
+        "On the Lambert W function",
+        "The overlapping coefficient as a measure of agreement between probability distributions and point estimation of the overlap of two normal densities",
+        "Heterogeneous micro-structure of percolation in sparse networks"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Brussels",
+            "@id": "60026810",
+            "affilname": "Vrije Universiteit Brussel",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026810",
+            "affiliation-country": "Belgium"
+        }
+    ],
+    "funding": [
+        "Program Management Unit for Human Resources and Institutional Development, Research and Innovation",
+        "Thailand Science Research and Innovation Fund Chulalongkorn University",
+        "Chulalongkorn University"
+    ]
+}

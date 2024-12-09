@@ -1,0 +1,76 @@
+{
+    "eid": "2-s2.0-85112796263",
+    "title": "ACOPF with SOCP hierarchy for power loss minimization",
+    "cover-date": "2021-05-19",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "AC optimal power flow",
+        "Power loss minimization",
+        "Second-order cone programming",
+        "Sum of squares (SOS)"
+    ],
+    "authors": [
+        "Akira Chuppawa",
+        "Sotdhipong Phichaisawat",
+        "Patchrapa Wongchai"
+    ],
+    "citedby-count": 0,
+    "ref-count": 10,
+    "ref-list": [
+        "A new attempt to optimize optimal power flow based transmission losses using genetic algorithm",
+        "Dsos and sdsos optimization: Lp and socp-based alternatives to sum of squares optimization",
+        "Alternative sdp and socp approximations for polynomial optimization",
+        "Alternative lp and socp hierarchies for acopf problems",
+        "Zero duality gap in optimal power flow problem",
+        "Socp relaxations of optimal power flow problem considering current margins in radial networks",
+        "Optimal control for polynomial systems using matrix sum of squares relaxations",
+        "Global optimization with polynomials and the problem of moments",
+        "Second-order cone relaxations for binary quadratic polynomial programs",
+        "The IEEE reliability test system-1996"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

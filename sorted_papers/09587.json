@@ -1,0 +1,109 @@
+{
+    "eid": "2-s2.0-85038030583",
+    "title": "Computational screening of fatty acid synthase inhibitors against thioesterase domain",
+    "cover-date": "2018-11-18",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Structural Biology",
+            "@code": "1315",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [
+        "fatty acid synthase inhibitor",
+        "molecular docking",
+        "molecular dynamics simulations",
+        "rosmarinic acid",
+        "thioesterase domain"
+    ],
+    "authors": [
+        "Wanwisa Panman",
+        "Bodee Nutho",
+        "Supakarn Chamni",
+        "Supaporn Dokmaisrijan",
+        "Nawee Kungwan",
+        "Thanyada Rungrotmongkol"
+    ],
+    "citedby-count": 15,
+    "ref-count": 44,
+    "ref-list": [
+        "Rattle: A \u201cvelocity\u201d version of the shake algorithm for molecular dynamics calculations",
+        "The Amber biomolecular simulation programs",
+        "Human fatty acid synthase: Structure and substrate selectivity of the thioesterase domain",
+        "Molecular docking study of the interactions between the thioesterase domain of human fatty acid synthase and its ligands",
+        "Chemical inhibition of fatty acid synthase: Molecular docking analysis and biochemical validation in ocular cancer cells",
+        "A point-charge force field for molecular mechanics simulations of proteins based on condensed-phase quantum mechanical calculations",
+        "Repositioning proton pump inhibitors as anticancer drugs by targeting the thioesterase domain of human fatty acid synthase",
+        "Fatty acid synthase as a potential therapeutic target in cancer",
+        "Functional characterization of the unique terminal thioesterase domain from polymyxin synthetase",
+        "An MM/3D-RISM approach for ligand binding affinities",
+        "Assessing the performance of the MM/PBSA and MM/GBSA methods: I. The accuracy of binding free energy calculations based on molecular dynamics simulations",
+        "Susceptibility of inhibitors against 3C protease of coxsackievirus A16 and enterovirus A71 causing hand, foot and mouth disease: A molecular dynamics study",
+        "In silico structure prediction of human fatty acid synthase\u2013dehydratase: A plausible model for understanding active site interactions",
+        "Comparative docking of dual conformations in human fatty acid synthase thioesterase domain reveals potential binding cavity for virtual screening of ligands",
+        "Effect of halogen substitutions on dUMP to stability of thymidylate synthase/dUMP/mTHF ternary complex using molecular dynamics simulation",
+        "Docking and scoring in virtual screening for drug discovery: Methods and applications",
+        "Orlistat is a novel inhibitor of fatty acid synthase with antitumor activity",
+        "Fatty-acid synthase and human cancer: New perspectives on its role in tumor biology",
+        "Fatty acid synthase and cancer: New application of an old pathway",
+        "Anti-cancer properties of terpenoids isolated from Rhizoma Curcumae\u2013A review",
+        "The crystal structure of a mammalian fatty acid synthase",
+        "Peptides from purified soybean \u03b2-conglycinin inhibit fatty acid synthase by interaction with the thioesterase catalytic domain",
+        "Combined molecular mechanical and continuum solvent approach (MM-PBSA/GBSA) to predict ligand binding",
+        "Potentials of mean force between ionizable amino acid side chains in water",
+        "Key binding and susceptibility of NS3/4A serine protease inhibitors against hepatitis C virus",
+        "MMPBSA.py: An efficient program for end-state free energy calculations",
+        "Binding mode and free energy prediction of fisetin/\u03b2-cyclodextrin inclusion complexes",
+        "Screening of hepatitis C NS5B polymerase inhibitors containing benzothiadiazine core: A steered molecular dynamics",
+        "In silico investigation of lavandulyl flavonoids for the development of potent fatty acid synthase-inhibitory prototypes",
+        "A 3D-RISM/RISM study of the oseltamivir binding efficiency with the wild-type and resistance-associated mutant forms of the viral influenza B neuraminidase",
+        "Terpenoids and breast cancer chemoprevention",
+        "Flavonoids as prospective compounds for anti-cancer therapy",
+        "Novel antagonists of the thioesterase domain of human fatty acid synthase",
+        "Crystal structure and substrate specificity of human thioesterase 2: Insights into the molecular basis for the modulation of fatty acid synthase",
+        "Graphical analysis of pH-dependent properties of proteins predicted using PROPKA",
+        "Numerical integration of the cartesian equations of motion of a system with constraints: Molecular dynamics of n-alkanes",
+        "ZINC 15\u2013ligand discovery for everyone",
+        "Ewald summation techniques in perspective: A survey",
+        "Fatty acid synthase, a proficient multifunctional enzyme",
+        "Development and testing of a general amber force field",
+        "Detailed analysis of grid-based molecular docking: A case study of CDOCKER\u2013A CHARMm-based MD docking algorithm",
+        "Inhibitory effects of rosemary extracts, carnosic acid and rosmarinic acid on the growth of various human cancer cell lines",
+        "Crystal structure of FAS thioesterase domain with polyunsaturated fatty acyl adduct and inhibition by dihomo-\u03b3-linolenic acid"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chaing Mai",
+            "@id": "60000881",
+            "affilname": "Chiang Mai University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000881",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tha Sala",
+            "@id": "60026526",
+            "affilname": "Walailak University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026526",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Northern Resources, Chiang Mai University",
+        "Chulalongkorn University",
+        "National Research Council of Thailand"
+    ]
+}

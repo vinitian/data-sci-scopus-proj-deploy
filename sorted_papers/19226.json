@@ -1,0 +1,85 @@
+{
+    "eid": "2-s2.0-85130131100",
+    "title": "Analytically Pricing Formula for Contingent Claim with Polynomial Payoff under ECIR Process",
+    "cover-date": "2022-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Chemistry (miscellaneous)",
+            "@code": "1601",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mathematics (all)",
+            "@code": "2600",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Physics and Astronomy (miscellaneous)",
+            "@code": "3101",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "closed-form formula",
+        "conditional expectation",
+        "contingent claim",
+        "ECIR process"
+    ],
+    "authors": [
+        "Fukiat Nualsri",
+        "Khamron Mekchay"
+    ],
+    "citedby-count": 3,
+    "ref-count": 36,
+    "ref-list": [
+        "A dynamic programming approach for pricing options embedded in bonds",
+        "The 4/2 stochastic volatility model: A unified approach for the Heston and the 3/2 model",
+        "Arbitrage and asymmetric information",
+        "Pricing interest-rate-derivative securities",
+        "Transform analysis and asset pricing for affine jump-diffusions",
+        "Pricing geometric Asian rainbow options under the mixed fractional Brownian motion",
+        "A general version of the fundamental theorem of asset pricing",
+        "The finite element method: A high-performing approach for computing the probability of ruin and solving other ruin-related problems",
+        "Valuation of credit contingent interest rate swap with credit rating migration",
+        "Transient dynamics of Pearson diffusions facilitates estimation of rate parameters",
+        "Two singular diffusion problems",
+        "An intertemporal general equilibrium model of asset prices",
+        "Back to the future: Generating moment implications for continuous-time Markov processes",
+        "Solution of the extended CIR term structure and bond option valuation",
+        "Maximum likelihood estimation of time-inhomogeneous diffusions",
+        "A closed-form formula for the conditional moments of the extended CIR process",
+        "Explicit Formula for Conditional Expectations of Product of Polynomial and Exponential Function of Affine Transform of Extended Cox-Ingersoll-Ross Process",
+        "Interest rate swaps under CIR",
+        "A cyclical square-root model for the term structure of interest rates",
+        "Algebraic methods to compute Mathieu functions",
+        "An analytical formula for pricing interest rate swaps in terms of bond prices under the extended Cox-Ingersoll-Ross model",
+        "High-order approximation of Pearson diffusion processes",
+        "Analytical formulas for pricing discretely-sampled skewness and kurtosis swaps based on Schwartz\u2019s one-factor model",
+        "Analytical formula for conditional expectations of path-dependent product of polynomial and exponential functions of extended Cox\u2013Ingersoll\u2013Ross process",
+        "Closed-form formulas for conditional moments of inhomogeneous Pearson diffusion processes",
+        "A Novel Analytical Formula for the Discounted Moments of the ECIR Process and Interest Rate Swaps Pricing",
+        "Connection between the Hadamard and matrix products with an application to matrix-variate Birnbaum-Saunders distributions",
+        "Modified finite integration method using Chebyshev polynomial for solving linear differential equations",
+        "Convergence of Monte Carlo simulations involving the mean-reverting square root process"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Development and Promotion of Science and Technology Talents",
+        "IPST"
+    ]
+}

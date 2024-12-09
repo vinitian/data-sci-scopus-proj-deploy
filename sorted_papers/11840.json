@@ -1,0 +1,333 @@
+{
+    "eid": "2-s2.0-85138329943",
+    "title": "Shorter versus longer corticosteroid duration and recurrent immune checkpoint inhibitor-Associated AKI",
+    "cover-date": "2022-09-22",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Immunology and Allergy",
+            "@code": "2723",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Immunology",
+            "@code": "2403",
+            "@abbrev": "IMMU"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Medicine",
+            "@code": "1313",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Oncology",
+            "@code": "2730",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Pharmacology",
+            "@code": "3004",
+            "@abbrev": "PHAR"
+        },
+        {
+            "@_fa": "true",
+            "$": "Cancer Research",
+            "@code": "1306",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [
+        "Immunotherapy"
+    ],
+    "authors": [
+        "Shruti Gupta",
+        "Clara Garcia-Carro",
+        "Jason M. Prosek",
+        "Ilya Glezerman",
+        "Sandra M. Herrmann",
+        "Pablo Garcia",
+        "Ala Abudayyeh",
+        "Nuttha Lumlertgul",
+        "A. Bilal Malik",
+        "Sebastian Loew",
+        "Pazit Beckerman",
+        "Amanda D. Renaghan",
+        "Christopher A. Carlos",
+        "Arash Rashidi",
+        "Zain Mithani",
+        "Priya Deshpande",
+        "Sunil Rangarajan",
+        "Chintan V. Shah",
+        "Sophie De Seigneux",
+        "Luca Campedel",
+        "Abhijat Kitchlu",
+        "Daniel Sanghoon Shin",
+        "Gaia Coppock",
+        "David I. Ortiz-Melo",
+        "Ben Sprangers",
+        "Vikram Aggarwal",
+        "Karolina Benesova",
+        "Rimda Wanchoo",
+        "Naoka Murakami",
+        "Frank B. Cortazar",
+        "Kerry L. Reynolds",
+        "Meghan E. Sise",
+        "Maria Jose Soler",
+        "David E. Leaf"
+    ],
+    "citedby-count": 6,
+    "ref-count": 13,
+    "ref-list": [
+        "Clinicopathological features of acute kidney injury associated with immune checkpoint inhibitors",
+        "The incidence, causes, and risk factors of acute kidney injury in patients receiving immune checkpoint inhibitors",
+        "Acute kidney injury in patients treated with immune checkpoint inhibitors",
+        "Low dose long-Term corticosteroid therapy in rheumatoid arthritis: An analysis of serious adverse events",
+        "The spectrum of serious infections among patients receiving immune checkpoint blockade for the treatment of melanoma",
+        "Kidney disease: Improving global outcomes (KDIGO) acute kidney injury work group. KDIGO clinical practice guideline for acute kidney injury",
+        "Management of immunotherapy-related toxicities, version 1 2019",
+        "Rapid corticosteroid taper versus standard of care for immune checkpoint inhibitor induced nephritis: A single-center retrospective cohort study",
+        "Analysis of the association between adverse events and outcome in patients receiving a programmed death protein 1 or programmed death ligand . antibody",
+        "Multisystem immune-related adverse events associated with immune checkpoint inhibitors for treatment of non-small cell lung cancer",
+        "Impact of baseline steroids on efficacy of programmed cell death-1 and programmed Death-Ligand . blockade in patients with non-small-cell lung cancer",
+        "High-dose glucocorticoids for the treatment of ipilimumab-induced hypophysitis is associated with reduced survival in patients with melanoma",
+        "A new equation to estimate glomerular filtration rate"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Boston",
+            "@id": "60029929",
+            "affilname": "Massachusetts General Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029929",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Leuven",
+            "@id": "60121207",
+            "affilname": "Departement Microbiologie, Immunologie en Transplantatie",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60121207",
+            "affiliation-country": "Belgium"
+        },
+        {
+            "affiliation-city": "Barcelona",
+            "@id": "60108505",
+            "affilname": "Vall d'Hebron Institut de Recerca",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60108505",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Hempstead",
+            "@id": "60107658",
+            "affilname": "Donald and Barbara Zucker School of Medicine at Hofstra/Northwell",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60107658",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Stanford",
+            "@id": "60032838",
+            "affilname": "Stanford University School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032838",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Madrid",
+            "@id": "60032461",
+            "affilname": "Hospital Cl\u00ednico San Carlos",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032461",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "San Francisco",
+            "@id": "60031970",
+            "affilname": "UCSF School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031970",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Leuven",
+            "@id": "60031069",
+            "affilname": "KU Leuven\u2013 University Hospital Leuven",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031069",
+            "affiliation-country": "Belgium"
+        },
+        {
+            "affiliation-city": "Charlottesville",
+            "@id": "60029418",
+            "affilname": "University of Virginia Health System",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029418",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Birmingham",
+            "@id": "60029230",
+            "affilname": "University of Alabama at Birmingham School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029230",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Berlin",
+            "@id": "60026245",
+            "affilname": "Charit\u00e9 \u2013 Universit\u00e4tsmedizin Berlin",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026245",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Cleveland",
+            "@id": "60021578",
+            "affilname": "University Hospitals Case Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021578",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Miami",
+            "@id": "60021519",
+            "affilname": "University of Miami Leonard M. Miller School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021519",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60016782",
+            "affilname": "Brigham and Women's Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016782",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Paris",
+            "@id": "60015622",
+            "affilname": "H\u00f4pital Universitaire Piti\u00e9 Salp\u00eatri\u00e8re",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015622",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Seattle",
+            "@id": "60015481",
+            "affilname": "University of Washington",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015481",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Columbus",
+            "@id": "60015140",
+            "affilname": "The Ohio State University Wexner Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015140",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Houston",
+            "@id": "60015023",
+            "affilname": "The University of Texas MD Anderson Cancer Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015023",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Toronto",
+            "@id": "60014468",
+            "affilname": "University Health Network University of Toronto",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014468",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Chicago",
+            "@id": "60013227",
+            "affilname": "Northwestern University Feinberg School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013227",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60012981",
+            "affilname": "Icahn School of Medicine at Mount Sinai",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012981",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Geneva",
+            "@id": "60009963",
+            "affilname": "H\u00f4pitaux Universitaires de Gen\u00e8ve",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009963",
+            "affiliation-country": "Switzerland"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60009343",
+            "affilname": "Memorial Sloan-Kettering Cancer Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009343",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Gainesville",
+            "@id": "60007567",
+            "affilname": "University of Florida College of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007567",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Tel Aviv-Yafo",
+            "@id": "60005681",
+            "affilname": "Tel Aviv University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005681",
+            "affiliation-country": "Israel"
+        },
+        {
+            "affiliation-city": "Rochester",
+            "@id": "60005558",
+            "affilname": "Mayo Clinic",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005558",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60005518",
+            "affilname": "Guy's and St Thomas' NHS Foundation Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005518",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Los Angeles",
+            "@id": "60005247",
+            "affilname": "David Geffen School of Medicine at UCLA",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005247",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Durham",
+            "@id": "60005200",
+            "affilname": "Duke University School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005200",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Philadelphia",
+            "@id": "60003711",
+            "affilname": "University of Pennsylvania Perelman School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003711",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Heidelberg",
+            "@id": "60003280",
+            "affilname": "Universit\u00e4tsklinikum Heidelberg",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003280",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Albany",
+            "@id": "123822326",
+            "affilname": "New York Nephrology Vasculitis and Glomerular Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/123822326",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": []
+}

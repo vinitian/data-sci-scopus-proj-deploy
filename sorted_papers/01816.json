@@ -1,0 +1,62 @@
+{
+    "eid": "2-s2.0-85054789153",
+    "title": "Knowledge Sharing in Cooperative Compact Genetic Algorithm",
+    "cover-date": "2018-09-11",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "compact genetic algorithms",
+        "parallel genetic algorithm",
+        "parallelization of the evolutionary algorithm"
+    ],
+    "authors": [
+        "Orakanya Gateratanakul",
+        "Prabhas Chongstitvatana"
+    ],
+    "citedby-count": 0,
+    "ref-count": 13,
+    "ref-list": [
+        "The compact genetic algorithm",
+        "A comparative study of five parallel genetic algorithms using the traveling salesman problem",
+        "Parallel genetic algorithm taxonomy",
+        "Genetic algorithms on lan-message passing architectures using pvm: Application to the routing problem",
+        "A hybrid heuristic for the traveling salesman problem",
+        "An architecture for massive parallelization of the compact genetic algorithm",
+        "A survey of optimization by building and using probabilistic models",
+        "Simple genetic algorithm and the minimal deceptive problem",
+        "A method for solving traveling salesman problems",
+        "Understanding tsp difficulty by learning from evolved instances"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

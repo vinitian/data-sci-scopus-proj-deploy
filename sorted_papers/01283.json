@@ -1,0 +1,98 @@
+{
+    "eid": "2-s2.0-85119612432",
+    "title": "Video anomaly detection using deep residual-spatiotemporal translation network",
+    "cover-date": "2022-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Anomaly detection",
+        "Generative adversarial network",
+        "Hard negative mining",
+        "Residual unit",
+        "Surveillance video"
+    ],
+    "authors": [
+        "Thittaporn Ganokratanaa",
+        "Supavadee Aramvith",
+        "Nicu Sebe"
+    ],
+    "citedby-count": 10,
+    "ref-count": 34,
+    "ref-list": [
+        "Fast temporal video segmentation based on Krawtchouk-Tchebichef moments",
+        "Video anomaly detection and localization using hierarchical feature representation and gaussian process regression",
+        "Sparse reconstruction cost for abnormal event detection",
+        "Toward abnormal trajectory and event detection in video surveillance",
+        "Video anomaly detection and localization via gaussian mixture fully convolutional variational autoencoder",
+        "Unsupervised anomaly detection and localization based on deep spatiotemporal translation network",
+        "Generative adversarial nets",
+        "Deep residual learning for image recognition",
+        "Batch normalization: accelerating deep network training by reducing internal covariate shift",
+        "Image-to-image translation with conditional adversarial networks",
+        "Unsupervised hard example mining from videos for improved object detection",
+        "Anomaly detection and localization in crowded scenes",
+        "Microsoft COCO: common objects in context",
+        "Future frame prediction for anomaly detection\u2014a new baseline",
+        "Fully convolutional networks for semantic segmentation",
+        "Abnormal event detection at 150 FPS in MATLAB",
+        "Anomaly detection in crowded scenes",
+        "Abnormal crowd behavior detection using social force model",
+        "PyTorch: an imperative style, high-performance deep learning library",
+        "Abnormal event detection in surveillance videos using two-stream decoder",
+        "Unsupervised representation learning with deep convolutional generative adversarial networks",
+        "Learning a distance function with a siamese network to localize anomalies in videos",
+        "Abnormal event detection in videos using generative adversarial nets",
+        "Training adversarial discriminators for cross-channel abnormal event detection in crowds",
+        "U-Net: convolutional networks for biomedical image segmentation",
+        "Deep-anomaly: fully convolutional neural network for fast anomaly detection in crowded scenes",
+        "Crowd anomaly detection using aggregation of ensembles of fine-tuned convnets",
+        "Integrating prediction and reconstruction for anomaly detection",
+        "Image quality assessment: from error visibility to structural similarity",
+        "Detecting anomalous events in videos by learning deep representations of appearance and motion",
+        "Statistical hypothesis detector for abnormal event detection in crowded scenes",
+        "AnomalyNet: an anomaly detection network for video surveillance"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Trento",
+            "@id": "60015986",
+            "affilname": "Universit\u00e0 di Trento",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015986",
+            "affiliation-country": "Italy"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

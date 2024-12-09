@@ -1,0 +1,95 @@
+{
+    "eid": "2-s2.0-85132404687",
+    "title": "An Exploration into Color Reproduction for Inkjet FDM Color 3D Printing",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Graphics and Computer-Aided Design",
+            "@code": "1704",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Piyarat Silapasuphakornwong",
+        "Chulapong Panichkriangkrai",
+        "Parinya Punpongsanon",
+        "Masahiro Suzuki",
+        "Kazutake Uehira"
+    ],
+    "citedby-count": 0,
+    "ref-count": 9,
+    "ref-list": [
+        "Pushing the limits of 3d color printing: Error diffusion with translucent materials",
+        "Domain learning naming game for color categorization",
+        "The development of a 3d colour reproduction system of digital impressions with an intraoral scanner and a 3d printer: a preliminary study",
+        "SoftPrint: Investigating haptic softness perception of 3d printed soft object in FDM 3d printers",
+        "Color Reproduction Framework for Inkjet FDM 3D Printers",
+        "Colored fused filament fabrication",
+        "Programmable filament: Printed filaments for multi-material 3d printing",
+        "Quality control issues in 3d-printing manufacturing: a review",
+        "Accurate and computational: A review of color reproduction in full-color 3d printing"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Hikone",
+            "@id": "60189898",
+            "affilname": "Seisen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60189898",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Suita",
+            "@id": "60024322",
+            "affilname": "Osaka University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024322",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Atsugi",
+            "@id": "60001409",
+            "affilname": "Kanagawa Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001409",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,86 @@
+{
+    "eid": "2-s2.0-85082016469",
+    "title": "Generating Realistic Users Using Generative Adversarial Network with Recommendation-Based Embedding",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "data generation",
+        "deep learning",
+        "Generative adversarial networks",
+        "generative model",
+        "Gumbel-softmax trick",
+        "product embedding"
+    ],
+    "authors": [
+        "Parichat Chonwiharnphan",
+        "Pipop Thienprapasith",
+        "Ekapol Chuangsuwanich"
+    ],
+    "citedby-count": 9,
+    "ref-count": 30,
+    "ref-list": [
+        "Using association rules to assess purchase probability in online stores",
+        "Frequent sequence mining in Web log data",
+        "A user clustering algorithm on Web usage mining",
+        "Session-based recommendations using item embedding",
+        "Autoencoders, unsupervised learning, and deep architectures",
+        "Auto-encoding variational Bayes",
+        "Learning structured output representation using deep conditional generative models",
+        "Generation meets recommendation: Proposing novel items for groups of users",
+        "Generative adversarial nets",
+        "InfoGAN: Interpretable representation learning by information maximizing generative adversarial nets",
+        "Wasserstein generative adversarial networks",
+        "Improved training of Wasserstein GANs",
+        "Unpaired image-to-image translation using cycle-consistent adversarial networks",
+        "Generativeimage inpainting with contextual attention",
+        "Context encoders: Feature learning by inpainting",
+        "Autoencoding beyond pixels using a learned similarity metric",
+        "CVAE-GAN: Fine-grained image generation through asymmetric training",
+        "Crossing nets: Dual generative models with a shared latent space for hand pose estimation",
+        "The concrete distribution: A continuous relaxation of discrete random variables",
+        "A? sampling",
+        "SeqGAN: Sequence generative adversarial nets with policy gradient",
+        "Efficient estimation of word representations in vector space",
+        "ITEM2VEC: Neural item embedding for collaborative filtering",
+        "Embedding-based news recommendation for millions of users"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "123178583",
+            "affilname": "Home Dot Tech. Co. Ltd.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/123178583",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Joint Research Collaboration between Home Dot Tech Company, Ltd.",
+        "Chulalongkorn University"
+    ]
+}

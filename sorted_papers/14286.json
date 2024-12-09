@@ -1,0 +1,117 @@
+{
+    "eid": "2-s2.0-85138493748",
+    "title": "Influence of head positioning during cone-beam CT imaging on the accuracy of virtual 3D models",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Otorhinolaryngology",
+            "@code": "2733",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Dentistry (all)",
+            "@code": "3500",
+            "@abbrev": "DENT"
+        }
+    ],
+    "keywords": [
+        "Cone-Beam Computed Tomography",
+        "Dimensional Measurement Accuracy",
+        "Orbit",
+        "Printing",
+        "Three-Dimensional"
+    ],
+    "authors": [
+        "Maureen van Eijnatten",
+        "Jan Wolff",
+        "Ruben Pauwels",
+        "Kalle Karhu",
+        "Ari Hietanen",
+        "Henry der Sarkissian",
+        "Juha H. Koivisto"
+    ],
+    "citedby-count": 1,
+    "ref-count": 31,
+    "ref-list": [
+        "Medical applications for 3D printing: current and projected uses",
+        "3D printing based on imaging data: review of medical applications",
+        "Rapid prototyped patient specific implants for reconstruction of orbital wall defects",
+        "Computer-aided orbital wall defects treatment by individual design ultrahigh molecular weight polyethylene implants",
+        "Patient specific implants (PSI) in reconstruction of orbital floor and wall fractures",
+        "Medical 3D printing for the radiologist",
+        "Sensitivity analysis of geometric errors in additive manufacturing medical models",
+        "Influence of CT parameters on STL model accuracy",
+        "A comparative evaluation of cone beam computed tomography (CBCT) and multi-slice CT (MSCT). part II: on 3D model accuracy",
+        "Effective dose range for dental cone beam computed tomography scanners",
+        "Scatter-to-primary ratio in dentomaxillofacial cone-beam CT: effect of field of view and beam energy",
+        "Properties of the prototype 256-row (cone beam) CT scanner",
+        "The impact of manual threshold selection in medical additive manufacturing",
+        "Influence of head position on the CBCT accuracy in assessment of the proximity of the root apices to the inferior alveolar canal",
+        "Impact of prone, supine and oblique patient positioning on CBCT image quality, contrast-to-noise ratio and figure of merit value in the maxillofacial region",
+        "Influence of patient position and other inherent factors on image quality in two different cone beam computed tomography (CBCT) devices",
+        "World medical association declaration of helsinki: ethical principles for medical research involving human subjects",
+        "COMPARATIVE geometrical accuracy investigations of hand-held 3D scanning systems \u2013 an update",
+        "An inversion formula for cone-beam reconstruction",
+        "Artefacts in CBCT: a review",
+        "Flat-detector computed tomography (FD-CT)",
+        "An error-reduction-based algorithm for cone-beam computed tomography",
+        "A practical cone beam artifact correction algorithm",
+        "Practical cone-beam algorithm",
+        "Technical aspects of dental CBCT: state of the art",
+        "Validation of phalanx bone three-dimensional surface segmentation from computed tomography images using laser scanning",
+        "Deep Learning for Multi-task Medical Image Segmentation in Multiple Modalities",
+        "A survey on deep learning in medical image analysis",
+        "Initial vascularization and tissue differentiation are influenced by fixation stability"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Aarhus",
+            "@id": "60029616",
+            "affilname": "Aarhus Universitet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029616",
+            "affiliation-country": "Denmark"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Amsterdam",
+            "@id": "60011575",
+            "affilname": "Centrum Wiskunde &amp; Informatica",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011575",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Helsinki",
+            "@id": "60002952",
+            "affilname": "Helsingin Yliopisto",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002952",
+            "affiliation-country": "Finland"
+        },
+        {
+            "affiliation-city": "Amsterdam",
+            "@id": "60001997",
+            "affilname": "Amsterdam UMC - Vrije Universiteit Amsterdam",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001997",
+            "affiliation-country": "Netherlands"
+        }
+    ],
+    "funding": [
+        "AIAS-COFUND",
+        "Marie Sk\u0142odowska-Curie",
+        "Aarhus University Research Foundation",
+        "European Union Horizon 2020 Research and Innovation Programme"
+    ]
+}

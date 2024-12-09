@@ -1,0 +1,98 @@
+{
+    "eid": "2-s2.0-84890341187",
+    "title": "Mass-conserving eulerian liquid simulation",
+    "cover-date": "2014-01-01",
+    "subject-areas": [
+        {
+            "$": "Signal Processing",
+            "@code": "1711"
+        },
+        {
+            "$": "Computer Graphics and Computer-Aided Design",
+            "@code": "1704"
+        },
+        {
+            "$": "Software",
+            "@code": "1712"
+        },
+        {
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707"
+        }
+    ],
+    "keywords": [
+        "density sharpening",
+        "fluid simulation",
+        "Mass conservation",
+        "physics-based animation"
+    ],
+    "authors": [
+        "Nuttapong Chentanez"
+    ],
+    "citedby-count": 8,
+    "ref-count": 49,
+    "ref-list": [
+        "Liquid simulation with mesh-based surface tracking",
+        "Practical animation of liquids",
+        "Animation and rendering of complex water surfaces",
+        "A semi-lagrangian contouring method for fluid simulation",
+        "A variational approach to Eulerian geometry processing",
+        "Mass and momentum conservation for fluid simulation",
+        "Realistic animation of liquids",
+        "Stable fluids",
+        "Detail-preserving fully-Eulerian interface tracking framework",
+        "Animating sand as a fluid",
+        "Adaptively sampled particle fluids",
+        "Enhancing fluid animation with adaptive, controllable and intermittent turbulence",
+        "Fast and Robust Tracking of Fluid Surfaces",
+        "Robust topological operations fo r dynamic explicit surfaces",
+        "Physics-inspired topology changes for thin fluid features",
+        "Animating suspended particle explosions",
+        "Simulation of bubbles in foam with the volume control method",
+        "Volume conserving finite element simulations of deformable models",
+        "FlowFixer: Using BFECC for fluid simulation",
+        "An unconditionally stable MacCormack method",
+        "A semi-lagrangian CIP fluid solver without dimensional splitting",
+        "An unconditionally stable fully conservative semi-Lagrangian method",
+        "Volume of fluid (VOF) method for the dynamics of free boundaries",
+        "Second-order accurate volume-of-fluid algorithms for tracking material interfaces",
+        "Discrete multi-material interface reconstruction for volume fraction data",
+        "A Coupled Level Set and Volume-of-Fluid Method for Computing 3D and Axisymmetric Incompressible Two-Phase Flows",
+        "A hybrid approach to multiple fluid simulation using volume fractions",
+        "Anti-diffusion method for interface steepening in two-phase incompressible flow",
+        "Anti-diffusive flux corrections for high order finite difference WENO schemes",
+        "Computational Fluid Dynamics of Dispersed Two- Phase Flows at High Phase Fractions",
+        "A conservative level set method for two phase flow",
+        "A conservative level set method for two phase flow II",
+        "Free Surface Lattice-Boltzmann fluid simulations with and without level sets",
+        "Stable free surface flows with the lattice Boltzmann method on adaptively coarsened grids",
+        "Real-time fluid simulation using discrete sine/cosine transforms",
+        "Particle-based fluid simulation for interactive applications",
+        "Particle-Based Simulation of Fluids",
+        "Predictive-corrective incompressible SPH",
+        "Two-scale particle simulation",
+        "Simulating free surface flow with very large time steps",
+        "Numerical calculation of time-dependent viscous incompressible flow of fluid with free surface",
+        "Real-time eulerian water simulation using a restricted tall cell grid",
+        "Proc. SIAM Conf. Computational Science and Eng",
+        "A fast variational framework for accurate solid-fluid coupling",
+        "Using the particle level set method and a second order accurate pressure boundary condition for free surface flows",
+        "A multigrid fluid pressure solver handling separating solid boundary conditions",
+        "MARCHING CUBES: A HIGH RESOLUTION 3D SURFACE CONSTRUCTION ALGORITHM.",
+        "A particle level set library",
+        "Stretching and wiggling liquids"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Santa Clara",
+            "affilname": "NVIDIA",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

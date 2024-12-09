@@ -1,0 +1,67 @@
+{
+    "eid": "2-s2.0-85063382127",
+    "title": "Estimating actual evapotranspiration from NDVI using Landsat 8 and Sentinel-2 imagery",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Actual evapotranspiration",
+        "Landsat 8",
+        "NDVI",
+        "Remote sensing",
+        "Sentinel-2"
+    ],
+    "authors": [
+        "Panath Jermthaisong",
+        "Sununtha Kingpaiboon",
+        "Petchporn Chawakitchareon"
+    ],
+    "citedby-count": 0,
+    "ref-count": 19,
+    "ref-list": [
+        "Crop evapotranspiration",
+        "Evapotranspiration information reporting: I. Factors governing measurement accuracy",
+        "Remote sensing of crop coefficients for improving the irrigation scheduling of corn",
+        "Development of reflectance-based crop coefficients for corn",
+        "Airborne multi-spectral data for quantifying leaf area index, nitrogen concentration and photosynthetic efficiency in agriculture",
+        "Comparison among vegetation indices and bandwise regression in a highly disturbed, heterogeneous landscape",
+        "Incorporation of surface emissivity into a thermal atmospheric correction",
+        "Estimation of wheat crop evapotranspiration using NDVI vegetation index",
+        "On the relation between NDVI, fractional vegetation cover, and leaf are index",
+        "On the atmospheric dependence of the split-window equation for land surface temperature",
+        "Landsurface temperature retrival of landsat-8 data using split window algorithm - A case study of ranchi district",
+        "Estimation of land surface temperature of dindigul district using landsat 8 data",
+        "An overview of the \u201ctriangle method\u201d for estimating surface evapotranspiration and soil moisture from satellite imagery",
+        "A simple interpretation of the surface temperature/vegetation index space for assessment of surface moisture",
+        "Study on NDVI-Tsspace by combining LAI and evapotranspiration",
+        "Estimation of evapotranspiration etc and crop coefficient kc of wheat, in south nile delta of Egypt using intergrated FAO-56 approach and remote sensing data",
+        "Verification of an NDVI-evapotranspiration model using a single layer model",
+        "Estimation of monthly actual evapotranspiration using NOAA-AVHRR satellite images",
+        "Preliminary comparison of sentinel-2 and landsat 8 imagery for a combined use"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Khon Kaen",
+            "@id": "60017165",
+            "affilname": "Khon Kaen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017165",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Agricultural Research Development Agency"
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "eid": "2-s2.0-85069209605",
+    "title": "Design and fabrication of robotic autopsy Saw",
+    "cover-date": "2019-03-28",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Autopsy technique",
+        "Cadaver",
+        "Human dissection",
+        "Robotic autopsy saw"
+    ],
+    "authors": [
+        "Arnon Jumlongkul",
+        "Panuwat Chutivongse"
+    ],
+    "citedby-count": 2,
+    "ref-count": 8,
+    "ref-list": [
+        "Sawdust in autopsies: Production, spreading, and contamination",
+        "Bone-dust in autopsies: Reduction of spreading",
+        "Aerosol generation during bone-sawing procedures in veterinary autopsies",
+        "Noise exposure during orthopaedics surgery",
+        "Noise exposure in tka surgery; oscillating tip saw systems vs oscillating blade saw systems",
+        "Thickness of the human cranial diploe in relation to age, sex and general body build",
+        "Human cranial vault thickness in a contemporary sample of 1097 autopsy cases: Relation to body weight, stature, age, sex and ancestry"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Chiang Rai",
+            "@id": "60199562",
+            "affilname": "School of Medicine, Mae Fah Luang University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199562",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "School of Medicine",
+        "Chulalongkorn University",
+        "Mae Fah Luang University"
+    ]
+}

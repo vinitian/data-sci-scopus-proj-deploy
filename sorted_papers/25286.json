@@ -1,0 +1,88 @@
+{
+    "eid": "2-s2.0-85168625600",
+    "title": "A DFT study on non-enzymatic degradations of anti-tuberculosis drug isoniazid",
+    "cover-date": "2023-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Catalysis",
+            "@code": "1503",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Physical and Theoretical Chemistry",
+            "@code": "1606",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Organic Chemistry",
+            "@code": "1605",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Inorganic Chemistry",
+            "@code": "1604",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Biodegradation",
+        "Degradation",
+        "DFT",
+        "Hydrolysis",
+        "INH",
+        "Isoniazid",
+        "Nucleophile",
+        "Pharmaceutical co-crystal",
+        "Tautomers",
+        "TB",
+        "Tuberculosis"
+    ],
+    "authors": [
+        "Wirachai Pornin",
+        "Ratchanee Phatchana",
+        "Titikan Somboon",
+        "Vithaya Ruangpornvisuti",
+        "Wichien Sang-aroon"
+    ],
+    "citedby-count": 0,
+    "ref-count": 52,
+    "ref-list": [
+        "Gaussian 09 revision B. 01 Gaussian Inc"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Nakhon Ratchasima",
+            "@id": "60092136",
+            "affilname": "Rajamangala University of Technology Isan",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60092136",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Faculty of Engineering Research and Institute of Research and Development",
+        "Rajamangala University of Technology Isan"
+    ]
+}

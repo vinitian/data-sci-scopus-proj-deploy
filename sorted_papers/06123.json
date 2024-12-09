@@ -1,0 +1,94 @@
+{
+    "eid": "2-s2.0-85062219483",
+    "title": "Positioning accuracy analyses on GPS single point positioning determination with GAGAN correction services in Thailand",
+    "cover-date": "2019-01-18",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Continuously Operating Reference Station",
+        "GAGAN",
+        "GNSS",
+        "GPS",
+        "SBAS"
+    ],
+    "authors": [
+        "Patumphon Pungpet",
+        "Chaiyaporn Kitpracha",
+        "Darunee Promchot",
+        "Chalermchon Satirapod"
+    ],
+    "citedby-count": 5,
+    "ref-count": 10,
+    "ref-list": [
+        "SBAS algorithm performance in the implementation of the Asiapacific GNSS test bed",
+        "Performance analysis of GPS aided Geo augmented navigation (GagaN) over Sri Lanka",
+        "Gagan Indias SBas",
+        "Indian plan for satellite-based navigation systems for civil aviation",
+        "The land based positional accuracy of GPS and GPS augmented by GAGAN over the Indian geographical region",
+        "Enhancement of GPS single point positioning accuracy using referenced network stations",
+        "The ESA/UPC GNSS-Lab Tool (GLAB): An advanced educational and professional package for GNSS data processing and analysis",
+        "Precise point positioning using IGS orbit and clock products"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60091494",
+            "affilname": "Geo-Informatics and Space Technology Development Agency",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091494",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Department of Public Utility Control",
+        "Small Business Innovative Research and Small Business Technology Transfer"
+    ]
+}

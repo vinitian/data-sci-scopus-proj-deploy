@@ -1,0 +1,78 @@
+{
+    "eid": "2-s2.0-85149140091",
+    "title": "More Than Words: Collocation Retokenization for Latent Dirichlet Allocation Models",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Linguistics and Language",
+            "@code": "3310",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Language and Linguistics",
+            "@code": "1203",
+            "@abbrev": "ARTS"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Jin Cheevaprawatdomrong",
+        "Alexandra Schofield",
+        "Attapol T. Rutherford"
+    ],
+    "citedby-count": 0,
+    "ref-count": 31,
+    "ref-list": [
+        "Creating the thai national corpus",
+        "Chinese news hot subtopic discovery and recommendation method based on key phrase and the lda model",
+        "Nltk: the natural language toolkit",
+        "Latent dirichlet allocation",
+        "Normalized (pointwise) mutual information in collocation extraction",
+        "Reading tea leaves: How humans interpret topic models",
+        "Syllable-based neural thai word segmentation",
+        "Ant corpus: an arabic news text collection for textual classification",
+        "Scalable topical phrase mining from text corpora",
+        "On collocations and topic models",
+        "Machine reading tea leaves: Automatically evaluating topic coherence and topic model quality",
+        "An efficient method for high quality and cohesive topical phrase mining",
+        "A phrase-discovering topic model using hierarchical pitman-yor processes",
+        "fugashi, a tool for tokenizing Japanese in python",
+        "Optimizing semantic coherence in topic models",
+        "CAMeL tools: An open source python toolkit for Arabic natural language processing",
+        "Konlpy: Korean natural language processing in python",
+        "SoMaJo: State-of-the-art tokenization for German web and social media texts",
+        "Software Framework for Topic Modelling with Large Corpora",
+        "Silhouettes: a graphical aid to the interpretation and validation of cluster analysis",
+        "The new york times annotated corpus",
+        "Comparing apples to apple: The effects of stemmers on topic models",
+        "A conditional random field word segmenter for sighan bakeoff 2005",
+        "Evaluation methods for topic models",
+        "Ptr: phrase-based topical ranking for automatic keyphrase extraction in scientific publications",
+        "Phrase based topic modeling for semantic information processing in biomedicine"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Claremont",
+            "@id": "60000812",
+            "affilname": "Harvey Mudd College",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000812",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": []
+}

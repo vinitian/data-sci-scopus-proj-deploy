@@ -1,0 +1,169 @@
+{
+    "eid": "2-s2.0-85101721613",
+    "title": "A comparative study of window size and channel arrangement on eeg-emotion recognition using deep cnn",
+    "cover-date": "2021-03-02",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analytical Chemistry",
+            "@code": "1602",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Brainwave",
+        "CNN",
+        "EEG",
+        "Electrode order",
+        "Emotion recognition",
+        "Machine learning",
+        "Neuroscience",
+        "Spatiotemporal data",
+        "Window size"
+    ],
+    "authors": [
+        "Panayu Keelawat",
+        "Nattapong Thammasan",
+        "Masayuki Numao",
+        "Boonserm Kijsirikul"
+    ],
+    "citedby-count": 14,
+    "ref-count": 75,
+    "ref-list": [
+        "A hierarchical bidirectional GRU model with attention for EEG-based emotion classification",
+        "A circumplex model of affect",
+        "Cross-subject and cross-gender emotion classification from EEG",
+        "Spatiotemporal dependency of age-related changes in brain signal variability",
+        "Review and classification of emotion recognition based on EEG braincomputer interface system research: A systematic review",
+        "Deep belief networks for electroencephalography: A review of recent contributions and future outlooks",
+        "Brain functional connectivity patterns for emotional state classification in Parkinson\u2019s disease patients without dementia",
+        "Classification of EEG signals for epileptic seizures using Levenberg Marquardt algorithm based Multilayer Perceptron Neural Network",
+        "Emotion detection from EEG recordings",
+        "Multi-method Fusion of Cross-Subject Emotion Recognition Based on High-Dimensional EEG Features",
+        "Multimodal fusion of EEG and musical features in music-emotion recognition",
+        "A multi-column CNN model for emotion recognition from EEG signals",
+        "Emotion Recognition based on EEG using LSTM Recurrent Neural Network",
+        "Emotion recognition from multi-channel EEG data through Convolutional Recurrent Neural Network",
+        "ImageNet classification with deep convolutional neural networks",
+        "EEG-based emotion recognition using 3D convolutional neural networks",
+        "Accurate EEG-based emotion recognition on combined features using deep convolutional neural networks",
+        "Using Deep and Convolutional Neural Networks for accurate emotion classification on DEAP dataset",
+        "Subject-independent emotion recognition during music listening based on EEG using Deep Convolutional Neural Networks",
+        "Deep learning for motor imagery EEG-based classification: A review",
+        "Universal joint feature extraction for P300 EEG classification using multi-task autoencoder",
+        "SleepEEGNet: Automated sleep stage scoring with sequence to sequence deep learning approach",
+        "Human activity recognition using deep electroencephalography learning",
+        "Anatomically distinct dopamine release during anticipation and experience of peak emotion to music",
+        "Analysis of EEG signals and facial expressions for continuous emotion detection",
+        "Continuous music-emotion recognition based on electroencephalogram",
+        "EEG responses to auditory stimuli for automatic affect recognition",
+        "From everyday emotions to aesthetic emotions: Towards a unified theory of musical emotions",
+        "Emotional responses to music: Shifts in frontal brain asymmetry mark periods of musical change",
+        "Core affect and the psychological construction of emotion",
+        "The experience of emotion",
+        "Analysis and compensation of the reaction lag of evaluators in continuous emotional annotations",
+        "Investigation of window size in classification of EEG-emotion signal with wavelet entropy and support vector machine",
+        "Emotional state classification from EEG data using machine learning approach",
+        "Convolutional networks and applications in vision",
+        "A novel convolutional neural network for emotion recognition based on EEG signal",
+        "Emotion recognition from multichannel EEG signals using K-nearest neighbor classification",
+        "Convolutional neural network approach for EEG-based emotion recognition using brain connectivity and its spatial information",
+        "EEG emotion recognition using dynamical graph convolutional neural networks",
+        "Continuous convolutional neural network with 3d input for EEG-based emotion recognition",
+        "Spatio-temporal representation of an electroencephalogram for emotion recognition using a three-dimensional convolutional neural network",
+        "Dropout: A simple way to prevent neural networks from overfitting",
+        "Moodswings: A collaborative game for music mood label collection",
+        "Brain correlates of music-evoked emotions",
+        "EEGLAB, SIFT, NFT, BCILAB, and ERICA: New tools for advanced EEG processing",
+        "Removing electroencephalographic artifacts by blind source separation",
+        "An information-maximization approach to blind separation and blind deconvolution",
+        "FieldTrip: Open-source software for advanced analysis of MEG, EEG, and invasive electrophysiological data",
+        "Cross-Frequency Power-Power Coupling Analysis: A useful cross-frequency measure to classify ICA-decomposed EEG",
+        "Knowledge matters: Importance of prior information for optimization",
+        "EEG-Based Emotion Recognition: A State-of-the-Art Review of Current Trends and Opportunities",
+        "Comparison of the predicted and observed secondary structure of T4 phage lysozyme",
+        "Cascade and parallel convolutional recurrent neural networks on EEG-based intention recognition for brain computer interface",
+        "A direct approach to false discovery rates",
+        "Investigating critical frequency bands and channels for EEG-based emotion recognition with deep neural networks",
+        "Deap: A database for emotion analysis using physiological signals",
+        "Dynamic entropy-based pattern learning to identify emotions from EEG signals across individuals",
+        "Physiological time-series analysis using approximate entropy and sample entropy",
+        "Subject independent emotion recognition from EEG using VMD and deep learning",
+        "Domain adaptation techniques for EEG-based emotion recognition: A comparative study on two public datasets",
+        "Learning domain-invariant subspace using domain features and independence maximization",
+        "Domain adaptation via transfer component analysis",
+        "Clarifying the emotive functions of asymmetrical frontal cortical activity",
+        "Review of EEG, ERP, and brain connectivity estimators as predictive biomarkers of social anxiety disorder",
+        "High-frequency broadband modulation of electroencephalographic spectra",
+        "Real-time adaptive EEG source separation using online recursive independent component analysis",
+        "Real-time neuroimaging and cognitive monitoring using wearable dry EEG",
+        "The artifact subspace reconstruction (ASR) for EEG signal correction. A comparative study"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "San Diego",
+            "@id": "60121653",
+            "affilname": "Department of Computer Science and Engineering",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60121653",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Suita",
+            "@id": "60024322",
+            "affilname": "Osaka University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024322",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Enschede",
+            "@id": "60020599",
+            "affilname": "Universiteit Twente",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020599",
+            "affiliation-country": "Netherlands"
+        }
+    ],
+    "funding": [
+        "NWA",
+        "JSPS",
+        "Ministry of Education, Culture, Sports, Science, and Technology of Japan",
+        "Japan Science and Technology Agency",
+        "Netherlands Organization for Scientific Research"
+    ]
+}

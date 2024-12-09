@@ -1,0 +1,67 @@
+{
+    "eid": "2-s2.0-85062801280",
+    "title": "Deep learning using risk-reward function for stock market prediction",
+    "cover-date": "2018-12-08",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Convolutional Neural Network",
+        "Deep Learning",
+        "Event Embedding",
+        "Long Short-term Memory",
+        "Risk-Reward Function",
+        "Stock Market Prediction"
+    ],
+    "authors": [
+        "Pisut Oncharoen",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 8,
+    "ref-count": 16,
+    "ref-list": [
+        "Deep learning for event-driven stock prediction",
+        "A new model for stock price movements prediction using deep neural network",
+        "Stock market's price movement prediction with LSTM neural networks",
+        "Algorithmic financial trading with deep convolutional neural networks: Time series to image conversion approach",
+        "Deep learning for stock prediction using numerical and textual information",
+        "Deep learning for stock market prediction from financial news articles",
+        "Deep learning for stock market prediction using event embedding and technical indicators",
+        "A systematic analysis of performance measures for classification tasks",
+        "The sharpe ratio",
+        "Combining news and technical indicators in daily stock price trends prediction",
+        "Using structured events to predict stock price movement: An empirical investigation",
+        "Glove: Global vectors for word representation"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

@@ -1,0 +1,60 @@
+{
+    "eid": "2-s2.0-85030702080",
+    "title": "Wave Correction Scheme for Task Space Control of Time-Varying Delayed Teleoperation Systems",
+    "cover-date": "2018-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Force/torque reflection",
+        "passivity",
+        "position/orientation tracking",
+        "time-varying delayed teleoperation system",
+        "wave correction",
+        "wave variable controller"
+    ],
+    "authors": [
+        "Phongsaen Pitakwatchara"
+    ],
+    "citedby-count": 11,
+    "ref-count": 17,
+    "ref-list": [
+        "Bilateral control of teleoperators with time delay",
+        "Telemanipulation with time delays",
+        "Geometric scattering in robotic telemanipulation",
+        "Bilateral teleoperation over unreliable communication networks",
+        "Transparent time-delayed bilateral teleoperation using wave variables",
+        "Control of time-varying delayed teleoperation system using corrective wave variables",
+        "Teleoperation control based on combination of wave variable and neural networks",
+        "Stable bilateral control of teleoperators under time-varying communication delay: Time domain passivity approach",
+        "Bilateral telemanipulation with time delays: A two-layer approach combining passivity and transparency",
+        "Towards force-reflecting teleoperation over the Internet",
+        "Bilateral teleoperation under time-varying communication delay",
+        "Position tracking for non-linear teleoperators with variable time delay",
+        "Task-space framework for bilateral teleoperation with time delays",
+        "Control of bilateral teleoperators in the operational space without velocity measurements",
+        "Task space impedance control of the manipulator driven through the multistage nonlinear flexible transmission"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University",
+        "Thailand Research Fund"
+    ]
+}

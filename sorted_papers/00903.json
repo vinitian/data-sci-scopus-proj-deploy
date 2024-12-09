@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85047326920",
+    "title": "Design of state-feedback control for polynomial systems with quadratic performance criterion and control input constraints",
+    "cover-date": "2018-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Control input constraint",
+        "Convex optimization",
+        "Polynomial systems",
+        "Quadratic performance criterion",
+        "Rational Lyapunov functions",
+        "State-feedback control"
+    ],
+    "authors": [
+        "Tanagorn Jennawasin",
+        "David Banjerdpongchai"
+    ],
+    "citedby-count": 13,
+    "ref-count": 19,
+    "ref-list": [
+        "On tractable approximations of uncertain linear matrix inequalities affected by interval uncertainty",
+        "Matrix sum-of-squares relaxations for robust semi-definite programs",
+        "Optimal control for polynomial systems using matrix sum of squares relaxation",
+        "Nonlinear control synthesis by sum of squares optimization: A Lyapunov-based approach",
+        "Regional stabilisation of polynomial non-linear systems using rational Lyapunov functions",
+        "Estimation and control of the robust domain of attraction via rational Lyapunov functions",
+        "Stability analysis of constrained control systems: An alternative approach",
+        "Controller design for a class of nonlinear systems with input saturation using convex optimization",
+        "Region of attraction estimation using invariant sets and rational Lyapunov functions",
+        "Structured semidefinite programs and semialgebraic geometry methods in robustness and optimization",
+        "A convex approach to state feedback synthesis for polynomial nonlinear systems with input saturation",
+        "Performance bounds for optimal control of polynomial systems: A convex optimization approach",
+        "Design of polynomial control laws for polynomial systems subject to actuator saturation",
+        "Design of state-feedback quadratic regulator for polynomial systems using sum-of-squares approach",
+        "Nonlinear systems analysis",
+        "Optimal control: Linear quadratic methods",
+        "YALMIP: A toolbox for modeling and optimization in MATLAB",
+        "Nonlinear control synthesis by convex optimization"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Thonburi",
+            "@id": "60008786",
+            "affilname": "King Mongkut's University of Technology Thonburi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008786",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

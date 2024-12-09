@@ -1,0 +1,109 @@
+{
+    "eid": "2-s2.0-85042930625",
+    "title": "Physical quantity of residue electrostatic energy in flavin mononucleotide binding protein dimer",
+    "cover-date": "2018-02-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Structural Biology",
+            "@code": "1315",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Organic Chemistry",
+            "@code": "1605",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Electrostatic energy",
+        "FBP",
+        "FMN",
+        "Molecular dynamics simulation",
+        "Protein stabilization"
+    ],
+    "authors": [
+        "Nadtanet Nunthaboot",
+        "Arthit Nueangaudom",
+        "Kiattisak Lugsanangarm",
+        "Somsak Pianwanit",
+        "Sirirat Kokpol",
+        "Fumio Tanaka"
+    ],
+    "citedby-count": 3,
+    "ref-count": 19,
+    "ref-list": [
+        "Theory of Electric Polarization (Second Edition) Dielectrics in Static Fields",
+        "Probing molecular docking in a charged model binding site",
+        "AMBER 10",
+        "Effects of the disappearance of one charge on ultrafast fluorescence dynamics of the FMN binding protein",
+        "A smooth particle mesh Ewald method",
+        "Novel FMN-binding protein from Desulfovibrio vulgaris (Miyazaki F). Cloning and expression of its gene in Escherichia coli",
+        "Determination of the role of the Carboxyl-terminal leucine-122 in FMN-binding protein by mutational and structural analysis",
+        "Pathway of chymotrypsin evolution suggested by the structure of the FMN-binding protein from Desulfovibrio vulgaris (Miyazaki F)",
+        "Simultaneous analyses of photoinduced electron transfer in the wild type and four single substitution isomers of the FMN binding protein from Desulfovibrio vulgaris Miyazaki F",
+        "Role of the electrostatic energy between the photo-products and ionic groups on the photoinduced electron transfer rates from aromatic amino acids to the excited flavin in five single-point substitution isoforms of the charged amino acid residue-13 in the FMN-binding protein",
+        "Photoinduced electron transfer from aromatic amino acids to the excited isoalloxazine in flavin mononucleotide binding protein. Is the rate in the inverted region of donor-acceptor distance not real?",
+        "Conformational difference between two subunits in flavin mononucleotide binding protein dimers from Desulfovibrio vulgaris (MF): molecular dynamics simulation",
+        "Numerical integration of the cartesian equations of motion of a system with constraints: molecular dynamics of n-alkanes",
+        "A molecular-dynamics simulation of the flavin mononucleotide-RNA aptamer complex",
+        "What are the dielectric constants of proteins and how to validate electrostatic models",
+        "How do the x-ray structure and the NMR structure of FMN-binding protein differ?",
+        "A key factor for ultrafast rates of photoinduced electron transfer among five flavin mononucleotide binding proteins: effect of negative, positive, and neutral charges at residue 13 on the rate",
+        "Dielectric constant of the polarizable dipolar hard sphere fluid studied by Monte Carlo simulation and theories",
+        "How Well Does a Restrained Electrostatic Potential (RESP) Model Perform in Calculating Conformational Energies of Organic and Biological Molecules?"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Lopburi",
+            "@id": "60194931",
+            "affilname": "Thepsatri Rajabhat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60194931",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60020796",
+            "affilname": "Bansomdejchaopraya Rajabhat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020796",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Osaka",
+            "@id": "60014111",
+            "affilname": "Institute for Laser Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014111",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Maha Sarakham",
+            "@id": "60002875",
+            "affilname": "Mahasarakham University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002875",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Mahasarakham University"
+    ]
+}

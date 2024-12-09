@@ -1,0 +1,69 @@
+{
+    "eid": "2-s2.0-85065017163",
+    "title": "Bridging the gap between research and production with CODE",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Machine learning",
+        "Online advertising",
+        "Project management",
+        "Real-time bidding"
+    ],
+    "authors": [
+        "Yiping Jin",
+        "Dittaya Wanvarie",
+        "Phu T.V. Le"
+    ],
+    "citedby-count": 0,
+    "ref-count": 27,
+    "ref-list": [
+        "A protocol to reduce bias and variance in head-to-head tests",
+        "The mythical man-month",
+        "Long short-term memory",
+        "Combining lightly-supervised text classification models for accurate contextual advertising",
+        "Field-aware factorization machines in a realworld online advertising system",
+        "TFX: A tensorflow-based production-scale machine learning platform",
+        "Bid optimizing and inventory scoring in targeted online advertising",
+        "K-nearest neighbor",
+        "Confidence intervals for two sample means: Calculation, interpretation, and a few simple rules",
+        "Data management challenges in production machine learning",
+        "Product-based neural networks for user response prediction",
+        "Design principles of massive, robust prediction systems",
+        "ImageNet large scale visual recognition challenge",
+        "The CRISP-DM model: The new blueprint for data mining",
+        "Cross language text classification by model translation and semi-supervised learning",
+        "A survey on real time bidding advertising"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "122484831",
+            "affilname": "Knorex Pte. Ltd.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/122484831",
+            "affiliation-country": "Singapore"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

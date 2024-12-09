@@ -1,0 +1,95 @@
+{
+    "eid": "2-s2.0-85123766341",
+    "title": "A Novel Analytical Formula for the Discounted Moments of the ECIR Process and Interest Rate Swaps Pricing",
+    "cover-date": "2022-02-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analysis",
+            "@code": "2603",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Statistical and Nonlinear Physics",
+            "@code": "3109",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Statistics and Probability",
+            "@code": "2613",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Arrears swap",
+        "Chebyshev polynomials",
+        "ECIR process",
+        "Finite integration method",
+        "Fractional ECIR process",
+        "Interest rate swaps",
+        "Vanilla swap"
+    ],
+    "authors": [
+        "Ratinan Boonklurb",
+        "Ampol Duangpan",
+        "Udomsak Rakwongwan",
+        "Phiraphat Sutthimat"
+    ],
+    "citedby-count": 8,
+    "ref-count": 39,
+    "ref-list": [
+        "Pricing interest-rate-derivative securities",
+        "Two singular diffusion problems",
+        "An intertemporal general equilibrium model of asset prices",
+        "Solution of the extended CIR term structure and bond option valuation",
+        "A general version of the fundamental theorem of asset pricing",
+        "Transform analysis and asset pricing for affine jump-diffusions",
+        "Interest rate swaps under CIR",
+        "A cyclical square-root model for the term structure of interest rates",
+        "Algebraic methods to compute Mathieu functions",
+        "An analytical formula for pricing interest rate swaps in terms of bond prices under the extended Cox\u2013Ingersoll\u2013Ross model",
+        "Estimation of a Jacobi process",
+        "A closed-form formula for the conditional moments of the extended CIR process",
+        "Explicit Formula for Conditional Expectations of Product of Polynomial and Exponential Function of Affine Transform of Extended Cox\u2013Ingersoll\u2013Ross Process",
+        "The 4/2 stochastic volatility model: A unified approach for the Heston and the 3/2 model",
+        "Numerical solution of direct and inverse problems for time-dependent Volterra integro-differential equation using finite integration method with shifted Chebyshev polynomials",
+        "Finite Integration Method with Shifted Chebyshev Polynomials for Solving Time-Fractional Burgers\u2019 Equations",
+        "High-order approximation of Pearson diffusion processes",
+        "Maximum likelihood estimation of time-inhomogeneous diffusions",
+        "A simple closed-form formula for the conditional moments of the Ornstein-Uhlenbeck process",
+        "On the convexity correction approximation in pricing volatility swaps and VIX futures",
+        "Modified finite integration method using Chebyshev polynomial for solving linear differential equations",
+        "Connection between the Hadamard and matrix products with an application to matrix-variate Birnbaum-Saunders distributions",
+        "Convergence of Monte Carlo simulations involving the mean-reverting square root process",
+        "The foreign exchange and over-the-counter interest rate derivatives market in Ireland\u2013Results of the BIS Triennial Survey 2019",
+        "Fractional Pearson diffusions",
+        "Closed-form formulas for conditional moments of inhomogeneous Pearson diffusion processes",
+        "Linear models of dissipation whose Q is almost frequency independent\u2014II",
+        "Black\u2013Scholes formula in subdiffusive regime",
+        "Black\u2013Scholes model under subordination",
+        "The Pearson diffusions: A class of statistically tractable diffusion processes",
+        "Generalised geometric Brownian motion: Theory and applications to option pricing"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60021944",
+            "affilname": "Kasetsart University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021944",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Chulalongkorn University"
+    ]
+}

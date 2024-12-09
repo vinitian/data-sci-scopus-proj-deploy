@@ -1,0 +1,88 @@
+{
+    "eid": "2-s2.0-85133072184",
+    "title": "Computation of tolerance ellipses for bivariate and trivariate normal populations",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Statistics and Probability",
+            "@code": "2613",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Statistics, Probability and Uncertainty",
+            "@code": "1804",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Monte-Carlo simulation",
+        "Multivariate normal distribution",
+        "tolerance regions"
+    ],
+    "authors": [
+        "W. Liu",
+        "F. Bretz",
+        "A. J. Hayter",
+        "S. Kiatsupaibul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 21,
+    "ref-list": [
+        "Determination of sample sizes for setting tolerance limits",
+        "Tolerance: an r package for estimating tolerance intervals",
+        "Normal tolerance interval procedures in the tolerance package",
+        "Central tolerance regions and reference regions for multivariate normal population",
+        "Comparison of approximation methods for computing tolerance factors for a multivariate normal population",
+        "Improved tolerance factors for multivariate normal distributions",
+        "Approximate ellipsoidal tolerance regions for multivariate normal populations",
+        "Computing the distribution of quadratic forms in normal variables",
+        "A new chi-square approximation to the distribution of non-definite quadratic forms in non central normal variables",
+        "Algorithm AS 53: Wishart variate generator",
+        "Simulation-based simultaneous confidence bands in multiple linear regression with predictor variables constrained in intervals"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199583",
+            "affilname": "Chulalongkorn Business School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199583",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Southampton",
+            "@id": "60025225",
+            "affilname": "University of Southampton",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025225",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Denver",
+            "@id": "60015404",
+            "affilname": "University of Denver",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015404",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Basel",
+            "@id": "60009968",
+            "affilname": "Novartis International AG",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009968",
+            "affiliation-country": "Switzerland"
+        }
+    ],
+    "funding": []
+}

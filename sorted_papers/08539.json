@@ -1,0 +1,65 @@
+{
+    "eid": "2-s2.0-85124225292",
+    "title": "Design of Supervisory Model Predictive Control for Building HVAC System with Time-Varying Coefficient of Performance",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Artificial Neural Network (ANN)",
+        "Coefficient of Performance (COP)",
+        "Heating-ventilation-air-conditioning (HVAC) system",
+        "k-means clustering",
+        "Predicted Mean Vote (PMV)",
+        "Supervisory Model Predictive Control (SMPC)"
+    ],
+    "authors": [
+        "Chanthawit Anuntasethakul",
+        "Kantapong Leungrungwason",
+        "David Banjerdpongchai"
+    ],
+    "citedby-count": 1,
+    "ref-count": 10,
+    "ref-list": [
+        "Design of supervisory model predictive control for building hvac system with consideration of peak-load shaving and thermal comfort",
+        "Supervisory and optimal control of building hvac system: A review",
+        "Total and peak energy consumption minimization of building hvac systems using model predictive control",
+        "Cu-bems, smart building electricity consumption and indoor environmental sensor datasets",
+        "Silhouettes: A graphical aid to the interpretation and validation of cluster analysis",
+        "Scikit-learn: Machine learning in python",
+        "Artificial neural networks for neuroscientists: A primer"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "eid": "2-s2.0-85125880810",
+    "title": "Pediatric Prediction Model for Low Immunoglobulin G Level Based on Serum Globulin and Illness Status",
+    "cover-date": "2022-02-21",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Immunology and Allergy",
+            "@code": "2723",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Immunology",
+            "@code": "2403",
+            "@abbrev": "IMMU"
+        }
+    ],
+    "keywords": [
+        "globulin",
+        "hypogammaglobulinemia",
+        "immunoglobulin G",
+        "prediction model",
+        "screening test"
+    ],
+    "authors": [
+        "Narissara Suratannon",
+        "Phimphika Tantithummawong",
+        "Cameron Paul Hurst",
+        "Yuda Chongpison",
+        "Jongkonnee Wongpiyabovorn",
+        "P. Martin van Hagen",
+        "Willem A. Dik",
+        "Pantipa Chatchatee"
+    ],
+    "citedby-count": 0,
+    "ref-count": 21,
+    "ref-list": [
+        "Pathogenesis, Diagnosis, and Management of Primary Antibody Deficiencies and Infections",
+        "Exclusion of Patients With a Severe T-Cell Defect Improves the Definition of Common Variable Immunodeficiency",
+        "The 2017 Iuis Phenotypic Classification for Primary Immunodeficiencies",
+        "Secondary Hypogammaglobulinemia",
+        "Recognition, Clinical Diagnosis and Management of Patients With Primary Antibody Deficiencies: A Systematic Review",
+        "Primary Vs. Secondary Antibody Deficiency: Clinical Features and Infection Outcomes of Immunoglobulin Replacement",
+        "Calculated Globulin (Cg) as a Screening Test for Antibody Deficiency",
+        "Using Calculated Globulin Fraction to Reduce Diagnostic Delay in Primary and Secondary Hypogammaglobulinaemias: Results of a Demonstration Project",
+        "Current Screening Approaches for Antibody Deficiency",
+        "Calculated Globulin as a Screening Tool for Hypogammaglobulinaemia or Paraproteins in Hospitalized Patients",
+        "Serum Protein Electrophoresis May Be Used as a Screening Tool for Antibody Deficiency in Children and Adolescents",
+        "Hypogammaglobulinemia: A Diagnosis That Must Not Be Overlooked",
+        "The Half-Lives of Igg Subclasses and Specific Antibodies in Patients With Primary Immunodeficiency Who Are Receiving Intravenously Administered Immunoglobulin",
+        "Tokyo Pediatric Clinical Research N. Live Attenuated Vaccine Efficacy Six Months After Intravenous Immunoglobulin Therapy for Kawasaki Disease",
+        "Fitting Linear Mixed-Effects Models Using Lme4",
+        "Proc: An Open-Source Package for R and S+ to Analyze and Compare Roc Curves",
+        "Acute-Phase Proteins and Other Systemic Responses to Inflammation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Rotterdam",
+            "@id": "60032114",
+            "affilname": "Erasmus MC",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032114",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Brisbane",
+            "@id": "60025029",
+            "affilname": "QIMR Berghofer Medical Research Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025029",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Ratchadapiseksompotch Fund",
+        "Chulalongkorn University",
+        "Faculty of Medicine, Chulalongkorn University"
+    ]
+}

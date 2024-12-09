@@ -1,0 +1,128 @@
+{
+    "eid": "2-s2.0-85129694750",
+    "title": "Extraction and Calculation of Roadway Area from Satellite Images Using Improved Deep Learning Model and Post-Processing",
+    "cover-date": "2022-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Graphics and Computer-Aided Design",
+            "@code": "1704",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "area calculation",
+        "deep learning model",
+        "Pix2Pix",
+        "ResNeXt",
+        "roadway extraction",
+        "satellite images",
+        "U-net++"
+    ],
+    "authors": [
+        "Varun Yerram",
+        "Hiroyuki Takeshita",
+        "Yuji Iwahori",
+        "Yoshitsugu Hayashi",
+        "M. K. Bhuyan",
+        "Shinji Fukui",
+        "Boonserm Kijsirikul",
+        "Aili Wang"
+    ],
+    "citedby-count": 3,
+    "ref-count": 36,
+    "ref-list": [
+        "Fully convolutional networks for building and road extraction: Preliminary results",
+        "Road structure refined CNN for road extraction in aerial image",
+        "An enhanced deep convolutional encoder-decoder network for road segmentation on aerial imagery",
+        "Segnet: A deep convolutional encoder-decoder architecture for image segmentation",
+        "Road extraction by deep residual u-net",
+        "Deep residual learning for image recognition",
+        "Road extraction from a high spatial resolution remote sensing image based on richer convolutional features",
+        "Road extraction of high-resolution remote sensing images derived from DenseUNet",
+        "A Y-Net deep learning method for road segmentation using high-resolution visible remote sensing images",
+        "Automatic road detection and centerline extraction via cascaded end-to-end convolutional neural network",
+        "Fully convolutional network for automatic road extraction from satellite imagery",
+        "Road segmentation of cross-modal remote sensing images using deep segmentation network and transfer learning",
+        "U-net: Convolutional networks for biomedical image segmentation",
+        "Unet++: A nested u-net architecture for medical image segmentation",
+        "Aggregated residual transformations for deep neural networks",
+        "Image-to-image translation with conditional adversarial networks",
+        "Learning to detect roads in high-resolution aerial images",
+        "City-scale road extraction from satellite imagery v2: Road speeds and travel times",
+        "Does median filtering truly preserve edges better than linear filtering?",
+        "Multiple object extraction from aerial imagery with convolutional neural networks",
+        "Hierarchical graph-based segmentation for extracting road networks from high-resolution satellite images",
+        "Main road extraction from zy-3 grayscale imagery based on directional mathematical morphology and vgi prior knowledge in urban areas",
+        "Connected component-based technique for automatic extraction of road centerline in high resolution satellite images",
+        "Road centerline extraction via semisupervised segmentation and multidirection nonmaximum suppression",
+        "Road extraction using SVM and image segmentation",
+        "Learning deep features for scene recognition using places database",
+        "Faster R-CNN: Towards real-time object detection with region proposal networks",
+        "CNN based suburban building detection using monocular high resolution Google Earth images",
+        "Efficientnet: Rethinking model scaling for convolutional neural networks",
+        "Image transformer",
+        "Mask r-cnn",
+        "Aerial image road extraction based on an improved generative adversarial network"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Kariya",
+            "@id": "60026600",
+            "affilname": "Aichi University of Education",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026600",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Harbin",
+            "@id": "60024758",
+            "affilname": "Harbin University of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024758",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Guwahati",
+            "@id": "60010126",
+            "affilname": "Indian Institute of Technology Guwahati",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010126",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Kasugai",
+            "@id": "60007976",
+            "affilname": "Chubu University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007976",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "JST",
+        "Chubu University",
+        "JICA"
+    ]
+}

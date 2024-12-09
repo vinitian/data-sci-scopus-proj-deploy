@@ -1,0 +1,82 @@
+{
+    "eid": "2-s2.0-85133143102",
+    "title": "Traffic Prediction With a Spectral Graph Neural Network",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Management Information Systems",
+            "@code": "1404",
+            "@abbrev": "BUSI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Management Science and Operations Research",
+            "@code": "1803",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Education",
+            "@code": "3304",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Communication",
+            "@code": "3315",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "Deep Learning",
+        "Graph Neural Network",
+        "Neural Network",
+        "Traffic Prediction"
+    ],
+    "authors": [
+        "Sathita Buapang",
+        "Veera Muangsin"
+    ],
+    "citedby-count": 0,
+    "ref-count": 19,
+    "ref-list": [
+        "Mathematical models for freely-flowing highway traffic",
+        "A brief overview of machine learning methods for short-term traffic forecasting and future directions",
+        "A review of traffic congestion prediction using artificial intelligence",
+        "Traffic congestion and travel time prediction based on historical congestion maps and identification of consensual days",
+        "Travel time estimation for urban road networks using low frequency probe vehicle data",
+        "Short-term travel time prediction from gps trace data using recurrent neural networks",
+        "A survey of traffic prediction: From spatio- temporal data to intelligent transportation",
+        "Semi-supervised classification with graph convolutional networks",
+        "Network scale travel time prediction using deep learning",
+        "Scalable deep traffic flow neural networks for urban traffic congestion prediction",
+        "GPS-based citywide traffic congestion forecasting using CNN-RNN and C3D hybrid model",
+        "DEEPTRAVEL: A neural network based travel time estimation model with auxiliary supervision",
+        "Eta prediction with graph neural networks in google maps",
+        "T-gcn: A temporal graph convolutional network for traffic prediction",
+        "A comprehensive survey on graph neural networks"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Toyota Mobility Foundation"
+    ]
+}

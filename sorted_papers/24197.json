@@ -1,0 +1,150 @@
+{
+    "eid": "2-s2.0-85098547497",
+    "title": "Enhanced nodal gradient finite elements with new numerical integration schemes for 2D and 3D geometrically nonlinear analysis",
+    "cover-date": "2021-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Consecutive-interpolation procedure",
+        "FEM",
+        "Geometrically nonlinear analysis",
+        "Large deformation",
+        "Numerical integration",
+        "Numerical method"
+    ],
+    "authors": [
+        "Du Dinh Nguyen",
+        "Minh Ngoc Nguyen",
+        "Nguyen Dinh Duc",
+        "Jaroon Rungamornrat",
+        "Tinh Quoc Bui"
+    ],
+    "citedby-count": 11,
+    "ref-count": 67,
+    "ref-list": [
+        "Weak imposition of constraints for structural membranes in transient geometrically nonlinear isogeometric analysis on multipatch surfaces",
+        "On improving the numerical convergence of highly nonlinear elasticity problems",
+        "Sheet metal forming and springback simulation by means of a new reduced integration solid-shell finite element technology",
+        "Non-linear Finite Element Analysis of Solids and Structures Volume 1: Essentials",
+        "Geometrically nonlinear finite element analysis of beams, frames, arches and axisymmetric shells",
+        "Conceptual issues in geometrically nonlinear analysis of 3d framed structures",
+        "A finite element approach to statical and dynamical analysis of geometrically nonlinear structures",
+        "Geometrically nonlinear transient analysis of thick deep composite curved beams with generalized differential quadrature method",
+        "Geometrically nonlinear analysis of two-dimensional structures using an improved smoothed particle hydrodynamics method",
+        "Geometrically nonlinear dynamic formulation for three-dimensional co-rotational solid elements",
+        "A modified newton-type Koiter-Newton method for tracing the geometrically nonlinear response of structures",
+        "Virtural and smoothed finite elements: a connection and its application to polygonal/polyhedral finite element methods",
+        "Linear smoothed polygonal and polyhedral finite elements",
+        "A finite element method based on c0-continuous assumed gradients",
+        "On continuous assumed gradient elements of second order",
+        "Element-Free Galerkin methods",
+        "Novel adaptive meshfree integration techniques in meshless methods",
+        "The improved element-free Galerkin method based on the nonsingular weight functions for elastic large deformation problems",
+        "Reproducing Kernel Particle Methods for structural dynamics",
+        "Reproducing kernel particle method for two-dimensional time-space fractional diffusion equations in irregular domains",
+        "A new Meshless Local Petrov-Galerkin (MLPG) approach in computational mechanics",
+        "Meshless local Petrov Galerkin method for 2D/3D nonlinear convection-diffusion equations based on LS-RBF-PUM",
+        "A moving Kriging interpolation-based meshfree method for free vibration analysis of Kirchhoff plates",
+        "An efficient meshfree method for vibration analysis of laminated composite plates",
+        "Nonlinear bending and snap-through instability analyses of conical shell panels using element free Galerkin method",
+        "Dynamic analysis of sandwich beams with functionally graded core using a truly meshfree radial point interpolation method",
+        "A point interpolation method based on radial basis functions",
+        "Meshfree implementation of the double director shell model for FGM shell structures analysis",
+        "Meshless implementation of arbitrary 3d-shell structures based on a modified first order shear deformation theory",
+        "A consecutive-interpolation quadrilateral element (CQ4): formulation and applications",
+        "A novel twice-interpolation finite element method for solid mechanics problems",
+        "Analysis of 2-dimensional transient problems for linear elastic and piezoelectric structures using the consecutive-interpolation quadrilateral element (CQ4)",
+        "Enhanced nodal gradient 3d consecutive-interpolation tetrahedral element (CTH4) for heat transfer analysis",
+        "Numerical analysis of 3-d solids and composite structures by an enhanced 8-node hexahedral element",
+        "An extended consecutive-interpolation quadrilateral element (XCQ4) applied to linear elastic fracture mechanics",
+        "Quasi-static crack propagation simulation by an enhanced nodal gradient finite element with different enrichments",
+        "Dynamic stationary crack analysis of isotropic solids and anisotropic composites by enhanced local enriched consecutive-interpolation elements",
+        "Simulation of dynamic and static thermoelastic fracture problems by extended nodal gradient finite elements",
+        "Thermal-mechanical crack propagation in orthotropic composite materials by the extended four-node consecutive-interpolation element (XCQ4)",
+        "An alternate stable midpoint quadrature to improve the element stiffness matrix of quadrilaterals for application of functionally graded materials",
+        "A partition of unity-based \u201dfe-meshfree\u201d QUAD4 element for geomtric nonlinear analysis",
+        "Four-node quadrilateral element with continuous nodal stress for geometrical nonlinear analysis",
+        "Nurbs-based three-dimensional analysis of geometrically nonlinear elastic structures",
+        "3-d elasto-plastic large deformations: IGA simulation by Bezier extraction of NURBS",
+        "A class of mixed assumed strain methods and the method of incompatible modes",
+        "Improved versions of assumed enhanced strain tri-linear elements for 3d finite deformation problems",
+        "Locking-free continuum displacement finite elements with nodal integration",
+        "Enhanced assumed strain (EAS) and assumed natural strain (ANS) methods for one-point quadrature solid-shell elements",
+        "Assumed-deformation gradient finite elements with nodal integration for nearly incompressible large deformation analysis",
+        "A new locking-free brick element technique for large deformation on problems in elasticity",
+        "A stabilized nodally integrated tetrahedral",
+        "A uniform nodal strain tetrahedron with isochoric stabilization",
+        "Modification of the quadratic 10-node tetrahedron for thin structures and stiff materials under large-strain hyperelastic deformation",
+        "A three-dimensional hybrid smoothed finite element method (h-SFEM) for nonlinear solid mechanics problems",
+        "A uniform strain hexahedron and quadrilateral with orthogonal hourglass control",
+        "Assumed strain stabilization of the 8 node hexahedral element",
+        "Mean-strain eight-node hexahedron with stabilization by energy sampling",
+        "Finite Element Procedures",
+        "An Introduction to Nonlinear Finite Element Analysis",
+        "Studying absolute stability properties of the richardson extrapolation combined with explicit Runge-Kutta methods",
+        "Efficient implementation of stable richardson extrapolation algorithms",
+        "Two-dimensional model of base force element method (BFEM) on complementary energy principle for geometrically nonlinear problems",
+        "A three-node triangular element with contiuous nodal stress (Trig3-CNS) for geometry nonlinear solid mechanics problems",
+        "Theory of Elasticity",
+        "Comparison of finite element and finite volume methods application in geometrically nonlinear stress analysis",
+        "Strain smoothing for compressible and nearly-incompressible finite elasticity",
+        "B-bar and F-bar projection methods for nearly incompressible linear and non-linear elasticity and plasticity using high-order NURBS elements"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bien Hoa",
+            "@id": "60272586",
+            "affilname": "Lac Hong University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60272586",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Da Nang",
+            "@id": "60111656",
+            "affilname": "Duy Tan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60111656",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60078566",
+            "affilname": "Viet Nam National University Ho Chi Minh City",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60078566",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Hanoi",
+            "@id": "60071364",
+            "affilname": "Vietnam National University, Hanoi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071364",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60031126",
+            "affilname": "Tokyo Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031126",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,83 @@
+{
+    "eid": "2-s2.0-85084227889",
+    "title": "Neural network-based hybrid estimator for estimating concentration in ethylene polymerization process: An applicable approach",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Extended kalman filter",
+        "Hybrid estimator",
+        "Kalman filter",
+        "Linearization error",
+        "Neural network",
+        "Polymerization process"
+    ],
+    "authors": [
+        "Wachira Daosud",
+        "Mohd Azlan Hussain",
+        "Paisan Kittisupakorn"
+    ],
+    "citedby-count": 2,
+    "ref-count": 25,
+    "ref-list": [
+        "Incorporating delayed and infrequent measurements in Extended Kalman Filter based nonlinear state estimation",
+        "Use of extended Kalman filtering in detecting fouling in heat exchangers",
+        "Estimation of time-dependent reaction coefficient with extended Kalman filter approach",
+        "Analysis and design of an Extended Kalman Filter for the plate temperature in heavy plate rolling",
+        "Experimental validation of an Extended Kalman Filter estimating acetate concentration in E. coli cultures",
+        "On-line inference of polymer properties in an industrial polyethylene reactor",
+        "Robust stability of nonlinear model predictive control based on extended Kalman filter",
+        "Applying a dual extended Kalman filter for the nonlinear state and parameter estimations of a continuous stirred tank reactor",
+        "State Estimation in Fermentation of Lignocellulosic Ethanol. Focus on the Use of pH Measurements",
+        "Nonlinear filters: Beyond the Kalman filter",
+        "Constrained nonlinear state estimation using ensemble Kalman filter",
+        "Review and classification of recent observers applied in chemical process systems",
+        "Neural network inverse model-based controller for the control of a steel pickling process",
+        "Neural network based model predictive control for a steel pickling process",
+        "Control of fed-batch bioreactors by a hybrid on-line optimal control strategy and neural network estimator",
+        "Neural network based model predictive control of batch extractive distillation process for improving purity of acetone",
+        "Temperature control of a benchscale batch polymerization reactor for polystyrene production",
+        "Hybrid neural network controller design for a batch reactor to produce methyl methacrylate",
+        "Artificial intelligence techniques applied as estimator in chemical process systems-A literature survey",
+        "Prediction of pores formation (porosity) in foods during drying: Generic models by the use of hybrid neural network",
+        "NMPC of an industrial crystallization process using model-based observers",
+        "Monitoring of a CO oxidation reactor through a grey model-based EKF observer",
+        "Control of a batch polymerization system using hybrid neural network-First principle model",
+        "A novel multi-sensors fusion framework based on Kalman Filter and neural network for AFS application",
+        "Temperature control of industrial gas phase polyethylene reactors"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Kuala Lumpur",
+            "@id": "60029157",
+            "affilname": "Universiti Malaya",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029157",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chonburi",
+            "@id": "60009116",
+            "affilname": "Burapha University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009116",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "Thailand Research Fund",
+        "Burapha University"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "eid": "2-s2.0-85139443352",
+    "title": "Semi-automatic PFU Counting Method by Double Thresholding and Two-Stage Segmentation",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "adaptive thresholding",
+        "image segmentation",
+        "plaque assay",
+        "watershed segmentation"
+    ],
+    "authors": [
+        "Nittaya Khamdee",
+        "Sanjira Juntarapornchai",
+        "Supatana Auethavekiat"
+    ],
+    "citedby-count": 0,
+    "ref-count": 17,
+    "ref-list": [
+        "Rapid quantification of vesicular stomatitis virus in Vero cells using Laser Force Cytology",
+        "Isolating, culturing, and purifying viruses with a focus on bacterial and archaeal viruses",
+        "Automated viral plaque counting using image segmentation and morphological analysis",
+        "Development of Automated Platform for Image Capturing and Counting Algorithm for Viral Plaque",
+        "Automated counting of bacterial colonies by image analysis",
+        "Automated counting of bacterial colony forming units on agar plates",
+        "Nondestructive technique for bacterial count based on image processing",
+        "Automated cell colony counting and analysis using the circular Hough image transform algorithm (CHiTA)",
+        "An Automated Colony Counter Utilising A Compact Hough transform",
+        "Counting bacteria colonies based on image processing methods",
+        "Green channel guiding denoising on bayer image",
+        "Adaptive thresholding using the integral image",
+        "A linear time algorithm for computing exact Euclidean distance transforms of binary images in arbitrary dimensions",
+        "Topographic distance and watershed lines"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60009499",
+            "affilname": "Institute of Molecular Biosciences, Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009499",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

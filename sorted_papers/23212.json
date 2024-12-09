@@ -1,0 +1,117 @@
+{
+    "eid": "2-s2.0-85084919715",
+    "title": "Automated Firearm Classification from Bullet Markings Using Deep Learning",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "9 mm bullet marking",
+        "automated firearm classification",
+        "densely connected convolutional network",
+        "Forensic science"
+    ],
+    "authors": [
+        "Pattranit Pisantanaroj",
+        "Pimlapus Tanpisuth",
+        "Piyawut Sinchavanwat",
+        "Siriporn Phasuk",
+        "Phongphan Phienphanich",
+        "Parinton Jangtawee",
+        "Kittisak Yakoompai",
+        "Montri Donphoongpi",
+        "Sanong Ekgasit",
+        "Charturong Tantibundhit"
+    ],
+    "citedby-count": 7,
+    "ref-count": 43,
+    "ref-list": [
+        "Common phases of computer forensics investigation models",
+        "Bullets fragments identification by comparison of their chemical composition obtained using instrumental neutron activation analysis",
+        "Machine learning in forensic applications",
+        "Ballistics projectile image analysis for firearm identification",
+        "Comparison of three similarity scores for bullet LEA matching",
+        "Automated bullet identification based on striation feature using 3D laser color scanner",
+        "Automated comparisons of bullet striations based on 3D topography",
+        "Pilot study of automated bullet signature identification based on topography measurements and correlations",
+        "A correlation based bullet identification method using empirical mode decomposition",
+        "Topography measurements and applications in ballistics and tool mark identifications",
+        "Reconsidering the ballistic imaging of crime bullets in gun law enforcement operations",
+        "Comparing the performance of IBIS and BulletTRAX-3D technology using bullets fired through 10 consecutively rified barrels",
+        "Automated bulletidenti fication system based on surface topography techniques",
+        "Estimation of bullet striation similarity using neural networks",
+        "On the study of automated identification of firearms through associated striations",
+        "Deep learning",
+        "Scalable object detection using deep neural networks",
+        "Deep face recognition",
+        "Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups",
+        "Deep residual learning for image recognition",
+        "Densely connected convolutional networks",
+        "Xception: Deep learning with depthwise separable convolutions",
+        "Places205-VGGNet models for scene recognition",
+        "Inception-v4, inceptionresnet and the impact of residual connections on learning",
+        "ImageNet: A large-scale hierarchical image database",
+        "Psychological representation of speech sounds"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60012521",
+            "affilname": "Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012521",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "124434211",
+            "affilname": "Central Police Forensic Science Division",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/124434211",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "111635025",
+            "affilname": "Ministry of Justice",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/111635025",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "101730219",
+            "affilname": "Ruamrudee International School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101730219",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

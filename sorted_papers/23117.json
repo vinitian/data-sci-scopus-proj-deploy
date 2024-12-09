@@ -1,0 +1,132 @@
+{
+    "eid": "2-s2.0-85149362892",
+    "title": "On Hyperparameter Optimization of Machine Learning Methods Using a Bayesian Optimization Algorithm to Predict Work Travel Mode Choice",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Bayesian optimization algorithm",
+        "hyperparameters",
+        "sustainable mode choice decision",
+        "work travel mode choice"
+    ],
+    "authors": [
+        "Mahdi Aghaabbasi",
+        "Mujahid Ali",
+        "Michal Jasinski",
+        "Zbigniew Leonowicz",
+        "Tomas Novak"
+    ],
+    "citedby-count": 0,
+    "ref-count": 63,
+    "ref-list": [
+        "A behavioral model of work-trip mode choice in Shanghai",
+        "Choice of transport mode in emerging adulthood: Differences between secondary school students, studying young adults and working young adults and relations with gender, SES and living environment",
+        "Modelling work-trip mode choice decisions in two-worker households",
+        "Analysis of work trip timing and mode choice in the greater Toronto area",
+        "The effect of work-related factors on the bicycle commute mode choice in The Netherlands",
+        "A joint analysis of residential location, work location and commuting mode choices in hanoi, Vietnam",
+        "Sociopsychological, instrumental, and sociodemographic determinants of travel mode choice behavior in Delhi, India",
+        "The role of household modality style in first and last mile travel mode choice",
+        "Non-linear associations between zonal built environment attributes and transit commuting mode choice accounting for spatial heterogeneity",
+        "Driving as a commuting travel mode choice of car owners in urban China: Roles of the built environment",
+        "Employment sub-centres and travelto-work mode choice in the Dublin region",
+        "Commuter mode choice and free car parking, public transportation benefits, showers/lockers, and bike parking at work: Evidence from the washington, DC region",
+        "Influences of rural built environment on travel mode choice of rural residents: The case of rural Sichuan",
+        "The influence of COVID-19-Induced daily activities on health parameters-A case study in Malaysia",
+        "Travel behaviour and health: Interaction of activity-travel pattern, travel parameter and physical intensity",
+        "Household travel mode choice estimation with large-scale data-An empirical analysis based on mobility data in Milan",
+        "Modeling commuting mode choice jointly with work start time and work duration",
+        "Predicting the use frequency of ride-sourcing by off-campus university students through random forest and Bayesian network techniques",
+        "A comparative study of machine learning classifiers for modeling travel mode choice",
+        "Conditional logit analysis of qualitative choice behavior",
+        "Airline itinerary choice modeling using machine learning",
+        "Comparative analysis of the optimized KNN, SVM, and ensemble DT models using Bayesian optimization for predicting pedestrian fatalities: An advance towards realizing the sustainable safety of pedestrians",
+        "Applying a random forest method approach to model travel mode choice behavior",
+        "Prediction and behavioral analysis of travel mode choice:Acomparison of machine learning and logit models",
+        "Time-use and spatio-temporal variables influence on physical activity intensity, physical and social health of travelers",
+        "Hybrid Bayesian network models to investigate the impact of built environment experience before adulthood on students' tolerable travel time to campus: Towards sustainable commute behavior",
+        "A systematic comparative evaluation of machine learning classifiers and discrete choice models for travel mode choice in the presence of response heterogeneity",
+        "Nonlinear relationships between vehicle ownership and household travel characteristics and built environment attributes in the U.S. using the XGBT algorithm",
+        "Classification of imbalanced travel mode choice to work data using adjustable SVM model",
+        "How sustainable is people's travel to reach public transit stations to go to work? A machine learning approach to reveal complex relationships",
+        "An effective algorithm for hyperparameter optimization of neural networks",
+        "On hyperparameter optimization of machine learning algorithms: Theory and practice",
+        "A review of automatic selection methods for machine learning algorithms and hyper-parameter values",
+        "Gradient-based hyperparameter optimization through reversible learning",
+        "Effect of the sampling of a dataset in the hyperparameter optimization phase over the efficiency of a machine learning algorithm",
+        "An adaptive particle swarm optimization algorithm based on directed weighted complex network",
+        "Landslide hazard assessment based on Bayesian optimization-support vector machine in Nanping City, China",
+        "Towards an empirical foundation for assessing Bayesian optimization of hyperparameters",
+        "Efficient benchmarking of hyperparameter optimizers via surrogates",
+        "An advanced machine learning approach to predicting pedestrian fatality caused by road crashes: A step toward sustainable pedestrian safety",
+        "A novel combination of PCA and machine learning techniques to select the most important factors for predicting tunnel construction performance",
+        "Targeting sustainable transportation development: The support vector machine and the Bayesian optimization algorithm for classifying household vehicle ownership",
+        "Development of intercity work mode choice model for Saudi Arabia",
+        "Walking mode choice across genders for purposes of work and shopping: A case study of an Iranian city",
+        "Multimodal commuting to work by public transport and bicycle: Attitudes toward mode choice",
+        "Mode choice model forworking trip under risk and uncertainty",
+        "Policy implications of work-trip mode choice using econometric modeling",
+        "Choice set variability and contextual heterogeneity in work trip mode choice in Chennai city",
+        "An introduction to kernel and nearest-neighbor nonparametric regression",
+        "Idiot's Bayes? Not so stupid after all?",
+        "Random forests",
+        "Work travel mode choice modeling with data mining: Decision trees and neural networks",
+        "Predicting the travel mode choice with interpretable machine learning techniques: A comparative study",
+        "Downtown parking supply, work-trip mode choice and urban spatial structure",
+        "Data-mining approach to work trip mode choice analysis in Chicago, Illinois, area",
+        "Gender-based analysis of work trip mode choice of commuters in suburban montreal, canada, with stated preference data",
+        "A methodological framework for the study of residential location and travel-to-work mode choice under central and suburban employment destination patterns"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Wroclaw",
+            "@id": "60019987",
+            "affilname": "Politechnika Wroclawska",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019987",
+            "affiliation-country": "Poland"
+        },
+        {
+            "affiliation-city": "Ostrava",
+            "@id": "60018768",
+            "affilname": "VSB \u2013 Technical University of Ostrava",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018768",
+            "affiliation-country": "Czech Republic"
+        },
+        {
+            "affiliation-city": "Katowice",
+            "@id": "60006225",
+            "affilname": "Uniwersytet Slaski w Katowicach",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006225",
+            "affiliation-country": "Poland"
+        }
+    ],
+    "funding": [
+        "VSB-the Technical University of Ostrava"
+    ]
+}

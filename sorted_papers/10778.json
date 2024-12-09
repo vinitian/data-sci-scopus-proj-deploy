@@ -1,0 +1,136 @@
+{
+    "eid": "2-s2.0-85046443732",
+    "title": "Meta-analysis of GWAS on both Chinese and European populations identifies GPR173 as a novel X chromosome susceptibility gene for SLE",
+    "cover-date": "2018-05-03",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Rheumatology",
+            "@code": "2745",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Immunology and Allergy",
+            "@code": "2723",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Immunology",
+            "@code": "2403",
+            "@abbrev": "IMMU"
+        }
+    ],
+    "keywords": [
+        "Association",
+        "Genetics",
+        "Single-nucleotide polymorphisms",
+        "Systemic lupus erythematosus",
+        "X chromosome"
+    ],
+    "authors": [
+        "Huoru Zhang",
+        "Yan Zhang",
+        "Yong Fei Wang",
+        "David Morris",
+        "Nattiya Hirankarn",
+        "Yujun Sheng",
+        "Jiangshan Shen",
+        "Hai Feng Pan",
+        "Jing Yang",
+        "Sen Yang",
+        "Yong Cui",
+        "Dong Qing Ye",
+        "Timothy J. Vyse",
+        "Xuejun Zhang",
+        "Yu Lung Lau",
+        "Wanling Yang"
+    ],
+    "citedby-count": 14,
+    "ref-count": 32,
+    "ref-list": [
+        "Septic arthritis in patients with systemic lupus erythematosus: salmonella and nonsalmonella infections compared",
+        "Late-onset systemic lupus erythematosus: a personal series of 47 patients and pooled analysis of 714 cases in the literature",
+        "Klinefelter's syndrome (47,XXY) in male systemic lupus erythematosus patients: support for the notion of a gene-dose effect from the X chromosome",
+        "Formation of the sex chromatin by a single X-chromosome in liver cells of Rattus norvegicus",
+        "Landscape of X chromosome inactivation across human tissues",
+        "X-inactivation profile reveals extensive variability in X-linked gene expression in females",
+        "Overexpression of X-linked genes in T cells from women with lupus",
+        "Sex-specific association of X-linked Toll-like receptor 7 (TLR7) with male systemic lupus erythematosus",
+        "Meta-analysis of GWAS on two Chinese populations followed by replication identifies novel genetic variants on the X chromosome associated with systemic lupus erythematosus",
+        "Genetic association analyses implicate aberrant regulation of innate and adaptive immunity genes in the pathogenesis of systemic lupus erythematosus",
+        "Discovery of a novel genetic susceptibility locus on X chromosome for systemic lupus erythematosus",
+        "Fine mapping of Xq28: both MECP2 and IRAK1 contribute to risk for systemic lupus erythematosus in multiple ancestral groups",
+        "Genome-wide association study in Asian populations identifies variants in ETS1 and WDFY4 associated with systemic lupus erythematosus",
+        "Genome-wide association study in a Chinese Han population identifies nine new susceptibility loci for systemic lupus erythematosus",
+        "A general approach for haplotype phasing across the full spectrum of relatedness",
+        "Genotype imputation for genome-wide association studies",
+        "METAL: fast and efficient meta-analysis of genomewide association scans",
+        "Analysis of autosomal genes reveals gene-sex interactions and higher total genetic risk in men with systemic lupus erythematosus",
+        "Genome-wide association meta-analysis in Chinese and European individuals identifies ten new loci associated with systemic lupus erythematosus",
+        "Breast cancer risk-associated SNPs modulate the affinity of chromatin for FOXA1 and alter gene expression",
+        "A user's guide to the encyclopedia of DNA elements (ENCODE)",
+        "LocusZoom: regional visualization of genome-wide association scan results",
+        "Sexually dimorphic actions of glucocorticoids provide a link to inflammatory diseases with gender differences in prevalence",
+        "Systematic localization of common disease-associated variation in regulatory DNA",
+        "Linking disease associations with regulatory information in the human genome",
+        "Annotation of functional variation in personal genomes using RegulomeDB",
+        "Meta-analysis identifies 29 additional ulcerative colitis risk loci, increasing the number of confirmed associations to 47",
+        "A novel sarcoidosis risk locus for Europeans on chromosome 11q13.1",
+        "Genome-wide meta-analysis increases to 71 the number of confirmed Crohn's disease susceptibility loci",
+        "A genome-wide association study of brain lesion distribution in multiple sclerosis",
+        "A genome-wide association study suggests contrasting associations in ACPA-positive versus ACPA-negative rheumatoid arthritis",
+        "Robust evidence for five new Graves' disease risk loci from a staged genome-wide association analysis"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": null,
+            "@id": "60103563",
+            "affilname": "The University of Hong Kong Li Ka Shing Faculty of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103563",
+            "affiliation-country": "Hong Kong"
+        },
+        {
+            "affiliation-city": "Hefei",
+            "@id": "60014454",
+            "affilname": "Anhui Medical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014454",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Beijing",
+            "@id": "60013449",
+            "affilname": "China-Japan Friendship Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013449",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Guangzhou",
+            "@id": "60013156",
+            "affilname": "Guangzhou Medical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013156",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60011520",
+            "affilname": "King's College London",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011520",
+            "affiliation-country": "United Kingdom"
+        }
+    ],
+    "funding": [
+        "Hong Kong Health and Medical Research Fund",
+        "Research Grants Council of the Hong Kong Government",
+        "National Natural Science Foundation of China",
+        "HMRF"
+    ]
+}

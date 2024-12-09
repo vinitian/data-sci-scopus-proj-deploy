@@ -1,0 +1,118 @@
+{
+    "eid": "2-s2.0-85163399880",
+    "title": "Comparative analysis of Energy Monitoring Systems in the context of the Industry 3.0 and Industry 4.0 paradigms",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Education",
+            "@code": "3304",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Arts and Humanities (miscellaneous)",
+            "@code": "1201",
+            "@abbrev": "ARTS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Media Technology",
+            "@code": "2214",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Health Informatics",
+            "@code": "2718",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "EMS",
+        "Energy Monitoring Systems",
+        "Industry 3.0",
+        "Industry 4.0",
+        "MQTT",
+        "SCADA"
+    ],
+    "authors": [
+        "Svetozar Yolov",
+        "Nina Bencheva",
+        "David Banjerdpongchai",
+        "Plamen Zahariev",
+        "Georgi Hristov",
+        "Nikolay Zlatov"
+    ],
+    "citedby-count": 0,
+    "ref-count": 26,
+    "ref-list": [
+        "Design of Building Energy Monitoring and Management System",
+        "Capacity development by implementation of PLC trainings towards Industry 4. 0",
+        "A review on the main characteristics and security vulnerabilities of the wireless communication technologies in the Industry 4. 0 domain",
+        "Implementation of Industrial Automation Sustainable Training in Savannakhet University, Laos",
+        "TD-MQTT: Transparent Distributed MQTT Brokers for Horizontal IoT Applications",
+        "Implementation of Modbus RTU and Modbus TCP communication using Siemens S7-1200 PLC for batch process",
+        "Design and realization of S7-200 as modbus-RTU master station",
+        "Research and Application of Communication Gateway of EPA and MODBUS/TCP",
+        "An emulation of data concentrator units conformed to DLMS-HDLC protocols",
+        "Requirements and solutions for the support of heterogeneous types of traffic in the industrial environment",
+        "Comparative Analysis on Industrial IoT Communication Protocols and its Future Directives",
+        "Intergrated Production System using ERP and MES",
+        "Impact of local and wide area networks on SCADA and SCADA/EMS systems",
+        "Converging MQTT Resources in ETSI Standards Based M2M Platform",
+        "Comparison with HTTP and MQTT In Internet of Things (IoT)",
+        "Performance Evaluation of MQTT Broker Servers",
+        "MQTT Quality of Service versus Energy Consumption"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Sofia",
+            "@id": "60011317",
+            "affilname": "Institute of Mechanics Bulgarian Academy of Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011317",
+            "affiliation-country": "Bulgaria"
+        },
+        {
+            "affiliation-city": "Ruse",
+            "@id": "60006060",
+            "affilname": "University of Rousse",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006060",
+            "affiliation-country": "Bulgaria"
+        }
+    ],
+    "funding": [
+        "Capacity Building in the Field of Higher Education"
+    ]
+}

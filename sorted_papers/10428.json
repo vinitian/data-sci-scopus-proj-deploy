@@ -1,0 +1,106 @@
+{
+    "eid": "2-s2.0-85102733816",
+    "title": "Performance improvement of adaptive wavelet thresholding for speech enhancement using generalized Gaussian priors and frame-wise context modeling",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Context modeling",
+        "Speech enhancement",
+        "Wavelet thresholding"
+    ],
+    "authors": [
+        "Parna Chakraborty Bhattacharya",
+        "Nisachon Tangsangiumvisai",
+        "Apisak Worapishet"
+    ],
+    "citedby-count": 2,
+    "ref-count": 52,
+    "ref-list": [
+        "Conversational in-vehicle dialog systems: The past, present, and future",
+        "Novice user experiences with a voice-enabled human-robot interaction tool",
+        "Speech enhancement for in-vehicle voice control systems using wavelet analysis and blind source separation",
+        "The Internet of Things 2.0: When things start to listen",
+        "Speech coding, speech interfaces and IOT-opportunities and challenges",
+        "Speech processing for digital home assistants: Combining signal processing with deep-learning techniques",
+        "Suppression of acoustic noise in speech using spectral subtraction",
+        "A multi-band spectral subtraction method for enhancing speech corrupted by colored noise",
+        "A subtractive-type speech enhancement using the perceptual frequency-weighting function",
+        "A novel multi-band spectral subtraction method based on phase modification and magnitude compensation",
+        "Musical-noise-free speech enhancement based on optimized iterative spectral subtraction",
+        "Two-microphone subband noise reduction scheme with a new noise subtraction parameter for speech quality enhancement",
+        "Speech enhancement using a minimum-mean square error short-time spectral amplitude estimator",
+        "Speech enhancement using a minimum mean-square error log-spectral amplitude estimator",
+        "Minimum mean-square error estimation of discrete Fourier coefficients with generalized gamma priors",
+        "Estimators of the magnitude-squared spectrum and methods for incorporating SNR uncertainty",
+        "Beta-order MMSE spectral amplitude estimation for speech enhancement",
+        "Unbiased MMSE-based noise power estimation with low complexity and low tracking delay",
+        "A Laplacian-based MMSE estimator for speech enhancement",
+        "Speech enhancement by MAP spectral amplitude estimation using a super-Gaussian speech model",
+        "Speech enhancement based on minimum mean-square error estimation and supergaussian priors",
+        "Elimination of the musical noise phenomenon with the Ephraim and Malah noise suppressor",
+        "Statistical methods for the enhancement of noisy speech",
+        "Optimal speech enhancement under signal presence uncertainty using log-spectral amplitude estimator",
+        "Speech enhancement based on perceptually motivated Bayesian estimators of the magnitude spectrum",
+        "Ideal spatial adaptation by wavelet shrinkage",
+        "De-noising by soft-thresholding",
+        "Wavelet shrinkage: Asymptopia?",
+        "Wavelet thresholding for multiple noisy image copies",
+        "Wavelet speech enhancement based on the Teager energy operator",
+        "A new approach for speech enhancement based on the adaptive thresholding of the wavelet packets",
+        "Speech enhancement algorithm using recursive wavelet shrinkage",
+        "Adaptive wavelet packet thresholding with iterative Kalman filter for speech enhancement",
+        "Speech signal enhancement through adaptive wavelet thresholding",
+        "Speech enhancement using wavelet thresholding method based on symmetric Kullback-Leibler divergence",
+        "Speech enhancement based on student t modeling of teager energy operated perceptual wavelet packet coefficients and a custom thresholding function",
+        "Rayleigh modeling of teager energy operated perceptual wavelet packet coefficients for enhancing noisy speech",
+        "Speech enhancement based on wavelet thresholding the multitaper spectrum",
+        "A wavelet-based forward BSS algorithm for acoustic noise reduction and speech enhancement",
+        "Thresholding wavelet-based forward BSS algorithm for speech enhancement and complexity reduction",
+        "Spatially adaptive wavelet thresholding with context modeling for image denoising",
+        "Noise spectrum estimation in adverse environments: Improved minima controlled recursive averaging",
+        "The AURORA experimental framework for the performance evaluation of speech recognition systems under noisy conditions",
+        "A practical procedure to estimate the shape parameter in the generalized Gaussian distribution",
+        "Robust and efficient subspace segmentation via least squares regression",
+        "Voice activity detection in nonstationary noise",
+        "An algorithm for intelligibility prediction of Time-Frequency weighted noisy speech",
+        "Evaluation of objective quality measures for speech enhancement"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60009119",
+            "affilname": "Mahanakorn University of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009119",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

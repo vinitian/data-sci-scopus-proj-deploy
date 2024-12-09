@@ -1,0 +1,89 @@
+{
+    "eid": "2-s2.0-85112848005",
+    "title": "Forecasting the quantity and concentration of flocculant in clarification process for sugarcane industry",
+    "cover-date": "2021-05-19",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Clarification process",
+        "Flocculant",
+        "Forecasting",
+        "LSTM neural network",
+        "Sugarcane industry"
+    ],
+    "authors": [
+        "Singhadid Chantaruk",
+        "Diew Koolpiruck",
+        "Prahhas Chongstitvatana"
+    ],
+    "citedby-count": 1,
+    "ref-count": 14,
+    "ref-list": [
+        "Flocculation and sedimentation of cane sugar juice particles with catiomic homo-and copolymers",
+        "The use of artma models for reliability forecasting and analy-sis",
+        "Forecasting with artificial neural networks: The state of the art",
+        "On the difficulty of training recurrent neural networks",
+        "Long short-term memory",
+        "Neural netowrk modeling and hdp for neutralized ph value control in the clarifying process of sugar cane juice",
+        "Modelling and control of chemical process in sugar industry",
+        "Predictive model of production index for sugar clarification process by gdfnn",
+        "Time series forecasting of petroleum production using deep LSTM recurrent networks",
+        "Calrification of cane juice for fermentation",
+        "Model selection for multivariate regression in small samples",
+        "Empirical evaluation of gated recurrent neural networks on sequence modeling",
+        "Adam: A method for stochastic optimization"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Thonburi",
+            "@id": "60008786",
+            "affilname": "King Mongkut's University of Technology Thonburi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008786",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

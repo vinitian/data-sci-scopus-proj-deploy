@@ -1,0 +1,74 @@
+{
+    "eid": "2-s2.0-85079072265",
+    "title": "A column generation on two-dimensional cutting stock problem with fixed-size usable leftover and multiple stock sizes",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Management Information Systems",
+            "@code": "1404",
+            "@abbrev": "BUSI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Management Science and Operations Research",
+            "@code": "1803",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "B&c",
+        "Column generation",
+        "CSP",
+        "Cutting stock problem",
+        "Guillotine cut",
+        "Heuristics",
+        "Stock size",
+        "Two-dimensional cut",
+        "Usable leftover"
+    ],
+    "authors": [
+        "Supphakorn Sumetthapiwat",
+        "Boonyarit Intiyot",
+        "Chawalit Jeenanunta"
+    ],
+    "citedby-count": 7,
+    "ref-count": 12,
+    "ref-list": [
+        "Two-stage two-dimensional guillotine cutting stock problems with usable leftover",
+        "Comparison of two metaheuristics to solve a 2-D cutting stock problem with set-up cost in the paper industry",
+        "A column generation heuristic for the two-dimensional two-staged guillotine cutting stock problem with multiple stock size",
+        "A linear programming approach to the cutting-stock problem",
+        "A linear programming approach to the cutting stock problem \u2013 Part II",
+        "A hybrid approach for optimization of one-dimensional cutting",
+        "Integer linear programming models for 2-staged two-dimensional knapsack problems",
+        "Algorithms for two-dimensional cutting stock and strip packing problems using dynamic programming and column generation",
+        "Near-optimal solutions to one-dimensional cutting stock problems",
+        "A note on handling residual lengths",
+        "The one dimensional cutting stock problem using two objectives",
+        "Heuristics for two-dimensional rectangular guillotine cutting stock"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60012521",
+            "affilname": "Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012521",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

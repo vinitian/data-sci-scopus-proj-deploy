@@ -1,0 +1,114 @@
+{
+    "eid": "2-s2.0-85127030881",
+    "title": "Fabrication of a Human Skin Mockup with a Multilayered Concentration Map of Pigment Components Using a UV Printer",
+    "cover-date": "2022-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Graphics and Computer-Aided Design",
+            "@code": "1704",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "3D printing",
+        "human skin",
+        "image processing",
+        "machine learning",
+        "skin pigments"
+    ],
+    "authors": [
+        "Kazuki Nagasawa",
+        "Shoji Yamamoto",
+        "Wataru Arai",
+        "Kunio Hakkaku",
+        "Chawan Koopipat",
+        "Keita Hirai",
+        "Norimichi Tsumura"
+    ],
+    "citedby-count": 2,
+    "ref-count": 35,
+    "ref-list": [
+        "Medical applications for 3D printing: Current and projected uses",
+        "3D printing in dentistry",
+        "Initiator-Integrated 3D Printing Enables the Formation of Complex Metallic Architectures",
+        "Accurate and Computational: A review of color reproduction in Full-color 3D printing",
+        "Pushing the limits of 3D color printing: Error diffusion with translucent materials",
+        "Color Uniformity Improvement for an Inkjet Color 3D Printing System",
+        "Color contoning for 3D printing",
+        "Deep multispectral painting reproduction via multi-layer, custom-ink printing",
+        "Towards gloss control in fine art reproduction",
+        "Towards spatially varying gloss reproduction for 3D printing",
+        "Physical reproduction of materials with specified subsurface scattering",
+        "Fabricating spatially-varying subsurface scattering",
+        "Scattering-aware texture reproduction for 3D printing",
+        "Fabricating translucent materials using continuous pigment mixtures",
+        "3D printing spatially varying color and translucency",
+        "Redefining a in rgba: Towards a standard for graphical 3d printing",
+        "Controlling translucency by UV printing on a translucent object",
+        "A layered, heterogeneous reflectance model for acquiring and rendering human skin",
+        "Light diffusion in multi-layered translucent materials",
+        "Mapping pigmentation in human skin from a multi-channel visible spectrum image by inverse optical scattering technique",
+        "Estimation of blood concentration at different skin depths using a spectroscopic camera",
+        "Spectral-based estimation of components concentration in skin tissue layers with independence of shading via optical modeling of skin tissue",
+        "Skin Color Separation and Synthesis for E-Cosmetics",
+        "Prediction of the layered ink layout for 3D printers considering a desired skin color and line spread function",
+        "Layout Estimation for Layered Ink of 3D Printer to Reproduce the Desired Line Spread Function of Skin using Simulated Data1",
+        "Image-based skin color and texture analysis/synthesis by extracting hemoglobin and melanin information in the skin",
+        "MCML\u2014Monte Carlo modeling of light transport in multi-layered tissues",
+        "Independent-component analysis of skin color image",
+        "Explanation of Human Skin Color by Multiple Linear Regression Analysis Based on the Modified Lambert-Beer Law",
+        "Color control using neural networks and its application",
+        "Modelling the sampling volume for skin blood oxygenation measurements",
+        "Algorithmic Stability and Sanity-Check Bounds for Leave-One-Out Cross-Validation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60082079",
+            "affilname": "Tokyo Metropolitan College of Industrial Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60082079",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chiba",
+            "@id": "60002787",
+            "affilname": "Chiba University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002787",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Nagano",
+            "@id": "127886614",
+            "affilname": "Ltd.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/127886614",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

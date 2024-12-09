@@ -1,0 +1,301 @@
+{
+    "eid": "2-s2.0-85151143603",
+    "title": "The hidden side of cosmic star formation at z > 3: Bridging optically dark and Lyman-break galaxies with GOODS-ALMA",
+    "cover-date": "2023-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Astronomy and Astrophysics",
+            "@code": "3103",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Space and Planetary Science",
+            "@code": "1912",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [
+        "Galaxies: evolution",
+        "Galaxies: high-redshift",
+        "Galaxies: photometry",
+        "Galaxies: star formation",
+        "Submillimeter: galaxies"
+    ],
+    "authors": [
+        "M. Y. Xiao",
+        "D. Elbaz",
+        "C. G\u00f3mez-Guijarro",
+        "L. Leroy",
+        "L. J. Bing",
+        "E. Daddi",
+        "B. Magnelli",
+        "M. Franco",
+        "L. Zhou",
+        "M. Dickinson",
+        "T. Wang",
+        "W. Rujopakarn",
+        "G. E. Magdis",
+        "E. Treister",
+        "H. Inami",
+        "R. Demarco",
+        "M. T. Sargent",
+        "X. Shu",
+        "J. S. Kartaltepe",
+        "D. M. Alexander",
+        "M. B\u00e9thermin",
+        "F. Bournaud",
+        "L. Ciesla",
+        "H. C. Ferguson",
+        "S. L. Finkelstein",
+        "M. Giavalisco",
+        "Q. S. Gu",
+        "D. Iono",
+        "S. Juneau",
+        "G. Lagache",
+        "R. Leiton",
+        "H. Messias",
+        "K. Motohara",
+        "J. Mullaney",
+        "N. Nagar",
+        "M. Pannella",
+        "C. Papovich",
+        "A. Pope",
+        "C. Schreiber",
+        "J. Silverman"
+    ],
+    "citedby-count": 2,
+    "ref-count": 105,
+    "ref-list": [],
+    "affiliation": [
+        {
+            "affiliation-city": "Nanjing",
+            "@id": "60033100",
+            "affilname": "Nanjing University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60033100",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025272",
+            "affilname": "The University of Tokyo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025272",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "College Station",
+            "@id": "60020547",
+            "affilname": "Texas A&amp;M University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020547",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Biobio",
+            "@id": "60001282",
+            "affilname": "Universidad de Concepcion",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001282",
+            "affiliation-country": "Chile"
+        },
+        {
+            "affiliation-city": "Chiangmai",
+            "@id": "60274668",
+            "affilname": "National Astronomical Research Institute of Thailand",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60274668",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Copenhagen",
+            "@id": "60251043",
+            "affilname": "Cosmic Dawn Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60251043",
+            "affiliation-country": "Denmark"
+        },
+        {
+            "affiliation-city": "Gif-sur-Yvette",
+            "@id": "60106017",
+            "affilname": "Universit\u00e9 Paris-Saclay",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60106017",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Santiago",
+            "@id": "60086353",
+            "affilname": "Atacama Large Millimeter-submillimeter Array",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60086353",
+            "affiliation-country": "Chile"
+        },
+        {
+            "affiliation-city": "Bern",
+            "@id": "60033147",
+            "affilname": "International Space Science Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60033147",
+            "affiliation-country": "Switzerland"
+        },
+        {
+            "affiliation-city": "Higashihiroshima",
+            "@id": "60030788",
+            "affilname": "Hiroshima University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030788",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Mitaka",
+            "@id": "60029701",
+            "affilname": "National Institutes of Natural Sciences - National Astronomical Observatory of Japan",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029701",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Santiago",
+            "@id": "60029681",
+            "affilname": "Pontificia Universidad Cat\u00f3lica de Chile",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029681",
+            "affiliation-country": "Chile"
+        },
+        {
+            "affiliation-city": "Munich",
+            "@id": "60028717",
+            "affilname": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028717",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Durham",
+            "@id": "60022175",
+            "affilname": "Durham University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022175",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Hayama",
+            "@id": "60021523",
+            "affilname": "The Graduate University for Advanced Studies",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021523",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Trieste",
+            "@id": "60018363",
+            "affilname": "Universit\u00e0 degli Studi di Trieste",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018363",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Brighton",
+            "@id": "60017317",
+            "affilname": "University of Sussex",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017317",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Copenhagen",
+            "@id": "60017041",
+            "affilname": "Niels Bohr Institutet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017041",
+            "affiliation-country": "Denmark"
+        },
+        {
+            "affiliation-city": "Amherst",
+            "@id": "60014313",
+            "affilname": "University of Massachusetts Amherst",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014313",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Santiago",
+            "@id": "60013961",
+            "affilname": "European Southern Observatory Santiago",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013961",
+            "affiliation-country": "Chile"
+        },
+        {
+            "affiliation-city": "Austin",
+            "@id": "60013372",
+            "affilname": "The University of Texas at Austin",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013372",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Lyngby",
+            "@id": "60011373",
+            "affilname": "Technical University of Denmark",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011373",
+            "affiliation-country": "Denmark"
+        },
+        {
+            "affiliation-city": "Wuhu",
+            "@id": "60009559",
+            "affilname": "Anhui Normal University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009559",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Baltimore",
+            "@id": "60008158",
+            "affilname": "Space Telescope Science Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008158",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Marseille",
+            "@id": "60007671",
+            "affilname": "Laboratoire d'Astrophysique de Marseille",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007671",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Sheffield",
+            "@id": "60001881",
+            "affilname": "The University of Sheffield",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001881",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Rochester",
+            "@id": "60001777",
+            "affilname": "Rochester Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001777",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Tucson",
+            "@id": "124821061",
+            "affilname": "Community Science and Data Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/124821061",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "ASIAA (Taiwan)",
+        "INSU",
+        "JAO",
+        "NSF",
+        "NASA",
+        "Villum Fonden",
+        "NRAO",
+        "AUI",
+        "NRC",
+        "ADS",
+        "Danish National Research Foundation",
+        "National Natural Science Foundation of China",
+        "NSC",
+        "CNES",
+        "KASI",
+        "China Scholarship Council",
+        "CNRS",
+        "NINS",
+        "NAOJ",
+        "CEA",
+        "National Key Research and Development Program of China",
+        "IN2P3",
+        "ANID"
+    ]
+}

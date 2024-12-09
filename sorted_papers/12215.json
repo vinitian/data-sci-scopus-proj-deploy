@@ -1,0 +1,192 @@
+{
+    "eid": "2-s2.0-85105442390",
+    "title": "Light field image quality enhancement by a lightweight deformable deep learning framework for intelligent transportation systems",
+    "cover-date": "2021-05-02",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Computational complexity",
+        "Deep learning framework",
+        "Image quality",
+        "Intelligent transportation systems",
+        "Light field imaging"
+    ],
+    "authors": [
+        "David Augusto Ribeiro",
+        "Juan Casav\u00edlca Silva",
+        "Renata Lopes Rosa",
+        "Muhammad Saadi",
+        "Shahid Mumtaz",
+        "Lunchakorn Wuttisittikulkij",
+        "Dem\u00f3stenes Zegarra Rodr\u00edguez",
+        "Sattam Al Otaibi"
+    ],
+    "citedby-count": 6,
+    "ref-count": 85,
+    "ref-list": [
+        "Light Field Image Processing: An Overview",
+        "Virtual-Moving Metalens Array Enabling Light-Field Imaging with Enhanced Resolution",
+        "Depth-guided view synthesis for light field reconstruction from a single image",
+        "Deep Reinforcement Learning for Intelligent Transportation Systems: A Survey",
+        "A Deep Learning Model for Transportation Mode Detection Based on Smartphone Sensing Data",
+        "Fuzzy Inference Enabled Deep Reinforcement Learning-Based Traffic Light Control for Intelligent Transportation System",
+        "Lightweight PVIDNet: A priority vehicles detection network model based on deep learning for intelligent traffic lights",
+        "Deep Learning for Intelligent Transportation Systems: A Survey of Emerging Trends",
+        "Truck and Trailer Classification With Deep Learning Based Geometric Features",
+        "RsRS: Ridesharing Recommendation System Based on Social Networks to Improve the User\u2019s QoE",
+        "Artificial Intelligence Shoe Cabinet Using Deep Learning for Smart Home",
+        "SentiMeter-Br: A new social web analysis metric to discover consumers\u2019 sentiment",
+        "An Interpretable Deep Learning Model for Automatic Sound Classification",
+        "Application of Deep Neural Network to the Reconstruction of Two-Phase Material Imaging by Capacitively Coupled Electrical Resistance Tomography",
+        "Facial Emotion Recognition Using Transfer Learning in the Deep CNN",
+        "Recommendation system using sentiment analysis considering the polarity of the adverb",
+        "Drone Deep Reinforcement Learning: A Review",
+        "EDVR: Video Restoration with Enhanced Deformable Convolutional Networks",
+        "Enhanced Routing Algorithm Based on Reinforcement Machine Learning\u2014A Case of VoIP Service",
+        "Large area fabrication of engineered microlens array with low sag height for light-field imaging",
+        "Assessing the Quality of Experience in Viewing Rendered Decompressed Light Fields",
+        "Quantifying Spatial and Angular Resolution of Light-Field 3-D Displays",
+        "Learning-Based View Synthesis for Light Field Cameras",
+        "High-dimensional Dense Residual Convolutional Neural Network for Light Field Reconstruction",
+        "Voice quality assessment in mobile devices considering different fading models",
+        "A Knowledge-Based Recommendation System That Includes Sentiment Analysis and Deep Learning",
+        "Speech Quality Assessment in Wireless VoIP Communication Using Deep Belief Network",
+        "An Efficient Building Extraction Method from High Spatial Resolution Remote Sensing Images Based on Improved Mask R-CNN",
+        "Depth Estimation with Occlusion Modeling Using Light-Field Cameras",
+        "High Quality Depth Map Estimation of Object Surface from Light Field Images",
+        "Reconstruction of compressively sampled light field by using tensor dictionaries",
+        "Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue",
+        "Light Field Reconstruction Using Deep Convolutional Network on EPI",
+        "Light Field Reconstruction Using Convolutional Network on EPI and Extended Applications",
+        "Robust and fast image hashing with two-dimensional PCA",
+        "Video compression using hybrid hexagon search and teaching\u2013learning-based optimization technique for 3D reconstruction",
+        "Multilevel active registration for kinect human body scans: From low quality to high quality",
+        "A Multi-blocked Image Classifier for Deep Learning",
+        "Pulmonary Nodule Classification Based on Heterogeneous Features Learning",
+        "Region-of-Interest Based Transfer Learning Assisted Framework for Skin Cancer Detection",
+        "Visible light communication\u2013an architectural perspective on the applications and data rate improvement strategies",
+        "Single Remote Sensing Image Super-Resolution with an Adaptive Joint Constraint Model",
+        "Super Resolution of Light Field Images Using Linear Subspace Projection of Patch-Volumes",
+        "Geometry-Consistent Light Field Super-Resolution via Graph-Based Regularization",
+        "Light Field Super-Resolution Using Edge-Preserved Graph-Based Regularization",
+        "Light Field Super-Resolution via LFBM5D Sparse Coding",
+        "Light-Field Image Superresolution Using a Combined Deep CNN Based on EPI",
+        "Residual Networks for Light Field Image Super-Resolution",
+        "LFNet: A Novel Bidirectional Recurrent Convolutional Neural Network for Light-Field Image Super-Resolution",
+        "Light Field Spatial Super-Resolution Using Deep Efficient Spatial-Angular Separable Convolution",
+        "Visible light-based indoor localization using k-means clustering and linear regression",
+        "Trustworthy edge storage orchestration in intelligent transportation systems using reinforcement learning",
+        "SWIPT Enabled Intelligent Transportation Systems with Advanced Sensing Fusion",
+        "Design and Testing of Autonomous Steering System Implemented on a Toyota Ha: mo",
+        "A Convolution Bidirectional Long Short-Term Memory Neural Network for Driver Emotion Recognition",
+        "Deep unified model for face recognition based on convolution neural network and edge computing",
+        "A Geometric Analysis of Light Field Rendering",
+        "Panoramic Light Field From Hand-Held Video and Its Sampling for Real-Time Rendering",
+        "Disparity estimation from light fields using sheared EPI analysis",
+        "Light field denoising by sparse 5D transform domain collaborative filtering",
+        "Semantically Guided Large Deformation Estimation with Deep Networks",
+        "Deep Residual Learning for Image Recognition",
+        "Densely Connected Convolutional Networks",
+        "Improved image classification with 4D light-field and interleaved convolutional neural network",
+        "Intrusion Detection System Based on Fast Hierarchical Deep Convolutional Neural Network",
+        "Q-Meter: Quality Monitoring System for Telecommunication Services Based on Sentiment Analysis Using Deep Learning",
+        "Image Super-Resolution Using Deep Convolutional Networks",
+        "Deeply-Recursive Convolutional Network for Image Super-Resolution",
+        "Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution",
+        "Meta-SR: A Magnification-Arbitrary Network for Super-Resolution",
+        "Light-Field Image Super-Resolution Using Convolutional Neural Network",
+        "Light Field Image Quality Assessment via the Light Field Coherence",
+        "Enhanced Deep Residual Networks for Single Image Super-Resolution",
+        "Light Field Spatial Super-Resolution via Deep Combinatorial Geometry Embedding and Structural Consistency Regularization",
+        "Deformable Convolutional Networks",
+        "TDAN: Temporally-Deformable Alignment Network for Video Super-Resolution",
+        "Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution",
+        "Light Field Inpainting Propagation via Low Rank Matrix Completion",
+        "A Dataset and Evaluation Methodology for Depth Estimation on 4D Light Fields",
+        "New Light Field Image Dataset",
+        "Datasets and Benchmarks for Densely Sampled 4D Light Fields",
+        "Image Super-Resolution Using Very Deep Residual Channel Attention Networks",
+        "Second-Order Attention Network for Single Image Super-Resolution"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Lahore",
+            "@id": "60103839",
+            "affilname": "University of Central Punjab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103839",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Taif",
+            "@id": "60091164",
+            "affilname": "Taif University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091164",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Lima",
+            "@id": "60071236",
+            "affilname": "Pontificia Universidad Catolica del Peru",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071236",
+            "affiliation-country": "Peru"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Lavras",
+            "@id": "60017841",
+            "affilname": "Universidade Federal de Lavras",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017841",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Aveiro",
+            "@id": "60017375",
+            "affilname": "Instituto de Telecomunica\u00e7\u00f5es",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017375",
+            "affiliation-country": "Portugal"
+        }
+    ],
+    "funding": [
+        "Machine Learning",
+        "TSRI Fund",
+        "Funda\u00e7\u00e3o de Amparo \u00e0 Pesquisa do Estado de S\u00e3o Paulo",
+        "CNPq",
+        "Taif University"
+    ]
+}

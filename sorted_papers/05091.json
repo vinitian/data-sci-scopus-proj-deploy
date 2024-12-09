@@ -1,0 +1,79 @@
+{
+    "eid": "2-s2.0-85106757141",
+    "title": "Deep learning-based visual defect-inspection system for reinforced concrete bridge substructure: a case of Thailand\u2019s department of highways",
+    "cover-date": "2021-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Bridge visual defect inspection",
+        "Convolutional neural network (CNN)",
+        "Crack detection",
+        "Defect classification",
+        "Defect severity prediction"
+    ],
+    "authors": [
+        "Pravee Kruachottikul",
+        "Nagul Cooharojananone",
+        "Gridsada Phanomchoeng",
+        "Thira Chavarnakul",
+        "Kittikul Kovitanggoon",
+        "Donnaphat Trakulwaranont"
+    ],
+    "citedby-count": 21,
+    "ref-count": 31,
+    "ref-list": [
+        "An appraisal into the potential application of big data in the construction industry",
+        "Can technology improve routine visual bridge inspections?",
+        "Challenges of bridge maintenance inspection",
+        "Bridge inspection and management system based on smart phone",
+        "Bridge damage identification using artificial neural networks",
+        "Big data in the construction industry: a review of present status, opportunities, and future trends",
+        "Analysis of edge-detection techniques for crack identification in bridges",
+        "Crack detection using image processing: a critical review and analysis",
+        "Intelligent Crack Detection Algorithm on the Concrete Crack Image Using Neural Network",
+        "Crack detection using a texture analysis-based technique for visual bridge inspection",
+        "Crack and noncrack classification from concrete surface images using machine learning",
+        "A vision-based active learning convolutional neural network model for concrete surface crack detection",
+        "A research on an improved Unet-based concrete crack detection algorithm",
+        "Automated prediction of condition state rating in bridge inspection",
+        "Bridge sub structure defect inspection assistance by using deep learning",
+        "Deep residual learning for image recognition",
+        "Research on image classification model based on deep convolution neural network",
+        "Imagenet classification with deep convolutional neural networks",
+        "Going deeper with convolutions",
+        "Inception-v4, Inception-ResNet and the impact of residual connections on learning",
+        "How transferable are features in deep neural networks?",
+        "Auxiliary training: Towards accurate and robust models"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199583",
+            "affilname": "Chulalongkorn Business School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199583",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Solitech Innovations and Technologies Co., Ltd."
+    ]
+}

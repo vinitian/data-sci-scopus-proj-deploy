@@ -1,0 +1,74 @@
+{
+    "eid": "2-s2.0-85165642664",
+    "title": "Effect of Drop-out Layers Inside an Long Short-Term Memory for Household Load Forecast Application",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Drop-out Layer",
+        "Load forecast",
+        "LSTM",
+        "Neural Network"
+    ],
+    "authors": [
+        "Sanaullah Soomro",
+        "Wanchalerm Pora"
+    ],
+    "citedby-count": 0,
+    "ref-count": 17,
+    "ref-list": [
+        "Deep learning based ensemble method for household energy demand forecasting of smart home",
+        "Short-termresidential load forecasting based on lstm recurrent neural network",
+        "Review of deep learning application for short-term household load forecasting",
+        "Energy consumption predicting model of VRV (Variable refrigerant volume) system in office buildings based on data mining",
+        "Analyze the energy consumption characteristics and affecting factors of Taiwan's convenience stores-usingthe big data mining approach",
+        "Regression analysis of electric energy consumpti on of commercial buildings in Brazil",
+        "A decision tree method for building energy demand modeling",
+        "Predicting electricity energy consumption: A comparison of regression analysis, decision tree and neural networks",
+        "Modeling and predicting building's energy use with artificial neural networks: Methods and results",
+        "Forecastingenergy consumption of multi-family residential buildings using support vector regression: Investigating the impact of temporal and spatial monitoring granularity on performance accuracy",
+        "Support vector machine in prediction of building energy demand using pseudo dynamic approach",
+        "Prediction of residential building energy consumption: A neural network approach",
+        "Multimodel prediction and simulation of residential building energy in urban areas of chongqing, south west china",
+        "Review of deep learning application for short term household load forecasting",
+        "Softtarget regularization: An effective technique to reduce over-fitting in neural networks"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

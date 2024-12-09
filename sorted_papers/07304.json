@@ -1,0 +1,65 @@
+{
+    "eid": "2-s2.0-85054858889",
+    "title": "A Matrix Decomposition Method for Odd-Type Gaussian Normal Basis Multiplication",
+    "cover-date": "2018-09-11",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "binary extension field",
+        "bit-parallel multiplier",
+        "Gaussian normal basis"
+    ],
+    "authors": [
+        "Kittiphon Phalakarn",
+        "Athasit Surarerks"
+    ],
+    "citedby-count": 0,
+    "ref-count": 12,
+    "ref-list": [
+        "An efficient optimal normal basis type II multiplier",
+        "Efficient algorithms and architectures for field multiplication using Gaussian normal bases",
+        "A modified low complexity digit-level Gaussian normal basis multiplier",
+        "Low-complexity multiplier architectures for single and hybrid-double multiplications in Gaussian normal bases",
+        "Common subexpression algorithms for space-complexity reduction of Gaussian normal basis multiplication",
+        "A matrix decomposition method for optimal normal basis multiplication",
+        "Optimal normal bases in gf (pn)",
+        "Low complexity normal bases",
+        "Konstruktion von normalbasen",
+        "Efficient digit-serial normal basis multipliers over binary extension fields"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chula Computer Engineering",
+        "Chulalongkorn University"
+    ]
+}

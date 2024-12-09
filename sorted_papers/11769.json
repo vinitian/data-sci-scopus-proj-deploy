@@ -1,0 +1,107 @@
+{
+    "eid": "2-s2.0-85102643330",
+    "title": "Meta-Path Based Gene Ontology Profiles for Predicting Drug-Disease Associations",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "drug repositioning",
+        "Drug-disease association",
+        "ensemble learning",
+        "gene ontology profile",
+        "meta-path",
+        "tripartite network"
+    ],
+    "authors": [
+        "Thitipong Kawichai",
+        "Apichat Suratanee",
+        "Kitiporn Plaimas"
+    ],
+    "citedby-count": 10,
+    "ref-count": 37,
+    "ref-list": [
+        "A survey of current trends in computational drug repositioning",
+        "Drug repur-posing: A better approach for infectious disease drug discovery?",
+        "New tricks for an old drug",
+        "Drug repurposing: Progress, challenges and recommendations",
+        "PREDICT: A method for inferring novel drug indications with application to personalized medicine",
+        "Drug repositioning by integrating target information through a heterogeneous network model",
+        "Heterogeneous network model to identify potential associations between plasmodium vivax and human proteins",
+        "Drug repositioning based on comprehensive similarity measures and Bi-Random walk algorithm",
+        "DeepDR: A network-based deep learning approach to in silico drug repositioning",
+        "NEDD: A network embedding based method for predicting drug-disease associations",
+        "Predicting drug-disease associations through layer attention graph convolutional network",
+        "In silico methods for drug repurposing and pharmacology",
+        "Network-based drug repositioning: Approaches, resources, and research directions",
+        "Prediction of drug-disease associations based on ensemble meta paths and singular value decomposition",
+        "Link prediction only with interaction data and its application on drug repositioning",
+        "DrugBank 5.0: A major update to the DrugBank database for 2018",
+        "DisGeNET: A comprehensive platform integrating information on human disease-associated genes and variants",
+        "The GOA database: Gene ontology annotation updates for 2015",
+        "The comparative toxi-cogenomics database: Update 2019",
+        "RepTB: A gene ontology based drug repurposing approach for tuberculosis",
+        "Building the drug-GO function network to screen significant candidate drugs for myasthenia gravis",
+        "Predicting disease-associated circular RNAs using deep forests combined with positive-unlabeled learning methods",
+        "Discovering meta-paths in large heterogeneous information networks",
+        "The truncatedSVD as a method for regularization",
+        "Identification of drug-disease associations using information of molecular structures and clinical symptoms via deep convolutional neural network",
+        "Efficient training for positive unlabeled learning",
+        "XGBoost: A scalable tree boosting system",
+        "Finding structure with randomness: Probabilistic algorithms for constructing approximate matrix decompositions",
+        "Prediction of drug-disease treatment relations based on positive and unlabeled samples",
+        "Learning from positive and unlabeled data: A survey",
+        "Non-coding RNAs: New biomark-ers and therapeutic targets for esophageal cancer",
+        "The therapeutic and preventive efficacy of curcumin and its derivatives in esophageal cancer",
+        "Vincristine combination with Ca+2 channel blocker increase antitumor effects",
+        "A systems-level analysis of drug-target-disease associations for drug repositioning",
+        "Generating gene ontology-disease inferences to explore mechanisms of human disease at the comparative toxicogenomics database",
+        "GO trimming: Systematically reducing redundancy in large gene ontology datasets",
+        "Positive and unlabeled learning algorithms and applications: A survey"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "60002105",
+            "affilname": "Chulachomklao Royal Military Academy",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002105",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "DPST",
+        "Development and Promotion of Science and Technology Talents Project",
+        "King Mongkut\u2019s University of Technology North Bangkok"
+    ]
+}

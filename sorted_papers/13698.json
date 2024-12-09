@@ -1,0 +1,72 @@
+{
+    "eid": "2-s2.0-85090123672",
+    "title": "Draft Genome Sequence of Leptospira interrogans Serovar Bataviae Strain D64, Isolated from the Urine of an Asymptomatic Dog in Pathum Thani, Thailand",
+    "cover-date": "2020-07-23",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Immunology and Microbiology (miscellaneous)",
+            "@code": "2401",
+            "@abbrev": "IMMU"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Pannawich Boonciew",
+        "Alongkorn Kurilung",
+        "Kerstin Altheimer",
+        "Katrin Hartmann",
+        "Nuvee Prapasarakul"
+    ],
+    "citedby-count": 1,
+    "ref-count": 15,
+    "ref-list": [
+        "Leptospiral pathogenomics",
+        "Investigation on predominant Leptospira serovars and its distribution in humans and livestock in Thailand, 2010 \u20132015",
+        "Leptospirosis: an emerging health problem in Thailand",
+        "Leptospira and leptospirosis",
+        "Leptospira infection and shedding in dogs in Thailand",
+        "Coinfection of Leptospira spp. and Toxoplasma gondii among stray dogs in Bangkok, Thailand",
+        "Nutrition of Leptospira pomona and growth of 13 other serotypes: fractionation of oleic albumin complex and a medium of bovine albumin and polysorbate 80",
+        "A5-miseq: an updated pipeline to assemble microbial genomes from Illumina MiSeq data",
+        "QUAST: quality assessment tool for genome assemblies",
+        "CheckM: assessing the quality of microbial genomes recovered from isolates, single cells, and metagenomes",
+        "NCBI Prokaryotic Genome Annotation Pipeline",
+        "A greedy algorithm for aligning DNA sequences",
+        "Database indexing for production MegaBLAST searches",
+        "Multilocus sequence typing of total-genome-sequenced bacteria"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Munich",
+            "@id": "60028717",
+            "affilname": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028717",
+            "affiliation-country": "Germany"
+        }
+    ],
+    "funding": [
+        "Ratchadapisek Sompoch Endowment Fund",
+        "Secondary Century Fund",
+        "Chulalongkorn University"
+    ]
+}

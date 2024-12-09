@@ -1,0 +1,91 @@
+{
+    "eid": "2-s2.0-85157971781",
+    "title": "Antimicrobial peptides recognition using weighted physicochemical property encoding",
+    "cover-date": "2023-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Antimicrobial peptides",
+        "artificial neural networks",
+        "machine learning"
+    ],
+    "authors": [
+        "Standa Na",
+        "Dhammika Leshan Wannigama",
+        "Thammakorn Saethang"
+    ],
+    "citedby-count": 0,
+    "ref-count": 29,
+    "ref-list": [
+        "Update on the adverse effects of antimicrobial therapies in community practice",
+        "Antimicrobial peptides (AMPs): Ancient compounds that represent novel weapons in the fight against bacteria",
+        "Antimicrobial peptides: Classification, design, application and research progress in multiple fields",
+        "iAMP-2L: A two-level multi-label classifier for identifying antimicrobial peptides and their functional types",
+        "AntiBP2: Improved version of antibacterial peptide prediction",
+        "Predicting antimicrobial peptides with improved accuracy by incorporating the compositional, physico-chemical and structural features into Chou's general PseAAC",
+        "AmPEP: Sequence-based prediction of antimicrobial peptides using distribution patterns of amino acid properties and random forest",
+        "Deep-AmPEP30: Improve short antimicrobial peptides prediction with deep learning",
+        "ACEP: Improving antimicrobial peptides recognition through automatic feature fusion and amino acid embedding",
+        "Co-AMPpred for in silico-aided predictions of antimicrobial peptides by integrating composition-based features",
+        "ACP-DA: Improving the prediction of anticancer peptides using data augmentation",
+        "AI4AVP: An antiviral peptides predictor in deep learning approach with generative adversarial network data augmentation",
+        "LMPred: Predicting antimicrobial peptides using pre-trained language models and deep learning",
+        "Benchmarks in antimicrobial peptide prediction are biased due to the selection of negative data",
+        "DRAMP 2.0, an updated data repository of antimicrobial peptides",
+        "protr/ProtrWeb: R package and web server for generating various numerical representation schemes of protein sequences",
+        "Prediction of protein subcellular locations by incorporating quasi-sequenceorder effect",
+        "Prediction of protein cellular attributes using pseudo-amino acid composition",
+        "AAindex: Amino acid index database",
+        "An introduction to artificial neural network",
+        "Comparison of multi-class classification algorithms on early diagnosis of heart diseases",
+        "Deep learning improves antimicrobial peptide recognition",
+        "Macrel: Antimicrobial peptide screening in genomes and metagenomes",
+        "Deep-AVPpred: Artificial intelligence driven discovery of peptide drugs for viral infections",
+        "AVPpred: Collection and prediction of highly effective antiviral peptides"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60021944",
+            "affilname": "Kasetsart University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021944",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Yamagata",
+            "@id": "60264763",
+            "affilname": "Yamagata Prefectural Central Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60264763",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Faculty of Science, Kasetsart University",
+        "Her Royal Highness Princess Maha Chakri Sirindhorn education project"
+    ]
+}

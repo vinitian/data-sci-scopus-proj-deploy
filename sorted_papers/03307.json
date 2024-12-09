@@ -1,0 +1,122 @@
+{
+    "eid": "2-s2.0-85146678824",
+    "title": "Low-Complexity Beamforming Design for a Cooperative Reconfigurable Intelligent Surface-Aided Cell-Free Network",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analytical Chemistry",
+            "@code": "1602",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "beamforming",
+        "cell-free",
+        "cooperative communication",
+        "low-complexity",
+        "metasurface",
+        "particle swarm optimization",
+        "reconfigurable intelligent surface"
+    ],
+    "authors": [
+        "Muhammad Zain Siddiqi",
+        "Aisha Munir",
+        "Syed Agha Hassnain Mohsan",
+        "Shashi Shah",
+        "Sushank Chaudhary",
+        "Paramin Sangwongngam",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 0,
+    "ref-count": 29,
+    "ref-list": [
+        "Network coordination for spectrally efficient communications in cellular systems",
+        "Fundamental Limits of Cooperation",
+        "On the Total Energy Efficiency of Cell-Free Massive MIMO",
+        "Cell-Free Massive MIMO systems",
+        "Downlink Resource Allocation in Cell-Free Massive MIMO Systems",
+        "Self-Organizing mmWave MIMO Cell-Free Networks With Hybrid Beamforming: A Hierarchical DRL-Based Design",
+        "Energy Efficient Power Allocation for Cell-Free mmWave Massive MIMO With Hybrid Precoder",
+        "On the Performance of FDD Cell-Free Massive MIMO with Compressed Sensing Channel Estimation",
+        "Wireless Communications Through Reconfigurable Intelligent Surfaces",
+        "AIRIS: Artificial intelligence enhanced signal processing in reconfigurable intelligent surface communications",
+        "Limited Channel Feedback Scheme for Reconfigurable Intelligent Surface Assisted MU-MIMO Wireless Communication Systems",
+        "Smart radio environments empowered by reconfigurable intelligent surfaces: How it works, state of research, and the road ahead",
+        "Weighted sum power maximization for intelligent reflecting surface aided SWIPT",
+        "Secure wireless communication via intelligent reflecting surface",
+        "Intelligent reflecting surface: A programmable wireless environment for physical layer security",
+        "Secrecy rate maximization for intelligent reflecting surface assisted multi-antenna communications",
+        "Increasing indoor spectrum sharing capacity using smart reflect-array",
+        "A new wireless communication paradigm through software-controlled metasurfaces",
+        "Reconfigurable reflectarrays and array lenses for dynamic antenna beam control: A review",
+        "Reconfigurable Intelligent Surfaces: Potentials, Applications, and Challenges for 6G Wireless Networks",
+        "Performance Analysis of Large Intelligent Surface Aided Backscatter Communication Systems",
+        "Maximum ergodic capacity of intelligent reflecting surface assisted MIMO wireless communication system",
+        "Weighted sum-rate maximization for reconfigurable intelligent surface-aided wireless networks",
+        "Reconfigurable intelligent surfaces for energy efficiency in wireless communication",
+        "Multicell MIMO Communications Relying on Intelligent Reflecting Surfaces",
+        "Intelligent reflecting surface enhanced wireless networks: Two-timescale beamforming optimization",
+        "Channel Estimation for RIS-Aided Multiuser Millimeter-Wave Systems",
+        "Minimizing the Symbol-Error-Rate for Amplify-and-Forward Relaying Systems Using Evolutionary Algorithms",
+        "Intelligent Reflecting Surfaces: Physics, Propagation, and Pathloss Modeling"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Zhoushan",
+            "@id": "60117839",
+            "affilname": "Ocean College Zhejiang University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60117839",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011525",
+            "affilname": "Thailand National Electronics and Computer Technology Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011525",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Thailand Science Research and Innovation Fund Chulalongkorn University",
+        "Chulalongkorn University"
+    ]
+}

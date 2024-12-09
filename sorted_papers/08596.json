@@ -1,0 +1,91 @@
+{
+    "eid": "2-s2.0-85057751550",
+    "title": "Semantic Segmentation on Medium-Resolution Satellite Images Using Deep Convolutional Networks with Remote Sensing Derived Indices",
+    "cover-date": "2018-09-06",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Deep convolutional neural network",
+        "Landsat-8",
+        "Medium-resolution satellite image",
+        "Remote sensing",
+        "Semantic segmentation"
+    ],
+    "authors": [
+        "Sirinthra Chantharaj",
+        "Kissada Pornratthanapong",
+        "Pitchayut Chitsinpchayakun",
+        "Teerapong Panboonyuen",
+        "Peerapon Vateekul",
+        "Siam Lawavirojwong",
+        "Panu Srestasathiern",
+        "Kulsawasd Jitkajornwanich"
+    ],
+    "citedby-count": 10,
+    "ref-count": 16,
+    "ref-list": [
+        "Fully convolutional networks for semantic segmentation",
+        "Segnet: A deep convolutional encoder-decoder architecture for image segmentation",
+        "Deep learning for remote sensing data: A technical tutorial on the state of the art",
+        "Urban change analysis with multisensor multispectral imagery",
+        "Classification with an edge: Improving semantic image segmentation with boundary detection",
+        "Gated convolutional neural network for semantic segmentation in high-resolution images",
+        "Using the normalized difference water index (NDWI) within a geographic information system to detect swimming pools for mosquito abatement: A practical approach",
+        "Modification of normalised difference water index (NDWI) to enhance open water features in remotely sensed imagery",
+        "Use of normalized difference built-up index in automatically mapping urban areas from TM imagery"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60091494",
+            "affilname": "Geo-Informatics and Space Technology Development Agency",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091494",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ladkrabang Bangkok",
+            "@id": "60021543",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021543",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

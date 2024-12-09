@@ -1,0 +1,97 @@
+{
+    "eid": "2-s2.0-85066621168",
+    "title": "Optimal collection of medical specimens and delivery to central laboratory",
+    "cover-date": "2020-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Decision Sciences (all)",
+            "@code": "1800",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Management Science and Operations Research",
+            "@code": "1803",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "Analytics",
+        "Medical specimen courier",
+        "Routing",
+        "Scheduling",
+        "Transportation"
+    ],
+    "authors": [
+        "Zelda B. Zabinsky",
+        "Pattamon Dulyakupt",
+        "Shabnam Zangeneh-Khamooshi",
+        "Cao Xiao",
+        "Pengbo Zhang",
+        "Seksan Kiatsupaibul",
+        "Joseph A. Heim"
+    ],
+    "citedby-count": 6,
+    "ref-count": 20,
+    "ref-list": [
+        "Mixed integer formulations for a short sea fuel oil distribution problem",
+        "A simple heuristic for m -machine flow-shop and its applications in routing\u2013scheduling problems",
+        "An adaptive guidance approach for the heuristic solution of a minimum multiple trip vehicle routing problem",
+        "Or problems related to home health care: A review of relevant routing and scheduling problems",
+        "Planning in home health care structures: A literature review",
+        "Home health care routing and scheduling: A review",
+        "Scheduling jobs on parallel machines with sequence-dependent setup times",
+        "A cooperative strategy for a vehicle routing problem with pickup and delivery time windows",
+        "An incremental tabu search heuristic for the generalized vehicle routing problem with time windows",
+        "Adaptive memory programming for the vehicle routing problem with multiple trips",
+        "A survey on pickup and delivery problems part I: Transportation between customers and depot",
+        "A survey on pickup and delivery problems part II: Transportation between pickup and delivery locations",
+        "Long-haul vehicle routing and scheduling with working hour rules",
+        "GA: A package for genetic algorithms in R",
+        "The multiconstraint team orienteering problem with multiple time windows",
+        "A web-based route planning tool for transporting laboratory specimens",
+        "A multi-shift vehicle routing problem with windows and cycle times"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Seattle",
+            "@id": "60015481",
+            "affilname": "University of Washington",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015481",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Durham",
+            "@id": "60112142",
+            "affilname": "IQVIA Inc.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60112142",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Chicago",
+            "@id": "60030821",
+            "affilname": "Boeing Corporation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030821",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bellevue",
+            "@id": "116423498",
+            "affilname": "Atigeo LLC",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/116423498",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Department of Laboratory Medicine at the University of Washington",
+        "NSF"
+    ]
+}

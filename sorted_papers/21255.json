@@ -1,0 +1,100 @@
+{
+    "eid": "2-s2.0-85142936635",
+    "title": "Performance assessment of weighted mean temperature models derived from AIRS and ERA5 reanalysis for calculating GPS precipitable water vapor in the thailand region",
+    "cover-date": "2022-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Building and Construction",
+            "@code": "2215",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geophysics",
+            "@code": "1908",
+            "@abbrev": "EART"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geology",
+            "@code": "1907",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [
+        "Atmospheric infrared sounder (AIRS)",
+        "ERA5 reanalysis",
+        "Precipitable water vapor",
+        "Weighted mean temperature"
+    ],
+    "authors": [
+        "Chaiyut Charoenphon",
+        "Chokchai Trakolkul",
+        "Chalermchon Satirapod"
+    ],
+    "citedby-count": 0,
+    "ref-count": 43,
+    "ref-list": [
+        "Comparison of Gnss Pwv and Era5-Derived Pwv Based on Gnss Pwv in Hong Kong, China",
+        "GPS meteorology: remote sensing of atmospheric water vapor using the global positioning system",
+        "GPS meteorology: mapping zenith wet delays onto precipitable water",
+        "Monitoring precipitable water vapor in real-time using kinematic GPS precise point positioning in Thailand",
+        "Improving the accuracy of real-time precipitable water vapour using country-wide meteorological model with precise point positioning in Thailand",
+        "A global assessment of precipitable water vapor derived from GNSS zenith tropospheric delays with ERA5, NCEP FNL, and NCEP GFS products",
+        "Geodesy by radio interferometry: effects of atmospheric modeling errors on estimates of baseline length",
+        "A neural network model for predicting weighted mean temperature",
+        "A second generation of the neural network model for predicting weighted mean temperature",
+        "Evaluation of EGM2008 Using GPS/Leveling Data in THAILAND",
+        "GNSS meteorology in Egypt: modeling weighted mean temperature from radiosonde data",
+        "National/Regional operational procedures of gps water vapour networks and agreed international procedures",
+        "VMF3/GPT3: refined discrete and empirical troposphere mapping functions",
+        "The spectral distribution of solar radiation at the Earth's surface\u2014elements of a model",
+        "An ERA5-based hourly global pressure and temperature (HGPT) model",
+        "An evaluation of the accuracy of models for the determination of weighted mean temperature of the atmosphere",
+        "Spatial variation of precipitable water vapor derived from GNSS CORS in Thailand",
+        "Evaluation of AIRS precipitable water vapor against ground-based GPS measurements over the tibetan plateau and its surroundings",
+        "Contribution of GNSS CORS infrastructure to the mission of modern geodesy and status of GNSS CORS in Thailand",
+        "Contributions to the theory of atmospheric refraction",
+        "Performance assessment of GPS-Sensed precipitable water vapor using IGS ultra-rapid orbits: a preliminary study in Thailand",
+        "A global analysis of the mean atmospheric temperature for GPS water vapor estimation",
+        "Performance of ERA5 data in retrieving precipitable water vapour over East African tropical region",
+        "An ERA5-based model for estimating tropospheric delay and weighted mean temperature over china with improved spatiotemporal resolutions",
+        "A global model for estimating tropospheric delay and weighted mean temperature developed with atmospheric reanalysis data from 1979 to 2017",
+        "Improving the estimation of weighted mean temperature in china using machine learning methods",
+        "Deriving the mean tropospheric temperature model using AIRS and AMSU for GNSS precipitable water vapour estimation",
+        "Analysis of PWV derived from the GNSS CORS stations for determining the onset of the Southwest monsoon in Thailand",
+        "Variations of precipitable water vapor using GNSS CORS in Thailand",
+        "Impact of El Ni\u00f1o\u2013Southern oscillation (ENSO) on the precipitable water vapor in Thailand from long term GPS observation",
+        "Global estimates of water-vapor-weighted mean temperature of the atmosphere for GPS applications",
+        "Water vapor-weighted mean temperature and its impact on the determination of precipitable water vapor and its linear trend",
+        "Evaluation of precipitable water vapor from five reanalysis products with ground-based GNSS observations",
+        "Determination of weighted mean temperature (Tm) lapse rate and assessment of its impact on Tmcalculation",
+        "An improved weighted mean temperature (Tm) model based on GPT2w with Tmlapse rate",
+        "Improved one/multi-parameter models that consider seasonal and geographic variations for estimating weighted mean temperature in ground-based GPS meteorology",
+        "GTm-III: a new global empirical model for mapping zenith wet delays onto precipitable water vapour",
+        "Establishing a method of short-term rainfall forecasting based on GNSS-derived PWV and its application",
+        "A New Approach to Homogenize Global Subdaily Radiosonde Temperature Data from 1958 to 2018"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Phra Nakhon si Ayutthaya",
+            "@id": "60269766",
+            "affilname": "Rajamangala University of Technology Suvarnabhumi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60269766",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Hydro\u2013Informatics Institute",
+        "Chulalongkorn University",
+        "National Research Council of Thailand"
+    ]
+}

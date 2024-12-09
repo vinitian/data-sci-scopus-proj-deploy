@@ -1,0 +1,104 @@
+{
+    "eid": "2-s2.0-85165720413",
+    "title": "Hybrid GA-ANN and PSO-ANN methods for accurate prediction of uniaxial compression capacity of CFDST columns",
+    "cover-date": "2023-06-25",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Building and Construction",
+            "@code": "2215",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Metals and Alloys",
+            "@code": "2506",
+            "@abbrev": "MATE"
+        }
+    ],
+    "keywords": [
+        "artificial neural networks",
+        "concrete filled double skin steel tubes",
+        "genetic algorithm",
+        "machine learning",
+        "particle swarm optimization"
+    ],
+    "authors": [
+        "Quang Viet Vu",
+        "Sawekchai Tangaramvong",
+        "Thu Huynh Van",
+        "George Papazafeiropoulos"
+    ],
+    "citedby-count": 0,
+    "ref-count": 42,
+    "ref-list": [
+        "Numerical modeling of axially loaded circular concrete-filled double-skin steel tubular short columns incorporating a new concrete confinement model",
+        "Evaluation of the ultimate eccentric load of rectangular CFSTs using advanced neural network modeling",
+        "Research on bearing capacity of short concrete filled double skin steel tubes columns under axial compression",
+        "Column tests of dodecagonal section double skin concrete-filled steel tubes",
+        "Buckling resistance of axially loaded square concrete-filled double steel tubular columns",
+        "Research of the stainless steel-concrete-carbon steel circular concrete-filled double skin steel tubes under axial compression",
+        "Elasto-plastic analysis of circular concrete-filled steel tube stub columns",
+        "Tests on concrete filled double-skin (CHS outer and SHS inner) composite short columns under axial compression",
+        "Performance of concrete-filled double-skin circular tubes in compression",
+        "Tests on stub stainless steel concrete carbon steel double-skin tubular (DST) columns",
+        "Concrete-filled double skin steel tubular (CFDST) columns subjected to long-term sustained loading",
+        "Regression modelling strategies for improved prognostic prediction",
+        "Compressive strength of circular concrete-filled double skin tubular short columns",
+        "Ultimate axial strength of concrete-filled double skin steel tubular column sections",
+        "Particle Swarm Optimization",
+        "Comparison of machine learning algorithms for regression and classification of ultimate load-carrying capacity of steel frames",
+        "Analytical model for concrete-filled double skin tube columns with different cross-sectional shapes under axial compression",
+        "Nonlinear analysis of circular double-skin concrete-filled steel tubular columns under axial compression",
+        "Ultimate axial capacity prediction of CCFST columns using hybrid intelligence models-a new approach",
+        "Genetic algorithm hybridized with extreme gradient boosting to predict axial compressive capacity of CCFST columns",
+        "Prediction of the axial compressive strength of circular concrete-filled steel tube columns using sine cosine algorithm-support vector regression",
+        "Compressive strength prediction of environmentally friendly concrete using artificial neural networks",
+        "Axial strength prediction of steel tube confined concrete columns using a hybrid machine learning model",
+        "Predicting the axial compressive capacity of circular concrete filled steel tube columns using an artificial neural network",
+        "A simulation study of the number of events per variable in logistic regression analysis",
+        "Behaviour of concrete-filled double skin (CHS inner and CHS outer) steel tubular stub columns and beam-columns",
+        "Improving the axial compression capacity prediction of elliptical CFST columns using a hybrid ANN-IP model",
+        "Efficiency of three advanced data-driven models for predicting axial compression capacity of CFDST columns",
+        "A new empirical formula for prediction of the axial compression capacity of CCFT columns",
+        "A robust method for safety evaluation of steel trusses using Gradient Tree Boosting algorithm",
+        "Predicting the patch load resistance of stiffened plate girders using machine learning algorithms",
+        "Concrete filled double skin circular stub columns under compression",
+        "Machine learning-based prediction of CFST columns using gradient tree boosting algorithm",
+        "Mechanical behaviour of concrete filled double skin steel tubular stub columns confined by FRP under axial compression",
+        "Performance of new sandwich tube under axial loading: Experiment",
+        "A unified formulation for circle and polygon concrete filled steel tube columns under axial compression",
+        "Prediction of the load-shortening curve of CFST columns using ANN-based models",
+        "CFDST stub columns subjected to large deformation axial loading"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60274200",
+            "affilname": "Van Lang University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60274200",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Athens",
+            "@id": "60002947",
+            "affilname": "National Technical University of Athens",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002947",
+            "affiliation-country": "Greece"
+        }
+    ],
+    "funding": []
+}

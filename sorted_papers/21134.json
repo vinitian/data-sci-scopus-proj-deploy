@@ -1,0 +1,113 @@
+{
+    "eid": "2-s2.0-85169154714",
+    "title": "Binary Comprehensive Learning Particle Swarm Optimization Approach for Optimal Design of Nonlinear Steel Structures with Standard Sizes",
+    "cover-date": "2023-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Architecture",
+            "@code": "2216",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Building and Construction",
+            "@code": "2215",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "binary comprehensive learning",
+        "metaheuristic algorithms",
+        "nonlinear geometry",
+        "particle swarm optimization",
+        "steel structures"
+    ],
+    "authors": [
+        "Rut Su",
+        "Sawekchai Tangaramvong",
+        "Thu Huynh Van",
+        "Atitaya Chaiwongnoi",
+        "Chongmin Song"
+    ],
+    "citedby-count": 0,
+    "ref-count": 53,
+    "ref-list": [
+        "Topology optimization of strut-and-tie models in reinforced concrete structures using an evolutionary procedure",
+        "A level set method for topology optimization of continuum structures with bounded design domains",
+        "Two-phase ESO and comprehensive learning PSO method for structural optimization with discrete steel sections",
+        "Optimization of the Curved Metal Damper to Improve Structural Energy Dissipation Capacity",
+        "Shape optimization of butterfly-shaped shear links using grey wolf algorithm",
+        "Incremental Dynamic Analysis for Estimating Seismic Performance of Multi-Story Buildings with Butterfly-Shaped Structural Dampers",
+        "Force\u2013Displacement Relationship of the Butterfly-Shaped Beams Based on Gene Expression Programming",
+        "Structural behavior prediction of the Butterfly-shaped and straight shear fuses",
+        "Effect of flexural and shear stresses simultaneously for optimized design of butterfly-shaped dampers: Computational study",
+        "Topology optimization of softening structures under displacement constraints as an MPEC",
+        "Optimal performance-based rehabilitation of steel frames using braces",
+        "Analysis of the dissipative behavior of steel beams for braces in three-point bending",
+        "Inelastic seismic response of steel bracing members",
+        "Integrated discrete and configuration optimization of trusses using genetic algorithms",
+        "Design of nonlinear framed structures using genetic optimization",
+        "An accelerated water evaporation optimization formulation for discrete optimization of skeletal structures",
+        "Optimal design of planar steel frame structures utilizing meta-heuristic optimization algorithms",
+        "Hybridized optimization algorithms for design of trusses with multiple natural frequency constraints",
+        "Application of honey-bee mating optimization algorithm on clustering",
+        "An enhanced honey bee mating optimization algorithm for design of side sway steel frames",
+        "Design of planar steel frames using teaching\u2013learning based optimization",
+        "A survey of teaching\u2013learning-based optimization",
+        "School based optimization algorithm for design of steel frames",
+        "Shape and size optimization of truss structures considering dynamic constraints through modern metaheuristic algorithms",
+        "Design of steel frames using ant colony optimization",
+        "A comparison of simulated annealing and genetic algorithm for optimum design of nonlinear steel space frames",
+        "Harmony search algorithm for minimum cost design of steel frames with semi-rigid connections and column bases",
+        "An efficient method for optimizing space steel frames with semi-rigid joints using practical advanced analysis and the micro-genetic algorithm",
+        "Optimization of nonlinear inelastic steel frames considering panel zones",
+        "Optimum performance-based design of eccentrically braced frames",
+        "Particle swarm optimization",
+        "Particle swarm optimization: An overview",
+        "Combined Gaussian Local Search and Enhanced Comprehensive Learning PSO Algorithm for Size and Shape Optimization of Truss Structures",
+        "Comprehensive learning particle swarm optimizer for global optimization of multimodal functions",
+        "Comprehensive learning particle swarm optimizer for solving multiobjective optimization problems",
+        "Optimal retrofit of moment resisting frames using braces accounting for geometric nonlinearity and serviceability conditions",
+        "A note on solving MINLP\u2019s using formulation space search",
+        "Discrete structural optimization with commercially available sections: A review",
+        "Optimal design of steel structures using standard sections",
+        "MILP-based discrete sizing and topology optimization of truss structures: New formulation and benchmarking",
+        "Structural shape optimization\u2014A survey",
+        "A modified particle swarm optimizer",
+        "Learning the transfer function in binary metaheuristic algorithm for feature selection in classification problems",
+        "Improved binary grey wolf optimizer and its application for feature selection",
+        "Comprehensive learning particle swarm optimization algorithm with local search for multimodal functions",
+        "Benchmark functions for the CEC\u20192008 special session and competition on large scale global optimization",
+        "Optimum design of frame structures using the eagle strategy with differential evolution",
+        "Column design by P delta method",
+        "Stability of braced and unbraced frames"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Sydney",
+            "@id": "60028333",
+            "affilname": "UNSW Sydney",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028333",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Chulalongkorn University",
+        "Thailand Science Research and Innovation Fund"
+    ]
+}

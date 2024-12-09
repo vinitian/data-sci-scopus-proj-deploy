@@ -1,0 +1,90 @@
+{
+    "eid": "2-s2.0-85115736206",
+    "title": "A DFT calculation on nonenzymatic degradation of isoaspartic residue",
+    "cover-date": "2021-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Catalysis",
+            "@code": "1503",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Physical and Theoretical Chemistry",
+            "@code": "1606",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Organic Chemistry",
+            "@code": "1605",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Inorganic Chemistry",
+            "@code": "1604",
+            "@abbrev": "CHEM"
+        }
+    ],
+    "keywords": [
+        "Cyclization",
+        "Density functional theory",
+        "Isoaspartic residue",
+        "Isomerization",
+        "Peptide bond cleavage"
+    ],
+    "authors": [
+        "Wichien Sang-aroon",
+        "Ratchanee Phatchana",
+        "Sarawut Tontapha",
+        "Vithaya Ruangpornvisuti"
+    ],
+    "citedby-count": 0,
+    "ref-count": 49,
+    "ref-list": [
+        "Rate Constant Calculation for Thermal Reactions: Methods and Applications John Wiley & Sons Inc",
+        "Sadakane Y Fujii N"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Nakhon Ratchasima",
+            "@id": "60092136",
+            "affilname": "Rajamangala University of Technology Isan",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60092136",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Khon Kaen",
+            "@id": "60017165",
+            "affilname": "Khon Kaen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017165",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Faculty of Engineering Research Fund",
+        "Institute of Research and Development",
+        "Rajamangala University of Technology Isan"
+    ]
+}

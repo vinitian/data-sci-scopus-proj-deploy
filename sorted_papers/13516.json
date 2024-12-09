@@ -1,0 +1,88 @@
+{
+    "eid": "2-s2.0-85119036528",
+    "title": "Isolation of microvesicles from human circulating neutrophils",
+    "cover-date": "2021-10-05",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Neuroscience (all)",
+            "@code": "2800",
+            "@abbrev": "NEUR"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry, Genetics and Molecular Biology (all)",
+            "@code": "1300",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Immunology and Microbiology (all)",
+            "@code": "2400",
+            "@abbrev": "IMMU"
+        },
+        {
+            "@_fa": "true",
+            "$": "Plant Science",
+            "@code": "1110",
+            "@abbrev": "AGRI"
+        }
+    ],
+    "keywords": [
+        "Cytospin",
+        "Differential centrifugation",
+        "Isolation",
+        "Microvesicles",
+        "Neutrophils"
+    ],
+    "authors": [
+        "Dong Zhan",
+        "Ellie McConachie",
+        "Steven W. Edwards",
+        "Helen L. Wright",
+        "Robert J. Moots",
+        "Sittisak Honsawek"
+    ],
+    "citedby-count": 1,
+    "ref-count": 11,
+    "ref-list": [
+        "Microparticles as regulators of inflammation: Novel players of cellular crosstalk in the rheumatic diseases",
+        "Proteomic insights into extracellular vesicle biology - defining exosomes and shed microvesicles",
+        "Neutrophil-derived microvesicles enter cartilage and protect the joint in inflammatory arthritis",
+        "Isolation of exosomes and microvesicles from cell culture systems to study prion transmission",
+        "Malignant transformation in melanocytes is associated with increased production of procoagulant microvesicles",
+        "Neutrophils in the activation and regulation of innate and adaptive immunity",
+        "Neutrophil microvesicles from healthy control and rheumatoid arthritis patients prevent the inflammatory activation of macrophages",
+        "Microvesicles in vascular homeostasis and diseases. Position Paper of the European Society of Cardiology (ESC) Working Group on Atherosclerosis and Vascular Biology",
+        "FRI0011 Targeting neutrophil microvesicles to damaged cartilage using antibodies to post translationally modified collagen ii",
+        "Antidepressant and antiinflammatory effects of a combined fluoxetine and celecoxib treatment in a rat model of depression",
+        "Internalization of Neutrophil-Derived Microvesicles Modulates TNF\u03b1-Stimulated Proinflammatory Cytokine Production in Human Fibroblast-Like Synoviocytes"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Liverpool",
+            "@id": "60020661",
+            "affilname": "University of Liverpool",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020661",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Liverpool",
+            "@id": "60014875",
+            "affilname": "Aintree University Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014875",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Osteoarthritis and Musculoskeleton Research Unit",
+        "Chulalongkorn University"
+    ]
+}

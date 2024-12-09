@@ -1,0 +1,120 @@
+{
+    "eid": "2-s2.0-85098453671",
+    "title": "Effect of transport parameters on atherosclerotic lesion growth: A parameter sensitivity analysis",
+    "cover-date": "2021-02-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Health Informatics",
+            "@code": "2718",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Artery",
+        "Atherosclerosis",
+        "Computational fluid dynamics (CFD)",
+        "Experimental design",
+        "Low density lipoprotein (LDL)",
+        "Stenosis"
+    ],
+    "authors": [
+        "Ratchanon Piemjaiswang",
+        "Yan Ding",
+        "Yuqing Feng",
+        "Pornpote Piumsomboon",
+        "Benjapon Chalermsinsuwan"
+    ],
+    "citedby-count": 4,
+    "ref-count": 48,
+    "ref-list": [
+        "Heart disease and stroke statistics\u20142009 Update",
+        "Heart disease and stroke statistics\u20142018 update: a report from the American Heart Association",
+        "Heart disease and stroke statistics\u20142014 update",
+        "Inflammation in atherosclerosis",
+        "Overview of atherosclerosis",
+        "Hemodynamic shear stress and its role in atherosclerosis",
+        "Effects of disturbed flow on endothelial cells",
+        "Prediction of coronary heart disease using risk factor categories",
+        "Effect of fluid shear stress on the permeability of the arterial endothelium",
+        "Shear stress increases hydraulic conductivity of cultured endothelial monolayers",
+        "Computational modeling of coupled blood-wall mass transport of LDL: effects of local wall shear stress",
+        "Computational analysis of coupled blood-wall arterial LDL transport",
+        "Effects of transmural pressure and wall shear stress on LDL accumulation in the arterial wall: a numerical study using a multilayered model",
+        "Effect of the fluid-structure interactions on low-density lipoprotein transport within a multi-layered arterial wall",
+        "Modelling and simulation of low-density lipoprotein transport through multi-layered wall of an anatomically realistic carotid artery bifurcation",
+        "Simulation of Low Density Lipoprotein (LDL) permeation into multilayer coronary arterial wall: interactive effects of wall shear stress and fluid-structure interaction in hypertension",
+        "Chapter 1 - Computational modeling of atherosclerosis",
+        "Mathematical modelling of atheroma plaque formation and development in coronary arteries",
+        "A multiscale model of atherosclerotic plaque formation at its early stage",
+        "Effects of nitroglycerin on blood viscosity and hemodynamics",
+        "Gender- and age-related variations in blood viscosity in normal volunteers: a study of the effects of extract of Allium sativum and Ginkgo biloba",
+        "Blood rheology and aging",
+        "Effects of intraoperative gelatin on blood viscosity and oxygenation balance",
+        "Healthy and diseased coronary bifurcation geometries influence near-wall and intravascular flow: a computational exploration of the hemodynamic risk",
+        "Influence of non-Newtonian properties of blood on the wall shear stress in human atherosclerotic right coronary arteries",
+        "Numerical simulation of LDL particles mass transport in human carotid artery under steady state conditions",
+        "Mathematical and numerical models for transfer of low-density lipoproteins through the arterial walls: a new methodology for the model set up with applications to the study of disturbed lumenal flow",
+        "Influence of blood lipids on plasma and blood viscosity",
+        "Transesophageal doppler echocardiography evaluation of coronary blood flow velocity in baseline conditions and during dipyridamole-induced coronary vasodilation",
+        "Modelling the period-average transport of species within pulsatile blood flow",
+        "Comparison of LDL cholesterol concentrations by Friedewald calculation and direct measurement in relation to cardiovascular events in 27 331 women",
+        "Expert Panel on Detection E and T of HBC in A. Executive summary of the third report of the national cholesterol education program",
+        "Patient-specific three-dimensional simulation of LDL accumulation in a human left coronary artery in its healthy and atherosclerotic states",
+        "Computed high concentrations of low-density lipoprotein correlate with plaque locations in human coronary arteries",
+        "Mathematical modelling of atheroma plaque formation and development in coronary arteries",
+        "Do plaques grow upstream or downstream?: An angiographic study in the femoral artery",
+        "Mass transport of low density lipoprotein in reconstructed hemodynamic environments of human carotid arteries: the role of volume and solute flux through the endothelium",
+        "Endothelial permeability, LDL deposition, and cardiovascular risk factors-A review",
+        "Effect of shear stress on permeability of vascular endothelial monolayer cocultured with smooth muscle cells",
+        "Effect of diet on blood viscosity in healthy humans: a systematic review",
+        "Effects of cardiac motion on right coronary artery hemodynamics",
+        "Simulation of cardiac motion on non-Newtonian, pulsating flow development in the human left anterior descending coronary artery",
+        "Unsteady blood flow and mass transfer of a human left coronary artery bifurcation: FSI vs. CFD.",
+        "Functional evaluation of coronary disease by CT angiography",
+        "A review study on blood in human coronary artery: numerical approach"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Melbourne",
+            "@id": "60011362",
+            "affilname": "RMIT University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011362",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Melbourne",
+            "@id": "60005750",
+            "affilname": "CSIRO Minerals",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005750",
+            "affiliation-country": "Australia"
+        }
+    ],
+    "funding": [
+        "Doctoral Degree Chulalongkorn University",
+        "NCI",
+        "Australian Government",
+        "RMIT University",
+        "Chulalongkorn University",
+        "National Research Council of Thailand"
+    ]
+}

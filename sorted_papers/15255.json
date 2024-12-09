@@ -1,0 +1,132 @@
+{
+    "eid": "2-s2.0-85043774638",
+    "title": "Simplified two-group two-fluid model for three-dimensional two-phase flow Computational Fluid Dynamics for vertical upward flow",
+    "cover-date": "2018-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Nuclear Energy and Engineering",
+            "@code": "2104",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Waste Management and Disposal",
+            "@code": "2311",
+            "@abbrev": "ENVI"
+        }
+    ],
+    "keywords": [
+        "CFD",
+        "Interfacial area transport equation",
+        "Interfacial force",
+        "Two-fluid model",
+        "V & V"
+    ],
+    "authors": [
+        "Takashi Hibiki",
+        "Joshua P. Schlegel",
+        "Tetsuhiro Ozaki",
+        "Shuichiro Miwa",
+        "Somboon Rassame"
+    ],
+    "citedby-count": 7,
+    "ref-count": 45,
+    "ref-list": [
+        "An analysis of phase distribution and turbulence in dispersed particle/liquid flows",
+        "BWR Refill-reflood Program Task 4.7 \u2013 Constitutive Relations for Shear and Heat Transfer for the BWR Version of TRAC",
+        "Analysis of phase distribution in fully developed laminar bubbly two-phase flow",
+        "Two-group drift-flux model in boiling flow",
+        "Wall nucleation modeling in subcooled boiling flow",
+        "The Favre averaged drag model for turbulent dispersion in Eulerian multi-phase flows",
+        "Modeling of low-pressure subcooled boiling flow of water via the homogeneous MUSIG approach",
+        "Vertical upward two-phase flow CFD using interfacial area transport equation",
+        "Interfacial forces used in two-phase flow numerical simulaiton",
+        "Theory of Multicomponent Fluids",
+        "Inhomogeneous MUSIG model \u2013 a population balance approach for polydispersed bubbly flows",
+        "Validation of CFD models for mono-and polydisperse air\u2013water two-phase flows in pipes",
+        "Two-group interfacial area transport equations at bubbly-to-slug flow transition",
+        "Axial interfacial area transport of vertical bubbly flows",
+        "Interfacial area concentration of bubbly flow systems",
+        "Active nucleation site density in boiling systems",
+        "Lift force in bubbly flow system",
+        "Interfacial area concentration in boiling bubbly flow systems",
+        "Lateral migration of single bubbles due to the presence of wall",
+        "Thermo-fluid Dynamics of Two-phase Flow",
+        "Two-fluid model and hydrodynamic constitutive relations",
+        "Drag coefficient and relative velocity in bubbly, droplet or particulate flows",
+        "Interfacial area transport of vertical upward air-water two-phase flow in an annulus channel",
+        "Foundation of the interfacial area transport equation and its closure relations",
+        "Overview of the consortium for the advanced simulation of light water reactors (CASL)",
+        "The inhomogeneous MUSIG model for the simulation of polydispersed flows",
+        "A study of adiabatic two-phase flows using the two-group interfacial area transport equations with a modified two-fluid model",
+        "Development of a generalized coalescence and breakup closure for the inhomogeneous MUSIG model",
+        "Databases of interfacial area concentration in gas\u2013liquid two-phase flow",
+        "Application of the MUSIG Model to Bubbly Flows",
+        "Turbulent Bubbly Two-phase Flow in a Triangular Duct",
+        "Flow regime transition criteria for upward two-phase flow in vertical tubes",
+        "Interfacial area concentration in gas-liquid bubbly to churn-turbulent flow regime",
+        "A correlation for interfacial area concentration in high void fraction flows in large diameter channels",
+        "Turbulence-induced bubble collision force modeling and validation in adiabatic two-phase flow using CFD",
+        "Developing structure of two-phase flow in a large diameter pipe at low liquid flow rate",
+        "Interfacial area concentration in gas-liquid bubbly to churn flow regimes in large diameter pipes",
+        "The influence of interfacial pressure forces on the character of two-phase flow model equations",
+        "Transverse migration of single bubbles in simple shear flows",
+        "Drag coefficients of single bubbles under normal and micro gravity conditions",
+        "Effects of",
+        "Modeling and simulation challenges pursued by the consortium for advanced simulation of light water reactors (CASL)",
+        "Bubble-induced turbulence modeling for vertical bubbly flows",
+        "AP1000 Design Control Document",
+        "Framework of two-group model for interfacial area transport in vertical two-phase flows"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Yokohama",
+            "@id": "60269774",
+            "affilname": "Nuclear Fuel Industries,Ltd.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60269774",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Rolla",
+            "@id": "60024728",
+            "affilname": "Missouri University of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024728",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Sapporo",
+            "@id": "60014652",
+            "affilname": "Hokkaido University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014652",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "West Lafayette",
+            "@id": "60009254",
+            "affilname": "Purdue University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009254",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": []
+}

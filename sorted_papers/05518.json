@@ -1,0 +1,85 @@
+{
+    "eid": "2-s2.0-85050922078",
+    "title": "Universum Selection for Boosting the Performance of Multiclass Support Vector Machines Based on One-versus-One Strategy",
+    "cover-date": "2018-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Management Information Systems",
+            "@code": "1404",
+            "@abbrev": "BUSI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "multi-class classification",
+        "one-versus-one",
+        "Support vector machine (SVM)",
+        "Universum support vector machine (USVM)"
+    ],
+    "authors": [
+        "Patoomsiri Songsiri",
+        "Vladimir Cherkassky",
+        "Boonserm Kijsirikul"
+    ],
+    "citedby-count": 6,
+    "ref-count": 22,
+    "ref-list": [
+        "Efficient pairwise classification using local cross off strategy",
+        "Uci repository of machine learning databases, department of information and computer science, university of california, irvine",
+        "Predictive Learning",
+        "Practical conditions for effectiveness of the universum learning",
+        "Learning from Data Concepts: Theory and Methods",
+        "Statistical comparisons of classifiers over multiple data sets",
+        "Universum autoencoder-based domain adaptation for speech emotion recognition",
+        "Development and evaluation of cost-sensitive universum-svm",
+        "Drcw-ovo: distance-based relative competence weighting combination for one-vs-one strategy in multi-class problems",
+        "Classification by pairwise coupling",
+        "Enhancing text classification with the universum",
+        "Investor sentiment identification based on the universum svm",
+        "An analysis of inference with the universum",
+        "Universum svm software package",
+        "Statistical Learning Theory",
+        "An overview of statistical learning theory",
+        "Estimation of Dependencies Based on Empirical Data",
+        "Inference with the universum",
+        "Probability estimates for multi-class classification by pairwise coupling"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Minneapolis",
+            "@id": "60029445",
+            "affilname": "University of Minnesota Twin Cities",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029445",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Beijing Lisheng Cardiovascular Health Foundation",
+        "Istituto Auxologico Italiano"
+    ]
+}

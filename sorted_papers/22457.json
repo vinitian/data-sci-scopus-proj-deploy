@@ -1,0 +1,98 @@
+{
+    "eid": "2-s2.0-85083437738",
+    "title": "PM10 concentration forecast using modified depth-first search and supervised learning neural network",
+    "cover-date": "2020-07-20",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Environmental Engineering",
+            "@code": "2305",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Environmental Chemistry",
+            "@code": "2304",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Waste Management and Disposal",
+            "@code": "2311",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Pollution",
+            "@code": "2310",
+            "@abbrev": "ENVI"
+        }
+    ],
+    "keywords": [
+        "Backward elimination",
+        "Genetic algorithm",
+        "Modified depth-first search (DFS)",
+        "Multilayer perceptron neural network (MLP)",
+        "Particulate matter (PM10) forecast"
+    ],
+    "authors": [
+        "Chadaphim Photphanloet",
+        "Rajalida Lipikorn"
+    ],
+    "citedby-count": 17,
+    "ref-count": 41,
+    "ref-list": [
+        "Sequential aggregation of heterogeneous experts for PM10 forecasting",
+        "Master Machine Learning Algorithms: Discover How They Work and Implement Them From Scratch",
+        "Assembly equipment view",
+        "Back propagation neural networks. Subst",
+        "Root mean square error (RMSE) or mean absolute error (MAE)? - arguments against avoiding RMSE in the literature",
+        "Neural network and multiple regression models for PM10 prediction in athens: a comparative assessment",
+        "Particulate matter monitoring using inexpensive sensors and internet GIS: a case study in nan",
+        "An Introduction to Support Vector Machines and Other Kernel-based Learning Methods",
+        "Degree of approximation by superpositions of a sigmoidal function",
+        "Acute respiratory effects of particulate air pollution",
+        "Graph Algorithms",
+        "Ozone concentration forecast method based on genetic algorithm optimized back propagation neural networks and support vector machine data classification",
+        "Forecasting PM 10 in metropolitan areas: efficacy of neural networks",
+        "Statistics: Fourth International Student Edition",
+        "Smoke, dust, and haze: fundamentals of aerosol dynamics",
+        "PM10 concentration forecasting in the metropolitan area of Oviedo (Northern Spain) using models based on SVM, MLP, VARMA and ARIMA: a case study",
+        "Adaptation in Natural and Artificial Systems: An Introductory Analysis With Applications to Biology, Control, and Artificial Intelligence",
+        "A neural network forecast for daily average PM10 concentrations in Belgium",
+        "NN-AirPol: a neural-networks-based method for air pollution evaluation and control",
+        "Air Quality Air Quality",
+        "Kinetic and mechanistic study of Ru(III)-nicotinic acid complex formation by oxidation of bromamine-T in acid solution",
+        "Data Science: Concepts and Practice",
+        "Present and future energy scenario in India",
+        "Surgical treatment for rectal cancer: an international perspective on what the medical gastroenterologist needs to know",
+        "Deep learning",
+        "A normalization model of attentional modulation of single unit responses",
+        "Nouvelles m\u00e9thodes pour la d\u00e9termination des orbites des com\u00e8tes",
+        "Neural networks for the prediction and forecasting of water resources variables: a review of modelling issues and applications",
+        "Evaluation of artificial neural networks for fine particulate pollution (PM10 and PM2.5) forecasting",
+        "Forecasting of the daily meteorological pollution using wavelets and support vector machine",
+        "Note on regression and inheritance in the case of two parents",
+        "El anillo esof\u00e1gico inferior",
+        "The normalization model of attention",
+        "Data Mining: A Tutorial-based Primer",
+        "New support vector algorithms",
+        "Experimental investigations on thermo-hydraulic behaviour of triple concentric-tube heat exchanger",
+        "MAPE (Mean Absolute Percentage Error) Mean Absolute Percentage ErroR (MAPE) BT - Encyclopedia of Production and Manufacturing Management",
+        "Long-term ambient fine particulate matter air pollution and lung cancer in a large cohort of never-smokers",
+        "Intercomparison of air quality data using principal component analysis, and forecasting of PM10 and PM2.5 concentrations using artificial neural networks, in Thessaloniki and Helsinki",
+        "k-Center Problems in the Plane"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Science Achievement Scholarship of Thailand",
+        "Chulalongkorn University",
+        "SAST"
+    ]
+}

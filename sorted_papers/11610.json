@@ -1,0 +1,59 @@
+{
+    "eid": "2-s2.0-85090888308",
+    "title": "Combining angiodysplasia classification and segmentation on capsule endoscopy images using attentional albunet",
+    "cover-date": "2020-07-17",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Angiodysplasia",
+        "classification",
+        "deep learning",
+        "segmentation"
+    ],
+    "authors": [
+        "Sirichart Gobpradit",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 3,
+    "ref-count": 15,
+    "ref-list": [
+        "Cad-cap: A 25000 images database serving the development of artificial intelligence for capsule endoscopy",
+        "Mask r-cnn",
+        "Rich feature hierarchies for accurate object detection and semantic segmentation",
+        "Faster rcnn: Towards real-time object detection with region proposal networks",
+        "Fast r-cnn",
+        "Ensemble of instance segmentation models for polyp segmentation in colonoscopy images"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

@@ -1,0 +1,99 @@
+{
+    "eid": "2-s2.0-85143876296",
+    "title": "Thermal denaturation of a coronavirus envelope (CoVE) protein by a coarse-grained Monte Carlo simulation",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biophysics",
+            "@code": "1304",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Structural Biology",
+            "@code": "1315",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [
+        "Coarse-grained model",
+        "Coronavirus",
+        "Envelope protein",
+        "Monte carlo simulation"
+    ],
+    "authors": [
+        "Panisak Boonamnaj",
+        "Pornthep Sompornpisut",
+        "Piyarat Nimmanpipug",
+        "R. B. Pandey"
+    ],
+    "citedby-count": 0,
+    "ref-count": 28,
+    "ref-list": [
+        "Understanding COVID-19 via comparative analysis of dark proteomes of SARS-CoV-2, human SARS and bat SARS-like coronaviruses",
+        "Receptor recognition by the novel coronavirus from Wuhan: an analysis based on decade-long structural studies of SARS coronavirus",
+        "Systematic comparison of two animal-to-human transmitted human coronaviruses: SARS-CoV-2 and SARS-CoV",
+        "Coronavirus envelope protein: current knowledge",
+        "The M, E, and N structural proteins of the severe acute respiratory syndrome coronavirus are required for efficient assembly, trafficking, and release of virus-like particles",
+        "Charged amino acids may promote coronavirus SARS-CoV-2 fusion with the host cell",
+        "SARS-CoV-2 variant Omicron (B. 1.1. 529) is in a rising trend of mutations increasing the positive electric charge in crucial regions of the spike protein S",
+        "Structure genomics of SARS-CoV-2 and its Omicron variant: drug design templates for COVID-19",
+        "Insights into SARS-CoV-2 genome, structure, evolution, pathogenesis and therapies: structural genomics approach",
+        "UniProt: the universal protein knowledgebase in 2021",
+        "SARS coronavirus E protein forms cation-selective ion channels",
+        "The transmembrane oligomers of coronavirus protein E",
+        "The membrane protein of severe acute respiratory syndrome coronavirus acts as a dominant immunogen revealed by a clustering region of novel functionally and structurally defined cytotoxic T-lymphocyte epitopes",
+        "Coronavirus envelope(E) protein remains at the site of assembly",
+        "Structural model of the SARS coronavirus E channel in LMPG micelles",
+        "In-silico approaches to detect inhibitors of the human severe acute respiratory syndrome coronavirus envelope protein ion channel",
+        "Structure and dynamics of the SARS-CoV-2 envelope protein monomer",
+        "Variation in structure of a protein (H2AX) with knowledge-based interactions",
+        "Thermal-response of a protein (hHv1) by a coarse-grained MC and all-atom MD computer simulations",
+        "Thermal-induced unfolding-refolding of a nucleocapsid COVN protein",
+        "Pair potentials for protein folding: choice of reference states and sensitivity of predicted native states to variations in the interaction schemes",
+        "Estimation of effective interresidue contact energies from protein crystal structures: quasi-chemical approximation",
+        "Residue-residue potentials with a favorable contact pair term and an unfavorable high packing density term, for simulation and treading",
+        "Medium and long-range interaction parameters between amino acids for predicting three-dimensional structures of proteins",
+        "Knowledge-based potentials for protein folding: what can we learn from known protein structures?",
+        "Statistical mechanics-based method to extract atomic distancedependent potentials from protein structures"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hattiesburg",
+            "@id": "60007027",
+            "affilname": "University of Southern Mississippi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007027",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Chaing Mai",
+            "@id": "60000881",
+            "affilname": "Chiang Mai University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000881",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "National Science Foundation"
+    ]
+}

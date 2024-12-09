@@ -1,0 +1,75 @@
+{
+    "eid": "2-s2.0-85084706432",
+    "title": "Complete mitochondrial genome of a sea star, Linckia laevigata (Echinodermata, Asteroidea, Valvatida, Ophidiasteridae)",
+    "cover-date": "2020-04-02",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [
+        "complete mitogenome",
+        "Echinodermata",
+        "sea star",
+        "Valvatida"
+    ],
+    "authors": [
+        "Shimpei F. Hiruta",
+        "Mikihito Arai",
+        "Suchana Chavanich",
+        "Voranop Viyakarn",
+        "Toshihiko Fujita"
+    ],
+    "citedby-count": 1,
+    "ref-count": 6,
+    "ref-list": [
+        "MITOS: improved de novo metazoan mitochondrial genome annotation",
+        "RAxML-NG: a fast, scalable, and user-friendly tool for maximum likelihood phylogenetic inference",
+        "Molecular phylogeny of the Valvatacea (Asteroidea: Echinodermata)",
+        "The first complete mitochondrial genome of the Mariana Trench Freyastera benthophila (Asteroidea: Brisingida: Brisingidae) allows insights into the deep-sea adaptive evolution of Brisingida",
+        "Genetic population structure of the coral reef sea star Linckia laevigata in the Western Indian Ocean and Indo-West Pacific",
+        "MrBayes 3.2: efficient Bayesian phylogenetic inference and model choice across a large model space"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60103897",
+            "affilname": "National Museum of Nature and Science",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103897",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025272",
+            "affilname": "The University of Tokyo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025272",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Mubadala Petroleum (Thailand) Limited",
+        "NRCT-JSPS",
+        "National Museum of Nature and Science Project Researches",
+        "UNESCO Japanese Funds-in-Trusts Mubadala Petroleum",
+        "UNESCO-IOC",
+        "WESTPAC",
+        "UNESCO",
+        "Thailand Research Fund"
+    ]
+}

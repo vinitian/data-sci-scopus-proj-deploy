@@ -1,0 +1,76 @@
+{
+    "eid": "2-s2.0-85047355925",
+    "title": "Qualified measurement setup of polarization extinction ratio for Panda PMF with LC/UPC connector",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Condensed Matter Physics",
+            "@code": "3104",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "%R&R",
+        "Gauge Repeatability & Reproducibility",
+        "GR&R",
+        "LC/UPC Connector",
+        "PER",
+        "Polarization Extinction Ratio",
+        "Polarization Maintaining Fiber"
+    ],
+    "authors": [
+        "Rutsuda Thongdaeng",
+        "Duang Rudee Worasucheep",
+        "Adisak Ngiwprom"
+    ],
+    "citedby-count": 0,
+    "ref-count": 11,
+    "ref-list": [
+        "Effect of bending radius and bending location on insertion loss in single mode fibers and polarization maintaining fibers",
+        "Temperature dependency of polarization extinction ratio in polarization maintaining fiber with LC/UPC connectors",
+        "Assembly and measuring technology for fiber optic polarization maintaining components",
+        "Application Note Polarization Measurements"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chonburi",
+            "@id": "107150444",
+            "affilname": "Celestica Thailand",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/107150444",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

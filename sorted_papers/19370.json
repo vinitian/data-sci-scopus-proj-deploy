@@ -1,0 +1,77 @@
+{
+    "eid": "2-s2.0-85077996747",
+    "title": "Image Enhancement and Quality Assessment Methods in Turbid Water: A Review Article",
+    "cover-date": "2019-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Media Technology",
+            "@code": "2214",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "assessment methods",
+        "image enhancement",
+        "low light",
+        "underwater images",
+        "underwater imaging"
+    ],
+    "authors": [
+        "Pann Mya Hmue",
+        "Suree Pumrin"
+    ],
+    "citedby-count": 6,
+    "ref-count": 16,
+    "ref-list": [
+        "A novel hybrid technique for low exposure image enhancement using sub-image histogram equalization and artificial neural network",
+        "Emerging from water: Underwater image color correction based on weakly supervised color transfer",
+        "WaterGAN: Unsupervised generative network to enable real-time color correction of monocular underwater images",
+        "Color transfer pulse-coupled neural networks for underwater robotic visual systems",
+        "Underwater image enhancement by wavelength compensation and dehazing",
+        "Underwater image enhancement by wavelet based fusion",
+        "Fuzzy rule-based image exposure level estimation and adaptive gamma correction for contrast enhancement in dark images",
+        "Adaptive histogram equalization and its variations.pdf",
+        "Discrete wavelet transform based image fusion and de-noising in FPGA",
+        "A way of image fusion based on wavelet transform",
+        "Image quality assessment: From error visibility to sturctural similarity",
+        "A novel high-turbidity underwater image quality assessment method",
+        "Surf: Speeded up robust features",
+        "Edge detection based on computational ghost imaging with structured illuminations",
+        "Detecting video frame-rate upconversion based on periodic properties of edge-intensity"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

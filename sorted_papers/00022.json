@@ -1,0 +1,93 @@
+{
+    "eid": "2-s2.0-85144809031",
+    "title": "PAC-MAN: Multi-Relation Network in Social Community for Personalized Hashtag Recommendation",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "attention mechanism",
+        "BERT",
+        "graph neural network",
+        "hashtag recommendation",
+        "personalization",
+        "Recommendation systems",
+        "social community"
+    ],
+    "authors": [
+        "Umaporn Padungkiatwattana",
+        "Saranya Maneeroj"
+    ],
+    "citedby-count": 1,
+    "ref-count": 58,
+    "ref-list": [
+        "Hashtag recommendation based on user tweet and hashtag classification on Twitter",
+        "Automatic hashtag recommendation for microblogs using topic-specific translation model",
+        "Hashtagger+: Efficient high-coverage social tagging of streaming news",
+        "Hashtag recommendation using attention-based convolutional neural network",
+        "Self-attentive neural network for hashtag recommendation",
+        "EmHash: Hashtag recommendation using neural network based on bert embedding",
+        "An integral tag recommendation model for textual content",
+        "AMNN: Attention-based multimodal neural network model for hashtag recommendation",
+        "Hashtag recommendation using end-to-end memory networks with hierarchical attention",
+        "Hashtag recommendation approach based on content and user characteristics",
+        "DeepTagRec:Acontent-cum-user based tag recommendation framework for stack overflow",
+        "Hashtag recommendation for photo sharing services",
+        "On utilizing communities detected from social networks in hashtag recommendation",
+        "Analyzing tweeting patterns and public engagement on Twitter during the recognition period of the COVID-19 pandemic: A study of two U.S. States",
+        "Social media engagement behavior: A framework for engaging customers through social media content",
+        "The metrics of keywords to understand the difference between retweet and like in each category",
+        "Big social data analytics for public health: Facebook engagement and performance",
+        "A comprehensive survey on graph neural networks",
+        "Latent Dirichlet allocation",
+        "Hashtag recommendation with topical attention-based LSTM",
+        "Temporal enhanced sentence-level attention model for hashtag recommendation",
+        "Topical co-attention networks for hashtag recommendation on microblogs",
+        "Hashtag recommendation for multimodal microblog using co-attention network",
+        "Co-attention memory network for multimodal microblog's hashtag recommendation",
+        "Sentiment enhanced multi-modal hashtag recommendation for micro-videos",
+        "On recommending hashtags in Twitter networks",
+        "What to tag your microblog: Hashtag recommendation based on topic analysis and collaborative filtering",
+        "Time-aware personalized hashtag recommendation on social media",
+        "Long time, no tweets! Time-aware personalised hashtag suggestion",
+        "A personalized hashtag recommendation approach using LDA-based topic model in microblog environment",
+        "Suggest what to tag: Recommending more precise hashtags based on users' dynamic interests and streaming tweet content",
+        "Hashtag recommendation based on multi-features of microblogs",
+        "Modeling the longterm post history for personalized hashtag recommendation",
+        "TAGNet: Triplet-attention graph networks for hashtag recommendation",
+        "TOMOHA: Topic model-based hashtag recommendation on Twitter",
+        "Adam: A method for stochastic optimization",
+        "Transformers: State-of-the-art natural language processing"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

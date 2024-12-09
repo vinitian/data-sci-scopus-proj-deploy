@@ -1,0 +1,90 @@
+{
+    "eid": "2-s2.0-85089454954",
+    "title": "Recent progress and new developments of applications of artificial intelligence (AI), knowledge-based systems (KBS), and Machine Learning (ML) in the petroleum industry",
+    "cover-date": "2020-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Fuel Technology",
+            "@code": "2103",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geotechnical Engineering and Engineering Geology",
+            "@code": "1909",
+            "@abbrev": "EART"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geology",
+            "@code": "1907",
+            "@abbrev": "EART"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geochemistry and Petrology",
+            "@code": "1906",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Paitoon (PT) Tontiwachwuthikul",
+        "Christine W. Chan",
+        "Fanhua (Bill) Zeng",
+        "Zhiwu (Henry) Liang",
+        "Teerawat Sema",
+        "Chao Min"
+    ],
+    "citedby-count": 15,
+    "ref-count": 5,
+    "ref-list": [],
+    "affiliation": [
+        {
+            "affiliation-city": "Regina",
+            "@id": "60030101",
+            "affilname": "University of Regina",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030101",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Regina",
+            "@id": "60189785",
+            "affilname": "Clean Energy Technologies Research Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60189785",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Changsha",
+            "@id": "60032356",
+            "affilname": "Hunan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032356",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chengdu",
+            "@id": "60017244",
+            "affilname": "Southwest Petroleum University China",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017244",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": [
+        "IBM",
+        "petroleum industry"
+    ]
+}

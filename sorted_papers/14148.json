@@ -1,0 +1,62 @@
+{
+    "eid": "2-s2.0-85046266177",
+    "title": "Transformation of time Petri net into Promela",
+    "cover-date": "2018-01-29",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Formal Model",
+        "Promela",
+        "Time Petri Net"
+    ],
+    "authors": [
+        "Onsuthee Chaichompoo",
+        "Arthit Thongtak",
+        "Wiwat Vatanawood"
+    ],
+    "citedby-count": 4,
+    "ref-count": 11,
+    "ref-list": [
+        "Formal modeling for persistence checking of signal transition graph specification with Promela",
+        "Petri nets: Properties analysis and applications",
+        "Quantitative evaluation of time petri nets and applications to technical and biochemical networks",
+        "Modeling a bank ATM with two directions places Timed Petri Net (TPN)",
+        "Translating UML state machine diagram into Promela",
+        "Signal persistence checking of asynchronous system implementation using SPIN",
+        "Timed petri nets",
+        "Towards a generic interchange format for Petri Nets",
+        "Extending promela and spin for real time"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

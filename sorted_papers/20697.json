@@ -1,0 +1,75 @@
+{
+    "eid": "2-s2.0-85047649903",
+    "title": "Exploring Home and Work Locations in a City from Mobile Phone Data",
+    "cover-date": "2018-02-14",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Location data; Call Detail Records"
+    ],
+    "authors": [
+        "Lumpsum Tongsinoot",
+        "Veera Muangsin"
+    ],
+    "citedby-count": 10,
+    "ref-count": 12,
+    "ref-list": [
+        "Gonz\u00e1lez, Analyzing cell phone location data for urban travel: Current methods, limitations, and opportunities, Transportation Research Record",
+        "MobilePulse: Dynamic profiling of land use pattern and OD matrix estimation from 10 million individual cell phone records in Shanghai",
+        "A Generative Model of Urban Activities from Cellular Data",
+        "Identifying Important Places in People's Lives from Cellular Network Data",
+        "Activity-aware Map: Identifying Human Daily Activity Pattern Using Mobile Phone Data",
+        "Identifying Significant Places Using Multi-day Call Detail Records",
+        "Development of origin-destination matrices using mobile phone call data",
+        "Urban Computing with Taxicabs",
+        "Unravelling daily human mobility motifs",
+        "Voronoi Diagrams-a Survey of a Fundamental Geometric Data Structure"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Advanced Info Service Public Company Limited",
+        "Chulalongkorn University"
+    ]
+}

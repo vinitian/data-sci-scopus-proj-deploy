@@ -1,0 +1,63 @@
+{
+    "eid": "2-s2.0-85100180450",
+    "title": "Stockify: A Web Application of Fundamental Stock Analysis for New Investors",
+    "cover-date": "2020-10-21",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "fundamental stock analysis",
+        "new investor",
+        "SET50 index",
+        "stock exchange of Thailand (SET)",
+        "web application"
+    ],
+    "authors": [
+        "Songsri Tangsripairoj",
+        "Pattaphon Sutanaphanit",
+        "Siraphob Treenitikul",
+        "Watcharawit Wongaod",
+        "Kreangkrai Maneeintr"
+    ],
+    "citedby-count": 0,
+    "ref-count": 14,
+    "ref-list": [
+        "Ground rules for set index series",
+        "Chart type guide",
+        "Thai stock data-doostock"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60012718",
+            "affilname": "Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012718",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

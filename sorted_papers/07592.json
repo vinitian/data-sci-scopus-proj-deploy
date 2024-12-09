@@ -1,0 +1,83 @@
+{
+    "eid": "2-s2.0-85135008363",
+    "title": "Extroversion Text Classification Model Using Logistic Regression",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Algebra and Number Theory",
+            "@code": "2602",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Statistics and Probability",
+            "@code": "2613",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Numerical Analysis",
+            "@code": "2612",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Discrete Mathematics and Combinatorics",
+            "@code": "2607",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Logistic regression",
+        "Machine learning",
+        "Personality type",
+        "Text classification"
+    ],
+    "authors": [
+        "Sakolwan Peetaneelavat",
+        "Somjai Boonsiri"
+    ],
+    "citedby-count": 0,
+    "ref-count": 10,
+    "ref-list": [
+        "The Language of Extroversion Extraverted People Talk More Abstractly, Introverts Are More Concrete",
+        "Making conversations with chatbot more personalized",
+        "Personality classification based on Twitter text using Naive Bayes, KNN and SVM",
+        "Emotion Recognition by Textual Tweets Classification Using Voting Classifier (LR-SGD)",
+        "Classification of Big Five Personality Behavior Tendencies Based On Study Field with Twitter Analysis Using Support Vector Machine",
+        "The Impact of Features Extraction on the Sentiment Analysis"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

@@ -1,0 +1,148 @@
+{
+    "eid": "2-s2.0-85168409502",
+    "title": "A novel approach for the prediction and analysis of daily concentrations of particulate matter using machine learning",
+    "cover-date": "2023-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Environmental Engineering",
+            "@code": "2305",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Environmental Chemistry",
+            "@code": "2304",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Waste Management and Disposal",
+            "@code": "2311",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Pollution",
+            "@code": "2310",
+            "@abbrev": "ENVI"
+        }
+    ],
+    "keywords": [
+        "Gaussian process regression",
+        "Machine learning",
+        "Meteorological condition",
+        "Particulate matters",
+        "Prediction"
+    ],
+    "authors": [
+        "Balamurugan Panneerselvam",
+        "Nagavinothini Ravichandran",
+        "Umesh Chandra Dumka",
+        "Maciej Thomas",
+        "Warit Charoenlerkthawin",
+        "Butsawan Bidorn"
+    ],
+    "citedby-count": 0,
+    "ref-count": 72,
+    "ref-list": [
+        "Balanced spider monkey optimization with Bi-LSTM for sustainable air quality prediction",
+        "Efficient water quality prediction using supervised machine learning",
+        "Comparative analysis of machine learning techniques for predicting air quality in smart cities",
+        "Prediction of PM2.5in an urban area of northern Thailand using multivariate linear regression model",
+        "IoT enabled environmental toxicology for air pollution monitoring using AI techniques",
+        "Deepairnet: applying recurrent networks for air quality prediction",
+        "Novel hybrid extreme learning machine and multi-objective optimization algorithm for air pollution prediction",
+        "Variability in the association between long-term exposure to ambient air pollution and mortality by exposure assessment method and covariate adjustment: a census-based country-wide cohort study",
+        "Surface PM2.5mass concentrations during the dry season over northern Thailand: sensitivity to model aerosol chemical schemes and the effects on regional meteorology",
+        "A review of artificial neural network models for ambient air pollution prediction",
+        "PM10and PM2.5real-time prediction models using an interpolated convolutional neural network",
+        "An LSTM-based aggregated model for air pollution forecasting",
+        "Self-adaptive spatial-temporal network based on heterogeneous data for air quality prediction",
+        "A comparison of linear regression, regularization, and machine learning algorithms to develop Europe-wide spatial models of fine particles and nitrogen dioxide",
+        "Comparative analysis of surface water quality prediction performance and identification of key water parameters using different machine learning models based on big data",
+        "Long-term evaluation of a low-cost air sensor network for monitoring indoor and outdoor air quality at the community scale",
+        "Prediction of air pollutant concentrations via RANDOM Forest Regressor coupled with uncertainty analysis\u2014a case study in Ningxia",
+        "Deep air quality forecasting using hybrid deep learning framework",
+        "Artificial neural networks forecasting of PM2.5pollution using air mass trajectory based geographic model and wavelet transformation",
+        "Potency of the pandemic on air quality: an urban resilience perspective",
+        "Prediction of PM2.5daily concentrations for grid points throughout a vast area using remote sensing data and an improved dynamic spatial panel model",
+        "COVID-19 lockdowns and air quality: evidence from grey spatiotemporal forecasts",
+        "Air quality prediction using CNN+ LSTM-based hybrid deep learning architecture",
+        "Applying machine learning techniques in air quality prediction",
+        "Interpolation-based fusion of sentinel-5P, SRTM, and regulatory-grade ground stations data for producing spatially continuous maps of PM2.5concentrations nationwide over Thailand",
+        "Forecasting air pollution particulate matter (PM2. 5) using machine learning regression models",
+        "Spatiotemporal air quality inference of low-cost sensor data: evidence from multiple sensor testbeds",
+        "Towards sustainable smart city by particulate matter prediction using urban big data, excluding expensive air pollution infrastructures",
+        "Predictive MERRA-2 aerosol diagnostic model for oral, oropharyngeal and laryngeal cancer caused by air pollution in Thai population",
+        "Multivariate air quality forecasting with nested long short-term memory neural network",
+        "National contributions to climate change due to historical emissions of carbon dioxide, methane, and nitrous oxide since 1850",
+        "Powering research through innovative methods for mixtures in epidemiology (PRIME) program: novel and expanded statistical methods",
+        "Advancing methodologies for applying machine learning and evaluating spatiotemporal models of fine particulate matter (PM2.5) using satellite data over large regions",
+        "Performance evaluation of low-cost air quality sensors: a review",
+        "Evaluation of different machine learning approaches to forecasting PM2.5mass concentrations",
+        "Short-term prediction of particulate matter (PM10 and PM2. 5) in Seoul, South Korea using tree-based machine learning algorithms",
+        "Seamless integration of convolutional and back-propagation neural networks for regional multi-step-ahead PM2.5forecasting",
+        "Air quality modelling using long short-term memory (LSTM) over NCT-Delhi, India",
+        "Air pollution prediction with machine learning: a case study of Indian cities",
+        "Improved hourly and long-term PM2.5prediction modeling based on MODIS in Bangkok",
+        "Prediction of SO2 and PM10 air pollutants using a deep learning-based recurrent neural network: case of industrial city Sakarya",
+        "Meteorological pattern analysis assisted daily PM2. 5 grades prediction using SVM optimized by PSO algorithm",
+        "Prediction of high-risk areas of soil heavy metal pollution with multiple factors on a large scale in industrial agglomeration areas",
+        "Impacts of vehicle emission on air quality and human health in China",
+        "Improving air quality prediction accuracy at larger temporal resolutions using deep learning and transfer learning techniques",
+        "A review of statistical methods used for developing large-scale and long-term PM2. 5 models from satellite data",
+        "Deep learning-based PM2.5predictions considering the spatiotemporal correlations: a case study of Beijing, China",
+        "Russian-Ukrainian war impacts the total environment",
+        "Forecasting hourly PM2.5in Santiago de Chile with emphasis on night episodes",
+        "Challenges in tackling PM2.5crisis, Thailand Development Research Institute (TDRI)",
+        "To what extent the traffic restriction policies applied in Barcelona city can improve its air quality?",
+        "Advances in air quality research\u2013current and emerging challenges",
+        "Applying machine learning methods in managing urban concentrations of traffic-related particulate matter (PM10and PM2.5)",
+        "New indices system for quantifying the nexus between economic-social development, natural resources consumption, and environmental pollution in China during 1978\u20132018",
+        "Air pollution has made over 1.3 million Thais sick this year",
+        "Assessing the impact of clean air action on air quality trends in Beijing using a machine learning technique",
+        "Seasonal occurrence of multiple classes of antibiotics in East China rivers and their association with suspended particulate matter",
+        "Machine learning and statistical models for predicting indoor air quality",
+        "Global Air Quality Guidelines: Particulate Matter (PM2.5 and PM10), Ozone, Nitrogen Dioxide, Sulfur Dioxide and Carbon Monoxide",
+        "Global Health Observatory. Air pollution data portal",
+        "World health statistics 2022: monitoring health for the SDGs, sustainable development goals",
+        "Daily urban air quality index forecasting based on variational mode decomposition, sample entropy and LSTM neural network",
+        "Air pollution prediction using long short-term memory (LSTM) and deep autoencoder (DAE) models",
+        "A dual-path dynamic directed graph convolutional network for air quality prediction",
+        "Fine-grained prediction of PM2.5concentrations based on multisource data and deep learning",
+        "Evaluation of random forest regression and multiple linear regression for predicting indoor fine particulate matter concentrations in a highly polluted city",
+        "Atmospheric volatile halogenated hydrocarbons in air pollution episodes in an urban area of Beijing: characterization, health risk assessment and sources apportionment",
+        "A review on occupancy prediction through machine learning for enhancing energy efficiency, air quality and thermal comfort in the built environment",
+        "A statistical learning framework for spatial-temporal feature selection and application to air quality index forecasting",
+        "Explore a deep learning multi-output neural network for regional multi-step-ahead air quality forecasts",
+        "Multi-output support vector machine for regional multi-step-ahead PM2.5 forecasting"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nainital",
+            "@id": "60104750",
+            "affilname": "Aryabhatta Research Institute of Observational Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104750",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Krakow",
+            "@id": "60013463",
+            "affilname": "Politechnika Krakowska",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013463",
+            "affiliation-country": "Poland"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Chulalongkorn University"
+    ]
+}

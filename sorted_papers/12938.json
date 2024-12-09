@@ -1,0 +1,91 @@
+{
+    "eid": "2-s2.0-85076981466",
+    "title": "Computing Equilibria of Prediction Markets via Persuasion",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Jerry Anunrojwong",
+        "Yiling Chen",
+        "Bo Waggoner",
+        "Haifeng Xu"
+    ],
+    "citedby-count": 2,
+    "ref-count": 25,
+    "ref-list": [
+        "Efficient market making via convex optimization, and a connection to online learning",
+        "Results from a dozen years of election futures markets research",
+        "The comparison of information structures in games: Bayes correlated equilibrium and individual sufficiency",
+        "Hardness results for signaling in Bayesian zero-sum and network routing games",
+        "Gaming prediction markets: Equilibrium strategies with a market maker",
+        "Bluffing and strategic reticence in prediction markets",
+        "Informational substitutes",
+        "Mixture selection, mechanism design, and signaling",
+        "Non-myopic strategies in prediction markets",
+        "The double clinching auction for wagering",
+        "What you jointly know determines how you act: Strategic interactions in prediction markets",
+        "Strictly proper scoring rules, prediction, and estimation",
+        "Combinatorial information market design",
+        "Information value theory",
+        "Information aggregation and allocative efficiency in smooth markets",
+        "Bayesian persuasion",
+        "Persuasion of a privately informed receiver",
+        "Optimizing Bayesian information revelation strategy in prediction markets: The Alice Bob Alice case",
+        "An axiomatic characterization of wagering mechanisms",
+        "Self-financed wagering mechanisms for forecasting",
+        "Measures of the value of information",
+        "Information aggregation in dynamic markets with strategic traders",
+        "Elicitation of personal probabilities and expectations"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Cambridge",
+            "@id": "60022195",
+            "affilname": "Massachusetts Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022195",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Charlottesville",
+            "@id": "60021918",
+            "affilname": "University of Virginia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021918",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Cambridge",
+            "@id": "60009982",
+            "affilname": "Harvard University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009982",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Boulder",
+            "@id": "60000221",
+            "affilname": "University of Colorado Boulder",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000221",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": []
+}

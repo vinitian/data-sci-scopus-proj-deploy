@@ -1,0 +1,68 @@
+{
+    "eid": "2-s2.0-85054843179",
+    "title": "Quantum Rough Counting and Its Application to Grover's Search Algorithm",
+    "cover-date": "2018-09-11",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "component",
+        "Deutsch-Jozsa's algorithm",
+        "Grover's algorithm",
+        "quantum algorithm",
+        "quantum counting",
+        "quantum searching"
+    ],
+    "authors": [
+        "Naphan Benchasattabuse",
+        "Prabhas Chongstitvatana",
+        "Chatchawit Apomtewan"
+    ],
+    "citedby-count": 7,
+    "ref-count": 13,
+    "ref-list": [
+        "Quantum theory, the church-turing principle and the universal quantum computer",
+        "Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer",
+        "Rapid solution of problems by quantum computation",
+        "On the power of quantum computation",
+        "Quantum mechanics helps in searching for a needle in a haystack",
+        "A framework for fast quantum mechanical algorithms",
+        "Quantum amplitude amplification and estimation",
+        "The quantum query complexity of approximating the median and related statistics",
+        "A review on quantum search algorithms",
+        "Tight bounds on quantum searching",
+        "Quantum counting",
+        "Quantum algorithms revisited"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

@@ -1,0 +1,86 @@
+{
+    "eid": "2-s2.0-85159851316",
+    "title": "Untripped and Tripped Rollovers with a Neural Network",
+    "cover-date": "2023-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Automotive Engineering",
+            "@code": "2203",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Feedforward neural network",
+        "gated recurrent unit (GRU)",
+        "LSTM",
+        "Recurrent neural network",
+        "Rollover index",
+        "Tanh",
+        "Tripped rollover",
+        "Untripped rollover"
+    ],
+    "authors": [
+        "Gridsada Phanomchoeng",
+        "Kailerk Treetipsounthorn",
+        "Sunhapos Chantranuwathana",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 0,
+    "ref-count": 51,
+    "ref-list": [
+        "Rollover mitigation controller development for three-wheeled vehicle using active front steering",
+        "A robust observer based on H\u221e filtering with parameter uncertainties combined with Neural Networks for estimation of vehicle roll angle",
+        "A real-time rollover threat index for sports utility vehicles",
+        "Rollover warning of articulated vehicles based on a time-to-rollover metric",
+        "Hazardous chemicals vehicles rollover pre-warning system based on CPS",
+        "Practical vehicle rollover avoidance control using energy method",
+        "Vehicle rollover detection using recurrent neural networks. The 9th IEEE Int. Conf. Robotics",
+        "Neural networks",
+        "Learning precise timing with LSTM recurrent networks",
+        "Vehicle trajectory challenge in predictive active steering rollover prevention",
+        "Characteristic analysis of vehicle rollover accidents: Rollover scenarios and prediction/ warning",
+        "Long short-term memory",
+        "An Empirical Exploration of Recurrent Network Architectures",
+        "Test system, vehicle and occupant response repeatability evaluation in rollover crash tests: The deceleration rollover sled test",
+        "Adam: A method for stochastic optimization",
+        "Dynamic drive-the new active roll stabilization system from BMW group-system description and functional improvements",
+        "Rollover prevention with predictive control of differential braking and rear wheel steering. 6th IEEE Conf. Robotics",
+        "Robust indirect-defined envelope control for rollover and lateral skid prevention",
+        "Evaluation of vehicle dynamic control for rolover prevention",
+        "New rollover index for the detection of tripped and untripped rollovers",
+        "Real-time estimation of rollover index for tripped rollovers with a novel unknown inputs nonlinear observer",
+        "Active driveline torque-management systems",
+        "New paradigms for the integration of yaw stability and rollover prevention functions in vehicle stability control",
+        "Rollover index estimation in the presence of sensor faults, unknown inputs, and uncertainties",
+        "Active roll control of single unit heavy road vehicles",
+        "Rollover prediction and control in heavy vehicles via recurrent neural networks",
+        "Adaptive rollover prevention for automotive vehicles with differential braking",
+        "A methodology for the design of robust rollover prevention controllers for automotive vehicles with active steering",
+        "Real-time rollover warning in tripped and un-tripped rollovers with a neural network. IEEE 4th Int. Conf",
+        "Type of rollovers. Washington, DC",
+        "Real-time identification of vehicle Motion-Modes using neural networks",
+        "An application of neural networks to control stability of an articulated vehicle in real time",
+        "Backpropagation through time: what it does and how to do it",
+        "Center of gravity height: A round-robin measurement program",
+        "Design of a preview controller for vehicle rollover prevention",
+        "An investigation into vehicle rollover prevention by coordinated control of active anti-roll bar and electronic stability program",
+        "Design of active suspension and electronic stability program for rollover prevention",
+        "Rollover index-based rollover mitigation control system",
+        "Design and evaluation of a unified chassis control system for rollover prevention and vehicle stability improvement on a virtual test track",
+        "Design of a rollover index-based vehicle stability control scheme",
+        "Anti-rollover control based on fuzzy differential braking for heavy duty commercial vehicle. 4th Int. Conf. Machinery",
+        "Investigation into untripped rollover of light vehicles in the modified fishhook and the sine maneuvers. Part I: Vehicle modelling, roll and yaw instability",
+        "Integrated chassis control for vehicle rollover prevention with neural network time-to-rollover warning metrics"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University Technology Center"
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "eid": "2-s2.0-85045059978",
+    "title": "Noncontact pulse wave detection by two-band infrared video-based measurement on face without visible lighting",
+    "cover-date": "2018-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biochemistry, Genetics and Molecular Biology (all)",
+            "@code": "1300",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Infrared",
+        "Noncontact measurement",
+        "Pulse rate",
+        "Pulse wave"
+    ],
+    "authors": [
+        "Ryota Mitsuhashi",
+        "Genki Okada",
+        "Koki Kurita",
+        "Keiichiro Kagawa",
+        "Shoji Kawahito",
+        "Chawan Koopipat",
+        "Norimichi Tsumura"
+    ],
+    "citedby-count": 6,
+    "ref-count": 12,
+    "ref-list": [
+        "Remote plethysmographic imaging using ambient light",
+        "Non-contact, automated cardiac pulse measurements using video imaging and blind source separation",
+        "Advancements in noncontact, multiparameter physiological measurements using a webcam",
+        "Improvements in remote cardio-pulmonary measurement using a five band digital camera",
+        "Non-contact video based estimation for heart rate variability spectrogram using ambient light by extracting hemoglobin information",
+        "Contact-free measurement of cardiac pulse based on the analysis of thermal imagery",
+        "Infrared video based non-invasive heart rate measurement",
+        "Spatio-temporal filtering of thermal video sequences for heart rate estimation",
+        "Motion robust remote-PPG in infrared",
+        "Optimal wavelength selection for non-contact reflection photoplethysmography",
+        "An advanced detrending method with application to HRV analysis"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Shizuoka",
+            "@id": "60103680",
+            "affilname": "Shizuoka University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103680",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chiba",
+            "@id": "60002787",
+            "affilname": "Chiba University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002787",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "MEXT",
+        "JST"
+    ]
+}

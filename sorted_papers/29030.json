@@ -1,0 +1,54 @@
+{
+    "eid": "2-s2.0-85140955581",
+    "title": "Generation of human induced pluripotent stem cells (CHULAi001-A) from peripheral blood mononuclear cells of a glucose-6-phosphate dehydrogenase (G6PD) deficient subject carrying the Viangchan mutation",
+    "cover-date": "2022-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Developmental Biology",
+            "@code": "1309",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Cell Biology",
+            "@code": "1307",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Malinee Tongbaen",
+        "Yasuko Matsumura",
+        "Keisuke Okita",
+        "Kamonlak Leecharoenkiat"
+    ],
+    "citedby-count": 0,
+    "ref-count": 3,
+    "ref-list": [
+        "G6PD: Population genetics and clinical manifestations",
+        "Modeling blood diseases with human induced pluripotent stem cells",
+        "A more efficient method to generate integration-free human iPS cells"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Kyoto",
+            "@id": "60119485",
+            "affilname": "Center for iPS Cell Research and Application",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60119485",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Core Center",
+        "Japan Agency for Medical Research and Development",
+        "Chulalongkorn University"
+    ]
+}

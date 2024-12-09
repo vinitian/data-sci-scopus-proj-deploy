@@ -1,0 +1,47 @@
+{
+    "eid": "2-s2.0-85120317450",
+    "title": "Application of Q-Learning in Routing of Software-Defined Wireless Mesh Network",
+    "cover-date": "2022-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Khamxay Leevangtou",
+        "Hideya Ochiai",
+        "Chaodit Aswakul"
+    ],
+    "citedby-count": 2,
+    "ref-count": 20,
+    "ref-list": [
+        "COAP: A software-defined approach for home wlan management through an open API",
+        "OpenRoads: Empowering research in mobile networks",
+        "Opensdwn: Programmatic control over home and enterprise wifi. Proceedings of the 1st ACM SIGCOMM Symposium on Software Defined Networking Research",
+        "Openflow for wireless mesh networks. 2011 Proceedings of 20th International Conference on Computer Communications and Networks (ICCCN), IEEE",
+        "Software-defined wireless networking: Centralized, distributed, or hybrid?",
+        "Route selection for multi-hop cognitive radio networks using reinforcement learning: An experimental study",
+        "Qgeo: Q-learning-based geographic ad hoc routing protocol for unmanned robotic networks"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025272",
+            "affilname": "The University of Tokyo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025272",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

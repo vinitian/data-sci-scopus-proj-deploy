@@ -1,0 +1,119 @@
+{
+    "eid": "2-s2.0-85068528080",
+    "title": "The joint distribution of the marginals of multipartite random quantum states",
+    "cover-date": "2020-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Algebra and Number Theory",
+            "@code": "2602",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Statistics and Probability",
+            "@code": "2613",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Statistics, Probability and Uncertainty",
+            "@code": "1804",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Discrete Mathematics and Combinatorics",
+            "@code": "2607",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "combinatorial map, planar map",
+        "marginal of a quantum state",
+        "random quantum state",
+        "random tensor",
+        "Wishart ensemble"
+    ],
+    "authors": [
+        "Stephane Dartois",
+        "Luca Lionni",
+        "Ion Nechita"
+    ],
+    "citedby-count": 6,
+    "ref-count": 50,
+    "ref-list": [
+        "Random tensor theory: Extending random matrix theory to mixtures of random product states",
+        "Free bessel laws",
+        "Some properties of crossings and partitions",
+        "A note on the largest eigenvalue of a large dimensional sample covariance matrix",
+        "Simple recurrence formulas to count maps on orientable surfaces",
+        "Eigenvalue distributions of reduced density matrices",
+        "A simple model of trees for unicellular maps",
+        "The structure of unicellular maps, and a connection between maps of positive genus and planar labelled trees",
+        "A new combinatorial identity for unicellular maps, via a direct bijective approach",
+        "Second order freeness and fluctuations of random matrices. III higher order freeness and free cumulants",
+        "Gaussianization and eigenvalue statistics for random quantum channels (III)",
+        "Random matrix techniques in quantum information theory",
+        "Random graph states, maximal flow and fuss-catalan distributions",
+        "Area law for random graph states",
+        "Factoring n-cycles and counting maps of given genus",
+        "Random quantum correlations and density operator distributions",
+        "The Semicircle Law, Free Random Variables, and entropy",
+        "The number of plane trees",
+        "Random matrices with complex gaussian entries",
+        "On a formula for the product-moment coefficient of any order of a normal frequency distribution in any number of variables",
+        "Sur les partitions non crois\u00e9es d'un cycle",
+        "Distribution of eigenvalues for some sets of random matrices",
+        "Asymptotics of random density matrices",
+        "Three lectures on free probability, Random Matrix Theory, Intera",
+        "Random bures mixed states and the distribution of their purity",
+        "Average entropy of a subsystem",
+        "Matrix product state representations",
+        "Product of ginibre matrices: Fuss-catalan and raney distributions",
+        "Bures volume of the set of mixed quantum states",
+        "Statistical properties of random density matrices",
+        "Duality and trinity",
+        "Circular and semicircular systems and free product",
+        "Characteristic vectors of bordered matrices with infinite dimensions",
+        "The generalised product moment distribution in samples from a normal multivariate population",
+        "Counting rooted maps by genus",
+        "The Euler characteristic of the moduli space of curves",
+        "Induced measures in the space of mixed quantum states",
+        "Hilbert-schmidt volume of the set of mixed quantum states"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Kyoto",
+            "@id": "60119344",
+            "affilname": "Yukawa Institute for Theoretical Physics",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60119344",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Toulouse",
+            "@id": "60027245",
+            "affilname": "Universit\u00e9 Toulouse III - Paul Sabatier",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027245",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Melbourne",
+            "@id": "60026553",
+            "affilname": "University of Melbourne",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026553",
+            "affiliation-country": "Australia"
+        }
+    ],
+    "funding": [
+        "PHC",
+        "Australian Research Council"
+    ]
+}

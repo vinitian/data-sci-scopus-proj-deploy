@@ -1,0 +1,241 @@
+{
+    "eid": "2-s2.0-85131889357",
+    "title": "Direct identification of A-to-I editing sites with nanopore native RNA sequencing",
+    "cover-date": "2022-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biotechnology",
+            "@code": "1305",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Cell Biology",
+            "@code": "1307",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Tram Anh Nguyen",
+        "Jia Wei Joel Heng",
+        "Pornchai Kaewsapsak",
+        "Eng Piew Louis Kok",
+        "Dominik Stanojevi\u0107",
+        "Hao Liu",
+        "Angelysia Cardilla",
+        "Albert Praditya",
+        "Zirong Yi",
+        "Mingwan Lin",
+        "Jong Ghut Ashley Aw",
+        "Yin Ying Ho",
+        "Kai Lay Esther Peh",
+        "Yuanming Wang",
+        "Qixing Zhong",
+        "Jacki Heraud-Farlow",
+        "Shifeng Xue",
+        "Bruno Reversade",
+        "Carl Walkley",
+        "Ying Swan Ho",
+        "Mile \u0160iki\u0107",
+        "Yue Wan",
+        "Meng How Tan"
+    ],
+    "citedby-count": 15,
+    "ref-count": 78,
+    "ref-list": [
+        "Functions and regulation of RNA editing by ADAR deaminases",
+        "Regulation of serotonin-2C receptor G-protein coupling by RNA editing",
+        "Nervous system targets of RNA editing identified by comparative genomics",
+        "RNA editing in brain controls a determinant of ion flow in glutamate-gated channels",
+        "RNA editing in nascent RNA affects pre-mRNA splicing",
+        "The fate of dsRNA in the nucleus: a p54(nrb)-containing complex mediates the nuclear retention of promiscuously A-to-I edited RNAs",
+        "Adenosine-to-inosine RNA editing controls cathepsin S expression in atherosclerosis by enabling HuR-mediated post-transcriptional regulation",
+        "Genomic analysis of ADAR1 binding and its involvement in multiple RNA processing pathways",
+        "Modulation of microRNA processing and expression through RNA editing by ADAR deaminases",
+        "Redirection of silencing targets by adenosine-to-inosine editing of miRNAs",
+        "Analysis of intron sequences reveals hallmarks of circular RNA biogenesis in animals",
+        "Circular RNAs in the mammalian brain are highly abundant, conserved, and dynamically expressed",
+        "Requirement of the RNA editing deaminase ADAR1 gene for embryonic erythropoiesis",
+        "Stress-induced apoptosis associated with null mutation of ADAR1 RNA editing deaminase gene",
+        "Liver disintegration in the mouse embryo caused by deficiency in the RNA-editing enzyme ADAR1",
+        "RNA editing by ADAR1 prevents MDA5 sensing of endogenous dsRNA as nonself",
+        "The RNA-editing enzyme ADAR1 controls innate immune responses to RNA",
+        "Isoforms of RNA-editing enzyme ADAR1 independently control nucleic acid sensor MDA5-driven autoimmunity and multi-organ development",
+        "ADAR1 mediated regulation of neural crest derived melanocytes and Schwann cell development",
+        "Mutations in ADAR1 cause Aicardi-Goutieres syndrome associated with a type I interferon signature",
+        "Increased RNA editing may provide a source for autoantigens in systemic lupus erythematosus",
+        "Decreased A-to-I RNA editing as a source of keratinocytes\u2019 dsRNA in psoriasis",
+        "Widespread RNA editing dysregulation in brains from autistic individuals",
+        "Reduced levels of protein recoding by A-to-I RNA editing in Alzheimer\u2019s disease",
+        "Global landscape and genetic regulation of RNA editing in cortical samples from individuals with schizophrenia",
+        "The genomic landscape and clinical relevance of A-to-I RNA editing in human cancers",
+        "Loss of ADAR1 in tumours overcomes resistance to immune checkpoint blockade",
+        "Tumor-derived IFN triggers chronic pathway agonism and sensitivity to ADAR loss",
+        "Identification of ADAR1 adenosine deaminase dependency in a subset of cancer cells",
+        "Computational approaches for detection and quantification of A-to-I RNA editing",
+        "REDIportal: millions of novel A-to-I RNA editing events from thousands of RNAseq experiments",
+        "RADAR: a rigorously annotated database of A-to-I RNA editing",
+        "Highly parallel direct RNA sequencing on an array of nanopores",
+        "Accurate detection of m6A RNA modifications in native RNA sequences",
+        "Nanopore direct RNA-sequencing maps the complexity of Arabidopsis mRNA processing and m6A modification",
+        "Direct RNA sequencing reveals m6A modifications on adenovirus RNA are necessary for efficient splicing",
+        "Decoding the epitranscriptional landscape from native RNA sequences",
+        "Direct RNA sequencing enables m6A detection in endogenous transcript isoforms at base-specific resolution",
+        "Quantitative profiling of pseudouridylation dynamics in native RNAs with nanopore sequencing",
+        "Identification of differential RNA modifications from nanopore direct RNA sequencing with xPore",
+        "RNA modifications detection by comparative Nanopore direct RNA sequencing",
+        "Modification of nucleosides and nucleotides. VII. Selective cyanoethylation of inosine and pseudouridine in yeast transfer ribonucleic acid",
+        "Inosine cyanoethylation identifies A-to-I RNA editing sites in the human transcriptome",
+        "A complete bacterial genome assembled de novo using only nanopore sequencing data",
+        "Gaussian mixture model-based unsupervised nucleotide modification number detection using nanopore-sequencing readouts",
+        "Profiling RNA editing in human tissues: towards the inosinome Atlas",
+        "Dynamic landscape and regulation of RNA editing in mammals",
+        "Deepbinner: demultiplexing barcoded Oxford Nanopore reads with deep convolutional neural networks",
+        "A-to-I RNA editing occurs at over a hundred million genomic sites, located in a majority of human genes",
+        "Deep residual learning for image recognition",
+        "Advancing system performance with redundancy: from biological to artificial designs",
+        "Massive A-to-I RNA editing is common across the Metazoa and correlates with dsRNA abundance",
+        "Investigating RNA editing in deep transcriptome datasets with REDItools and REDIportal",
+        "The majority of A-to-I RNA editing is not required for mammalian homeostasis",
+        "dbSNP database for single-nucleotide polymorphisms and other classes of minor genetic variation",
+        "dbSNP: the NCBI database of genetic variation",
+        "Next-generation characterization of the cancer cell line encyclopedia",
+        "Quantifying RNA editing in deep transcriptome datasets",
+        "Preferential selection of adenosines for modification by double-stranded RNA adenosine deaminase",
+        "Predicting sites of ADAR editing in double-stranded RNA",
+        "Double-stranded RNA adenosine deaminases ADAR1 and ADAR2 have overlapping specificities",
+        "Systematic identification of A-to-I RNA editing in zebrafish development and adult organs",
+        "Widespread A-to-I RNA editing of Alu-containing mRNAs in the human transcriptome",
+        "RNA m6A modification orchestrates a LINE-1\u2013host interaction that facilitates retrotransposition and contributes to long gene vulnerability",
+        "The RNA m6A reader YTHDC1 silences retrotransposons and guards ES cell identity",
+        "Nuclear m6A reader YTHDC1 regulates the scaffold function of LINE1 RNA in mouse ESCs and early embryos",
+        "METTL3 regulates heterochromatin in mouse embryonic stem cells",
+        "The Editor\u2019s I on disease development",
+        "RNA editing underlies temperature adaptation in K+channels from polar octopuses",
+        "The majority of transcripts in the squid nervous system are extensively recoded by A-to-I RNA editing",
+        "Trade-off between transcriptome plasticity and genome evolution in cephalopods",
+        "RNA editing with CRISPR\u2013Cas13",
+        "Precise RNA editing by recruiting endogenous ADARs with antisense oligonucleotides",
+        "Programmable RNA editing by recruiting endogenous ADAR using engineered RNAs",
+        "MODOMICS: a database of RNA modification pathways. 2017 update",
+        "STAR: ultrafast universal RNA-seq aligner",
+        "The Genome Analysis Toolkit: a MapReduce framework for analyzing next-generation DNA sequencing data"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Zagreb",
+            "@id": "60159855",
+            "affilname": "University of Zagreb, Faculty of Electrical Engineering and Computing",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60159855",
+            "affiliation-country": "Croatia"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60118456",
+            "affilname": "School of Chemical and Biomedical Engineering",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60118456",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60113363",
+            "affilname": "A-Star, Bioprocessing Technology Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60113363",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60095091",
+            "affilname": "School of Biological Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60095091",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60031198",
+            "affilname": "A-Star, Genome Institute of Singapore",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031198",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60026680",
+            "affilname": "NUS Yong Loo Lin School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026680",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Melbourne",
+            "@id": "60026553",
+            "affilname": "University of Melbourne",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026553",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60021981",
+            "affilname": "A-Star, Institute of Molecular and Cell Biology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021981",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60017161",
+            "affilname": "National University of Singapore",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017161",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Istanbul",
+            "@id": "60006369",
+            "affilname": "Ko\u00e7 \u00dcniversitesi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006369",
+            "affiliation-country": "Turkey"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60005510",
+            "affilname": "Nanyang Technological University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005510",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "102004144",
+            "affilname": "National Junior College",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/102004144",
+            "affiliation-country": "Singapore"
+        }
+    ],
+    "funding": [
+        "Bioprocessing Technology Institute",
+        "International Genetically Engineering Machine",
+        "School of Chemical and Biomedical Engineering",
+        "EMBO",
+        "National Medical Research Council",
+        "National Research Foundation Singapore",
+        "Nanyang Technological University",
+        "Genome Institute of Singapore"
+    ]
+}

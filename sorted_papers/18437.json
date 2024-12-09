@@ -1,0 +1,79 @@
+{
+    "eid": "2-s2.0-85052814087",
+    "title": "Gradient Directional Second Derivative Pseudo-enhancement Correction and Modified Local Roughness Response Estimation for Electronic Cleansing in CT Colonography",
+    "cover-date": "2018-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biomedical Engineering",
+            "@code": "2204",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Computed tomography colonography",
+        "Electronic colon cleansing",
+        "Partial volume effect",
+        "Pseudo-enhancement correction"
+    ],
+    "authors": [
+        "Krisorn Chunhapongpipat",
+        "Ratinan Boonklurb",
+        "Bundit Chaopathomkul",
+        "Sirod Sirisup",
+        "Rajalida Lipikorn"
+    ],
+    "citedby-count": 0,
+    "ref-count": 31,
+    "ref-list": [
+        "Adaptive correction of the pseudo-enhancement of CT attenuation for fecal-tagging CT colonography",
+        "Nonlinear regression-based method for pseudoenhancement correction in CT colonography",
+        "Fast pseudo-enhancement correction in CT colonography using linear shift-invariant filters",
+        "Scale-based scatter correction for computed-aided polyp detection in CT Colonography",
+        "Structure-analysis method for electronic cleansing in cathartic and noncarthatic CT colonography",
+        "An EM approach to MAP solution of segmenting tissue mixture percentages with application to CT-based virtual colonoscopy",
+        "Digital subtraction bowel cleansing for CT colonography using morphological and linear filtration methods",
+        "Electronic cleansing for computed tomography (CT) colonography using a scale-invariant three-material model",
+        "Integration of 3D scale-based pseudo-enhancement correction and partial volume image segmentation for improving electronic colon cleansing in CT colonograpy",
+        "An image segmentation approach to extract colon lumen through colonic material tagging and Hidden Markov random field model for virtual colonography",
+        "The elephant in the room: Bowel preparation for CT colonography",
+        "Dietary fecal tagging as a cleansing method before CT colonography: Initial results polyp detection and patient acceptance",
+        "CT colonography without cathartic preparation: Feasibility study",
+        "Mosaic decomposition: An electronic cleansing method for inhomogeneously tagged regions in noncathartic CT colonography",
+        "Automated image-based colon cleansing for laxative-free CT colonography computer-aided polyp detection",
+        "Informatics in radiology: Electronic cleansing for noncathartic CT colonography: A structure-analysis scheme",
+        "Electronic cleansing for 24-h limited bowel preparation CT colonography using principal curvature flow",
+        "Noncathartic CT colonography with stool tagging: Performance with and without electronic stool subtraction",
+        "Efficient implementation for spherical flux computation and its application to vascular segmentation",
+        "Edge aware anisotropic diffusion for 3D scalar data",
+        "A threshold selection method from gray-level histograms",
+        "A fast marching level set method for monotonically advancing fronts",
+        "Computed tomographic virtual colonoscopy to screen for colorectal neoplasia in asymptomatic adults",
+        "Fold-preserving electronic cleansing using a reconstruction model integrating material fractions and structural responses",
+        "Fast three-material modeling with triple arch projection for electronic cleansing in CTC"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011525",
+            "affilname": "Thailand National Electronics and Computer Technology Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011525",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,82 @@
+{
+    "eid": "2-s2.0-85151494248",
+    "title": "Future Distribution Power Flow Scenario Generation Method Using Generative Adversarial Network Considering Correlation Between DERs",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "-distributed energy resources",
+        "distribution grid planning",
+        "generative adversarial network",
+        "scenario generation"
+    ],
+    "authors": [
+        "Hiroki Ichinomiya",
+        "Kenichi Kawabe",
+        "Surachai Chaitusaney"
+    ],
+    "citedby-count": 0,
+    "ref-count": 20,
+    "ref-list": [
+        "Development of Future der Profile Scenarios Using Generative Adversarial Network for Stochastic Distribution Grid Planning",
+        "Generative Adversarial Nets",
+        "Typical wind power scenario generation for multiple wind farms using conditional improved Wasserstein generative adversarial network",
+        "Model-free renewable scenario generation using generative adversarial networks",
+        "Scenario generation for wind power using improved generative adversarial networks",
+        "Optimizing the energy storage schedule of a battery in a PV grid-connected nZEB using linear programming",
+        "Non-Wire Alternatives: An Additional Value Stream for Distributed Energy Resources"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60031126",
+            "affilname": "Tokyo Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031126",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,171 @@
+{
+    "eid": "2-s2.0-85163951372",
+    "title": "Prediction of posttraumatic functional recovery in middle-aged and older patients through dynamic ensemble selection modeling",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Public Health, Environmental and Occupational Health",
+            "@code": "2739",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "dynamic ensemble selection",
+        "machine learning",
+        "middle-aged patient",
+        "older patient",
+        "traumatic injury"
+    ],
+    "authors": [
+        "Nguyen Thanh Nhu",
+        "Jiunn Horng Kang",
+        "Tian Shin Yeh",
+        "Chia Chieh Wu",
+        "Cheng Yu Tsai",
+        "Krisna Piravej",
+        "Carlos Lam"
+    ],
+    "citedby-count": 0,
+    "ref-count": 48,
+    "ref-list": [
+        "The incidence of geriatric trauma is increasing and comparison of different scoring tools for the prediction of in-hospital mortality in geriatric trauma patients",
+        "Injury patterns and outcomes in late middle age (55-65): the intersecting comorbidity with high-risk activity - a retrospective cohort study",
+        "The burden of health conditions for middle-aged and older adults in the United States: disability-adjusted life years",
+        "Prevalence and patterns of comorbidity among middle-aged and elderly people in China: a cross-sectional study based on CHARLS data",
+        "Epidemiologic characteristics of multimorbidity and sociodemographic factors associated with multimorbidity in a rapidly aging Asian country",
+        "The impact of pre-existing conditions on functional outcome and mortality in geriatric hip fracture patients",
+        "Geriatric Trauma",
+        "Depression and life satisfaction among middle-aged and older adults: mediation effect of functional disability",
+        "A comparison of prognosis calculators for geriatric trauma: a prognostic assessment of life and limitations after trauma in the elderly consortium study",
+        "Impact of chronic illness on functional outcomes and quality of life among injured older adults",
+        "Age and preexisting conditions as risk factors for severe adverse events and failure to rescue after injury",
+        "Explanation and prediction of clinical data with imbalanced class distribution based on pattern discovery and disentanglement",
+        "Predictive models for knee pain in middle-aged and elderly individuals based on machine learning methods",
+        "Using CatBoost algorithm to identify middle-aged and elderly depression, national health and nutrition examination survey 2011-2018",
+        "A machine learning-based aging measure among middle-aged and older Chinese adults: the China health and retirement longitudinal study",
+        "The comparison and interpretation of machine-learning models in post-stroke functional outcome prediction",
+        "Predicting post-stroke activities of daily living through a machine learning-based approach on initiating rehabilitation",
+        "Influencing factors of Barthel index scores among the community-dwelling elderly in Hong Kong: a random intercept model",
+        "Improving the sensitivity of the Barthel index for stroke rehabilitation",
+        "Validation of clinical frailty scale in Chinese translation",
+        "New ICD-10 version of the Charlson comorbidity index predicted in-hospital mortality",
+        "Can APACHE II, SOFA, ISS, and RTS severity scores be used to predict septic complications in multiple trauma patients?",
+        "Analysis of the revised trauma score (RTS) in 200 victims of different trauma mechanisms",
+        "Major trauma and the injury severity score - where should we set the Bar?",
+        "Predictive model for early functional outcomes following acute care after traumatic brain injuries: a machine learning-based development and validation study",
+        "Scikit-learn: machine learning in Python",
+        "DESlib: A dynamic ensemble selection library in Python",
+        "Machine learning-based prediction of 1-year mortality for acute coronary syndrome(\u2730)",
+        "Machine learning is an effective method to predict the 90-day prognosis of patients with transient ischemic attack and minor stroke",
+        "Effective heterogeneous ensemble classification: an alternative approach for selecting base classifiers",
+        "A survey on ensemble learning",
+        "Prediction of breast Cancer from imbalance respect using cluster-based Undersampling method",
+        "Experimental study and comparison of imbalance ensemble classifiers with dynamic selection strategy",
+        "The impact of frailty on trauma outcomes using the clinical frailty scale",
+        "A scoping review of the clinical frailty scale",
+        "The burden of disease in older people and implications for health policy and practice",
+        "Association between anemia and cognitive decline among Chinese middle-aged and elderly: evidence from the China health and retirement longitudinal study",
+        "Prognostic implications of anemia in older adults",
+        "Long-term functional outcome after a low-energy hip fracture in elderly patients",
+        "Incidence of hip fracture among middle-aged and older Chinese from 2013 to 2015: results from a nationally representative study",
+        "Predictors of poor clinical outcome following hip fracture in middle aged-patients",
+        "Activities of daily living and outcomes in heart failure",
+        "Association of Nonalcoholic Fatty Liver Disease with Lower Brain Volume in healthy middle-aged adults in the Framingham study",
+        "Longitudinal Association of non-Alcoholic Fatty Liver Disease with Changes in myocardial structure and function: the CARDIA study",
+        "The Barthel activities of daily living index: self-reporting versus actual performance in the old-old (> or = 75 years)",
+        "Relationship between Barthel index scores during the acute phase of rehabilitation and subsequent ADL in stroke patients",
+        "A global clinical measure of fitness and frailty in elderly people",
+        "Clinical frailty scale in an acute medicine unit: a simple tool that predicts length of stay"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Taipei",
+            "@id": "60211822",
+            "affilname": "College of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60211822",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Taipei",
+            "@id": "60211567",
+            "affilname": "School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60211567",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Taipei",
+            "@id": "60072410",
+            "affilname": "Taipei Municipal Wan-Fang Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60072410",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Can Tho",
+            "@id": "60118264",
+            "affilname": "Can Tho University of Medicine and Pharmacy",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60118264",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60032499",
+            "affilname": "Harvard T.H. Chan School of Public Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032499",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Taipei",
+            "@id": "60022095",
+            "affilname": "Taipei Medical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022095",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60015150",
+            "affilname": "Imperial College London",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015150",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Oxford",
+            "@id": "60002634",
+            "affilname": "University of Oxford Medical Sciences Division",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002634",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Taipei",
+            "@id": "60002350",
+            "affilname": "Taipei Medical University Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002350",
+            "affiliation-country": "Taiwan"
+        }
+    ],
+    "funding": [
+        "Department of Physical Medicine and Rehabilitation",
+        "Injury Prevention and Disaster Medicine Research Foundation",
+        "National Taipei University of Technology and Wan Fang Hospital",
+        "Taipei Medical University Joint Research Program",
+        "Wallace Academic Editing",
+        "National Science and Technology Council",
+        "Taipei Medical University",
+        "Taipei Medical University Hospital",
+        "Wan Fang Hospital"
+    ]
+}

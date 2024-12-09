@@ -1,0 +1,83 @@
+{
+    "eid": "2-s2.0-85062223209",
+    "title": "Cloud detection on ground-based sky images with brightness reduction of circumsolar region",
+    "cover-date": "2019-01-18",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Brightness reduction",
+        "Cloud detection",
+        "Homomorphic filtering",
+        "Sky image",
+        "Thresholding techniques"
+    ],
+    "authors": [
+        "Rujipart Kruakaew",
+        "David Banjerdpongchai",
+        "Naebboon Hoonchareon"
+    ],
+    "citedby-count": 1,
+    "ref-count": 9,
+    "ref-list": [
+        "Cloud detection in all-sky images via multiscale neighborhood features and multiple supervised learning techniques",
+        "Color-based segmentation of sky/cloud images from ground-based cameras",
+        "A Hybrid thresholding algorithm for cloud detection on ground-based color images",
+        "Cloud coverage based on all-sky imaging and its impact on surface solar irradiance",
+        "Automatic cloud classification of whole sky images",
+        "Comparative study of hough transform methods for circle finding",
+        "Data mining for imbalanced datasets: An overview"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University",
+        "National Research Council of Thailand"
+    ]
+}

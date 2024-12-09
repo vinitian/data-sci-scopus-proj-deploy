@@ -1,0 +1,88 @@
+{
+    "eid": "2-s2.0-85083490592",
+    "title": "4G enabled phonebot with cloud based SLAM",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Indoor navigation",
+        "LidarBot",
+        "Mobile robots",
+        "SLAM"
+    ],
+    "authors": [
+        "Pruk Sasithong",
+        "Ye Moe Myint",
+        "Chalita Kriangprapakit",
+        "Chalermporn Kertiopas",
+        "Irfan Ullah",
+        "Lunchakorn Wuttisittikulkij",
+        "Tapakorn Loetchaipitak",
+        "Kittaphas Chaipirawat",
+        "Ratchatin Chancharoen",
+        "Muhammad Saadi"
+    ],
+    "citedby-count": 0,
+    "ref-count": 12,
+    "ref-list": [
+        "Topology optimization of industrial robots: Application to a five-bar mechanism",
+        "Visible light communication-An architectural perspective on the applications and data rate improvement strategies",
+        "Visible light based indoor localization using k means clustering and linear regression",
+        "6G wireless networks: Vision, requirements, architecture, and key technologies",
+        "Design of mecanum wheel for omni-directional motion",
+        "Probabilistic Robotics. Sebastian Thrun, Wolfram Burgard, and Dieter Fox. (2005, mit Press.) 647 pages",
+        "An implementation of SLAM with extended Kalman filter",
+        "Unscented fastslam: A robust and efficient solution to the slam problem",
+        "The graph slam algorithm with applications to large-scale mapping of urban structures",
+        "Improved techniques for grid mapping with rao-blackwellized particle filters",
+        "Map matching and data association for largescale two-dimensional laser scan-based SLAM",
+        "Real-time loop closure in 2d lidar slam"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Lahore",
+            "@id": "60103839",
+            "affilname": "University of Central Punjab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103839",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

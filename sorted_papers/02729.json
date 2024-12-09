@@ -1,0 +1,100 @@
+{
+    "eid": "2-s2.0-85133310234",
+    "title": "A Compact Planar Microstrip Low Pass Filter with Improved Out-of-Band Rejection Utilizing Dumbbell-Shaped Defected Ground Structure",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "defected ground structure",
+        "dumbbell shape DGS",
+        "low pass filter",
+        "planar filters"
+    ],
+    "authors": [
+        "Alina Sohail",
+        "M. Kamran Saleem",
+        "Paramin Sangwongngam",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 0,
+    "ref-count": 12,
+    "ref-list": [
+        "A novel 1-D periodic defected ground structure for planar circuits",
+        "A design of the low-pass filter using the novel microstrip defected ground structure",
+        "An Overview on Defected Ground Structure",
+        "Miniaturized microstrip lowpass filter with wide stopband using double equilateral U-shaped defected ground structure",
+        "An Ultra-Wide Stop-Band LPF Using Asymmetric Pi-Shaped Koch Fractal DGS",
+        "High-Performance Low-Pass Filter Using Stepped Impedance Resonator and Defected Ground Structure",
+        "Miniaturized low-pass filter based on defected ground structure and compensated microstrip line",
+        "Design of high-performance microstrip and coplanar low-pass filters based on electromagnetic bandgap (EBG) structures",
+        "A Flexible Microstrip Low-Pass Filter Design Using Asymmetric Pi-Shaped DGS",
+        "Design of low-pass filter with 3-interations Koch fractal Pi-shaped DGS",
+        "Compact microstrip lowpass filter with high harmonics suppression using defected structures"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Lahore",
+            "@id": "60103839",
+            "affilname": "University of Central Punjab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103839",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011525",
+            "affilname": "Thailand National Electronics and Computer Technology Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011525",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

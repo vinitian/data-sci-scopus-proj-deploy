@@ -1,0 +1,64 @@
+{
+    "eid": "2-s2.0-85063195148",
+    "title": "Towards Asynchronous Motor Imagery-Based Brain-Computer Interfaces: A joint training scheme using deep learning",
+    "cover-date": "2019-02-22",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "asynchronous BCI",
+        "deep learning-based BCI",
+        "EEG-based BCI",
+        "joint training",
+        "motor-imagery BCI"
+    ],
+    "authors": [
+        "Patcharin Cheng",
+        "Phairot Autthasan",
+        "Boriwat Pijarana",
+        "Ekapol Chuangsuwanich",
+        "Theerawit Wilaiprasitporn"
+    ],
+    "citedby-count": 6,
+    "ref-count": 11,
+    "ref-list": [
+        "Brain-computer interfaces for communication and control",
+        "Brain-computer interfaces using sensorimotor rhythms: Current state and future perspectives",
+        "An asynchronous wheelchair control by hybrid EEG-EOG brain-computer interface",
+        "Quadcopter control in three-dimensional space using a noninvasive motor imagery-based braincomputer interface",
+        "Optimized motor imagery paradigm based on imagining Chinese characters writing movement",
+        "A novel deep learning approach for classification of EEG motor imagery signals",
+        "Brain-computer communication: Motivation, aim, and impact of exploring a virtual apartment",
+        "Long short-term memory",
+        "Meg and EEG data analysis with mne-python",
+        "Scikit-learn: Machine learning in Python"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "122277380",
+            "affilname": "Vidyasirimedhi Institute of Science Engineering",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/122277380",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

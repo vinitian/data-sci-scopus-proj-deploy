@@ -1,0 +1,86 @@
+{
+    "eid": "2-s2.0-85169294093",
+    "title": "Improving Pre-Trained Models for Multi-Label Classification in Stack Overflow: A Comparison of Imbalanced Data Handling Methods",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "deep learning",
+        "imbalanced data",
+        "multi-label classification",
+        "Pre-trained model",
+        "Stack Overflow",
+        "tag prediction"
+    ],
+    "authors": [
+        "Arisa Umparat",
+        "Suronapee Phoomvuthisarn"
+    ],
+    "citedby-count": 0,
+    "ref-count": 30,
+    "ref-list": [
+        "Is deep learning better than traditional approaches in tag recommendation for software information sites?",
+        "EnTagRec++: An enhanced tag recommendation system for software information sites",
+        "Scalable tag recommendation for software information sites",
+        "FastTagRec: fast tag recommendation for software information sites",
+        "Post2Vec: Learning Distributed Representations of Stack Overflow Posts",
+        "Addressing the multi-label imbalance for neural networks: An approach based on stratified mini-batches",
+        "A First Approach to Deal with Imbalance in Multi-label Datasets",
+        "Addressing imbalance in multilabel classification: Measures and random resampling algorithms",
+        "Resampling Multilabel Datasets by Decoupling Highly Imbalanced Labels",
+        "Managing Imbalanced Data Sets in Multilabel Problems: A Case Study with the SMOTE Algorithm",
+        "MLeNN: A First Approach to Heuristic Multilabel Undersampling",
+        "MLSMOTE: Approaching imbalanced multilabel learning through synthetic instance generation",
+        "Synthetic Oversampling of Multi-Label Data based on Local Label Distribution",
+        "MLTL: A multi-label approach for the Tomek Link undersampling algorithm",
+        "REMEDIAL-HwR: Tackling multilabel imbalance through label decoupling and data resampling hybridization",
+        "Multi-label sampling based on local label imbalance",
+        "Multi-label Classification Trending Challenges and Approaches",
+        "On the validity of pre-trained transformers for natural language processing in the software engineering domain",
+        "XLNet: Generalized Autoregressive Pretraining for Language Understanding",
+        "PTM4Tag: Sharpening Tag Recommendation of Stack Overflow Posts with Pretrained Models",
+        "Code and Named Entity Recognition in StackOverflow",
+        "On the k-NN performance in a challenging scenario of imbalance and overlapping",
+        "Concurrence among imbalanced labels and its influence on multilabel resampling algorithms"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60199583",
+        "affilname": "Chulalongkorn Business School",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199583",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

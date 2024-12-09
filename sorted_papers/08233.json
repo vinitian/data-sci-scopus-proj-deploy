@@ -1,0 +1,64 @@
+{
+    "eid": "2-s2.0-85106715597",
+    "title": "Analytical formulas for pricing discretely-sampled skewness and kurtosis swaps based on schwartz\u2019s one-factor model",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Multidisciplinary",
+            "@code": "1000",
+            "@abbrev": "MULT"
+        }
+    ],
+    "keywords": [
+        "Discrete sampling",
+        "Kurtosis swaps",
+        "Schwartz\u2019s model",
+        "Skewness swaps"
+    ],
+    "authors": [
+        "Kittisak Chumpong",
+        "Khamron Mekchay",
+        "Nopporn Thamrongrat"
+    ],
+    "citedby-count": 10,
+    "ref-count": 16,
+    "ref-list": [
+        "A simple closed-form formula for the conditional moments of the Ornstein-Uhlenbeck",
+        "Pricing discretely-sampled variance swaps on commodities",
+        "The skew risk premium in the equity index market",
+        "Realized skewness",
+        "Pricing and hedging contingent claims using variance and higher-order moment swaps",
+        "A novel analytical approach for pricing discretely sampled gamma swaps on the Heston model",
+        "A simple closed-form formula for pricing discretely-sampled variance swaps under the Heston model",
+        "A simplified analytical approach for pricing discretely-sampled variance swaps with stochastic volatility",
+        "Moment swaps",
+        "The stochastic behavior of commodity prices: Implications for valuation and hedging",
+        "A closed-form formula for pricing variance swaps on commodities",
+        "The skewness implied in the Heston model and its application",
+        "The relation between physical and risk-neutral cumulants",
+        "Closed form pricing formulas for discretely sampled generalized variance swaps",
+        "A closed-form exact solution for pricing variance swaps with stochastic volatility",
+        "On the valuation of variance swaps with stochastic volatility"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tha Sala",
+            "@id": "60026526",
+            "affilname": "Walailak University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026526",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "Walailak University"
+    ]
+}

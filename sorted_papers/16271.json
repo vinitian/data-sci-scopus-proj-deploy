@@ -1,0 +1,469 @@
+{
+    "eid": "2-s2.0-85099838453",
+    "title": "Author Correction: Expert assessment of future vulnerability of the global peatland carbon sink (Nature Climate Change, (2021), 11, 1, (70-77), 10.1038/s41558-020-00944-0)",
+    "cover-date": "2021-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Environmental Science (miscellaneous)",
+            "@code": "2301",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Social Sciences (miscellaneous)",
+            "@code": "3301",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "J. Loisel",
+        "A. V. Gallego-Sala",
+        "M. J. Amesbury",
+        "G. Magnan",
+        "G. Anshari",
+        "D. W. Beilman",
+        "J. C. Benavides",
+        "J. Blewett",
+        "P. Camill",
+        "D. J. Charman",
+        "S. Chawchai",
+        "A. Hedgpeth",
+        "T. Kleinen",
+        "A. Korhola",
+        "D. Large",
+        "C. A. Mansilla",
+        "J. M\u00fcller",
+        "S. van Bellen",
+        "J. B. West",
+        "Z. Yu",
+        "J. L. Bubier",
+        "M. Garneau",
+        "T. Moore",
+        "A. B.K. Sannel",
+        "S. Page",
+        "M. V\u00e4liranta",
+        "M. Bechtold",
+        "V. Brovkin",
+        "L. E.S. Cole",
+        "J. P. Chanton",
+        "T. R. Christensen",
+        "M. A. Davies",
+        "F. De Vleeschouwer",
+        "S. A. Finkelstein",
+        "S. Frolking",
+        "M. Ga\u0142ka",
+        "L. Gandois",
+        "N. Girkin",
+        "L. I. Harris",
+        "A. Heinemeyer",
+        "A. M. Hoyt",
+        "M. C. Jones",
+        "F. Joos",
+        "S. Juutinen",
+        "K. Kaiser",
+        "T. Lacourse",
+        "M. Lamentowicz",
+        "T. Larmola",
+        "J. Leifeld",
+        "A. Lohila",
+        "A. M. Milner",
+        "K. Minkkinen",
+        "P. Moss",
+        "B. D.A. Naafs",
+        "J. Nichols",
+        "J. O\u2019Donnell",
+        "R. Payne",
+        "M. Philben",
+        "S. Piilo",
+        "A. Quillet",
+        "A. S. Ratnayake",
+        "T. P. Roland",
+        "S. Sj\u00f6gersten",
+        "O. Sonnentag",
+        "G. T. Swindles",
+        "W. Swinnen",
+        "J. Talbot",
+        "C. Treat",
+        "A. C. Valach",
+        "J. Wu"
+    ],
+    "citedby-count": 2,
+    "ref-count": 0,
+    "ref-list": [],
+    "affiliation": [
+        {
+            "affiliation-city": "Helsinki",
+            "@id": "60002952",
+            "affilname": "Helsingin Yliopisto",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002952",
+            "affiliation-country": "Finland"
+        },
+        {
+            "affiliation-city": "College Station",
+            "@id": "60020547",
+            "affilname": "Texas A&amp;M University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020547",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "York",
+            "@id": "60016418",
+            "affilname": "University of York",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016418",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Nottingham",
+            "@id": "60015138",
+            "affilname": "University of Nottingham",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015138",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60009507",
+            "affilname": "University of Montreal",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009507",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Berkeley",
+            "@id": "60121458",
+            "affilname": "Department of Environmental Science, Policy, and Management",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60121458",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Helsinki",
+            "@id": "60106157",
+            "affilname": "Natural Resources Institute Finland (Luke)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60106157",
+            "affiliation-country": "Finland"
+        },
+        {
+            "affiliation-city": "Badulla",
+            "@id": "60104606",
+            "affilname": "Uva Wellassa University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104606",
+            "affiliation-country": "Sri Lanka"
+        },
+        {
+            "affiliation-city": "Pontianak",
+            "@id": "60069429",
+            "affilname": "Universitas Tanjungpura",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60069429",
+            "affiliation-country": "Indonesia"
+        },
+        {
+            "affiliation-city": "Bogota",
+            "@id": "60033545",
+            "affilname": "Pontificia Universidad Javeriana",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60033545",
+            "affiliation-country": "Colombia"
+        },
+        {
+            "affiliation-city": "Zurich",
+            "@id": "60033278",
+            "affilname": "Forschungsanstalt Agroscope Reckenholz-Tanikon",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60033278",
+            "affiliation-country": "Switzerland"
+        },
+        {
+            "affiliation-city": "Helsinki",
+            "@id": "60033178",
+            "affilname": "Finnish Meteorological Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60033178",
+            "affiliation-country": "Finland"
+        },
+        {
+            "affiliation-city": "Leicester",
+            "@id": "60033125",
+            "affilname": "University of Leicester",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60033125",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Palisades",
+            "@id": "60033011",
+            "affilname": "Lamont-Doherty Earth Observatory",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60033011",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Brisbane",
+            "@id": "60031004",
+            "affilname": "The University of Queensland",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031004",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Edmonton",
+            "@id": "60030835",
+            "affilname": "University of Alberta",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030835",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Belfast",
+            "@id": "60029738",
+            "affilname": "Queen's University Belfast",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029738",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Aarhus",
+            "@id": "60029616",
+            "affilname": "Aarhus Universitet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029616",
+            "affiliation-country": "Denmark"
+        },
+        {
+            "affiliation-city": "Hamburg",
+            "@id": "60028564",
+            "affilname": "Max Planck Institute for Meteorology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028564",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Stockholm",
+            "@id": "60028378",
+            "affilname": "Stockholms universitet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028378",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60027863",
+            "affilname": "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027863",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Durham",
+            "@id": "60027576",
+            "affilname": "University of New Hampshire Durham",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027576",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Los Angeles",
+            "@id": "60027550",
+            "affilname": "University of California, Los Angeles",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027550",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Toulouse",
+            "@id": "60027245",
+            "affilname": "Universit\u00e9 Toulouse III - Paul Sabatier",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027245",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Exeter",
+            "@id": "60026479",
+            "affilname": "University of Exeter",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026479",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "3000 Leuven",
+            "@id": "60025063",
+            "affilname": "KU Leuven",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025063",
+            "affiliation-country": "Belgium"
+        },
+        {
+            "affiliation-city": "St Andrews",
+            "@id": "60022132",
+            "affilname": "University of St Andrews",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022132",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Holland",
+            "@id": "60021782",
+            "affilname": "Hope College",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021782",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bristol",
+            "@id": "60020650",
+            "affilname": "University of Bristol",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020650",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Egham",
+            "@id": "60020595",
+            "affilname": "Royal Holloway, University of London",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020595",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Bern",
+            "@id": "60020486",
+            "affilname": "University of Bern",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020486",
+            "affiliation-country": "Switzerland"
+        },
+        {
+            "affiliation-city": "Jena",
+            "@id": "60020318",
+            "affilname": "Max Planck Institute for Biogeochemistry",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020318",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "South Hadley",
+            "@id": "60019526",
+            "affilname": "Mount Holyoke College",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019526",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Washington, D.C.",
+            "@id": "60016933",
+            "affilname": "National Park Service",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016933",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Toronto",
+            "@id": "60016849",
+            "affilname": "University of Toronto",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016849",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Poznan",
+            "@id": "60014168",
+            "affilname": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014168",
+            "affiliation-country": "Poland"
+        },
+        {
+            "affiliation-city": "Honolulu",
+            "@id": "60013791",
+            "affilname": "University of Hawai\u02bbi at M\u0101noa",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013791",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Galveston",
+            "@id": "60012455",
+            "affilname": "Texas A and M University at Galveston",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012455",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Reading",
+            "@id": "60012197",
+            "affilname": "University of Reading",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012197",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Reston",
+            "@id": "60011347",
+            "affilname": "United States Geological Survey",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011347",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Changchun",
+            "@id": "60009509",
+            "affilname": "Northeast Normal University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009509",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Lodz",
+            "@id": "60008931",
+            "affilname": "University of Lodz",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008931",
+            "affiliation-country": "Poland"
+        },
+        {
+            "affiliation-city": "Berkeley",
+            "@id": "60007174",
+            "affilname": "Lawrence Berkeley National Laboratory",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007174",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Cranfield",
+            "@id": "60004407",
+            "affilname": "Cranfield University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004407",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Punta Arenas",
+            "@id": "60003449",
+            "affilname": "Universidad de Magallanes",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003449",
+            "affiliation-country": "Chile"
+        },
+        {
+            "affiliation-city": "Victoria",
+            "@id": "60003122",
+            "affilname": "University of Victoria",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003122",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60002494",
+            "affilname": "Universit\u00e9 McGill",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002494",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Tallahassee",
+            "@id": "60002092",
+            "affilname": "Florida State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002092",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Corner Brook",
+            "@id": "60000500",
+            "affilname": "Memorial University of Newfoundland, Grenfell Campus",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000500",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Brunswick",
+            "@id": "60000144",
+            "affilname": "Bowdoin College",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000144",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bethlehem",
+            "@id": "60000060",
+            "affilname": "Lehigh University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000060",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Buenos Aires",
+            "@id": "112743411",
+            "affilname": "Instituto Franco-Argentino para el Estudio del Clima y sus Impactos",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112743411",
+            "affiliation-country": "Argentina"
+        }
+    ],
+    "funding": []
+}

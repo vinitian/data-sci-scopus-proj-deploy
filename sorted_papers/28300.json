@@ -1,0 +1,65 @@
+{
+    "eid": "2-s2.0-85107795212",
+    "title": "Early Stress Detection in Plant Phenotyping using CNN and LSTM Architecture",
+    "cover-date": "2021-03-10",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "deep learning",
+        "LSTM",
+        "plant phenotyping",
+        "Plant stress"
+    ],
+    "authors": [
+        "Krit Rojanarungruengporn",
+        "Suree Pumrin"
+    ],
+    "citedby-count": 1,
+    "ref-count": 16,
+    "ref-list": [
+        "Global food demand and the sustainable intensification of agriculture",
+        "Plant stress detection accuracy using deep convolution neural networks",
+        "Deep learning for plant stress phenotyping: Trends and future perspectives",
+        "Deep convolutional neural networks for mobile capture device-based crop disease classification in the wild",
+        "High-throughput profiling and analysis of plant responses over time to abiotic stress",
+        "Evaluation of image analysis to determine the n-fertilizer demand of broccoli plants (brassica oleracea convar. Botrytis var. Italica)",
+        "Classification of kiwifruit grades based on fruit shape using a single camera",
+        "Deep learning models for plant disease detection and diagnosis",
+        "Using deep learning for image-based plant disease detection",
+        "Deep phenotyping: Deep learning for temporal phenotype/genotype classification",
+        "Cell proliferation without neurogenesis in adult primate neocortex",
+        "Efficient scheduling focusing on the duality of mpl representatives"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

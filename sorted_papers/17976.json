@@ -1,0 +1,72 @@
+{
+    "eid": "2-s2.0-85141583473",
+    "title": "Explainable Recommendation via Personalized Features on Dynamic Preference Interactions",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Artificial neural networks",
+        "attention mechanism",
+        "recommender systems"
+    ],
+    "authors": [
+        "Natthapol Maneechote",
+        "Saranya Maneeroj"
+    ],
+    "citedby-count": 1,
+    "ref-count": 27,
+    "ref-list": [
+        "A survey of collaborative ltering techniques",
+        "Matrix factorization techniques for recommender systems",
+        "Neu-ral collaborative ltering",
+        "Deep rating and review neural network for item recommendation",
+        "Explicit factor models for explainable recommendation based on phrase-level sentiment analysis",
+        "Attention-driven factor model for explainable personalized recommendation",
+        "Neural attentional rating regres-sion with review-level explanations",
+        "AENAR An aspect-aware explainable neural attentional recommender model for rating predication",
+        "Hier-archical attention based neural network for explainable recommendation",
+        "Automatic construction of a context-aware sentiment lexicon An optimization approach",
+        "Boost phrase-level polarity labelling with review-level sentiment classication",
+        "Gradient-based learn-ing applied to document recognition",
+        "GloVe Global vectors for word representation",
+        "Explainable recommendation through attentive multi-view learning",
+        "Convolutional matrix factor-ization for document context-aware recommendation",
+        "WordNet A lexical database for English",
+        "Tensorow A sys-tem for large-scale machine learning",
+        "Context-aware user and item representations based on unsupervised context extraction from reviews",
+        "Dropout A simple way to prevent neural networks from overtting",
+        "Visualizing data using t-SNE"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

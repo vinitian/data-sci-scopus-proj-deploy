@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85133399525",
+    "title": "Investigation of the Effects of Ion Diffusivity on the Ion Flow Field Simulation",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "corona discharge",
+        "HVDC",
+        "ion diffusion coefficient",
+        "upwind finite volume method"
+    ],
+    "authors": [
+        "Cattareya Choopum",
+        "Boonchai Techaumnat"
+    ],
+    "citedby-count": 2,
+    "ref-count": 13,
+    "ref-list": [
+        "Ion-Flow Models: A Review",
+        "Two-dimensional finite-boxes analysis of monopolar corona fields including ion diffusion",
+        "Analysis of monopolar ionized field as influenced by ion diffusion",
+        "Improved calculation of finite-element analysis of bipolar corona including ion diffusion",
+        "Investigation the Effect of Ion Diffusion on Power Loss Transmission Lines Due to Air Insulation Ionization Using ANSYS",
+        "Calculation of ion flow environment of DC transmission lines in the presence of charged aerosol particulates based on upwind-FEM",
+        "A Comprehensive Numerical Model of Steady-State Negative Corona for Coaxial Cylindrical Electrode in Atmosphere Air",
+        "Numerical Simulation on Transition from Positive Glow Discharge to Streamer Discharge",
+        "The Effect of Environmental Temperature on Negative Corona Discharge under the Action of Photoionization",
+        "Finite Volume-Based Approach for the Hybrid Ion-Flow Field of UHVAC and UHVDC Transmission Lines in Parallel",
+        "Influence of Wind on the Electric Field and Ion Current Environment of HVDC Transmission Lines",
+        "An Introduction to Computational Fluid Dynamics: The Finite Volume Method",
+        "Impact Factors in Measurements of Ion-Current Density Produced by High-Voltage DC Wire's Corona"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

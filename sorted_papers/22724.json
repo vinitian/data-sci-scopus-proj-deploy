@@ -1,0 +1,69 @@
+{
+    "eid": "2-s2.0-85085029754",
+    "title": "Determination of Transfer Capability Point by Using Adaptive Particle Swarm Optimization",
+    "cover-date": "2020-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "feasible region",
+        "particle swarm optimization",
+        "power flow solution",
+        "solvable boundary",
+        "transfer capability"
+    ],
+    "authors": [
+        "Patchrapa Wongchai",
+        "Sotdhipong Phichaisawat"
+    ],
+    "citedby-count": 1,
+    "ref-count": 9,
+    "ref-list": [
+        "The continuation power flow: A tool for steady state voltage stability analysis",
+        "A novel method for atc computation in a large-scale power system",
+        "Cpflow: A practical tool for tracing power system steady-state stationary behavior due to load and generation variations",
+        "On convexity of power flow feasibility boundary",
+        "Computation of boundary on power flow feasible region with hybrid method",
+        "Convexity of the set of feasible injections and revenue adequacy in ftr markets",
+        "Determination of transfer capability region using boundary tracing method",
+        "Optimal capacitor placement in unbalanced loading distribution system with nonlinear loads by adaptive particle swarm technique",
+        "Assessment of available transfer capability and margin"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

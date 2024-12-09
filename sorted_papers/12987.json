@@ -1,0 +1,123 @@
+{
+    "eid": "2-s2.0-85081739563",
+    "title": "Protein dynamics of five FMN binding protein isomers revealed by residue electrostatic energies between ionic residues: correlation coefficients",
+    "cover-date": "2020-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Chemistry (all)",
+            "@code": "1600",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Chemical Engineering (all)",
+            "@code": "1500",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Chemistry",
+            "@code": "2505",
+            "@abbrev": "MATE"
+        }
+    ],
+    "keywords": [
+        "Electrostatic energy",
+        "FBP",
+        "FMN binding protein",
+        "Molecular dynamics simulation",
+        "Protein dynamics"
+    ],
+    "authors": [
+        "Nadtanet Nunthaboot",
+        "Kiattisak Lugsanangarm",
+        "Arthit Nueangaudom",
+        "Somsak Pianwanit",
+        "Sirirat Kokpol",
+        "Fumio Tanaka",
+        "Seiji Taniguchi",
+        "Haik Chosrowjan"
+    ],
+    "citedby-count": 0,
+    "ref-count": 22,
+    "ref-list": [
+        "Role of hydrogen bonding interactions to N(3)H of the flavin mononucleotide cofactor in the modulation of the redox potentials of the Clostridium beijerinckii flavodoxin",
+        "Probing molecular docking in a charged model binding site",
+        "Effects of the disappearance of one charge on ultrafast fluorescence dynamics of the FMN binding protein",
+        "A smooth particle mesh Ewald method",
+        "Electrostatic solvation energy for two oppositely charged ions in a solvated protein system: salt bridges can stabilize proteins",
+        "Electrostatic interactions in proteins: calculations of the electrostatic term of free energy and the electrostatic potential field",
+        "Novel FMN-binding protein from Desulfovibrio vulgaris (Miyazaki F). cloning and expression of its gene in Escherichia coli",
+        "Determination of the role of the carboxyl-terminal leucine-122 in FMN-binding protein by mutational and structural analysis",
+        "On the dielectric \u201cConstant\u201d of proteins: smooth dielectric function for macromolecular modeling and its implementation in DelPhi",
+        "Pathway of chymotrypsin evolution suggested by the structure of the FMN-binding protein from Desulfovibrio vulgaris (Miyazaki F)",
+        "The role of electrostatic energy in prediction of obligate protein\u2013protein interaction",
+        "Crystallographic investigation of the role of aspartate 95 in the modulation of the redox potentials of Desulfovibrio vulgaris flavodoxin",
+        "Photoinduced electron transfer from aromatic amino acids to the excited isoalloxazine in flavin mononucleotide binding protein. Is the rate in the inverted region of donor\u2013acceptor distance not real?",
+        "Photoinduced electron transfer from aromatic amino acids to the excited isoalloxazine in single mutated flavin mononucleotide binding proteins: effect of the dimer formation on the rate and the electrostatic energy inside the proteins",
+        "Physical quantity of residue electrostatic energy in flavin mononucleotide binding protein dimer",
+        "Numerical integration of the cartesian equations of motion of a system with constraints: molecular dynamics of n-alkanes",
+        "A molecular-dynamics simulation of the flavin mononucleotide-RNA aptamer complex",
+        "What are the dielectric \u201cconstants\u201d of proteins and how to validate electrostatic models? Proteins: structure",
+        "How do the X-ray structure and the NMR structure of FMN-binding protein differ?",
+        "A key factor for ultrafast rates of photoinduced electron transfer among five flavin mononucleotide binding proteins: effect of negative, positive, and neutral charges at residue 13 on the rate",
+        "How well does a restrained electrostatic potential (RESP) model perform in calculating conformational energies of organic and biological molecules?"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Lopburi",
+            "@id": "60194931",
+            "affilname": "Thepsatri Rajabhat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60194931",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60020796",
+            "affilname": "Bansomdejchaopraya Rajabhat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020796",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Osaka",
+            "@id": "60014111",
+            "affilname": "Institute for Laser Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014111",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Maha Sarakham",
+            "@id": "60002875",
+            "affilname": "Mahasarakham University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002875",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Center of Excellence for Innovation in Chemistry",
+        "Ministry of Higher Education, Science, Research and Innovation",
+        "PERCH-CIC",
+        "JSPS",
+        "Chulalongkorn University"
+    ]
+}

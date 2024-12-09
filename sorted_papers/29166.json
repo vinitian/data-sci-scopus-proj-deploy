@@ -1,0 +1,94 @@
+{
+    "eid": "2-s2.0-85122323390",
+    "title": "Performances of Conventional SOAs Versus QD-SOA in 1530-nm Upstream Transmission of 40 Gb/s Access Network",
+    "cover-date": "2022-02-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "40 Gb/s access network",
+        "Cascaded SOAs",
+        "Conventional SOA",
+        "Data pattern effect",
+        "Input power dynamic range",
+        "NG-PON2",
+        "Optical signal to noise ratio",
+        "QD-SOA"
+    ],
+    "authors": [
+        "Budsara Boriboon",
+        "Duang Rudee Worasucheep",
+        "Satoshi Shimizu",
+        "Satoshi Shinada",
+        "Hideaki Furukawa",
+        "Atsushi Matsumoto",
+        "Kouichi Akahane",
+        "Naokatsu Yamamoto",
+        "Naoya Wada"
+    ],
+    "citedby-count": 0,
+    "ref-count": 40,
+    "ref-list": [
+        "Quantum-dot semiconductor optical amplifiers",
+        "All-optical signal processing using QD-SOA",
+        "Multifunctional all-optical signal processing scheme for simultaneous multichannel WDM multicast and XOR logic gates based on FWM in QD-SOA",
+        "A wavelength conversion scheme based on a quantumdot semiconductor optical amplifier and a delay interferometer",
+        "Coherent wavelength conversion in a quantum dot SOA",
+        "Regenerative wavelength conversion of PAM-4 signals using XGM with blue-shift filtering in a QD-SOA",
+        "Wavelength conversion of 25-Gbit/s PAM-4 signals using a quantum-dot SOA",
+        "Characteristics-improvement of QD semiconductor optical amplifier using rapid-thermal annealing process",
+        "Optimized design of QD-LD toward QD-SOA to achieve 35-dB maximum chip gain with 400-mA injected current",
+        "Highly-ordered and highly-stacked (150-layers) quantum dots",
+        "Highly stacked quantum dot lasers fabricated by a strain-compensation technique",
+        "Phase transparent amplification of 40 Gbps 16 QAM signals using a QD-SOA",
+        "Polarization-insensitive quantum dot semiconductor optical amplifiers using strain-controlled columnar quantum dots",
+        "Beneficial OLT transmitter and receiver concepts for NG-PON2 using semiconductor optical amplifiers",
+        "A WDM/TDM access network based on broad T-Band wavelength resource using quantum dot semiconductor devices",
+        "1. 3/1. 5 m QD-SOAs for WDM/TDM GPON with extended reach and large upstream/downstream dynamic range",
+        "Wavelength-transparent long-reach-high-split TWsDM-PON utilized by a non-gated parallel cascade of linear SOAs",
+        "1024-way split, 70-km PAM4 transmission forPONuplink using cascadedSOAs andVolterra nonlinear equalization",
+        "Cascaded performance of quantum dot semiconductor optical amplifier in a recirculating loop",
+        "High efficiency, high gain and high saturation output power quantum dot SOAs grown on Si and applications",
+        "Structures",
+        "Optical amplifiers",
+        "Theory and measurement techniques for the noise figure of optical amplifiers",
+        "The dynamics of semiconductor optical amplifiers: Modeling and applications",
+        "Introduction to semiconductor optical amplifiers (SOAs)",
+        "Gain dynamics in quantumdot semiconductor optical amplifiers at 1550 nm",
+        "Theoretical analysis of gain-recovery time and chirp in QD-SOA",
+        "Dynamic frequency chirp properties of QD-SOAs",
+        "Transmission performance of chirp-controlled signal by using semiconductor optical amplifier",
+        "Linear and nonlinear semiconductor optical amplifiers",
+        "Lossless ROADM by exploiting low gain SOAs in fronthaul network",
+        "The input power dynamic range of a semiconductor optical amplifier and its relevance for access network applications",
+        "Heterogeneous silicon/InP semiconductor optical amplifiers with high gain and high saturation power"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Koganei",
+            "@id": "60032325",
+            "affilname": "Japan National Institute of Information and Communications Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032325",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,79 @@
+{
+    "eid": "2-s2.0-85165704457",
+    "title": "Unknown Input Nonlinear Observer for a Soft Pneumatic Robotic Gripper Application",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "LMI approach",
+        "nonlinear observer",
+        "pneumatic system",
+        "soft gripper",
+        "unknown input estimation"
+    ],
+    "authors": [
+        "Patchara Pitchayawetwongsa",
+        "Nattaphat Boonchumanee",
+        "Saravut Lin",
+        "Ratchathin Chancharoen"
+    ],
+    "citedby-count": 0,
+    "ref-count": 17,
+    "ref-list": [
+        "A century of robotic hands",
+        "Comprehensive review on reaching and grasping of objects in robotics",
+        "Graspit! a versatile simulator for robotic grasping",
+        "Data-driven grasp synthesis-A survey",
+        "State-of-The-art robotic grippers, grasping and control strategies, as well as their applications in agricultural robots: A review",
+        "Real-time estimation of rollover index for tripped rollovers with a novel unknown input nonlinear observer",
+        "Online ladle lining temperature estimation by using bounded jacobian nonlinear observer",
+        "\u0152 observer for descriptor nonlinear systems with nonlinear output equations",
+        "Real-time automotive slip angle estimation with nonlinear observer",
+        "Real-time rollover warning in tripped and un-tripped rollovers with a neural network",
+        "Grasping force control of robotic gripper with high stiffness",
+        "A method of the diagnosis through descriptor model of a constrained dynamic motion of a robot Gripper by the Indirect measurement",
+        "Future trends in I&M: Indirect sensing in soft robots using observers/filters",
+        "Observer-based continuous adaptive sliding mode control for soft actuators",
+        "Model-based robust tracking control without observers for soft bending actuators",
+        "Design of kinetic-energy harvesting floors",
+        "Hybrid motor system for high precision position control of a heavy load plant"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

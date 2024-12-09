@@ -1,0 +1,63 @@
+{
+    "eid": "2-s2.0-85066824153",
+    "title": "IoT-VuLock: Locking IoT device vulnerability with enhanced network scans",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "IoT",
+        "Remote login",
+        "Telnet",
+        "Vulnerability"
+    ],
+    "authors": [
+        "Supanat Limjitti",
+        "Hideya Ochiai",
+        "Hiroshi Esaki",
+        "Kunwadee Sripanidkulchai"
+    ],
+    "citedby-count": 3,
+    "ref-count": 12,
+    "ref-list": [
+        "Understanding the mirai botnet",
+        "DDoS in the IoT: Mirai and other botnets",
+        "Hajime: Analysis of a decentralized internet worm for IoT devices",
+        "Nmap network scanning: The official Nmap project guide to network discovery and security scanning",
+        "What lies beneath? Analyzing automated SSH bruteforce attacks",
+        "Profiling attacker behavior following SSH compromises",
+        "SSH dictionary attack detection based on flow analysis",
+        "Revisiting defenses against large-scale online password guessing attacks",
+        "Revisiting password rules: Facilitating human management of passwords",
+        "An administrator\u2019s guide to internet password research",
+        "Uninvited connections: A study of vulnerable devices on the Internet of Things (IoT)"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025272",
+            "affilname": "The University of Tokyo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025272",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

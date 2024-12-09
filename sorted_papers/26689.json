@@ -1,0 +1,58 @@
+{
+    "eid": "2-s2.0-85041232667",
+    "title": "Draft genome sequence of a Leptospira interrogans strain isolated from the urine of an asymptomatic dog in Thailand",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Alongkorn Kurilung",
+        "Chantisa Keeratipusan",
+        "Prapat Suriyaphol",
+        "Nuvee Prapasarakul"
+    ],
+    "citedby-count": 4,
+    "ref-count": 9,
+    "ref-list": [
+        "Leptospira and leptospirosis",
+        "Leptospira as an emerging pathogen: a review of its biology, pathogenesis and host immune responses",
+        "Leptospira: the dawn of the molecular genetics era for an emerging zoonotic pathogen",
+        "Molecular detection and isolation of pathogenic Leptospira from asymptomatic humans, domestic animals and water sources in Nan Province, a rural area of Thailand",
+        "A5-miseq: an updated pipeline to assemble microbial genomes from Illumina MiSeq data",
+        "ABACAS: algorithm-based automatic contiguation of assembled sequences",
+        "Improving draft assemblies by iterative mapping and assembly of short reads to eliminate gaps",
+        "Prokka: rapid prokaryotic genome annotation",
+        "The RAST Server: Rapid Annotations using Subsystems Technology"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60011189",
+            "affilname": "Faculty of Medicine Siriraj Hospital, Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011189",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "eid": "2-s2.0-85078247693",
+    "title": "StyloThai: A scalable framework for stylometric authorship identification of Thai documents",
+    "cover-date": "2020-01-09",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Authorship analysis",
+        "Similarity search",
+        "Stylometry",
+        "Thai authorship identification"
+    ],
+    "authors": [
+        "Raheem Sarwar",
+        "Thanasarn Porthaveepong",
+        "Attapol Rutherford",
+        "Thanawin Rakthanmanon",
+        "Sarana Nutanong"
+    ],
+    "citedby-count": 10,
+    "ref-count": 38,
+    "ref-list": [
+        "Arabic authorship attribution: An extensive study on Twitter posts",
+        "Enhancing search: Events and their discourse context",
+        "Facilitating the analysis of discourse phenomena in an interoperable NLP platform",
+        "On admissible linguistic evidence",
+        "Analyzing user reviews in Thai language toward aspects in mobile applications",
+        "NOVA: A feasible and flexible annotation system for joint tokenization and part-of-speech tagging",
+        "Pairwise comparative classification for translator stylometric analysis",
+        "Authorship attribution using a neural network language model",
+        "Tapping into intra-and international collaborations of the organization of Islamic cooperation states across science and technology disciplines",
+        "A probabilistic nearest neighbour method for statistical pattern recognition",
+        "Comparing images using the Hausdorff distance",
+        "An expert system for diabetes prediction using auto tuned multi-layer perceptron",
+        "A comparative assessment of the difficulty of authorship attribution in Greek and in English",
+        "Acoustic features for hidden conditional random fields-based Thai tone classification",
+        "An EDU-based approach for Thai multi-document summarization and its application",
+        "A modified Hausdorff distance for object matching",
+        "Authorship attribution analysis of Thai online messages",
+        "On the feasibility of Internet-scale author identification",
+        "Identification of manner in bio-events",
+        "A scalable framework for stylometric analysis query processing",
+        "What you submit is who you are: A multimodal approach for deanonymizing scientific publications",
+        "Language independent authorship attribution using character level language models",
+        "Scientific collaboration networks in Pakistan and their impact on institutional research performance",
+        "AROMA: A recursive deep learning model for opinionmining in Arabic as a lowresource language",
+        "A bibliometric assessment of scientific productivity and international collaboration of the Islamic world in science and technology (S & T) areas",
+        "A scalable framework for crosslingual authorship identification",
+        "The key factors and their influence in authorship attribution",
+        "A bibliometric perspective on technology-driven innovation in the Gulf Cooperation Council (GCC) countries in relation to its transformative impact on international business",
+        "A scalable framework for stylometric analysis of multi-author documents",
+        "Classification of text, automatic",
+        "Identification of research hypotheses and new knowledge from scientific literature",
+        "Convolutional neural networks for authorship attribution of short texts",
+        "Enriching news events with metaknowledge information",
+        "Searching with style: Authorship attribution in classic literature"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Rayong",
+            "@id": "60110787",
+            "affilname": "Vidyasirimedhi Institute of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60110787",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60021944",
+            "affilname": "Kasetsart University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021944",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Digital Economy Promotion Agency",
+        "Office of the Higher Education Commission",
+        "Thailand Research Fund"
+    ]
+}

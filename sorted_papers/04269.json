@@ -1,0 +1,86 @@
+{
+    "eid": "2-s2.0-85106579299",
+    "title": "Performance and Analysis of PI and Fuzzy Controlled Zeta Converter Fed in PMBLDC Motor Drive",
+    "cover-date": "2021-03-03",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Visual Arts and Performing Arts",
+            "@code": "1213",
+            "@abbrev": "ARTS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Media Technology",
+            "@code": "2214",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "DC-DC",
+        "PMBLDC Motor",
+        "Power Electronics",
+        "THD",
+        "Zeta Converter"
+    ],
+    "authors": [
+        "Bhuvnesh Rathor",
+        "Pooja Rathore",
+        "Patchrapa Wongchai",
+        "Bhawna Sahu",
+        "Sotdhipong Phichaisawat"
+    ],
+    "citedby-count": 1,
+    "ref-count": 20,
+    "ref-list": [
+        "Review of Sensorless Methods for Brushless DC",
+        "A Review of Single-Phase Improved Power Quality AC-DC Converters",
+        "A Review of Three-Phase Improved Power Quality AC-DC Converters",
+        "Discrete Time mode PSS Controller Techniques to Improve Stability of AC Microgrid",
+        "Filtering of Hall-sensor signals for improved operation of brushless DC motors?",
+        "Wide Area Damping Controller Techniques of Improving Stability of an integrating Grid",
+        "Power Factor Corrected Bridgeless Converter for Sensorless PMBLDC Motor of Ceiling Fan",
+        "A Novel Control Approach for buck converter based PMBLDC motor using BAT algorithm",
+        "A new topology for unipolar brushless DC motor drive with high power factor?",
+        "A Review: Modelling of Permanent Magnet Brushless DC Motor Drive",
+        "Analysis and Simulation of the High-Speed Torque Performance of Brushless DC motor Drives",
+        "Speed Control of PMBLDC Motor using MATLAB/Simulink and Effects of Load and Inertia Changes",
+        "Role of Multi-Band Stabilizers on Grid Connected Microgrid",
+        "Modern Controller Techniques of Improve Stability of AC Microgrid",
+        "Advanced Estimator Based Sensorless BLDC Motor Control",
+        "A Control Scheme for Position Sensorless Operation of PMBLDC Motor from Standstill to Rated Speed",
+        "A Power Factor Corrected PMBLDC Motor Drive for Air-conditioner using Bridge Converter",
+        "Modern control techniques of AC microgrid",
+        "Robust Discrete Mode Stabilizers for Heffron-Phillips SMIB Model"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Kota",
+            "@id": "60007050",
+            "affilname": "Rajasthan Technical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007050",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Bhilai",
+            "@id": "60114724",
+            "affilname": "Rungta College of Engineering &amp; Technology, Bhilai",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60114724",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

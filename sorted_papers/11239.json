@@ -1,0 +1,170 @@
+{
+    "eid": "2-s2.0-85088110985",
+    "title": "Study of Hamiltonian Energy Control of Multiphase Interleaved Fuel Cell Boost Converter",
+    "cover-date": "2019-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Organizational Behavior and Human Resource Management",
+            "@code": "1407",
+            "@abbrev": "BUSI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Constant power load (CPL)",
+        "dc microgrid",
+        "fuel cell (FC)",
+        "interconnection and damping assignment (IDA)",
+        "interleaved boost converter",
+        "passivity based controller (PBC)",
+        "Port-Controlled Hamiltonian (PCH)"
+    ],
+    "authors": [
+        "Pongsiri Mungporn",
+        "Surin Khomfoi",
+        "Poom Kumam",
+        "Zahir Shah",
+        "Piyabut Burikham",
+        "Chaiyut Kaewprapha",
+        "Burin Yodwong",
+        "Phatiphat Thounthong",
+        "Chainarin Ekkaravarodome",
+        "Anusak Bilsalam",
+        "Babak Nahid-Mobarakeh",
+        "Serge Pierfederici",
+        "Damien Guilbert",
+        "Nicu Bizon"
+    ],
+    "citedby-count": 9,
+    "ref-count": 18,
+    "ref-list": [
+        "Online energy management strategy of fuel cell hybrid electric vehicles: A fractional-order extremum seeking method",
+        "Fuel cell hybrid electric vehicle (fchev): Novel fuel cell/sc hybrid power generation system",
+        "Fuel economy using the global optimization of the fuel cell hybrid power systems",
+        "Fuel cell high power applications",
+        "Designing and modelling of the asymptotic perturbed extremum seeking control scheme for tracking the global extreme,\" int",
+        "Fuel starvation: Analysis of a pem fuel cell system",
+        "Analysis, modeling and implementation of an interleaved boost dc-dc converter for fuel cell used in electric vehicle",
+        "An analytical investigation of dc/dc power electronic converters with constant power loads in vehicular power systems",
+        "Large-signal stabilization of a dc-link supplying a constant power load using a virtual capacitor: Impact on the domain of attraction",
+        "Active stabilisation design of dc-dc converters with constant power load using a sampled discrete-time model: Stability analysis and experimental verification",
+        "Improved stabilization of nonlinear dc microgrids: Cubature kalman filter approach",
+        "Pbc approach for smes devices in electric distribution networks",
+        "Pid passivity-based control of port-hamiltonian systems",
+        "An approach to suppress low frequency oscillation in the traction network of high-speed railway using passivity-based control",
+        "Passivity-based control strategy for smes under an unbalanced voltage condition",
+        "Nonlinear disturbance observer-based control for a class of port-controlled hamiltonian disturbed systems",
+        "Study of a multiphase interleaved step-up converter for fuel cell high power applications",
+        "A new control law based on the differential flatness principle for multiphase interleaved dc-dc converter"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "North Bangkok",
+            "@id": "125256309",
+            "affilname": "King Monglt's Universit of Technolog North Bangkk 1518",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125256309",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nancy",
+            "@id": "60104289",
+            "affilname": "Universit\u00e9 de Lorraine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104289",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Pitesti",
+            "@id": "60030217",
+            "affilname": "Universitatea din Pitesti",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030217",
+            "affiliation-country": "Romania"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "125256591",
+            "affilname": "Phaao Technical College",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125256591",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "125256575",
+            "affilname": "Renewable Energ Research Centre (RERC)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125256575",
+            "affiliation-country": null
+        },
+        {
+            "affiliation-city": "Ladkrabang",
+            "@id": "125256572",
+            "affilname": "King Monglt's Institute of Technolog Ladkabang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125256572",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "125256393",
+            "affilname": "King Monglt 'S Universit OfTechnolog Thonburi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125256393",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "125256314",
+            "affilname": "Facult of Technical Education",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125256314",
+            "affiliation-country": null
+        }
+    ],
+    "funding": [
+        "King Mongkut's University of Technology North Bangkok and Universite de Lorraine"
+    ]
+}

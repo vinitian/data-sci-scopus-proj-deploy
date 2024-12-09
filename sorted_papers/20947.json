@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85149661919",
+    "title": "Experimental Instrument for Studying Scaled Tire's Slip-Friction Characteristics",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "braking force",
+        "braking system",
+        "experimental instrument",
+        "scaled wheel",
+        "slip ratio"
+    ],
+    "authors": [
+        "Sirawich Wongwaisayawan",
+        "Pakapol Phiphobmongkol",
+        "Dhibadi Sriuranpong",
+        "Ronnapee Chaichaorawat"
+    ],
+    "citedby-count": 0,
+    "ref-count": 12,
+    "ref-list": [
+        "Robust fuzzy sliding mode control for antilock braking system",
+        "Two-dimensional dynamic model of drifting vehicle",
+        "Dynamics and simulation of RWD vehicles drifting at steady state using BNP-MNC tire model",
+        "Optimal control for steady state drifting of RWD vehicle",
+        "Linear quadratic optimal regulator for steady state drifting of rear wheel drive vehicle",
+        "Wheel slip angle estimation of a planar mobile platform",
+        "Kinematics-based analytical solution for wheel slip angle estimation of a RWD vehicle with drift",
+        "Full-slip kinematics based estimation of vehicle yaw rate from differential wheel speeds",
+        "Tire test for drifting dynamics of a scaled vehicle",
+        "A dynamic model for tire/road friction estimation under combined longitudinal/lateral slip situation",
+        "Estimation of road friction coefficient in different road conditions based on vehicle braking dynamics",
+        "Passive knee exoskeleton using brake torque to assist stair ascent"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

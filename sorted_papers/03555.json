@@ -1,0 +1,85 @@
+{
+    "eid": "2-s2.0-85062238186",
+    "title": "Eye-swipe typing using integration of dwell-time and dwell-free method",
+    "cover-date": "2019-01-18",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Assistive technology",
+        "Dwell-free",
+        "Dwell-time",
+        "Eye gaze",
+        "Eye-swipe typing"
+    ],
+    "authors": [
+        "Morokot Cheat",
+        "Manop Wongsaisuwan"
+    ],
+    "citedby-count": 2,
+    "ref-count": 17,
+    "ref-list": [
+        "Computer access for motor-impaired users",
+        "Command without a click: Dwell time typing by mouse and gaze selections",
+        "Improving dwell-based gaze typing with dynamic, cascading dwell times",
+        "Effective eye-gaze input into windows",
+        "Effects of feedback on eye typing with a short dwell time",
+        "Fast gaze typing with an adjustable dwell time",
+        "Eye typing using word and letter prediction and a fixation algorithm",
+        "Fil-teryedping: Design challenges and user performance of dwell-free eye typing",
+        "Gazetry: Swipe text typing using gaze",
+        "Robust eye-based dwell-free typing",
+        "Eyeswipe: Dwell-free text entry using gaze paths"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Hermansky-Pudlak Syndrome Network"
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "eid": "2-s2.0-85098976736",
+    "title": "A comparative study of pretrained language models for automated essay scoring with adversarial inputs",
+    "cover-date": "2020-11-16",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Adversarial Input",
+        "Automated Essay Scoring",
+        "Embedding",
+        "Language Modeling"
+    ],
+    "authors": [
+        "Phakawat Wangkriangkri",
+        "Chanissara Viboonlarp",
+        "Attapol T. Rutherford",
+        "Ekapol Chuangsuwanich"
+    ],
+    "citedby-count": 3,
+    "ref-count": 25,
+    "ref-list": [
+        "A neural approach to automated essay scoring",
+        "Automatic features for essay scoring-an empirical study",
+        "Attention-based recurrent convolutional neural network for automatic essay scoring",
+        "Neural automated essay scoring and coherence modeling for adversarially crafted input",
+        "Automated essay scoring based on twostage learning",
+        "Glove: Global vectors for word representation",
+        "Deep contextualized word representations",
+        "Bert: Pre-training of deep bidirectional transformers for language understanding",
+        "A coefficient of agreement for nominal scales",
+        "Automated essay scoring: Applications to educational technology",
+        "Automated essay scoring with e-rater\u00ae v",
+        "Automatic essay grading using text categorization techniques",
+        "A new dataset and method for automatically grading esol texts",
+        "Long short-term memory",
+        "Object recognition with gradient-based learning",
+        "Neural machine translation by jointly learning to align and translate",
+        "A neural probabilistic language model",
+        "Efficient estimation of word representations in vector space",
+        "Attention is all you need",
+        "Stumping e-rater: Challenging the validity of automated essay scoring",
+        "Deep learning for efficient discriminative parsing",
+        "Natural language processing (almost) from scratch",
+        "Huggingface's transformers: State-of-the-art natural language processing",
+        "Google's neural machine translation system: Bridging the gap between human and machine translation",
+        "Bilingual word embeddings for phrase-based machine translation"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Doctoral Startup of Guangdong Province",
+        "TUYF fund",
+        "Natural Science Foundation of China",
+        "Hong Kong Branch of Southern Marine Science and Engineering Guangdong Laboratory"
+    ]
+}

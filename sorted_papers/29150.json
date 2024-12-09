@@ -1,0 +1,73 @@
+{
+    "eid": "2-s2.0-85057736514",
+    "title": "Enhance Machine Reading Comprehension on Multiple Sentence Questions with Gated and Dense Coreference Information",
+    "cover-date": "2018-09-06",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Nattachai Tretasayuth",
+        "Peerapon Vateekul",
+        "Prachya Boonkwan"
+    ],
+    "citedby-count": 0,
+    "ref-count": 22,
+    "ref-list": [
+        "A rule-based question answering system for reading comprehension tests",
+        "Machine reading at the university of Washington",
+        "Mctest: A challenge dataset for the open-domain machine comprehension of text",
+        "Teaching machines to read and comprehend",
+        "Training very deep networks",
+        "End-to-end memory networks",
+        "Reasonet: Learning to stop reading in machine comprehension",
+        "The stanford corenlp natural language processing toolkit",
+        "Glove: Global vectors for word representation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011525",
+            "affilname": "Thailand National Electronics and Computer Technology Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011525",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,59 @@
+{
+    "eid": "2-s2.0-85049850828",
+    "title": "Forecasting of incoming calls in a commercial bank service call center",
+    "cover-date": "2018-01-08",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "ARIMA",
+        "Incoming calls",
+        "Seasonal pattern",
+        "Time series forecasting"
+    ],
+    "authors": [
+        "Sirithep Chanbunkaew",
+        "Wipawee Tharmmaphornphilas"
+    ],
+    "citedby-count": 1,
+    "ref-count": 8,
+    "ref-list": [
+        "Modeling and forecasting call center arrivals: A literature survey and a case study",
+        "A comparison of univariate time series methods for forecasting intraday arrivals at a call center",
+        "Using Holt Winter's multiplicative model to forecast assisted childbirths at the teaching hospital in Ashanti region Ghana",
+        "A comparison study between time series model and ARIMA model for sales forecasting of distributor in plastic industry",
+        "Modeling malaria control intervention effect in KwaZulu-Natal, South Africa using intervention time series analysis",
+        "Simple moving average vs linear regression forecast"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

@@ -1,0 +1,63 @@
+{
+    "eid": "2-s2.0-85090909854",
+    "title": "Explainable deep learning for thai stock market prediction using textual representation and technical indicators",
+    "cover-date": "2020-07-17",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Deep learning",
+        "natural language processing",
+        "stock prediction"
+    ],
+    "authors": [
+        "Tanawat Chiewhawan",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 5,
+    "ref-count": 15,
+    "ref-list": [
+        "Thai sentiment analysis with deep learning techniques: A comparative study based on word embedding, POS-tag, and sentic features",
+        "A deep learning model for predicting buy and sell recommendations in stock exchange of Thailand using long short-term memory",
+        "Deep learning for stock prediction using numerical and textual information",
+        "Deep learning for stock market prediction from financial news articles",
+        "Deep learning for stock market prediction using event embedding and technical indicators",
+        "Deep learning for event-driven stock prediction",
+        "A comparative study on Thai word segmentation approaches",
+        "DeepClue: Visual interpretation of text-based deep stock prediction",
+        "Axiomatic attribution for deep networks",
+        "A numerical-based attention method for stock market prediction with dual information",
+        "On pixel-wise explanations for non-linear classifier decisions by layer-wise relevance propagation"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

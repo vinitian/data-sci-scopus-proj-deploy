@@ -1,0 +1,113 @@
+{
+    "eid": "2-s2.0-85086279370",
+    "title": "Large-scale Distributive Matrix Collaborative Filtering for Recommender System",
+    "cover-date": "2020-04-24",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Collaborative Filtering",
+        "Distributive Matrix",
+        "Ensemble approach",
+        "Matrix Factorization"
+    ],
+    "authors": [
+        "Farhan Ullah",
+        "Bofeng Zhang",
+        "Guobing Zou",
+        "Irfan Ullah",
+        "Ali Mustafa Qamar",
+        " Durr-E-Nayab"
+    ],
+    "citedby-count": 1,
+    "ref-count": 34,
+    "ref-list": [
+        "Advances in collaborative filtering\"",
+        "Neural graph collaborative filtering\"",
+        "Enhancing memory-based collaborative filtering for group recommender systems\"",
+        "Deep learning based recommender system: A survey and new perspectives\"",
+        "Advantages of the mean absolute error (mae) over the root mean square error (rmse) in assessing average model performance\"",
+        "The netflix prize\"",
+        "Netflix prize\"",
+        "Social popularity based svd++ recommender system\"",
+        "Hybrid recommender systems: Survey and experiments\"",
+        "Scalable collaborative filtering approaches for large recommender systems\"",
+        "Analysis of recommendation algorithms for e-commerce\"",
+        "Item-based collaborative filtering recommendation algorithms\"",
+        "Factorization meets the neighborhood: A multifaceted collaborative filtering model\"",
+        "A non negative matrix factorization for collaborative filtering recommender systems based on a bayesian probabilistic model",
+        "Scalable collaborative filtering with jointly derived neighborhood interpolation weights\"",
+        "Field-Aware matrix factorization for recommender systems",
+        "Lessons from the netflix prize challenge\"",
+        "Designing specific weighted similarity measures to improve collaborative filtering systems\"",
+        "Imputation-boosted collaborative filtering using machine learning classifiers\"",
+        "Collaborative filtering via ensembles of matrix factorizations\"",
+        "Two-way cooperative prediction for collaborative filtering recommendations\"",
+        "Ensemble methods for improving the performance of neighborhood-based collaborative filtering\"",
+        "Combining predictions for accurate recommender systems\"",
+        "More effective distributed ml via a stale synchronous parallel parameter server",
+        "Scalable coordinate descent approaches to parallel matrix factorization for recommender systems\"",
+        "A fast parallel sgd for matrix factorization in shared memory systems\"",
+        "Msgd: A novel matrix factorization approach for large-scale collaborative filtering recommender systems on gpus\"",
+        "Matrix factorization on gpus with memory optimization and approximate computing\"",
+        "Matrix factorization with rating completion: An enhanced svd model for collaborative filtering recommender systems",
+        "Large-scale matrix factorization with distributed stochastic gradient descent\"",
+        "The movielens datasets: History and context\"",
+        "Factor in the neighbors: Factor in the neighbors: Scalable and accurate collaborative filtering\"",
+        "Large-scale parallel collaborative filtering for the netflix prize\""
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Peshawar",
+            "@id": "60104814",
+            "affilname": "University of Engineering and Technology, Peshawar",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104814",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Buraidah",
+            "@id": "60025518",
+            "affilname": "Al Qassim University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025518",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Shanghai",
+            "@id": "60023813",
+            "affilname": "Shanghai University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023813",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": []
+}

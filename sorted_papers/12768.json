@@ -1,0 +1,63 @@
+{
+    "eid": "2-s2.0-85059979876",
+    "title": "Thin cloud removal using local minimization and logarithm image transformation in HSI color space",
+    "cover-date": "2018-11-28",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "cloud removal",
+        "haze removal",
+        "HSI color space",
+        "image enhancement"
+    ],
+    "authors": [
+        "Thanet Markchom",
+        "Rajalida Lipikorn"
+    ],
+    "citedby-count": 10,
+    "ref-count": 15,
+    "ref-list": [
+        "Automatic cloud removal for Landsat 8 OLI images using cirrus band",
+        "Cloud removal from SENTINEL-2 image time series through sparse reconstruction from random samples",
+        "A new approach to removing cloud cover from satellite imagery",
+        "Single image haze removal using dark channel prior",
+        "Thin cloud removal from single satellite images",
+        "Vision and the atmosphere",
+        "Haze detection and removal in remotely sensed multispectral imagery",
+        "Haze removal for a single visible remote sensing image",
+        "Single image fog removal using anisotropic diffusion",
+        "Vision enhancement through single image fog removal",
+        "Fast visibility restoration from a single color or gray level image",
+        "Perceptual evaluation of single image dehazing algorithms",
+        "Optimized contrast enhancement for real-time image and video dehazing",
+        "Efficient image dehazing with boundary constraint and contextual regularization"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "DPST"
+    ]
+}

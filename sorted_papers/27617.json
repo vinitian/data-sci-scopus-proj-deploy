@@ -1,0 +1,151 @@
+{
+    "eid": "2-s2.0-85147658367",
+    "title": "Immunogenicity of a fractional or full third dose of AZD1222 vaccine or BNT162b2 messenger RNA vaccine after two doses of CoronaVac vaccines against the Delta and Omicron variants",
+    "cover-date": "2023-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Microbiology (medical)",
+            "@code": "2726",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Infectious Diseases",
+            "@code": "2725",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Booster strategy",
+        "COVID-19",
+        "Immune response",
+        "Vaccine"
+    ],
+    "authors": [
+        "Suvimol Niyomnaitham",
+        "Anan Jongkaewwattana",
+        "Atibordee Meesing",
+        "Nawamin Pinpathomrat",
+        "Sira Nanthapisal",
+        "Nattiya Hirankarn",
+        "Sarawut Siwamogsatham",
+        "Suppachok Kirdlarp",
+        "Romanee Chaiwarith",
+        "Saranath Lawpoolsri",
+        "Supranee Phanthanawiboon",
+        "Arunee Thitithanyanont",
+        "Pokrath Hansasuta",
+        "Sansanee Chaiyaroj",
+        "Punnee Pitisuttithum"
+    ],
+    "citedby-count": 2,
+    "ref-count": 29,
+    "ref-list": [
+        "Evaluation of post-introduction COVID-19 vaccine effectiveness: summary of interim guidance of the World Health Organization",
+        "Neutralizing antibody levels are highly predictive of immune protection from symptomatic SARS-CoV-2 infection",
+        "Safety, tolerability, and immunogenicity of an inactivated SARS-CoV-2 vaccine in healthy adults aged 18\u201359 years: a randomised, double-blind, placebo-controlled, phase 1/2 clinical trial",
+        "Effectiveness of an inactivated SARS-CoV-2 vaccine in Chile",
+        "Immunogenicity and safety of a third dose of CoronaVac, and immune persistence of a two-dose schedule, in healthy adults: interim results from two single-centre, double-blind, randomised, placebo-controlled phase 2 clinical trials",
+        "Fractionation of COVID-19 vaccine doses could extend limited supplies and reduce mortality",
+        "Low-dose mRNA-1273 COVID-19 vaccine generates durable memory enhanced by cross-reactive T cells",
+        "Safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222) against SARS-CoV-2: an interim analysis of four randomised controlled trials in Brazil, South Africa, and the UK",
+        "Comparison of safety and immunogenicity of CoronaVac and ChAdOx1 against the SARS-CoV-2 circulating variants of concern. Alpha: Delta, Beta) in Thai healthcare workers",
+        "Immunogenicity and reactogenicity against the SARS-CoV-2 variants following heterologous primary series involving CoronaVac, ChAdox1 nCov-19 and BNT162b2 plus BNT162b2 booster vaccination: an open-label randomized study in healthy Thai adults",
+        "Reactogenicity and immunogenicity after a late second dose or a third dose of ChAdOx1 nCoV-19 in the UK: a substudy of two randomised controlled trials (COV001 and COV002)",
+        "Single-dose administration and the influence of the timing of the booster dose on immunogenicity and efficacy of ChAdOx1 nCoV-19 (AZD1222) vaccine: a pooled analysis of four randomised trials",
+        "Effectiveness of COVID-19 booster vaccines against COVID-19-related symptoms, hospitalization and death in England",
+        "Neutralisation of ZF2001-elicited antisera to SARS-CoV-2 variants",
+        "Effects of a prolonged booster interval on neutralization of Omicron variant",
+        "Protection by a fourth dose of BNT162b2 against Omicron in Israel",
+        "Efficacy of a fourth dose of Covid-19 mRNA vaccine against Omicron",
+        "Safety, immunogenicity, and reactogenicity of BNT162b2 and mRNA-1273 COVID-19 vaccines given as fourth-dose boosters following two doses of ChAdOx1 nCoV-19 or BNT162b2 and a third dose of BNT162b2 (COV-BOOST): a multicentre, blinded, phase 2, randomised trial",
+        "Omicron BA.4/BA.5 escape neutralizing immunity by BA.1 infection",
+        "Real-world effectiveness of mix-and-match vaccine regimens against SARS-CoV-2 Delta variant in Thailand: a nationwide test-negative matched case-control study"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199573",
+            "affilname": "Faculty of Tropical Medicine, Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199573",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Khon Kaen",
+            "@id": "60026046",
+            "affilname": "Faculty of Medicine, Khon Kaen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026046",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60012718",
+            "affilname": "Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012718",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199575",
+            "affilname": "Siriraj Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199575",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chaing Mai",
+            "@id": "60032250",
+            "affilname": "Faculty of Medicine, Chiang Mai University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032250",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hatyai",
+            "@id": "60025527",
+            "affilname": "Faculty of Medicine, Prince of Songkia University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025527",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60015887",
+            "affilname": "Faculty of Medicine Ramathibodi Hospital, Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015887",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60013939",
+            "affilname": "Faculty of Medicine, Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013939",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011947",
+            "affilname": "Thailand National Center for Genetic Engineering and Biotechnology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011947",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "CM Clinical Trial Unit Faculty of Medicine, Chiang Mai University",
+        "Chakri Naruebodindra Medical Institute",
+        "Clinixir Co. Ltd",
+        "Maha Chakri Sirindhorn Clinical Research Center",
+        "National Higher Education, Science, Research and Innovation Policy Council, Thailand",
+        "Siriraj Institute of Clinical Research, Faculty of Medicine, Mahidol University",
+        "Thammasart University",
+        "Chulalongkorn University",
+        "Khon Kaen University",
+        "Mahidol University",
+        "Prince of Songkla University"
+    ]
+}

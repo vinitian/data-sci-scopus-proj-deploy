@@ -1,0 +1,93 @@
+{
+    "eid": "2-s2.0-85079462637",
+    "title": "Frame size analysis of optimum dynamic tree in RFID systems",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Binary tree",
+        "Collision",
+        "Efficiency",
+        "Frame size",
+        "Slot",
+        "Tags"
+    ],
+    "authors": [
+        "Sanika K. Wjayasekara",
+        "Muhammad Saadi",
+        "Warakorn Srichavengsup",
+        "Robithoh Anuur",
+        "Suvit Nakpeerayuth",
+        "Hung Yun Hsieh",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 2,
+    "ref-count": 22,
+    "ref-list": [
+        "The next generation of RFID technology",
+        "Efficient medium access control protocols for broadband wireless communications",
+        "A survey and tutorial of RFID anti-collision protocols",
+        "Research of multi-access and anti-collision protocols in RFID systems",
+        "Taxonomy and survey of RFID anti-collision protocols",
+        "A collision resolution algorithm for RFID using modified dynamic tree with Bayesian tag estimation",
+        "A reduced complexity of Vahedi\u2019s tag estimation method for DFSA",
+        "THE ALOHA SYSTEM: Another alternative for computer communications",
+        "ALOHA packet system with and without slots and capture",
+        "Dynamic frame length ALOHA",
+        "An effective frame breaking policy for dynamic framed slotted Aloha in RFID",
+        "An efficient and easy-to-implement tag identification algorithm for UHF RFID systems",
+        "Tree algorithms for packet broadcast channels",
+        "Generalized TDMA: The multi-accessing tree protocol",
+        "Q-ary collision resolution algorithms in random-access systems with free or blocked channel access",
+        "Optimal slot assignment for binary tracking tree protocol in RFID tag identification",
+        "Binary tree slotted ALOHA for passive RFID tag anticollision",
+        "ARPA: An arbitration protocol based on advanced channel feedback for radio frequency identification",
+        "Improvement of Anti-Collision Performance for the ISO 18000-6 Type B RFID System"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Lahore",
+            "@id": "60103839",
+            "affilname": "University of Central Punjab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103839",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Kajang",
+            "@id": "60090708",
+            "affilname": "Universiti Tunku Abdul Rahman",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60090708",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Taipei",
+            "@id": "60005429",
+            "affilname": "National Taiwan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005429",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "119643476",
+            "affilname": "Thai-Nichi Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/119643476",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

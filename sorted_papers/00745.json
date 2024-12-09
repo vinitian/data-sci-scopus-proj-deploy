@@ -1,0 +1,97 @@
+{
+    "eid": "2-s2.0-85100669391",
+    "title": "Recurrent Neural-Based Vehicle Demand Forecasting and Relocation Optimization for Car-Sharing System: A Real Use Case in Thailand",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Automotive Engineering",
+            "@code": "2203",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Economics and Econometrics",
+            "@code": "2002",
+            "@abbrev": "ECON"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Strategy and Management",
+            "@code": "1408",
+            "@abbrev": "BUSI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Peerapon Vateekul",
+        "Panyawut Sri-Iesaranusorn",
+        "Pawit Aiemvaravutigul",
+        "Adsadawut Chanakitkarnchok",
+        "Kultida Rojviboonchai"
+    ],
+    "citedby-count": 3,
+    "ref-count": 44,
+    "ref-list": [
+        "Traffic congestion and what to do about it",
+        "Projected prevalence of car-sharing in four Asian-Pacific countries in 2030: What the experts think",
+        "One-way carsharing's evolution and operator perspectives from the Americas",
+        "Literature review of the vehicle relocation problem in one-way car sharing networks",
+        "One-way carsharing: Solving the relocation problem",
+        "Car-sharing relocation strategies: A state of the art",
+        "A new shared vehicle system for urban areas",
+        "Incentivized vehicle relocation in vehicle sharing systems",
+        "Balancing public bicycle sharing system using inventory critical levels in queuing network",
+        "Optimizing relocation operations in electric car-sharing",
+        "Demand management of station-based car sharing system based on deep learning forecasting",
+        "A decision support system for vehicle relocation operations in carsharing systems",
+        "A simulation-based optimization model for infrastructure planning for electric autonomous vehicle sharing",
+        "Charging and relocating optimization for electric vehicle car-sharing: An event-based strategy improvement approach",
+        "Dynamic prediction-based relocation policies in one-way station-based carsharing systems with complete journey reservations",
+        "A service demand forecasting model for one-way electric car-sharing systems combining long short-term memory networks with Granger causality test",
+        "Daily long-term traffic flow forecasting based on a deep neural network",
+        "Short-term traffic flow forecasting method with M-B-LSTM hybrid network",
+        "Short-term traffic flow forecasting by selecting appropriate predictions based on pattern matching",
+        "Daily traffic flow forecasting through a contextual convolutional recurrent neural network modeling inter-and intra-day traffic patterns",
+        "Deep learning for computer vision: A brief review",
+        "A deep neural network based on classification of traffic volume for short-term forecasting",
+        "Rapid prediction of respiratory motion based on bidirectional gated recurrent unit network",
+        "A deep bidirectional GRU network model for biometric electrocardiogram classification based on recurrent neural networks",
+        "Improving deep neural networks for LVCSR using rectified linear units and dropout",
+        "Batch normalization: Accelerating deep network training by reducing internal covariate shift",
+        "Dropout: A simple way to prevent neural networks from overfitting",
+        "Renewable energy sharing among base stations as a min-cost-max-flow optimization problem",
+        "Application of min-cost flow to airline accessibility services",
+        "Optimizing the network flow in cloud supply chain management",
+        "Max-flow min-cost routing in a future-internet with improved QoS guarantees"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ikoma",
+            "@id": "60025017",
+            "affilname": "Nara Institute of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025017",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

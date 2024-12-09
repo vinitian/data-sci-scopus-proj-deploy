@@ -1,0 +1,93 @@
+{
+    "eid": "2-s2.0-85086011789",
+    "title": "Risk-based performance of combined heat and power based microgrid using information gap decision theory",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "flexible load management",
+        "heat and power micro-grid",
+        "Information gap decision theory",
+        "load uncertainty",
+        "robustness and opportunity function"
+    ],
+    "authors": [
+        "Sayyad Nojavan",
+        "Kittisak Jermsittiparsert"
+    ],
+    "citedby-count": 10,
+    "ref-count": 36,
+    "ref-list": [
+        "Multi-objective optimization of the environmental-economic dispatch with reinforcement learning based on non-dominated sorting genetic algorithm",
+        "Stochastic risk-constrained scheduling of smart energy hub in the presence of wind power and demand response",
+        "Risk-constrained scheduling of solar stirling engine based industrial continuous heat treatment furnace",
+        "Robust thermal and electrical management of smart home using information gap decision theory",
+        "Multi-objective optimal component sizing of a hybrid ICECPV/T driven CCHP microgrid",
+        "Stochastic energy procurement of large electricity consumer considering photovoltaic, wind-turbine, micro-turbines, energy storage system in the presence of demand response program",
+        "Stability performance for primary frequency regulation of hydro-turbine governing system with surge tank",
+        "Multi-objective optimization and energy management in renewable basedAC/DC microgrid",
+        "Microgrid clustering architectures",
+        "Microgrid multisource coordination optimal control based on multi-scenarios analysis",
+        "Robust optimisation approach for bidding strategy of renewable generation-based microgrid under demand side management",
+        "Stochastic scheduling of renewable and CHP-based microgrids",
+        "Robust optimisation-based microgrid scheduling with islanding constraints",
+        "Voltage security considerations in optimal operation of BEVs/PHEVs integrated microgrids",
+        "A chance-constrained two-stage stochastic programming model for reliable microgrid operations under power demand uncertainty",
+        "Multiobjective intelligent energy management for a microgrid",
+        "Multi-objective design optimization of distributed energy systems through cost and exergy assessments",
+        "Optimal coordinated energy dispatch of a multi-energy microgrid in grid-connected and islanded modes",
+        "Optimal operation of microgrid using four different optimization techniques",
+        "Dynamic programming for optimal operation of a biofuel micro CHP-HES system",
+        "Optimization of unit commitment and economic dispatch in microgrids based on genetic algorithm and mixed integer linear programming",
+        "Short-term scheduling of combined heat and power generation units in the presence of demand response programs",
+        "Combined heat and power economic dispatch problem solution using particle swarm optimization with time varying acceleration coefficients",
+        "Energy management and optimization in microgrid system based on green energy",
+        "Energy management system for stand-alone diesel-wind-biomass microgrid with energy storage system",
+        "Robust optimal offering strategy of large consumer using IGDT considering demand response programs",
+        "Microgrid to enable optimal distributed energy retail and end-user demand response",
+        "Integration of renewable energy in microgrids coordinated with demand response resources: Economic evaluation of a biomass gasification plant by Homer simulator",
+        "Stochastic PSO-based heat and power dispatch under environmental constraints incorporating CHP and wind power units",
+        "Optimal operation management of fuel cell/wind/photovoltaic power sources connected to distribution networks",
+        "Operation optimization of fuel cell power plant with new method in thermal recovery using particle swarm algorithm",
+        "Optimal stochastic energy management of retailer based on selling price determination under smart grid environment in the presence of demand response program",
+        "Large consumer electricity acquisition considering time-of-use rates demand response programs",
+        "Optimal bidding strategy of generation station in power market using information gap decision theory (IGDT)",
+        "Risk assessment in a central concentrating solar power plant",
+        "Optimal economic dispatch of FC-CHP based heat and power micro-grids"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bonab",
+            "@id": "60108382",
+            "affilname": "University of Bonab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60108382",
+            "affiliation-country": "Iran"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85091874042",
+    "title": "Adversarial Evaluation of Robust Neural Sequential Tagging Methods for Thai Language",
+    "cover-date": "2020-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "named-entity recognition",
+        "Neural networks",
+        "part-of-speech tagging"
+    ],
+    "authors": [
+        "Can Udomcharoenchaikit",
+        "Prachya Boonkwan",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 2,
+    "ref-count": 38,
+    "ref-list": [
+        "SpeedRead: A fast named entity recognition pipeline",
+        "Thoughts on word and sentence segmentation in Thai",
+        "Synthetic and natural noise both break neural machine translation",
+        "Enriching word vectors with subword information",
+        "Bidirectional deep learning of context representation for joint word segmentation and POS tagging",
+        "Towards robust neural machine translation",
+        "Named entity recognition with bidirectional LSTM-CNNs",
+        "Twitter part-of-speech tagging for all: Overcoming sparse and noisy data",
+        "HotFlip: White-box adversarial examples for text classification",
+        "Explaining and harnessing adversarial examples",
+        "Long short-term memory",
+        "Deep unordered composition rivals syntactic methods for text classification",
+        "A comparative study on various deep learning techniques for Thai NLP lexical and syntactic tasks on noisy data",
+        "Adversarial examples for evaluating reading comprehension systems",
+        "Adam: A method for stochastic optimization",
+        "A cognitive and linguistic analysis of search queries of an online dictionary: A case study of LEXiTRON",
+        "Conditional random fields: Probabilistic models for segmenting and labeling sequence data",
+        "Multi-candidate word segmentation using bi-directional LSTM neural networks",
+        "Finding function in form: Compositional character models for open vocabulary word representation",
+        "Better word representations with recursive neural networks for morphology",
+        "End-to-end sequence labeling via bi-directional LSTM-CNNs-CRF",
+        "Unsupervised dependency parsing with transferring distribution via parallel guidance and entropy regularization",
+        "Description of Thai as an isolating language",
+        "Comparisons of sequence labeling algorithms and extensions",
+        "Deep contextualized word representations",
+        "Design challenges and misconceptions in named entity recognition",
+        "Semantically equivalent adversarial rules for debugging NLP models",
+        "Named entity recognition in tweets: An experimental study",
+        "Thai part-of-speech tagged corpus: ORCHID",
+        "Dropout: A simple way to prevent neural networks from overfitting",
+        "Intriguing properties of neural networks",
+        "Thai named-entity recognition using variational long short-term memory with conditional random field",
+        "Neural machine translation with word predictions"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011525",
+            "affilname": "Thailand National Electronics and Computer Technology Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011525",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "National Science and Technology Development Agency",
+        "TGIST"
+    ]
+}

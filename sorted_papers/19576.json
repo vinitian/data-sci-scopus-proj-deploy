@@ -1,0 +1,82 @@
+{
+    "eid": "2-s2.0-85091418413",
+    "title": "inCNV: An Integrated Analysis Tool for Copy Number Variation on Whole Exome Sequencing",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Ecology, Evolution, Behavior and Systematics",
+            "@code": "1105",
+            "@abbrev": "AGRI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "CNV",
+        "Copy number variation",
+        "visualization",
+        "whole-exome sequencing"
+    ],
+    "authors": [
+        "Saowwapark Chanwigoon",
+        "Sakkayaphab Piwluang",
+        "Duangdao Wichadakul"
+    ],
+    "citedby-count": 2,
+    "ref-count": 35,
+    "ref-list": [
+        "What can exome sequencing do for you?",
+        "Detection of clinically relevant copy-number variants by exome sequencing in a large cohort of genetic disorders",
+        "An integrated analysis of rare CNV and exome variation in Autism Spectrum Disorder using the Infinium PsychArray",
+        "Detecting large copy number variants using exome genotyping arrays in a large Swedish schizophrenia sample",
+        "CNV analysis associates AKNAD1 with type-2 diabetes in Jordan Subpopulations",
+        "Increased frequency of de novo copy number variants in congenital heart disease by integrative analysis of single nucleotide polymorphism array and exome sequence data",
+        "Multiphasic analysis of whole exome sequencing data identifies a novel mutation of ACTG1 in a nonsyndromic hearing loss family",
+        "Copy number variants are a common cause of non-syndromic hearing loss",
+        "Copy-number variation contributes 9% of pathogenicity in the inherited retinal degenerations",
+        "An evaluation of copy number variation detection tools for cancer using whole exome sequencing data",
+        "Assessing the reproducibility of exome copy number variations predictions",
+        "Evaluation of three read-depth based CNV detection tools using whole-exome sequencing data",
+        "CONTRA: copy number analysis for targeted resequencing",
+        "CNVnator: an approach to discover, genotype, and characterize typical and atypical CNVs from family and population genome sequencing",
+        "Comprehensively benchmarking applications for detecting copy number variation",
+        "CODEX: a normalization and copy number variation detection method for whole exome sequencing",
+        "GenVisR: Genomic Visualizations in R",
+        "CNView: a visualization and annotation tool for copy number variation from whole-genome sequencing",
+        "iCopyDAV: integrated platform for copy number variations-Detection, annotation and visualization",
+        "DeAnnCNV: a tool for online detection and annotation of copy number variations from whole-exome sequencing data",
+        "Interactive analysis and assessment of single-cell copy-number variations",
+        "The database of genomic variants: a curated collection of structural variation in the human genome",
+        "ClinVar: public archive of relationships among sequence variation and human phenotype",
+        "OMIM.org: Online Mendelian Inheritance in Man (OMIM(R)), an online catalog of human genes and genetic disorders",
+        "Comprehensive molecular portraits of human breast tumours",
+        "The human genome browser at UCSC",
+        "JBrowse: a dynamic web platform for genome visualization and analysis",
+        "Inferring copy number and genotype in tumour exome data",
+        "cn.MOPS: mixture of poissons for discovering copy number variations in next-generation sequencing data with a low false discovery rate",
+        "Exome sequencing-based copy-number variation and loss of heterozygosity detection: exomeCNV",
+        "VarScan2 analysis of de novo variants in monozygotic twins discordant for schizophrenia",
+        "Rare Inherited and de novo CNVs reveal complex contributions to ASD risk in multiplex families"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn Academic Advancement"
+    ]
+}

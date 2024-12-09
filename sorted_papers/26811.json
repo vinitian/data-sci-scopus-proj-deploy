@@ -1,0 +1,83 @@
+{
+    "eid": "2-s2.0-85106713467",
+    "title": "Automatic diagnosis of venous thromboembolism risk based on machine learning",
+    "cover-date": "2021-04-21",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Automatic diagnosis",
+        "Machine learning",
+        "Venous thromboembolism"
+    ],
+    "authors": [
+        "Autcharaporn Sukperm",
+        "Polapat Rojnuckarin",
+        "Benjaporn Akkawat",
+        "Vera Sa-Ing"
+    ],
+    "citedby-count": 1,
+    "ref-count": 12,
+    "ref-list": [
+        "Risk factors for symptomatic venous thromboembolism in Thai hospitalised medical patients",
+        "Venous thromboembolism risk and prophylaxis in the acute hospital care setting (endorse study): A multinational crosssectional study",
+        "Advanced cardiovascular magnetic resonance myocardial perfusion imaging: High-spatial resolution versus 3-dimensional whole-heart coverage",
+        "An incremental density-based clustering framework using fuzzy local clustering",
+        "The prediction of the risk level of pulmonary embolism and deep vein thrombosis through artificial neural network",
+        "Predicting risk for portal vein thrombosis in acute pancreatitis patients: A comparison of radical basis function artificial neural network and logistic regression models",
+        "Artificial neural networks predict the incidence of portosplenomesenteric venous thrombosis in patients with acute pancreatitis",
+        "Clinical decision support system for venous thromboembolism risk classification",
+        "Validation of a machine learning approach for venous thromboembolism risk prediction in oncology",
+        "Risk assessment for venous thromboembolism in chemotherapy-treated ambulatory cancer patients",
+        "Machine learning approaches for risk assessment of peripherally inserted central catheter-related vein thrombosis in hospitalized patients with cancer",
+        "Machine learning to predict venous thrombosis in acutely ill medical patients"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60000316",
+            "affilname": "Srinakharinwirot University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000316",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Srinakharinwirot University of Thailand"
+    ]
+}

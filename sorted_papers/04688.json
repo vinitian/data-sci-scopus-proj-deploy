@@ -1,0 +1,65 @@
+{
+    "eid": "2-s2.0-85047160029",
+    "title": "Thermal-induced folding and unfolding of a transmembrane protein (CorA)",
+    "cover-date": "2018-09-15",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Statistical and Nonlinear Physics",
+            "@code": "3109",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Statistics and Probability",
+            "@code": "2613",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Coarse-grained model",
+        "Monte Carlo simulation",
+        "Protein folding",
+        "Thermal response",
+        "Transmembrane protein CorA"
+    ],
+    "authors": [
+        "Sunan Kitjaruwankul",
+        "Panisak Boonamnaj",
+        "Sunita Subedi Paudel",
+        "Warin Jetsadawisut",
+        "Pornthep Sompornpisut",
+        "R. B. Pandey"
+    ],
+    "citedby-count": 4,
+    "ref-count": 25,
+    "ref-list": [
+        "Conformation of Transmembrane Segments of a Protein by a Coarse Grain Model"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Si Racha",
+            "@id": "60108674",
+            "affilname": "Kasetsart University Sriracha Campus",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60108674",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hattiesburg",
+            "@id": "60007027",
+            "affilname": "University of Southern Mississippi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007027",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

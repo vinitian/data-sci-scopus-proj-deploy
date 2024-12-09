@@ -1,0 +1,113 @@
+{
+    "eid": "2-s2.0-85110292793",
+    "title": "Determination of field output correction factors of radiophotoluminescence glass dosimeter and CC01 ionization chamber and validation against IAEA-AAPM TRS-483 code of practice",
+    "cover-date": "2021-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biophysics",
+            "@code": "1304",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Physics and Astronomy (all)",
+            "@code": "3100",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "egs_chamber",
+        "Field output correction factors",
+        "Radiophotoluminescence glass dosimeter",
+        "Small field dosimetry"
+    ],
+    "authors": [
+        "Sumalee Yabsantia",
+        "Sivalee Suriyapee",
+        "Nakorn Phaisangittisakul",
+        "Sornjarod Oonsiri",
+        "Taweap Sanghangthum",
+        "Lalageh Mirzakhanian",
+        "Veng Jean Heng",
+        "Jan Seuntjens"
+    ],
+    "citedby-count": 1,
+    "ref-count": 28,
+    "ref-list": [
+        "Dosimetry of Small Static Fields used in External Beam Radiotherapy: An IAEA\u2013AAPM International Code of Practice for Reference and Relative Dose Determination",
+        "A new formalism for reference dosimetry of small and nonstandard fields",
+        "Detector to detector corrections: A comprehensive experimental study of detector specific correction factors for beam output measurements for small radiotherapy beams",
+        "Output correction factors for nine small field detectors in 6 MV radiation therapy photon beams: A PENELOPE monte carlo study",
+        "Implementing a newly proposed Monte Carlo based small field dosimetry formalism for a comprehensive set of diode detectors",
+        "Monte Carlo modelling of diode detectors for small field MV photon dosimetry: Detector model simplification and the sensitivity of correction factors to source parameterization",
+        "Calculation of k Q clin, Q msr f clin, f msr for several small detectors and for two linear accelerators using Monte Carlo simulations",
+        "Field-size correction factors of a radiophotoluminescent glass dosimeter for small-field and intensity-modulated radiation therapy beams",
+        "Small field detector correction factors k Q clin, Q msrf clin, f msr for silicon-diode and diamond detectors with circular 6 MV fields derived using both empirical and numerical methods",
+        "Field correction factors for a PTW-31016 Pinpoint ionization chamber for both flattened and unflattened beams. Study of the main sources of uncertainties",
+        "Correction factor measurements for multiple detectors used in small field dosimetry on the Varian Edge radiosurgery system",
+        "Dosimetry of small static fields used in external photon beam radiotherapy: Summary of TRS-483, the IAEA\u2013AAPM international Code of Practice for reference and relative dose determination",
+        "Dosimetric properties of radiophotoluminescent glass rod detector in high-energy photon beams from a linear accelerator and Cyber-Knife",
+        "Investigation of the dosimetric characteristics of radiophotoluminescent glass dosimeter for high-energy photon beams",
+        "Measurements of Gamma-Knife helmet output factors using a radiophotoluminescent glass rod dosimeter and a diode detector",
+        "Glass rod detectors for small field, stereotactic radiosurgery dosimetric audit",
+        "A geometrical model for the Monte Carlo simulation of the TrueBeam linac",
+        "On the effective point of measurement in megavoltage photon beams",
+        "Experimental validation of recommended msr-correction factors for the calibration of Leksell Gamma Knife\u00ae Icontm unit following IAEA TRS-483",
+        "Characterizing the influence of detector density on dosimeter response in non-equilibrium small photon fields",
+        "On the correction, perturbation and modification of small field detectors in relative dosimetry",
+        "Experimental investigation on the accuracy of plastic scintillators and of the spectrum discrimination method in small photon fields",
+        "Modeling the primary source intensity distribution: Reconstruction and inter-comparison of six Varian TrueBeam sources",
+        "The impact of corrected field output factors based on IAEA/AAPM code of practice on small-field dosimetry to the calculated monitor unit in eclipseTMtreatment planning system",
+        "Establishment of postal audit system in intensity-modulated radiotherapy by radiophotoluminescent glass dosimeters and a radiochromic film",
+        "Feasibility study of radiophotoluminescent glass rod dosimeter postal dose intercomparison for high energy photon beam",
+        "Impact of testicular shielding in liposarcoma to scrotum by using radio-photoluminescence glass dosimeter (Rplgd): A case report"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Sudbury",
+            "@id": "60085557",
+            "affilname": "\u00c9cole de m\u00e9decine du Nord de l'Ontario",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60085557",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60029502",
+            "affilname": "McGill Faculty of Medicine and Health Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029502",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Sudbury",
+            "@id": "101132039",
+            "affilname": "Health Sciences North",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101132039",
+            "affiliation-country": "Canada"
+        }
+    ],
+    "funding": [
+        "McGill University",
+        "Chulalongkorn University"
+    ]
+}

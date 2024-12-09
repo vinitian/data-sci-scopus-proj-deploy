@@ -1,0 +1,115 @@
+{
+    "eid": "2-s2.0-85169797924",
+    "title": "Identification of the bacteriophage nucleus protein interaction network",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Structural Biology",
+            "@code": "1315",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Eray Enustun",
+        "Amar Deep",
+        "Yajie Gu",
+        "Katrina T. Nguyen",
+        "Vorrapon Chaikeeratisak",
+        "Emily Armbruster",
+        "Majid Ghassemian",
+        "Elizabeth Villa",
+        "Joe Pogliano",
+        "Kevin D. Corbett"
+    ],
+    "citedby-count": 0,
+    "ref-count": 42,
+    "ref-list": [
+        "A century of the phage: past, present and future",
+        "Propagating the missing bacteriophages: a large bacteriophage in a new class",
+        "Clades of huge phages from across Earth\u2019s ecosystems",
+        "Jumbo phages: a comparative genomic overview of core functions and adaptions for biological conflicts",
+        "The phage nucleus and phuz spindle: defining features of the subcellular organization and speciation of nucleus-forming jumbo phages",
+        "Assembly of a nucleus-like structure during viral replication in bacteria",
+        "The phage nucleus and tubulin spindle are conserved among large Pseudomonas phages",
+        "A bacteriophage nucleus-like compartment shields DNA from CRISPR nucleases",
+        "A jumbo phage that forms a nucleus-like structure evades CRISPR\u2013Cas DNA targeting but is vulnerable to type III RNA-based immunity",
+        "Architecture and self-assembly of the jumbo bacteriophage nuclear shell",
+        "The \u03d5PA3 phage nucleus is enclosed by a self-assembling 2D crystalline lattice",
+        "Selective transport of fluorescent proteins into the phage nucleus",
+        "Viral capsid trafficking along treadmilling tubulin filaments in bacteria",
+        "Subcellular organization of viral particles during maturation of nucleus-forming jumbo phage",
+        "A cytoskeletal vortex drives phage nucleus rotation during jumbo phage replication in E. coli",
+        "Efficient proximity labeling in living cells and organisms with TurboID",
+        "The Pseudomonas aeruginosa generalized transducing phage phiPA3 is a new member of the phiKZ-like group of \u2018jumbo\u2019 phages, and infects model laboratory strains and clinical isolates from cystic fibrosis patients",
+        "Extensive proteolysis of head and inner body proteins by a morphogenetic protease in the giant Pseudomonas aeruginosa phage \u03c6KZ",
+        "Structure of the bacteriophage PhiKZ non-virion RNA polymerase",
+        "Characterization of Pseudomonas chlororaphis myovirus 201\u03c6phi2-1 via genomic sequencing, mass spectrometry, and electron microscopy",
+        "Proteome of the large Pseudomonas myovirus 201\u03c62-1: delineation of proteolytically processed virion proteins",
+        "A cut above the rest: characterization of the assembly of a large viral Icosahedral capsid",
+        "Cryo-EM structure of the bacteriophage T4 portal protein assembly at near-atomic resolution",
+        "Functional analysis of the bacteriophage T4 DNA-packaging ATPase motor",
+        "Analysis of the fine structure of the prohead binding domain of the packaging protein of bacteriophage T3 using a hexapeptide, an analog of a prohead binding site",
+        "Structure of viral connectors and their function in bacteriophage assembly and DNA packaging",
+        "Specific interaction of terminase, the DNA packaging enzyme of bacteriophage \u03b3, with the portal protein of the prohead",
+        "The mottled capsid of the Salmonella giant phage SPN3US, a likely maturation intermediate with a novel internal shell",
+        "Using Dali for protein structure comparison",
+        "Fast and accurate protein structure search with Foldseek",
+        "A phage tubulin assembles dynamic filaments by an atypical mechanism to center viral DNA within the host cell",
+        "Novel antibiotics targeting respiratory ATP synthesis in Gram-positive pathogenic bacteria",
+        "PBAD-based shuttle vectors for functional analysis of toxic and highly regulated genes in Pseudomonas and Burkholderia spp. and other bacteria",
+        "Fiji: an open-source platform for biological-image analysis",
+        "Integration, scaling, space-group assignment and post-refinement",
+        "How good are my data and what is the resolution?",
+        "Overview of the CCP4 suite and current developments",
+        "Phaser crystallographic software",
+        "Highly accurate protein structure prediction with AlphaFold",
+        "Features and development of Coot",
+        "Towards automated crystallographic structure refinement with phenix.refine"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "San Diego",
+            "@id": "60030612",
+            "affilname": "University of California, San Diego",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030612",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "San Diego",
+            "@id": "60121563",
+            "affilname": "Department of Cellular &amp; Molecular Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60121563",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chevy Chase",
+            "@id": "60009470",
+            "affilname": "Howard Hughes Medical Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009470",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Howard Hughes Medical Institute Emerging Pathogens Initiative",
+        "National Institutes of Health",
+        "DOE",
+        "National Institute of General Medical Sciences",
+        "Office of Science",
+        "Argonne National Laboratory"
+    ]
+}

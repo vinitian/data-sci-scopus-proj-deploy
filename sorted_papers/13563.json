@@ -1,0 +1,107 @@
+{
+    "eid": "2-s2.0-85084583117",
+    "title": "Semantic labeling in remote sensing corpora using feature fusion-based enhanced global convolutional network with high-resolution representations and depthwise atrous convolution",
+    "cover-date": "2020-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Earth and Planetary Sciences (all)",
+            "@code": "1900",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [
+        "Convolutional neural network",
+        "Deep learning",
+        "Depthwise atrous convolution",
+        "Feature fusion",
+        "Global convolution network",
+        "High-resolution representations",
+        "ISPRS vaihingen",
+        "Landsat-8"
+    ],
+    "authors": [
+        "Teerapong Panboonyuen",
+        "Kulsawasd Jitkajornwanich",
+        "Siam Lawawirojwong",
+        "Panu Srestasathiern",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 8,
+    "ref-count": 50,
+    "ref-list": [
+        "Mask r-cnn",
+        "Bisenet: Bilateral segmentation network for real-time semantic segmentation",
+        "Context encoding for semantic segmentation",
+        "Fully convolutional instance-aware semantic segmentation",
+        "Pyramid scene parsing network",
+        "Towards bridging semantic gap to improve semantic segmentation",
+        "Exfuse: Enhancing feature fusion for semantic segmentation",
+        "Csrnet: Dilated convolutional neural networks for understanding the highly congested scenes",
+        "DenseASPP for Semantic Segmentation in Street Scenes",
+        "Semantic labeling in very high resolution images via a self-cascaded convolutional neural network",
+        "Large kernel matters-Improve semantic segmentation by global convolutional network",
+        "Semantic segmentation on remotely sensed images using an enhanced global convolutional network with channel attention and domain specific transfer learning",
+        "Transfer learning from deep features for remote sensing and poverty mapping",
+        "How transferable are features in deep neural networks?",
+        "Sparse Deep Transfer Learning for Convolutional Neural Network",
+        "Learning a discriminative feature network for semantic segmentation",
+        "Squeeze-and-excitation networks",
+        "Segnet: A deep convolutional encoder-decoder architecture for robust semantic pixel-wise labelling",
+        "Segnet: A deep convolutional encoder-decoder architecture for image segmentation",
+        "Bayesian segnet: Model uncertainty in deep convolutional encoder-decoder architectures for scene understanding",
+        "Gated convolutional neural network for semantic segmentation in high-resolution images",
+        "Deep learning in remote sensing: A comprehensive review and list of resources",
+        "TreeUNet: Adaptive Tree convolutional neural networks for subdecimeter aerial image segmentation",
+        "Resunet-a: A deep learning framework for semantic segmentation of remotely sensed data",
+        "Stacked U-NetsWith Multi-Output for Road Extraction",
+        "Survey on semantic segmentation using deep learning techniques",
+        "Understanding convolution for semantic segmentation",
+        "Understanding deep learning techniques for image segmentation",
+        "Icnet for real-time semantic segmentation on high-resolution images",
+        "Instance-aware semantic segmentation via multi-task network cascades",
+        "Imagenet classification with deep convolutional neural networks",
+        "Deep learning for remote sensing image classification: A survey",
+        "Fully convolutional networks for semantic segmentation",
+        "Learning deconvolution network for semantic segmentation",
+        "U-net: Convolutional networks for biomedical image segmentation",
+        "High-resolution representations for labeling pixels and regions",
+        "Deep high-resolution representation learning for human pose estimation",
+        "Encoder-decoder with atrous separable convolution for semantic image segmentation",
+        "Dense Dilated Convolutions Merging Network for Semantic Mapping of Remote Sensing Images",
+        "Lightweight feature fusion network for single image super-resolution",
+        "Multi-Layers Feature Fusion of Convolutional Neural Network for Scene Classification of Remote Sensing",
+        "Deep learning with multi-scale feature fusion in remote sensing for automatic oceanic eddy detection",
+        "Multi-resolution feature fusion for image classification of building damages with convolutional neural networks",
+        "Deep residual learning for image recognition",
+        "Rethinking atrous convolution for semantic image segmentation",
+        "Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs",
+        "Tensorflow: A system for large-scale machine learning",
+        "Adam: A method for stochastic optimization",
+        "Batch normalization: Accelerating deep network training by reducing internal covariate shift"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60091494",
+            "affilname": "Geo-Informatics and Space Technology Development Agency",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091494",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ladkrabang Bangkok",
+            "@id": "60021543",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021543",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

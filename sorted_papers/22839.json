@@ -1,0 +1,144 @@
+{
+    "eid": "2-s2.0-85145972142",
+    "title": "Feasibility study of neutral beam injection in Thailand Tokamak-1",
+    "cover-date": "2023-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Nuclear Energy and Engineering",
+            "@code": "2104",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Fast ion",
+        "Lorentz orbit code",
+        "Neutral beam injection",
+        "Thailand -1"
+    ],
+    "authors": [
+        "S. Sangaroon",
+        "K. Ogawa",
+        "M. Isobe",
+        "A. Wisitsorasak",
+        "W. Paenthong",
+        "J. Promping",
+        "N. Poolyarat",
+        "A. Tamman",
+        "K. Ploykrachang",
+        "S. Dangtip",
+        "T. Onjun"
+    ],
+    "citedby-count": 0,
+    "ref-count": 42,
+    "ref-list": [
+        "Chapter 5: physics of energetic ions",
+        "Neutral beam injection for fusion reactors: technological constraints versus functional requirements",
+        "Energetic particle instabilities in fusion plasmas",
+        "The nonlinear saturation of beam-driven instabilities: theory and experiment",
+        "Deuterium beam acceleration with 3rd harmonic ion cyclotron resonance heating in Joint European Torus: sawtooth stabilization and Alfv\u00e9n eigenmodes",
+        "Transition from weak to strong energetic ion transport in burning plasmas",
+        "Invited review article: contemporary instrumentation and application of charge exchange neutral particle diagnostics in magnetic fusion energy experiments",
+        "Design and construction of a fast ion loss Faraday cup array diagnostic for Joint European Torus",
+        "Escaping ion measurement with high time resolution during bursting modes induced by neutral beam injection on CHS",
+        "Overview of the JET neutral beam enhancement project",
+        "Power and particle balance during neutral beam injection in TFTR",
+        "Heating and non-inductive current drive by negative ion based NBI in JT-60 U",
+        "Overview of recent experimental results from the DIII-D advanced programme",
+        "Overview of control system of neutral beam injection on EAST",
+        "New ion source for KSTAR neutral beam injection system",
+        "Experiments on NBI plasmas in LHD",
+        "Fast ion dynamics of NBI plasmas in heliotron J",
+        "First neutral beam experiments on Wendelstein 7-X",
+        "Status of the ITER heating neutral beam system",
+        "Heating neutral beams for ITER: negative ion sources to tune fusion plasmas",
+        "Survey of heating and current drive for K-DEMO",
+        "The time-dependent simulation of CFETR baseline steady-state scenarios",
+        "Self-consistent modeling of CFETR baseline scenarios for steady-state operation",
+        "Engineering aspects of the ht-6 m",
+        "Lorentz alpha orbit calculation in search of position suitable for escaping alpha particle diagnostics in ITER",
+        "Design of lost fast-ion probe based on thin faraday films in Heliotron J",
+        "Study of first orbit losses of 1 MeV tritons using the Lorentz orbit code in the LHD",
+        "Energy-and-pitch-angle-resolved escaping beam ion measurements by Faraday-cup-based fast-ion loss detector in Wendelstein 7-X",
+        "1 MeV Triton Orbit Analysis in EAST Plasmas",
+        "Predictive analysis for triton burnup ratio in HL-2A and HL-2 M plasmas",
+        "Feasibility study of fast ion loss diagnostics for CFQS by beam ion loss calculation on vacuum vessel",
+        "Prompt loss of beam ions in KSTAR plasmas",
+        "Triton burnup measurements in KSTAR using a neutron activation system",
+        "Evaluation of alpha particle emission rate due to the p-11B fusion reaction in the Large Helical Device",
+        "The plan of diagnostic systems for the first phase of Thailand 1",
+        "Fast-ion orbit analysis in Thailand -1",
+        "Edge plasma behavior during improved confinement by lower hybrid wave heating in HT-6 M",
+        "Effects of high Z probe on plasma behavior in HT-6 M",
+        "Plasma scenario study for HT-6 M using BALDUR integrated predictive modeling code",
+        "Mechanisms of energetic-particle transport in magnetically confined plasmas",
+        "The Monte Carlo fast ion module NUBEAM in the National Transport Code Collaboration library"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Thonburi",
+            "@id": "60008786",
+            "affilname": "King Mongkut's University of Technology Thonburi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008786",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60091560",
+            "affilname": "Thailand Institute of Nuclear Technology, Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091560",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hayama",
+            "@id": "60021523",
+            "affilname": "The Graduate University for Advanced Studies",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021523",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Toki",
+            "@id": "60015970",
+            "affilname": "National Institutes of Natural Sciences - National Institute for Fusion Science",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015970",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Maha Sarakham",
+            "@id": "60002875",
+            "affilname": "Mahasarakham University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002875",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "NSRF",
+        "Thailand Science Research and Innovation",
+        "Thailand Institute of Nuclear Technology"
+    ]
+}

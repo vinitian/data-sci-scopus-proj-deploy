@@ -1,0 +1,103 @@
+{
+    "eid": "2-s2.0-85146174274",
+    "title": "Axisymmetric loading on nanoscale multilayered media",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Architecture",
+            "@code": "2216",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "functionally graded layer",
+        "Gurtin\u2014Murdoch surface elasticity",
+        "multilayered medium",
+        "size dependency",
+        "stiffness matrix"
+    ],
+    "authors": [
+        "Pong in Intarit",
+        "Kanin Tarntira",
+        "Teerapong Senjuntichai",
+        "Suraparb Keawsawasvong"
+    ],
+    "citedby-count": 0,
+    "ref-count": 46,
+    "ref-list": [
+        "Nanobeam mechanics: Elasticity, strength, and toughness of nanorods and nanotubes",
+        "A Continuum theory of elastic material surfaces",
+        "Surface stress in solids",
+        "Size-dependent elastic properties of nanosized structural elements",
+        "Atomistic calculations of elastic properties of metallic FCC crystal surfaces",
+        "A continuum model for size-dependent deformation of elastic films of nano-scale thickness",
+        "Influence of surface energy effects on elastic fields of a layered elastic medium under surface loading",
+        "Thin plate theory including surface effects",
+        "Finite-element modeling of circular nanoplates",
+        "Surface effects on shape and topology optimization of nanostructures",
+        "FEM-SGBEM coupling for modeling of mode-I planar cracks in three-dimensional elastic media with residual surface tension effects",
+        "Penny-shaped crack in elastic medium with surface energy effects",
+        "Analytical Solution for size-dependent elastic field of a nanoscale circular inhomogeneity",
+        "Rigid frictionless indentation on elastic half space with influence of surface stresses",
+        "Elastic layer under axisymmetric indentation and surface energy effects",
+        "Indentation of a nanolayer on a substrate by a rigid cylinder in adhesive contact",
+        "Influence of frictional contact on indentation of elastic layer under surface energy effects",
+        "Nonlocal polar elastic continua",
+        "On nonlocal elasticity",
+        "Effects of couple-stresses in linear elasticity",
+        "Theory of elasticity with couple-stress",
+        "Micro-structure in linear elasticity",
+        "Size effects in two-dimensional layered materials modeled by couple stress elasticity",
+        "An Energy Approach to the solution of partial differential equations in computational mechanics via machine learning: Concepts, implementation and applications",
+        "Artificial neural network methods for the solution of second order boundary value problems",
+        "Parametric deep energy approach for elasticity accounting for strain gradient effects",
+        "Time dependent response of an axially loaded elastic bar in a multi-layered poroelastic medium",
+        "Dynamic response of multiple flexible strips on a multilayered poroelastic half-plane",
+        "Plane strain dynamic responses of a multi-layered transversely isotropic saturated half-space",
+        "Vertical vibrations of rigid foundations of arbitrary shape in a multi-layered poroelastic medium",
+        "Seismic analysis of a lined tunnel in a multi-layered TI saturated half-space due to qP1-and qSV-waves",
+        "Microstructure and mechanical properties of nanoscale Cu/Ni multilayers",
+        "Exact stiffness method for quasi-statics of a multi-layered poroelastic medium",
+        "Theoretical investigation of phenomena caused by heterogeneous surface tension in solids",
+        "The effects of surface tension on the elastic properties of nano structures",
+        "A software framework for probabilistic sensitivity analysis for computationally expensive models",
+        "Sensitivity and uncertainty analysis for flexoelectric nanostructures",
+        "Undrained behaviour of a non-homogeneous elastic medium: The influence of variations in the elastic shear modulus with depth",
+        "Structure and corrosion properties of Al/Si and Fe/Zr multilayers",
+        "The relation between load and penetration in the axisymmetric Boussinesq problem for a punch of arbitrary profile"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60012521",
+            "affilname": "Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012521",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hatyai",
+            "@id": "60006314",
+            "affilname": "Prince of Songkla University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006314",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "TRF"
+    ]
+}

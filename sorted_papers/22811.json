@@ -1,0 +1,164 @@
+{
+    "eid": "2-s2.0-85099107726",
+    "title": "Robust adaptive topology optimization of porous infills under loading uncertainties",
+    "cover-date": "2021-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Graphics and Computer-Aided Design",
+            "@code": "1704",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Adaptive geometric component",
+        "Load uncertainty",
+        "Multiscale topology optimization",
+        "Porous infill",
+        "Robust concurrent topology optimization"
+    ],
+    "authors": [
+        "Van Nam Hoang",
+        "Trung Pham",
+        "Sawekchai Tangaramvong",
+        "St\u00e9phane P.A. Bordas",
+        "H. Nguyen-Xuan"
+    ],
+    "citedby-count": 15,
+    "ref-count": 62,
+    "ref-list": [
+        "A level-set method for shape optimization",
+        "Robust topology optimization of structures with uncertainties in stiffness - application to truss structures",
+        "Optimal shape design as a material distribution problem",
+        "Generating optimal topologies in structural design using a homogenization method",
+        "Design-dependent loads in topology optimization",
+        "Robust concurrent topology optimization of multiscale structure under single or multiple uncertain load cases",
+        "Robust topology optimization of frame structures under geometric or material properties uncertainties",
+        "Level set based robust shape and topology optimization under random field uncertainties",
+        "Concurrent lattice infill with feature evolution optimization for additive manufactured heat conduction design",
+        "A new compliance-function-shape-oriented robust approach for volume-constrained continuous topology optimization with uncertain loading directions",
+        "A critical analysis of expected-compliance model in volume-constrained robust topology optimization with normally distributed loading directions, using a minimax-compliance approach alternatively",
+        "Topology optimization of continuum structures subjected to uncertainties in material properties",
+        "Stress-based topology optimization of continuum structures under uncertainties",
+        "Topology optimization of continuum structures with stress constraints and uncertainties in loading",
+        "Concurrent topology optimization of multiscale structures with multiple porous materials under random field loading uncertainty",
+        "Multi-objective concurrent topology optimization of thermoelastic structures composed of homogeneous porous material",
+        "Connected morphable components-based multiscale topology optimization",
+        "Reliability-based multi-scale design optimization of composite frames considering structural compliance and manufacturing constraints",
+        "Design of shell-infill structures by a multiscale level set topology optimization method",
+        "Homogenization-based topology optimization for high-resolution manufacturable microstructures",
+        "Homogenization-based stiffness optimization and projection of 2D coated structures with orthotropic infill",
+        "Doing topology optimization explicitly and geometrically\u2014a new moving morphable components based framework",
+        "Multi-scale robust design and optimization considering load uncertainties",
+        "Topology optimization using moving morphable bars for versatile thickness control",
+        "An explicit topology optimization method using moving polygonal morphable voids (MPMVs)",
+        "Extruded-geometric-component-based 3D topology optimization (Accepted)",
+        "Topology optimization of coated structure using moving morphable sandwich bars",
+        "Adaptive concurrent topology optimization of cellular composites for additive manufacturing",
+        "Robust topology optimization accounting for misplacement of material",
+        "Robust topology optimization of structures with imperfect geometry based on geometric nonlinear analysis",
+        "Topology optimization of structures made of discrete geometric components with different materials",
+        "Topology optimization considering material and geometric uncertainties using stochastic collocation methods",
+        "Topology optimization with geometric uncertainties by perturbation techniques",
+        "Topology optimization for concurrent design of structures with multi-patch microstructures by level sets",
+        "Moving morphable patches for three-dimensional topology optimization with thickness control",
+        "A geometry projection method for continuum-based topology optimization with discrete elements",
+        "Topology optimization of functionally graded cellular materials",
+        "Robust topology optimization of truss structures with random loading and material properties: a multiobjective perspective",
+        "Topology design with negative masks using gradient search",
+        "Robust topology optimization accounting for spatially varying manufacturing errors",
+        "Simultaneous material and structural optimization by multiscale topology optimization",
+        "Efficient strategies for reliability-based design optimization of variable stiffness composite structures",
+        "The method of moving asymptotes - a new method for structural optimization",
+        "Introduction to quality engineering: Designing quality into products and processes",
+        "Topology optimization of continuum structures under uncertainty - a polynomial chaos approach",
+        "Concurrent topology optimization for minimizing frequency responses of two-level hierarchical structures",
+        "Multiscale design for additive manufactured structures with solid coating and periodic infill pattern",
+        "A level set method for structural topology optimization",
+        "An explicit optimization model for integrated layout design of planar multi-component systems using moving morphable bars",
+        "Robust concurrent topology optimization of structure and its composite material considering uncertainty with imprecise probability",
+        "Recent advances on topology optimization of multiscale nonlinear structures",
+        "A simple approach to structural optimization",
+        "Multi-scale concurrent material and structural design under mechanical and thermal loads",
+        "Concurrent multi-scale design optimization of composite frames with manufacturing constraints",
+        "An explicit structural topology optimization method based on the descriptions of areas",
+        "Explicit three dimensional topology optimization via moving morphable void (MMV) approach",
+        "Topology optimization with multiple materials via moving morphable component (MMC) method",
+        "Explicit topology optimization using IGA-based moving morphable void (MMV) approach",
+        "Robust topology optimization based on stochastic collocation methods under loading uncertainties",
+        "Robust topology optimization for cellular composites with hybrid uncertainties",
+        "Robust topology optimization for concurrent design of dynamic structures under hybrid uncertainties",
+        "The COC algorithm, part II: topological, geometrical and generalized shape optimization"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Haiphong",
+            "@id": "60113178",
+            "affilname": "Vietnam Maritime University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60113178",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Esch-sur-Alzette",
+            "@id": "60072562",
+            "affilname": "University of Luxembourg",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60072562",
+            "affiliation-country": "Luxembourg"
+        },
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60071399",
+            "affilname": "Ho Chi Minh City University of Technology - HUTECH",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071399",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Taichung",
+            "@id": "60031941",
+            "affilname": "China Medical University Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031941",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ann Arbor",
+            "@id": "60025778",
+            "affilname": "University of Michigan, Ann Arbor",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025778",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Vingroup Innovation Foundation"
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "eid": "2-s2.0-85124603840",
+    "title": "Assisting Multitargeted Ligand Affinity Prediction of Receptor Tyrosine Kinases Associated Nonsmall Cell Lung Cancer Treatment with Multitasking Principal Neighborhood Aggregation",
+    "cover-date": "2022-02-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analytical Chemistry",
+            "@code": "1602",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Chemistry (miscellaneous)",
+            "@code": "1601",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Medicine",
+            "@code": "1313",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Pharmaceutical Science",
+            "@code": "3003",
+            "@abbrev": "PHAR"
+        },
+        {
+            "@_fa": "true",
+            "$": "Drug Discovery",
+            "@code": "3002",
+            "@abbrev": "PHAR"
+        },
+        {
+            "@_fa": "true",
+            "$": "Physical and Theoretical Chemistry",
+            "@code": "1606",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Organic Chemistry",
+            "@code": "1605",
+            "@abbrev": "CHEM"
+        }
+    ],
+    "keywords": [
+        "Affinity prediction",
+        "Drug discovery",
+        "Machine learning",
+        "Multitasking",
+        "Quantitative structure\u2013activity relationship (QSAR)"
+    ],
+    "authors": [
+        "Fahsai Nakarin",
+        "Kajjana Boonpalit",
+        "Jiramet Kinchagawat",
+        "Patcharapol Wachiraphan",
+        "Thanyada Rungrotmongkol",
+        "Sarana Nutanong"
+    ],
+    "citedby-count": 2,
+    "ref-count": 83,
+    "ref-list": [
+        "Network pharmacology: The next paradigm in drug discovery",
+        "Perspectives in the development of hybrid bifunctional antitumour agents",
+        "Highlights in resistance mechanism pathways for combination therapy",
+        "Hybrid Drugs\u2014A Strategy for Overcoming Anticancer Drug Resistance?",
+        "Multi-target pharmacology: Possibilities and limitations of the \u201cskeleton key approach\u201d from a medicinal chemist perspective",
+        "Properties of FDA-approved small molecule protein kinase inhibitors: A 2021 update",
+        "Tyrosine kinase inhibitors in cancer: Breakthrough and challenges of targeted therapy",
+        "Phase III study of afatinib or cisplatin plus pemetrexed in patients with metastatic lung adenocarcinoma with EGFR mutations",
+        "First-line crizotinib versus chemotherapy in ALK-positive lung cancer",
+        "Crizotinib versus chemotherapy in advanced ALK-positive lung cancer",
+        "CH5424802 (RO5424802) for patients with ALK-rearranged advanced non-small-cell lung cancer (AF-001JP study): A single-arm, open-label, phase 1\u20132 study",
+        "Alectinib shows potent antitumor activity against RET-rearranged non\u2013small cell lung cancer",
+        "Identifying and targeting ROS1 gene fusions in non\u2013small cell lung cancer",
+        "Multi-target drugs: The trend of drug research and development",
+        "A comparison of protein kinases inhibitor screening methods using both enzymatic activity and binding affinity determination",
+        "High-throughput screening assay datasets from the pubchem database",
+        "Computational Chemistry on a Budget: Supporting Drug Discovery with Limited Resources: Miniperspective",
+        "Maximizing computational tools for successful drug discovery",
+        "Deep Learning in Virtual Screening: Recent Applications and Developments",
+        "QSAR-based virtual screening: Advances and applications in drug discovery",
+        "QSAR modeling: Where have you been? Where are you going to?",
+        "Molecular similarity concepts for informatics applications",
+        "A novel multi-target drug screening strategy directed against key proteins of DAPk family",
+        "Transfer and multi-task learning in QSAR modeling: Advances and challenges",
+        "Multitasking models for quantitative structure\u2013biological effect relationships: Current status and future perspectives to speed up drug discovery",
+        "Could graph neural networks learn better molecular representation for drug discovery? A comparison study of descriptor-based and graph-based models",
+        "A Comprehensive Survey on Graph Neural Networks",
+        "Molecular graph convolutions: Moving beyond fingerprints",
+        "Stochastic gradient boosting",
+        "MoleculeNet: A benchmark for molecular machine learning",
+        "Graph neural networks: A review of methods and applications",
+        "Enhanced Graph Isomorphism Network for Molecular ADMET Properties Prediction",
+        "Principal Neighbourhood Aggregation for Graph Nets",
+        "Adapted transfer of distance measures for quantitative structure-activity relationships and data-driven selection of source datasets",
+        "Demystifying multitask deep neural networks for quantitative structure\u2013activity relationships",
+        "Data set modelability by QSAR",
+        "Molecule Property Prediction Based on Spatial Graph Embedding",
+        "Toward Accurate Predictions of Atomic Properties via Quantum Mechanics Descriptors Augmented Graph Convolutional Neural Network: Application of This Novel Approach in NMR Chemical Shifts Predictions",
+        "LigEGFR: Spatial graph embedding and molecular descriptors assisted bioactivity prediction of ligand molecules for epidermal growth factor receptor on a cell line-based dataset",
+        "Beware of R 2: Simple, unambiguous assessment of the prediction accuracy of QSAR and QSPR models",
+        "Principles of QSAR Modeling",
+        "Beware of unreliable Q 2! A comparative study of regression metrics for predictivity assessment of QSAR models",
+        "Prediction of pharmacological activities from chemical structures with graph convolutional neural networks",
+        "XGraphBoost: Extracting Graph Neural Network-Based Features for a Better Prediction of Molecular Properties",
+        "Machine-Learning-Enabled Virtual Screening for Inhibitors of Lysine-Specific Histone Demethylase 1",
+        "Reconciling modern machine-learning practice and the classical bias\u2013variance trade-off",
+        "Robust QSAR models using Bayesian regularized neural networks",
+        "Applicability domains enhance application of PPAR\u03b3 agonist classifiers trained by drug-like compounds to environmental chemicals",
+        "Large-scale modeling of multispecies acute toxicity end points using consensus of multitask deep learning methods",
+        "Applicability domain for QSAR models: Where theory meets reality",
+        "Applicability domain: Towards a more formal definition",
+        "Deep learning enables rapid identification of potent DDR1 kinase inhibitors",
+        "Targeted therapy for non-small cell lung cancer: Current standards and the promise of the future",
+        "On outliers and activity cliffs why QSAR often disappoints",
+        "The Chemistry Development Kit (CDK) v2. 0: Atom typing, depiction, molecular formulas, and substructure searching",
+        "PyBEL: A computational framework for Biological Expression Language",
+        "End-to-end drug entity recognition and adverse effect relation extraction via principal neighbourhood aggregation network",
+        "Multitask Learning: A Knowledge-Based Source of Inductive Bias",
+        "Optuna: A Next-generation Hyperparameter Optimization Framework",
+        "Beware of q2!",
+        "Does rational selection of training and test sets improve the outcome of QSAR modeling?",
+        "Comprehensive ensemble in QSAR prediction for drug discovery",
+        "CarcinoPred-EL: Novel models for predicting the carcinogenicity of chemicals using molecular fingerprints and ensemble learning methods",
+        "Discovery of Dual FGFR4 and EGFR Inhibitors by Machine Learning and Biological Evaluation",
+        "Random Forests",
+        "Scikit-learn: Machine Learning in Python",
+        "Graph convolutional networks for computational drug development and discovery",
+        "A Novel Graph Neural Network Methodology to Investigate Dihydroorotate Dehydrogenase Inhibitors in Small Cell Lung Cancer",
+        "Hyperopt: A Python Library for Optimizing the Hyperparameters of Machine Learning Algorithms",
+        "Activity cliffs in drug discovery: Dr Jekyll or Mr Hyde?",
+        "Evolving concept of activity cliffs",
+        "Exploring activity cliffs in medicinal chemistry: miniperspective",
+        "Similarity-potency trees: A method to search for SAR information in compound data sets and derive SAR rules",
+        "Comprehensive analysis of single-and multi-target activity cliffs formed by currently available bioactive compounds"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Rayong",
+            "@id": "60110787",
+            "affilname": "Vidyasirimedhi Institute of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60110787",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "School of Information Science and Technology",
+        "VISTEC-depa Thailand Artificial Intelligence Research Institute",
+        "Vidyasirimedhi Institute of Science and Technology"
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "eid": "2-s2.0-85029569713",
+    "title": "High accuracy EEG biometrics identification using ICA and AR model",
+    "cover-date": "2017-12-01",
+    "subject-areas": [
+        {
+            "$": "General Mathematics",
+            "@code": "2600"
+        },
+        {
+            "$": "General Decision Sciences",
+            "@code": "1800"
+        },
+        {
+            "$": "General Computer Science",
+            "@code": "1700"
+        }
+    ],
+    "keywords": [
+        "Autoregressive (AR)",
+        "Biometrics",
+        "Electroencephalogram (EEG)",
+        "Feature extraction",
+        "Independent Component Analysis (ICA)",
+        "Person classification"
+    ],
+    "authors": [
+        "Chesada Kaewwit"
+    ],
+    "citedby-count": 15,
+    "ref-count": 25,
+    "ref-list": [
+        "ICA-based EEG denoising: A comparative analysis of fifteen methods",
+        "A blind source separation technique using second-order statistics",
+        "Robust whitening procedure in blind source separation context",
+        "Autoregressive spectral estimation by application of the Burg algorithm to irregularly sampled data",
+        "Brain waves based user recognition using the \"eyes closed resting conditions\" protocol",
+        "Blind beamforming for non-Gaussian signals",
+        "Robust blind source separation algorithms using cumulants",
+        "Why Yule-Walker should not be used for autoregressive modelling",
+        "Electroencephalogram subject identification: A review",
+        "Online Electroencephalogram (EEG) based biometric authentication using visual and audio stimuli",
+        "Independent EEG sources are dipolar",
+        "An Independent Component Analysis (ICA) based approach for EEG person authentication",
+        "Independent component analysis: Algorithms and applications",
+        "Feature-level fusion of mental task\u2019s brain signal for an efficient identification system",
+        "On the Permanence of EEG Signals for Biometric Recognition",
+        "EEG-based person authentication using a fuzzy entropy-related approach with two electrodes",
+        "The electroencephalogram as a biometric",
+        "Parametric person identification from the EEG using computational geometry",
+        "Unobtrusive biometric system based on electroencephalogram analysis",
+        "EEG biometrics for individual recognition in resting state with closed eyes",
+        "CEREBRE: A Novel Method for Very High Accuracy Event-Related Potential Biometric Identification",
+        "Computational Science and Its Applications-ICCSA",
+        "Insider and outsider person authentication with minimum number of brain wave signals by neural and homogeneous identity filtering",
+        "Measurement Science Review",
+        "Fisher Linear Discriminant based person identification using Visual Evoked potentials"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "affilname": "Chulalongkorn University",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn Comprehensive Epilepsy Program",
+        "Faculty of Medicine, Chulalongkorn University"
+    ]
+}

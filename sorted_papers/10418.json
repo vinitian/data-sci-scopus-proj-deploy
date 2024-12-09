@@ -1,0 +1,82 @@
+{
+    "eid": "2-s2.0-85062215436",
+    "title": "Wheeling charge considering line flow differentiation based on power flow calculation",
+    "cover-date": "2019-01-18",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Cost Allocation",
+        "Line Flow Analysis",
+        "Line Usage",
+        "Power Transaction",
+        "Wheeling Charge"
+    ],
+    "authors": [
+        "Surapad Larbwisuthisaroj",
+        "Surachai Chaitusaney"
+    ],
+    "citedby-count": 2,
+    "ref-count": 7,
+    "ref-list": [
+        "Some fundamental technical concept about cost based transmission pricing",
+        "An analytical approach for transaction costs allocation in transmission system",
+        "Wheeling charge under a deregulated environment",
+        "AC power flow sensitivities for transmission cost allocation",
+        "Wheeling charge based on identification of transaction paths in deregulated power markets",
+        "A load flow-based method for calculating embedded incremental and marginal cost of transmission capacity",
+        "Cost of wheeling methodologies"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Graduate School, Southern Illinois University",
+        "Chulalongkorn University"
+    ]
+}

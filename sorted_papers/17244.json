@@ -1,0 +1,83 @@
+{
+    "eid": "2-s2.0-85128615895",
+    "title": "Functionality-based similarities for uncovering relationships between drugs and diseases",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Multidisciplinary",
+            "@code": "1000",
+            "@abbrev": "MULT"
+        }
+    ],
+    "keywords": [
+        "drug repositioning",
+        "functionality-based similarity",
+        "gene ontology",
+        "similarity index"
+    ],
+    "authors": [
+        "Thitipong Kawichai",
+        "Apichat Suratanee",
+        "Kitiporn Plaimas"
+    ],
+    "citedby-count": 1,
+    "ref-count": 26,
+    "ref-list": [
+        "COMT inhibition with tolcapone in the treatment algorithm of patients with Parkinson's disease (PD): Relevance for motor and non-motor features",
+        "ATP-dependent potassium channels and type 2 diabetes mellitus",
+        "Catechol-O-methyltransferase and its inhibitors in Parkinson's disease",
+        "New similarity coefficients for binary data",
+        "Mutations in the Na-Cl cotransporter reduce blood pressure in humans",
+        "The comparative toxicogenomics database: Update 2019",
+        "Comparative toxicogenomics database: A knowledgebase and discovery tool for chemical\u2013gene\u2013disease networks",
+        "Generating gene ontology-disease inferences to explore mechanisms of human disease at the comparative toxicogenomics database",
+        "PREDICT: a method for inferring novel drug indications with application to personalized medicine",
+        "Gitelman syndrome: pathophysiological and clinical aspects",
+        "Gene ontology annotations: what they mean and where they come from",
+        "DMAP: a connectivity map database to enable identification of novel drug repositioning candidates",
+        "The GOA database: Gene ontology annotation updates for 2015",
+        "Ion channels of the islets in type 2 diabetes",
+        "The separation of ADHD inattention and hyperactivity-impulsivity symptoms: Pathways from genetic effects to cognitive impairments and symptoms",
+        "Prediction of disease and phenotype associations from genome-wide association studies",
+        "New tricks for an old drug",
+        "DisGeNET: a comprehensive platform integrating information on human disease-associated genes and variants",
+        "A systems-level analysis of drug-target-disease associations for drug repositioning",
+        "The precision-recall plot is more informative than the ROC plot when evaluating binary classifiers on imbalanced datasets",
+        "Role of COMT in ADHD: a systematic meta-analysis",
+        "The antiepileptic drug carbamazepine affects sodium transport in toad epithelium",
+        "Finding an appropriate equation to measure similarity between binary vectors: Case studies on Indonesian and Japanese herbal medicines",
+        "DrugBank 5.0: A major update to the DrugBank database for 2018",
+        "Changing trends in computational drug repositioning",
+        "Index for rating diagnostic tests"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "60002105",
+            "affilname": "Chulachomklao Royal Military Academy",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002105",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "DPST",
+        "Development and Promotion of Science and Technology Talents Project",
+        "Office of the Higher Education Commission",
+        "Thailand Research Fund"
+    ]
+}

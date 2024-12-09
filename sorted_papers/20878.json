@@ -1,0 +1,68 @@
+{
+    "eid": "2-s2.0-85113543856",
+    "title": "AN ANALYTICAL OPTION PRICING FORMULA for MEAN-REVERTING ASSET with TIME-DEPENDENT PARAMETER",
+    "cover-date": "2021-04-23",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Mathematics (miscellaneous)",
+            "@code": "2601",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Feynman-Kac formula",
+        "Mean-reverting process",
+        "Option pricing"
+    ],
+    "authors": [
+        "P. Nonsoong",
+        "K. Mekchay",
+        "S. Rujivan"
+    ],
+    "citedby-count": 6,
+    "ref-count": 25,
+    "ref-list": [
+        "The pricing of commodity contracts",
+        "Bond and option pricing when short rates are lognormal",
+        "The pricing of options and corporate liabilities",
+        "Alternative characterizations of american put options",
+        "Asymptotic expansion for pricing options for a mean-reverting asset with multiscale stochastic volatility",
+        "Pricing discretely-sampled variance swaps on commodities",
+        "Valuing energy options in a one factor model fitted to forward prices",
+        "Pricing interest-rate-derivative securities",
+        "Optimal stopping and the american put",
+        "The analytic valuation of american options",
+        "Theory of rational option pricing",
+        "A novel analytical approach for pricing discretely sampled gamma swaps in the heston model",
+        "Analytically pricing variance swaps in commodity derivative markets under stochastic convenience yields",
+        "Analytically pricing volatility swaps and volatility options with discrete sampling: Nonlinear payoff volatility derivatives",
+        "A simplified analytical approach for pricing discretely-sampled variance swaps with stochastic volatility",
+        "A simple closed-form formula for pricing discretely-sampled variance swaps under the heston model",
+        "The stochastic behavior of commodity prices: Implications for valuation and hedging",
+        "Explicit option pricing formula for a mean-reverting asset in energy market",
+        "An integral representation and computation for the solution of american options",
+        "A closed-form formula for pricing variance swaps on commodities",
+        "Option pricing with mean reversion and stochastic volatility"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tha Sala",
+            "@id": "60026526",
+            "affilname": "Walailak University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026526",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "Walailak University"
+    ]
+}

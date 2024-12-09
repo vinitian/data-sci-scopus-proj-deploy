@@ -1,0 +1,92 @@
+{
+    "eid": "2-s2.0-85028380686",
+    "title": "Fast Learning and Testing for Imbalanced Multi-Class Changes in Streaming Data by Dynamic Multi-Stratum Network",
+    "cover-date": "2017-01-01",
+    "subject-areas": [
+        {
+            "$": "General Engineering",
+            "@code": "2200"
+        },
+        {
+            "$": "General Materials Science",
+            "@code": "2500"
+        },
+        {
+            "$": "General Computer Science",
+            "@code": "1700"
+        }
+    ],
+    "keywords": [
+        "concept drift",
+        "Data stream classification",
+        "imbalanced data",
+        "nonstationary environment"
+    ],
+    "authors": [
+        "Mongkhon Thakong"
+    ],
+    "citedby-count": 5,
+    "ref-count": 45,
+    "ref-list": [
+        "Learning from streaming data with concept drift and imbalance: An overview",
+        "Reacting to different types of concept drift: The accuracy updated ensemble algorithm",
+        "Incremental learning of chunk data for online pattern classification systems",
+        "A fast nearest neighbor classifier based on self-organizing incremental neural network",
+        "A very fast neural learning for classification using only new incoming datum",
+        "An online incremental learning support vector machine for large-scale data",
+        "Classification using streaming random forests",
+        "Incremental learning from stream data",
+        "Memory-less unsupervised clustering for data streaming by versatile ellipsoidal function",
+        "Learning from concept drifting data streams with unlabeled data",
+        "Evaluation methods and decision theory for classification of streaming data with temporal dependence",
+        "A multitask learning model for online pattern recognition",
+        "A fast incremental Kernel principal component analysis for learning stream of data chunks",
+        "LDA merging and splitting with applications to multiagent cooperative learning and system alteration",
+        "Online incremental clustering with distance metric learning for high dimensional data",
+        "IMORL: Incremental multiple-object recognition and localization",
+        "Incremental learning in nonstationary environments with controlled forgetting",
+        "On evaluating stream learning algorithms",
+        "On the window size for classification in changing environments",
+        "Incremental learning of concept drift in nonstationary environments",
+        "A robust incremental learning method for non-stationary environments",
+        "Mining concept-drifting data streams using ensemble classifiers",
+        "Traffic light control in non-stationary environments based on multi agent Q-learning",
+        "Uavs Applied to the Counting and Monitoring Of Animals",
+        "Improved concept drift handling in surgery prediction and other applications",
+        "Mining time-changing data streams",
+        "Dynamic supervised classification method for online monitoring in non-stationary environments",
+        "A rank-one update method for least squares linear discriminant analysis with concept drift",
+        "Ensemble of subset online sequential extreme learning machine for class imbalance and concept drift",
+        "Learning from evolving video streams in a multi-camera scenario",
+        "Discounted expert weighting for concept drift",
+        "Domain adaptation bounds for multiple expert systems under concept drift",
+        "Adaptive concept drift detection",
+        "Learn++: An incremental learning algorithm for supervised neural networks",
+        null,
+        null,
+        "Incremental rule pruning for fuzzy ARTMAP neural network",
+        "Learning from time-changing data with adaptive windowing",
+        "Using multiple windows to track concept drift",
+        "Strategies for learning in class imbalance problems",
+        "UCI Machine Learning Repository",
+        "A streaming ensemble algorithm (SEA) for large-scale classification",
+        "A framework for generating data to simulate changing environments",
+        "School Comput. Sci. Eng., Univ.",
+        "Study on the impact of partition-induced dataset shift on k-fold cross-validation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Endowment for Health"
+    ]
+}

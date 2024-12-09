@@ -1,0 +1,72 @@
+{
+    "eid": "2-s2.0-85128284887",
+    "title": "Machine-learning-based automated quantification machine for virus plaque assay counting",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Image segmentation",
+        "K-mean clustering",
+        "Optical inspection",
+        "Viral plaque assay",
+        "Virus titer",
+        "Well plate"
+    ],
+    "authors": [
+        "Gridsada Phanomchoeng",
+        "Chayatorn Kukiattikoon",
+        "Suphanut Plengkham",
+        "Siwaporn Boonyasuppayakorn",
+        "Saran Salakij",
+        "Suvit Poomrittigul",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 3,
+    "ref-count": 27,
+    "ref-list": [
+        "Analysis ofk-means and k-medoids algorithm for big data",
+        "Intratypic variation ofherpessimplex virus type 2 isolates detected by monoclonal antibodies against viralglycoproteins",
+        "Simplified dengue virus microwell plaque assay using an automatedquantification program",
+        "ViralPlaque: a Fiji macro for automated assessment of viral plaque statistics",
+        "Optimized digital counting colonies of clonogenic assays using ImageJ software and customized macros: comparison with manual counting",
+        "Production of plaques in monolayer tissue cultures by single particles of an animal Virus",
+        "OpenCFU, a new free and open-source software to count cell colonies and other circular objects",
+        "Viridot: an automated virus plaque (immunofocus) counter for the measurement of serological neutralizing responses with application to dengue virus",
+        "Automate platform for capturing and counting ELISpot on 96-Well plate",
+        "Research techniques made simple: cutaneous colorimetry: a reliable technique for objective skin color measurement",
+        "Automated viral plaque counting using image segmentation and morphological analysis",
+        "Statistics Corner: a guide to appropriate use of Correlation coefficient in medical research",
+        "Editorial I using the Bland-Altman method to measure agreement with repeated measures",
+        "Clustering algorithm for A healthcare dataset using silhouette score value",
+        "Development of au-welltomated platform for image capturing and counting algorithm for viral plaque",
+        "Human monoclonal antibodies derived from memory B cells following live attenuated dengue virus vaccination or natural infection exhibit similar characteristics",
+        "Functional analysis of antibodies against dengue virus type4 reveals strain-dependent epitope exposure that impacts neutralization and protection",
+        "High throughput virus plaque quantitation using a flatbed scanner",
+        "An antiviral drug screening system for enterovirus 71 based on an improved plaque assay: a potential high-throughput method"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "100529141",
+            "affilname": "Pathumwan Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/100529141",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "TSRI Fund"
+    ]
+}

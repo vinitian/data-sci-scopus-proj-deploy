@@ -1,0 +1,86 @@
+{
+    "eid": "2-s2.0-85077135953",
+    "title": "Fall Detection of Elderly Persons by Action Recognition Using Data Augmentation and State Transition Diagram",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Action recognition",
+        "Data augmentation",
+        "Elderly people",
+        "Fall detection"
+    ],
+    "authors": [
+        "Ayaka Takebayashi",
+        "Yuji Iwahori",
+        "Shinji Fukui",
+        "James J. Little",
+        "Lin Meng",
+        "Aili Wang",
+        "Boonserm Kijsirikul"
+    ],
+    "citedby-count": 1,
+    "ref-count": 8,
+    "ref-list": [
+        "A survey of applications and human motion recognition with microsoft kinect",
+        "Long short-term memory",
+        "Finding structure in time",
+        "Dropout: A simple way to prevent neural networks from overfitting",
+        "Realtime multi-person 2D pose estimation using part affinity fields",
+        "Posture and fall of old people"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Kusatsu",
+            "@id": "60105159",
+            "affilname": "Ritsumeikan University Biwako-Kusatsu Campus",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60105159",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Kariya",
+            "@id": "60026600",
+            "affilname": "Aichi University of Education",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026600",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Harbin",
+            "@id": "60024758",
+            "affilname": "Harbin University of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024758",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Vancouver",
+            "@id": "60010365",
+            "affilname": "The University of British Columbia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010365",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Kasugai",
+            "@id": "60007976",
+            "affilname": "Chubu University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007976",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "JSPS",
+        "Chubu University"
+    ]
+}

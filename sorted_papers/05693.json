@@ -1,0 +1,72 @@
+{
+    "eid": "2-s2.0-85077970087",
+    "title": "Robust Compression Technique for YOLOv3 on Real-Time Vehicle Detection",
+    "cover-date": "2019-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Deep learning",
+        "Object detection",
+        "Pruning",
+        "Vehicle detection"
+    ],
+    "authors": [
+        "Nattanon Krittayanawach",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 4,
+    "ref-count": 20,
+    "ref-list": [
+        "Object detection with discriminatively trained part-based models",
+        "Histograms of oriented gradients for human detection",
+        "Faster r-cnn: Towards realtime object detection with region proposal networks",
+        "You only look once: Unified, real-time object detection",
+        "Structured pruning of deep convolutional neural networks",
+        "Learning both weights and connections for efficient neural network",
+        "Rich feature hierarchies for accurate object detection and semantic segmentation",
+        "Fast r-cnn",
+        "Optimal brain damage",
+        "Thinet: A filter level pruning method for deep neural network compression",
+        "Deep residual learning for image recognition",
+        "Evaluating pruned object detection networks for real-time robot vision",
+        "Imagenet large scale visual recognition challenge"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

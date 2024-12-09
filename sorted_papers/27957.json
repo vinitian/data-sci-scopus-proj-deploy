@@ -1,0 +1,62 @@
+{
+    "eid": "2-s2.0-85059105002",
+    "title": "Thai Named-Entity Recognition using variational long short-term memory with conditional random field",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Deep learning",
+        "Named-Entity Recognition",
+        "Natural Language Processing"
+    ],
+    "authors": [
+        "Can Udomcharoenchaikit",
+        "Peerapon Vateekul",
+        "Prachya Boonkwan"
+    ],
+    "citedby-count": 1,
+    "ref-count": 16,
+    "ref-list": [
+        "Thai named entity extraction by incorporating maximum entropy model with simple heuristic information",
+        "Selecting the optimal feature sets for Thai named entity extraction",
+        "Thai named entity recognition based on conditional random fields",
+        "The effect of answer patterns for supervised named entity recognition in Thai",
+        "Natural language processing (Almost) from scratch",
+        "Named entity recognition with bidirectional LSTM-CNNs",
+        "Conditional random fields: Probabilistic models for segmenting and labeling sequence data",
+        "Learning long-term dependencies with gradient descent is difficult",
+        "Long short-term memory",
+        "A theoretically grounded application of dropout in recurrent neural networks",
+        "Dropout: A simple way to prevent neural networks from overfitting",
+        "TaLAPi-a Thai linguistically annotated corpus for language processing"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011525",
+            "affilname": "Thailand National Electronics and Computer Technology Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011525",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

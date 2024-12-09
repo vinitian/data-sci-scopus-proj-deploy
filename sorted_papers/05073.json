@@ -1,0 +1,132 @@
+{
+    "eid": "2-s2.0-85147234209",
+    "title": "Exome sequencing in a Swedish family with PMS2 mutation with varying penetrance of colorectal cancer: investigating the presence of genetic risk modifiers in colorectal cancer risk",
+    "cover-date": "2023-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Epidemiology",
+            "@code": "2713",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Oncology",
+            "@code": "2730",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Public Health, Environmental and Occupational Health",
+            "@code": "2739",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Cancer Research",
+            "@code": "1306",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [
+        "colorectal cancer",
+        "gene exome sequencing",
+        "genetic risk modifier",
+        "Lynch syndrome",
+        "PMS2"
+    ],
+    "authors": [
+        "Patrick Bryant",
+        "Sophie Walton Bernstedt",
+        "Jessada Thutkawkorapin",
+        "Ann Sofie Backman",
+        "Annika Lindblom",
+        "Kristina Lagerstedt-Robinson"
+    ],
+    "citedby-count": 1,
+    "ref-count": 49,
+    "ref-list": [
+        "A method and server for predicting damaging missense mutations.",
+        "SweGen: a whole-genome data resource of genetic variability in a cross-section of the Swedish population.",
+        "A global reference for human genetic variation.",
+        "Nuclear BAG-1 expression inhibits apoptosis in colorectal adenoma-derived epithelial cells.",
+        "Identification of deleterious mutations within three human genomes.",
+        "BAG-1 is up-regulated in colorectal tumour progression and promotes colorectal tumour cell survival through increased NF-kappaB activity.",
+        "Distribution and intensity of constraint in mammalian genomic sequence.",
+        "Identifying a high fraction of the human genome to be under selective constraint using GERP++.",
+        "Evidence for a recessive inheritance of Turcot's syndrome caused by compound heterozygous mutations within the PMS2 gene.",
+        "Phenotype associated with recessively inherited mutations in DNA mismatch repair (MMR) genes.",
+        "A framework for variation discovery and genotyping using next-generation DNA sequencing data.",
+        "Cancer risks for MLH1 and MSH2 mutation carriers.",
+        "Screening for the Lynch syndrome (hereditary nonpolyposis colorectal cancer).",
+        "Heterozygous mutations in PMS2 cause hereditary nonpolyposis colorectal carcinoma (Lynch syndrome).",
+        "Expression of BAG-1 is closely related to cell differentiation and TNM stage in esophageal cancer and its downregulation inhibits the proliferation and invasion of human esophageal carcinoma cells.",
+        "Cell death pathways in astrocytes with a modified model of oxygen-glucose deprivation.",
+        "Estimating the heritability of colorectal cancer.",
+        "The mutational constraint spectrum quantified from variation in 141,456 humans.",
+        "Nuclear BAG-1 expression reflects malignant potential in colorectal carcinomas.",
+        "A general framework for estimating the relative pathogenicity of human genetic variants.",
+        "Predicting the effects of coding non-synonymous variants on protein function using the SIFT algorithm.",
+        "Lynch syndrome (hereditary nonpolyposis colorectal cancer) diagnostics.",
+        "Mismatch repair gene mutation spectrum in the Swedish Lynch syndrome population.",
+        "Fast and accurate long-read alignment with Burrows-Wheeler transform.",
+        "Gene-specific function prediction for non-synonymous mutations in monogenic diabetes genes.",
+        "Resequencing of 200 human exomes identifies an excess of low-frequency non-synonymous coding variants.",
+        "The role of hPMS1 and hPMS2 in predisposing to colorectal cancer.",
+        "CTCF boundary remodels chromatin domain and drives aberrant HOX gene transcription in acute myeloid leukemia.",
+        "The genome analysis toolkit: a MapReduce framework for analyzing next-generation DNA sequencing data.",
+        "Deregulation of a possible tumour suppressor gene, ZC3H12D, by translocation of IGK@ in transformed follicular lymphoma with t(2;6)(p12;q25).",
+        "Drastic genetic instability of tumors and normal tissues in Turcot syndrome.",
+        "Cancer incidence and survival in Lynch syndrome patients receiving colonoscopic and gynaecological surveillance: first report from the prospective Lynch syndrome database.",
+        "Mismatch repair gene PMS2: disease-causing germline mutations are frequent in patients whose tumors stain negative for PMS2 protein, but paralogous genes obscure mutation detection and interpretation.",
+        "Reference sequence (RefSeq) database at NCBI: current status, taxonomic expansion, and functional annotation.",
+        "Cloning and characterization of a novel human dual flavin reductase.",
+        "Predicting the functional impact of protein mutations: application to cancer genomics.",
+        "MutationTaster evaluates disease-causing potential of sequence alterations.",
+        "dbSNP: the NCBI database of genetic variation.",
+        "An integrative approach to predicting the functional effects of non-coding and coding sequence variation.",
+        "BAG-1 suppresses expression of the key regulatory cytokine transforming growth factor \u03b2 (TGF-\u03b21) in colorectal tumour cells.",
+        "Genome-wide association studies of cancer: current insights and future perspectives.",
+        "Dicer suppresses cytoskeleton remodeling and tumorigenesis of colorectal epithelium by miR-324-5p mediated suppression of HMGXB3 and WASF-2.",
+        "Cancer risks for PMS2-associated Lynch syndrome.",
+        "cDNA cloning and functional analysis of the p97 subunit of the 26S proteasome, a polypeptide identical to the type-1 tumor-necrosis-factor-receptor-associated protein-2/55.11.",
+        "Lynch syndrome caused by germline PMS2 mutations: delineating the cancer risk.",
+        "ANNOVAR: functional annotation of genetic variants from high-throughput sequencing data.",
+        "The significance of TIMD4 expression in clear cell renal cell carcinoma."
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Stockholm",
+            "@id": "60019295",
+            "affilname": "Karolinska Universitetssjukhuset",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019295",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "Stockholm",
+            "@id": "60012311",
+            "affilname": "Karolinska Institutet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012311",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "Solna",
+            "@id": "60237270",
+            "affilname": "Science for Life Laboratory",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60237270",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "129139696",
+            "affilname": "Chulalongkorn 20 University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129139696",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Swedish Cancer Society",
+        "Swedish Research Council",
+        "Cancer Research Funds of Radiumhemmet"
+    ]
+}

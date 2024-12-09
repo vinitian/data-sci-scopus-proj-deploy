@@ -1,0 +1,281 @@
+{
+    "eid": "2-s2.0-85150967176",
+    "title": "Biomarker-guided intervention to prevent acute kidney injury after major surgery (BigpAK-2 trial): Study protocol for an international, prospective, randomised controlled multicentre trial",
+    "cover-date": "2023-03-27",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Medicine (all)",
+            "@code": "2700",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Acute renal failure",
+        "Adult intensive & critical care",
+        "Chronic renal failure",
+        "INTENSIVE & CRITICAL CARE",
+        "SURGERY"
+    ],
+    "authors": [
+        "Thilo Von Groote",
+        "Melanie Meersch",
+        "Stefano Romagnoli",
+        "Marlies Ostermann",
+        "Javier Ripoll\u00e9s-Melchor",
+        "Antoine Guillaume Schneider",
+        "Wim Vandenberghe",
+        "C\u00e9line Monard",
+        "Silvia De Rosa",
+        "Lucia Cattin",
+        "Tim Rahmel",
+        "Michael Adamzik",
+        "Diego Parise",
+        "Angel Candela-Toha",
+        "Jan Gerrit Haaker",
+        "Ulrich G\u00f6bel",
+        "Alice Bernard",
+        "Nuttha Lumlertgul",
+        "Paula Fern\u00e1ndez-Valdes-Bango",
+        "Irene Romero Bhathal",
+        "A. Suarez-De-La-Rica",
+        "Jan Larmann",
+        "Gianluca Villa",
+        "Savino Spadaro",
+        "Hinnerk Wulf",
+        "Christian Arndt",
+        "Christian Putensen",
+        "Raquel Garc\u00eda-\u00c1lvarez",
+        "Timo Brandenburger",
+        "Antonio Siniscalchi",
+        "Richard Ellerkmann",
+        "Florian Espeter",
+        "Christian Porschen",
+        "Mahan Sadjadi",
+        "Khaschayar Saadat-Gilani",
+        "Raphael Weiss",
+        "Joachim Gerss",
+        "John Kellum",
+        "Alexander Zarbock"
+    ],
+    "citedby-count": 0,
+    "ref-count": 13,
+    "ref-list": [
+        "Incidence and associations of acute kidney injury after major abdominal surgery",
+        "Postoperative acute kidney injury in high-risk patients undergoing major abdominal surgery",
+        "EPIdemiology of surgery-associated acute kidney injury (EPIS-AKI): Study protocol for a multicentre, observational trial",
+        "Acute kidney injury is associated with increased long-term mortality after cardiothoracic surgery",
+        "Epidemiology, outcomes, and management of acute kidney injury in the vascular surgery patient",
+        "Acute kidney injury and chronic kidney disease as interconnected syndromes",
+        "A multinational observational study exploring adherence with the kidney disease: Improving global outcomes recommendations for prevention of acute kidney injury after cardiac surgery",
+        "Using urinary biomarkers to reduce acute kidney injury following cardiac surgery",
+        "Prevention of cardiac surgery-associated AKI by implementing the KDIGO guidelines in high risk patients identified by biomarkers: The prevaki randomized controlled trial",
+        "Prevention of cardiac surgery-associated acute kidney injury by implementing the KDIGO guidelines in high-risk patients identified by biomarkers: The prevaki-multicenter randomized controlled trial",
+        "Biomarker-Guided intervention to prevent acute kidney injury after major surgery: The prospective randomized bigpak study",
+        "Consort 2010 statement: Updated guidelines for reporting parallel group randomised trials",
+        "World Medical association Declaration of Helsinki: Ethical principles for medical research involving human subjects"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Madrid",
+            "@id": "60101757",
+            "affilname": "Hospital Universitario Infanta Leonor",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60101757",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Ghent",
+            "@id": "60033316",
+            "affilname": "Universiteit Gent",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60033316",
+            "affiliation-country": "Belgium"
+        },
+        {
+            "affiliation-city": "Bonn",
+            "@id": "60030465",
+            "affilname": "Universit\u00e4tsklinikum Bonn",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030465",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Bologna",
+            "@id": "60028218",
+            "affilname": "Alma Mater Studiorum Universit\u00e0 di Bologna",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028218",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Madrid",
+            "@id": "60028162",
+            "affilname": "Hospital Universitario La Paz",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028162",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Dusseldorf",
+            "@id": "60025310",
+            "affilname": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025310",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Vicenza",
+            "@id": "60025304",
+            "affilname": "Ospedale San Bortolo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025304",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Ferrara",
+            "@id": "60024690",
+            "affilname": "University of Ferrara",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024690",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Lausanne",
+            "@id": "60023561",
+            "affilname": "Centre Hospitalier Universitaire Vaudois",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023561",
+            "affiliation-country": "Switzerland"
+        },
+        {
+            "affiliation-city": "Tubingen",
+            "@id": "60022653",
+            "affilname": "Universit\u00e4tsklinikum und Medizinische Fakult\u00e4t T\u00fcbingen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022653",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Florence",
+            "@id": "60021921",
+            "affilname": "Azienda Ospedaliera Careggi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021921",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Madrid",
+            "@id": "60021609",
+            "affilname": "Hospital Universitario Ram\u00f3n y Cajal",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021609",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Santander",
+            "@id": "60020591",
+            "affilname": "Hospital Universitario Marqu\u00e9s de Valdecilla",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020591",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Bochum",
+            "@id": "60019630",
+            "affilname": "Universit\u00e4tsklinikum Knappschaftskrankenhaus Bochum GmbH",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019630",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Lyon",
+            "@id": "60018139",
+            "affilname": "Hopital Edouard Herriot",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018139",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Trento",
+            "@id": "60015986",
+            "affilname": "Universit\u00e0 di Trento",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015986",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Pittsburgh",
+            "@id": "60015543",
+            "affilname": "University of Pittsburgh",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015543",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Marburg",
+            "@id": "60012556",
+            "affilname": "Philipps-Universit\u00e4t Marburg",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012556",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Essen",
+            "@id": "60007896",
+            "affilname": "Universit\u00e4tsklinikum Essen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007896",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Munster",
+            "@id": "60006490",
+            "affilname": "Universit\u00e4tsklinikum M\u00fcnster",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006490",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60005518",
+            "affilname": "Guy's and St Thomas' NHS Foundation Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005518",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Heidelberg",
+            "@id": "60003280",
+            "affilname": "Universit\u00e4tsklinikum Heidelberg",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003280",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Munster",
+            "@id": "60001124",
+            "affilname": "St. Franziskus-Hospital M\u00fcnster",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001124",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Munster",
+            "@id": "60000401",
+            "affilname": "Westf\u00e4lische Wilhelms-Universit\u00e4t M\u00fcnster",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000401",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Dortmund",
+            "@id": "112803633",
+            "affilname": "Hospital Dortmund",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112803633",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Barcelona",
+            "@id": "112683564",
+            "affilname": "CONSORCIO MAR PARC DE SALUT DE BARCELONA",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112683564",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Madrid",
+            "@id": "101052126",
+            "affilname": "Hospital Universitario",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101052126",
+            "affiliation-country": "Spain"
+        }
+    ],
+    "funding": [
+        "Department of Anaesthesiology",
+        "Baxter",
+        "German Research Foundation"
+    ]
+}

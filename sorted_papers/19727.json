@@ -1,0 +1,100 @@
+{
+    "eid": "2-s2.0-85132269718",
+    "title": "Real-world sensor dataset for city inbound-outbound critical intersection analysis",
+    "cover-date": "2022-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Statistics and Probability",
+            "@code": "2613",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Education",
+            "@code": "3304",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Statistics, Probability and Uncertainty",
+            "@code": "1804",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Library and Information Sciences",
+            "@code": "3309",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Ei Ei Mon",
+        "Hideya Ochiai",
+        "Patrachart Komolkiti",
+        "Chaodit Aswakul"
+    ],
+    "citedby-count": 2,
+    "ref-count": 38,
+    "ref-list": [
+        "Inferring gas consumption and pollution emission of vehicles throughout a city",
+        "Effects of Traffic Sensor Location on Traffic State Estimation",
+        "Querying and Extracting Timeline Information from Road Traffic Sensor Data",
+        "Real-Time Movement-Based Traffic Volume Prediction at Signalized Intersections. Journal of Transportation Engineering",
+        "A systematic review of open government data initiatives",
+        "DRIVE Net: E-Science Transportation Platform for Data Sharing, Visualization, Modeling, and Analysis",
+        "Citywide Traffic Volume Estimation Using Trajectory Data",
+        "City-wide Traffic Volume Inference with Loop Detector Data and Taxi Trajectories",
+        "One-month beijing taxi GPS trajectory dataset with taxi IDs and vehicle status",
+        "Grab-Posisi: An Extensive Real-Life GPS Trajectory Dataset in Southeast Asia",
+        "A dataset of urban traffic flow for 13 Romanian cities amid lockdown and after ease of COVID19 related restrictions",
+        "Generation and Analysis of a Large-Scale Urban Vehicular Mobility Dataset",
+        "Microscopic traffic simulation using sumo",
+        "The Bologna Ringway Dataset: Improving Road Network Conversion in SUMO and Validating Urban Mobility via Navigation Services",
+        "Measuring signalized intersection performance in real-time with traffic sensors",
+        "Traffic data analysis on sathorn road with synchro optimization and traffic simulation",
+        "Segmentation of Vehicle Signatures from Inductive Loop Detector (ILD) Data for Real-time Traffic Monitoring",
+        "Real-world sensor dataset for city inbound-outbound critical intersection analysis",
+        "Data-driven intelligent transportation systems: A survey",
+        "Machine learning mastery with python",
+        "Evaluation indexes and correlation analysis of origination\u2013destination travel time of nanjing metro based on complex network method",
+        "Queue length estimation at signalized intersections based on magnetic sensors by different layout strategies",
+        "Using detection of vehicular presence to estimate shockwave speed and upstream traffics for a signalized intersection"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60103904",
+            "affilname": "University of Tokyo, Graduate School of Information Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103904",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "C2F",
+        "Second Century Fund",
+        "TEIN",
+        "Toyota Mobility Foundation",
+        "Chulalongkorn University"
+    ]
+}

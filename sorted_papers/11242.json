@@ -1,0 +1,100 @@
+{
+    "eid": "2-s2.0-85042374766",
+    "title": "Molecular simulations of a CO2/CO mixture in MIL-127",
+    "cover-date": "2018-03-16",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Physics and Astronomy (all)",
+            "@code": "3100",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Physical and Theoretical Chemistry",
+            "@code": "1606",
+            "@abbrev": "CHEM"
+        }
+    ],
+    "keywords": [
+        "Adsorption",
+        "CO",
+        "CO2",
+        "Diffusion",
+        "Metal organic frameworks",
+        "MIL-127",
+        "MOF",
+        "Molecular simulations",
+        "Selectivity"
+    ],
+    "authors": [
+        "Tatiya Chokbunpiam",
+        "Siegfried Fritzsche",
+        "Vudhichai Parasuk",
+        "J\u00fcrgen Caro",
+        "Suttichai Assabumrungrat"
+    ],
+    "citedby-count": 11,
+    "ref-count": 23,
+    "ref-list": [
+        "A review on contemporary metal-organic framework materials",
+        "Metal organic frameworks for separations",
+        "Diffusion in Nanoporous Materials",
+        "Efficient calculation of diffusion limitations in metal organic framework materials: a tool for identifying materials for kinetic separations",
+        "Diffusion of CH4 and H2 in ZIF-8",
+        "Iron (III) metal-organic frameworks as solid Lewis acids for the isomerization of \u03b1-pinene oxide",
+        "Synthesis of the biocompatible and highly stable MIL-127(Fe): from large scale synthesis to particle size control",
+        "Structural and elemental influence from various MOFs on the performance of Fe@C catalysts for Fischer-Tropsch synthesis",
+        "Direct accessibility of mixed-metal (III/II) acid sites through the rational synthesis of porous metal carboxylates",
+        "Theoretical study of carbon dioxide adsorption and diffusion in MIL-127(Fe) metal organic framework",
+        "Methane in zeolitic imidazolate framework ZIF-90: adsorption and diffusion by molecular dynamics and Gibbs ensemble Monte Carlo",
+        "Gate opening, diffusion, and adsorption of CO2and N2mixtures in ZIF-8",
+        "Direct determination of phase coexistence properties of fluids by Monte Carlo simulation in a new ensemble",
+        "A new two-constant equation of state",
+        "Understanding Molecular Simulation",
+        "Importance of ZIF-90 lattice flexibility on diffusion, permeation, and lattice structure for an adsorbed H2/CH4gas mixture: a re-examination by gibbs ensemble monte carlo and molecular dynamics simulations",
+        "Investigating the reasons for the significant influence of lattice flexibility on self-diffusivity of ethane in Zn(tbip)",
+        "Porous, rigid metal(III)-carboxylate metal-organic frameworks for the delivery of nitric oxide",
+        "Computer simulation of molecular dynamics: methodology, applications, and perspectives in chemistry",
+        "Is the Ewald summation still necessary? Pairwise alternatives to the accepted standard for long-range electrostatics",
+        "A short description of DL_POLY",
+        "Molecular dynamics study of the photodissociation of carbon monoxide from myoglobin: ligand dynamics in the first 10 ps"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022676",
+            "affilname": "Ramkhamhaeng University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022676",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Leipzig",
+            "@id": "60008042",
+            "affilname": "Universit\u00e4t Leipzig",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008042",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Hannover",
+            "@id": "60004935",
+            "affilname": "Gottfried Wilhelm Leibniz Universit\u00e4t Hannover",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004935",
+            "affiliation-country": "Germany"
+        }
+    ],
+    "funding": [
+        "Ratchadapisek Sompoch Endowment Fund",
+        "Thailand Research Fund and O\ufb03ce of the Higher Education Commission",
+        "Office of the Higher Education Commission, Ministry of Education",
+        "Chulalongkorn University",
+        "PERCH-CIC"
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "eid": "2-s2.0-85145964721",
+    "title": "Digital Twin for a Collaborative Painting Robot",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analytical Chemistry",
+            "@code": "1602",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "automation",
+        "collaborative robots",
+        "digital twin",
+        "Industry 4.0",
+        "painting",
+        "serial mechanisms",
+        "spray gun"
+    ],
+    "authors": [
+        "Ratchatin Chancharoen",
+        "Kantawatchr Chaiprabha",
+        "Lunchakorn Wuttisittikulkij",
+        "Widhyakorn Asdornwised",
+        "Muhammad Saadi",
+        "Gridsada Phanomchoeng"
+    ],
+    "citedby-count": 4,
+    "ref-count": 47,
+    "ref-list": [
+        "A robot arm digital twin utilising reinforcement learning",
+        "Digital Twin and Virtual Reality Based Methodology for Multi-Robot Manufacturing Cell Commissioning",
+        "Digital twin for adaptation of robots\u2019 behavior in flexible robotic assembly lines",
+        "Review of digital twin about concepts, technologies, and industrial applications",
+        "Digital Twin in manufacturing: A categorical literature review and classification",
+        "Digital twin\u2014The simulation aspect",
+        "Application of digital 3D models on urban planning and highway design",
+        "A Survey on Digital Twin: Definitions, Characteristics, Applications, and Design Implications",
+        "Research issues on product lifecycle management and information tracking using smart embedded systems",
+        "Product lifecycle management from its history to its new role",
+        "Life Cycle Simulation for the design of Product\u2013Service Systems",
+        "Optimally managing chemical plant operations: An example oriented by Industry 4.0 paradigms",
+        "Industry 4.0 synoptics controlled by IoT applications in Node-RED",
+        "The Vision-Based Data Reader in IoT System for Smart Factory",
+        "Accurate dynamic modeling and control parameters design of an industrial hybrid spray-painting robot",
+        "Workspace and dynamic performance evaluation of the parallel manipulators in a spray-painting equipment",
+        "Path Planning for Spray Painting Robot of Workpiece Surfaces",
+        "A Review on Electrical and Mechanical Technologies Used in Spray Painting Robots",
+        "Optimal Paint Gun Orientation in Spray Paint Applications\u2014Experimental Results",
+        "Toward optimal coverage of 2-dimensional surfaces embedded in r3: Choice of start curve",
+        "Trajectory Planning for Spray Painting Robot Based on Point Cloud Slicing Technique",
+        "Tool path planning for compound surfaces in spray forming processes",
+        "Paint deposition modeling for trajectory planning on automotive surfaces",
+        "Uniform coverage of automotive surface patches",
+        "Trajectory tracking control for a 3-DOF parallel manipulator using fractional-order PI\u03bbD\u03bccontrol",
+        "Singular-perturbation-based nonlinear hybrid control ofredundant parallel robot",
+        "Modeling and preview H\u221e control design for motion control of elastic-joint robots with uncertainties",
+        "Tracking control of robotic manipulators with uncertain kinematics and dynamics",
+        "Modeling, analysis, and advanced control in motion control systems\u2014Part III",
+        "Adaptive parameter estimation and control design for robot manipulators with finite-time convergence",
+        "Dynamic performance of industrial robot in corner path with CNC controller",
+        "Dynamic parameters identification of an industrial robot with and without payload",
+        "A generic method to optimize a redundant serial robotic manipulator\u2019s structure",
+        "Non-kinematic calibration of industrial robots using a rigid\u2013flexible coupling error model and a full pose measurement method",
+        "An ARX-based method for the vibration control of flexible beams manipulated by industrial robots",
+        "Connecting the CoppeliaSim robotics simulator to virtual reality",
+        "CoppeliaSim: Adaptable modular robot and its different locomotions simulation framework",
+        "A Custom Robotic ARM in CoppeliaSim",
+        "An Inverse Kinematics Demonstration of a Custom Robot using C# and CoppeliaSim",
+        "A digital twin-driven human-robot collaborative assembly approach in the wake of COVID-19",
+        "Digital Twin for Designing and Reconfiguring Human\u2013Robot Collaborative Assembly Lines",
+        "Determination of the Inverse Kinematics Branches of Solution Based on Joint Coordinates for Universal Robots-Like Serial Robot Architecture",
+        "Emergence of a new sector via a business ecosystem: A case study of Universal Robots and the collaborative robotics sector"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Lahore",
+            "@id": "60103839",
+            "affilname": "University of Central Punjab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103839",
+            "affiliation-country": "Pakistan"
+        }
+    ],
+    "funding": [
+        "National Research Council of Thailand"
+    ]
+}

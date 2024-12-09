@@ -1,0 +1,61 @@
+{
+    "eid": "2-s2.0-85041221394",
+    "title": "Comparative study of using different ionosphere models in Thailand for single-frequency GNSS users",
+    "cover-date": "2019-05-04",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computers in Earth Sciences",
+            "@code": "1903",
+            "@abbrev": "EART"
+        },
+        {
+            "@_fa": "true",
+            "$": "Earth and Planetary Sciences (miscellaneous)",
+            "@code": "1901",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [
+        "Bernese",
+        "GNSS",
+        "Ionosphere model"
+    ],
+    "authors": [
+        "Khunphut Prakanrattana",
+        "Chalermchon Satirapod"
+    ],
+    "citedby-count": 4,
+    "ref-count": 17,
+    "ref-list": [
+        "Higher-order ionospheric effects on the global positioning system observables and means of modeling them",
+        "Effect of Thai Ionospheric maps (THIM) model on the performance of network based RTK GPS in Thailand",
+        "Ionospheric time-delay algorithm for single-frequency GPS users",
+        "Residual analysis of atmospheric delay in low latitude region using network-based GPS positioning",
+        "Ionospheric error contribution to GNSS single-frequency navigation at the 2014 solar maximum",
+        "IONEX: The IONosphere Map EXchange Format Version 1",
+        "Diagnostics of equatorial and low latitude ionosphere by TEC mapping over Brazil",
+        "Regional ionosphere modelling with GPS and comparison with other techniques",
+        "Investigation of ionospheric TEC over China based on GNSS data",
+        "Evaluation of regional ionospheric grid model over China from dense GPS observations"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "DPT",
+        "Department of Lands",
+        "Department of Public Works and Town & Country Planning",
+        "Japan Aerospace Exploration Agency"
+    ]
+}

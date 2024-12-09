@@ -1,0 +1,119 @@
+{
+    "eid": "2-s2.0-85087327219",
+    "title": "Globular bundles and entangled network of proteins (CorA) by a coarse-grained Monte Carlo simulation",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biophysics",
+            "@code": "1304",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Structural Biology",
+            "@code": "1315",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [
+        "Coarse-grained model",
+        "effective dimension of self-assembly",
+        "Monte Carlo simulation",
+        "protein folding",
+        "Self-organizing structure of proteins (CorA)"
+    ],
+    "authors": [
+        "Warin Rangubpit",
+        "Sunan Kitjaruwankul",
+        "Panisak Boonamnaj",
+        "Pornthep Sompornpisut",
+        "R. B. Pandey"
+    ],
+    "citedby-count": 2,
+    "ref-count": 42,
+    "ref-list": [
+        "Functional diversity of protein fibrillar aggregates from physiology to RNA granules to neurodegenerative diseases",
+        "Protein self-assembly via supramolecular strategies",
+        "The physics of protein self-assembly",
+        "Natural biomolecules protein aggregation: Emerging strategies against amyloidogenesis",
+        "Nanostructures based on protein self-assembly: From hierarchical construction to bioinspired materials",
+        "Proteins evolve on the edge of supramolecular self-assembly",
+        "Self-assembly dynamics for the transition of a globular aggregate to a fibril network of lysozyme proteins via a coarse-grained Monte Carlo simulation",
+        "Self-Assembly of proteins: Towards supramolecular materials",
+        "Magnesium transport in Salmonella typhimurium: genetic characterization and cloning of three magnesium transport loci",
+        "MgtA and MgtB: prokaryotic P-type ATPases that mediate Mg2+influx",
+        "The CorA magnesium transporter gene family",
+        "Crystal structure of a divalent metal ion transporter CorA at 2.9 angstrom resolution",
+        "Crystal structure of the CorA Mg2+transporter",
+        "Probing structure-function relationships and gating mechanisms in the CorA Mg2+transport system",
+        "A structural basis for Mg2+homeostasis and the CorA translocation cycle",
+        "Structural Dynamics of the Magnesium-bound Conformation of CorA in a lipid bilayer",
+        "Molecular mechanism of Mg2+-dependent gating in CorA",
+        "Hydrophobic gating of ion permeation in magnesium channel CorA",
+        "Inner and outer coordination shells of Mg2+in CorA selectivity filter from Molecular Dynamics simulations",
+        "Cryo-EM structures of the magnesium channel CorA reveal symmetry break upon gating",
+        "An iris-like mechanism of pore dilation in the CorA magnesium transport system",
+        "Exploring the structure and function of Thermotoga maritima CorA reveals the mechanism of gating and ion selectivity in Co2+/Mg2+transport",
+        "Asymmetry in structural response of inner and outer transmembrane segments of CorA protein by a coarse-grain model",
+        "Thermal-induced folding and unfolding of a transmembrane protein (CorA)",
+        "Guiding protein aggregation with macromolecular crowding",
+        "The influence of macromolecular crowding and macromolecular confinement on biochemical reactions in physiological media",
+        "Macromolecular crowding: an important but neglected aspect of the intracellular environment",
+        "In silico minimalist approach to study 2D HP protein folding into an inhomogeneous space mimicking osmolyte effect: First trial in the search of foldameric backbones",
+        "A computational approach to studying protein folding problems considering the crucial role of the intracellular environment",
+        "Macromolecular crowding induces polypeptide com paction and decreases folding cooperativity",
+        "Effects of confinement on protein folding and protein stability",
+        "Beyond the excluded volume effects: mechanistic complexity of the crowded milieu",
+        "Aggregation and network formation in self-assembly of protein (H3.1) by a coarse-grained Monte Carlo simulation",
+        "Pair potentials for protein folding: choice of reference states and sensitivity of predicted native states to variations in the interaction schemes",
+        "Estimation of effective inter residue contact energies from protein crystal structures: quasi-chemical approximation",
+        "Residue-residue potentials with a favorable contact pair term for simulation and treading",
+        "Medium and long range interaction parameters between amino acids for predicting three dimensional structures of proteins",
+        "Knowledge-based potentials for protein folding: what can we learn from protein structures?",
+        "Statistical mechanics-based method to extract atomic distancedependent potentials from protein structures",
+        "Stability of peptide (P1, P2) binding to a graphene sheet via an all-atom to all-residue coarse-grained approach",
+        "Adsorption mechanism of single amino acid and surfactant molecules to Au {111} surfaces in aqueous solution: design rules for metal binding molecules"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Si Racha",
+            "@id": "60108674",
+            "affilname": "Kasetsart University Sriracha Campus",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60108674",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hattiesburg",
+            "@id": "60007027",
+            "affilname": "University of Southern Mississippi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007027",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn university dusadi phipat",
+        "Ratchadaphiseksomphot Endowment Fund",
+        "National Science Foundation",
+        "Chulalongkorn University"
+    ]
+}

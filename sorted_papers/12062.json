@@ -1,0 +1,115 @@
+{
+    "eid": "2-s2.0-85145967735",
+    "title": "Deployment of Smart Specimen Transport System Using RFID and NB-IoT Technologies for Hospital Laboratory",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analytical Chemistry",
+            "@code": "1602",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "NB-IoT technology",
+        "passive RFID tag",
+        "RFID",
+        "specimen transport box",
+        "specimen tube"
+    ],
+    "authors": [
+        "Ngoc Thien Le",
+        "Mya Myet Thwe Chit",
+        "Thanh Le Truong",
+        "Atchasai Siritantikorn",
+        "Narisorn Kongruttanachok",
+        "Widhyakorn Asdornwised",
+        "Surachai Chaitusaney",
+        "Watit Benjapolakul"
+    ],
+    "citedby-count": 2,
+    "ref-count": 39,
+    "ref-list": [
+        "RFID Monitoring and Accouting System in Health-care Facilities",
+        "RFID Technology for Management and Tracking: e-Health Applications",
+        "IoT-based tracking and tracing platform for prepackaged food supply chain",
+        "An IoT enabled Convenient Vaccine Cold box for Biomedical Use",
+        "Experimental Investigation of A Real-time Monitoring System for Cold Chain Logistics",
+        "Fabrication and characterization of an affordable conditioned bio-specimen transporter (conbiport) for urban areas",
+        "Validation of Temperature Preservation in Specimen Transportation Systems",
+        "Smart Container Design for Transporting Virus Sample in Remote Areas",
+        "Technologies applied in the monitoring and control of the temperature in the Cold Chain",
+        "A medicine cold chain monitor system based on LoRa wireless technology",
+        "Design of Concept for Transport and Monitoring of Biological Samples Using RFID Technology",
+        "Design of an Ultra-Compact UHF Passive RFID Tag Antenna for a Medical Sample Tube",
+        "An Automated Drug Delivery Tracking Device Utilizing RFID Technology",
+        "RFID technology for blood tracking: An experimental approach for benchmarking different devices",
+        "Hospital Automation RFID-Based Technology Stored In Smart Cards",
+        "Can we rely on out-of-hospital blood samples? A prospective interventional study on the pre-analytical stability of blood samples under prehospital emergency medicine conditions",
+        "Risk Management and Healthcare: IoT Technologies and Smart Monitoring System for a Good Cold Chain Management",
+        "Vaccine cold chain management and cold storage technology to address the challenges of vaccination programs",
+        "A New Specimen Management System Using RFID Technology",
+        "HoMeTrack: RFID-based Localization for Hospital Medicine Tracking System",
+        "Reliability Improvements to Healthcare Patient RFID Tracking with Multiple Tags",
+        "Performance Improvement in Hospital Management using RFID and ZigBee Technologies for Tracking and Monitoring Patients and Assets in Saudi Arabia",
+        "RFID applications in hospitals: A case study on a demonstration RFID project in a Taiwan hospital",
+        "Smart medical environment at the point of care: Auto-tracking clinical interventions at the bed side using RFID technology",
+        "Cost-Effective Implementation of a Temperature Traceability System Based on Smart RFID Tags and IoT Services",
+        "IoT based on secure personal healthcare using RFID technology and steganography",
+        "A novel deployment of smart Cold Chain system using 2G-RFID-Sys temperature monitoring in medicine Cold Chain based on Internet of Things",
+        "An Intelligent Surgery Information System Using RFID for Internet of Things",
+        "From NASA to EU: The evolution of the TRL scale in Public Sector Innovation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Digital Economy and Society Development Fund",
+        "Ministry of Digital Economy and Society",
+        "Ratchadapisek Somphot Fund for Center of Excellence in Artificial Intelligence",
+        "Chulalongkorn University"
+    ]
+}

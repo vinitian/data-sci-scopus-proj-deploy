@@ -1,0 +1,52 @@
+{
+    "eid": "2-s2.0-85151463939",
+    "title": "Reply",
+    "cover-date": "2023-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Hepatology",
+            "@code": "2721",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Gastroenterology",
+            "@code": "2715",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Sho Suzuki",
+        "Satimai Aniwan",
+        "Takuji Gotoda"
+    ],
+    "citedby-count": 0,
+    "ref-count": 6,
+    "ref-list": [],
+    "affiliation": [
+        {
+            "affiliation-city": "Otawara",
+            "@id": "60024740",
+            "affilname": "International University of Health and Welfare",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024740",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60006792",
+            "affilname": "Nihon University School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006792",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

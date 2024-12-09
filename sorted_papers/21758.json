@@ -1,0 +1,87 @@
+{
+    "eid": "2-s2.0-85090907363",
+    "title": "Draft genome sequence of Diaporthe sp. strain HANT25, an endophytic fungus producing Mycoepoxydiene",
+    "cover-date": "2020-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Immunology and Microbiology (miscellaneous)",
+            "@code": "2401",
+            "@abbrev": "IMMU"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Kan Tulsook",
+        "Duangnate Isarangkul",
+        "Nongluksna Sriubolmas",
+        "Prasat Kittakoop",
+        "Suthep Wiyakrutta"
+    ],
+    "citedby-count": 5,
+    "ref-count": 10,
+    "ref-list": [
+        "Diaporthe: a genus of endophytic, saprobic and plant pathogenic fungi",
+        "The genus Diaporthe: a rich source of diverse and bioactive metabolites",
+        "Cytotoxic mycoepoxydiene derivatives from an endophytic fungus Phomopsis sp. isolated from Hydnocarpus anthelminthicus",
+        "Mycoepoxydiene induces apoptosis and inhibits TPA-induced invasion in human cholangiocarcinoma cells via blocking NF-\uff4bB pathway",
+        "Mycoepoxydiene, a fungal polyketide, induces cell cycle arrest at the G2/M phase and apoptosis in HeLa cells",
+        "Mycoepoxydiene inhibits antigen-stimulated activation of mast cells and suppresses IgE-mediated anaphylaxis in mice",
+        "SOAPdenovo2: an empirically improved memory-efficient short-read de novo assembler",
+        "A fast, lock-free approach for efficient parallel counting of occurrences of k-mers",
+        "BUSCO: assessing genome assembly and annotation completeness"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60245220",
+            "affilname": "Chulabhorn Research Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60245220",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022464",
+            "affilname": "Chulabhorn Royal Academy",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022464",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60013698",
+            "affilname": "Thailand Ministry of Education",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013698",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60012718",
+            "affilname": "Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012718",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Development and Promotion of Science and Technology Talents Project",
+        "Mahidol University"
+    ]
+}

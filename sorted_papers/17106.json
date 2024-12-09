@@ -1,0 +1,108 @@
+{
+    "eid": "2-s2.0-85095603422",
+    "title": "Improved performance of detection and classification of 3-phase transmission line faults based on discrete wavelet transform and double-channel extreme learning machine",
+    "cover-date": "2021-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Classification",
+        "Discrete wavelet transform",
+        "Extreme learning machine",
+        "Power network",
+        "Protection system",
+        "Smart grid",
+        "Transmission lines"
+    ],
+    "authors": [
+        "Ejaz Ul Haq",
+        "Huang Jianjun",
+        "Kang Li",
+        "Fiaz Ahmad",
+        "David Banjerdpongchai",
+        "Tijiang Zhang"
+    ],
+    "citedby-count": 12,
+    "ref-count": 39,
+    "ref-list": [
+        "Fault detection, classification and location for transmission lines and distribution systems: a review on the methods",
+        "High-impedance fault detection in medium-voltage distribution network using computational intelligence-based classifiers",
+        "Accurate two-terminal transmission line fault location using traveling waves",
+        "Close accord on DWT performance and real-time implementation for protection applications",
+        "A new real-time fast discrete S-transform for cross-differential protection of shunt-compensated power systems",
+        "Traveling-wave-based fault-location algorithm for hybrid multiterminal circuits",
+        "Characteristic study and time-domain discrete-wavelet-transform based hybrid detection of series DC arc faults",
+        "DWT approach based differential relaying scheme for single circuit and double circuit transmission line protection including STATCOM",
+        "Sparse coding extreme learning machine for classi\u00fecation",
+        "k-NN based fault detection and classification methods for power transmission systems",
+        "Linear regression index-based method for fault detection and classification in power transmission line: linear regression index-based method for fault detection and classification in power transmission line",
+        "Classification of faults in power transmission lines using fuzzy-logic technique",
+        "An accurate fuzzy logic-based fault classification algorithm using voltage and current phase sequence components: FUZZY LOGIC-BASED FAULT CLASSIFICATION ALGORITHM",
+        "Transmission line using discrete wavelet transform and back-propagation neural network based on Clarke\u2019s transformation",
+        "Fault classification in power systems using EMD and SVM",
+        "Ultrafast transmission line fault detection using a DWT-based ANN",
+        "An improved fault detection classification and location scheme based on wavelet transform and artificial neural network for six phase transmission line using single end data only",
+        "Fuzzy logic based on-line fault detection and classification in transmission line",
+        "A decision tree-based method for fault classification in double-circuit transmission lines",
+        "ANN-based techniques for estimating fault location on transmission lines using prony method",
+        "Support vector machine based fault classification and location of a long transmission line",
+        "Accurate Single-Phase Fault-Location Method for Transmission Lines Based on K-Nearest Neighbor Algorithm Using One-End Voltage",
+        "Transmission line fault detection and classification using cross-correlation and k-nearest neighbour",
+        "Fault location recognition in transmission lines based on support vector machines",
+        "Detection and classification of faults in power transmission lines using functional analysis and computational intelligence",
+        "A novel wavelet transform aided neural network based transmission line fault analysis method",
+        "Energy and entropy-based feature extraction for locating fault on transmission lines by using neural network and wavelet packet decomposition",
+        "PCA versus LDA",
+        "ICA feature extraction for the location and classification of faults in high-voltage transmission lines",
+        "Mathematical morphology-based feature-extraction technique for detection and classification of faults on power transmission line",
+        "WRC-SDT based on-line detection method for offshore wind farm transmission line",
+        "Wigner distribution function and alienation coefficient-based transmission line protection scheme",
+        "Paresh Kumar Nayak b A DFT-ED based approach for detection and classification of faults in electric power transmission networks",
+        "Extreme learning machine: theory and applications",
+        "Fault detection and classification of shunt compensated transmission line using discrete wavelet transform and Naive Bayes classifier",
+        "Detection and classification of transmission line faults based on unsupervised feature learning and convolutional sparse autoencoder",
+        "Extreme learning machine: A new learning scheme of feedforward neural networks"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Zunyi",
+            "@id": "60073535",
+            "affilname": "Zunyi Medical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60073535",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Islamabad",
+            "@id": "60070604",
+            "affilname": "Air University Islamabad",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60070604",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Shenzhen",
+            "@id": "60000937",
+            "affilname": "Shenzhen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000937",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": []
+}

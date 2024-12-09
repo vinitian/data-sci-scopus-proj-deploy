@@ -1,0 +1,63 @@
+{
+    "eid": "2-s2.0-85060301990",
+    "title": "Atmospheric water estimation using GNSS precise point positioning method",
+    "cover-date": "2018-12-04",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "GNSS",
+        "PPP",
+        "PWV",
+        "Troposphere",
+        "Water content"
+    ],
+    "authors": [
+        "Chayanin Hankansujarit",
+        "Constantin Octavian Andrei"
+    ],
+    "citedby-count": 3,
+    "ref-count": 17,
+    "ref-list": [
+        "Assessment of time-series of troposphere zenith delays derived from the Global Data Assimilation System numerical weather model",
+        "GPS Meteorology: Mapping Zenith Wet Delays onto Precipitable Water",
+        "A comparative study of zenith tropospheric delay and precipitable water vapor estimates using scientific GPS processing software and web based automated PPP service",
+        "Real-time retrieval of precipitable water vapor from GPS precise point positioning",
+        "Multi-GNSS Meteorology: Real-Time Retrieving of Atmospheric Water Vapor from BeiDou, Galileo, GLONASS, and GPS Observations",
+        "Modeling tropospheric wet delays with dense and sparse network configurations for PPP-RTK",
+        "Precise point positioning for the efficient and robust analysis of GPS data from large networks",
+        "Performance analysis of the Precise Point Positioning technique at BUCU IGS station",
+        "The International GNSS Service in a changing landscape of Global Navigation Satellite Systems",
+        "Iono-sphere Effect Mitigation for Single-frequency Precise Point Positioning",
+        "Precise carrier phase-based point positioning of boat-mounted terrestrial remote sensing platform",
+        "Uncovering common misconceptions in GNSS Precise Point Positioning and its future prospect",
+        "A comparison of three PPP integer ambiguity resolution methods",
+        "Fast Precise Point Positioning: A System to Provide Corrections for Single and Multifrequency Navigation",
+        "Global and regional ionospheric corrections for faster PPP convergence",
+        "Development of the low-cost RTK-GPS receiver with an open source program package RTKLIB"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Helsinki",
+            "@id": "60101794",
+            "affilname": "Maanmittauslaitos",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60101794",
+            "affiliation-country": "Finland"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

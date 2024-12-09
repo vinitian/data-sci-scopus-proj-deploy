@@ -1,0 +1,72 @@
+{
+    "eid": "2-s2.0-85111159161",
+    "title": "Attentive Hybrid Collaborative Filtering for Rating Conversion in Recommender Systems",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Collaborative filtering",
+        "Neural networks",
+        "Rating conversion",
+        "Recommender systems"
+    ],
+    "authors": [
+        "Phannakan Tengkiattrakul",
+        "Saranya Maneeroj",
+        "Atsuhiro Takasu"
+    ],
+    "citedby-count": 0,
+    "ref-count": 24,
+    "ref-list": [
+        "Social attentional memory network: Modeling aspect-and friend-level differences in recommendation",
+        "Adaptive subgradient methods for online learning and stochastic optimization",
+        "Neural network matrix factorization",
+        "A survey on knowledge graph-based recommender systems",
+        "A study of methods for normalizing user ratings in collaborative filtering",
+        "Matrix factorization techniques for recommender systems",
+        "An efficient co-attention neural network for social recommendation",
+        "A new method of region embedding for text classification",
+        "RotatE: Knowledge graph embedding by relational rotation in complex space",
+        "Latent relational metric learning via memory-based attention for collaborative ranking",
+        "Translation-based embedding model for rating conversion in recommender systems",
+        "Attention is all you need",
+        "Knowledge graph embedding: A survey of approaches and applications",
+        "Knowledge graph embedding based collaborative filtering"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60028928",
+            "affilname": "Research Organization of Information and Systems National Institute of Informatics",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028928",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hayama",
+            "@id": "60021523",
+            "affilname": "The Graduate University for Advanced Studies",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021523",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

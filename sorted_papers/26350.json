@@ -1,0 +1,81 @@
+{
+    "eid": "2-s2.0-85119182320",
+    "title": "Bootstrapping Large-Scale Fine-Grained Contextual Advertising Classifier from Wikipedia",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Language and Linguistics",
+            "@code": "1203",
+            "@abbrev": "ARTS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Linguistics and Language",
+            "@code": "3310",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Yiping Jin",
+        "Vishakha Kadam",
+        "Dittaya Wanvarie"
+    ],
+    "citedby-count": 1,
+    "ref-count": 22,
+    "ref-list": [
+        "Visualizing wikipedia for interactive exploration",
+        "A semantic approach to contextual advertising",
+        "Importance of semantic representation: Dataless classification",
+        "Bert: Pre-training of deep bidirectional transformers for language understanding",
+        "Automatically assigning wikipedia articles to macrocategories",
+        "Overcoming the brittleness bottleneck using wikipedia: Enhancing text categorization with encyclopedic knowledge",
+        "Computing semantic relatedness using wikipediabased explicit semantic analysis",
+        "Combining lightly-supervised text classification models for accurate contextual advertising",
+        "Learning from noisy out-of-domain corpus using dataless classification",
+        "Incorporating word embeddings into open directory project based large-scale classification",
+        "What's in wikipedia? mapping topics and conflict using socially annotated category structure",
+        "Newsweeder: Learning to filter netnews",
+        "Distributed representations of sentences and documents",
+        "Semantic contextual advertising based on the open directory project",
+        "Seed-guided topic model for document filtering and classification",
+        "The sum of all human knowledge: A systematic review of scholarly research on the content of wikipedia",
+        "Recursive deep models for semantic compositionality over a sentiment treebank",
+        "Chimera: Large-scale classification using machine learning, rules, and crowdsourcing",
+        "Baselines and bigrams: Simple, good sentiment and topic classification",
+        "Character-level convolutional networks for text classification",
+        "Improving semisupervised text classification by using wikipedia knowledge"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "125848645",
+            "affilname": "Knorex",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125848645",
+            "affiliation-country": "Singapore"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "eid": "2-s2.0-85107030652",
+    "title": "Automatic Adaptive Recovery Stress ES-FEM for Lower-Bound Limit Load Analysis of Structures",
+    "cover-date": "2022-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Automatic adaptive mesh",
+        "elastic compensation",
+        "limit analysis",
+        "recovery stress field",
+        "smoothed finite element"
+    ],
+    "authors": [
+        "Vu Hoang Le",
+        "Sawekchai Tangaramvong",
+        "Loc Vinh Tran"
+    ],
+    "citedby-count": 3,
+    "ref-count": 60,
+    "ref-list": [
+        "Extension of the Linear Matching Method to frame structures made from a material that exhibits softening",
+        "Complementarity problems in structural engineering: an overview",
+        "A finite element formulation of the rigid\u2013plastic limit analysis problem",
+        "Elastic\u2013plastic fracture mechanics",
+        "Simplified limit analysis of pipelines with multi-defects",
+        "Limit analysis of structures containing flaws based on a modified elastic compensation method",
+        "Computation of collapse states with von Mises type yield condition",
+        "Mesh adaptive computation of upper and lower bounds in limit analysis",
+        "A convergent adaptive algorithm for Poisson\u2019s equation",
+        "Limit analysis of frictional block assemblies as a mathematical program with complementarity constraints",
+        "Efficient implementation of adaptive P1-FEM in Matlab",
+        "Limit analysis of masonry block structures with non-associative frictional joints using linear programming",
+        "Simplified lower bound limit analysis of transversely loaded thin plates using generalised yield criteria",
+        "An uncertainty model of acoustic metamaterials with random parameters",
+        "Mid-frequency acoustic analysis using edge-based smoothed tetrahedron radial point interpolation methods",
+        "Plastic limit pressures for cracked pipes using finite element limit analyses",
+        "Yield-stress based error indicator for adaptive quasi-static yield design of structures",
+        "Limit analysis of plates and slabs using a meshless equilibrium formulation",
+        "Computation of limit load using edge-based smoothed finite element method and second-order cone programming",
+        "Optimal balance between mass and smoothed stiffness in simulation of acoustic problems",
+        "Volumetric locking issue with uncertainty in the design of locally resonant acoustic metamaterials",
+        "An ultra-accurate numerical method in the design of liquid phononic crystals with hard inclusion",
+        "An efficient algorithm to analyze wave propagation in fluid/solid and solid/fluid phononic crystals",
+        "An overview on meshfree methods: for computational solid mechanics",
+        "A smoothed finite element method for mechanics problems",
+        "An edge-based smoothed finite element method (ES-FEM) for static, free and forced vibration analyses of solids",
+        "A smoothed finite element method (S-FEM) for large-deformation elastoplastic analysis",
+        "A method of estimating limit loads by iterative elastic analysis. I\u2013Simple examples",
+        "The elastic compensation method for limit and shakedown analysis: A review",
+        "A matrix structural theory of piecewise linear elastoplasticity with interacting yield planes",
+        "Mathematical programming applications to engineering plastic analysis",
+        "Lower bound limit analysis of cohesive-frictional materials using second-order cone programming",
+        "Upper bound limit analysis using simplex strain elements and second-order cone programming",
+        "An iterative elastic SBFE approach for collapse load analysis of inelastic structures",
+        "Review of limit loads of structures containing defects",
+        "Smoothed finite element approach for kinematic limit analysis of cohesive frictional materials",
+        "Limit and shakedown analysis of nozzle/cylinder intersections under internal pressure and in-plane moment loading",
+        "On numerically accurate finite element solutions in the fully plastic range",
+        "An edge-based finite element method (ES-FEM) with adaptive scaled-bubble functions for plane strain limit analysis",
+        "An adaptive singular ES-FEM for mechanics problems with singular field of arbitrary order",
+        "A polytree-based adaptive approach to limit analysis of cracked structures",
+        "An adaptive selective ES-FEM for plastic collapse analysis",
+        "Computation of limit and shakedown loads using a node-based smoothed finite element method",
+        "Limit state solutions, based upon linear elastic solutions with a spatially varying elastic modulus",
+        "Limit analysis for a general class of yield conditions",
+        "\u00dcber die h\u00e4rte plastischer k\u00f6rper. Nachrichten von der Gesellschaft der Wissenschaften zu G\u00f6ttingen",
+        "Algorithms for refining triangular grids suitable for adaptive and multigrid techniques",
+        "Numerical method for lower-bound solution of the rigid-plastic limit analysis problem",
+        "An FE-MPEC approach for limit load evaluation in the presence of contact and displacement constraints",
+        "A direct complementarity approach for the elastoplastic analysis of plane stress and plane strain structures",
+        "An edge-based smoothed finite element method for primal\u2013dual shakedown analysis of structures",
+        "Limit analysis of cracked structures by mathematical programming and finite element technique",
+        "Limit analysis based on a modified elastic compensation method for nozzle-to-cylinder junctions",
+        "Elastic modulus reduction method for limit analysis of thin plate and shell structures",
+        "Elastic modulus reduction method for limit analysis considering initial constant and proportional loadings",
+        "Smoothed finite element methods (S-FEM): An overview and recent developments",
+        "A combination of singular cell-based smoothed radial point interpolation method and FEM in solving fracture problem"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60078563",
+            "affilname": "Ton-Duc-Thang University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60078563",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "128660732",
+            "affilname": "Faculty of Civil Engineering Mientrung University of Civil Engineering",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/128660732",
+            "affiliation-country": "Viet Nam"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

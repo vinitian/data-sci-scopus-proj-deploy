@@ -1,0 +1,62 @@
+{
+    "eid": "2-s2.0-84928319366",
+    "title": "3DFTL: A three-level demandbased translation strategy for flash device",
+    "cover-date": "2015-03-30",
+    "subject-areas": [
+        {
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208"
+        },
+        {
+            "$": "Condensed Matter Physics",
+            "@code": "3104"
+        },
+        {
+            "$": "Electronic",
+            "@code": "2504"
+        }
+    ],
+    "keywords": [
+        "Cache",
+        "Compression",
+        "Flash memory",
+        "FTL",
+        "MLC",
+        "Three-level"
+    ],
+    "authors": [
+        "Peera Thontirawong"
+    ],
+    "citedby-count": 0,
+    "ref-count": 7,
+    "ref-list": [
+        "A survey of address translation technologies for flash memories",
+        "DFTL: A flash translation layer employing demand-based caching of page-level address mappings",
+        "Write off-loading: Practical power management for enterprise storage",
+        "A two-level caching mechanism for demand-based page-level address mapping in NAND flash memory storage systems",
+        "SCFTL: An efficient caching strategy for page-level flash translation layer"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Singapore City",
+            "affilname": "A-Star, Data Storage Institute",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "affilname": "National University of Singapore",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Amphoe Khlong Luang",
+            "affilname": "Asian Institute of Technology Thailand",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

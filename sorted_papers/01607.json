@@ -1,0 +1,74 @@
+{
+    "eid": "2-s2.0-85114001060",
+    "title": "Artificial Neural Network (ANN) based Classification of High and Low PAPR OFDM signals",
+    "cover-date": "2021-06-27",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "5G",
+        "ANN",
+        "Classifier",
+        "OFDM",
+        "PAPR"
+    ],
+    "authors": [
+        "Rafee Al Ahsan",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 3,
+    "ref-count": 13,
+    "ref-list": [
+        "5G is real: Evaluating the compliance of the 3gpp 5g new radio system with the itu imt-2020 requirements",
+        "A gui based self-learning tool for polar codes using successive cancellation and list decoders",
+        "PA-efficiency-aware hybrid papr reduction for f-OFDM systems with ica based blind equalization",
+        "A review of partial transmit sequence for papr reduction in the OFDM systems",
+        "Advanced slm scheme based on discrete forest optimization algorithm for papr minimization in ufmc waveform",
+        "Low-complexity tone reservation scheme using pre-generated peak-canceling signals",
+        "Extreme learning machine-based tone reservation scheme for OFDM systems",
+        "An artificial deep neural network for the binary classification of network traffic",
+        "Adam: A method for stochastic optimization",
+        "Follow-the-regularized-leader and mirror descent: Equivalence theorems and l1 regularization",
+        "Cohen's kappa coefficient as a performance measure for feature selection"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University",
+        "TSRI"
+    ]
+}

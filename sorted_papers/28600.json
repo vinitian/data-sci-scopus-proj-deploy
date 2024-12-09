@@ -1,0 +1,121 @@
+{
+    "eid": "2-s2.0-85083654590",
+    "title": "Structural dynamics and susceptibility of anti-HIV drugs against HBV reverse transcriptase",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Structural Biology",
+            "@code": "1315",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [
+        "Antiviral drug discovery",
+        "hepatitis B virus",
+        "nucleoside analogue inhibitors",
+        "reverse transcriptase"
+    ],
+    "authors": [
+        "Jirayu Kammarabutr",
+        "Panupong Mahalapbutr",
+        "Hisashi Okumura",
+        "Peter Wolschann",
+        "Thanyada Rungrotmongkol"
+    ],
+    "citedby-count": 2,
+    "ref-count": 49,
+    "ref-list": [
+        "Zidovudine inhibits hepatitis B virus replication",
+        "Drugs to treat viral hepatitis",
+        "Hepatitis B virus (HBV): The life-cycle and assembly of a complex virus",
+        "Modified replica exchange simulation methods for local structure refinement",
+        "Alanine scanning combined with interaction entropy studying the differences of binding mechanism on HIV-1 and HIV-2 proteases with inhibitor",
+        "Computational model of hepatitis B virus DNA polymerase: Molecular dynamics and docking to understand resistant mutations",
+        "Structures of HIV-1 RT-RNA/DNA ternary complexes with dATP and nevirapine reveal conformational flexibility of RNA/DNA: Insights into requirements for RNase H cleavage",
+        "A stochastic algorithm for the isobaric\u2013isothermal ensemble with Ewald summations for all long range forces",
+        "Hepatitis B virus infection",
+        "PDB2PQR: An automated pipeline for the setup of Poisson\u2013Boltzmann electrostatics calculations",
+        "Drugs for HIV infection",
+        "Tenofovir alafenamide: A review of its use in the treatment of HIV-1 infection",
+        "HBV life cycle and novel drug targets",
+        "Structure of a covalently trapped catalytic complex of HIV-1 reverse transcriptase: Implications for drug resistance",
+        "Stavudine",
+        "Potential energy functions for atomic-level simulations of water and organic and biomolecular systems",
+        "Low susceptibility of asunaprevir towards R155K and D168A point mutations in HCV NS3/4A protease: A molecular dynamics simulation",
+        "Adverse effects of oral antiviral therapy in chronic hepatitis B",
+        "Tenofovir disoproxil fumarate",
+        "Lamivudine (3TC) phosphorylation and drug interactions in vitro",
+        "A controlled trial of zidovudine in primary human immunodeficiency virus infection",
+        "Stavudine resistance: An update on susceptibility following prolonged therapy",
+        "Atomistic mechanisms underlying the activation of the G protein-coupled sweet receptor heterodimer by sugar alcohol recognition",
+        "A theoretical study on the molecular encapsulation of luteolin and pinocembrin with various derivatized beta-cyclodextrins",
+        "Butoxy mansonone G inhibits STAT3 and Akt signaling pathways in non-small cell lung cancers: Combined experimental and theoretical investigations",
+        "A review of the toxicity of HIV medications",
+        "Review of tenofovir-emtricitabine",
+        "Key binding and susceptibility of NS3/4A serine protease inhibitors against hepatitis C virus",
+        "Settle: An analytical version of the SHAKE and RATTLE algorithm for rigid water models",
+        "Is it possible to stop nucleos(t)ide analogue treatment in chronic hepatitis B patients?",
+        "Computational screening of fatty acid synthase inhibitors against thioesterase domain",
+        "Molecular dynamics, Monte Carlo simulations, and Langevin dynamics: A computational review",
+        "Convergence and sampling efficiency in replica exchange simulations of peptide folding in explicit solvent",
+        "Didanosine",
+        "Role of R292K mutation in influenza H7N9 neuraminidase toward oseltamivir susceptibility: MD and MM/PB (GB) SA study",
+        "Adefovir dipivoxil: A new antiviral agent for the treatment of hepatitis B virus infection",
+        "An overview of the Amber biomolecular simulation package",
+        "Resistance profile of entecavir in patients with chronic hepatitis B",
+        "Telbivudine, a nucleoside analog inhibitor of HBV polymerase, has a different in vitro cross-resistance profile than the nucleotide analog inhibitors adefovir and tenofovir",
+        "Exploring the potency of currently used drugs against HIV-1 protease of subtype D variant by using multiscale simulations",
+        "Replica-exchange molecular dynamics method for protein folding",
+        "4\u2032-modified nucleoside analogs: Potent inhibitors active against entecavir\u2010resistant hepatitis B virus",
+        "Chronic hepatitis B infection: A review",
+        "Differential binding of tenofovir and adefovir to reverse transcriptase of hepatitis B virus",
+        "New strategy for identifying potential natural HIV-1 non-nucleoside reverse transcriptase inhibitors against drug-resistance: An in silico study",
+        "SWISS-MODEL: Homology modelling of protein structures and complexes",
+        "Modeling the functional state of the reverse transcriptase of hepatitis B virus and its application to probing drug-protein interaction"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Vienna",
+            "@id": "60025988",
+            "affilname": "Universit\u00e4t Wien",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025988",
+            "affiliation-country": "Austria"
+        },
+        {
+            "affiliation-city": "Okazaki",
+            "@id": "60033235",
+            "affilname": "National Institutes of Natural Sciences - Institute for Molecular Science",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60033235",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Hayama",
+            "@id": "60021523",
+            "affilname": "The Graduate University for Advanced Studies",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021523",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Department of Biochemistry",
+        "Institute for Molecular Science International Internship Program in Asia",
+        "Ratchadaphiseksomphot Endowment Fund",
+        "Chulalongkorn University",
+        "National Science and Technology Development Agency",
+        "Faculty of Science, CU"
+    ]
+}

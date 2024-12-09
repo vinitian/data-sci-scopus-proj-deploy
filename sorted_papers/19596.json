@@ -1,0 +1,106 @@
+{
+    "eid": "2-s2.0-85095121939",
+    "title": "Nocardia terrae sp. nov., an actinomycete isolated from soil in Thailand",
+    "cover-date": "2021-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Microbiology",
+            "@code": "2404",
+            "@abbrev": "IMMU"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [
+        "Actinomycetes",
+        "Nocardia terrae",
+        "Nocardiaceae",
+        "Soil"
+    ],
+    "authors": [
+        "Pawina Kanchanasin",
+        "Masahiro Yuki",
+        "Takuji Kudo",
+        "Moriya Ohkuma",
+        "Wongsakorn Phongsopitanun",
+        "Somboon Tanasupawat"
+    ],
+    "citedby-count": 2,
+    "ref-count": 44,
+    "ref-list": [
+        "Actinomycetes from Red Sea sponges: sources for chemical and phylogenetic diversity",
+        "The RAST Server: Rapid annotations using subsystems technology",
+        "SEED servers: high-performance access to the SEED genomes, annotations, and metabolic models",
+        "SPAdes: a new genome assembly algorithm and its applications to single-cell sequencing",
+        "antiSMASH 5.0: updates to the secondary metabolite genome mining pipeline",
+        "Distribution of menaquinones in actinomycetes and corynebacteria",
+        "Evolutionary trees from DNA sequences: a maximum likelihood approach",
+        "Confidence limits on phylogenies: an approach using the bootstrap",
+        "Nocardia aciditolerans sp. nov., isolated from a spruce forest soil",
+        "Actinomycete systematics: an unfinished synthesis",
+        "Nocardia coeliaca, Nocardia autotrophica, and the nocardin strain",
+        "DNA-DNA hybridization values and their relationship to whole genome sequence similarities",
+        "Humic acid-vitamin agar, a new medium for the selective isolation of soil actinomycetes",
+        "Nocardia concava sp. nov., isolated from Japanese patients",
+        "A simple method for estimating evolutionary rates of base substitutions through comparative studies of nucleotide sequences",
+        "Quantitative phyletics and the evolution of anurans",
+        "Identification of Pseudomonas pyocyanea by the oxidase reaction",
+        "Nocardia seriolae sp. nov. causing nocardiosis of cultured fish",
+        "MEGA7: molecular evolutionary genetics analysis version 7.0 for bigger datasets",
+        "16S/23S rRNA sequencing",
+        "Chemical composition as a criterion in the classification of aerobic actinomycetes",
+        "Gordonia westfalica sp. nov., a novel rubber-degrading actinomycete",
+        "TYGS is an automated high-throughput platform for state-of-the-art genome-based taxonomy",
+        "Genome sequence-based species delimitation with confidence intervals and improved distance functions",
+        "An integrated procedure for the extraction of bacterial isoprenoid quinones and polar lipids",
+        "Shifting the genomic gold standard for the prokaryotic species definition",
+        "JSpeciesWS: a web server for prokaryotic species circumscription based on pairwise genome comparison",
+        "The neighbor-joining method: a new method for reconstructing phylogenetic trees",
+        "Nocardia goodfellowii sp. nov. and Nocardia thraciensis sp. nov., isolated from soil",
+        "Methods for characterization of Streptomyces species",
+        "Simplified approach to identification of aerobic actinomycetes by thin-layer chromatography",
+        "Determination of DNA base composition by reversed-phase high-performance liquid chromatography",
+        "Mycolic acid composition and thermally adaptative changes in Nocardia asteroides",
+        "16S ribosomal DNA amplification for phylogenetic study",
+        "Chapter XI actinomycetes",
+        "Introducing EzBioCloud: A taxonomically united database of 16S rRNA and whole genome assemblies",
+        "Nocardia yunnanensis sp. nov., an actinomycete isolated from a soil sample"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Tsukuba",
+            "@id": "60211264",
+            "affilname": "Riken BRC Microbe Division (JCM)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60211264",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "Silpakorn University"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "eid": "2-s2.0-85162944628",
+    "title": "Design and Implementation of a FIX Protocol Offload Engine for SET Market Data",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "FIX protocol",
+        "FPGA",
+        "Market data processor"
+    ],
+    "authors": [
+        "Norawit Kietthanakorn",
+        "Ratchanon Leung-On",
+        "Boonchuay Supmonchai"
+    ],
+    "citedby-count": 0,
+    "ref-count": 20,
+    "ref-list": [
+        "A limit order book model for latency arbitrage",
+        "Big bucks from small change",
+        "High-Frequency Trading: A White Paper",
+        "Pursuit of Ultra-Low Latency: FPGA in High-Frequency Trading",
+        "FPGAs in the Financial Services Industry",
+        "An accelerator for decoding market data based on FPGA",
+        "A pipelined market data processing architecture to overcome financial data dependency",
+        "A 10 GbE TCP/IP hardware stack as part of a protocol acceleration platform",
+        "Hardware TCP Offload Engine based on 10-Gbps Ethernet for low-latency network communication",
+        "Segments, Streams, and Sequence Numbers",
+        "Efficient handling of string-number conversion",
+        "Characterizations of the Beta"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

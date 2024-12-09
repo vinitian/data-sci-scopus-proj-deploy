@@ -1,0 +1,126 @@
+{
+    "eid": "2-s2.0-85139231380",
+    "title": "CRASH PREDICTION ON ROAD SEGMENTS USING MACHINE LEARNING METHODS",
+    "cover-date": "2022-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Environmental Engineering",
+            "@code": "2305",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Chemical Engineering (all)",
+            "@code": "1500",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geotechnical Engineering and Engineering Geology",
+            "@code": "1909",
+            "@abbrev": "EART"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Artificial Neural Network",
+        "Crash Prediction",
+        "Linear Regression",
+        "Machine Learning",
+        "Random Forest",
+        "Statistical Learning",
+        "Support Vector Machine"
+    ],
+    "authors": [
+        "Agustin Guerra",
+        "Vivek Gadhiya",
+        "Punyaanek Srisurin"
+    ],
+    "citedby-count": 1,
+    "ref-count": 60,
+    "ref-list": [
+        "The Major Causes of Death in Children and Adolescents in the United States",
+        "Review of the Use of Traffic Simulation for the Evaluation of Traffic Safety Levels: Can We Use Simulation to Predict Crashes?",
+        "A Comparative Study on Machine Learning Based Algorithms for Prediction of Motorcycle Crash Severity",
+        "Variable Categories Influencing Single-Vehicle Run-off-Road Crashes and Their Severity",
+        "Highway Safety Assessment and Improvement through Crash Prediction by Injury Severity and Vehicle Damage Using Multivariate Poisson-Lognormal Model and Joint Negative Binomial-Generalized Ordered Probit Fractional Split Model",
+        "An Improved Deep Learning Model for Traffic Crash Prediction",
+        "Rule-Based Safety Prediction Models for Rural Two-Lane Run-off-Road Crashes",
+        "Machine Learning Applied to Road Safety Modeling: A Systematic Literature Review",
+        "Pedestrian Collision Prediction Models for Urban Intersections",
+        "Crash Frequency Analysis with Generalized Additive Models",
+        "Modeling Signalized Intersection Safety with Corridor-Level Spatial Correlations",
+        "Crash Frequency Analysis of Different Types of Urban Roadway Segments Using Generalized Additive Model",
+        "Generalized Additive Models for Estimating Motorcycle Collisions on Collector Roads",
+        "Real-Time Crash Prediction for a Long Low-Traffic Volume Corridor Using Corrected-Impurity Importance and Semi-Parametric Generalized Additive Model",
+        "Random Forest Models for Identifying Motorway Rear-End Crash Risks Using Disaggregate Data",
+        "Investigating Macro-Level Hotzone Identification and Variable Importance Using Big Data: A Random Forest Models Approach",
+        "Predicting Motor Vehicle Crashes Using Support Vector Machine Models",
+        "Support Vector Machine in Crash Prediction at the Level of Traffic Analysis Zones: Assessing the Spatial Proximity Effects",
+        "Real-Time Crash Prediction on Urban Expressways: Identification of Key Variables and a Hybrid Support Vector Machine Model",
+        "Artificial Neural Networks and Logit Models for Traffic Safety Analysis of Toll Plazas",
+        "Analysis of Freeway Accident Frequencies: Negative Binomial Regression versus Artificial Neural Network",
+        "An Artificial Neural Network-Based Expert System for the Appraisal of Two-Car Crash Accidents",
+        "A Bayesian Neural Network Approach to Estimating the Energy Equivalent Speed",
+        "Relationships between Safety and Both Congestion and Number of Lanes on Urban Freeways",
+        "Crash Frequency Analysis",
+        "Real-Time Crash Risk Prediction Using Long Short-Term Memory Recurrent Neural Network",
+        "Real-Time Crash Prediction Model for Application to Crash Prevention in Freeway Traffic",
+        "Crash Frequency Modeling Using Real-Time Environmental and Traffic Data and Unbalanced Panel Data Models",
+        "Real-Time Crash Prediction on Expressways Using Deep Generative Models",
+        "A Crash-Prediction Model for Multilane Roads",
+        "Factor Analysis of Fatal Road Traffic Crashes with Massive Casualties in China",
+        "An Empirical Assessment of Fixed and Random Parameter Logit Models Using Crash- and Non-Crash-Specific Injury Data",
+        "Relationship of Accident Rates and Road Geometric Design",
+        "Modeling Traffic Accident Occurrence and Involvement",
+        "The Effect of Infrastructure and Demographic Change on Traffic-Related Fatalities and Crashes: A Case Study of Illinois County-Level Data",
+        "Investigation of Factors Affecting the Injury Severity of Single-Vehicle Rollover Crashes: A Random-Effects Generalized Ordered Probit Model",
+        "Killer Crashes: Fatal Road Traffic Accidents in the UK",
+        "Analysis of Factors Associated with Traffic Injury Severity on Rural Roads in Iran",
+        "Macroscopic Spatial Analysis of Pedestrian and Bicycle Crashes",
+        "Impacts of Accident Severity Factors and Loss Values of Crashes on Expressways in Thailand",
+        "Analysis of Roadway and Environmental Factors Affecting Traffic Crash Severities",
+        "Multiple Imputation of Missing Values: Update of Ice",
+        "CRAN Package \u201cE1071",
+        "Analyzing Human, Roadway, Vehicular and Environmental Factors Contributing to Fatal Road Traffic Crashes in Thailand",
+        "Analysis of factors affecting the severity of motorcycle casualties in Phnom Penh using a Bayesian approach",
+        "Comparison of Four Statistical and Machine Learning Methods for Crash Severity Prediction"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Gainesville",
+            "@id": "60013959",
+            "affilname": "University of Florida",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013959",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Highway Safety Information System"
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "eid": "2-s2.0-85140601095",
+    "title": "Novelty Detection of a Rolling Bearing using Long Short-Term Memory Autoencoder",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "artificial intelligence",
+        "deep learning",
+        "LSTM autoencoder",
+        "novelty detection",
+        "predictive maintenance",
+        "rolling bearing"
+    ],
+    "authors": [
+        "Sunithi Asavalertpalakorn",
+        "Pairod Singhatanadgid",
+        "Tutpol Ardsomang"
+    ],
+    "citedby-count": 1,
+    "ref-count": 18,
+    "ref-list": [
+        "Industry 4. 0: Towards future industrial opportunities and challenges",
+        "Detecting anomalous behavior towards predictive maintenance",
+        "A review of novelty detection",
+        "Bearing fault detection using wavelet packet transform of induction motor stator current",
+        "Anomaly detection for predictive maintenance in industry 4. 0-A survey",
+        "Unsupervised online anomaly detection on multivariate sensing time series data for smart manufacturing",
+        "Case western reserve university bearing data center",
+        "Bearing fault detection and diagnosis using Case Western Reserve University dataset with deep learning approaches: A review",
+        "Rolling bearing initial fault detection using long short-term memory recurrent network",
+        "Bearing fault detection using comparative analysis of random forest, ANN, and autoencoder methods",
+        "Fault detection and diagnosis using combined autoencoder and long short-term memory network",
+        "A deep learning approach for anomaly detection based on SAE and LSTM in mechanical equipment",
+        "A deep learning model for predictive maintenance in cyber-physical production systems using LSTM autoencoders",
+        "Data-driven predictive maintenance in evolving environments: A comparison between machine learning and deep learning for novelty detection",
+        "Deep learning-based visual defect-inspection system for reinforced concrete bridge substructure: A case of Thailand's department of highways",
+        "Bridge sub structure defect inspection assistance by using deep learning"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Rayong",
+            "@id": "114437449",
+            "affilname": "Digital Asset Solution Rayong Engineering and Plant Services",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/114437449",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,129 @@
+{
+    "eid": "2-s2.0-85098773721",
+    "title": "Brainwave classification for character-writing application using EMD-based GMM and KELM approaches",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biomaterials",
+            "@code": "2502",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanics of Materials",
+            "@code": "2211",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Brainwave classification",
+        "Character-writing application",
+        "EMD",
+        "GMM",
+        "KELM",
+        "Score combination"
+    ],
+    "authors": [
+        "Khomdet Phapatanaburi",
+        "Kasidit Kokkhunthod",
+        "Longbiao Wang",
+        "Talit Jumphoo",
+        "Monthippa Uthansakul",
+        "Anyaporn Boonmahitthisud",
+        "Peerapong Uthansakul"
+    ],
+    "citedby-count": 5,
+    "ref-count": 38,
+    "ref-list": [
+        "Applying a brain-computer interface to support motor imagery practice in people with stroke for upper limb recovery: A feasibility study",
+        "BNCI Horizon 2020: Towards a roadmap for the BCI community",
+        "Brain-computer interfaces for communication and control",
+        "Conversion of EEG activity into cursor movement by a brain-computer interface (BCI)",
+        "Review and classification of emotion recognition based on EEG brain-computer interface system research: A systematic review",
+        "A brain-computer interface controlled auditory event-related potential (P300) spelling system for locked-in patients",
+        "A gaze independent brain-computer interface based on visual stimulation through closed eyelids",
+        "Introducing the tactile speller: An ERP-based brain-computer interface for communication",
+        "Talking off the top of your head: Toward a mental prosthesis utilizing event-related brain potentials",
+        "VEP-based brain-computer interfaces: Time, frequency and code modulations",
+        "Stimulator selection in SSVEP-based BCI",
+        "A high-ITR SSVEP-based BCI speller",
+        "The berlin brain-computer interface presents the novel mental typewriter hex-o-spell",
+        "Brainwave classification without the help of limb movement and any stimulus for character-writing application",
+        "Improving brainwave classification for character-writing application using single effective EEG channel in SUT",
+        "Distant-talking accent recognition by combining GMM and DNN",
+        "Epileptic signal classification with deep EEG features by stacked CNNs",
+        "Data acquisition in non-invasive brain-computer interface using emotiv Epoc neuroheadset",
+        "The empirical mode decomposition and the Hilbert spectrum for nonlinear and non-stationary time series analysis",
+        "EEG signals feature extraction based on DWT and EMD combined with approximate entropy",
+        "Localization of active brain sources from EEG signals using empirical mode decomposition: A comparative study",
+        "Comparison of EMD, DWT and WPD for the localization of epileptogenic foci using random forest classifier",
+        "Use of features from RR-time series and EEG signals for automated classification of sleep stages in deep neural network framework",
+        "Single-trial EEG classification of motor imagery using deep convolutional neural networks",
+        "LSTM-based EEG classification in motor imagery tasks",
+        "Noise robust voice activity detection using joint phase and magnitude based feature enhancement",
+        "Classifiers for synthetic speech detection: A comparison",
+        "Extreme learning machine for regression and multiclass classification",
+        "Features fusion exaction and KELM with modified grey wolf optimizer for mixture control chart patterns recognition",
+        "Fusion of convolutional neural networks for P300 based character recognition",
+        "Replay attack detection using linear prediction analysis-based relative phase features",
+        "Spoofing speech detection using modified relative phase information",
+        "Novel energy separation based instantaneous frequency features for spoof speech detection",
+        "ResNet and model fusion for automatic spoofing detection",
+        "Consumer grade EEG measuring sensors as research tools: A review",
+        "Replay attack detection with auditory filter-based relative phase features",
+        "Combination of bottleneck feature extraction and dereverberation for distant-talking speech recognition"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Nakhon Ratchasima",
+            "@id": "60092136",
+            "affilname": "Rajamangala University of Technology Isan",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60092136",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Ratchasima",
+            "@id": "60026326",
+            "affilname": "Suranaree University of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026326",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tianjin",
+            "@id": "60019533",
+            "affilname": "Tianjin University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019533",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": [
+        "National Natural Science Foundation of China",
+        "SUT"
+    ]
+}

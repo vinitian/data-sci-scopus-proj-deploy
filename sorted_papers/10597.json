@@ -1,0 +1,137 @@
+{
+    "eid": "2-s2.0-85137975267",
+    "title": "Development and internal validation of simplified predictive scoring (ICU-SEPSA score) for mortality in patients with multidrug resistant infection",
+    "cover-date": "2022-08-26",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Pharmacology",
+            "@code": "3004",
+            "@abbrev": "PHAR"
+        },
+        {
+            "@_fa": "true",
+            "$": "Pharmacology (medical)",
+            "@code": "2736",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "antibiotic resistant",
+        "mortality",
+        "multidrug-resistant infection",
+        "predictive scoring",
+        "screening tool"
+    ],
+    "authors": [
+        "Taranee Sirichayanugul",
+        "Chansinee Srisawat",
+        "Chawin Thummakomut",
+        "Abhisit Prawang",
+        "Nina S. Huynh",
+        "Surasak Saokaew",
+        "Pochamana Phisalprapa",
+        "Sukrit Kanchanasurakit"
+    ],
+    "citedby-count": 0,
+    "ref-count": 41,
+    "ref-list": [
+        "Nosocomial infection of multidrug-resistant Acinetobacter baumannii in Thailand",
+        "Events per variable (EPV) and the relative performance of different strategies for estimating the out-of-sample validity of logistic regression models",
+        "Prevalence, risk factors and outcomes of patients coming from the community with sepsis due to multidrug resistant bacteria",
+        "Ready for a world without antibiotics? The pensi\u00e8res antibiotic resistance call to action",
+        "AIC, BIC and recent advances in model selection",
+        "Multidrug resistant gram-negative bacteria in community-acquired pneumonia",
+        "The relationship between antimicrobial resistance and patient outcomes: mortality, length of hospital stay, and health care costs",
+        "The immune system. First of two parts",
+        "Predictors of mortality in patients infected with carbapenem-resistant acinetobacter baumannii: A systematic review and meta-analysis",
+        "Pandrug resistance (PDR), extensive drug resistance (XDR), and multidrug resistance (MDR) among gram-negative bacilli: need for international harmonization in terminology",
+        "Clinical and economic impact of antibiotic resistance in developing countries: A systematic review and meta-analysis",
+        "The mortality burden of multidrug-resistant pathogens in India: A retrospective, observational study",
+        "Regression coefficients and scoring rules",
+        "A tutorial on calibration measurements and calibration models for clinical prediction models",
+        "A new logistic regression approach for the evaluation of diagnostic test results",
+        "Impact of previous antibiotic therapy on outcome of Gram-negative severe sepsis",
+        "Fosfomycin dosing regimens based on Monte Carlo simulation for treated carbapenem-resistant enterobacteriaceae infection",
+        "Effectiveness of thiamine therapy in mortality rate in patients with septic shock: A systematic review and meta-analysis",
+        "Bacteremic urinary tract infection caused by multidrug-resistant enterobacteriaceae are associated with severe sepsis at admission: Implication for empirical therapy",
+        "Regression modelling of diagnostic likelihood ratios for the evaluation of medical diagnostic tests",
+        "Epidemiology and burden of multidrug-resistant bacterial infection in a developing country",
+        "Multidrug-resistant, extensively drug-resistant and pandrug-resistant bacteria: an international expert proposal for interim standard definitions for acquired resistance",
+        "Size matters to a model\u2019s fit",
+        "High burden of antimicrobial resistance and mortality among adults and children with community-onset bacterial infections in India",
+        "Relationship between bacterial flora in sputum and functional impairment in patients with acute exacerbations of COPD. Study Group of Bacterial Infection in COPD",
+        "Transparent reporting of a multivariable prediction model for individual Prognosis or Diagnosis (TRIPOD): explanation and elaboration",
+        "Should scoring rules be based on odds ratios or regression coefficients?",
+        "Impact of immunosuppression on incidence, aetiology and outcome of ventilator-associated lower respiratory tract infections",
+        "Antimicrobial resistance",
+        "Global burden of bacterial antimicrobial resistance in 2019: a systematic analysis",
+        "Multiple-drug-resistant bacteria in patients with severe acute exacerbation of chronic obstructive pulmonary disease: Prevalence, risk factors, and outcome",
+        "Mortality in emergency department sepsis (MEDS) score predicts 1-year mortality",
+        "Mortality in emergency department sepsis (MEDS) score: a prospectively derived and validated clinical prediction rule",
+        "The third international consensus definitions for sepsis and septic shock (Sepsis-3)",
+        "Assessing the performance of prediction models: a framework for traditional and novel measures",
+        "Multidrug-resistant Acinetobacter infection mortality rate and length of hospitalization",
+        "Systemic inflammatory response syndrome criteria and the prediction of hospital mortality in critically ill patients: a retrospective cohort study",
+        "Multidrug resistance: an emerging crisis",
+        "A systematic review of the burden of multidrug-resistant healthcare-associated infections among intensive care unit patients in southeast Asia: The rise of multidrug-resistant acinetobacter baumannii",
+        "Predicting multidrug-resistant gram-negative bacterial colonization and associated infection on hospital admission",
+        "Risk factors for acquisition and mortality of multidrug-resistant acinetobacter baumannii bacteremia: A retrospective study from a Chinese hospital"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Phayao",
+            "@id": "60114221",
+            "affilname": "University of Phayao",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60114221",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bandar Sunway",
+            "@id": "60018894",
+            "affilname": "Monash University Malaysia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018894",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Phrae",
+            "@id": "127703909",
+            "affilname": "Phrae Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/127703909",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199575",
+            "affilname": "Siriraj Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199575",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chicago",
+            "@id": "60027561",
+            "affilname": "University of Illinois at Chicago",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027561",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60023366",
+            "affilname": "Rangsit University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023366",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "School of Pharmaceutical Sciences",
+        "UNICORN",
+        "University of Phayao"
+    ]
+}

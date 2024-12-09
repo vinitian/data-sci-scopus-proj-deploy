@@ -1,0 +1,1228 @@
+{
+    "eid": "2-s2.0-85087746870",
+    "title": "Standardising definitions for the pre-eclampsia core outcome set: A consensus development study",
+    "cover-date": "2020-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Internal Medicine",
+            "@code": "2724",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Obstetrics and Gynecology",
+            "@code": "2729",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Consensus development study",
+        "Core outcome set",
+        "Hypertension in pregnancy",
+        "Outcome measure",
+        "Pre-eclampsia",
+        "Randomised controlled trials"
+    ],
+    "authors": [
+        "James M.N. Duffy",
+        "Alexandra E. Cairns",
+        "Laura A. Magee",
+        "Peter von Dadelszen",
+        "Janneke van 't Hooft",
+        "Chris Gale",
+        "Mark Brown",
+        "Lucy C. Chappell",
+        "William A. Grobman",
+        "Ray Fitzpatrick",
+        "S. Ananth Karumanchi",
+        "D. Nuala Lucas",
+        "Ben Mol",
+        "Michael Stark",
+        "Shakila Thangaratinam",
+        "Mathew J. Wilson",
+        "Paula R. Williamson",
+        "Sue Ziebland",
+        "Richard J. McManus",
+        "Edgardo J. Abalos",
+        "Christine C.D. Adamson",
+        "Adebayo A. Akadri",
+        "Zekeriya Akturk",
+        "Karel Allegaert",
+        "Edith Angel-M\u00fcller",
+        "Jessica Antretter",
+        "Helen F. Ashdown",
+        "Francois Audibert",
+        "Nathalie Auger",
+        "Canan Aygun",
+        "Inas Babic",
+        "Rashmi Bagga",
+        "Judith M. Baker",
+        "Yusuf Beebeejaun",
+        "Pradipta Bhakta",
+        "Vineet Bhandari",
+        "Sohinee Bhattacharya",
+        "Marco H. Blanker",
+        "Frank H. Bloomfield",
+        "Anna Bof",
+        "Siobhan M. Brennan",
+        "Kim Broekhuijsen",
+        "Fiona Broughton Pipkin",
+        "Joyce L. Browne",
+        "Roger M. Browning",
+        "Jameson W. Bull",
+        "Amina Butt",
+        "Dena Button",
+        "Jeremy P. Campbell",
+        "Doris M. Campbell",
+        "Lionel Carbillon",
+        "Sarah Carthy",
+        "Emma Casely",
+        "James A. Cave",
+        "Jose G. Cecatti",
+        "M\u00f3nica E. Chamillard",
+        "Dominique Chassard",
+        "Nancy C. Checheir",
+        "Vasilii S. Chulkov",
+        "Catherine A. Cluver",
+        "Carole F. Crawford",
+        "Mandy C. Daly",
+        "Dorota A. Darmochwal-Kolarz",
+        "Ruth E. Davies",
+        "Mark W. Davies",
+        "James S. Dawson",
+        "Nichola Dobson",
+        "Claire N. Dodd",
+        "Fiona Donald",
+        "Lelia Duley",
+        "Jorie Epstein-Mares",
+        "Offer Erez",
+        "Emma Evans",
+        "Richard N. Farlie",
+        "Amy V. Ferris",
+        "Elizabeth M. Frankland",
+        "Dilys J. Freeman",
+        "Shalini Gainder",
+        "Wessel Ganzevoort",
+        "Oghenekome A. Gbinigie",
+        "Marie Odile Gerval",
+        "Sanjib K. Ghosh",
+        "Lynda J. Gingel",
+        "Margaret Glogowska",
+        "Andrea Goodlife",
+        "Katie L. Gough",
+        "Jessica R. Green",
+        "Fouzia Gul",
+        "Lorraine Haggerty",
+        "David R. Hall",
+        "Mikko Hallman",
+        "Leigh M. Hamilton",
+        "Sarah J. Hammond",
+        "Sioban D. Harlow",
+        "Karen E. Hays",
+        "Stacey C. Hickey",
+        "Mary Higgins",
+        "Lisa Hinton",
+        "Sebastian R. Hobson",
+        "Matthew J. Hogg",
+        "Heidi J. Hollands",
+        "Caroline S.E. Homer",
+        "Zahra Hoodbhoy",
+        "Paul Howell",
+        "Berthold Huppertz",
+        "Shahid Husain",
+        "Susan D. Jacoby",
+        "Evelyne Jacqz-Aigrain",
+        "Gareth Jenkins",
+        "David Jewel",
+        "Mark J. Johnson",
+        "Carolyn L. Johnston",
+        "Paige M. Jones",
+        "Ira Kantrowitz-Gordon",
+        "Rehan Uddin Khan",
+        "Lisa J. Kirby",
+        "Catherine Kirk",
+        "Marian Knight",
+        "Mary T. Korey",
+        "Geraint J. Lee",
+        "Vincent W. Lee",
+        "Louis S. Levene",
+        "Ambrogio P. Londero",
+        "Karin M. Lust",
+        "Vanessa MacKenzie",
+        "Line Malha",
+        "Massimo Mattone",
+        "David E. McCartney",
+        "Alison McFadden",
+        "Brian H. McKinstry",
+        "Philippa F. Middleton",
+        "David J. Mills",
+        "Hiten D. Mistry",
+        "Caroline A. Mitchell",
+        "Joanne C. Mockler",
+        "Sally Ann Molsher",
+        "Elizabeth S. Monast",
+        "Jagidesa Moodley",
+        "Rob Mooij",
+        "Emma L. Moore",
+        "Linda Morgan",
+        "Angela Moulson",
+        "Faraz Mughal",
+        "Shuchita R. Mundle",
+        "Miguel Angel Munoz",
+        "Elizabeth Murray",
+        "Chie Nagata",
+        "Abhijit S. Nair",
+        "Annettee Nakimuli",
+        "Gita Nath",
+        "Rachel S. Newport",
+        "Pippa Oakeshott",
+        "Maria R. Ochoa-Ferraro",
+        "Hein Odendaal",
+        "Akihide Ohkuchi",
+        "Leandro Oliveira",
+        "Eduardo Ortiz-Panozo",
+        "Martijn A. Oudijk",
+        "Seyhan E. Oygucu",
+        "Michael J. Paech",
+        "Rebecca C. Painter",
+        "Claire L. Parry",
+        "Beth A. Payne",
+        "Emma L. Pearson",
+        "Vorapong Phupong",
+        "Naomi Pickett",
+        "Katie A. Pickles",
+        "Louise K. Plumb",
+        "Federico Prefumo",
+        "Roanne Preston",
+        "Joel G. Ray",
+        "Juliet Rayment",
+        "Lynsey V. Regan",
+        "Evelyne Rey",
+        "Emily J. Robson",
+        "Antonia N. Rubin",
+        "Jorge A. Rubio-Romero",
+        "Kristiina Rull",
+        "Nelson Sass",
+        "Nadine Sauv\u00e9",
+        "Nicola A. Savory",
+        "James R. Scott",
+        "Sarah E. Seaton",
+        "Paul T. Seed",
+        "Judy M. Shakespeare",
+        "Antonia W. Shand",
+        "Sanjay Sharma",
+        "Tammy Y. Shaw",
+        "Kate L. Smedley",
+        "Drew Smith",
+        "Ashley Smith Conk",
+        "Donna Soward",
+        "Holger Stepan",
+        "Konstantinos Stroumpoulis",
+        "Anoop Surendran",
+        "Satoru Takeda",
+        "Lawrence Tan",
+        "Becky S. Theriot",
+        "Hayley F. Thomas",
+        "Karen Thompson",
+        "Peter I. Thompson",
+        "Matthew J. Thompson",
+        "Laura Toms",
+        "Kate L.H.T. Torney",
+        "Julian S. Treadwell",
+        "Katherine L. Tucker",
+        "Mark A. Turrentine",
+        "Oliver Van Hecke",
+        "Miriam F. Van Oostwaard",
+        "Daniela N. Vasquez",
+        "David J.A. Vaughan",
+        "Angela Vinturache",
+        "James Walker",
+        "Stephen P. Wardle",
+        "Tayyiba Wasim",
+        "Jonathan H. Waters",
+        "Clare L. Whitehead",
+        "Alexander Wolfson",
+        "Seonae Yeo",
+        "Arnold G. Zermansky"
+    ],
+    "citedby-count": 7,
+    "ref-count": 59,
+    "ref-list": [
+        "Outcome reporting across randomised controlled trials evaluating therapeutic interventions for pre-eclampsia",
+        "A systematic review of primary outcome and outcome measure reporting in randomized trials evaluating treatments for preeclampsia",
+        "Inadequate safety reporting in pre-eclampsia trials: a systematic evaluation",
+        "Variation in outcome reporting in endometriosis trials: a systematic review",
+        "Variation in outcome reporting across studies evaluating interventions for selective fetal growth restriction",
+        "Inconsistent outcome reporting in large neonatal trials: a systematic review",
+        "Reducing research waste in benign gynaecology and fertility research",
+        "A protocol for developing, disseminating, and implementing a core outcome set for pre-eclampsia",
+        "The COMET Handbook: version 1.0",
+        "What outcomes should researchers select, collect and report in pre-eclampsia research? A qualitative study exploring the views of women with lived experience of pre-eclampsia",
+        "Methodological decisions influence the identification of potential core outcomes in studies related to pre-eclampsia: an analysis informing the development of recommendations for future core outcome set developers",
+        "Core outcome sets in women's and newborn health: a systematic review",
+        "Stillbirth: case definition and guidelines for data collection, analysis, and presentation of maternal immunization safety data",
+        "Tackling poorly selected, collected, and reported outcomes in obstetrics and gynecology research",
+        "Protocol for developing, disseminating and implementing a core outcome set for endometriosis",
+        "A core outcome set for future endometriosis research: an international consensus development study",
+        "Core outcomes in neonatology: development of a core outcome set for neonatal research",
+        "Standardizing abortion research outcomes (STAR): a protocol for developing, disseminating and implementing a core outcome set for medical and surgical abortion",
+        "Twin-Twin Transfusion Syndrome: study protocol for developing, disseminating, and implementing a core outcome set",
+        "Core outcome set for research studies evaluating treatments for twin\u2013twin transfusion syndrome",
+        "Standardized outcome measures for pregnancy and childbirth, an ICHOM proposal",
+        "A protocol developing, disseminating and implementing a core outcome set for infertility",
+        "Study protocol: developing, disseminating, and implementing a core outcome set for selective fetal growth restriction in monochorionic twin pregnancies",
+        "Core outcome set for studies investigating management of selective fetal growth restriction in twins",
+        "A core outcome set for hyperemesis gravidarum research: an international consensus study",
+        "Hypertensive disorders of pregnancy: a systematic review of international clinical practice guidelines",
+        "A core outcome set for pre-eclampsia research: An international consensus development study",
+        "Consensus development methods, and their use in clinical guideline development",
+        "Hypertensive disorders of pregnancy: ISSHP classification, diagnosis, and management recommendations for international practice",
+        "Strategy for standardization of preeclampsia research study design",
+        "Maternal mortality: Only 42 days?",
+        "Preeclampsia and stroke: Risks during and after pregnancy",
+        "International Statistical Classification of Diseases and Related Health Problems",
+        "Acute kidney injury: summary of NICE guidance",
+        "Acute renal failure \u2013 definition, outcome measures, animal models, fluid therapy and information technology needs: the Second International Consensus Conference of the Acute Dialysis Quality Initiative (ADQI), Group",
+        "Acute Kidney Injury Network: report of an initiative to improve outcomes in acute kidney injury",
+        "Kidney Disease: Improving Global Outcomes (KDIGO) clinical practice guidelines for acute kidney injury",
+        "WHO systematic review of randomised controlled trials of routine antenatal care",
+        "Prediction of adverse maternal outcomes in pre-eclampsia: Development and validation of the fullPIERS model",
+        "Postpartum haemorrhage: Case definition and guidelines for data collection, analysis, and presentation of immunization safety data",
+        "Postpartum blood loss: Visual estimation versus objective quantification with a novel birthing drape",
+        "HELLP syndrome",
+        "Short-term treatment of severe hypertension of pregnancy: prospective comparison of nicardipine and labetalol",
+        "Intensive care unit capacity in low-Income countries: A systematic review",
+        "Global report on preterm birth and stillbirth: mobilizing resources to accelerate innovative solutions",
+        "Small for gestational age: case definition and guidelines for data collection, analysis, and presentation of maternal immunisation safety data",
+        "Customized growth charts: rationale, validation and clinical benefits",
+        "Guidelines on Neonatal Seizures",
+        "Advances in respiratory support for high risk newborn infants",
+        "Guidelines for Perinatal Care",
+        "Inpatient care of small and sick newborns: A multi-country analysis of health system bottlenecks and potential solutions",
+        "The problem of measurement error in multisite clinical trials",
+        "Observer bias in randomised clinical trials with binary outcomes: systematic review of trials with both blinded and non-blinded outcome assessors",
+        "Immunization in pregnancy clinical research in low- and middle-income countries: study design, regulatory and safety considerations",
+        "Coordination and planning of clinical research on a national and global level",
+        "Research priority setting in women's health: a systematic review",
+        "Increasing value and reducing research waste in obstetrics: towards woman-centered research",
+        "Patient decision aids to facilitate shared decision making in obstetrics and gynecology: a systematic review and meta-analysis"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Harrow",
+            "@id": "60105470",
+            "affilname": "London North West University Healthcare NHS Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60105470",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Perth",
+            "@id": "60024043",
+            "affilname": "King Edward Memorial Hospital for Women",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024043",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60022148",
+            "affilname": "University College London",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022148",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Melbourne",
+            "@id": "60019578",
+            "affilname": "Monash University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019578",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60011520",
+            "affilname": "King's College London",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011520",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Vancouver",
+            "@id": "60010365",
+            "affilname": "The University of British Columbia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010365",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60009507",
+            "affilname": "University of Montreal",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009507",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Oxford",
+            "@id": "60002634",
+            "affilname": "University of Oxford Medical Sciences Division",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002634",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Amsterdam",
+            "@id": "60001157",
+            "affilname": "Amsterdam UMC - University of Amsterdam",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001157",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Plainsboro",
+            "@id": "60274219",
+            "affilname": "Princeton Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60274219",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60270066",
+            "affilname": "Northwell Health System",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60270066",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Glasgow",
+            "@id": "60189936",
+            "affilname": "Princess Royal Maternity",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60189936",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60176725",
+            "affilname": "Lewisham and Greenwich NHS Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60176725",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Sheffield",
+            "@id": "60176589",
+            "affilname": "Faculty of Medicine, Dentistry and Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60176589",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Peshawar",
+            "@id": "60172655",
+            "affilname": "Khyber Medical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60172655",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Birmingham",
+            "@id": "60172638",
+            "affilname": "National Institute for Health Research",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60172638",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Oxford",
+            "@id": "60170323",
+            "affilname": "Oxford University Hospitals NHS Foundation Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60170323",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60159931",
+            "affilname": "Barts Health NHS Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60159931",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Viborg",
+            "@id": "60159649",
+            "affilname": "Hospitalsenhed Midt",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60159649",
+            "affiliation-country": "Denmark"
+        },
+        {
+            "affiliation-city": "Ilishan-Remo",
+            "@id": "60126119",
+            "affilname": "Babcock University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60126119",
+            "affiliation-country": "Nigeria"
+        },
+        {
+            "affiliation-city": "Paris",
+            "@id": "60123796",
+            "affilname": "Universit\u00e9 Paris Cit\u00e9",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60123796",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Kyrenia",
+            "@id": "60122140",
+            "affilname": "University of Kyrenia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60122140",
+            "affiliation-country": "Cyprus"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60111785",
+            "affilname": "Imperial College Healthcare NHS Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60111785",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Patna",
+            "@id": "60110818",
+            "affilname": "All India Institute of Medical Sciences, Patna",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60110818",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Adelaide",
+            "@id": "60108899",
+            "affilname": "South Australian Health and Medical Research Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60108899",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60107269",
+            "affilname": "Evelina London Children's Healthcare",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60107269",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60104703",
+            "affilname": "National Center for Child Health and Development",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104703",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Kawachi District",
+            "@id": "60102128",
+            "affilname": "Jichi Medical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60102128",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Lyon",
+            "@id": "60102126",
+            "affilname": "Universit\u00e9 de Lyon",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60102126",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Nottingham",
+            "@id": "60099153",
+            "affilname": "University of Nottingham Medical School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60099153",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Tartu",
+            "@id": "60068891",
+            "affilname": "Tartu \u00dclikooli Kliinikum",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60068891",
+            "affiliation-country": "Estonia"
+        },
+        {
+            "affiliation-city": "Karachi",
+            "@id": "60052016",
+            "affilname": "The Aga Khan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60052016",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Leicester",
+            "@id": "60033125",
+            "affilname": "University of Leicester",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60033125",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60032993",
+            "affilname": "Chelsea and Westminster Hospital NHS Foundation Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032993",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60032542",
+            "affilname": "St George's University Hospitals NHS Foundation Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032542",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Keele",
+            "@id": "60030210",
+            "affilname": "Keele University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030210",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Luton",
+            "@id": "60029855",
+            "affilname": "Luton and Dunstable University Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029855",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Campinas",
+            "@id": "60029570",
+            "affilname": "Universidade Estadual de Campinas",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029570",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60029329",
+            "affilname": "St George\u2019s, University of London",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029329",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Guildford",
+            "@id": "60028760",
+            "affilname": "Royal Surrey County Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028760",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Leicester",
+            "@id": "60028485",
+            "affilname": "University Hospitals of Leicester NHS Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028485",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Brisbane",
+            "@id": "60028435",
+            "affilname": "Royal Brisbane and Women's Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028435",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Lincoln",
+            "@id": "60028431",
+            "affilname": "United Lincolnshire Hospitals NHS Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028431",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Sydney",
+            "@id": "60028333",
+            "affilname": "UNSW Sydney",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028333",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bristol",
+            "@id": "60027676",
+            "affilname": "North Bristol NHS Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027676",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Edinburgh",
+            "@id": "60027272",
+            "affilname": "The University of Edinburgh",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027272",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Beer Sheva",
+            "@id": "60027161",
+            "affilname": "Ben-Gurion University of the Negev",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027161",
+            "affiliation-country": "Israel"
+        },
+        {
+            "affiliation-city": "Oxford",
+            "@id": "60026851",
+            "affilname": "University of Oxford",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026851",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Leidschendam",
+            "@id": "60026091",
+            "affilname": "HMC",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026091",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Nagpur",
+            "@id": "60025790",
+            "affilname": "Government Medical College Nagpur",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025790",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Sydney",
+            "@id": "60025709",
+            "affilname": "The University of Sydney",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025709",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Chapel Hill",
+            "@id": "60025111",
+            "affilname": "The University of North Carolina at Chapel Hill",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025111",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "3000 Leuven",
+            "@id": "60025063",
+            "affilname": "KU Leuven",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025063",
+            "affiliation-country": "Belgium"
+        },
+        {
+            "affiliation-city": "Nottingham",
+            "@id": "60025016",
+            "affilname": "Nottingham University Hospitals NHS Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025016",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Bondy",
+            "@id": "60024646",
+            "affilname": "Hopital Jean-Verdier",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024646",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Iowa City",
+            "@id": "60024324",
+            "affilname": "University of Iowa",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024324",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Limerick",
+            "@id": "60022530",
+            "affilname": "University Hospital Limerick",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022530",
+            "affiliation-country": "Ireland"
+        },
+        {
+            "affiliation-city": "Cuernavaca",
+            "@id": "60022420",
+            "affilname": "Instituto Nacional de Salud P\u00fablica. M\u00e9xico",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022420",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60021435",
+            "affilname": "Barts and The London School of Medicine and Dentistry",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021435",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Liverpool",
+            "@id": "60020661",
+            "affilname": "University of Liverpool",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020661",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Penrith",
+            "@id": "60017803",
+            "affilname": "Western Sydney University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017803",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Norwich",
+            "@id": "60017129",
+            "affilname": "Norfolk and Norwich University Hospitals NHS Foundation Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017129",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Toronto",
+            "@id": "60016849",
+            "affilname": "University of Toronto",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016849",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Los Angeles",
+            "@id": "60016173",
+            "affilname": "Cedars-Sinai Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016173",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Aberdeen",
+            "@id": "60015875",
+            "affilname": "University of Aberdeen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015875",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Udine",
+            "@id": "60015397",
+            "affilname": "Policlinico Universitario, Udine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015397",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Brescia",
+            "@id": "60015300",
+            "affilname": "Universit\u00e0 degli Studi di Brescia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015300",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60015150",
+            "affilname": "Imperial College London",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015150",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Nottingham",
+            "@id": "60015138",
+            "affilname": "University of Nottingham",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015138",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Sao Paulo",
+            "@id": "60014992",
+            "affilname": "Universidade Federal de S\u00e3o Paulo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014992",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Philadelphia",
+            "@id": "60014662",
+            "affilname": "Drexel University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014662",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Chicago",
+            "@id": "60013227",
+            "affilname": "Northwestern University Feinberg School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013227",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Oulu",
+            "@id": "60012954",
+            "affilname": "Oulun Yliopisto",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012954",
+            "affiliation-country": "Finland"
+        },
+        {
+            "affiliation-city": "Leeds",
+            "@id": "60012070",
+            "affilname": "University of Leeds",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012070",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Sherbrooke",
+            "@id": "60011832",
+            "affilname": "Universit\u00e9 de Sherbrooke",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011832",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Melrose",
+            "@id": "60011205",
+            "affilname": "NHS Borders",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011205",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Durban",
+            "@id": "60010499",
+            "affilname": "University of KwaZulu-Natal",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010499",
+            "affiliation-country": "South Africa"
+        },
+        {
+            "affiliation-city": "Groningen",
+            "@id": "60010023",
+            "affilname": "Rijksuniversiteit Groningen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010023",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60009740",
+            "affilname": "Juntendo University School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009740",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60009657",
+            "affilname": "Centre Hospitalier de L'Universite de Montreal",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009657",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Adelaide",
+            "@id": "60009512",
+            "affilname": "The University of Adelaide",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009512",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Samsun",
+            "@id": "60009477",
+            "affilname": "Ondokuz Mayis \u00dcniversitesi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009477",
+            "affiliation-country": "Turkey"
+        },
+        {
+            "affiliation-city": "Manchester",
+            "@id": "60009274",
+            "affilname": "The Pennine Acute Hospitals NHS Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009274",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Dundee",
+            "@id": "60008877",
+            "affilname": "University of Dundee",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008877",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Barcelona",
+            "@id": "60008511",
+            "affilname": "Institut Catala de la Salut",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008511",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Leipzig",
+            "@id": "60008042",
+            "affilname": "Universit\u00e4t Leipzig",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008042",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60007997",
+            "affilname": "Weill Cornell Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007997",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Utrecht",
+            "@id": "60007989",
+            "affilname": "Universiteit Utrecht",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007989",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Rzeszow",
+            "@id": "60007672",
+            "affilname": "University of Rzesz\u00f3w",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007672",
+            "affiliation-country": "Poland"
+        },
+        {
+            "affiliation-city": "Rosario",
+            "@id": "60007589",
+            "affilname": "Centro Rosarino de Estudios Perinatales",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007589",
+            "affiliation-country": "Argentina"
+        },
+        {
+            "affiliation-city": "Graz",
+            "@id": "60006224",
+            "affilname": "Medizinische Universit\u00e4t Graz",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006224",
+            "affiliation-country": "Austria"
+        },
+        {
+            "affiliation-city": "Sao Paulo",
+            "@id": "60006028",
+            "affilname": "Universidade Estadual Paulista \"J\u00falio de Mesquita Filho\"",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006028",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Auckland",
+            "@id": "60005686",
+            "affilname": "The University of Auckland",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005686",
+            "affiliation-country": "New Zealand"
+        },
+        {
+            "affiliation-city": "Plymouth",
+            "@id": "60005671",
+            "affilname": "University Hospitals Plymouth NHS Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005671",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60005523",
+            "affilname": "Homerton University Hospital NHS Foundation Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005523",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Chelyabinsk",
+            "@id": "60004917",
+            "affilname": "South Ural State Medical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004917",
+            "affiliation-country": "Russian Federation"
+        },
+        {
+            "affiliation-city": "Sydney",
+            "@id": "60004437",
+            "affilname": "Westmead Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004437",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Melbourne",
+            "@id": "60003344",
+            "affilname": "Burnet Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003344",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Kenmore",
+            "@id": "60002934",
+            "affilname": "Bastyr University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002934",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Amsterdam",
+            "@id": "60002483",
+            "affilname": "Universiteit van Amsterdam",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002483",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Houston",
+            "@id": "60002441",
+            "affilname": "Baylor College of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002441",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Calgary",
+            "@id": "60002283",
+            "affilname": "Mount Royal University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002283",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Sheffield",
+            "@id": "60001881",
+            "affilname": "The University of Sheffield",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001881",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Stellenbosch",
+            "@id": "60001565",
+            "affilname": "Stellenbosch University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001565",
+            "affiliation-country": "South Africa"
+        },
+        {
+            "affiliation-city": "Glasgow",
+            "@id": "60001490",
+            "affilname": "University of Glasgow",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001490",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Southampton",
+            "@id": "60000703",
+            "affilname": "University Hospital Southampton NHS Foundation Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000703",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Chandigarh",
+            "@id": "60000137",
+            "affilname": "Postgraduate Institute of Medical Education &amp; Research, Chandigarh",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000137",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Cardiff",
+            "@id": "60000020",
+            "affilname": "University Hospital of Wales",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000020",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "125551699",
+            "affilname": "Ailem Academic Counselling",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125551699",
+            "affiliation-country": "Turkey"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "125551688",
+            "affilname": "Midwife Mid Essex Hospitals NHS Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125551688",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Meta, Villavicencio",
+            "@id": "124938704",
+            "affilname": "Universidad Nacional de Colombia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/124938704",
+            "affiliation-country": "Colombia"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "124202452",
+            "affilname": "King's Fertility",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/124202452",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Buenos Aires",
+            "@id": "122697215",
+            "affilname": "Sanatorio Anchorena",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/122697215",
+            "affiliation-country": "Argentina"
+        },
+        {
+            "affiliation-city": "Carolina",
+            "@id": "122628494",
+            "affilname": "University of North Carolina School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/122628494",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Poulsbo",
+            "@id": "122030264",
+            "affilname": "University of Washington School of Nursing",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/122030264",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Issaquah",
+            "@id": "121099431",
+            "affilname": "University of Washington",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/121099431",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Chicago",
+            "@id": "120720319",
+            "affilname": "University of Michigan",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/120720319",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Wicklow",
+            "@id": "116182697",
+            "affilname": "Irish Neonatal Health Alliance",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/116182697",
+            "affiliation-country": "Ireland"
+        },
+        {
+            "affiliation-city": "Cherbourg-Octeville",
+            "@id": "114083945",
+            "affilname": "Centre Hospitalier Public du Cotentin",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/114083945",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Riyadh",
+            "@id": "114062279",
+            "affilname": "Prince Sultan Military Medical City",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/114062279",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Hyderabad",
+            "@id": "113948710",
+            "affilname": "Axon Anaesthesia Associates",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/113948710",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "113451619",
+            "affilname": "UPMC Magee Womens Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/113451619",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "New Delhi",
+            "@id": "110835187",
+            "affilname": "Postgraduate Institute of Medical Education and Research",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/110835187",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Dublin",
+            "@id": "110425342",
+            "affilname": "Irish Nurses and Midwives Organisation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/110425342",
+            "affiliation-country": "Ireland"
+        },
+        {
+            "affiliation-city": "Lahore",
+            "@id": "106585569",
+            "affilname": "Services Institute of Medical Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/106585569",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Newbury",
+            "@id": "101161842",
+            "affilname": "Downland Practice",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101161842",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Gorinchem",
+            "@id": "100422207",
+            "affilname": "Beatrix Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/100422207",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Hyderabad",
+            "@id": "100387661",
+            "affilname": "Basavatarakam Indo American Cancer Hospital and Research Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/100387661",
+            "affiliation-country": "India"
+        }
+    ],
+    "funding": [
+        "NIHR-RP-R2-12-015",
+        "National Health Service",
+        "Radcliffe Women's Health",
+        "Chiesi Pharmaceuticals",
+        "Medical Research Council",
+        "National Institute for Health Research",
+        "University of Oxford",
+        "University of London",
+        "Balliol College, University of Oxford",
+        "National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care Oxford"
+    ]
+}

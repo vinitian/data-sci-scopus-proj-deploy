@@ -1,0 +1,89 @@
+{
+    "eid": "2-s2.0-85169292575",
+    "title": "A Comparison of Machine Learning and Neural Network Algorithms for an Automated Thai Essay Scoring",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Automated Essay Scoring",
+        "BERT",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Neural Network"
+    ],
+    "authors": [
+        "Suttichai Suriyasat",
+        "Sapa Chanyachatchawan",
+        "Nuengwong Tuaycharoen"
+    ],
+    "citedby-count": 0,
+    "ref-count": 28,
+    "ref-list": [
+        "Results (Volume II): Where all students can succeed",
+        "Research on reading/writing relationships: a synthesis and suggested directions",
+        "Don\u2019t write, just mark: the validity of assessing student ability via their computerized peer-marking of an essay rather than their creation of an essay",
+        "A study on the application of automatic scoring and feedback system in college English writing",
+        "Enhancing learners\u2019 writing performance through blog-assisted language learning",
+        "A hybrid machine learning framework for predicting students\u2019 performance in virtual learning environment",
+        "Research on constructing online learning performance prediction model combining feature selection and neural network",
+        "Automated essay scoring system based on rubric",
+        "A comprehensive review of automated essay scoring (aes) research and development",
+        "An automated essay scoring systems: a systematic literature review",
+        "Automated essay grading: an empirical analysis of ensemble learning techniques",
+        "Automated essay scoring by maximizing human-machine agreement",
+        "More efficient processes for creating automated essay scoring frameworks: a demonstration of two algorithms",
+        "A neural approach to automated essay scoring",
+        "A novel automated essay scoring approach for reliable higher educational assessments",
+        "Practical bayesian optimization of machine learning algorithms",
+        "XGBoost: a scalable tree boosting system",
+        "The kappa statistic in reliability studies: use, interpretation, and sample size requirements",
+        "Neural Networks for Automated Essay Grading"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011525",
+            "affilname": "Thailand National Electronics and Computer Technology Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011525",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

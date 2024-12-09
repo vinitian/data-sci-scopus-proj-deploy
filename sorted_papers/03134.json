@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85087799940",
+    "title": "Neural Learning with Recoil Behavior in Hyperellipsoidal Structure",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Discard-after-learn",
+        "hyperellipsoidal function",
+        "incremental learning",
+        "recoil behavior"
+    ],
+    "authors": [
+        "Kanoksilp Jindadoungrut",
+        "Suphakant Phimoltares",
+        "Chidchanok Lursinsap"
+    ],
+    "citedby-count": 0,
+    "ref-count": 36,
+    "ref-list": [
+        "Big data: A review",
+        "Incremental learning algorithms and applications",
+        "Samoa: Scalable advanced massive online analysis",
+        "A new approximate maximal margin classification algorithm",
+        "Online convex programming and generalized Infinitesimal gradient ascent",
+        "A second-order perceptron algorithm",
+        "The perceptron: A probabilistic model for information storage and organization in the brain",
+        "Online passive-aggressive algorithms",
+        "Confidence-weighted linear classification",
+        "Exact convex confidenceweighted learning",
+        "Adaptive regularization of weight vectors",
+        "Dual averaging methods for regularized stochastic learning and online optimization",
+        "Adaptive subgradient methods for online learning and stochastic optimization",
+        "Efficient online and batch learning using forward backward splitting",
+        "LearnCC: An incremental learning algorithm for supervised neural networks",
+        "Incremental and decremental support vector machine learning",
+        "Fast kernel classifiers with online and active learning",
+        "A fast and accurate online sequential learning algorithm for feedforward networks",
+        "On-line random forests",
+        "An incremental learning vector quantization algorithm for pattern classification",
+        "Morphological perceptrons with dendritic structure",
+        "Morphological neural networks with dendritic processing for pattern classification",
+        "Hybrid neural networks for big data classification",
+        "Dendrite ellipsoidal neurons based on k-means optimization",
+        "K-meansCC: The advantages of careful seeding",
+        "Training algorithm for dendrite morphological neural network using k-medoids",
+        "Analysis of k-means and k-medoids algorithm for big data",
+        "A very fast neural learning for classification using only new incoming datum",
+        "A fast learning method for streaming and randomly ordered multi-class data chunks by using onepass-throw-away class-wise learning concept",
+        "Minimizing the effects of stress during eyestalk ablation of litopenaeus vannamei females with topical anesthetic and a coagulating agent",
+        "UCI machine learning repository",
+        "OpenML: Networked science in machine learning",
+        "LIBSOL: A library for scalable online learning algorithms",
+        "Scikit-learn: Machine learning in Python"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Thailand Research Fund"
+    ]
+}

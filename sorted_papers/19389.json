@@ -1,0 +1,69 @@
+{
+    "eid": "2-s2.0-85169793163",
+    "title": "An Integrated Tool for Imputing and Evaluating the Performance of Single-Cell RNA Sequencing Imputation: Facilitating imputation, benchmarking and reproducibility in scRNA-seq analysis",
+    "cover-date": "2023-06-16",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Benchmarking",
+        "Reproducibility",
+        "Scrna-Seq Imputation",
+        "Single-Cell RNA-Seq"
+    ],
+    "authors": [
+        "Peera Tantasatityanon",
+        "Duangdao Wichadakul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 15,
+    "ref-list": [
+        "Single-cell RNA sequencing technologies and applications: A brief overview",
+        "A practical guide to single-cell RNA-sequencing for biomedical research and clinical applications",
+        "DEsingle for detecting three types of differential expression in single-cell RNA-seq data",
+        "Zero-preserving imputation of scRNA-seq data using low-rank approximation",
+        "Recovering Gene Interactions from Single-Cell Data Using Data Diffusion",
+        "DrImpute: imputing dropout events in single cell RNA sequencing data",
+        "AutoImpute: Autoencoder based imputation of single-cell RNA-seq data",
+        "An accurate and robust imputation method scImpute for singlecell RNA-seq data",
+        "A systematic evaluation of single-cell RNA-sequencing imputation methods",
+        "Comparison of Computational Methods for Imputing Single-Cell RNA-Sequencing Data",
+        "Benchmarking single cell RNA-sequencing analysis pipelines using mixture control experiments",
+        "Enabling reproducible re-analysis of single-cell data",
+        "Splatter: simulation of single-cell RNA sequencing data",
+        "False signals induced by single-cell imputation"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "eid": "2-s2.0-85150413956",
+    "title": "Signatures of a sampling quantum advantage in driven quantum many-body systems",
+    "cover-date": "2023-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (miscellaneous)",
+            "@code": "2501",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Physics and Astronomy (miscellaneous)",
+            "@code": "3101",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "analog quantum simulators",
+        "driven quantum many-body systems",
+        "quantum supremacy",
+        "random matrix ensembles",
+        "sampling quantum advantage",
+        "thermalization"
+    ],
+    "authors": [
+        "Jirawat Tangpanitanon",
+        "Supanut Thanasilp",
+        "Marc Antoine Lemonde",
+        "Ninnat Dangniam",
+        "Dimitris G. Angelakis"
+    ],
+    "citedby-count": 0,
+    "ref-count": 57,
+    "ref-list": [
+        "Quantum Computing in the NISQ era and beyond",
+        "Quantum computational supremacy",
+        "The computational complexity of linear optics",
+        "A linear-optical proof that the permanent is # P-hard",
+        "Quantum sampling problems, bosonsampling and quantum supremacy npj",
+        "Classical simulation of commuting quantum computations implies collapse of the polynomial hierarchy",
+        "Characterizing quantum supremacy in near-term devices",
+        "On the complexity and verification of quantum random circuit sampling",
+        "Boson sampling on a photonic chip",
+        "Photonic boson sampling in a tunable circuit",
+        "Experimental boson sampling",
+        "Integrated multimode interferometers with arbitrary designs for photonic boson sampling",
+        "Boson sampling with 20 input photons and a 60-mode interferometer in a 1014-dimensional hilbert space",
+        "Quantum computational advantage using photons",
+        "Phase-programmable gaussian boson sampling using stimulated squeezed light",
+        "Quantum computational advantage with a programmable photonic processor",
+        "A blueprint for demonstrating quantum supremacy with superconducting qubits",
+        "Quantum supremacy using a programmable superconducting processor",
+        "Strong quantum computational advantage using a superconducting quantum processor",
+        "Goals and opportunities in quantum simulation",
+        "Can one trust quantum simulators?",
+        "What is a quantum simulator?",
+        "Quantum simulation",
+        "Exploring the many-body localization transition in two dimensions",
+        "Architectures for quantum simulation showing a quantum speedup",
+        "Quantum supremacy for simulating a translation-invariant ising spin model",
+        "From quantum chaos and eigenstate thermalization to statistical mechanics and thermodynamics",
+        "Long-time behavior of isolated periodically driven interacting lattice systems",
+        "Periodically driving a many-body localized quantum system",
+        "Quantifying and controlling prethermal nonergodicity in interacting floquet matter",
+        "Parametric instabilities of interacting bosons in periodically driven 1D optical lattices",
+        "Colloquium: atomic quantum gases in periodically driven optical lattices",
+        "Quantum many-body systems out of equilibrium",
+        "Quantum certification and benchmarking",
+        "Anticoncentration theorems for schemes showing a quantum speedup",
+        "On approximation algorithms for #P",
+        "The complexity of approximating complex-valued ising and tutte partition functions",
+        "Average-Case complexity versus approximate simulation of commuting quantum computations",
+        "Quantum supremacy and quantum phase transitions",
+        "Testing whether all eigenstates obey the eigenstate thermalization hypothesis",
+        "Equilibrium states of generic quantum systems subject to periodic driving",
+        "Rigorous bound on energy absorption and generic relaxation in periodically driven quantum systems",
+        "Colloquium: many-body localization, thermalization and entanglement",
+        "Thermalization and prethermalization in isolated quantum systems: a theoretical overview",
+        "Expressibility and trainability of parametrized analog quantum systems for machine learning applications",
+        "Chaos and complexity by design",
+        "Random quantum circuits are approximate 2-designs"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Shanghai",
+            "@id": "60009860",
+            "affilname": "Fudan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009860",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60095887",
+            "affilname": "Centre for Quantum Technologies",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60095887",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Lausanne",
+            "@id": "60028186",
+            "affilname": "Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028186",
+            "affiliation-country": "Switzerland"
+        },
+        {
+            "affiliation-city": "Pitsanulok",
+            "@id": "60022498",
+            "affilname": "Naresuan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022498",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chania",
+            "@id": "60022461",
+            "affilname": "Technical University of Crete",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022461",
+            "affiliation-country": "Greece"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60001884",
+            "affilname": "Ministry of Higher Education, Science, Research and Innovation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001884",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "129325627",
+            "affilname": "AngelQ Quantum Computing",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129325627",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Sherbrooke",
+            "@id": "125306793",
+            "affilname": "Nord Quantique",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125306793",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "125005047",
+            "affilname": "Quantum Technology Foundation (Thailand)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125005047",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "National Research Foundation, Singapore and A*STAR",
+        "Thailand Science Research and Innovation Fund Chulalongkorn University",
+        "HORIZON",
+        "National Natural Science Foundation of China",
+        "EU Regional Development Fund"
+    ]
+}

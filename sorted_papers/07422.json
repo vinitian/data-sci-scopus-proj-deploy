@@ -1,0 +1,77 @@
+{
+    "eid": "2-s2.0-85074916023",
+    "title": "A Control Methodology of Inverter-Based Battery Energy Storage System for AC Microgrid",
+    "cover-date": "2019-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "AC microgrid",
+        "Battery Energy Storage System (BESS)",
+        "inverter control methodology",
+        "resynchronization",
+        "seamless transfer",
+        "virtual synchronous generator"
+    ],
+    "authors": [
+        "Thanakrit Kittiwararat",
+        "Kittanut Pongjirapat",
+        "Raksina Khanaroek",
+        "Surapong Suwankawin"
+    ],
+    "citedby-count": 1,
+    "ref-count": 9,
+    "ref-list": [
+        "Control strategy for flexible microgrid based on parallel line-interactive ups system",
+        "Control of power converters in ac microgrids",
+        "Comparison of dynamic characteristics between virtual synchronous generator and droop control in inverterbased distributed generators",
+        "New family of microgrid control and management strategies in smart distribution grids-Analysis comparison and testing",
+        "Control strategy of three-phase battery energy storage systems for frequency support in microgrids and with uninterrupted supply of local loads",
+        "A method of seamless transitions between grid-Tied and stand-Alone modes of operation for utilityinteractive three-phase inverters",
+        "A resonant current regulator based microgrid control strategy with smooth transition between islanded and grid-connected modes",
+        "Singlephase microgrid with seamless transition capabilities between modes of operation"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

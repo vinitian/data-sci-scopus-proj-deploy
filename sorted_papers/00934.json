@@ -1,0 +1,104 @@
+{
+    "eid": "2-s2.0-85105551214",
+    "title": "Comparative Analysis of Successive Cancellation and List Decoders Using Distinct Combinations of LLRs for Polar Codes",
+    "cover-date": "2020-11-24",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "5G",
+        "Log-Likelihood Ratio (LLR)",
+        "Successive Cancellation (SC) decoder",
+        "Successive Cancellation List (SCL) decoder"
+    ],
+    "authors": [
+        "Rafee Al Ahsan",
+        "Lunchakorn Wuttisittikulkij",
+        "Sunita Khichar",
+        "Pruk Sasithong",
+        "Ambar Bajpai",
+        "Pisit Vanichchanunt",
+        "Amir Parnianifard",
+        "Muhammad Saadi",
+        "Irfan Ullah",
+        "Sushank Chaudhary"
+    ],
+    "citedby-count": 0,
+    "ref-count": 11,
+    "ref-list": [
+        "Implementation of novel fractional powered binomial filter (fpbf) in 5g-ufmc",
+        "IoT enabled quality of experience measurement for next generation networks in smart cities",
+        "Design of polar codes in 5G new radio",
+        "List decoding of polar codes",
+        "Learning polar codes using python program with graphical user interface",
+        "A simplified successive-cancellation decoder for polar codes",
+        "Hardware decoders for polar codes: An overview",
+        "Llr-based successive cancellation list decoding of polar codes",
+        "Coding techniques for 5G networks: A review"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bengaluru",
+            "@id": "60250860",
+            "affilname": "Atria Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60250860",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Lahore",
+            "@id": "60103839",
+            "affilname": "University of Central Punjab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103839",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Beijing",
+            "@id": "60019499",
+            "affilname": "Chinese Academy of Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019499",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": [
+        "NON-ASEAN",
+        "Chulalongkorn University",
+        "ASEAN"
+    ]
+}

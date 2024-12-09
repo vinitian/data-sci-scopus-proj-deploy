@@ -1,0 +1,53 @@
+{
+    "eid": "2-s2.0-85065022972",
+    "title": "Development of an Automatic Meter Reading and Outage Management System using LoRaWAN Technology",
+    "cover-date": "2019-04-11",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "AMR",
+        "LoRaWAN",
+        "OMS"
+    ],
+    "authors": [
+        "Jittiwat Samuhasilp",
+        "Wanchalerm Pora"
+    ],
+    "citedby-count": 4,
+    "ref-count": 10,
+    "ref-list": [
+        "LoRa Specification 1.1",
+        "Performance of a low-power widearea network based on LoRa technology: Doppler robustness, scalability, coverage",
+        "Knowledge-based system for distribution system outage locating using comprehensive information",
+        "A general polling algorithm using a wireless amr system for restoration confirmation",
+        "Distribution system outage and restoration analysis using a wireless AMR system 2002",
+        "Automated meter reading systems in outage management",
+        "An improved algorithm to aid in post-heat storm restoration"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

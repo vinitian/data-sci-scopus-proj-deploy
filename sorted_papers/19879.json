@@ -1,0 +1,110 @@
+{
+    "eid": "2-s2.0-85121399559",
+    "title": "Evolving Architectures with Gradient Misalignment Toward Low Adversarial Transferability",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "adversarial examples",
+        "gradient misalignment",
+        "Neuroevolution",
+        "transferability"
+    ],
+    "authors": [
+        "Kevin Richard G. Operiano",
+        "Wanchalerm Pora",
+        "Hitoshi Iba",
+        "Hiroshi Kera"
+    ],
+    "citedby-count": 0,
+    "ref-count": 59,
+    "ref-list": [
+        "Explaining and harnessing adversarial examples",
+        "Evasion attacks against machine learning at test time",
+        "Boosting adversarial attacks with momentum",
+        "Universal adversarial perturbations",
+        "Practical black-box attacks against machine learning",
+        "Why do adversarial attacks transfer? Explaining transferability of evasion and poisoning attacks",
+        "Ensemble adversarial training: Attacks and defenses",
+        "DARTS: Differentiable architecture search",
+        "Evolving robust neural architectures to defend from adversarial attacks",
+        "Adversarial training for free!",
+        "Fast is better than free: Revisiting adversarial training",
+        "Multi-objective search of robust neural architectures against multiple types of adversarial attacks",
+        "Once-for-All: Train one network and specialize it for efficient deployment",
+        "When NAS meets robustness: In search of robust architectures against adversarial attacks",
+        "Countering adversarial images using input transformations",
+        "Feature denoising for improving adversarial robustness",
+        "Evolving neural networks through augmenting topologies",
+        "Automatically designing CNN architectures using the genetic algorithm for image classification",
+        "Orthogonal deep models as defense against black-box attacks",
+        "Gradient boosts the approximate vanishing ideal",
+        "Gradient-based learning applied to document recognition",
+        "Deep residual learning for image recognition",
+        "Densely connected convolutional networks",
+        "Skip connections matter: On the transferability of adversarial examples generated with resnets",
+        "Towards understanding and improving the transferability of adversarial examples in deep neural networks",
+        "A unified gradient regularization family for adversarial examples",
+        "Improving the adversarial robustness and interpretability of deep neural networks by regularizing their input gradients",
+        "Learning transferable architectures for scalable image recognition",
+        "Evolving deep neural networks",
+        "Regularized evolution for image classifier architecture search",
+        "Neural architecture search: A survey",
+        "A genetic programming approach to designing convolutional neural network architectures",
+        "Neuroevolution architecture backbone for X-ray object detection",
+        "Axiomatic attribution for deep networks",
+        "Towards deep learning models resistant to adversarial attacks",
+        "Spectrum-diverse neuroevolution with unified neural models",
+        "Theoretical analysis of steady state genetic algorithms",
+        "Pytorch: An imperative style, high-performance deep learning library",
+        "Handling limited datasets with neural networks in medical applications: A small-data approach",
+        "A strategy to apply machine learning to small datasets in materials science",
+        "Deep learning COVID-19 features on CXR using limited training data sets",
+        "An efficient mixture of deep and machine learning models for COVID-19 diagnosis in chest Xray images"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025272",
+            "affilname": "The University of Tokyo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025272",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Chiba",
+            "@id": "60002787",
+            "affilname": "Chiba University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002787",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Japan Society for the Promotion of Science",
+        "Chulalongkorn University"
+    ]
+}

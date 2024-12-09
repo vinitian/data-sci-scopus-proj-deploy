@@ -1,0 +1,129 @@
+{
+    "eid": "2-s2.0-85102239222",
+    "title": "An Integrated Reinforcement Learning and Centralized Programming Approach for Online Taxi Dispatching",
+    "cover-date": "2022-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Deep reinforcement learning (RL)",
+        "multiagent system",
+        "online vehicle routing",
+        "stochastic network traffic",
+        "vehicle dispatching"
+    ],
+    "authors": [
+        "Enming Liang",
+        "Kexin Wen",
+        "William H.K. Lam",
+        "Agachai Sumalee",
+        "Renxin Zhong"
+    ],
+    "citedby-count": 10,
+    "ref-count": 60,
+    "ref-list": [
+        "Large-scale order dispatch in on-demand ride-hailing platforms: A learning and planning approach",
+        "A deep value-network based approach for multi-driver order dispatching",
+        "Deep reinforcement learning with knowledge transfer for online rides order dispatching",
+        "Learning to delay in ridesourcing systems: A multi-agent deep reinforcement learning framework",
+        "Efficient ridesharing order dispatching with mean field multi-agent reinforcement learning",
+        "Multi-agent reinforcement learning for orderdispatching via order-vehicle distribution matching",
+        "Adaptive dynamic bipartite graph matching: A reinforcement learning approach",
+        "Efficient large-scale fleet management via multi-agent deep reinforcement learning",
+        "MOVI: A model-free approach to dynamic fleet management",
+        "Credit assignment for collective multiagent RL with global rewards",
+        "Optimizing taxi driver profit efficiency: A spatial network-based Markov decision process approach",
+        "A Markov decision process approach to vacant taxi routing with e-hailing",
+        "Optimal passenger-seeking policies on E-hailing platforms using Markov decision process and imitation learning",
+        "Offline-online approximate dynamic programming for dynamic vehicle routing with stochastic requests",
+        "Approximate dynamic programming for planning a ride-hailing system using autonomous fleets of electric vehicles",
+        "Path-based dynamic pricing for vehicle allocation in ridesharing systems with fully compliant drivers",
+        "Deep reinforcement learning for multi-driver vehicle dispatching and repositioning problem",
+        "CoRide: Joint order dispatching and fleet management for multi-scale ride-hailing platforms",
+        "Model predictive control of autonomous mobility-on-demand systems",
+        "Taxi dispatch with real-time sensing data in metropolitan areas: A receding horizon control approach",
+        "Online vehicle routing: The edge of optimization in large-scale applications",
+        "Hexagon-based convolutional neural network for supplydemand forecasting of ride-sourcing services",
+        "Dynamic programming",
+        "Learning from demonstration",
+        "Is imitation learning the route to humanoid robots?",
+        "Algorithms for inverse reinforcement learning",
+        "Disturbanceaware neuro-optimal system control using generative adversarial control networks",
+        "Human-level control through deep reinforcement learning",
+        "Mastering the game of go with deep neural networks and tree search",
+        "Plume tracing via model-free reinforcement learning method",
+        "Reinforcement learning tracking control for robotic manipulator with kernel-based dynamic model",
+        "Learning with stochastic guidance for robot navigation",
+        "Distributed economic dispatch in microgrids based on cooperative reinforcement learning",
+        "A multistage game in smart grid security: A reinforcement learning solution",
+        "A learning-based solution for an adversarial repeated game in cyber-physical power systems",
+        "Optimal power management based on Qlearning and neuro-dynamic programming for plug-in hybrid electric vehicles",
+        "Taxi travel should be subsidized",
+        "Surge pricing solves the wild goose chase",
+        "Spatial pricing in ridesharing networks",
+        "On the supply curve of ride-hailing systems",
+        "Optimizing matching time interval and matching radius in on-demand ride-sourcing markets",
+        "Deep reinforcement learning for swarm systems",
+        "Value-decomposition networks for cooperative multi-agent learning based on team reward",
+        "Qmix: Monotonic value function factorisation for deep multi-agent reinforcement learning",
+        "Learning to communicate with deep multi-agent reinforcement learning",
+        "Counterfactual multi-agent policy gradients",
+        "QTRAN: Learning to factorize with transformation for cooperative multi-agent reinforcement learning",
+        "The Hungarian method for the assignment problem",
+        "Prioritized experience replay",
+        "Memoryaugmented system identification with finite-time convergence",
+        "Adaptive optimal control of unknown constrained-input systems using policy iteration and neural networks",
+        "Concurrent learning for convergence in adaptive control without persistency of excitation",
+        "Deep exploration via bootstrapped DQN",
+        "OSMnx: New methods for acquiring, constructing, analyzing, and visualizing complex street networks",
+        "Deep learning",
+        "Mean field multi-agent reinforcement learning"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Guangzhou",
+            "@id": "60021182",
+            "affilname": "Sun Yat-Sen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021182",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "60008928",
+            "affilname": "The Hong Kong Polytechnic University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008928",
+            "affiliation-country": "Hong Kong"
+        }
+    ],
+    "funding": []
+}

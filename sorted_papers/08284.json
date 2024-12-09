@@ -1,0 +1,81 @@
+{
+    "eid": "2-s2.0-85078064158",
+    "title": "Development of IoTcloudServe@TEIN Smart-Energy@Chula Service Gateway: Case Study of Secured On-Demand Building Energy Management System Data Platform Using NETPIE",
+    "cover-date": "2019-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Media Technology",
+            "@code": "2214",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "building energy management systems (BEMS)",
+        "gateway",
+        "IEEE1888",
+        "IoTcloudServe@TEIN",
+        "open data"
+    ],
+    "authors": [
+        "Ririnda Thirasupa",
+        "Meechai Homchan",
+        "Siravit Kwankajornkeat",
+        "Chaodit Aswakul"
+    ],
+    "citedby-count": 3,
+    "ref-count": 11,
+    "ref-list": [
+        "FIAP: Facility information access protocol for data-centric building automation systems",
+        "ZigBee wireless sensor network with IEEE1888 gateway for building energy management system",
+        "Development and reliability testing of IEEE1888 gateway for ZigBee wireless sensor network in chulalongkorn University's building energy management system",
+        "Development of smart meter for building energy management system based on the IEEE 1888 standard with Wi-Fi communication",
+        "IEEE 1888 interactive display as a service (IDaaS): Example in building energy management system",
+        "Virtualising machine to machine (M2M) application using open baton as NFV-compliant framework for building energy management system",
+        "Authorization mechanism for MQTTbased internet of things"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nontaburi",
+            "@id": "60022674",
+            "affilname": "Electricity Generating Authority of Thailand",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022674",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Electricity Generating Authority of Thailand",
+        "NECTEC"
+    ]
+}

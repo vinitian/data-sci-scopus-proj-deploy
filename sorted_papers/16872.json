@@ -1,0 +1,107 @@
+{
+    "eid": "2-s2.0-85119090628",
+    "title": "The Impact of Employee Behavior on Business Continuity at an Industrial Complex",
+    "cover-date": "2021-09-13",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Area BCM",
+        "Business Continuity",
+        "Dynamic Bayesian Network",
+        "Interdependency",
+        "Public-Private-Partnership"
+    ],
+    "authors": [
+        "Akira Kodaka",
+        "Natt Leelawat",
+        "Eri Ino",
+        "Jing Tang",
+        "Jaehyun Park",
+        "Naohiko Kohtake"
+    ],
+    "citedby-count": 2,
+    "ref-count": 16,
+    "ref-list": [
+        "Lessons learned from two unprecedented disasters in 2011-great east Japan earthquake and tsunami in Japan and chao phraya river flood in Thailand",
+        "Area business continuity management, a new opportunity for building economic resilience",
+        "Business continuity management (bcm) for regional financial functionalities in wide-Area disasters-importance and challenges in cooperation among regional financial institutions and ppp (publicprivate partnership",
+        "A stakeholder analysis approach for area business continuity management: A systematic review",
+        "Area business continuity management approach to build sustainable communities",
+        "System-of-systems approach for interdependent critical infrastructures",
+        "An integrated modeling framework for quantitative business continuity assessment",
+        "A framework for modeling and assessing system resilience using a Bayesian network: A case study of an interdependent electrical infrastructure system",
+        "A Bayesian network-based approach to the critical infrastructure interdependencies analysis",
+        "Integrated infrastructure for sustainable cities-A review",
+        "Probabilistic decision-support framework for community resilience: Incorporating multi-hazards, infrastructure interdependencies, and resilience goals in a Bayesian network",
+        "A model for reasoning about persistence and causation",
+        "Supply chain risk network management: A Bayesian belief network and expected utility based approach for managing supply chain risks",
+        "Affecting factors on perceived usefulness of area-business continuity management: A perspective from employees in industrial areas in Thailand"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Kyoto",
+            "@id": "60031225",
+            "affilname": "Kyoto Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031225",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025997",
+            "affilname": "Keio University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025997",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Nagoya",
+            "@id": "60024751",
+            "affilname": "Nagoya Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024751",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

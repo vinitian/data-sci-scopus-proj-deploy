@@ -1,0 +1,86 @@
+{
+    "eid": "2-s2.0-85131788863",
+    "title": "Deep Attentive Pixels for Face Super-resolution",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Condensed Matter Physics",
+            "@code": "3104",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Face",
+        "Face image super-resolution",
+        "face prior",
+        "Image restoration",
+        "Image super-resolution"
+    ],
+    "authors": [
+        "Krit Duangprom",
+        "Sovann Chen",
+        "Supavadee Aramvith"
+    ],
+    "citedby-count": 0,
+    "ref-count": 24,
+    "ref-list": [
+        "FSRNet: End-to-end learning face super-resolution with facial priors",
+        "Deep Face Super-Resolution with Iterative Collaboration Between Attentive Recovery and Landmark Estimation",
+        "Image super-resolution using very deep residual channel attention networks",
+        "Deep learning face attributes in the wild",
+        "Interactive facial feature localization",
+        "Learning a deep convolutional network for image super-resolution",
+        "Accurate image super-resolution using very deep convolutional networks",
+        "Deeply-recursive convolutional network for image super-resolution",
+        "Image super-resolution via deep recursive residual network",
+        "Feedback network for image super-resolution",
+        "A deep convolutional neural network with selection units for super-resolution",
+        "Image super-resolution using very deep residual channel attention networks",
+        "Constrained local neural fields for robust facial landmark detection in the wild",
+        "Openface 2.0: Facial behavior analysis toolkit",
+        "Convolutional experts constrained local model for 3d facial landmark detection",
+        "Stacked hourglass networks for human pose estimation",
+        "A method for stochastic optimization",
+        "A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics",
+        "Rectified linear units improve restricted boltzmann machines",
+        "Photo-realistic single image super-resolution using a generative adversarial network",
+        "Image super-resolution using dense skip connections",
+        "Residual dense network for image super-resolution"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Ratchadaphiseksomphot Endowment Fund",
+        "Thailand Science research and Innovation Fund Chulalongkorn University CU_FRB65_soc"
+    ]
+}

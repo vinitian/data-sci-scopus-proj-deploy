@@ -1,0 +1,82 @@
+{
+    "eid": "2-s2.0-85084035116",
+    "title": "In Situ Caching using Combined TTL-FIFO Algorithm",
+    "cover-date": "2019-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Algorithmic arrangement",
+        "Cache",
+        "FIFO",
+        "Simulation"
+    ],
+    "authors": [
+        "Gasydech Lergchinnaboot",
+        "Peraphon Sophatsathit",
+        "Saranya Maneeroj"
+    ],
+    "citedby-count": 2,
+    "ref-count": 11,
+    "ref-list": [
+        "It's time to redefine moore's law again",
+        "Moore's law at fifty",
+        "End of moore ' s law: Thermal ( noise ) death of integration in micro and nano electronics",
+        "An adaptive two-level management for the flash translation layer in embedded systems",
+        "Improving performance of parallel i/o systems through selective and layout-aware ssd cache",
+        "LRU is better than fifo",
+        "A biological-like memory allocation scheme using simulation",
+        "Hierarchical cache performance analysis under ttl-based consistency",
+        "Maximizing cache hit ratios by variance reduction",
+        "Memory access scheduling"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

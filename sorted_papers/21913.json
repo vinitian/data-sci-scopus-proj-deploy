@@ -1,0 +1,66 @@
+{
+    "eid": "2-s2.0-85092723763",
+    "title": "Extractive Text Summarization for Thai Travel News Based on Keyword Scored in Thai Language",
+    "cover-date": "2020-08-12",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "extractive summarization",
+        "non-negative matrix factorization",
+        "Text summarization"
+    ],
+    "authors": [
+        "Sarunya Nathonghor",
+        "Duangdao Wichadakul"
+    ],
+    "citedby-count": 1,
+    "ref-count": 21,
+    "ref-list": [
+        "The challenges of automatic summarization",
+        "Extracting Thai compound nouns for paragraph extraction in Thai text",
+        "An automatic Thai text summarization using topic sensitive pagerank",
+        "A practical text summarizer by paragraph extraction for Thai",
+        "Advances in automatic text summarization",
+        "Automatic generic document summarization based on non-negative matrix factorization",
+        "Introduction to latent semantic analysis",
+        "Large-scale sparse singular value computations",
+        "Generic text summarization using relevance measure and latent semantic analysis",
+        "Extractive summarization of meeting recordings",
+        "Distance weighted cosine similarity measure for text classification"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "department of computer engineering",
+        "Chulalongkorn University"
+    ]
+}

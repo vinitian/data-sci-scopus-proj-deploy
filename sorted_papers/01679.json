@@ -1,0 +1,94 @@
+{
+    "eid": "2-s2.0-85164503835",
+    "title": "Development of a Data-Driven Soft Sensor for Multivariate Chemical Processes Using Concordance Correlation Coefficient Subsets Integrated with Parallel Inverse-Free Extreme Learning Machine",
+    "cover-date": "2023-06-30",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "concordance correlation coefficient",
+        "Data-driven soft sensor",
+        "extreme learning machine",
+        "multivariate chemical process"
+    ],
+    "authors": [
+        "Thirasit Kusolsongtawee",
+        "Soorathep Kheawhom",
+        "Sorin Olaru",
+        "Pornchai Bumroongsri"
+    ],
+    "citedby-count": 0,
+    "ref-count": 40,
+    "ref-list": [
+        "Semi-supervised mixture of latent factor analysis models with application to online key variable estimation",
+        "An interpolation-based robust MPC algorithm using polyhedral invariant sets",
+        "An empirical study of the state of the practice and acceptance of model-driven engineering in four industrial cases",
+        "An off-line formulation of tube-based robust MPC using polyhedral invariant sets",
+        "Prediction interval-based neural network modelling of polystyrene polymerization reactor-A new perspective of data-based modelling",
+        "Fault diagnosis of an industrial gas turbine based on the thermodynamic model coupled with a multi feedforward artificial neural networks",
+        "Prediction of power consumption and water productivity of seawater greenhouse system using random vector functional link network integrated with artificial ecosystem-based optimization",
+        "Dynamic optimization of a pilot-scale entrained-flow gasifier using artificial recurrent neural networks",
+        "Improving the backpropagation algorithm with consequentialism weight updates over mini-batches",
+        "Ultrasound-assisted process optimization and tribological characteristics of biodiesel from palm-sesame oil via response surface methodology and extreme learning machine-Cuckoo search",
+        "A hierarchical structure of extreme learning machine (HELM) for high-dimensional datasets with noise",
+        "Random forests-based extreme learning machine ensemble for multi-regime time series prediction",
+        "On the comparison of random and Hebbian weights for the training of single-hidden layer feedforward neural networks",
+        "An extreme learning machine approach for speaker recognition",
+        "Constructive hidden nodes selection of extreme learning machine for regression",
+        "Combination of activation functions in extreme learning machines for multivariate calibration",
+        "Ensemble delta test-extreme learning machine (DT-ELM) for regression",
+        "Spectroscopy-based food classification with extreme learning machine",
+        "Multi-label classification using a cascade of stacked autoencoder and extreme learning machines",
+        "Modeling and performance evaluation of wind turbine based on ant colony optimization-extreme learning machine",
+        "Extreme learning machine ensemble model for time series forecasting boosted by PSO: Application to an electric consumption problem",
+        "A multi-step ahead photovoltaic power prediction model based on similar day, enhanced colliding bodies optimization, variational mode decomposition, and deep extreme learning machine",
+        "Processes soft modeling based on stacked autoencoders and wavelet extreme learning machine for aluminum plant-wide application",
+        "Prediction of photovoltaic power output based on similar day analysis, genetic algorithm and extreme learning machine",
+        "Prediction short-term photovoltaic power using improved chicken swarm optimizer-Extreme learning machine model",
+        "Production capacity prediction of hydropower industries for energy optimization: Evidence based on novel extreme learning machine integrating Monte Carlo",
+        "Online sequential extreme learning machine based adaptive control for wastewater treatment plant",
+        "Adaptive control of rapidly time-varying discrete-time system using initial-training-free online extreme learning machine",
+        "Nonlinear industrial soft sensor development based on semi-supervised probabilistic mixture of extreme learning machines",
+        "A soft sensor for industrial melt index prediction based on evolutionary extreme learning machine",
+        "The polyhedral off-line robust model predictive control strategy for uncertain polytopic discrete-time systems",
+        "A data-attribute-space-oriented double parallel (DASODP) structure for enhancing extreme learning machine: Applications to regression datasets",
+        "Positive and negative correlation input attributes oriented subnets based double parallel extreme learning machine (PNIAOS-DPELM) and its application to monitoring chemical processes in steady state",
+        "Data driven soft sensor development for complex chemical processes using extreme learning machine",
+        "Enhanced online sequential parallel extreme learning machine and its application in remaining useful life prediction of integrated modular avionics",
+        "Least square parallel extreme learning machine for modeling NOx emission of a 300MW circulating fluidized bed boiler",
+        "An incremental extreme learning machine for online sequential learning problems",
+        "Constrained robust model predictive control based on polyhedral invariant sets by off-line optimization",
+        "Inverse-free extreme learning machine with optimal information updating"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60012718",
+            "affilname": "Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012718",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Gif-sur-Yvette",
+            "@id": "60007136",
+            "affilname": "Laboratoire des Signaux et Syst\u00e8mes",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007136",
+            "affiliation-country": "France"
+        }
+    ],
+    "funding": [
+        "Mahidol University"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "eid": "2-s2.0-85160508326",
+    "title": "Poisson approximation for the expectation of call function with application in collateralized debt obligation",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Statistics and Probability",
+            "@code": "2613",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Call function",
+        "collateralized debt obligation (CDO)",
+        "local dependence",
+        "Poisson approximation",
+        "Stein-Chen\u2019s method"
+    ],
+    "authors": [
+        "N. Yonghint",
+        "K. Neammanee"
+    ],
+    "citedby-count": 0,
+    "ref-count": 11,
+    "ref-list": [
+        "Poisson approximation for locally dependent CDO",
+        "Poisson approximation for dependent trials",
+        "Correlations for CDO pricing",
+        "Stein\u2019s method and zero bias transformation with application to simple random sampling",
+        "Valuation of a CDO and an n to default CDS without Monte Carlo simulation",
+        "Stein\u2019s method and zero bias transformation for CDO tranche pricing",
+        "Gauss and Poisson approximation: Applications to CDOs tranche pricing",
+        "Normal approximation for call function via Stein\u2019s method",
+        "Poisson approximation for sums of dependent Bernoulli random variables",
+        "Poisson approximation for call function via Stein-Chen method"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60001884",
+            "affilname": "Ministry of Higher Education, Science, Research and Innovation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001884",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

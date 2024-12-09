@@ -1,0 +1,79 @@
+{
+    "eid": "2-s2.0-85128210808",
+    "title": "Demand Forecasting in Production Planning for Dairy Products Using Machine Learning and Statistical Method",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Autoregressive Integrated Moving Average (ARIMA)",
+        "Deep Learning",
+        "Demand Forecasting",
+        "Long Short-Term Memory (LSTM)",
+        "Time Series Data"
+    ],
+    "authors": [
+        "Chayuth Vithitsoontorn",
+        "Prabhas Chongstitvatana"
+    ],
+    "citedby-count": 0,
+    "ref-count": 17,
+    "ref-list": [
+        "Long short-term memory",
+        "Deep Learning with Time Series Forecasting",
+        "Forecasting of demand using ARIMA model",
+        "E-commerce time series forecasting using LSTM neural network and support vector regression",
+        "Well production forecasting based on ARIMA-LSTM model considering manual operations",
+        "A CNN-LSTM model for gold price time-series forecasting",
+        "Improved supply chain management based on hybrid demand forecasts",
+        "Demand forecasting in retail operations for fashionable products: Methods, practices, and real case study",
+        "Machine learning applied in production planning and control: A state-of-the-art in the era of industry 4.0",
+        "Another look at measures of forecast accuracy",
+        "Fill rates of single-stage and multistage supply systems",
+        "A cross-temporal hierarchical framework and deep learning for supply chain forecasting",
+        "Principles and algorithms for forecasting groups of time series: Locality and globality"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

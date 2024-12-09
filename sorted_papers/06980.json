@@ -1,0 +1,144 @@
+{
+    "eid": "2-s2.0-85091275389",
+    "title": "A Modified Conjugate Descent Projection Method for Monotone Nonlinear Equations and Image Restoration",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "conjugate gradient method",
+        "image restoration",
+        "Nonlinear monotone equations",
+        "projection method"
+    ],
+    "authors": [
+        "Sani Aji",
+        "Poom Kumam",
+        "Punnarai Siricharoen",
+        "Auwal Bala Abubakar",
+        "Mahmoud Muhammad Yahaya"
+    ],
+    "citedby-count": 8,
+    "ref-count": 61,
+    "ref-list": [
+        "Newton-type methods with generalized distances for constrained optimization",
+        "Equivalent differentiable optimization problems and descent methods for asymmetric variational inequality problems",
+        "Monotonicity of fixed point and normal mappings associated with variational inequality and its application",
+        "Gradient projection for sparse reconstruction: Application to compressed sensing and other inverse problems",
+        "Non-smooth equations based method for '1-norm problems with applications to compressed sensing",
+        "A conjugate gradient method to solve convex constrained monotone equations with applications in compressive sensing",
+        "Bayesian shearlet shrinkage for SAR image de-noising via sparse representation",
+        "SAR image denoising via sparse representation in shearlet domain based on continuous cycle spinning",
+        "Speckle suppression based on weighted nuclear norm minimization and grey theory",
+        "Forecasting stock market returns: New technical indicators and two-step economic constraint method",
+        "Descent directions of quasiNewton methods for symmetric nonlinear equations",
+        "Analysis of effective working characteristic of the proportional solenoid",
+        "A limited-memory BFGS algorithm based on a trust-region quadratic model for large-scale nonlinear equations",
+        "Hybrid approach for solving systems of nonlinear equations using chaos optimization and quasi-Newton method",
+        "An inexact quasi-Newton algorithm combined with jacobian restart technique for nonlinear equation systems",
+        "Nonmonotone backtracking inexact quasi-Newton algorithms for solving smooth nonlinear equations",
+        "A modified Newton method for the solution of illconditioned systems of nonlinear equations with application to multiple shooting",
+        "A modified Newton method for radial distribution system power flow analysis",
+        "The modified Gauss-Newton method for the fitting of nonlinear regression functions by least squares",
+        "A limited memory BFGS method for solving large-scale symmetric nonlinear equations",
+        "A modified conjugate gradient algorithm with backtracking line search technique for large-scale nonlinear equations",
+        "A modified Hestenes and Stiefel conjugate gradient algorithm for large-scale nonsmooth minimizations and nonlinear equations",
+        "Modified nonlinear conjugate gradient methods with sufficient descent property for large-scale optimization problems",
+        "Function minimization by conjugate gradients",
+        "A nonlinear conjugate gradient method with a strong global convergence property",
+        "Methods of conjugate gradients for solving linear systems",
+        "Note sur la convergence de m\u00e9thodes de directions conjugu\u00e9es",
+        "Efficient generalized conjugate gradient algorithms, part 1: Theory",
+        "A new spectral conjugate gradient method and ARIMA combined forecasting model and application",
+        "A PRP type method for systems of monotone equations",
+        "The conjugate gradient method in extremal problems",
+        "A globally convergent inexact Newton method for systems of monotone equations",
+        "A new conjugate gradient method with guaranteed descent and an efficient line search",
+        "Sufficient descent conjugate gradient methods for solving convex constrained nonlinear monotone equations",
+        "Wei-Yao-Liu conjugate gradient projection algorithm for nonlinear monotone equations with convex constraints",
+        "A projection method for convex constrained monotone nonlinear equations with applications",
+        "FR type methods for systems of largescale nonlinear monotone equations",
+        "A descent Dai-Liao conjugate gradient method for nonlinear equations",
+        "A descent family of Dai-Liao conjugate gradient methods",
+        "A modified Hestenes-Stiefel-type derivative-free method for large-scale nonlinear monotone equations",
+        "Global convergence of a modified Hestenes-Stiefel nonlinear conjugate gradient method with Armijo line search",
+        "A conjugate gradient algorithm for large-scale nonlinear equations and image restoration problems",
+        "A modified BFGS method and its global convergence in nonconvex minimization",
+        "On the global convergence of the BFGS method for nonconvex unconstrained optimization problems",
+        "A spectral conjugate gradient method for unconstrained optimization",
+        "A conjugate gradient projection method for solving equations with convex constraints",
+        "A self-adaptive three-term conjugate gradient method for monotone nonlinear equations with convex constraints",
+        "Spectral residual method without gradient information for solving large-scale nonlinear systems of equations",
+        "A spectral algorithm for large-scale systems of nonlinear monotone equations",
+        "An efficient implementation of Merrill's method for sparse or partially separable systems of nonlinear equations",
+        "Spectral gradient projection method for monotone nonlinear equations with convex constraints",
+        "Benchmarking optimization software with performance profiles",
+        "An em algorithm for waveletbased image restoration",
+        "A fixed-point continuation method for '1-regularized minimization with applications to compressed sensing",
+        "A fast iterative shrinkage-thresholding algorithm for linear inverse problems",
+        "Probing the Pareto frontier for basis pursuit solutions",
+        "Nonmonotone spectral projected gradient methods on convex sets",
+        "Inexact Newton methods for the nonlinear complementarity problem",
+        "Image quality assessment: From error visibility to structural similarity"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Thonburi",
+            "@id": "60008786",
+            "affilname": "King Mongkut's University of Technology Thonburi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008786",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Gombe",
+            "@id": "60116774",
+            "affilname": "Gombe State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60116774",
+            "affiliation-country": "Nigeria"
+        },
+        {
+            "affiliation-city": "Taichung",
+            "@id": "60031941",
+            "affilname": "China Medical University Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031941",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Kano",
+            "@id": "60004465",
+            "affilname": "Bayero University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004465",
+            "affiliation-country": "Nigeria"
+        }
+    ],
+    "funding": [
+        "Center of Excellence in Theoretical and Computational Science",
+        "Faculty of Science",
+        "King Mongkut\u2019s University of Technology Thonburi",
+        "Faculty of Science"
+    ]
+}

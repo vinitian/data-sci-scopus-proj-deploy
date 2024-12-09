@@ -1,0 +1,87 @@
+{
+    "eid": "2-s2.0-85076999407",
+    "title": "Comparative Electrical Energy Yield Performance of Micro-Inverter PV Systems Using a Machine Learning Approach Based on a Mixed-Effect Model of Real Datasets",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "fixed effects",
+        "longitudinal measurement",
+        "micro-inverter configuration",
+        "micro-inverter PV system",
+        "Mixed-effect model",
+        "random effects"
+    ],
+    "authors": [
+        "Ngoc Thien Le",
+        "Watit Benjapolakul"
+    ],
+    "citedby-count": 7,
+    "ref-count": 40,
+    "ref-list": [
+        "Global PV incentive policies and recommendations for utilities",
+        "Bill saving analysis of rooftop PV customers and policy implications for Thailand",
+        "The first installation under the Italian PV rooftop programme: A performance analysis referred to five years of operation",
+        "Energy payback time (EPBT) and energy return on energy invested (EROI) of solar photovoltaic systems: A systematic review and meta-analysis",
+        "Evaluation of photovoltaic installations performances in Sardinia",
+        "Comparison of micro inverters based on practical analysis",
+        "Cost, performance, and yield comparison of eight different micro-inverters",
+        "Long-term performance of PV micro-inverters",
+        "Comparison of conversion efficiencies and energy yields of micro-inverters for photovoltaic modules",
+        "Modelling and simulation of photo-voltaic module for micro inverter application",
+        "Performance comparison between micro-inverter and string-inverter photovoltaic systems",
+        "Microinverter and string inverter grid-connected photovoltaic system-A comprehensive study",
+        "Solar photovoltaic system design optimization by shading analysis to maximize energy genera-tion from limited urban area",
+        "Annual degradation rates of recent crystalline silicon photovoltaic modules",
+        "Robust PV degradation methodology and application",
+        "Performance parameters for grid-connected PV systems",
+        "Performance degradation of various PV module technologies in tropical Singapore",
+        "Degradation analysis of photovoltaic modules under tropical climatic conditions and its impacts on LCOE",
+        "Preliminary assessment of a small-scale rooftop PV-grid tied in Norwegian climatic conditions",
+        "Performance of grid-tied PV facilities based on real data in Spain: Central inverter versus string system",
+        "The conditional level of the F-Test",
+        "Compendium of photovoltaic degradation rates",
+        "Effect of ambient temperature on performance of grid-connected inverter installed in Thailand"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60109585",
+            "affilname": "University of Architecture Ho Chi Minh City",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60109585",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Machine Learning",
+        "Rachadapisek Sompote Fund for Artificial Intelligence",
+        "Rachadapisek Sompote Fund for Artificial Intelligence, Machine Learning",
+        "Smart Grid Technology",
+        "Chulalongkorn University"
+    ]
+}

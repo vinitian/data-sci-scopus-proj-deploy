@@ -1,0 +1,112 @@
+{
+    "eid": "2-s2.0-85074990979",
+    "title": "The UCR time series archive",
+    "cover-date": "2019-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Hoang Anh Dau",
+        "Anthony Bagnall",
+        "Kaveh Kamgar",
+        "Chin Chia Michael Yeh",
+        "Yan Zhu",
+        "Shaghayegh Gharghabi",
+        "Chotirat Annh Ratanamahatana",
+        "Eamonn Keogh"
+    ],
+    "citedby-count": 281,
+    "ref-count": 54,
+    "ref-list": [
+        "Efficient similarity search in sequence databases",
+        "On the need for time series data mining benchmarks: A survey and empirical demonstration",
+        "Adaptive query processing for time-series data",
+        "Aim: Approximate intelligent matching for time series data",
+        "Local discriminant bases and their applications",
+        "Classification of streaming time series under more realistic assumptions",
+        "Optimizing dynamic time warping's window width for time series data mining applications",
+        "Addressing big data time series: Mining trillions of time series subsequences under dynamic time warping",
+        "SAX-based representation with longest common subsequence dissimilarity measure for time series data classification",
+        "A new time series classification approach based on recurrence quantification analysis and Gabor filter",
+        "Characteristic subspace learning for time series classification",
+        "K-Shape: Efficient and accurate clustering of time series",
+        "Classification of time series by shapelet transformation",
+        "Judicious setting of dynamic time warping's window width allows more accurate classification of time series",
+        "Dynamic time warping assessment of high-resolution melt curves provides a robust metric for fungal identification",
+        "Prefix and suffix invariant dynamic time warping",
+        "Time series classification with discrete wavelet transformed data",
+        "Combining the global and partial information for distance-based time series classification and clustering",
+        "Finding the clustering consensus of time series with multi-scale transform",
+        "Dimensionality reduction for fast similarity search in large time series databases",
+        "The BOSS is concerned with time series classification in the presence of noise",
+        "Time series classification with discrete wavelet transformed data: Insights from an empirical study",
+        "Evaluating measures of indicators of diagnostic test performance: Fundamental meanings and formulars",
+        "The balanced accuracy and its posterior distribution",
+        "Statistical comparisons of classifiers over multiple data sets",
+        "An extension on 'statistical comparisons of classifiers over multiple data sets' for all pairwise comparisons",
+        "On comparing classifiers: Pitfalls to avoid and a recommended approach",
+        "The probable error of a mean",
+        "Individual comparisons by ranking methods",
+        "The use of ranks to avoid the assumption of normality implicit in the analysis of variance",
+        "A comparison of alternative tests of significance for the problem of m rankings",
+        "Should we really use post-hoc tests based on mean-ranks",
+        "A simple sequentially rejective multiple test procedure",
+        "Matrix profile XII: MPdist: a novel time series distance measure to allow data mining in more challenging scenarios",
+        "CID: An efficient complexity-invariant distance for time series",
+        "The great time series classification bake off: A review and experimental evaluation of recent algorithmic advances",
+        "Time series classification with HIVE-COTE: The hierarchical vote collective of transformation-based ensembles",
+        "The use of multiple measurements in taxonomic problems",
+        "Gesture recognition using symbolic aggregate approximation and dynamic time warping on motion data",
+        "Classification of time sequences using graphs of temporal constraints",
+        "A data management platform for personalised real-time energy feedback",
+        "Generating synthetic time series to augment sparse datasets"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Riverside",
+            "@id": "60029526",
+            "affilname": "University of California, Riverside",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029526",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Norwich",
+            "@id": "60000112",
+            "affilname": "University of East Anglia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000112",
+            "affiliation-country": "United Kingdom"
+        }
+    ],
+    "funding": []
+}

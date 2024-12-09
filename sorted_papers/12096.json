@@ -1,0 +1,73 @@
+{
+    "eid": "2-s2.0-85050459819",
+    "title": "Game-ready 3D hair model from a small set of images",
+    "cover-date": "2019-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Graphics and Computer-Aided Design",
+            "@code": "1704",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "hair modeling",
+        "hair simulation",
+        "physical simulation",
+        "physics-based animation",
+        "reconstruction"
+    ],
+    "authors": [
+        "Nuttapon Vanakittistien",
+        "Attawith Sudsang",
+        "Nuttapong Chentanez"
+    ],
+    "citedby-count": 0,
+    "ref-count": 30,
+    "ref-list": [
+        "Capture of hair geometry from multiple images",
+        "Modeling hair from multiple views",
+        "Hair photobooth: geometric and photometric acquisition of real hairstyles",
+        "Capturing hair assemblies fiber by fiber",
+        "Single-view hair modeling for portrait manipulation",
+        "Dynamic hair manipulation in images and videos",
+        "Structure-aware hair capture",
+        "Robust hair capture using simulated examples",
+        "Capturing braided hairstyles",
+        "Single-view hair modeling using a hairstyle database",
+        "High-quality hair modeling from a single portrait photo",
+        "AutoHair: fully automatic hair modeling from a single image",
+        "A data-driven approach to four-view image-based hair modeling",
+        "Position based dynamics",
+        "Position based fluids",
+        "Unified particle physics for real-time applications",
+        "\"GrabCut\": interactive foreground extraction using iterated graph cuts",
+        "Unsupervised texture segmentation using Gabor filters",
+        "The visual hull concept for silhouette-based image understanding"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Santa Clara",
+            "@id": "60076695",
+            "affilname": "NVIDIA",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60076695",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Development and Promotion of Science and Technology Talents Project"
+    ]
+}

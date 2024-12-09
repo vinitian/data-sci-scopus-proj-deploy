@@ -1,0 +1,111 @@
+{
+    "eid": "2-s2.0-85075949570",
+    "title": "Relation extraction between bacteria and biotopes from biomedical texts with attention mechanisms and domain-specific contextual representations",
+    "cover-date": "2019-12-03",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Structural Biology",
+            "@code": "1315",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Attention networks",
+        "Biomedical text mining",
+        "Contextual word-embeddings",
+        "Deep learning",
+        "Domain-specific language",
+        "Relation extraction"
+    ],
+    "authors": [
+        "Amarin Jettakul",
+        "Duangdao Wichadakul",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 5,
+    "ref-count": 72,
+    "ref-list": [
+        "Getting Started in Text Mining",
+        "TEES 2.1: Automated Annotation Scheme Learning in the BioNLP 2013 Shared Task",
+        "Deep learning",
+        "Steady state and dynamic performance of proton exchange membrane fuel cells (PEMFCs) under various operating conditions and load changes",
+        "Drug-Drug Interaction Extraction via Convolutional Neural Networks",
+        "A protein-protein interaction extraction approach based on deep neural network",
+        "Relation Classification via Convolutional Deep Neural Network",
+        "Multichannel Convolutional Neural Network for Biological Relation Extraction",
+        "Drug-drug interaction extraction from biomedical texts using long short-term memory network",
+        "Drug-drug interaction extraction via hierarchical RNNs on sequence and shortest dependency paths",
+        "Biomedical event extraction via Long Short Term Memory networks along dynamic extended tree",
+        "Biomedical event extraction based on GRU integrating attention mechanism",
+        "Joint entity and relation extraction based on a hybrid neural network",
+        "A hybrid model based on neural networks for biomedical relation extraction",
+        "Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification",
+        "Sentiment classification using Comprehensive Attention Recurrent models",
+        "Attention-based convolutional neural networks for sentence classification",
+        "A Cognition Based Attention Model for Sentiment Analysis",
+        "An attention-based effective neural model for drug-drug interactions extraction",
+        "Distributed Respresentation of Words and Pharses and their Compositionality",
+        "Disambiguation in the biomedical domain: The role of ambiguity type",
+        "Sdnet: Contextualized attention-based deep network for conversational question answering",
+        "Contextualized word representations for reading comprehension",
+        "A comparison of word embeddings for the biomedical natural language processing",
+        "How Many Random Seeds?",
+        "Extracting drug-drug interactions with word and character-level recurrent neural networks",
+        "Community challenges in biomedical text mining over 10 years: Success, failure and the future",
+        "Text Mining Genotype-Phenotype Relationships from Biomedical Literature for Database Curation and Precision Medicine",
+        "Text mining for precision medicine: Automating disease-mutation relationship extraction from biomedical literature",
+        "Translational Biomedical Informatics",
+        "Dissecting contextual word embeddings: Architecture and representation",
+        "Semi-supervised sequence modeling with cross-view training",
+        "SemEval-2013 Task 9: Extraction of Drug-Drug Interactions from Biomedical Texts (DDIExtraction 2013)",
+        "UTurku: Drug Named Entity Recognition and Drug-Drug Interaction Extraction Using SVM Classification and Domain Knowledge",
+        "FBK-irst: A Multi-Phase Kernel Based Approach for Drug-Drug Interaction Detection and Classification that Exploits Linguistic Information",
+        "Extracting drug-drug interactions from biomedical text using a feature-based kernel approach",
+        "Multichannel Convolutional Neural Network for Biological Relation Extraction",
+        "Drug drug interaction extraction from the literature using a recursive neural network",
+        "Coarse-to-fine n-best parsing and maxent discriminative reranking",
+        "Crystal Structure of the Bcl-XL-Beclin 1 Peptide Complex",
+        "Bidirectional recurrent neural networks",
+        "Analysis of Factors Influencing Productivity Using Craftsmen Questionnaires: Case Study in a Chilean Construction Company",
+        "Convolutional neural networks for sentence classification",
+        "Comparative study of cnn and rnn for natural language processing",
+        "Self-attention: A better building block for sentiment analysis neural network classifiers",
+        "An End-to-End Entity and Relation Extraction Network with Multi-head Attention",
+        "Training word embeddings for deep learning in biomedical text mining tasks",
+        "Probabilistic Interpretation of Feedforward Classification Network Outputs, with Relationships to Statistical Pattern Recognition",
+        "Automatic differentiation in pytorch"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

@@ -1,0 +1,101 @@
+{
+    "eid": "2-s2.0-85054882415",
+    "title": "Multiscale adaptive regularisation Savitzky\u2013 Golay method for speckle noise reduction in ultrasound images",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Vera Sa-Ing",
+        "Pongpat Vorasayan",
+        "Nijasri C. Suwanwela",
+        "Supatana Auethavekiat",
+        "Chedsada Chinrungrueng"
+    ],
+    "citedby-count": 24,
+    "ref-count": 42,
+    "ref-list": [
+        "Risk of cardiovascular disease measured by carotid intima-media thickness at age 49\u201351: Lifecourse study",
+        "Speckle in ultrasound b-mode scans",
+        "Speckle filtering of sar images based on adaptive windowing",
+        "Fourth-order partial differential equations for noise removal",
+        "Speckle reducing anisotropic diffusion",
+        "Adaptive filtering for reduction of speckle in ultrasonic pulse-echo images",
+        "An adaptive weighted median filter for speckle suppression in medical ultrasonic images",
+        "Real-time speckle reduction of ultrasound images based on regularized Savitzky\u2013Golay filters",
+        "Minimized speckle noise in lens-less holographic projection by pixel separation",
+        "Nonlinear multiscale wavelet diffusion for speckle suppression and edge enhancement in ultrasound images",
+        "Speckle noise reduction of medical ultrasound images in complex wavelet domain using mixture priors",
+        "Wavelet domain Bayesian processor for speckle removal in medical ultrasound images",
+        "Speckle reduction with edges preservation for ultrasound images: Using function spaces approach",
+        "A suitable threshold for speckle reduction in ultrasound images",
+        "Quantum-inspired hybrid medical ultrasound images despeckling method",
+        "Speckle filtering of ultrasound images using a modified non-linear diffusion model in non-subsampled shearlet domain",
+        "Wavelet-based blind deconvolution of near-field ultrasound scans",
+        "Nonlinear diffusion in Laplacian pyramid domain for ultrasonic speckle reduction",
+        "Multiscale nonlinear diffusion and shock filter for ultrasound image enhancement",
+        "Medical image noise reduction using radon transform and Walsh list in Laplacian pyramid domain",
+        "A multiresolution framework for ultrasound image segmentation by combinative active contours",
+        "A new feature-enhanced speckle reduction method based on multiscale analysis for ultrasound b-mode imaging",
+        "The Laplacian pyramid as a compact image code",
+        "The wavelet transform, time-frequency localization and signal analysis",
+        "On the equivalence of soft wavelet shrinkage, total variation diffusion, total variation regularization, and sides",
+        "\u2018Edge-preserving decompositions for multi-scale tone and detail manipulation\u2019",
+        "Multiscale shape and detail enhancement from multi-light image collections",
+        "Scale-space and edge detection using anisotropic diffusion",
+        "Feature-oriented image enhancement using shock filters",
+        "Multiscale texture enhancement",
+        "Smoothing and differentiation of data by simplified least squares procedures",
+        "Fast edge-preserving noise reduction for ultrasound images",
+        "\u2018Aggressive region growing for speckle reduction in ultrasound images\u2019, Pattern Recognit",
+        "Modeling the amplitude statistics of ultrasonic images",
+        "Image sequence coding using vector quantization",
+        "Image quality assessment: From error visibility to structural similarity",
+        "Fourier transform-based windowed adaptive switching minimum filter for reducing periodic noise from digital images",
+        "A computational approach to edge detection",
+        "Quantitation of carotid stenosis with continuouswave (c-w) Doppler ultrasound",
+        "A state of the art review on intima\u2013media thickness (IMT) measurement and wall segmentation techniques for carotid ultrasound",
+        "Completely automated multiresolution edge snapper \u2013 a new technique for an accurate carotid ultrasound IMT measurement: Clinical validation and benchmarking on a multi-Institutional database"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,73 @@
+{
+    "eid": "2-s2.0-85135093039",
+    "title": "Expert System Development to Predict Canned Motor Pump Status",
+    "cover-date": "2022-04-28",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Canned motor pump",
+        "Expert System",
+        "Machine learning",
+        "Predictive maintenance"
+    ],
+    "authors": [
+        "Komkrish Thuensuwan",
+        "Parames Chutima"
+    ],
+    "citedby-count": 0,
+    "ref-count": 18,
+    "ref-list": [
+        "Machine learning and reasoning for predictive maintenance in Industry 4. 0: Current status and challenges",
+        "An integrated machine learning model for aircraft components rare failure prognostics with log-based dataset",
+        "Predictive maintenance for ballast pumps on ship repair yards via machine learning",
+        "Application of supervised machine learning paradigms in the prediction of petroleum reservoir properties: Comparative analysis of ANN and SVM models",
+        "Multiclass support vector machine",
+        "Training of artificial neural network using pso with novel initialization technique",
+        "SMOTE: synthetic minority over-sampling technique",
+        "Logistic regression model for predicting the failure probability of a landslide dam",
+        "Failure analysis of fuel pumps used for diesel engines in transport utility vehicles",
+        "Applications of machine learning to machine fault diagnosis: A review and roadmap",
+        "Flight Delay Prediction Using a Hybrid Deep Learning Method"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "North Bangkok",
+            "@id": "112866858",
+            "affilname": "Royal Society of Thailand",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112866858",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

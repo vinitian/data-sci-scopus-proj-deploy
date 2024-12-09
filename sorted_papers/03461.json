@@ -1,0 +1,72 @@
+{
+    "eid": "2-s2.0-85163025832",
+    "title": "Influence of Wind Direction on the Ion Flow Field of 500kV HVDC Lines",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "corona discharge",
+        "HVDC",
+        "ion flow field",
+        "overhead lines",
+        "upwind finite volume method",
+        "wind"
+    ],
+    "authors": [
+        "Cattareya Choopum",
+        "Kriangkrai Odethanu",
+        "Boonchai Techaumnat"
+    ],
+    "citedby-count": 0,
+    "ref-count": 12,
+    "ref-list": [
+        "Influence of Wind on the Electric Field and Ion Current Environment of HVDC Transmission Lines",
+        "Calculation of Ion-Flow Field of HVdc Transmission Lines in the Presence of Wind Using Finite Element-Finite Difference Combined Method With Domain Decomposition",
+        "Method of local characteristics for calculating electric field and ion current of HVDC transmission lines with transverse wind",
+        "Predictive calculation of ion current environment of dc transmission line based on ionised flow model of embedded short-term wind speed",
+        "Estimating the environmental impacts of HVDC and UHVDC lines for large-scale wind power transmission considering height-dependent wind and atmospheric stability",
+        "Guide to the conversion of existing AC lines to DC operation",
+        "Ion-Flow Models: A Review",
+        "Investigation of the Effects of Ion Diffusivity on the Ion Flow Field Simulation",
+        "Finite Volume-Based Approach for the Hybrid Ion-Flow Field of UHVAC and UHVDC Transmission Lines in Parallel",
+        "Wind Shear Coefficient at 23 Wind Monitoring Towers in Thailand"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

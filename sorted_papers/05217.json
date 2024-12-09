@@ -1,0 +1,69 @@
+{
+    "eid": "2-s2.0-85077437847",
+    "title": "A mathematical model for dynamic operation of zinc-air battery cells",
+    "cover-date": "2019-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Battery storage systems",
+        "Identification",
+        "Modelling"
+    ],
+    "authors": [
+        "Sorin Olaru",
+        "Anna Golovkina",
+        "Woranunt Lao-Atiman",
+        "Soorathep Kheawhom"
+    ],
+    "citedby-count": 2,
+    "ref-count": 10,
+    "ref-list": [
+        "System identificationa survey",
+        "Energy storage technologies: The past and the present",
+        "Electrical energy storage for the grid: A battery of choices",
+        "Estimation of state of charge, unknown nonlinearities, and state of health of a lithium-ion battery based on a comprehensive unobservable model",
+        "Ethanol as an electrolyte additive for alkaline zinc-air flow batteries",
+        "Model-based analysis of an integrated zinc-air flow battery/ zinc electrolyzer system",
+        "Advanced zinc-air batteries based on high-performance hybrid electrocatalysts",
+        "Extended kalman filtering for battery management systems of lipb-based hev battery packs: Part 3. State and parameter estimation",
+        "Development of a high energy density flexible zinc-air battery",
+        "Status, opportunities, and challenges of electrochemical energy storage"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Gif-sur-Yvette",
+            "@id": "60106017",
+            "affilname": "Universit\u00e9 Paris-Saclay",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60106017",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Saint Petersburg",
+            "@id": "60031888",
+            "affilname": "Saint Petersburg State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031888",
+            "affiliation-country": "Russian Federation"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Hadamard Mathematics LabEx",
+        "CNCS",
+        "Ministry of Research and Innovation",
+        "UEFISCDI",
+        "Ministry of Research and Innovation",
+        "iCODE Institute"
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "eid": "2-s2.0-85149304176",
+    "title": "The risk assessment of arsenic contamination in the urbanized coastal aquifer of Rayong groundwater basin, Thailand using the machine learning approach",
+    "cover-date": "2023-03-15",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Pollution",
+            "@code": "2310",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Public Health, Environmental and Occupational Health",
+            "@code": "2739",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Health, Toxicology and Mutagenesis",
+            "@code": "2307",
+            "@abbrev": "ENVI"
+        }
+    ],
+    "keywords": [
+        "Arsenic",
+        "Groundwater contamination",
+        "Groundwater risk assessment",
+        "Machine learning",
+        "Spatial probability model",
+        "Thailand"
+    ],
+    "authors": [
+        "Narongpon Sumdang",
+        "Srilert Chotpantarat",
+        "Kyung Hwa Cho",
+        "Nguyen Ngoc Thanh"
+    ],
+    "citedby-count": 2,
+    "ref-count": 57,
+    "ref-list": [
+        "A study on the impact of weathering in groundwater chemistry of a hard rock aquifer",
+        "The removal of arsenic from water using natural iron oxide minerals",
+        "Predicting groundwater arsenic contamination: Regions at risk in highest populated state of India",
+        "Mechanisms of arsenic contamination associated with hydrochemical characteristics in coastal alluvial aquifers using multivariate statistical technique and hydrogeochemical modeling: a case study in Rayong province, eastern Thailand",
+        "Arsenic exposure levels of petrochemical workers in three workplace settings in Rayong Province, Thailand",
+        "Arsenic removal from aqueous solution using pyrite",
+        "Seasonal and spatial variations of metals in melen watershed groundwater, Turkey",
+        "Human health risk assessment of dissolved metals in groundwater and surface waters in the Melen watershed, Turkey",
+        "Root mean square error (RMSE) or mean absolute error (MAE)? \u2013 Arguments against avoiding RMSE in the literature",
+        "Evaluating and mapping water supply and demand for sustainable urban ecosystem management in Shenzhen, China",
+        "Groundwater arsenic contamination in Brahmaputra river basin: a water quality assessment in Golaghat (Assam), India",
+        "Prediction of contamination potential of groundwater arsenic in Cambodia, Laos, and Thailand using artificial neural network",
+        "An ensemble forecast of semiarid rainfall using large-scale climate predictors",
+        "Perception of groundwater quality and health effects on willingness to procure: the case of upcoming water supply scheme in Guwahati, India",
+        "Toward urban sustainability and clean potable water: prediction of water quality via artificial neural networks",
+        "Estimation of predictive hydrologic uncertainty using the quantile regression and UNEEC methods and their comparison on contrasting catchments",
+        "Nitrate, Arsenic and Chloride Pollution of Drinking Water in Northern Greece. Elaboration by Applying GIS",
+        "A practical GIS-based hazard assessment framework for water quality in stormwater systems",
+        "Wetland conversion risk assessment of East Kolkata Wetland: a Ramsar site using random forest and support vector machine model",
+        "Comparison of the accuracy of kriging and IDW interpolations in estimating groundwater arsenic concentrations in Texas",
+        "Goodness-of-fit indices for partial least squares path modeling",
+        "Concentrations of cadmium and arsenic in seafood from Muang District, Rayong Province",
+        "A review of groundwater pollution potential threats from municipal solid waste landfill sites: assessing the impact on human health",
+        "Random forest regression evaluation model of regional flood disaster resilience based on the whale optimization algorithm",
+        "Comparison of machine learning strategies for infrared thermography of skin cancer",
+        "Uncertainties in determination of pH",
+        "Comparison of different configurations of quantile regression in estimating predictive hydrological uncertainty",
+        "sdm: a reproducible and extensible R platform for species distribution modelling",
+        "Mechanism of arsenic release to groundwater, Bangladesh and West Bengal",
+        "Spatial distribution and health risk assessment of As and Pb contamination in the groundwater of Rayong Province, Thailand",
+        "Thailand's Eastern Economic Corridor (EEC): according to Thailand 4.0 economic policy",
+        "Detection of arsenite-oxidizing bacteria in groundwater with low arsenic concentration in Rayong province, Thailand",
+        "Groundwater arsenic distribution in india by machine learning geospatial modeling",
+        "Predicting uncertainty of machine learning models for modelling nitrate pollution of groundwater using quantile regression and UNEEC methods",
+        "A survey on prevention of overfitting in convolution neural networks using machine learning techniques",
+        "Hydrochemical, geophysical and multivariate statistical investigation of the seawater intrusion in the coastal aquifer at Prachuap-Khiri-Khan Province, Thailand",
+        "A novel machine learning-based approach for the risk assessment of nitrate groundwater contamination",
+        "Influence of air pollution and meteorological factors on the spread of COVID-19 in the Bangkok Metropolitan Region and air quality during the outbreak",
+        "Deep learning: a comprehensive overview on techniques, taxonomy, applications and research directions",
+        "Machine learning approaches for estimation of prediction interval for the model output",
+        "A novel method to estimate model uncertainty using machine learning techniques",
+        "Metagenomic insights into microbial diversity in a groundwater basin impacted by a variety of anthropogenic activities",
+        "Summarizing multiple aspects of model performance in a single diagram",
+        "Spatial heterogeneity modeling of water quality based on random forest regression and model interpretation",
+        "Predicting groundwater arsenic contamination in Southeast Asia from surface parameters",
+        "Using hair and fingernails in binary logistic regression for bio-monitoring of heavy metals/metalloid in groundwater in intensively agricultural areas, Thailand",
+        "Using urine as a biomarker in human exposure risk associated with arsenic and other heavy metals contaminating drinking groundwater in intensively agricultural areas of Thailand",
+        "Contamination of Arsenic in Sea, Surface, and Ground water in the coastal aquifers of Sindh, Pakistan"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ulsan",
+            "@id": "60103153",
+            "affilname": "Ulsan National Institute of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103153",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Hue",
+            "@id": "60071368",
+            "affilname": "University of Agriculture and Forestry, Hue University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071368",
+            "affiliation-country": "Viet Nam"
+        }
+    ],
+    "funding": [
+        "90th Year Chulalongkorn University",
+        "Thailand Science Research and Innovation Fund Chulalongkorn University"
+    ]
+}

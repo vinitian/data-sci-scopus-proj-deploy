@@ -1,0 +1,88 @@
+{
+    "eid": "2-s2.0-85108602325",
+    "title": "Chromosome-scale assembly of the complete genome sequence of leishmania (Mundinia) martiniquensis, isolate LSCM1, strain LV760",
+    "cover-date": "2021-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Immunology and Microbiology (miscellaneous)",
+            "@code": "2401",
+            "@abbrev": "IMMU"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Hatim Almutairi",
+        "Michael D. Urbaniak",
+        "Michelle D. Bates",
+        "Narissara Jariyapan",
+        "Waleed S. Al-Salem",
+        "Rod J. Dillon",
+        "Paul A. Bates",
+        "Derek Gatherera"
+    ],
+    "citedby-count": 4,
+    "ref-count": 22,
+    "ref-list": [
+        "Leishmaniasis in humans: drug or vaccine therapy?",
+        "Leishmaniasis",
+        "An appraisal of the taxonomy and nomenclature of trypanosomatids presently classified as Leishmania and Endotrypanum",
+        "Leishmania (Mundinia) orientalis n. sp. (Trypanosomatidae), a parasite from Thailand responsible for localised cutaneous leishmaniasis",
+        "Leishmania (Leishmania) martiniquensis n. sp. (Kinetoplastida: Trypanosomatidae), description of the parasite responsible for cutaneous leishmaniasis in Martinique Island (French West Indies)",
+        "An autochthonous case of cutaneous bovine leishmaniasis in Switzerland",
+        "Cutaneous leishmaniasis in red kangaroos: isolation and characterisation of the causative organisms",
+        "First isolation of a new species of Leishmania responsible for human cutaneous leishmaniasis in Ghana and classification in the Leishmania enriettii complex",
+        "First isolation of Leishmania from northern Thailand: case report, identification as Leishmania martiniquensis and phylogenetic position within the Leishmania enriettii complex",
+        "Axenic amastigote cultivation and in vitro development of Leishmania orientalis",
+        "MultiQC: summarize analysis results for multiple tools and samples in a single report",
+        "Assembly of long, error-prone reads using repeat graphs",
+        "Minimap and miniasm: fast mapping and de novo assembly for noisy long sequences",
+        "The Sequence Alignment/Map format and SAMtools",
+        "Pilon: an integrated tool for comprehensive microbial variant detection and genome assembly improvement",
+        "PacBio long-read sequencing, assembly, and Funannotate reannotation of the complete genome of Trichoderma reesei QM6a",
+        "RaGOO: fast and accurate reference-guided scaffolding of draft genomes",
+        "The genome of the kinetoplastid parasite, Leishmania major",
+        "Sustainable data analysis with Snakemake",
+        "BUSCO: assessing genome assembly and annotation completeness with single-copy orthologs",
+        "MAKER2: an annotation pipeline and genome-database management tool for second-generation genome projects",
+        "AUGUSTUS: a web server for gene finding in eukaryotes"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Lancaster",
+            "@id": "60117609",
+            "affilname": "Division of Biomedical and Life Sciences, Lancaster University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60117609",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Riyadh",
+            "@id": "60032813",
+            "affilname": "Ministry of Health Saudi Arabia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032813",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Ministry of Health and Public Health Authority of Saudi Arabia"
+    ]
+}

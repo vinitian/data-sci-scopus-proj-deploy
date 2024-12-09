@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85069710973",
+    "title": "Efficient robust nonlinear model predictive control via approximate multi-stage programming: A neural networks based approach",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Chemical Engineering (all)",
+            "@code": "1500",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "neural networks",
+        "Nonlinear model predictive control",
+        "robust control"
+    ],
+    "authors": [
+        "Wachira Daosud",
+        "Paisan Kittisupakorn",
+        "Miroslav Fikar",
+        "Sergio Lucia",
+        "Radoslav Paulen"
+    ],
+    "citedby-count": 3,
+    "ref-count": 13,
+    "ref-list": [
+        "Casadi: A symbolic package for automatic differentiation and optimal control",
+        "Neural network based modeling and control for a batch heating/cooling evaporative crystallization process",
+        "Improving of crystal size distribution control based on neural network-based hybrid model for purified terephthalic acid batch crystallizer",
+        "Neural network based model predictive control for a steel pickling process",
+        "Deep learning",
+        "Approximate dynamic programming-based approaches for inputoutput data-driven control of nonlinear processes",
+        "Multi-stage nonlinear model predictive control applied to a semi-batch polymerization reactor under uncertainty",
+        "Learning model predictive control for iterative tasks: a computationally efficient approach for linear system",
+        "Towards dual robust nonlinear model predictive control: A multi-stage approach",
+        "On the implementation of an interior-point filter line-search algorithm for large-scale nonlinear programming",
+        "A minimax control problem for sampled linear systems"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Berlin",
+            "@id": "60011604",
+            "affilname": "Technische Universit\u00e4t Berlin",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011604",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Chonburi",
+            "@id": "60009116",
+            "affilname": "Burapha University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009116",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bratislava",
+            "@id": "60006861",
+            "affilname": "Slovak University of Technology in Bratislava",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006861",
+            "affiliation-country": "Slovakia"
+        }
+    ],
+    "funding": [
+        "Slovak Research and Development Agency",
+        "SAIA"
+    ]
+}

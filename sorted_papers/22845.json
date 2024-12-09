@@ -1,0 +1,73 @@
+{
+    "eid": "2-s2.0-85072969285",
+    "title": "Development of software-defined mesh network emulator testbed for DDoS defence study",
+    "cover-date": "2019-02-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Distributed denial-of-service",
+        "Network emulator platform",
+        "OpenFlow",
+        "Software-defined network"
+    ],
+    "authors": [
+        "Sumeth Sirijaroensombat",
+        "Col Phaderm Nangsue",
+        "Chaodit Aswakul"
+    ],
+    "citedby-count": 4,
+    "ref-count": 13,
+    "ref-list": [
+        "CyberWar: The what, when, why, and how",
+        "A survey of distributed denial of service attack",
+        "DDoS mitigation using software-defined network",
+        "Development of a virtualized networking lab using GNS3 and VMware workstation",
+        "Comparison between physical devices and simulator software for Cisco network technology teaching",
+        "A survey of securing networks using software defined networking",
+        "SybilComm: Sybil community detection using persuading function in IoT system",
+        "SybilVote: Formulas to quantify the success probability of sybil attack in online social network voting"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "60002105",
+            "affilname": "Chulachomklao Royal Military Academy",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002105",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Building and operating Open and Federated Future Internet"
+    ]
+}

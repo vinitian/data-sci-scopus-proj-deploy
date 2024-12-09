@@ -1,0 +1,96 @@
+{
+    "eid": "2-s2.0-85077910048",
+    "title": "Automated Glaucoma Screening from Retinal Fundus Image Using Deep Learning",
+    "cover-date": "2019-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biomedical Engineering",
+            "@code": "2204",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Health Informatics",
+            "@code": "2718",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "ensemble learning",
+        "fundus images",
+        "Glaucoma screening",
+        "optic disc and cup segmentation"
+    ],
+    "authors": [
+        "S. Phasuk",
+        "P. Poopresert",
+        "A. Yaemsuk",
+        "P. Suvannachart",
+        "R. Itthipanichpong",
+        "S. Chansangpetch",
+        "A. Manassakorn",
+        "V. Tantisevi",
+        "P. Rojanapongpun",
+        "C. Tantibundhit"
+    ],
+    "citedby-count": 21,
+    "ref-count": 19,
+    "ref-list": [
+        "Prevalence of glaucoma: The beaver dam eye study",
+        "The papilla as screening parameter for early diagnosis of glaucoma",
+        "The prevalence and types of glaucoma in malay people: The Singapore Malay eye study",
+        "ACHIKO-I retinal fundus image database and its evaluation on cup-to-disc ratio measurement",
+        "Drishti-gs: Retinal image dataset for optic nerve head (onh) segmentation",
+        "Detecting the optic disc boundary in digital fundus images using morphological, edge detection, and feature extraction techniques",
+        "Automatic detection of optic disc based on PCA and mathematical morphology",
+        "Superpixel classification based optic disc and optic cup segmentation for glaucoma screening",
+        "Glaucoma detection using entropy sampling and ensemble learning for automatic optic cup and disc segmentation",
+        "Computer-aided diagnosis in medical imaging: Historical review, current status and future potential",
+        "Deep convolutional neural networks for computer-aided detection: CNN architectures, dataset characteristics and transfer learning",
+        "Deep learning",
+        "Joint optic disc and cup segmentation using fully convolutional and adversarial networks",
+        "Disc-aware ensemble network for glaucoma screening from fundus image",
+        "Densely connected convolutional networks",
+        "Deep residual learning for image recognition",
+        "Learning deconvolution network for semantic segmentation",
+        "Origa-light: An online retinal fundus image database for glaucoma analysis and research",
+        "RIM-ONE: An open retinal image database for optic nerve evaluation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Cardiff",
+            "@id": "60103683",
+            "affilname": "Cardiff University School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103683",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60012521",
+            "affilname": "Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012521",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,121 @@
+{
+    "eid": "2-s2.0-85125193385",
+    "title": "Heterogeneous Network Propagation with Optimal Similarity Measure for Drug-Target Associations",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Automotive Engineering",
+            "@code": "2203",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "drug target proteins",
+        "drug-Target interactions",
+        "heterogeneous networks",
+        "similarity measure"
+    ],
+    "authors": [
+        "Piyanut Tangmanussukum",
+        "Thitipong Kawichai",
+        "Apichat Suratanee",
+        "Kitiporn Plaimas"
+    ],
+    "citedby-count": 0,
+    "ref-count": 34,
+    "ref-list": [
+        "Drug-Target network",
+        "A comprehensive review of feature based methods for drug target interaction prediction",
+        "Protein-ligand interaction prediction: An improved chemogenomics approach",
+        "IDTI-ESBoost: Identification of Drug Target Interaction Using Evolutionary and Structural Features with Boosting",
+        "Deep mining heterogeneous networks of biomedical linked data to predict novel drug-Target associations",
+        "DASPfind: New efficient method to predict drug-Target interactions",
+        "Prediction of drug-Target interaction networks from the integration of chemical and genomic spaces",
+        "Drug repositioning by integrating target information through a heterogeneous network model",
+        "Identification of inflammatory bowel disease-related proteins using a reverse k-nearest neighbor search",
+        "DDA: A novel network-based scoring method to identify disease-disease associations",
+        "Reverse Nearest Neighbor Search on a Protein-Protein Interaction Network to Infer Protein-Disease Associations",
+        "Network-based association analysis to infer new disease-gene relationships using large-scale protein interactions",
+        "Meta-Path Based Gene Ontology Profiles for Predicting Drug-Disease Associations",
+        "Multi-Data Aspects of Protein Similarity with a Learning Technique to Identify Drug-Disease Associations",
+        "Network diffusion with centrality measures to identify disease-related genes",
+        "DTiGEMS+: Drug-Target interaction prediction using graph embedding, graph mining, and similarity-based techniques",
+        "Heterogeneous Network Model to Identify Potential Associations between Plasmodium vivax and Human Proteins",
+        "Prediction of Human-Plasmodium vivax Protein Associations from Heterogeneous Network Structures Based on Machine-Learning Approach",
+        "Hybrid Deep Learning Based on a Heterogeneous Network Profile for Functional Annotations of Plasmodium falciparum Genes",
+        "SMILES, a chemical language and information system. 1. Introduction to methodology and encoding rules",
+        "DrugBank 5.0: A major update to the DrugBank database for 2018",
+        "Recent developments of the chemistry development kit (CDK)-An open-source java library for chemo-And bioinformatics",
+        "Mattingly CJ the Comparative Toxicogenomics Database",
+        "The SIDER database of drugs and side effects",
+        "The Gene Ontology Annotation (GOA) Database",
+        "Fast Gene Ontology based clustering for microarray experiments",
+        "GOSemSim: An R package for measuring semantic similarity among GO terms and gene products",
+        "The STRING database in 2021: Customizable protein-protein networks, and functional characterization of user-uploaded gene/measurement sets",
+        "A note on two problems in connexion with graphs",
+        "KEGG: Kyoto Encyclopedia of Genes and Genomes",
+        "A general method applicable to the search for similarities in the amino acid sequence of two proteins",
+        "Identification of common molecular subsequences",
+        "Prediction of Drug-Target Interactions for Drug Repositioning only Based on Genomic Expression Similarity"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103476",
+            "affilname": "King Mongkuts University of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103476",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "60002105",
+            "affilname": "Chulachomklao Royal Military Academy",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002105",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "DPST",
+        "Development and Promotion of Science and Technology Talents project",
+        "Faculty of Applied Science",
+        "King Mongkut\u2019s University of Technology North Bangkok"
+    ]
+}

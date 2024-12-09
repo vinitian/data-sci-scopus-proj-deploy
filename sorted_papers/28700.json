@@ -1,0 +1,139 @@
+{
+    "eid": "2-s2.0-85082803518",
+    "title": "Toward semantic data imputation for a dengue dataset",
+    "cover-date": "2020-05-21",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Management Information Systems",
+            "@code": "1404",
+            "@abbrev": "BUSI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Data cleansing",
+        "Data imputation",
+        "Missing data",
+        "Ontology",
+        "Semantic"
+    ],
+    "authors": [
+        "N. Kamkhad",
+        "K. Jampachaisri",
+        "P. Siriyasatien",
+        "K. Kesorn"
+    ],
+    "citedby-count": 6,
+    "ref-count": 71,
+    "ref-list": [
+        "Present and future directions in data warehousing",
+        "Data mining with big data",
+        "Medical data mining: Knowledge discovery in a clinical data warehouse",
+        "Using data mining techniques in heart disease diagnosis and treatment",
+        "Forecasting dengue haemorrhagic fever cases in Southern Thailand using ARIMA models",
+        "Forecast of dengue incidence using temperature and rainfall",
+        "Morbidity rate prediction of dengue hemorrhagic fever (DHF) using the support vector machine and the Aedes aegypti infection rate in similar climates and geographical areas",
+        "Educational Psychology",
+        "The case of CROCUS: Cluster-based ontology data cleansing",
+        "Are missing outcome data adequately handled? A review of published randomized controlled trials in major medical journals",
+        "Semantic data mining: A survey of ontology-based approaches",
+        "Computational Intelligence for Missing Data Imputation, Estimation, and Management: Knowledge Optimization Techniques",
+        "Review: A gentle introduction to imputation of missing values",
+        "Pairwise deletion for missing data in structural equation models: Nonpositive definite matrices, parameter estimates, goodness of fit, and adjusted sample sizes",
+        "Imputing missing values for mixed numeric and categorical attributes based on incomplete data hierarchical clustering",
+        "A novel framework for imputation of missing values in databases",
+        "Missing data imputation: Focusing on single imputation",
+        "The relative effectiveness of procedures commonly used in multiple regression analysis for dealing with missing values",
+        "A review of hot deck imputation for survey non-response",
+        "Fuzzy min\u2013max neural networks for categorical data: Application to missing data imputation",
+        "Missing data estimation on heart disease using artificial neural network and rough set theory",
+        "Multiple imputation for missing data using genetic programming",
+        "Modeling of missing data prediction: Computational intelligence and optimization algorithms",
+        "K-nearest neighbors with mutual information for simultaneous classification and missing data imputation",
+        "Predicting missing attribute values using cooperative particle swarm optimization",
+        "A GS-MPSO-WKNN method for missing data imputation in wireless sensor networks monitoring manufacturing conditions",
+        "Identifying disease genes using machine learning and gene functional similarities, assessed through gene ontology",
+        "Semantic association rule mining: A new approach for stock market prediction",
+        "Enrichment of association rules through exploitation of ontology properties \u2013 Healthcare case study",
+        "Document enrichment using DBPedia ontology for short text classification",
+        "A semantic-based classification and regression tree approach for modelling complex spatial rules in motor vehicle crashes domain",
+        "Ontology based web page classification system by using enhanced C4.5 and Na\u00efve Bayesian classifiers",
+        "Ontology knowledge mining based association rules ranking",
+        "From predictive methods to missing data imputation: An optimization approach",
+        "Estimation of incomplete data in mixed dataset",
+        "A method for improving imputation and prediction accuracy of highly seasonal univariate data with large periods of missingness",
+        "Data-driven missing data imputation in cluster monitoring system based on deep neural network",
+        "New key factors discovery to enhance dengue fever forecasting model",
+        "What is the expectation maximization algorithm?",
+        "The relative performance of full information maximum likelihood estimation for missing data in structural equation models",
+        "Imputing missing values in microarray data with ontology information",
+        "Particle swarm optimization for traveling salesman problem",
+        "A study on PSO-based university course timetabling problem",
+        "Comparison between genetic algorithms and particle swarm optimization",
+        "Multiple imputation of missing data with genetic algorithm based techniques",
+        "Missing data imputation using genetic algorithm for supervised learning",
+        "Performance comparison of genetic algorithm, differential evolution and particle swarm optimization towards benchmark functions",
+        "A comparative study of PSO and CMA-ES algorithms on black-box optimization benchmarks",
+        "Time complexity analysis of the genetic algorithm clustering method",
+        "New genetic algorithm for the p-median problem",
+        "Attempt to reduce the computational complexity in multi-objective differential evolution algorithms",
+        "Reducing the time complexity of the derandomized evolution strategy with covariance matrix adaptation (CMA-ES)",
+        "CMA-ES with optimal covariance update and storage complexity",
+        "Complexity analysis of problem-dimension using PSO",
+        "A Study of data imputation using fuzzy C-means with particle swarm optimization",
+        "A missing data approach to data-driven filtering and control",
+        "Dynamic L-RNN recovery of missing data in IoMT applications",
+        "Ontology-based functional classification of genes: evaluation with reference sets and overlap analysis",
+        "A multi-modal incompleteness ontology model (MMIO) to enhance information fusion for image retrieval",
+        "Estimating missing value in microarray data using fuzzy clustering and gene ontology",
+        "Noisy data elimination using mutual k-nearest neighbor for classification mining",
+        "K-means clustering with outlier removal",
+        "Outlier detection and removal algorithm in k-means and hierarchical clustering",
+        "Introduction to Information Retrieval",
+        "Particle swarm optimization algorithm and its parameters: A review",
+        "Particle swarm optimization",
+        "Particle swarm optimization (PSO). A tutorial",
+        "Support vector machine with adaptive parameters in financial time series forecasting",
+        "Semantic-based data imputation for dengue fever information"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Pitsanulok",
+            "@id": "60022498",
+            "affilname": "Naresuan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022498",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Computer Science and Information Technology Department",
+        "Division of Research Administration",
+        "Naresuan University of Thailand",
+        "National Research Council of Thailand and Health Systems Research Institute, Thailand"
+    ]
+}

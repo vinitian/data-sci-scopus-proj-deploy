@@ -1,0 +1,60 @@
+{
+    "eid": "2-s2.0-85079841061",
+    "title": "Sweeper: Automated data quality processing and model generation for data classification",
+    "cover-date": "2019-12-09",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Data preprocessing",
+        "Data quality",
+        "Machine learning"
+    ],
+    "authors": [
+        "Nutthawut Thawanthaleunglit",
+        "Kunwadee Sripanidkulchai"
+    ],
+    "citedby-count": 1,
+    "ref-count": 13,
+    "ref-list": [
+        "Review of data preprocessing techniques in data mining",
+        "The effects of data quality on machine learning algorithms",
+        "Using multiple models to understand data",
+        "Review on missing value imputation techniques in data mining",
+        "A review of class imbalance problem",
+        "Investigations on impact of feature normalization techniques on classifier's performance in breast tumor classification",
+        "SMOTE: Synthetic minority oversampling technique",
+        "Adasyn: Adaptive synthetic sampling approach for imbalanced learning"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

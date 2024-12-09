@@ -1,0 +1,101 @@
+{
+    "eid": "2-s2.0-85111055867",
+    "title": "Lgaap: Leishmaniinae genome assembly and annotation pipeline",
+    "cover-date": "2021-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Immunology and Microbiology (miscellaneous)",
+            "@code": "2401",
+            "@abbrev": "IMMU"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Hatim Almutairi",
+        "Michael D. Urbaniak",
+        "Michelle D. Bates",
+        "Narissara Jariyapan",
+        "Godwin Kwakye-Nuako",
+        "Vanete Thomaz-Soccol",
+        "Waleed S. Al-Salem",
+        "Rod J. Dillon",
+        "Paul A. Bates",
+        "Derek Gatherer"
+    ],
+    "citedby-count": 8,
+    "ref-count": 26,
+    "ref-list": [
+        "The protocol gap",
+        "Sustainable data analysis with Snakemake",
+        "Axenic amastigote cultivation and in vitro development of Leishmania orientalis",
+        "Assembly of long, errorprone reads using repeat graphs",
+        "Minimap and miniasm: Fast mapping and de novo assembly for noisy long sequences",
+        "Twelve years of SAMtools and BCFtools",
+        "Pilon: An integrated tool for comprehensive microbial variant detection and genome assembly improvement",
+        "RaGOO: Fast and accurate reference-guided scaffolding of draft genomes",
+        "QUAST: Quality assessment tool for genome assemblies",
+        "BLAST1: Architecture and applications",
+        "BEDTools: The Swiss-Army tool for genome feature analysis",
+        "RepeatModeler2 for automated genomic discovery of transposable element families",
+        "TEclass: A tool for automated classification of unknown eukaryotic transposable elements",
+        "TriTrypDB: A functional genomic resource for the Trypanosomatidae",
+        "MAKER2: An annotation pipeline and genomedatabase management tool for second-generation genome projects",
+        "GenomeTools: A comprehensive software library for efficient processing of structured genome annotations",
+        "Predicting genes in single genomes with AUGUSTUS",
+        "UniProt: The universal protein knowledgebase in 2021",
+        "InterProScan 5: Genome-scale protein function classification"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Lancaster",
+            "@id": "60117609",
+            "affilname": "Division of Biomedical and Life Sciences, Lancaster University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60117609",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Cape Coast",
+            "@id": "60071895",
+            "affilname": "University of Cape Coast Ghana",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071895",
+            "affiliation-country": "Ghana"
+        },
+        {
+            "affiliation-city": "Riyadh",
+            "@id": "60032813",
+            "affilname": "Ministry of Health Saudi Arabia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032813",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Curitiba",
+            "@id": "60015043",
+            "affilname": "Universidade Federal do Parana",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015043",
+            "affiliation-country": "Brazil"
+        }
+    ],
+    "funding": [
+        "Saudi Arabian Ministry of Health"
+    ]
+}

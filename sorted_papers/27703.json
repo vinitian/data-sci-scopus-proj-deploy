@@ -1,0 +1,90 @@
+{
+    "eid": "2-s2.0-85120690025",
+    "title": "Low complexity mode selection for H.266/VVC intra coding",
+    "cover-date": "2022-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Intra coding",
+        "Most probable mode",
+        "Rate distortion optimization",
+        "Rough mode decision",
+        "Versatile Video Coding"
+    ],
+    "authors": [
+        "Ei Ei Tun",
+        "Supavadee Aramvith",
+        "Takao Onoye"
+    ],
+    "citedby-count": 4,
+    "ref-count": 18,
+    "ref-list": [
+        "Versatile video coding (draft 1). Document: JVET-j1001",
+        "Overview of the high efficiency video coding (HEVC) standard",
+        "Versatile video coding (draft 1). Document: JVET-j1001",
+        "Gradient based fast mode decision algorithm for intra prediction in HEVC",
+        "Fast HEVC intra mode decision based on edge detection and SATD costs classification",
+        "Novel adaptive algorithm for intra prediction with compromised modes skipping and signaling processes in HEVC",
+        "Fast intra-mode and CU size decision for HEVC",
+        "Fast mode and partition decision using machine learning for intra-frame coding in HEVC screen content coding extension",
+        "Binary and multi-class learning based low complexity optimization for HEVC encoding",
+        "VLSI friendly fast CU/PU mode decision for HEVC intra encoding: Leveraging convolution neural network",
+        "Deep learning-based intra prediction mode decision for HEVC",
+        "Coding tools investigation for next generation video coding",
+        "Low complexity CTU partition structure decision and fast intra mode decision for versatile video coding",
+        "Fast CU partition and intra mode decision method for H.266/VVC",
+        "VVC Test model VTM reference software 5.0",
+        "JVET common test conditions and software reference configurations. document: JVET-b1010, in: Joint video experts team (JVET) of ITU-T SG 16 WP 3 and ISO/IEC JTC 1/SC 29/WG 11",
+        "Calculation of average PSNR differences between RD- curves. Document: VCEG-M33, in: ITU-T VCEG meeting"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Suita",
+            "@id": "60024322",
+            "affilname": "Osaka University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024322",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "eid": "2-s2.0-85136313051",
+    "title": "Data augmentation for stock return prediction",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Data augmentation",
+        "Forecasting",
+        "Machine learning",
+        "Prediction",
+        "Stocks"
+    ],
+    "authors": [
+        "Tanapong Potipiti",
+        "Win Supanwanid"
+    ],
+    "citedby-count": 0,
+    "ref-count": 25,
+    "ref-list": [
+        "ImageNet classification with deep convolutional neural networks",
+        "Delving deep into rectifiers: surpassing human-level performance on imagenet classification",
+        "A historical perspective of speech recognition",
+        "Near human-level performance in grammatical error correction with hybrid machine translation",
+        "Human-level performance in 3Dmultiplayer games with population-based reinforcement learning",
+        "Where does AlphaGo go: from church-turing thesis to AlphaGo thesis and beyond",
+        "A survey on image data augmentation for deep learning",
+        "Time series data augmentation for deep learning: a survey",
+        "Enhancing stock price trend prediction via a time-sensitive data augmentation method",
+        "Stock market forecasting with super-high dimensional time-series data using ConvLSTM, trend sampling, and specialized data augmentation",
+        "Data augmentation for improving deep learning in image classification problem",
+        "Boosting text classification performance on sexist tweets by text augmentation and text generation using a combination of knowledge graphs",
+        "EDA: easy data augmentation techniques for boosting performance on text classification tasks",
+        "Audio augmentation for speech recognition",
+        "Specaugment: a simple data augmentation method for automatic speech recognition",
+        "An empirical survey of data augmentation for time series classification with neural networks",
+        "Data augmentation for time series classification using convolutional neural networks",
+        "Deep neural networks, gradient-boosted trees, random forests: Statistical arbitrage on the S&P 500",
+        "Exploration, exploitation, and financial performance: analysis of S&P 500 corporations",
+        "Financial time series forecasting with deep learning: A systematic literature review: 2005\u20132019",
+        "A hybrid machine learning system for stock market forecasting",
+        "Forecasting the equity risk premium: The role of technical indicators"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "National Natural Science Foundation of China"
+    ]
+}

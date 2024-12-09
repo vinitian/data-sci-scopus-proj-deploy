@@ -1,0 +1,176 @@
+{
+    "eid": "2-s2.0-85080033632",
+    "title": "Dynamic feedback control of day-to-day traffic disequilibrium process",
+    "cover-date": "2020-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Automotive Engineering",
+            "@code": "2203",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Transportation",
+            "@code": "3313",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Demand and supply traffic regulation",
+        "Disequilibrium traffic dynamics",
+        "Dynamic feedback traffic control",
+        "Stability and convergence"
+    ],
+    "authors": [
+        "R. X. Zhong",
+        "H. X. Cai",
+        "D. B. Xu",
+        "C. Chen",
+        "A. Sumalee",
+        "T. L. Pan"
+    ],
+    "citedby-count": 10,
+    "ref-count": 83,
+    "ref-list": [
+        "A characterization of integral input-to-state stability",
+        "Stochastic user equilibrium assignment in network with queues",
+        "Stability and attraction domains of traffic equilibria in a day-to-day dynamical system formulation",
+        "Lyapunov stability of complementarity and extended systems",
+        "Day-to-day dynamic models for intelligent transportation systems design and appraisal",
+        "Modeling physical and environmental side constraints in traffic equilibrium problem",
+        "A self-adaptive gradient projection algorithm for the nonadditive traffic equilibrium problem",
+        "Surrogate-based simulation optimization approach for day-to-day dynamics model calibration with real data",
+        "Monotonicity and existence of periodic orbits for projected dynamical systems on Hilbert spaces",
+        "On the traffic assignment problem with flow dependent costs-I and II",
+        "Finite-Dimensional Variational Inequalities and Complementarity Problems",
+        "Day-to-day dynamic network disequilibria and idealized traveler information systems",
+        "Dynamic systems, variational inequalities, and control theoretic models for predicting time-varying urban network flows",
+        "Equivalent differentiable optimization problems and descent method for asymmetric variational inequality problems",
+        "Stability and convergence analysis for a class of neural networks",
+        "Optimal traffic assignment with elastic demands: a review. Part I. Analysis framework",
+        "Link-based day-to-day network traffic dynamics and equilibria",
+        "Day-to-day flow dynamics and congestion control",
+        "Nonlinear dynamical systems and control: A Lyapunov-based approach",
+        "Stability analysis of gradient-based neural networks for optimization problems",
+        "Congestion pricing in the absence of demand functions",
+        "On a link-based day-to-day traffic assignment model",
+        "Discrete-time day-to-day dynamic congestion pricing scheme considering multiple equilibria",
+        "Day-to-day variation in Markovian traffic assignment models",
+        "A link-based day-to-day traffic assignment model",
+        "Modeling the day-to-day traffic evolution process after an unexpected network disruption",
+        "A marginal utility day-to-day traffic evolution model based on one-step strategic thinking",
+        "Nonlinear Output Regulation: Theory and Applications",
+        "A day-to-day dynamical model for the evolution of path flows under disequilibrium of traffic networks with fixed demand",
+        "Efficient neural networks for solving variational inequalities",
+        "On constrained steady-state regulation: Dynamic KKT controllers",
+        "The projection dynamic and the geometry of population games",
+        "An augmented lagrangean dual algorithm for link capacity side constrained traffic assignment problems",
+        "Side constrained traffic equilibrium models-analysis, computation and applications",
+        "Neurodynamical optimization",
+        "Environmentally sustainable toll design for congested road networks with uncertain demand",
+        "Traffic dynamics in a bi-modal transportation network with information provision and adaptive transit services",
+        "A smooth converse Lyapunov theorem for robust stability",
+        "Robust optimization of distance-based tolls in a network considering stochastic day to day dynamics",
+        "Comparative test of multimodal traffic equilibrium methods",
+        "Projected dynamical systems in the formulation, stability analysis, and computation of fixed-demand traffic network equilibria",
+        "Models and algorithms for the traffic assignment problem with link capacity constraints",
+        "Stability issues for dynamic traffic assignment",
+        "Evolutionary implementation and congestion pricing",
+        "Excess payoff dynamics and other well-behaved evolutionary dynamics",
+        "The projection dynamic and the replicator dynamic",
+        "Population Games and Evolutionary Dynamics",
+        "Dynamic penalty function method for the side constrained traffic assignment problem",
+        "The existence, uniqueness and stability of traffic equilibria",
+        "The stability of a dynamic model of traffic assignment-an application of a method of Lyapunov",
+        "Lyapunov characterizations of input to output stability",
+        "Dynamic congestion pricing with day-to-day flow evolution and user heterogeneity",
+        "The target projection dynamic",
+        "TRANSYT-7F user's guide",
+        "Stability of the stochastic equilibrium assignment problem: a dynamical systems approach",
+        "The dynamics and equilibria of day-to-day assignment models",
+        "Reserve capacity of a signal-controlled road network",
+        "An extended projection neural network for constrained optimization",
+        "Development and analysis of a neural dynamical approach to solving nonlinear programming problems",
+        "Physics of day-to-day network flow dynamics",
+        "Reformulating environmentally constrained traffic equilibrium via a smooth gap function",
+        "Global convergence of the trial-and-error method for the traffic-restraint congestion-pricing scheme with day-to-day flow dynamics",
+        "Optimal road tolls under conditions of queuing and congestion",
+        "Trial-and-error implementation of marginal-cost pricing on networks in the absence of demand functions",
+        "Mathematical and economic theory of road pricing",
+        "Steepest descent day-to-day dynamic toll",
+        "Day-to-day stationary link flow pattern",
+        "Traffic restraint, road pricing and network equilibrium",
+        "Road pricing for congestion control with unknown demand and cost functions",
+        "Continuous price and flow dynamics of tradable mobility credits",
+        "Learning marginal-cost pricing via a trial-and-error procedure with day-to-day flow dynamics",
+        "Exploration of day-to-day route choice models by a virtual experiment",
+        "A first best toll pricing framework for variable demand traffic assignment problems",
+        "Dynamic user equilibrium with side constraints for a traffic network: theoretical development and numerical solution algorithm",
+        "Dynamic marginal cost, access control, and pollution charge: a comparison of bottleneck and whole link models",
+        "Optimal and robust strategies for freeway traffic management under demand and supply uncertainties: an overview and general theory",
+        "A trial-and-error congestion pricing scheme for networks with elastic demand and link capacity constraints",
+        "A day-to-day route flow evolution process towards the mixed equilibria",
+        "Robust perimeter control for two urban regions with macroscopic fundamental diagrams: a control-Lyapunov function approach",
+        "Boundary conditions and behavior of the macroscopic fundamental diagram based network traffic dynamics: a control systems perspective"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Beijing",
+            "@id": "60159676",
+            "affilname": "4Paradigm Inc.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60159676",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Guangzhou",
+            "@id": "60021182",
+            "affilname": "Sun Yat-Sen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021182",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Nanjing",
+            "@id": "60010080",
+            "affilname": "Nanjing University of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010080",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "60008928",
+            "affilname": "The Hong Kong Polytechnic University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008928",
+            "affiliation-country": "Hong Kong"
+        },
+        {
+            "affiliation-city": "Shenzhen",
+            "@id": "60000937",
+            "affilname": "Shenzhen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000937",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": [
+        "National Key R&D Program of China"
+    ]
+}

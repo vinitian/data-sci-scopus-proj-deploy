@@ -1,0 +1,151 @@
+{
+    "eid": "2-s2.0-85141923912",
+    "title": "Undersampling artifact reduction for free-breathing 3D stack-of-radial MRI based on a deep adversarial learning network",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biophysics",
+            "@code": "1304",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biomedical Engineering",
+            "@code": "2204",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Abdominal MRI",
+        "Artifact suppression",
+        "Deep adversarial network",
+        "Deep learning",
+        "Radial acquisition"
+    ],
+    "authors": [
+        "Chang Gao",
+        "Vahid Ghodrati",
+        "Shu Fu Shih",
+        "Holden H. Wu",
+        "Yongkai Liu",
+        "Marcel Dominik Nickel",
+        "Thomas Vahle",
+        "Brian Dale",
+        "Victor Sai",
+        "Ely Felker",
+        "Chuthaporn Surawech",
+        "Qi Miao",
+        "J. Paul Finn",
+        "Xiaodong Zhong",
+        "Peng Hu"
+    ],
+    "citedby-count": 1,
+    "ref-count": 59,
+    "ref-list": [
+        "Towards routine clinical use of radial stack-of-stars 3D gradient-Echo sequences for reducing motion sensitivity",
+        "Advantages of radial volumetric breath-hold examination (VIBE) with k-space weighted image contrast reconstruction (KWIC) over Cartesian VIBE in liver imaging of volunteers simulating inadequate or no breath-holding ability",
+        "Free-breathing radial 3D fat-suppressed T1-weighted gradient echo sequence: a viable alternative for contrast-enhanced liver imaging in patients unable to suspend respiration",
+        "Respiratory motion-compensated radial dynamic contrast-enhanced (DCE)-MRI of chest and abdominal lesions",
+        "Free-breathing contrast-enhanced multiphase MRI of the liver using a combination of compressed sensing, parallel imaging, and golden-angle radial sampling",
+        "Golden-angle radial sparse parallel MRI: combination of compressed sensing, parallel imaging, and golden-angle radial sampling for fast and flexible dynamic volumetric MRI: iGRASP: Iterative Golden-Angle RAdial Sparse Parallel MRI",
+        "XD-GRASP: Golden-angle radial MRI with reconstruction of extra motion-state dimensions using compressed sensing: XD-GRASP: Extra-Dimensional Golden-angle Radial Sparse Parallel MRI",
+        "Free-breathing liver fat quantification using a multiecho 3D stack-of-radial technique: free-breathing radial liver fat quantification",
+        "Effect of respiratory motion on free-breathing 3D stack-of-radial liver relaxometry and improved quantification accuracy using self-gating",
+        "Accelerated k-space shift calibration for free-breathing stack-of-radial MRI quantification of liver fat and",
+        "SENSE: sensitivity encoding for fast MRI",
+        "Generalized autocalibrating partially parallel acquisitions (GRAPPA)",
+        "Sparse MRI: the application of compressed sensing for rapid MR imaging",
+        "Artifact reduction in undersampled projection reconstruction MRI of the peripheral vessels using selective excitation",
+        "Automatic coil selection for streak artifact reduction in radial MRI",
+        "Review: noise and artifact reduction for MRI using deep learning",
+        "Real-time cardiovascular MR with spatio-temporal artifact suppression using deep learning\u2013proof of concept in congenital heart disease",
+        "Deep convolution neural networks based artifact suppression in under-sampled radial acquisitions of myocardial T1mapping images",
+        "Rapid dealiasing of undersampled, non-Cartesian cardiac perfusion images using U-net",
+        "Streaking artifact reduction of free-breathing undersampled stack-of-radial MRI using a 3D generative adversarial network",
+        "DAGAN: deep de-aliasing generative adversarial networks for fast compressed sensing MRI reconstruction",
+        "Rapid reconstruction of highly undersampled, non-Cartesian real-time cine k -space data using a perceptual complex neural network (PCNN)",
+        "Spatio-temporal deep learning-based undersampling artefact reduction for 2D radial cine MRI with limited training data",
+        "Ground-truth-free deep learning for artefacts reduction in 2D radial cardiac cine MRI using a synthetically generated dataset",
+        "Reconstruction of undersampled 3D non-Cartesian image-based navigators for coronary MRA using an unrolled deep learning model",
+        "Multi-domain convolutional neural network (MD-CNN) for radial reconstruction of dynamic cardiac MRI",
+        "An end-to-end-trainable iterative network architecture for accelerated radial multi-coil 2D cine MR image reconstruction",
+        "Deep learning-based image reconstruction and motion estimation from undersampled radial k-space for real-time MRI-guided radiotherapy",
+        "Loss functions for image restoration with neural networks",
+        "Generative visual manipulation on the natural image manifold",
+        "Generative adversarial networks",
+        "Retrospective respiratory motion correction in cardiac cine MRI reconstruction using adversarial autoencoder and unsupervised learning",
+        "Respiratory motion correction in abdominal MRI using a densely connected U-Net with GAN-guided training",
+        "Deep generative adversarial neural networks for compressive sensing MRI",
+        "Denoising of 3D magnetic resonance images using a residual encoder\u2013decoder Wasserstein generative adversarial network",
+        "Accelerated magnetic resonance imaging by adversarial neural network",
+        "Compressed sensing MRI reconstruction using a generative adversarial network with a cyclic loss",
+        "Subsampled brain MRI reconstruction by generative adversarial neural networks",
+        "Structure preserving compressive sensing MRI reconstruction using generative adversarial networks",
+        "SANTIS: Sampling-Augmented Neural neTwork with Incoherent Structure for MR image reconstruction",
+        "Free-breathing quantification of hepatic fat in healthy children and children with nonalcoholic fatty liver disease using a multi-echo 3-D stack-of-radial MRI technique",
+        "Free-breathing volumetric liver and proton density fat fraction quantification in pediatric patients using stack-of-radial MRI with self-gating motion compensation",
+        "Self-gating reconstructions of motion and perfusion for free-breathing T1-weighted DCE-MRI of the thorax using 3D stack-of-stars GRE imaging",
+        "Optimal channel selection for respiratory self-gating signals",
+        "Nonuniform fast fourier transforms using min-max interpolation",
+        "Adam: a method for stochastic optimization",
+        "PyTorch: an imperative style, high-performance deep learning library",
+        "R: a language and environment for statistical computing",
+        "irr: various coefficients of interrater reliability and agreement",
+        "Random effects structure for confirmatory hypothesis testing: keep it maximal",
+        "Emmeans: estimated marginal means, aka least-squares means",
+        "Tukey's test",
+        "Deep de-aliasing for fast compressive sensing MRI",
+        "MR image reconstruction using deep learning: evaluation of network structure and loss functions",
+        "V-Net: fully convolutional neural networks for volumetric medical image segmentation",
+        "Brain MRI super-resolution using deep 3D convolutional networks",
+        "Accelerated super-resolution MR image reconstruction via a 3D densely connected deep convolutional neural network",
+        "Temporally aware volumetric generative adversarial network-based MR image reconstruction with simultaneous respiratory motion compensation: initial feasibility in 3D dynamic cine cardiac MRI"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Los Angeles",
+            "@id": "60027550",
+            "affilname": "University of California, Los Angeles",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027550",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60084261",
+            "affilname": "Siemens USA",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60084261",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Munich",
+            "@id": "60028673",
+            "affilname": "Siemens AG",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028673",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Shenyang",
+            "@id": "60008872",
+            "affilname": "China Medical University Shenyang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008872",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Siemens Medical Solutions USA, Inc."
+    ]
+}

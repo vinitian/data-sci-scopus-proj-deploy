@@ -1,0 +1,120 @@
+{
+    "eid": "2-s2.0-85067236770",
+    "title": "Universal Joint Feature Extraction for P300 EEG Classification Using Multi-Task Autoencoder",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "deep learning",
+        "Electroencephalography",
+        "multi-task autoencoder",
+        "P300",
+        "pre-trained model",
+        "spatiotemporal neural networks"
+    ],
+    "authors": [
+        "Apiwat Ditthapron",
+        "Nannapas Banluesombatkul",
+        "Sombat Ketrat",
+        "Ekapol Chuangsuwanich",
+        "Theerawit Wilaiprasitporn"
+    ],
+    "citedby-count": 67,
+    "ref-count": 57,
+    "ref-list": [
+        "Brain informatics-based big data and the wisdom Web of things",
+        "Compressed sensing for energy-efficient wireless telemonitoring of noninvasive fetal ECG via block sparse Bayesian learning",
+        "Compressed sensing of EEG for wireless telemonitoring with low energy consumption and inexpensive hardware",
+        "Extension of SBL algorithms for the recovery of block sparse signals with intra-block correlation",
+        "Spatiotemporal sparse Bayesian learning with applications to compressed sensing of multichannel physiological signals",
+        "A low-rank matrix recovery approach for energy efficient EEG acquisition for a wireless body area network",
+        "Non-convex row-sparse multiple measurement vector analysis prior formulation for EEG signal reconstruction",
+        "Row-sparse blind compressed sensing for reconstructing multi-channel EEG signals",
+        "Energy efficient EEG sensing and transmission for wireless body area networks: A blind compressed sensing approach",
+        "Exploiting inter-channel correlation in EEG signal reconstruction",
+        "An efficient P300-based brainficomputer interface for disabled subjects",
+        "Semi-supervised stacked label consistent autoencoder for reconstruction and analysis of biomedical signals",
+        "Epileptic EEG detection using the linear prediction error energy",
+        "Modeling spatialtemporal clues in a hybrid deep learning framework for video classification",
+        "Multimodal classification with deep convolutional-recurrent neural networks for electroencephalography",
+        "The P300 wave of the human event-related potential",
+        "Two varieties of longlatency positive waves evoked by unpredictable auditory stimuli in man",
+        "Documenting, modelling and exploiting P300 amplitude changes due to variable target delays in Donchin's speller",
+        "BCI competition III: Dataset II-ensemble of SVMs for BCI P300 speller",
+        "A new auditory multiclass brain-computer interface paradigm: Spatial hearing as an informative cue",
+        "Gaze-independent BCI-spelling using rapid serial visual presentation (RSVP)",
+        "Decoding auditory attention to instruments in polyphonic music using single-trial EEG classification",
+        "A review of classification algorithms for EEG-based brainficomputer interfaces: A 10 year update",
+        "Fisher discriminant analysis with kernels",
+        "Compact convolutional neural networks for classification of asynchronous steady-state visual evoked potentials",
+        "Deep learning with convolutional neural networks for EEG decoding and visualization",
+        "Imagenet classification with deep convolutional neural networks",
+        "Deep residual learning for image recognition",
+        "Faster R-CNN: Towards real-time object detection with region proposal networks",
+        "Long short-term memory",
+        "Learning internal representations by error propagation",
+        "Reducing the dimensionality of data with neural networks",
+        "Stacked denoising autoencoders: Learning useful representations in a deep network with a local denoising criterion",
+        "Deep models for engagement assessment with scarce label information",
+        "Optimized deep learning for EEG big data and seizure prediction BCI via Internet of Things",
+        "Deep convolution neural network and autoencoders-based unsupervised feature learning of EEG signals",
+        "Denoising sparse autoencoder-based ictal EEG classification",
+        "Deep Gaussian mixture-hidden Markov model for classification of EEG signals",
+        "Decoding asynchronous reaching in electroencephalography using stacked autoencoders",
+        "An introductory perspective on the emerging application of qEEG in neurofeedback",
+        "Rectifier nonlinearities improve neural network acoustic models",
+        "Deconvolution and checkerboard artifacts",
+        "A novel P300 BCI speller based on the triple RSVP paradigm",
+        "A brainficomputer interface controlled auditory eventrelated potential (P300) spelling system for locked-in patients",
+        "Lecture 6.5fiRMSprop: Divide the gradient by a running average of its recent magnitude",
+        "Stochastic estimation of the maximum of a regression function",
+        "Understanding the difficulty of training deep feedforward neural networks",
+        "Cyclical learning rates for training neural networks",
+        "XDAWN algorithm to enhance evoked potentials: Application to brainficomputer interface"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Rayong",
+            "@id": "60110787",
+            "affilname": "Vidyasirimedhi Institute of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60110787",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Worcester",
+            "@id": "60011410",
+            "affilname": "Worcester Polytechnic Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011410",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Office of the Higher Education Commission",
+        "Thailand Research Fund"
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "eid": "2-s2.0-85082764974",
+    "title": "The impact of corrected field output factors based on IAEA/AAPM code of practice on small-field dosimetry to the calculated monitor unit in eclipse\u2122 treatment planning system",
+    "cover-date": "2020-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Radiation",
+            "@code": "3108",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "eclipse\u2122 TPS",
+        "monitor unit",
+        "small field commissioning",
+        "small field detectors",
+        "small-field dosimetry",
+        "TRS 483"
+    ],
+    "authors": [
+        "Sammuel Mamesa",
+        "Sornjarod Oonsiri",
+        "Taweap Sanghangthum",
+        "Sumalee Yabsantia",
+        "Sivalee Suriyapee"
+    ],
+    "citedby-count": 10,
+    "ref-count": 29,
+    "ref-list": [
+        "Dosimetric characterization of radiosurgical beams with a diamond detector",
+        "Assessment of new small-field detectors against standard-field detectors for practical stereotactic beam data acquisition",
+        "Choice of radiation detector in dosimetry of stereotactic radiosurgery-radiotherapy",
+        "Experimental small field 6 MV output ratio analysis for various diode detector and accelerator combinations",
+        "Dose measurements in small fields",
+        "Output correction factors for nine small field detectors in 6 MV radiation therapy photon beams: a PENELOPE Monte Carlo study",
+        "Clinical use of diodes and micro-chambers to obtain accurate small field output factor measurements",
+        "Can small field diode correction factors be applied universally?",
+        "Detector to detector corrections: a comprehensive experimental study of detector specific correction factors for beam output measurements for small radiotherapy beams",
+        "A new formalism for reference dosimetry of small and nonstandard fields",
+        "Comparison of dose calculation algorithms for treatment planning in external photon beam therapy for clinical situations",
+        "Evaluation of the dose calculation accuracy for small fields defined by jaw or MLC for AAA and Acuro sXB algorithms",
+        "Dosimetric evaluation of Acuros XB Advanced Dose Calculation algorithm in heterogeneous media",
+        "Dosimetric comparison of Acuros XB, AAA, and XVMC in stereotactic body radiotherapy for lung cancer",
+        "Dosimetric validation of Acuros\u00ae XB with Monte Carlo methods for photon dose calculations",
+        "Dosimetric comparison of Acuros XB deterministic radiation transport method with Monte Carlo and model-based convolution methods in heterogeneous media",
+        "Small field segments surrounded by large areas only shielded by a multileaf collimator: comparison of experiments and dose calculation",
+        "Effect of dosimeter type for commissioning small photon beams on calculated dose distribution in stereotactic radiosurgery",
+        "Monitor unit calculations for external photon and electron beams: report of the AAPM Therapy Physics Committee Task Group No. 71",
+        "Accelerator beam data commissioning equipment and procedures: report of the TG-106 of the Therapy Physics Committee of the AAPM",
+        "Small fields: nonequilibrium radiation dosimetry",
+        "Estimation of the focal spot size and shape for a medical linear accelerator by Monte Carlo simulation",
+        "A dosimetric evaluation of the IAEA-AAPM TRS483 code of practice for dosimetry of small static fields used in conventional linac beams and comparison with IAEA TRS-398, AAPM TG51, and TG51 Addendum protocols",
+        "Intensity-modulated radiation therapy, protons, and the risk of second cancers"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "King Bhumibol Adulyadej",
+        "Chulalongkorn University"
+    ]
+}

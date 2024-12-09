@@ -1,0 +1,109 @@
+{
+    "eid": "2-s2.0-85170031158",
+    "title": "Stability analysis of multiple unsupported excavations in cohesive-frictional soils using finite element limit analysis (FELA) and an artificial neural network (ANN)",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Environmental Science (all)",
+            "@code": "2300",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Agricultural and Biological Sciences (all)",
+            "@code": "1100",
+            "@abbrev": "AGRI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computers in Earth Sciences",
+            "@code": "1903",
+            "@abbrev": "EART"
+        },
+        {
+            "@_fa": "true",
+            "$": "Statistics, Probability and Uncertainty",
+            "@code": "1804",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "Artificial neural networks",
+        "Cohesive-frictional soil",
+        "Finite element limit analysis",
+        "Multiple unsupported excavations",
+        "Stability"
+    ],
+    "authors": [
+        "Kittiphan Yoonirundorn",
+        "Teerapong Senjuntichai",
+        "Suraparb Keawsawasvong",
+        "Chayut Ngamkhanong",
+        "Anil C. Wijeyewickrema"
+    ],
+    "citedby-count": 0,
+    "ref-count": 34,
+    "ref-list": [
+        "Framework for the development of artificial neural networks for predicting the load carrying capacity of RC members",
+        "Finite element limit analysis using linear programming",
+        "Finite element method and limit analysis theory for soil mechanics problems",
+        "Stability of unsupported axisymmetric excavations in soft clay",
+        "Stability of axisymmetric excavations in clays",
+        "Dimensional analysis for geotechnical engineers",
+        "Mesh adaptive computation of upper and lower bounds in limit analysis",
+        "Extended limit design theorems for continuous media",
+        "Using artificial neural networks for predicting the elastic modulus of recycled aggregate concrete",
+        "Interpreting neural-network connection weights",
+        "Finite element analysis of vertical excavations",
+        "The determination of the value of the collapse load for statically indeterminate systems undergoing plastic deformation",
+        "The WEKA data mining software: an update",
+        "Development of air\u2013soil temperature model using computational intelligence paradigms: artificial neural network versus multiple linear regression",
+        "Stability of unsupported conical excavations in non-homogeneous clays",
+        "Stability of an unsupported vertical circular excavation in clays under undrained condition",
+        "Stability numbers for an unsupported vertical circular excavation in c\u2013\u03d5 soil",
+        "Stability of unsupported vertical circular excavations",
+        "Limit analysis solutions for stability factor of unsupported conical slopes in clays with heterogeneity and anisotropy",
+        "Modeling and predictive analyses related to piezometric level in an earth dam using a back propagation neural network in comparison on non-linear regression",
+        "Seismic soil-structure interaction analysis by direct boundary element methods",
+        "A half-space TD-BEM model for a seismic corrugated orthotropic stratum",
+        "Limit analysis in axisymmetrical problems: numerical determination of complete statical solutions",
+        "An indirect boundary integral equation method for poroelasticity",
+        "Artificial neural network model to predict the compressive strength of eco-friendly geopolymer concrete incorporating silica fume and natural zeolite",
+        "Dynamic analysis of fluid\u2013soil\u2013structure interaction problems by the boundary element method",
+        "State of the art progress in hydraulic fracture modeling using AI/ML techniques",
+        "A new design Eq. for drained stability of conical slopes in cohesive-frictional soils",
+        "Undrained stability of unsupported rectangular excavations in non-homogeneous clays",
+        "Stability analysis of circular and square excavations in cohesive-frictional soils",
+        "Stability of unsupported conical slopes in Hoek-Brown rock masses",
+        "Undrained stability of unsupported conical slopes in anisotropic clays based on Anisotropic Undrained Shear failure criterion",
+        "Undrained stability of unsupported conical slopes in two-layered clays"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60031126",
+            "affilname": "Tokyo Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031126",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60012521",
+            "affilname": "Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012521",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "eid": "2-s2.0-85140577156",
+    "title": "Hybrid GNS3 and Mininet-WiFi Emulator for SDN Backbone Network Supporting Wireless IoT Traffic",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Delay Awareness Routing",
+        "Fault-Tolerant",
+        "GNS3",
+        "Internet of Things",
+        "Mininet-WiFi",
+        "Software-Defined Networking"
+    ],
+    "authors": [
+        "May Pyone Han",
+        "Soe Ye Htet",
+        "Lunchakorn Wuttisttikulkij"
+    ],
+    "citedby-count": 1,
+    "ref-count": 7,
+    "ref-list": [
+        "SD-6LN: Improved Existing IoT Framework by Incorporating SDN Approach",
+        "6LoWPAN Performance Analysis of IoT Software-Defined Network based Using Mininet-IoT",
+        "Sway: Traffic-Aware QoS Routing in Software-Defined IoT",
+        "Quality of Service Evaluation of Software-Defined Internet of Things Network",
+        "Minimizing Latency of Critical Traffic through SDN"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

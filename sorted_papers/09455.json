@@ -1,0 +1,97 @@
+{
+    "eid": "2-s2.0-85074237919",
+    "title": "Spatio-Temporal deep learning for ocean current prediction based on hf radar data",
+    "cover-date": "2019-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "convolutional neural network",
+        "deep learning",
+        "gated recurrent unit",
+        "HF radar",
+        "spatio-Temporal",
+        "Surface current forecasting"
+    ],
+    "authors": [
+        "Nathachai Thongniran",
+        "Peerapon Vateekul",
+        "Kulsawasd Jitkajornwanich",
+        "Siam Lawawirojwong",
+        "Panu Srestasathiern"
+    ],
+    "citedby-count": 13,
+    "ref-count": 17,
+    "ref-list": [
+        "The US Navy coupled ocean-wave prediction system",
+        "A reduced-order Kalman filter for data assimilation in physical oceanography",
+        "Temporal kNN for short-Term ocean current prediction based on HF radar observations. Computer Science and Software Engineering (JCSSE",
+        "Short-Term forecasting of coastal surface currents using high frequency radar data and artificial neural networks",
+        "Predicting ocean surface currents using numerical weather prediction model and Kohonen neural network: A northern Adriatic study",
+        "Rectified linear units improve restricted boltzmann machines",
+        "Improved statistical prediction of surface currents based on historic HF-radar observations",
+        "A short-Term predictive system for surface currents from a rapidly deployed coastal HF radar network",
+        "A combined numerical and neural technique for short term prediction of ocean currents in the Indian Ocean",
+        "Gradient-based learning applied to document recognition",
+        "Parametric exponential linear unit for deep convolutional neural networks 2017"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60091494",
+            "affilname": "Geo-Informatics and Space Technology Development Agency",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091494",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ladkrabang Bangkok",
+            "@id": "60021543",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021543",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

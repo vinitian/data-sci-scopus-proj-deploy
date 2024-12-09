@@ -1,0 +1,136 @@
+{
+    "eid": "2-s2.0-85161345830",
+    "title": "Follow-the-Regularized-Leader Routes to Chaos in Routing Games",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Statistics and Probability",
+            "@code": "2613",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Jakub Bielawski",
+        "Thiparat Chotibut",
+        "Fryderyk Falniowski",
+        "Grzegorz Kosiorowski",
+        "Micha\u0142 Misiurewicz",
+        "Georgios Piliouras"
+    ],
+    "citedby-count": 3,
+    "ref-count": 57,
+    "ref-list": [
+        "Topological entropy",
+        "The multiplicative weights update method: a meta-algorithm and applications",
+        "Fast and furious learning in zero-sum games: Vanishing regret with non-vanishing step sizes",
+        "Finite regret and cycles with fixed step-size via alternating gradient descent-ascent",
+        "Distributed selfish load balancing on networks",
+        "Routing without regret: On convergence to nash equilibria of regret-minimizing algorithms in routing games",
+        "Hessian barrier algorithms for linearly constrained optimization problems",
+        "The route to chaos in routing games: When is price of anarchy too optimistic?",
+        "Family of chaotic maps from game theory",
+        "Penalty-regulated dynamics and robust learning procedures in games",
+        "Axiomatic characterizations of information measures",
+        "Fast convergence of selfish rerouting",
+        "Fast convergence to wardrop equilibria by adaptive sampling methods",
+        "Atomic congestion games: Fast, myopic and concurrent",
+        "Complex dynamics in learning complicated games",
+        "Sensitive dependence on initial conditions",
+        "Generative adversarial nets",
+        "Game theory, maximum entropy, minimum discrepancy and robust bayesian decision theory",
+        "Escort evolutionary game theory",
+        "Quantification method of classification processes. concept of structural a-entropy",
+        "Introduction to online convex optimization",
+        "Experience-weighted attraction learning in coordination games: Probability rules, heterogeneity, and time-variation",
+        "Experience-weighted attraction learning in normal form games",
+        "Self-tuning experience weighted attraction learning in games",
+        "Parabolic replicator dynamics and the principle of minimum Tsallis information gain",
+        "Dynamics of Boltzmann Q learning in two-player two-action games",
+        "Multiplicative updates outperform generic no-regret learning in congestion games",
+        "Load balancing without regret in the bulletin board model",
+        "Worst-case equilibria",
+        "Period three implies chaos",
+        "Odd chaos",
+        "Interaction matters: A note on non-asymptotic local convergence of generative adversarial networks",
+        "Learning in games via reinforcement and regularization",
+        "Riemannian game dynamics",
+        "Learning in games with continuous action sets and unknown payoff functions",
+        "Horseshoes for mapping of the interval",
+        "Entropy of piecewise monotone mappings",
+        "Fictitious play property for games with identical interests",
+        "Gradient descent gan optimization is locally stable",
+        "Multiplicative weights update with constant step-size in congestion games: Convergence, limit cycles and chaos",
+        "Multiplicative weights updates as a distributed constrained optimization algorithm: Convergence to second-order stationary points almost always",
+        "Best reply structure and equilibrium convergence in generic games",
+        "On measures of entropy and information",
+        "A class of games possessing pure-strategy Nash equilibria",
+        "Coupled replicator equations for the dynamics of learning in multiagent systems",
+        "Stability and diversity in collective adaptation",
+        "Online learning and online covex optimization",
+        "Coexistence of the cycles of a continuous mapping of the line into itself",
+        "Entropy computing via integration over fractal measures",
+        "Possible generalization of Boltzmann-Gibbs statistics",
+        "No-regret learning and mixed nash equilibria: They do not mix",
+        "The unusual effectiveness of averaging in gan training"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": null,
+            "@id": "60104290",
+            "affilname": "Singapore University of Technology and Design",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104290",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Indianapolis",
+            "@id": "60024609",
+            "affilname": "Indiana University-Purdue University Indianapolis",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024609",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Krakow",
+            "@id": "60015632",
+            "affilname": "Krakow University of Economics",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015632",
+            "affiliation-country": "Poland"
+        }
+    ],
+    "funding": [
+        "AME Programmatic Fund",
+        "Simons Foundation",
+        "COST",
+        "A*STAR",
+        "National Research Foundation, Singapore",
+        "Chulalongkorn University",
+        "National Science Centre",
+        "Cracow University of Economics"
+    ]
+}

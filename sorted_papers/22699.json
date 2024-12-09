@@ -1,0 +1,90 @@
+{
+    "eid": "2-s2.0-85086304211",
+    "title": "Urban Navigation System with Multiple Sub-Maps and Multiple Sub-Navigators",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "complex environment",
+        "dynamic environment",
+        "multiple maps",
+        "multiple navigators",
+        "navigation",
+        "navigation graph",
+        "path planning",
+        "Robot navigation",
+        "route planning",
+        "service robots",
+        "simultaneous localization and mapping",
+        "urban navigation",
+        "user policy"
+    ],
+    "authors": [
+        "Sukhum Sattaratnamai",
+        "Nattee Niparnan",
+        "Attawith Sudsang"
+    ],
+    "citedby-count": 0,
+    "ref-count": 30,
+    "ref-list": [
+        "Online view planning for inspecting unexplored underwater structures",
+        "An experiment in autonomous navigation of an underground mining vehicle",
+        "Resilient underground localization using magnetic field anomalies for drilling environment",
+        "Learning to see the wood for the trees: Deep laser localization in urban and natural environments on a CPU",
+        "Navigation through urban environments by visual perception and interaction",
+        "Autonomous behavior-based switched top-down and bottom-up visual attention for mobile robots",
+        "Travi-navi: Selfdeployable indoor navigation system",
+        "Magnetic maps for indoor navigation",
+        "Vision-based robot localization across seasons and in remote locations",
+        "A fully autonomous indoor quadrotor",
+        "Integrated indoor navigation system for ground vehicles with automatic 3-D alignment and position initialization",
+        "Autonomous mobile robot navigation in uneven and unstructured indoor environments",
+        "The use of aerial images and GPS for mobile robot waypoint navigation",
+        "Robust elevator button recognition in the presence of partial occlusion and clutter by specular reflections",
+        "Collaborative mapping and autonomous parking for multi-story parking garage",
+        "A framework for predicting future system performance in autonomous unmanned ground vehicles",
+        "Long-term 3D map maintenance in dynamic environments",
+        "The office marathon: Robust navigation in an indoor office environment",
+        "Robot guided crowd evacuation",
+        "Robotic online path planning on point cloud",
+        "Wall-following control of a hexapod robot using a data-driven fuzzy controller learned through differential evolution",
+        "Predicting millimeter wave radar spectra for autonomous navigation",
+        "Robust intensity-based localization method for autonomous driving on Snow Wet road surface",
+        "A multiobjective path-planning algorithm with time windows for asset routing in a dynamic weather-impacted environment",
+        "Semantic representation for navigation in large-scale environments",
+        "3D navigation based on a visual memory",
+        "Robotic wheelchair with autonomous traveling capability for transportation assistance in an urban environment",
+        "Topomap: Topological mapping and navigation based on visual SLAM maps",
+        "Semantic mapping and navigation: A Bayesian approach",
+        "Place categorization and semantic mapping on a mobile robot"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Obodroid Company, Ltd.",
+        "Thailand Research Fund"
+    ]
+}

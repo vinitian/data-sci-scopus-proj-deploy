@@ -1,0 +1,137 @@
+{
+    "eid": "2-s2.0-85150752126",
+    "title": "Micromonospora thermarum sp. nov., an actinobacterium isolated from hot spring soil",
+    "cover-date": "2023-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Microbiology",
+            "@code": "2404",
+            "@abbrev": "IMMU"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [
+        "16S rRNA gene",
+        "Actinomycete",
+        "Hot spring soil",
+        "Micromonospora",
+        "Whole-genome analysis"
+    ],
+    "authors": [
+        "Rawirat Pansomsuay",
+        "Thitikorn Duangupama",
+        "Pattama Pittayakhajonwut",
+        "Chakapong Intaraudom",
+        "Chanwit Suriyachadkun",
+        "Ya Wen He",
+        "Somboon Tanasupawat",
+        "Chitti Thawai"
+    ],
+    "citedby-count": 0,
+    "ref-count": 52,
+    "ref-list": [
+        "AutoMLST: an automated web server for generating multi-locus species trees highlighting natural product potential",
+        "Digital DNA\u2013DNA hybridization for microbial species delineation by means of genome-to-genome sequence comparison",
+        "The RAST Server: Rapid annotations using subsystems technology",
+        "SPAdes: a new genome assembly algorithm and its applications to single-cell sequencing",
+        "antiSMASH 6.0: improving cluster detection and comparison capabilities",
+        "Genome-based classification of micromonosporae with a focus on their biotechnological and ecological potential",
+        "Integrating genomics into the taxonomy and systematics of the Bacteria and Archaea",
+        "Lipids in the classification and identification of coryneform bacteria containing peptidoglycans based on 2,4-diaminobutyric acid",
+        "Distribution of menaquinones in actinomycetes and corynebacteria",
+        "Estimating phylogenetic trees from distance matrices",
+        "Evolutionary trees from DNA sequences: a maximum likelihood approach",
+        "Confidence limits on phylogenies: an approach using the bootstrap",
+        "Toward defining the course of evolution: minimum change for a specific tree topology",
+        "Genus Micromonospora. The Actinobacteria",
+        "Nocardia coeliaca, Nocardia autotrophica, and the nocardin strain",
+        "DNA-DNA hybridization values and their relationship to whole-genome sequence similarities",
+        "Cryptoendolithic actinomycetes from Antarctic sandstone rock samples: Micromonospora endolithica sp. nov. and two isolates related to Micromonospora coerulea Jensen 1932",
+        "Amended description of the genus Kineosporia, based on chemotaxonomic and morphological studies",
+        "Lipid and cell-wall analysis in bacterial systematics",
+        "Towards a genome-based taxonomy for prokaryotes",
+        "Uncultivated microbes in need of their own taxonomy",
+        "Fatty acid and menaquinone analysis of actinomycetes and related organisms",
+        "MEGA X: molecular evolutionary genetics analysis across computing platforms",
+        "Chemical composition as a criterion in the classification of aerobic actinomycetes",
+        "Chemotaxonomy of aerobic actinomycetes: phospholipid composition",
+        "FastME 2.0: a comprehensive, accurate, and fast distance-based phylogeny inference program",
+        "TYGS is an automated high throughput platform for state- of-the-art genome-based taxonomy",
+        "Genome sequence-based species delimitation with confidence intervals and improved distance functions",
+        "Thin-layer chromatography of methanolysates of mycolic acid-containing bacteria",
+        "An integrated procedure for the extraction of bacterial isoprenoid quinones and polar lipids",
+        "Microbispora corallina sp. nov., a new species of the genus Microbispora isolated from Thai soil",
+        "The SEED and the rapid annotation of microbial genomes using subsystems technology (RAST)",
+        "CheckM: assessing the quality of microbial genomes recovered from isolates, single cells, and metagenomes",
+        "List of prokaryotic names with Standing in nomenclature (LPSN) moves to the DSMZ",
+        "Shifting the genomic gold standard for the prokaryotic species definition",
+        "J SpeciesWS: a web server for prokaryotic species circumscription based on pairwise genome comparison",
+        "Bypassing cultivation to identify bacterial species",
+        "The neighbor-joining method: a new method for reconstructing phylogenetic trees",
+        "DnaK, DnaJ and GrpE form a cellular chaperone machinery capable of repairing heat-induced protein damage",
+        "Methods for characterization of Streptomyces species",
+        "Proposal for a new hierarchic classification system, Actinobacteria classis nov",
+        "Simplified approach to identification of aerobic actinomycetes by thin-layer chromatography",
+        "DnaK, DnaJ, and GrpE heat shock proteins negatively regulate heat shock gene expression by controlling the synthesis and stability of sigma 32",
+        "Determination of DNA Base Composition",
+        "UniProt: a worldwide hub of protein knowledge",
+        "Microbial genomic taxonomy",
+        "An improved method for the glycolate test for simple identification of the acyl type of bacterial cell walls",
+        "Chapter XI actinomycetes",
+        "Introducing EzBioCloud: a taxonomically united database of 16S rRNA and whole-genome assemblies"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Ladkrabang Bangkok",
+            "@id": "60021543",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021543",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011947",
+            "affilname": "Thailand National Center for Genetic Engineering and Biotechnology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011947",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Shanghai",
+            "@id": "60123531",
+            "affilname": "State Key Laboratory of Microbial Metabolism",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60123531",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Actinobacterial Research Unit",
+        "School of Science, King Mongkut\u2019s Institute of Technology Ladkrabang",
+        "King Mongkut\u2019s Institute of Technology Ladkrabang",
+        "School of Science"
+    ]
+}

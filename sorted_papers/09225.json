@@ -1,0 +1,111 @@
+{
+    "eid": "2-s2.0-85103811954",
+    "title": "Multi-data aspects of protein similarity with a learning technique to identify drug-disease associations",
+    "cover-date": "2021-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Process Chemistry and Technology",
+            "@code": "1508",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Fluid Flow and Transfer Processes",
+            "@code": "1507",
+            "@abbrev": "CENG"
+        }
+    ],
+    "keywords": [
+        "Biological network",
+        "Drug repositioning",
+        "Drug repurposing",
+        "Machine learning",
+        "Protein\u2019s interaction network"
+    ],
+    "authors": [
+        "Satanat Kitsiranuwat",
+        "Apichat Suratanee",
+        "Kitiporn Plaimas"
+    ],
+    "citedby-count": 4,
+    "ref-count": 37,
+    "ref-list": [
+        "Pharmacogenetics in drug discovery and development: A translational perspective",
+        "Drug repositioning: Identifying and developing new uses for existing drugs",
+        "Repurposing Strategies for Therapeutics",
+        "Recent Advances in Drug Repositioning for the Discovery of New Anticancer Drugs",
+        "Protein-protein interaction networks (PPI) and complex diseases",
+        "Prediction of drug-disease associations based on ensemble meta paths and singular value decomposition",
+        "Computational Approaches to Drug Repurposing and Pharmacology",
+        "In silico methods for drug repurposing and pharmacology",
+        "Prediction of Drug-Target Interactions and Drug Repositioning via Network-Based Inference",
+        "Supervised prediction of drug-target interactions using bipartite local models",
+        "Similarity-basedmachine learning methods for predicting drug-target interactions: A brief review",
+        "Predict: A method for inferring novel drug indications with application to personalized medicine",
+        "Computational drug repurposing to predict approved and novel drug-disease associations",
+        "Prediction of drugs having opposite effects on disease genes in a directed network",
+        "Drug repositioning using drug-disease vectors based on an integrated network",
+        "BioCarta",
+        "The reactome pathway knowledgebase",
+        "PID: The pathway interaction database",
+        "New approach for understanding genome variations in KEGG",
+        "STRING v11: Protein-protein association networks with increased coverage, supporting functional discovery in genome-wide experimental datasets",
+        "The Comparative Toxicogenomics Database: Update 2019",
+        "DrugBank 5.0: A major update to the DrugBank database for 2018",
+        "The DisGeNET knowledge platform for disease genomics: 2019 update",
+        "Drug Promiscuity in PDB: Protein Binding Site Similarity Is Key",
+        "KEGG: Kyoto Encyclopedia of Genes and Genomes",
+        "Toward understanding the origin and evolution of cellular organisms",
+        "Scikit-learn: Machine Learning in Python Fabian",
+        "XGBoost improves classification of MGMT promoter methylation status in IDH1 wildtype glioblastoma",
+        "A Computational Framework Based on Ensemble Deep Neural Networks for Essential Genes Identification",
+        "Fisher Exact Test",
+        "Clinical pharmacology of dopamine agonists",
+        "Pergolide: An antidepressant adjuvant for mood disorders?",
+        "Pilot investigation of isradipine in the treatment of bipolar depression motivated by genome-wide association"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "King Mongkut\u2019s University of Technology North Bangkok"
+    ]
+}

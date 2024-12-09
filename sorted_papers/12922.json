@@ -1,0 +1,101 @@
+{
+    "eid": "2-s2.0-85136204572",
+    "title": "AI-Assisted Diagnosis of Dyssynergic Defecation Using Deep Learning Approach on Abdominal Radiography and Symptom Questionnaire",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Education",
+            "@code": "3304",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "abdominal radiography",
+        "artificial intelligence",
+        "deep learning",
+        "dyssynergic defecation",
+        "medical diagnosis",
+        "symptom questionnaire"
+    ],
+    "authors": [
+        "Sornsiri Poovongsaroj",
+        "Pakkapon Rattanachaisit",
+        "Tanisa Patcharatrakul",
+        "Sutep Gonlachanvit",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 1,
+    "ref-count": 20,
+    "ref-list": [
+        "Diagnosis and treatment of dyssynergic defecation",
+        "Dyssynergic defecation: Demographics, symptoms, stool patterns, and quality of life",
+        "Dyssynergic defecation and biofeedback therapy",
+        "Prevalence and clinical characteristics of dyssynergic defecation and slow transit constipation in patients with chronic constipation",
+        "The use of standardized questions in identifying patients with dyssynergic defecation",
+        "Rectal gas volume measured by computerized tomography identifies evacuation disorders in patients with constipation",
+        "The impact of artificial intelligence in medicine on the future role of the physician",
+        "The rise of artificial intelligence in healthcare applications",
+        "Medical diagnosis using deep learning techniques: A research survey",
+        "Predicting the future - big data, machine learning, and clinical medicine",
+        "PWE-097 machine learning can accurately classify chronic constipation patients by symptom burden using pain measures alone",
+        "Tabular data: Deep learning is not all you need",
+        "Tree-based analysis",
+        "Deep learning for chest X-ray analysis: A survey",
+        "Using X-ray images and deep learning for automated detection of coronavirus disease",
+        "Accurate detection of COVID-19 using K-EfficientNet deep learning image classifier and K-COVID chest X-ray images dataset",
+        "Explainable COVID-19 detection on chest X-rays using an end-to-end deep convolutional neural network architecture",
+        "Using a deep learning model to explore the impact of clinical data on COVID-19 diagnosis using chest X-ray",
+        "EfficientNet: Rethinking model scaling for convolutional neural networks"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Rachadapiseksompoch Fund for the Center of Excellence in Neurogastroenterology and Motility, Faculty of Medicine, Chulalongkorn University",
+        "National Research Council of Thailand"
+    ]
+}

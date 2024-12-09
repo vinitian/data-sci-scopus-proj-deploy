@@ -1,0 +1,158 @@
+{
+    "eid": "2-s2.0-85103681823",
+    "title": "Hybrid Metamodeling/Metaheuristic Assisted Multi-Transmitters Placement Planning",
+    "cover-date": "2021-03-22",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biomaterials",
+            "@code": "2502",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanics of Materials",
+            "@code": "2211",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "multi-transmitter placement",
+        "particle swarm optimization",
+        "radial basis function",
+        "Simulation-optimization"
+    ],
+    "authors": [
+        "Amir Parnianifard",
+        "Muhammad Saadi",
+        "Manus Pengnoo",
+        "Muhammad Ali Imran",
+        "Sattam Al Otaibi",
+        "Pruk Sasithong",
+        "Pisit Vanichchanunt",
+        "Tuchsanai Polysuwan",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 4,
+    "ref-count": 52,
+    "ref-list": [
+        "\"Optimal placement and number of energy transmitters in wireless sensor networks for RF energy transfer",
+        "\"Coverage-based node placement optimization in wireless sensor network with linear topology",
+        "IoT enabled quality of experience measurement for next generation networks in smart cities",
+        "Narrowband internet of things (NB-IoT): From physical (PHY) and media access control (MAC) layers perspectives,\"",
+        "Multiobjective optimization in 5G hybrid networks",
+        "Grey wolf optimizer with an enhanced hierarchy and its application to the wireless sensor network coverage optimization problem,\"",
+        "\"A virtual force algorithm-L\u00e9vy-embedded grey wolf optimization algorithm for wireless sensor network coverage optimization,\"",
+        "\"Optimization problems in wireless sensor networks",
+        "\"Ant colony optimization based sensor deployment protocol for wireless sensor networks,\"",
+        "\"ACO for optimal sensor layout",
+        "\"Routing in wireless sensor networks using an ant colony optimization (ACO) router chip,\"",
+        "Ant colony inspired selfoptimized routing protocol based on cross layer architecture for wireless sensor networks,\"",
+        "Millimeter wave communications for future mobile networks (guest editorial), Part I,\"",
+        "\"A wireless sensor network coverage optimization algorithm based on particle swarm optimization and Voronoi diagram",
+        "Coverage optimization of wireless sensor networks based on chaos particle swarm algorithm,\"",
+        "\"Study on coverage in wireless sensor network using grid based strategy and particle swarm optimization",
+        "Decentralized beam pair selection in multi-beam millimeter-wave networks",
+        "Comparative study of metamodeling and sampling design for expensive and semi-expensive simulation models under uncertainty",
+        "Review of metamodeling techniques in support of engineering design optimization,\"",
+        "\"Metamodels for computer-based engineering design: Survey and recommendations,\"",
+        "\"Kriging for localized spatial interpolation in sensor networks",
+        "Kriging-Assisted robust black-box simulation optimization in direct speed control of DC motor under uncertainty,\"",
+        "\"Robust tuning and sensitivity analysis of stochastic integer and fractional-order PID control systems: Application of surrogate-based robust simulation-optimization,\"",
+        "\"Robust optimal design of FOPID controller for five bar linkage robot in a Cyber-Physical System: A new simulationoptimization approach,\"",
+        "\"Sequential improvement for robust optimization using an uncertainty measure for radial basis functions,\"",
+        "\"A kriging assisted direct torque control of brushless DC motor for electric vehicles",
+        "\"Metamodel-based robust simulation-optimization assisted optimal design of multiloop integer and fractional-order PID controller,\"",
+        "Kriging assisted on-line torque calculation for brushless DC motors used in electric vehicles",
+        "\"An indicator kriging method for distributed estimation in wireless sensor networks,\"",
+        "Visible light-based indoor localization using k-means clustering and linear regression,\"",
+        "\"Algorithm for wireless sensor network data fusion based on radial basis function neural networks,\"",
+        "BEGIN: Big data enabled energy-efficient vehicular edge computing,\"",
+        "\"A novel multilayer neural network model for TOA-based localization in wireless sensor networks",
+        "\"Analysis of radial basis function network for localization framework in wireless sensor networks",
+        "\"Optimal design of fractional-order PID controller for five bar linkage robot using a new particle swarm optimization algorithm,\"",
+        "\"Design of a fractional order PID controller for an AVR using particle swarm optimization,\"",
+        "Simulation metamodeling through artificial neural networks",
+        "Computing confidence intervals for stochastic simulation using neural network metamodels,\"",
+        "\"Advances in neural network modeling of phytoplankton primary production,\"",
+        "\"A comparison of experimental designs in the development of a neural network simulation metamodel",
+        "\"Radial basis function neural networks: A topical state-of-the-art survey,\"",
+        "\"Particle swarm optimization",
+        "\"A comprehensive review of swarm optimization algorithms,\"",
+        "\"Particle swarm optimization: Basic concepts, variants and applications in power systems,\"",
+        "\"Surrogate-assisted hierarchical particle swarm optimization,\"",
+        "\"A sequential metamodel-based method for structural optimization under uncertainty",
+        "Particle swarm with radial basis function surrogates for expensive black-box optimization,\"",
+        "Theoretical and numerical constraint-handling techniques used with evolutionary algorithms: A survey of the state of the art,\"",
+        "\"The ant lion optimizer,\"",
+        "\"Self-adjusting parameter control for surrogateassisted constrained optimization under limited budgets,\""
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Lahore",
+            "@id": "60103839",
+            "affilname": "University of Central Punjab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103839",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Taif",
+            "@id": "60091164",
+            "affilname": "Taif University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091164",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022182",
+            "affilname": "Siam University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022182",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Glasgow",
+            "@id": "60001490",
+            "affilname": "University of Glasgow",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001490",
+            "affiliation-country": "United Kingdom"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "TSRI Fund",
+        "Chulalongkorn University",
+        "Taif University"
+    ]
+}

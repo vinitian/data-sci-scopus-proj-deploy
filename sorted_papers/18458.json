@@ -1,0 +1,95 @@
+{
+    "eid": "2-s2.0-85120038413",
+    "title": "Molecular characterization of the histone acetyltransferase CREBBP/EP300 genes in myeloid neoplasia",
+    "cover-date": "2022-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Hematology",
+            "@code": "2720",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Oncology",
+            "@code": "2730",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Cancer Research",
+            "@code": "1306",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Sunisa Kongkiatkamon",
+        "Simona Pagliuca",
+        "Vera Adema",
+        "Yasunobu Nagata",
+        "Cassandra M. Kerr",
+        "Wencke Walter",
+        "Hassan Awada",
+        "Stephan Hutter",
+        "Carmelo Gurnari",
+        "Heesun J. Rogers",
+        "Manja Meggendorfer",
+        "Yogen Saunthararajah",
+        "Torsten Haferlach",
+        "Valeria Visconte",
+        "Jaroslaw P. Maciejewski"
+    ],
+    "citedby-count": 1,
+    "ref-count": 15,
+    "ref-list": [
+        "Integration of gene mutations in risk prognostication for patients receiving first-line immunochemotherapy for follicular lymphoma: a retrospective analysis of a prospective clinical trial and validation in a population-based registry",
+        "Whole-transcriptome sequencing identifies a distinct subtype of acute lymphoblastic leukemia with predominant genomic abnormalities of EP300 and CREBBP",
+        "Inactivating mutations of acetyltransferase genes in B-cell lymphoma",
+        "Gene dosage-dependent embryonic development and proliferation defects in mice lacking the transcriptional integrator p300",
+        "Distinct roles for CREB-binding protein and p300 in hematopoietic stem cell self-renewal",
+        "Adenoviral E1A-associated protein p300 is involved in acute myeloid leukemia with t(11;22)(q23;q13)",
+        "A complex t(1;22;11)(q44;q13;q23) translocation causing MLL-p300 fusion gene in therapy-related acute myeloid leukemia",
+        "Novel variant form of t(11;22)(q23;q13)/MLL-EP300 fusion transcript in the evolution of an acute myeloid leukemia with myelodysplasia-related changes",
+        "Enhancer activity requires CBP/P300 bromodomain-dependent histone H3K27 acetylation",
+        "Novel homo- and hemizygous mutations in EZH2 in myeloid malignancies",
+        "Integrative genome analyses identify key somatic driver mutations of small-cell lung cancer",
+        "Loss of p300 accelerates MDS-associated leukemogenesis",
+        "Generation of a selective small molecule inhibitor of the CBP/p300 bromodomain for leukemia therapy",
+        "Antitumor activity of the dual BET and CBP/EP300 inhibitor NEO2734",
+        "A histone acetyltransferase p300 inhibitor C646 induces cell cycle arrest and apoptosis selectively in AML1-ETO-positive AML cells"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Cleveland",
+            "@id": "60021160",
+            "affilname": "Cleveland Clinic Foundation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021160",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Paris",
+            "@id": "60123796",
+            "affilname": "Universit\u00e9 Paris Cit\u00e9",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60123796",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Munich",
+            "@id": "60077260",
+            "affilname": "MLL M\u00fcnchner Leuk\u00e4mielabor GmbH",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60077260",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Henry and Marilyn Taub Foundation"
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "eid": "2-s2.0-85071647803",
+    "title": "Evaluation of contribution of PV array and inverter configurations to rooftop PV system energy yield using machine learning techniques",
+    "cover-date": "2019-08-16",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy (miscellaneous)",
+            "@code": "2101",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Bootstrap",
+        "Confidence interval",
+        "Lifetime energy yield",
+        "Multiple linear regression model"
+    ],
+    "authors": [
+        "Ngoc Thien Le",
+        "Watit Benjapolakul"
+    ],
+    "citedby-count": 9,
+    "ref-count": 34,
+    "ref-list": [
+        "Global PV incentive policies and recommendations for utilities",
+        "The first installation under the Italian PV rooftop programme: A performance analysis referred to five years of operation",
+        "Bill saving analysis of rooftop PV customers and policy implications for Thailand",
+        "Energy payback time (EPBT) and energy return on energy invested (EROI) of solar photovoltaic systems: A systematic review and meta-analysis",
+        "Snapshot of photovoltaics-February 2019",
+        "Energy yields of small grid connected photovoltaic system: Effects of component reliability and maintenance",
+        "Value of residential investment in photovoltaics and batteries in networks: A techno-economic analysis",
+        "Geospatial analysis of the energy yield and environmental footprint of different photovoltaic module technologies",
+        "Rooftop solar potential based on LiDAR data: Bottom-up assessment at neighbourhood level",
+        "Impact of inverter configuration on energy cost of grid-connected photovoltaic systems",
+        "Energy efficiency evaluation of Thailand PV rooftop systems using machine learning techniques",
+        "Performance assessment of rooftop PV systems in Abu Dhabi",
+        "Grid-connected PV systems installed on institutional buildings: Technology comparison, energy analysis and economic performance",
+        "Student's t-test",
+        "Bootstrap techniques for error estimation",
+        "Four assumptions of multiple regression that researchers should always test",
+        "Kolmogorov-Smirnov test",
+        "An extension of Shapiro and Wilk's W test for normality to large samples",
+        "Performance comparison between micro-inverter and string-inverter photovoltaic systems",
+        "Microinverter and string inverter grid-connected photovoltaic system-A comprehensive study"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60109585",
+            "affilname": "University of Architecture Ho Chi Minh City",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60109585",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Machine Learning",
+        "Rachadapisek Sompote Fund for Artificial Intelligence",
+        "Chulalongkorn University"
+    ]
+}

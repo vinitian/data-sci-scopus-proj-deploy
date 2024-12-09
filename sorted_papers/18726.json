@@ -1,0 +1,89 @@
+{
+    "eid": "2-s2.0-85113324807",
+    "title": "Modeling of void fraction and relative velocity covariance for dispersed bubbly and intermittent flows in horizontal channels",
+    "cover-date": "2021-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Condensed Matter Physics",
+            "@code": "3104",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Fluid Flow and Transfer Processes",
+            "@code": "1507",
+            "@abbrev": "CENG"
+        }
+    ],
+    "keywords": [
+        "Horizontal flow",
+        "Interfacial drag force",
+        "Relative velocity covariance",
+        "Two-phase flow",
+        "Void fraction covariance"
+    ],
+    "authors": [
+        "Somboon Rassame",
+        "Takashi Hibiki"
+    ],
+    "citedby-count": 0,
+    "ref-count": 37,
+    "ref-list": [
+        "Thermal hydraulic considerations of nuclear reactor systems: past, present and future challenges",
+        "Large eddy simulation of multiphase flows using the volume of fluid method: part 1 Governing equations and a priori analysis",
+        "Interfacial area measurement with new algorithm for grouping bubbles by diameter",
+        "Simultaneous measurements of two phases using an optical probe",
+        "RELAP5/MOD3 code manual",
+        "Interfacial drag force in one-dimensional two-fluid model",
+        "Two-group drift-flux model for closure of the modified two-fluid model",
+        "Two-fluid model and hydrodynamic constitutive relations",
+        "Effect of void fraction covariance on relative velocity in gas-dispersed two-phase flow",
+        "Modeling of void fraction covariance in two-phase flows with phase change",
+        "Modeling of void fraction covariance and relative velocity covariance for upward boiling flow in vertical pipe",
+        "Modeling of distribution parameter, void fraction covariance and relative velocity covariance for upward steam-water boiling flow in vertical rod bundle",
+        "Development of one-dimensional two-fluid model with consideration of void fraction covariance effect",
+        "Effect of void fraction covariance on two-fluid model based code calculation in pipe flow",
+        "Drag coefficient and relative velocity in bubbly, droplet or particulate flows",
+        "Interfacial area concentration of bubbly flow systems",
+        "Interfacial area concentration in boiling bubbly flow systems",
+        "A correlation for interfacial area concentration in high void fraction flows in large diameter channels",
+        "Interfacial area concentration in gas-liquid bubbly to churn-turbulent flow regime",
+        "Structure of vertical downward bubbly flow",
+        "Modeling of bubble-layer thickness for formulation of one-dimensional interfacial area transport equation in subcooled boiling two-phase flow",
+        "Local measurements on flow boiling of refrigerant 12 in a vertical tube",
+        "Modeling of distribution parameter, void fraction covariance and relative velocity covariance for upward steam-water boiling flow in vertical rod bundle",
+        "A model for predicting flow regime transitions in horizontal and near horizontal gas-liquid flow",
+        "Internal structure and interfacial velocity development for bubbly two-phase flow",
+        "Dispersed bubble flow in horizontal pipes",
+        "An experimental study on local interfacial parameters in a horizontal bubbly two-phase flow",
+        "Local void fraction and velocity field description in horizontal bubbly flow",
+        "Experimental investigation of horizontal air\u2013water bubbly-to-plug and bubbly-to-slug transition flows in a 3.81 cm ID pipe",
+        "Drift-flux correlation for gas-liquid two-phase flow in a horizontal pipe"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "60013983",
+            "affilname": "City University of Hong Kong",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013983",
+            "affiliation-country": "Hong Kong"
+        }
+    ],
+    "funding": [
+        "City University of Hong Kong"
+    ]
+}

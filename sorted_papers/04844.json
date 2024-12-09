@@ -1,0 +1,96 @@
+{
+    "eid": "2-s2.0-85136737976",
+    "title": "Mediastinal Lymph Node Detection and Segmentation Using Deep Learning",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "deep learning",
+        "detection",
+        "Lymph node",
+        "mediastinal lymph node",
+        "segmentation",
+        "UNet++"
+    ],
+    "authors": [
+        "Al Akhir Nayan",
+        "Boonserm Kijsirikul",
+        "Yuji Iwahori"
+    ],
+    "citedby-count": 1,
+    "ref-count": 34,
+    "ref-list": [
+        "Lung cancer statistics",
+        "Taking action to improve outcomes for men living with and beyond prostate cancer",
+        "Learning directional relative positions between mediastinal lymph node stations and organs: Segmentation of mediastinal lymph nodes stations",
+        "Thoracic lymph node station recognition on CT images based on automatic anatomy recognition with an optimal parent strategy",
+        "Mediastinal atlas creation from 3-D chest computed tomography images: Application to automated detection and station mapping of lymph nodes",
+        "A survey on deep learning in medical image analysis",
+        "Fully convolutional networks for semantic segmentation",
+        "SegNet: A deep convolutional encoder-decoder architecture for image segmentation",
+        "U-Net: Convolutional networks for biomedical image segmentation",
+        "DeepLab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected CRFs",
+        "Automatic lymph node cluster segmentation using holistically-nested neural networks and structured optimization in CT images",
+        "Dense volumetric detection and segmentation of mediastinal lymph nodes in chest CT images",
+        "Automatic detection and segmentation of lymph nodes from CT data",
+        "Mediastinal lymph nodes segmentation using 3D convolutional neural network ensembles and anatomical priors guiding",
+        "Improving the detection of abdominal and mediastinal lymph nodes in CT images using attention U-Net based deep learning model",
+        "2D view aggregation for lymph node detection using a shallow hierarchy of linear classifiers",
+        "Leveraging mid-level semantic boundary cues for automated lymph node detection",
+        "A new 2.5D representation for lymph node detection using random sets of deep convolutional neural network observations",
+        "Lymph node gross tumor volume detection and segmentation via distance-based gating using 3D CT/PET imaging in radiotherapy",
+        "Public lung image databases",
+        "A survey on image data augmentation for deep learning",
+        "UNetCC: A nested U-Net architecture for medical image segmentation",
+        "Deep learningfibased fully automated detection and segmentation of lymph nodes on multiparametric-MRI for rectal cancer: A multicentre study",
+        "Cancellable face biometrics template using AlexNet",
+        "Modified AlexNet architecture for classification of diabetic retinopathy images",
+        "Transfer learning on VGG16 for the classification of potato leaves infected by blight diseases",
+        "Analysis of basic-SegNet architecture with variations in training options",
+        "Mask R-CNN",
+        "An interconnected feature pyramid networks for object detection",
+        "Faster R-CNN: Towards realtime object detection with region proposal networks",
+        "Deep residual learning for image recognition"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Kasugai",
+            "@id": "60007976",
+            "affilname": "Chubu University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007976",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

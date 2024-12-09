@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85046352586",
+    "title": "Stacked benefit applications of energy storage systems in distribution circuits",
+    "cover-date": "2018-01-29",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Nuclear Energy and Engineering",
+            "@code": "2104",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Distributed power generation",
+        "Energy storage",
+        "Photovoltaic systems"
+    ],
+    "authors": [
+        "Pisitpol Chirapongsananurak",
+        "Anamika Dubey",
+        "Suma Jothibasu",
+        "Surya Santoso",
+        "Arindam Maitra"
+    ],
+    "citedby-count": 2,
+    "ref-count": 9,
+    "ref-list": [
+        "Moving energy storage from concept to reality",
+        "Application and modeling of battery energy storage in power systems",
+        "Coordinated control of distributed energy-storage systems for voltage regulation in distribution networks",
+        "Sizing strategy of distributed battery storage system with high penetration of photovoltaic for voltage regulation and peak load shaving",
+        "Robust control for microgrid frequency deviation reduction with attached storage system",
+        "Experimental study of battery energy storage systems participating in grid frequency regulation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pullman",
+            "@id": "60018208",
+            "affilname": "Washington State University Pullman",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018208",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Austin",
+            "@id": "60013372",
+            "affilname": "The University of Texas at Austin",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013372",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Palo Alto",
+            "@id": "60006272",
+            "affilname": "Electric Power Research Institute, Inc",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006272",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": []
+}

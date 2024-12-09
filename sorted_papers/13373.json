@@ -1,0 +1,82 @@
+{
+    "eid": "2-s2.0-85107631480",
+    "title": "Vehicle axle load identification using extracted bridge influence line via updated static component technique",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Axle load",
+        "Bridge weigh-in-motion",
+        "Influence line",
+        "Moving force identification"
+    ],
+    "authors": [
+        "Pattarapong Asnachinda",
+        "Tospol Pinkaew"
+    ],
+    "citedby-count": 1,
+    "ref-count": 36,
+    "ref-list": [
+        "Weigh-in-motion system using instrumented bridges",
+        "Moving force identification: A time domain method",
+        "Moving force identification: A frequency and time domain analysis",
+        "Am interpretive method for moving force identification",
+        "Identification of vehicle axle loads from bridge dynamic response",
+        "Moving force identification using an existing prestressed concrete bridge",
+        "Regularization in moving force identification",
+        "Moving loads identification through regularization",
+        "The use of the L-curve in the regularization of discrete ill-posed problems",
+        "Moving force identification: Optimal state estimation approach",
+        "Vehicle axle loads identification using finite element method",
+        "Moving force identification from bending moment responses of bridge",
+        "Identification of vehicle axle loads from bridge responses using updated static component technique",
+        "Experimental study on the identification of dynamic axle loads of moving vehicles from the bending moments of bridges",
+        "Multiple vehicle axle load identification from continuous bridge bending moment response",
+        "Effectiveness of vehicle weight estimation from bridge weigh-in-motion",
+        "Evaluation of effectiveness of vehicle weight estimation using bridge weigh-in-motion",
+        "Calculating the influence line from direct measurement",
+        "A regularised solution to the bridge weigh-in-motion equations",
+        "Identification of vehicular axle weights with a bridge weigh-in-motion system considering transverse distribution of wheel loads",
+        "Bridge weigh-in-motion algorithms based on the field calibrated simulation mode",
+        "Identification of dynamic vehicular axle loads: Theory and simulations",
+        "Identification of dynamic vehicular axle loads: Demonstration by a field study",
+        "Bridge influence line estimation for bridge weigh-in-motion system",
+        "Weight estimation on static B-WIM algorithms: A comparative study",
+        "Using bridge weigh-in-motion systems to monitor single-span bridge influence lines",
+        "Moving force identification based on modified preconditioned conjugated gradient method",
+        "Moving force identification based on redundant concatenated dictionary and weighted l1-norm regularization",
+        "Comparison of regularization methods for moving force identification with ill-posed problems",
+        "Identification of masses moving on multi-span beams based on a genetic algorithm",
+        "Identification of vehicles moving on continuous bridges with rough surface",
+        "Vehicle signal analysis using artificial neural networks for a bridge weigh-inmotion system",
+        "Simultaneous identification of moving vehicles and bridge damages considering road rough surface",
+        "Bridge weigh-in-motion using fibre optic sensors",
+        "Method and sensor for monitoring weight of trucks in motion based on bridge girder end rotations",
+        "Development of a bridge weigh-in-motion method considering the presence of multiple vehicles"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chonburi",
+            "@id": "60009116",
+            "affilname": "Burapha University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009116",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Burapha University"
+    ]
+}

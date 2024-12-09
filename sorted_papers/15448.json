@@ -1,0 +1,82 @@
+{
+    "eid": "2-s2.0-85140648210",
+    "title": "mHealth for Better Quality of Life, Healthier Lifestyles, and More Meaningful Lives",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Medicine (all)",
+            "@code": "2700",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry, Genetics and Molecular Biology (all)",
+            "@code": "1300",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Climate change",
+        "Global burden of disease",
+        "Health system integration",
+        "Information and communication technology"
+    ],
+    "authors": [
+        "Aishwarya Narasimhadevara",
+        "Renuka Rambhatla"
+    ],
+    "citedby-count": 2,
+    "ref-count": 49,
+    "ref-list": [
+        "Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980-2015: A systematic analysis for the global burden of disease study 2015",
+        "mHealth innovations as health system strengthening tools: 12 common applications and a visual framework",
+        "Assessing the impact of mHealth interventions in low- and middle-income countries - what has been shown to work?",
+        "Eysenbach G, ed",
+        "Cough sound analysis can rapidly diagnose childhood pneumonia",
+        "Developing content for a mHealth intervention to promote postpartum retention in prevention of mother-to-child HIV transmission programs and early infant diagnosis of HIV: A qualitative study",
+        "Assessing mobile phone access and perceptions for texting-based mHealth interventions among expectant mothers and child caregivers in remote regions of Northern Kenya: A survey-based descriptive study",
+        "Zika virus outbreak in Brazil",
+        "e-Health: A position statement of the European Society of Cardiology",
+        "Use of consumer wearable devices to promote physical activity: A review of health intervention studies",
+        "A systematic review of gamification in e-Health",
+        "Guidelines for reporting of health interventions using mobile phones: Mobile health (mHealth) evidence reporting and assessment (mERA) checklist",
+        "Evolution and current status of mHealth research: A systematic review"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Sydney",
+            "@id": "60025709",
+            "affilname": "The University of Sydney",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025709",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Brussels",
+            "@id": "60015045",
+            "affilname": "Brussels School of International Studies",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015045",
+            "affiliation-country": "Belgium"
+        }
+    ],
+    "funding": []
+}

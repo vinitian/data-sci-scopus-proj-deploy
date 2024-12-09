@@ -1,0 +1,72 @@
+{
+    "eid": "2-s2.0-85078842483",
+    "title": "Application of model predictive control to traffic network systems based on hierarchical distributed control framework",
+    "cover-date": "2019-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Hierarchical distributed control framework",
+        "Model predictive control",
+        "Traffic congestion",
+        "Traffic signal control"
+    ],
+    "authors": [
+        "Jeerapat Jitnuant",
+        "David Banjerdpongchai"
+    ],
+    "citedby-count": 1,
+    "ref-count": 7,
+    "ref-list": [
+        "Design of optimal traffic flow control at intersection with regard for queue length constraints",
+        "A congestion detection based traffic control for signalized intersection",
+        "Traffic-adaptive signal control and vehicle routing using a decentralized back-pressure method",
+        "Coordinated control of traffic signals for multiple intersections",
+        "Decentralized model-free adaptive control for signalized intersections network",
+        "A linear programming approach for adaptive synchronization of traffic signals",
+        "Design of state feedback traffic control using hierarchical distributed control framework"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

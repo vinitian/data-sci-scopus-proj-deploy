@@ -1,0 +1,57 @@
+{
+    "eid": "2-s2.0-85079854711",
+    "title": "Transforming flowchart into coloured petri nets",
+    "cover-date": "2019-12-09",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Coloured Petri nets",
+        "Flowchart",
+        "Formal method",
+        "Transformation scheme"
+    ],
+    "authors": [
+        "Utumporn Gulati",
+        "Wiwat Vatanawood"
+    ],
+    "citedby-count": 4,
+    "ref-count": 11,
+    "ref-list": [
+        "Translation UML activity diagram into colored petri net with inscription",
+        "On the verification of UML state machine diagrams to colored petri nets transformation using Isabelle_HOL",
+        "Dataflow model property verification using petri net translation techniques",
+        "Generating of business rules for coloured petri nets"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

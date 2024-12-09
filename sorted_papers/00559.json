@@ -1,0 +1,74 @@
+{
+    "eid": "2-s2.0-85046020749",
+    "title": "Finite volume method with reconstruction and bottom modification for open channel flows: An application to Yom River, Thailand",
+    "cover-date": "2018-07-04",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computational Mechanics",
+            "@code": "2206",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Finite volume",
+        "HLL",
+        "reconstruction",
+        "Saint Venant equations",
+        "wet/dry"
+    ],
+    "authors": [
+        "Thida Pongsanguansin",
+        "Montri Maleewong",
+        "Khamron Mekchay"
+    ],
+    "citedby-count": 0,
+    "ref-count": 28,
+    "ref-list": [
+        "A fast and stable well-balanced scheme with hydrostatic reconstruction for shallow water flows",
+        "Flood simulation using a well-balanced shallow flow model",
+        "Modified predictor\u2013corrector WAF method for the shallow water equations with source terms",
+        "Accurate numerical modeling of 1D flow in channels with arbitrary shape. Application of the energy balanced property",
+        "High-order finite volume WENO schemes for the shallow water equations with dry states",
+        "Improved implementation of the HLL approximate Riemann solver for one-dimensional open channel flows",
+        "Improved HLL scheme for 1D dam-break flows over complex topography",
+        "Well-balanced RKDG2 solutions to the shallow water equations over irregular domains with wetting and drying",
+        "Discontinuous Galerkin method for 1D shallow water flow with water surface slope limiter",
+        "Discontinuous Galerkin method for 1D shallow water flow in nonrectangular and nonprismatic channels",
+        "Discontinuous Galerkin method for 1D shallow water flows in natural rivers",
+        "Positivity-preserving high-order well-balanced discontinuous Galerkin methods for the shallow water equations",
+        "On upstream differencing and Godunov-type schemes for hyperbolic conservation laws",
+        "Central-upwind schemes for the Saint-Venant system",
+        "Positivity preserving central scheme for shallow water flows in channels with wet\u2013dry states",
+        "1D Open-channel flow simulation using TVD-Mccormack scheme",
+        "Numerical simulation and experimental verification of dam-break flows with shocks",
+        "Some approximate Godunov schemes to compute shallow-water equations with topography",
+        "Integration of a shallow water model with a local time step"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60021944",
+            "affilname": "Kasetsart University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021944",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Science Achievement Scholarship Thailand",
+        "SAST"
+    ]
+}

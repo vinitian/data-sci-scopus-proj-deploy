@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85162002169",
+    "title": "Local limit theorems for collective risk models",
+    "cover-date": "2023-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Statistics and Probability",
+            "@code": "2613",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Statistics, Probability and Uncertainty",
+            "@code": "1804",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "Collective risk model",
+        "Compound binomial distribution",
+        "Compound negative binomial distribution",
+        "Compound Poisson distribution",
+        "Individual risk model",
+        "Local limit theorem"
+    ],
+    "authors": [
+        "Hattacha Kongjiw",
+        "Petcharat Rattanawong",
+        "Kritsana Neammanee"
+    ],
+    "citedby-count": 0,
+    "ref-count": 21,
+    "ref-list": [
+        "Negative binomial-reciprocal inverse Gaussian distribution: Statistical properties with applications",
+        "Direct derivation of finite-time ruin probabilities in the discrete risk model with exponential or geometric claims",
+        "Notes on the negative binomial distribution",
+        "Some comments on the compound binomial model",
+        "Insurance Risk and Ruin",
+        "Approximate local limit theorems with effective rate and application to random walks in random scenery",
+        "Data analysis and modeling of claim amounts of car insurance using big data: A study for Pakistan",
+        "Local limit theorems without assuming finite third moment",
+        "Bounds of the accuracy of the normal approximation to the distributions of random sums under relaxed moment conditions",
+        "Convergence rate estimates in local limit theorems for poisson random sums",
+        "The Laplace Distribution and Generalizations: A Revisit with Applications to Communications, Economics, Engineering, and Finance",
+        "On local limit theorem for integer-valued random variables",
+        "Modelling motor insurance claims frequency using Poisson and negative binomial models",
+        "An improvement of convergence rate in the local limit theorem for integral-valued random variables",
+        "A local limit theorem for Poisson binomial random variable",
+        "Approximate Computation of Expectations",
+        "On the normal approximation of a binomial random sum",
+        "On the normal approximation of a negative binomial random sum",
+        "Local limit theorems for compound discrete distributions",
+        "On two-sided compound binomial distributions",
+        "Notes on discrete compound Poisson model with applications to risk theory"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chonburi",
+            "@id": "60009116",
+            "affilname": "Burapha University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009116",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "117013823",
+            "affilname": "Science",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/117013823",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "DPST",
+        "Development and Promotion of Science and Technology Talents Project"
+    ]
+}

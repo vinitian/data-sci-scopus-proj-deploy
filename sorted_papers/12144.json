@@ -1,0 +1,72 @@
+{
+    "eid": "2-s2.0-84961744108",
+    "title": "Fast bidirectional shortest path on GPU",
+    "cover-date": "2016-03-03",
+    "subject-areas": [
+        {
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208"
+        },
+        {
+            "$": "Condensed Matter Physics",
+            "@code": "3104"
+        },
+        {
+            "$": "Electronic",
+            "@code": "2504"
+        }
+    ],
+    "keywords": [
+        "Bidirectional search",
+        "GPGPU",
+        "Parallel",
+        "Shortest path algorithm",
+        "Single pair"
+    ],
+    "authors": [
+        "Lalinthip Tangjittaweechai"
+    ],
+    "citedby-count": 1,
+    "ref-count": 13,
+    "ref-list": [
+        "A Formal Basis for the Heuristic Determination of Minimum Cost Paths",
+        "Introduction to Algorithms",
+        "Heuristics: Intelligent Search Strategies for Computer Problem Solving",
+        null,
+        "Socs",
+        "An Improved Bidirectional Heuristic Search Algorithm",
+        "Bidirectional Heuristic Search Again",
+        "J. Artif. Intell. Res.",
+        "Accelerating large graph algorithms on the GPU using CUDA",
+        "Technical Report of International Institute of Information Technology Hyderabad",
+        "Parallel bidirectional Dijkstra's shortest path algorithm"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn Business School",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Atlanta",
+            "affilname": "School of Electrical and Computer Engineering",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Braga",
+            "affilname": "Universidade do Minho",
+            "affiliation-country": "Portugal"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "affilname": "Thailand National Electronics and Computer Technology Center",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Amphoe Khlong Luang",
+            "affilname": "Asian Institute of Technology Thailand",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

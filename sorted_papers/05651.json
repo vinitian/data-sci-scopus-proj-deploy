@@ -1,0 +1,127 @@
+{
+    "eid": "2-s2.0-85141686492",
+    "title": "Mobility-Aware Data Caching to Improve D2D Communications in Heterogeneous Networks",
+    "cover-date": "2022-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "cache hits",
+        "caching",
+        "D2D",
+        "data offloading",
+        "mobility"
+    ],
+    "authors": [
+        "Muhammad Sheraz",
+        "Shahryar Shafique",
+        "Sohail Imran",
+        "Muhammad Asif",
+        "Rizwan Ullah",
+        "Muhammad Ibrar",
+        "Andrzej Bartoszewicz",
+        "Saleh Mobayen"
+    ],
+    "citedby-count": 0,
+    "ref-count": 23,
+    "ref-list": [
+        "Dynamics-aware and beamforming-assisted transmission for wireless control scheduling",
+        "QoE-Driven transmission-aware cache placement and cooperative beamforming design in Cloud-RANs",
+        "Scalable Video Transmission in Cache-Aided Device-to-Device Networks",
+        "Attention-Weighted Federated Deep Reinforcement Learning for Device-to-Device Assisted Heterogeneous Collaborative Edge Caching",
+        "Individual Preference Aware Caching Policy Design in Wireless D2D Networks",
+        "Proactive Caching in D2D Assisted Multitier Cellular Network",
+        "Content Caching and Channel Allocation in D2D-Assisted Wireless HetNets",
+        "Optimal Caching Policy for D2D Assisted Cellular Networks with Different Cache Size Devices",
+        "Analysis of individual pair and aggregate intercontact times in heterogeneous opportunistic networks",
+        "Cost-optimal caching for D2D networks with user mobility: Modeling, analysis, and computational approaches",
+        "Mobility Prediction-Based Wireless Edge Caching Using Deep Reinforcement Learning",
+        "Green and Mobility-Aware Caching in 5G Networks",
+        "Optimum caching versus LRU and LFU: Comparison and combined limited look-ahead strategies",
+        "Cooperative caching and transmission design in cluster-centric small cell networks",
+        "Device-to-device communications underlaying cellular networks in unlicensed bands",
+        "Socially Aware Secrecy-Ensured Resource Allocation in D2D Underlay Communication: An Overlapping Coalitional Game Scheme",
+        "Social-Aware Resource Allocation for Device-to-Device Communications Underlaying Cellular Networks",
+        "Operator controlled device-to-device communications in LTE-advanced networks",
+        "Coded caching with nonuniform demands",
+        "Delay-Oriented Caching Strategies in D2D Mobile Networks",
+        "Cache Placement in Fog-RANs: From Centralized to Distributed Algorithms",
+        "An analysis of approximations for maximizing submodular set functions\u2014I"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Peshawar",
+            "@id": "60277035",
+            "affilname": "Iqra National University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60277035",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Peshawar",
+            "@id": "60106555",
+            "affilname": "Islamia College, Peshawar",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60106555",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Bannu",
+            "@id": "60070624",
+            "affilname": "University of Science and Technology Bannu",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60070624",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Lodz",
+            "@id": "60016104",
+            "affilname": "Lodz University of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016104",
+            "affiliation-country": "Poland"
+        },
+        {
+            "affiliation-city": "Douliou",
+            "@id": "60014261",
+            "affilname": "National Yunlin University of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014261",
+            "affiliation-country": "Taiwan"
+        }
+    ],
+    "funding": [
+        "European Cooperation in Science and Technology"
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "eid": "2-s2.0-85083464320",
+    "title": "Efficient Adaptive Procedure for Buckling Analysis of Skeletal Structures",
+    "cover-date": "2020-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Building and Construction",
+            "@code": "2215",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Aerospace Engineering",
+            "@code": "2202",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Ocean Engineering",
+            "@code": "2212",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "adaptive basis functions",
+        "columns",
+        "eigenvalues",
+        "Flexural buckling loads",
+        "Rayleigh-Ritz approximation"
+    ],
+    "authors": [
+        "Jaroon Rungamornrat",
+        "Nidvichai Watcharakorn",
+        "Thai Binh Nguyen",
+        "Suraparb Keawsawasvong",
+        "Tinh Quoc Bui",
+        "Chung Van Nguyen"
+    ],
+    "citedby-count": 0,
+    "ref-count": 51,
+    "ref-list": [
+        "Improved stiffness distribution factors for evaluation of effective buckling lengths in multi-story sway frames",
+        "Elastic buckling load of multi-story frames consisting of Timoshenko members",
+        "The effective length of columns in multi-storey frames",
+        "Simplified procedure for determining buckling loads of threedimensional framed structures",
+        "System buckling analysis for multi-story frames subjected to nonconservative forces",
+        "Iterative system buckling analysis, considering a fictitious axial force to determine effective length factors for multi-story frames",
+        "Mechanical model for determining the critical load of plane frames with semi-rigid joints subjected to static loads",
+        "Die Knickfestigkeit Gerader St\u00e4be",
+        "Arguments for and against engesser's buckling formulas",
+        "Effect of shear on simple buckling problem",
+        "Stability criteria for Timoshenko columns with intermediate and end concentrated axial loads",
+        "Timoshenko beam-column buckling",
+        "Global buckling experiments on sandwich columns with soft shear cores",
+        "Stability and vibration analysis of axially-loaded shear beam-columns carrying elastically restrained mass",
+        "Ueber die Knickfestigkeit Gerader St\u00e4be",
+        "In-Plane instability of fixed arches under linear temperature gradient field and uniformly distributed radial load",
+        "In-plane nonlinear buckling analysis of circular arches considering shear deformation",
+        "Stability and initial post-buckling of a standing sandwich beam under terminal force and self-weight",
+        "A refined quasi-3D zigzag beam theory for free vibration and stability analysis of multilayered composite beams subjected to thermomechanical loading",
+        "Buckling of a standing corrugated sandwich plate subjected to body force and terminal load",
+        "Thermal post-buckling and vibration analysis of a symmetric sandwich beam with clamped and simply supported boundary conditions",
+        "Beam element on two-parameter elastic foundation",
+        "Stability of beams on elastic foundation",
+        "Static Timoshenko beam-columns on elastic media",
+        "Stability behaviour of uniform column on a class of twoparameter elastic foundation",
+        "Post-buckling response of elasticplastic beam resting on an elastic foundation to eccentric axial load",
+        "Numerical method for critical buckling load for a beam supported on elastic foundation",
+        "Deformation and internal force analysis of pipe roof support using the beam on elastic foundation theory",
+        "Convergence of the Rayleigh-Ritz Method for buckling analysis of arbitrarily configured I-section beam-columns",
+        "Flexural buckling strength of tapered-I-section steel columns based on ANSI/AISC-360-16",
+        "Post-buckling analysis of nonlinear shear-deformable prismatic columns using a GBT consistent energy formulation",
+        "Proof of convergence for a set of admissible functions for the Rayleigh-Ritz analysis of beams and plates and shells of rectangular platform",
+        "Natural frequency analyses of segmented Timoshenko-Euler beams using the Rayleigh-Ritz method JVC/",
+        "Rayleigh-Ritz solution to postbuckling localization of an axially loaded infinite column on a foundation",
+        "Two-dimensional cross-sectional analysis of composite beams using Rayleigh-Ritz-based dimensional reduction method",
+        "Effects of Engesser's and Haringx's hypotheses on buckling of Timoshenko and higher-order shear-deformable columns",
+        "Influence of shear deformations on the buckling of columns using the Generalized Beam Theory and energy principles",
+        "In-plane buckling of circular arches and rings with shear deformations",
+        "Convergence Analysis of Inexact Rayleigh Quotient Iterations"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60112735",
+            "affilname": "HCMC University of Technology and Education",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60112735",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60071399",
+            "affilname": "Ho Chi Minh City University of Technology - HUTECH",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071399",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60031126",
+            "affilname": "Tokyo Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031126",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60012521",
+            "affilname": "Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012521",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "Thailand Research Fund"
+    ]
+}

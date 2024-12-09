@@ -1,0 +1,142 @@
+{
+    "eid": "2-s2.0-85147902064",
+    "title": "Quality of Life Prediction in Driving Scenes on Thailand Roads Using Information Extraction from Deep Convolutional Neural Networks",
+    "cover-date": "2023-02-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geography, Planning and Development",
+            "@code": "3305",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Environmental Science (miscellaneous)",
+            "@code": "2301",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Management, Monitoring, Policy and Law",
+            "@code": "2308",
+            "@abbrev": "ENVI"
+        }
+    ],
+    "keywords": [
+        "Bangkok",
+        "deep convolutional neural networks",
+        "object detection",
+        "quality of life",
+        "semantic segmentation"
+    ],
+    "authors": [
+        "Kitsaphon Thitisiriwech",
+        "Teerapong Panboonyuen",
+        "Pittipol Kantavat",
+        "Boonserm Kijsirikul",
+        "Yuji Iwahori",
+        "Shinji Fukui",
+        "Yoshitsugu Hayashi"
+    ],
+    "citedby-count": 2,
+    "ref-count": 40,
+    "ref-list": [
+        "Evaluation for Low-carbon Land-use Transport Development with QOL Indexes in Asian Developing Megacities: A Case Study of Bangkok",
+        "Comparative analysis of QOL in station areas between cities at different development stages, Bangkok and Nagoya",
+        "Community indicators and healthy communities",
+        "Measuring quality of life: Economic, social, and subjective indicators",
+        "Making cities more compact by improving transport and amenity and reducing hazard risk",
+        "The role of rail transport for sustainable urban transport",
+        "Macroscopic design of measures to realise low-carbon land-use transport systems in Asian developing cities",
+        "Backcasting as a tool for sustainable transport policy making: The environmentally sustainable transport study in the Netherlands",
+        "Sustainable development and its indicators: Through a (planner\u2019s) glass darkly",
+        "Quality of life: Its definition and measurement",
+        "Freedom and happiness: A comparative study in forty-four nations in the early 1990s",
+        "Dual strategies for the environmental and financial goals of sustainable cities: De-suburbanization and social capitalization",
+        "An integrated evaluation method of accessibility, quality of life, and social interaction",
+        "A historic review on consequences of critical events leading revolution in Mass Rapid Transit in Bangkok",
+        "The sustainable mobility paradigm",
+        "Walkability perception in Asian cities: A comparative study in Bangkok and Nagoya",
+        "Transportation Mobility Factor Extraction Using Image Recognition Techniques",
+        "The Bangkok Urbanscapes Dataset for Semantic Urban Scene Understanding Using Enhanced Encoder-Decoder with Atrous Depthwise Separable A1 Convolutional Neural Networks",
+        "Semantic object classes in video: A high-definition ground truth database",
+        "The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation",
+        "Densely connected convolutional networks",
+        "Batch normalization: Accelerating deep network training by reducing internal covariate shift",
+        "Dropout: A simple way to prevent neural networks from overfitting",
+        "Encoder-decoder with atrous separable convolution for semantic image segmentation",
+        "Xception: Deep learning with depthwise separable convolutions",
+        "Multi-scale context aggregation by dilated convolutions",
+        "Rethinking atrous convolution for semantic image segmentation",
+        "The pascal visual object classes (voc) challenge",
+        "Yolov3: An incremental improvement",
+        "YOLO9000: Better, faster, stronger",
+        "Microsoft coco: Common objects in context",
+        "Deep residual learning for image recognition",
+        "Deep Neural Network for Estimating Value of Quality of Life in Driving Scenes",
+        "LabelMe: A database and web-based tool for image annotation",
+        "Tensorflow: A system for large-scale machine learning"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Kasugai",
+            "@id": "60007976",
+            "affilname": "Chubu University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007976",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Kariya",
+            "@id": "60026600",
+            "affilname": "Aichi University of Education",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026600",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Japan Society for the Promotion of Science",
+        "Japan Science and Technology Agency",
+        "Chubu University",
+        "Chulalongkorn University",
+        "JICA",
+        "Science and Technology Research Partnership for Sustainable Development",
+        "Japan International Cooperation Agency"
+    ]
+}

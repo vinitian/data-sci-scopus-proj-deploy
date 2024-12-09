@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85105064818",
+    "title": "An adaptive large neighborhood search for the multiple-day music rehearsal problems",
+    "cover-date": "2021-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Adaptive large neighborhood search",
+        "Capacitated vehicle routing problem",
+        "Music rehearsal problem",
+        "Scheduling"
+    ],
+    "authors": [
+        "Pisit Jarumaneeroj",
+        "Noppadon Sakulsom"
+    ],
+    "citedby-count": 3,
+    "ref-count": 30,
+    "ref-list": [
+        "Optimum loading of machines in a flexible manufacturing system using a mixed-integer linear mathematical programming model and genetic algorithm",
+        "A dynamic programming formulation with diverse applications",
+        "An adaptive large neighborhood search for a vehicle routing problem with multiple routes",
+        "Dynamic programming",
+        "A model, heuristic procedure and decision support system for solving the movie shoot scheduling problem",
+        "Optimal scheduling in film product to minimize talent hold cost",
+        "Evolutionary algorithms for solving multi-objective problems",
+        "Solving talent scheduling with dynamic programming",
+        "Adaptive large neighborhood search for multitrip vehicle routing with time windows",
+        "An adaptive large neighborhood search heuristic for the pickup and delivery problem with time windows and scheduled lines",
+        "A hybrid evolutionary algorithm for heterogeneous fleet vehicle routing problems with time windows",
+        "Complexity of vehicle routing and scheduling problems",
+        "An adaptive large neighborhood search heuristic for the share-a-ride problem",
+        "A hybrid adaptive large neighborhood search heuristic for lot-sizing with setup times",
+        "A general heuristic for vehicle routing problems",
+        "Adaptive large neighborhood search for scheduling sugarcane inbound logistics equipment and machinery under a sharing infield resource system",
+        "An enhanced branch-and-bound algorithm for the talent scheduling problem",
+        "A GRASP with adaptive large neighborhood search for pickup and delivery problems with transshipment",
+        "A two-echelon inventory routing problem for perishable products",
+        "An adaptive large neighborhood search heuristic for the pickup and delivery problem with time windows",
+        "A unified heuristic for a large class of vehicle routing problems with backhauls",
+        "Scheduling a music rehearsal problem with unequal music piece length",
+        "Record breaking optimization results \u2013 using the ruin & recreate principle",
+        "Using constraint programming and local search methods to solve vehicle routing problems",
+        "Meta-hierarchical-heuristic-mathematical-model of loading problems in flexible manufacturing system for development of an intelligent approach",
+        "Optimum process plan selection via branch-and-bound algorithm in an automated manufacturing environment",
+        "Minimizing talent cost and operating cost in film production"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60030324",
+            "affilname": "University of the Thai Chamber of Commerce",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030324",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "EU Horizon 2020 Marie Sklodowska-Curie Research",
+        "Ratchadaphiseksomphot Endowment Fund Chulalongkorn University"
+    ]
+}

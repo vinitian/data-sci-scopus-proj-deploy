@@ -1,0 +1,66 @@
+{
+    "eid": "2-s2.0-85059619416",
+    "title": "The Authors Reply",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Ophthalmology",
+            "@code": "2731",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Nephrology",
+            "@code": "2727",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Nuttha Lumlertgul",
+        "Monchai Siribumrungwong",
+        "Bertrand L. Jaber",
+        "Paweena Susantitaphong"
+    ],
+    "citedby-count": 0,
+    "ref-count": 6,
+    "ref-list": [
+        "EMD Serono. CYANOKIT\u00ae Product Monograph",
+        "Efficacy of hydroxocobalamin for the treatment of acute cyanide poisoning in adult beagle dogs",
+        "Prospective study of hydroxocobalamin for acute cyanide poisoning in smoke inhalation",
+        "Risk of oxalate nephropathy with the use of cyanide antidote hydroxocobalamin in critically ill burn patients",
+        "Successful renal transplantation after presumed cyanide toxicity treated with hydroxocobalamin and review of the literature"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60023366",
+            "affilname": "Rangsit University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023366",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60018759",
+            "affilname": "Caritas St. Elizabeth's Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018759",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60015849",
+            "affilname": "Tufts University School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015849",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": []
+}

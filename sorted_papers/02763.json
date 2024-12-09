@@ -1,0 +1,79 @@
+{
+    "eid": "2-s2.0-85140587124",
+    "title": "Detection of Atrial Fibrillation based on Synchronized Beats Image with Lightweight Neural Network",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Atrial fibrillation",
+        "ECG signal processing",
+        "image classification",
+        "MobileNetV2"
+    ],
+    "authors": [
+        "Khaing Su Thway",
+        "Pakpum Somboon",
+        "Arporn Teeramongkonrasmee"
+    ],
+    "citedby-count": 0,
+    "ref-count": 10,
+    "ref-list": [
+        "Stroke prevention in atrial fibrillation: An Asian perspective",
+        "Cardiac arrhythmias in patients with COVID-19",
+        "COVID-19 infection and cardiac arrhythmias",
+        "Development of rhythm-based and morphology-based algorithm for atrial fibrillation detection from single lead ECG signal",
+        "Precise and efficient heartbeat classification using a novel lightweight-modified method",
+        "Transfer learning for detection of atrial fibrillation in deterministic compressive sensed ECG",
+        "Mobilenetv2: Inverted residuals and linear bottlenecks",
+        "Review of research on lightweight convolutional neural networks",
+        "A new method for detecting atrial fibrillation using RR intervals",
+        "PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Faculty of Electrical Engineering Department and Research Council",
+        "Chulalongkorn University"
+    ]
+}

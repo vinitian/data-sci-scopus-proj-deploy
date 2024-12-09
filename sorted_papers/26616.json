@@ -1,0 +1,100 @@
+{
+    "eid": "2-s2.0-85105919031",
+    "title": "Sequential elastic recovery stress edge-smoothed finite element method for lower-bound limit determination of structures",
+    "cover-date": "2021-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computational Mechanics",
+            "@code": "2206",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Vu Hoang Le",
+        "Sawekchai Tangaramvong",
+        "Jaroon Rungamornrat",
+        "Suchart Limkatanyu"
+    ],
+    "citedby-count": 2,
+    "ref-count": 46,
+    "ref-list": [
+        "A smoothed finite element method for mechanics problems",
+        "A node-based smoothed finite element method (NS-FEM) for upper bound solutions to solid mechanics problems",
+        "An edge-based smoothed finite element method (ES-FEM) for static, free and forced vibration analyses of solids",
+        "A face-based smoothed finite element method (FS-FEM) for visco-elastoplastic analyses of 3D solids using tetrahedral mesh",
+        "Smoothed finite element methods (S-FEM): an overview and recent developments",
+        "Addressing volumetric locking and instabilities by selective integration in smoothed finite elements",
+        "An edge-based smoothed finite element method for visco-elastoplastic analyses of 2D solids using triangular mesh",
+        "Computation of limit load using edge-based smoothed finite element method and second-order cone programming",
+        "A cell-based smoothed finite element method for kinematic limit analysis",
+        "An adaptive selective ES-FEM for plastic collapse analysis",
+        "Mesh adaptive computation of upper and lower bounds in limit analysis",
+        "On structural safety assessment by load factor maximization in piecewise linear plasticity",
+        "Limit analysis of frictional block assemblies as a mathematical program with complementarity constraints",
+        "Complementarity problems in structural engineering: an overview",
+        "An FE-MPEC approach for limit load evaluation in the presence of contact and displacement constraints",
+        "The elastic compensation method for limit and shakedown analysis: a review",
+        "Extension of the linear matching method to frame structures made from a material that exhibits softening",
+        "A method of estimating limit loads by iterative elastic analysis. I-Simple examples",
+        "Limit state solutions, based upon linear elastic solutions with a spatially varying elastic modulus",
+        "Limit and shakedown analysis of nozzle/cylinder intersections under internal pressure and in-plane moment loading",
+        "Simplified lower bound limit analysis of transversely loaded thin plates using generalised yield criteria",
+        "Elastic modulus reduction method for limit analysis of thin plate and shell structures",
+        "On numerically accurate finite element solutions in the fully plastic range",
+        "Limit analysis based on a modified elastic compensation method for nozzle-to-cylinder junctions",
+        "Limit analysis of structures containing flaws based on a modified elastic compensation method",
+        "An edge-based smoothed finite element method (ES-FEM) using 3-node triangular elements for 3D non-linear analysis of spatial membrane structures Int",
+        "An adaptive singular ES-FEM for mechanics problems with singular field of arbitrary order",
+        "Numerical method for lower-bound solution of the rigid-plastic limit analysis problem",
+        "An iterative elastic SBFE approach for collapse load analysis of inelastic structures",
+        "A stabilized conforming nodal integration for Galerkin mesh-free methods",
+        "A theoretical investigation of the yield point loading of a square plate with a central circular hole",
+        "An algorithm for shakedown analysis with nonlinear yield functions",
+        "Limit analysis for a general class of yield conditions",
+        "A direct complementarity approach for the elastoplastic analysis of plane stress and plane strain structures",
+        "Smoothed finite element approach for kinematic limit analysis of cohesive frictional materials",
+        "A non-linear programming method approach for upper bound limit analysis",
+        "Upper bound limit analysis using simplex strain elements and second-order cone programming",
+        "A finite element formulation of the rigid-plastic limit analysis problem",
+        "Lower bound limit analysis of cohesive-frictional materials using second-order cone programming",
+        "Computation of collapse states with von Mises type yield condition",
+        "Yield-stress based error indicator for adaptive quasi-static yield design of structures",
+        "Lower-bound limit analysis by using the EFG method and non-linear programming",
+        "Adaptivity based on error estimation for viscoplastic softening materials"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hatyai",
+            "@id": "60006314",
+            "affilname": "Prince of Songkla University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006314",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tuy Hoa",
+            "@id": "126223435",
+            "affilname": "Mientrung University of Civil Engineering",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126223435",
+            "affiliation-country": "Viet Nam"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "Thailand Research Fund"
+    ]
+}

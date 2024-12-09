@@ -1,0 +1,87 @@
+{
+    "eid": "2-s2.0-85159135643",
+    "title": "Developing of Automatic Gasket Gluing Robot for a Tractor Company",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "automatic glue extrusion",
+        "cartesian robot",
+        "G-code",
+        "image processing",
+        "machine vision",
+        "vision sensor"
+    ],
+    "authors": [
+        "Suphanut Plengkham",
+        "Natchapon Busyakanistha",
+        "Nathanicha Promsuwan",
+        "Nattanan Santiudommongkol",
+        "Ratchatin Chancharoen"
+    ],
+    "citedby-count": 0,
+    "ref-count": 19,
+    "ref-list": [
+        "Analysis and control of human error",
+        "Adaptive gain control for a two-axis, H-frame-type, positioning system",
+        "Hybrid motor system for high precision position control of a heavy load plant",
+        "Deep learningbased visual defect-inspection system for reinforced concrete bridge substructure: A case of Thailand's department of highways",
+        "Bridge substructure defect inspection assistance by using deep learning",
+        "Research on image process and tracing of a welding robot",
+        "RobMach: G-Code-based off-line programming for robotic machining trajectory generation",
+        "The bounded Jacobian approach to nonlinear observer design",
+        "Real-time automotive slip angle estimation with nonlinear observer",
+        "H\u221e observer for descriptor nonlinear systems with nonlinear output equations",
+        "Coherent detection-based photonic radar for autonomous vehicles under diverse weather conditions",
+        "Real-time estimation of rollover index for tripped rollovers with a novel unknown input nonlinear observer",
+        "New rollover index for the detection of tripped and un-tripped rollovers",
+        "On-line ladle lining temperature estimation by using bounded jacobian nonlinear observer",
+        "Real-time rollover warning in tripped and un-tripped rollovers with a neural network"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University Technology Center"
+    ]
+}

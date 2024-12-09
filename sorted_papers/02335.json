@@ -1,0 +1,66 @@
+{
+    "eid": "2-s2.0-85107731824",
+    "title": "Feature Detection and Description based on ORB Algorithm for FPGA-based Image Processing",
+    "cover-date": "2021-03-10",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Feature detection and description",
+        "FPGA",
+        "Image processing",
+        "ORB algorithm"
+    ],
+    "authors": [
+        "Taksaporn Imsaengsuk",
+        "Suree Pumrin"
+    ],
+    "citedby-count": 7,
+    "ref-count": 11,
+    "ref-list": [
+        "Object recognition from local scale-invariant features",
+        "Speeded-up robust features (surf)",
+        "Orb: An efficient alternative to sift or surf",
+        "Fpga-based orb feature extraction for real-time visual slam",
+        "A new fpga architecture of fast and brief algorithm for on-board corner detection and matching",
+        "Eslam: An energy-efficient accelerator for real-time orb-slam on fpga platform",
+        "A flexible and efficient real-time orb-based full-hd image feature extraction accelerator",
+        "Fpga acceleration of multilevel orb feature extraction for computer vision",
+        "Fusing points and lines for high performance tracking",
+        "Performance evaluation of corner detectors using consistency and accuracy measures"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Electrical Engineering Chulalongkorn university",
+        "Embedded System"
+    ]
+}

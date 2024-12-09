@@ -1,0 +1,138 @@
+{
+    "eid": "2-s2.0-85123715692",
+    "title": "Macro-Mini Linear Actuator Using Electrorheological-Fluid Brake for Impedance Modulation in Physical Human-Robot Interaction",
+    "cover-date": "2022-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biomedical Engineering",
+            "@code": "2204",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Actuator",
+        "electrorheological fluid",
+        "impedance control",
+        "robotics",
+        "stroke rehabilitation"
+    ],
+    "authors": [
+        "Ronnapee Chaichaowarat",
+        "Satoshi Nishimura",
+        "Hermano Igo Krebs"
+    ],
+    "citedby-count": 13,
+    "ref-count": 45,
+    "ref-list": [
+        "Preliminary design of a whole-arm manipulation system (WAMS)",
+        "The DLR-KUKA success story: Robotics research improves industrial robots",
+        "Series elastic actuators",
+        "Design and control of a variable stiffness actuator for safe and fast physical human/robot interaction",
+        "A new variable stiffness design: Matching requirements of the next robot generation",
+        "A new variable stiffness actuator (CompAct-VSA): Design and modelling",
+        "Comparison of mechanical design and energy consumption of adaptable, passive-compliant actuators",
+        "Soft actuation in cyclic motions: Stiffness profile optimization for energy efficiency",
+        "MACCEPA: The mechanically adjustable compliance and controllable equilibrium position actuator for 'controlled passive walking",
+        "Torsion MACCEPA: A novel compact compliant actuator designed around the drive axis",
+        "Collision detection and reaction: A contribution to safe physical human-robot interaction",
+        "Investigation of safety in human-robot interaction for a series elastic, tendon-driven robot arm",
+        "Characterization and control of a screw-driven robot for neurorehabilitation",
+        "MITMANUS: Aworkstation for manual therapy and training. i",
+        "Robot-aided neurorehabilitation",
+        "Robot-aided neurorehabilitation: A robot for wrist rehabilitation",
+        "Design and evaluation of the LOPES exoskeleton robot for interactive gait rehabilitation",
+        "The SPARKy (Spring ankle with regenerative kinetics) project: Choosing a DC motor based actuation method",
+        "Powered ankle-foot prosthesis improves walking metabolic economy",
+        "Design of a quasi-passive knee exoskeleton to assist running",
+        "A comparison of parallel-and series elastic elements in an actuator for mimicking human ankle joint in walking and running",
+        "An asymmetric compliant antagonistic joint design for high performance mobility",
+        "Unparameterized optimization of the spring characteristic of parallel elastic actuators",
+        "A spring-embedded planetary-geared parallel elastic actuator",
+        "Unpowered knee exoskeleton reduces quadriceps activity during cycling",
+        "Series damper actuator: A novel force/torque control actuator",
+        "Safe and fast actuators formachines interacting with humans",
+        "MIT-Skywalker: A novel gait neurorehabilitation robot for stroke and cerebral palsy",
+        "Human-robot interaction: Controller design and stability",
+        "Design andmodeling of a variable-stiffness spring mechanism for impedance modulation in physical human-robot interaction",
+        "A new actuation approach for human friendly robot design",
+        "An experimental study of electro-rheological torque transmission",
+        "Basic study on rehabilitation training system using ER actuators",
+        "Design, control and human testing of an active knee rehabilitation orthotic device",
+        "Electro-rheological fluids: A systematic approach to classifying modes of operation",
+        "Dual-differential rheological actuator for high-performance physical robotic interaction",
+        "Design and development of a hybrid magneto-rheological clutch for safe robotic applications",
+        "On the feasibility and suitability of MR fluid clutches in human-friendly manipulators",
+        "Design and performance evaluation of a prototype MRF-based haptic interface for medical applications",
+        "Design and development of a safe robot manipulator using a new actuation concept",
+        "Preliminary studies of variable impedance controlwith an electrorheological fluid device",
+        "An electrorheological fluid for rehabilitation robotics",
+        "Work in the time of COVID-19: Actuators and sensors for rehabilitation robotics"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Cambridge",
+            "@id": "60022195",
+            "affilname": "Massachusetts Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022195",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Saint Paul",
+            "@id": "60013958",
+            "affilname": "3M",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013958",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": []
+}

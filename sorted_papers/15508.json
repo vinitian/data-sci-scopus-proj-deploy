@@ -1,0 +1,285 @@
+{
+    "eid": "2-s2.0-85101740830",
+    "title": "Consensus guidelines for botulinum toxin therapy: general algorithms and dosing tables for dystonia and spasticity",
+    "cover-date": "2021-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Neurology",
+            "@code": "2808",
+            "@abbrev": "NEUR"
+        },
+        {
+            "@_fa": "true",
+            "$": "Neurology (clinical)",
+            "@code": "2728",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Psychiatry and Mental Health",
+            "@code": "2738",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biological Psychiatry",
+            "@code": "2803",
+            "@abbrev": "NEUR"
+        }
+    ],
+    "keywords": [
+        "Botulinum toxin",
+        "Consensus guidelines",
+        "Dose limits",
+        "Dose variability",
+        "Dosing tables",
+        "Dystonia",
+        "Spasticity",
+        "Target muscles",
+        "Therapy",
+        "Total dose",
+        "Treatment algorithms",
+        "Typical dose"
+    ],
+    "authors": [
+        "Dirk Dressler",
+        "Maria Concetta Altavista",
+        "Eckart Altenmueller",
+        "Roongroj Bhidayasiri",
+        "Saeed Bohlega",
+        "Pedro Chana",
+        "Tae Mo Chung",
+        "Carlo Colosimo",
+        "Klemens Fheodoroff",
+        "Pedro J. Garcia-Ruiz",
+        "Beomseok Jeon",
+        "Lingjing Jin",
+        "Petr Kanovsky",
+        "Ivan Milanov",
+        "Federico Micheli",
+        "Olga Orlova",
+        "Sanjay Pandey",
+        "Zvezdan Pirtosek",
+        "Maja Relja",
+        "Raymond Rosales",
+        "Jos\u00e9 Alberto Sag\u00e1stegui-Rodr\u00edguez",
+        "Gholam Ali Shahidi",
+        "Sofia Timerbaeva",
+        "Xinhua Wan",
+        "Uwe Walter",
+        "Fereshte Adib Saberi"
+    ],
+    "citedby-count": 25,
+    "ref-count": 20,
+    "ref-list": [
+        "The role of electromyography in guiding botulinum toxin injections for focal dystonia and spasticity",
+        "EFNS guidelines on diagnosis and treatment of primary dystonias",
+        "Practical guidance for CD management involving treatment of botulinum toxin: a consensus statement",
+        "Dosing, administration, and a treatment algorithm for use of botulinum toxin A for adult-onset spasticity. Spasticity Study Group",
+        "Subclinical myasthenia gravis causing increased sensitivity to botulinum toxin therapy",
+        "Immunological safety of incobotulinumtoxinA (Xeomin\u00ae) therapy with reduced interinjection intervals",
+        "Long-term stability of reconstituted incobotulinumtoxinA: how can we reduce costs of botulinum toxin therapy?",
+        "Measuring the potency labelling of onabotulinumtoxinA (Botox\u00ae) and incobotulinumtoxinA (Xeomin\u00ae) in an LD50 assay",
+        "Safety aspects of incobotulinumtoxinA high dose therapy",
+        "Botulinum toxin therapy of cervical dystonia: duration of therapeutic effects",
+        "Intrathecal baclofen therapy in germany: proceedings of the IAB-interdisciplinary working group for movement disorders consensus meeting",
+        "Comparing incobotulinumtoxinA (Xeomin\u00ae) and onabotulinumtoxinA (Botox\u00ae): identical potency labelling in the hemidiaphragm assay",
+        "Botulinum toxin for spasmodic torticollis in a patient with myasthenia gravis",
+        "Systemic effect of local botulinum toxin injections unmasks subclinical Lambert-Eaton myasthenic syndrome",
+        "Treatment with botulinum toxin in a patient with myasthenia gravis and cervical dystonia",
+        "Injection techniques for botulinum toxin using electromyography and electrical stimulation",
+        "Practice guideline update summary: botulinum neurotoxin for the treatment of blepharospasm, cervical dystonia, adult spasticity, and headache: report of the guideline development subcommittee of the American academy of neurology",
+        "Ultrasound guidance for botulinum toxin application",
+        "Safety and efficacy of incobotulinumtoxinA doses up to 800 U in spasticity: the TOWER study"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Shanghai",
+            "@id": "60129180",
+            "affilname": "Tongji University School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60129180",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Beijing",
+            "@id": "60122781",
+            "affilname": "Chinese Academy of Medical Sciences &amp; Peking Union Medical College",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60122781",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Moscow",
+            "@id": "60103893",
+            "affilname": "Research Center of Neurology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103893",
+            "affiliation-country": "Russian Federation"
+        },
+        {
+            "affiliation-city": "Manila",
+            "@id": "60071488",
+            "affilname": "University of Santo Tomas, Manila",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071488",
+            "affiliation-country": "Philippines"
+        },
+        {
+            "affiliation-city": "Ljubljana",
+            "@id": "60031106",
+            "affilname": "Univerza v Ljubljani",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031106",
+            "affiliation-country": "Slovenia"
+        },
+        {
+            "affiliation-city": "Sofia",
+            "@id": "60028054",
+            "affilname": "Medical University of Sofia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028054",
+            "affiliation-country": "Bulgaria"
+        },
+        {
+            "affiliation-city": "Tehran",
+            "@id": "60024852",
+            "affilname": "Iran University of Medical Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024852",
+            "affiliation-country": "Iran"
+        },
+        {
+            "affiliation-city": "Hannover",
+            "@id": "60024052",
+            "affilname": "Hannover Medical School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024052",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Santiago",
+            "@id": "60023383",
+            "affilname": "Universidad de Santiago de Chile",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023383",
+            "affiliation-country": "Chile"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hannover",
+            "@id": "60018341",
+            "affilname": "Hochschule f\u00fcr Musik und Theater Hannover",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018341",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Riyadh",
+            "@id": "60016332",
+            "affilname": "King Faisal Specialist Hospital and Research Centre",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016332",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Seoul",
+            "@id": "60013682",
+            "affilname": "Seoul National University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013682",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "San Pedro Garza Garcia",
+            "@id": "60011167",
+            "affilname": "Universidad de Monterrey",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011167",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Buenos Aires",
+            "@id": "60009065",
+            "affilname": "Hospital de Cl\u00ednicas \"Jos\u00e9 de San Mart\u00edn\"",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009065",
+            "affiliation-country": "Argentina"
+        },
+        {
+            "affiliation-city": "Sao Paulo",
+            "@id": "60008088",
+            "affilname": "Universidade de S\u00e3o Paulo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008088",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Zagreb",
+            "@id": "60006461",
+            "affilname": "University of Zagreb School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006461",
+            "affiliation-country": "Croatia"
+        },
+        {
+            "affiliation-city": "Rome",
+            "@id": "60003882",
+            "affilname": "Azienda Complesso Ospedaliero San Filippo Neri",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003882",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Rostock",
+            "@id": "60003615",
+            "affilname": "Universit\u00e4t Rostock",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003615",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Olomouc",
+            "@id": "60003367",
+            "affilname": "Univerzita Palack\u00e9ho v Olomouci",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003367",
+            "affiliation-country": "Czech Republic"
+        },
+        {
+            "affiliation-city": "Madrid",
+            "@id": "121063455",
+            "affilname": "Fundaci\u00f3n Jim\u00e9nez D\u00edaz",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/121063455",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Moscow",
+            "@id": "115962564",
+            "affilname": "Clinic \u2018Cecil Plus\u2019",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/115962564",
+            "affiliation-country": "Russian Federation"
+        },
+        {
+            "affiliation-city": "Hamburg",
+            "@id": "115435203",
+            "affilname": "IAB-Interdisciplinary Working Group for Movement Disorders",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/115435203",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "New Delhi",
+            "@id": "115288871",
+            "affilname": "Govind Ballabh Pant Institute of Postgraduate Medical Education and Research",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/115288871",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Terni",
+            "@id": "112609093",
+            "affilname": "Santa Maria University Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112609093",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Hermagor",
+            "@id": "101970882",
+            "affilname": "Gailtal-Klinik",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101970882",
+            "affiliation-country": "Austria"
+        }
+    ],
+    "funding": [
+        "Allergan",
+        "National Key R&D Program of China",
+        "Merz Pharmaceuticals"
+    ]
+}

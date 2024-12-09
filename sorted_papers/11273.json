@@ -1,0 +1,149 @@
+{
+    "eid": "2-s2.0-85109430548",
+    "title": "Bus arrival time prediction and reliability analysis: An experimental comparison of functional data analysis and Bayesian support vector regression",
+    "cover-date": "2021-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Bus arrival time prediction",
+        "Bus travel time reliability",
+        "Real-time transit information system",
+        "Skewed journey time distribution"
+    ],
+    "authors": [
+        "Y. P. Huang",
+        "C. Chen",
+        "Z. C. Su",
+        "T. S. Chen",
+        "A. Sumalee",
+        "T. L. Pan",
+        "R. X. Zhong"
+    ],
+    "citedby-count": 13,
+    "ref-count": 69,
+    "ref-list": [
+        "Multi-objective optimal control formulations for bus service reliability with traffic signals",
+        "An online learning approach to eliminate bus bunching in real-time",
+        "Probabilistic prediction of bus headway using relevance vector machine regression",
+        "A data-driven hybrid control framework to improve transit performance",
+        "Dynamic stochastic journey time estimation and reliability analysis using stochastic cell transmission model: Algorithm and case studies",
+        "Short-term traffic state prediction based on temporal-spatial correlation",
+        "Mybus: helping bus riders make informed decisions",
+        "Real-time prediction model of bus arrival time based on transit pattern",
+        "Application of multiplicative decomposition and exponential smoothing techniques for bus arrival time prediction",
+        "Bayesian support vector regression for traffic speed prediction with error bars",
+        "Uncertainty in bus arrival time predictions: Treating heteroscedasticity with a metamodel approach",
+        "Parallel genetic algorithm in bus route headway optimization",
+        "Expected time of arrival model for school bus transit using real-time global positioning system-based automatic vehicle location data",
+        "A real-time bus arrival time information system using crowdsourced smartphone data: A novel framework and simulation experiments",
+        "Estimation of bus arrival times using APC data",
+        "Bus arrival time calculation model based on smart card data",
+        "Dynamic multi-interval bus travel time prediction using bus transit data",
+        "Bus arrival time prediction using support vector machines",
+        "Bus arrival time prediction at bus stop with multiple routes",
+        "Dynamic bus travel time prediction models on road with multiple bus routes",
+        "Dynamic bus arrival time prediction with artificial neural networks",
+        "Bus arrival time prediction using artificial neural network model",
+        "A neural network model for travel time prediction",
+        "A dynamic bus-arrival time prediction model based on APC data",
+        "Real-time bus arrival time prediction: Case study for Jinan, China",
+        "Prediction of bus travel time using random forests based on near neighbors",
+        "Hybrid model for prediction of bus arrival times at next station",
+        "A hybrid model based on support vector machine for bus travel-time prediction",
+        "Bus travel time prediction: A log-normal auto-regressive (AR) modeling approach",
+        "Bus travel time prediction based on deep belief network with back-propagation",
+        "Headway-based bus bunching prediction using transit smart card data",
+        "Using survival models to estimate bus travel times and associated uncertainties",
+        "Modeling distributions of travel time variability for bus operations",
+        "A genetic algorithm-based method for improving quality of travel time prediction intervals",
+        "Estimation of trip travel time distribution using a generalized Markov chain approach",
+        "A probabilistic framework for SVM regression and error bar estimation",
+        "Bayesian support vector regression using a unified loss function",
+        "Dynamical functional prediction and classification, with application to traffic flow prediction",
+        "A functional approach to monitor and recognize patterns of daily traffic profiles",
+        "A functional data approach to missing value imputation and outlier detection for traffic flow data",
+        "Forecasting journey time distribution with consideration to abnormal traffic conditions",
+        "Experienced travel time prediction for congested freeways",
+        "Real-time travel time prediction using particle filtering with a non-explicit state-transition model",
+        "A review of travel time estimation and forecasting for advanced traveller information systems",
+        "Modeling double time-scale travel time processes with application to assessing the resilience of transportation systems",
+        "Transit vehicles as traffic probe sensors",
+        "Bus travel time prediction with real-time traffic information",
+        "Evaluation of traffic data obtained via GPS-enabled mobile phones: The mobile century field experiment",
+        "Coupled application of deep learning model and quantile regression for travel time and its interval estimation using data in different dimensions",
+        "City-scale traffic estimation from a roving sensor network",
+        "Bus dwell time estimation at bus bays: A probabilistic approach",
+        "Bus service time estimation model for a curbside bus stop",
+        "On the estimation of arterial route travel time distribution with Markov chains",
+        "Monitoring and predicting freeway travel time reliability: Using width and skew of day-to-day travel time distribution",
+        "Review of functional data analysis",
+        "Functional data analysis for sparse longitudinal data",
+        "Functional data analysis for big data: A case study on california temperature trends",
+        "On asymptotic properties of hyperparameter estimators for kernel-based regularization methods",
+        "On kernel design for regularized LTI system identification",
+        "Continuous-time DC kernel\u2014A stable generalized first-order spline kernel",
+        "On input design for regularized LTI system identification: power-constrained inputs",
+        "A statistical method for estimating predictable differences between daily traffic flow profiles",
+        "Probabilistic travel time progression and its application to automatic vehicle identification data",
+        "Travel through time: The story of research on travel time reliability",
+        "Travel time unreliability on freeways: Why measures based on variance tell only half the story",
+        "Arterial travel time forecast with streaming data: A hybrid approach of flow modeling and machine learning",
+        "Traffic signal phase and timing estimation from low-frequency transit bus data",
+        "Clustering approach for assessing the travel time variability of arterials"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Shenzhen",
+            "@id": "60108865",
+            "affilname": "The Chinese University of Hong Kong, Shenzhen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60108865",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Guangzhou",
+            "@id": "60021182",
+            "affilname": "Sun Yat-Sen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021182",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "60013983",
+            "affilname": "City University of Hong Kong",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013983",
+            "affiliation-country": "Hong Kong"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "60008928",
+            "affilname": "The Hong Kong Polytechnic University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008928",
+            "affiliation-country": "Hong Kong"
+        },
+        {
+            "affiliation-city": "Shenzhen",
+            "@id": "60000937",
+            "affilname": "Shenzhen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000937",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": [
+        "National Natural Science Foundation of China",
+        "Research Grants Council of Hong Kong",
+        "Shenzhen Science and Technology Innovation Council"
+    ]
+}

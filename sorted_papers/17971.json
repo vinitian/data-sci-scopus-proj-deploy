@@ -1,0 +1,95 @@
+{
+    "eid": "2-s2.0-85100077896",
+    "title": "A multi-objective approach to sugarcane harvest planning in Thailand: Balancing output maximization, grower equity, and supply chain efficiency",
+    "cover-date": "2021-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Equity",
+        "Evolutionary algorithm",
+        "Harvest scheduling",
+        "Multi-objective",
+        "Sugarcane harvesting problem"
+    ],
+    "authors": [
+        "Pisit Jarumaneeroj",
+        "Nutchanon Laosareewatthanakul",
+        "Renzo Akkerman"
+    ],
+    "citedby-count": 7,
+    "ref-count": 41,
+    "ref-list": [
+        "Solving multi-objective parallel machine scheduling problem by a modified NSGA-II",
+        "Addressing a robust decision in the sugarcane supply chain: Introduction of a new agricultural investment project in Colombia",
+        "Evolutionary Algorithms for Solving Multi-Objective Problems",
+        "Addressing uncertainty in sugarcane harvest planning through a revised multi-choice goal programming model",
+        "An evolutionary many-objective optimization algorithm using reference-point based nondominated sorting approach, part I: Solving problems with box constraints",
+        "A fast and elitist multiobjective genetic algorithm: NSGA-II",
+        "A tutorial on multiobjective optimization: Fundamentals and evolutionary methods",
+        "New heuristics for one-dimensional bin-packing",
+        "A multiple objective methodology for sugarcane harvest management with varying maturation periods",
+        "Supply optimization for the production of raw sugar",
+        "Resource assignment and scheduling based on a two-phase metaheuristic for cropping system",
+        "An assessment of some criticisms of goal programming",
+        "Many-objective evolutionary algorithm: Objective space reduction and diversity improvement",
+        "Optimizing cane supply decisions within a sugar mill region",
+        "Australian sugar mills optimize harvester rosters to improve production",
+        "An integrated statistical and optimisation approach to increasing sugar production within a mill region",
+        "Modeling and solving a sugarcane harvest front scheduling problem",
+        "Metaheuristics and applications for industry",
+        "Determination of the locations and capacities of sugar cane loading stations in Thailand",
+        "Three shortcomings of goal programming and their solutions",
+        "Harvest logistics in agricultural systems with multiple, independent producers and no on-farm storage",
+        "An assessment of after harvest sucrose losses from sugarcane field to factory",
+        "Deterioration in sugarcane after harvest: An approximation of the kinetics of the chemical process and varietal differences",
+        "Comparison between MOEA/D and NSGA-III on a set of novel many and multi-objective benchmark problems with challenging diffculties",
+        "Forecasting sugarcane yields using agro-climatic indicators and Canegro model: A case study in the main production region in Brazil",
+        "An optimization model for the aggregate production planning of a Brazilian sugar and ethanol milling company",
+        "Adaptive large neighborhood search for scheduling sugarcane inbound logistics equipment and machinery under a sharing infield resource system",
+        "An assessment of harvesting practices of sugarcane in the central region of Thailand",
+        "Maintenance service network redesign for geographically distributed moving assets using NSGA-II in agriculture",
+        "Bi-level programming model for solving distribution center problem: A case study in Northern Thailand's sugarcane management",
+        "Multi-objective particle swarm optimization for mechanical harvester route planning of sugarcane field operations",
+        "A decision support system for mechanical harvesting and transportation of sugarcane in Thailand",
+        "An optimisation-based seasonal sugarcane harvest scheduling decision support system for commercial growers in South Africa",
+        "Operations Research: An Introduction",
+        "Extensions of Pareto efficiency analysis to integer goal programming",
+        "Harvest scheduling algorithm to equalize supplier benefits: A case study from Thai sugar cane industry",
+        "Multi-objective mathematical modeling for sustainable supply chain management in the paper industry",
+        "A multi-objective approach for supporting wine grape harvest operations",
+        "A NSGA-II based memetic algorithm for multiobjective parallel flowshop scheduling problem",
+        "Multiobjective evolutionary algorithms: A survey of the state of the art"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Wageningen",
+            "@id": "60004156",
+            "affilname": "Wageningen University &amp; Research",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004156",
+            "affiliation-country": "Netherlands"
+        }
+    ],
+    "funding": [
+        "EU Horizon 2020 Marie Sklodowska-Curie Research",
+        "Ratchadaphiseksomphot Endowment Fund Chulalongkorn University"
+    ]
+}

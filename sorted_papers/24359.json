@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85133373202",
+    "title": "Performance of SOA in 100GBase-LR4 Link",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Cross gain modulation",
+        "Data pattern effect",
+        "Optical signal noise ratio degradation",
+        "Semiconductor optical amplifier"
+    ],
+    "authors": [
+        "Duang Rudee Worasucheep",
+        "Pichakorn Sawatdee",
+        "Hideaki Furukawa",
+        "Naoya Wada"
+    ],
+    "citedby-count": 0,
+    "ref-count": 3,
+    "ref-list": [
+        "OFDM for Optical Communications",
+        "Data Pattern Effect of SOA at 25 Gbps with Different PRBS and Multi-channel Amplification"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Koganei",
+            "@id": "60032325",
+            "affilname": "Japan National Institute of Information and Communications Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032325",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

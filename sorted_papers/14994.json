@@ -1,0 +1,92 @@
+{
+    "eid": "2-s2.0-85087343148",
+    "title": "Predicting potential distribution of an endemic butterfly lizard, Leiolepis ocellata (Squamata: Agamidae)",
+    "cover-date": "2020-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Ecology, Evolution, Behavior and Systematics",
+            "@code": "1105",
+            "@abbrev": "AGRI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Ecology",
+            "@code": "2303",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Agricultural and Biological Sciences (miscellaneous)",
+            "@code": "1101",
+            "@abbrev": "AGRI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Paleontology",
+            "@code": "1911",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [
+        "Distribution modeling",
+        "Leiolepis ocellata",
+        "Maxent",
+        "Northern Thailand"
+    ],
+    "authors": [
+        "Pattarapon Promnun",
+        "Chalita Kongrit",
+        "Nontivich Tandavanitj",
+        "Supatchaya Techachoochert",
+        "Jenjit Khudamrongsawat"
+    ],
+    "citedby-count": 3,
+    "ref-count": 26,
+    "ref-list": [
+        "The evolution of thermal physiology in ectothermms",
+        "Thermal and energetic constraints on ectotherm abundance: a global test using lizards",
+        "Managing landscapes for conservation under uncertainty",
+        "Do they? How do they? Why do they differ? On finding reasons for differing performances of species distribution models",
+        "Testing species distribution models across space and time: high latitude butterflies and recent warming",
+        "WorldClim 2: new 1-km spatial resolution climate surfaces for global land areas",
+        "Multiple origins of parthenogenesis, and a revised species phylogeny for the Southeast Asian butterfly lizards, Leiolepis",
+        "Predictive habitat distribution model in ecology",
+        "Potential distribution modeling and morphology of Pelias barani (B\u00f6hme and Joger, 1983) in Turkey",
+        "Predicting potential habitat suitability for an endemic gecko Calodactylodes aureus and its conservation implications in India",
+        "Predicting impacts of climate change on medicinal asclepiads of Pakistan using Maxent medeling",
+        "The critical thermal maximum: history and critique",
+        "Evaluating presence-absence models in ecology: the need to account for prevalence",
+        "Bioclimatic Predictors for Supporting Ecological Applications in the Conterminous United States",
+        "Die Augenfleck-Schmetterlingsagame Leiolepis ocellata Peters, 1971 in Thailand",
+        "Die intragenerischen Gruppen und die Phylogenese der Schmetterlingsagamen (Agamidae: Leiolepis)",
+        "Maximum entropy modeling of species geographic distributions",
+        "Evaluation of museum collection data for use in biodiversity assessment",
+        "Life-history evolution in reptiles",
+        "Temperature tolerances of Southeast Australian reptiles examined in relation to reptile thermoregulatory behavior and distribution",
+        "Measuring the accuracy of diagnostic systems",
+        "Katalog der Typen der Herpetologischen Sammlung nach dem Stand vom J\u00e4nner 1994, Teil II: Reptilia"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60012718",
+            "affilname": "Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012718",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Ban Sop Li School in Lampang Province",
+        "Department of National Parks",
+        "Forest Industry Organization of Thailand",
+        "Thailand Natural History Museum"
+    ]
+}

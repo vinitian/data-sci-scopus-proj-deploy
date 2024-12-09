@@ -1,0 +1,66 @@
+{
+    "eid": "2-s2.0-85076335862",
+    "title": "Machine learning methods for abnormality detection in hard disk drive assembly process: Bi-LSTM, Wavelet-CNN and SVM",
+    "cover-date": "2018-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Bi LSTM",
+        "Convolutional Neural Network",
+        "Detection",
+        "Hard Disk Drive",
+        "LSTM",
+        "Support Vector Machine",
+        "Voice Coil Motor"
+    ],
+    "authors": [
+        "Masayuti Simongyi",
+        "Prabhas Chongstitvatana"
+    ],
+    "citedby-count": 1,
+    "ref-count": 16,
+    "ref-list": [
+        "Support vector networks",
+        "Time-frequency analysis and support vector machine in automatic detection of defect from vibration signal of centrifugal pump",
+        "Visionbased pest detection based on SVM classification method",
+        "Machine learning methods for predicting failures in hard drives: A multiple-instance application",
+        "Long short-term memory",
+        "Image describing based on bidirectional LSTM and improved sequence sampling",
+        "Movie genre classification from plot summaries using bidirectional LSTM",
+        "Multi-level anomaly detection in industrial control systems via package signatures and LSTM networks",
+        "Water quality prediction method based on LSTM neural network",
+        "Learning temporal representation of transaction amount for fraudulent transaction recognition using CNN, Stacked LSTM, and CNN-LSTM",
+        "Handwritten digit recognition with a backpropagation network",
+        "Going deeper with convolutions",
+        "DeepMBS: Prediction of protein metal binding-site using deep learning networks",
+        "ECG feature extraction and classification using wavelet transform and support vector machines",
+        "Wavelet leader based multifractal analysis of heart rate variability during myocardial ischaemia",
+        "ECG classification using wavelet packet entropy and random forests"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

@@ -1,0 +1,71 @@
+{
+    "eid": "2-s2.0-85112164099",
+    "title": "Precipitation Nowcasting Using Deep Learning on Radar Data Augmented with Satellite Data",
+    "cover-date": "2021-06-29",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Wikom Tosiri",
+        "Nutnaree Kleawsirikul",
+        "Patamawadee Leepaisomboon",
+        "Natnapat Gaviphatt",
+        "Hidetomo Sakaino",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 2,
+    "ref-count": 14,
+    "ref-list": [
+        "Understanding of a convolutional neural network",
+        "Mean-field rainfall bias studies for wsr-88d",
+        "Depthaware video frame interpolation",
+        "The global satellite mapping of precipitation (gsmap) project",
+        "U-net: Convolutional networks for biomedical image segmentation",
+        "Spatio-temporal image pattern prediction method based on a physical model with time-varying optical flow",
+        "Video extrapolation method based on time-varying energy optimization and cip",
+        "The critical success index as an indicator of warning skill",
+        "The numpy array: A structure for efficient numerical computation",
+        "Operational application of optical flow techniques to radar-based rainfall nowcasting"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Mihama",
+            "@id": "60090368",
+            "affilname": "Weathernews Inc.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60090368",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

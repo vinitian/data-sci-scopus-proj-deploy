@@ -1,0 +1,79 @@
+{
+    "eid": "2-s2.0-85076723648",
+    "title": "Very Short-Term Solar Power Forecast using Data from NWP Model",
+    "cover-date": "2019-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Health Informatics",
+            "@code": "2718",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Social Sciences (miscellaneous)",
+            "@code": "3301",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "Feed-forward Neural Network (FNN)",
+        "Machine Learning",
+        "Numerical Weather Prediction (NWP)",
+        "Recurrent Neural Network (RNN)",
+        "Solar Power Forecast"
+    ],
+    "authors": [
+        "Sukrit Jaidee",
+        "Wanchalerm Pora"
+    ],
+    "citedby-count": 3,
+    "ref-count": 11,
+    "ref-list": [
+        "Short-Term prediction of photovoltaic energy generation by intelligent approach",
+        "Shortterm power forecasting system for photovoltaic plants",
+        "Online short-Term solar power forecasting",
+        "Application of neural network to one-dayahead 24 hours generating power forecasting of photovoltaic system, in Intelligent SystemsApplications to Power Systems 2007 ISAP 2007",
+        "Recurrent neural networks for time series forecasting",
+        "A solar time-based analog ensemble method for regional solar power forecasting",
+        "Probabilistic energy forecasting: Global energy forecasting competition 2014 and beyond"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

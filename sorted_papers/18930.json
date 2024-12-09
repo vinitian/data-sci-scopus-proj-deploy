@@ -1,0 +1,83 @@
+{
+    "eid": "2-s2.0-85141960569",
+    "title": "Editorial: Data sciences in transportation and transit systems",
+    "cover-date": "2022-10-28",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Geography, Planning and Development",
+            "@code": "3305",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Building and Construction",
+            "@code": "2215",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Urban Studies",
+            "@code": "3322",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "data science",
+        "decarbonisation",
+        "digital transformation (DT)",
+        "transit system",
+        "transportation"
+    ],
+    "authors": [
+        "Chayut Ngamkhanong",
+        "Nam Huynh",
+        "Elias Kassa",
+        "Hitoshi Tsunashima",
+        "Sakdirat Kaewunruen"
+    ],
+    "citedby-count": 0,
+    "ref-count": 2,
+    "ref-list": [
+        "RideComfort: A development of crowdsourcing smartphones in measuring train ride quality",
+        "Grand challenges in transportation and transit systems"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Trondheim",
+            "@id": "60013141",
+            "affilname": "Norges Teknisk-Naturvitenskapelige Universitet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013141",
+            "affiliation-country": "Norway"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60002561",
+            "affilname": "Nihon University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002561",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "120972094",
+            "affilname": "Fulbright University Vietnam",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/120972094",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Birmingham",
+            "@id": "100330454",
+            "affilname": "School of Engineering",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/100330454",
+            "affiliation-country": "United Kingdom"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,124 @@
+{
+    "eid": "2-s2.0-85164785323",
+    "title": "Quality of Life Prediction on Walking Scenes Using Deep Neural Networks and Performance Improvement Using Knowledge Distillation",
+    "cover-date": "2023-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "deep convolutional neural networks",
+        "knowledge distillation",
+        "object detection",
+        "quality of life",
+        "semantic segmentation",
+        "walkability",
+        "walking scene"
+    ],
+    "authors": [
+        "Thanasit Rithanasophon",
+        "Kitsaphon Thitisiriwech",
+        "Pittipol Kantavat",
+        "Boonserm Kijsirikul",
+        "Yuji Iwahori",
+        "Shinji Fukui",
+        "Kazuki Nakamura",
+        "Yoshitsugu Hayashi"
+    ],
+    "citedby-count": 0,
+    "ref-count": 30,
+    "ref-list": [
+        "Evaluation for Low-carbon Land-use Transport Development with QOL Indexes in Asian Developing Megacities: A Case Study of Bangkok",
+        "Comparative analysis of QOL in station areas between cities at different development stages, Bangkok and Nagoya",
+        "Community indicators and healthy communities",
+        "Measuring quality of life: Economic, social, and subjective indicators",
+        "Making cities more compact by improving transport and amenity and reducing hazard risk",
+        "Sustainable development and its indicators: Through a (planner\u2019s) glass darkly",
+        "Quality of life: Its definition and measurement",
+        "Freedom and happiness: A comparative study in forty-four nations in the early 1990s",
+        "Dual strategies for the environmental and financial goals of sustainable cities: De-suburbanization and social capitalization",
+        "An integrated evaluation method of accessibility, quality of life, and social interaction",
+        "A historic review on consequences of critical events leading revolution in Mass Rapid Transit in Bangkok",
+        "The role of rail transport for sustainable urban transport",
+        "The sustainable mobility paradigm",
+        "Walkability perception in Asian cities: A comparative study in Bangkok and Nagoya",
+        "The relationship between walkability and QOL outcomes in residential evaluation",
+        "Perceived walkability evaluation in transit station catchment areas in Bangkok",
+        "Street Design for Hedonistic Sustainability through AI and Human Co-Operative Evaluation",
+        "VR Pedestrian Space Evaluation Considering Sidewalk Boundary Space Design",
+        "Experimental analysis of walkability evaluation using virtual reality application",
+        "Transportation mobility factor extraction using image recognition techniques",
+        "The Bangkok Urbanscapes Dataset for Semantic Urban Scene Understanding Using Enhanced Encoder-Decoder with Atrous Depthwise Separable A1 Convolutional Neural Networks",
+        "Quality of Life Prediction in Driving Scenes on Thailand Roads Using Information Extraction from Deep Convolutional Neural Networks",
+        "Exploring the Spatial Effects of Built Environment on Quality of Life Related Transportation by Integrating GIS and Deep Learning Approaches",
+        "Yolov4: Optimal speed and accuracy of object detection",
+        "Deep dual-resolution networks for real-time and accurate semantic segmentation of road scenes",
+        "Distilling the knowledge in a neural network"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Kasugai",
+            "@id": "60007976",
+            "affilname": "Chubu University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007976",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nagoya",
+            "@id": "60027762",
+            "affilname": "Meijo University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027762",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Kariya",
+            "@id": "60026600",
+            "affilname": "Aichi University of Education",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026600",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Japan Society for the Promotion of Science",
+        "Japan Science and Technology Agency",
+        "Chubu University",
+        "JICA",
+        "Science and Technology Research Partnership for Sustainable Development",
+        "Japan International Cooperation Agency"
+    ]
+}

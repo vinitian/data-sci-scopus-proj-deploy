@@ -1,0 +1,77 @@
+{
+    "eid": "2-s2.0-85119666573",
+    "title": "Cockpit crew pairing pareto optimisation in a budget airline",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Budget airline",
+        "Cockpit crew pairing",
+        "Multi-objective optimization",
+        "Pareto optimal"
+    ],
+    "authors": [
+        "Parames Chutima",
+        "Nicha Krisanaphan"
+    ],
+    "citedby-count": 3,
+    "ref-count": 35,
+    "ref-list": [
+        "An integer programming approach to generating airline crew pairings",
+        "Column generation and the airline crew pairing problem",
+        "Recent advances in crew-pairing optimization at American Airlines",
+        "A hybrid NSGA-II and VNS for solving a bi-objective no-wait flexible flowshop scheduling problem",
+        "Crew pairing optimization based on hybrid approaches",
+        "Deadhead selection for the long-haul crew pairing problem",
+        "Performance comparison of GA, DE, PSO and SA approaches in enhancement of total transfer capability using FACTS devices",
+        "Solving Many-Objective Car Sequencing Problems on Two-Sided Assembly Lines Using an Adaptive Differential Evolutionary Algorithm",
+        "A multi-objective car sequencing problem on two-sided assembly lines",
+        "An evolutionary many-objective optimization algorithm using reference-point-based nondominated sorting approach, part I: solving problems with box constraints",
+        "Novel search space updating heuristics-based genetic algorithm for optimizing medium-scale airline crew pairing problems",
+        "Crew pairing at Airfrance",
+        "Evolutionary algorithms for solving the airline crew pairing problem",
+        "Airline crew scheduling: state-of-the-art",
+        "Flight crew scheduling",
+        "EliteNSGA-III: An improved evolutionary many-objective optimization algorithm",
+        "Consistencies and contradictions of performance metrics in multiobjective optimization",
+        "Solving large airline crew scheduling problems: Random pairing generation and strong branching",
+        "A new approach for crew pairing problems by column generation with an application to air transportation",
+        "Multi-objective optimization problems with complicated Pareto sets, MOEA/D and NSGA-II",
+        "Application of multiobjective genetic algorithms for optimizing aircraft crew pairing problems",
+        "Multi-objective metaheuristics for discrete optimization problems: A review of the state-of-the-art",
+        "A multi-objective cellular grey wolf optimizer for hybrid flowshop scheduling problem considering noise pollution",
+        "Cockpit crew pairing problem in airline scheduling: Shortest path with resources constraints approach",
+        "Genetic algorithm-based approach for the integrated airline crew-pairing and rostering problem",
+        "Differential evolution\u2013a simple and efficient heuristic for global optimization over continuous spaces",
+        "Pareto-based multi-objective differential evolution",
+        "A modified NSGA-II solution for a new multi-objective hub maximal covering problem under uncertain shipments",
+        "An improved genetic algorithm for crew pairing optimization",
+        "A novel column generation strategy for large scale airline crew pairing problems",
+        "MOEA/D: A multiobjective evolutionary algorithm based on decomposition"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Khan Kaen",
+            "@id": "119073340",
+            "affilname": "Royal Society of Thailand",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/119073340",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

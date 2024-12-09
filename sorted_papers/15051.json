@@ -1,0 +1,94 @@
+{
+    "eid": "2-s2.0-85020265665",
+    "title": "Bearing capacity of shallow foundations in clay with linear increase in strength and adhesion factor",
+    "cover-date": "2018-05-19",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Oceanography",
+            "@code": "1910",
+            "@abbrev": "EART"
+        },
+        {
+            "@_fa": "true",
+            "$": "Ocean Engineering",
+            "@code": "2212",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geotechnical Engineering and Engineering Geology",
+            "@code": "1909",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [
+        "Bearing capacity",
+        "limit analysis",
+        "lower bound analysis",
+        "offshore shallow foundation",
+        "second-order cone programming",
+        "soil\u2013foundation interface",
+        "strength inhomogeneity"
+    ],
+    "authors": [
+        "Boonchai Ukritchon",
+        "Sothoan Yoang",
+        "Suraparb Keawsawasvong"
+    ],
+    "citedby-count": 40,
+    "ref-count": 54,
+    "ref-list": [
+        "Finite element analysis of the holding capacity of shallow suction caisson anchors",
+        "On implementing a primal-dual interior-point method for conic quadratic optimization",
+        "Simplified limit solutions for the capacity of suction anchors under undrained conditions",
+        "Combined loading of skirted foundations",
+        "The undrained capacity of skirted strip foundations under combined loading",
+        "Estimation on bearing capacity of shallow foundations in heterogeneous deposits using analytical and numerical methods",
+        "Mesh adaptive computation of upper and lower bounds in limit analysis",
+        "The effect of increasing strength with depth on the bearing capacity of clays",
+        "Extended limit design theorems for continuous media",
+        "Effect of embedment on the undrained capacity of shallow foundations under general loading",
+        "Undrained failure envelope for skirted foundations under general loading",
+        "Undrained vertical bearing capacity factors for shallow foundations",
+        "Effect of strength non-homogeneity on the shape and failure envelopes for combined loading of strip and circular foundations on clay",
+        "Evaluation of undrained bearing capacities of bucket foundations under combined loads",
+        "Effect of stress level on the bearing capacity factor, Ng, by ZEL method",
+        "Finite element analysis of undrained stability of cantilever flood walls",
+        "Stability of unsupported conical excavations in non-homogeneous clays",
+        "Undrained stability of an active planar trapdoor in non-homogeneous clays with a linear increase of strength with depth",
+        "Bearing capacity factor Ncunder \u03d5 = 0 condition for piles in clays",
+        "Stability evaluations during stage construction",
+        "Lower bound limit analysis with adaptive remeshing",
+        "Lower bound limit analysis of cohesive-frictional materials using second-order cone programming",
+        "Combined loading of spudcan foundations on clay, laboratory tests",
+        "Combined loading of spudcan foundations on clay, numerical modelling",
+        "Stability of plate anchors in undrained clay",
+        "Some recent research on bearing capacity of foundations",
+        "Bearing capacity of rectangular footings on clays of strength increasing linearly with depth",
+        "Influence of random heterogeneity of cross-correlated strength parameters on bearing capacity of shallow foundations",
+        "A limit analysis approach for accessing stability of three-dimensional (3D) slopes reinforced with piles",
+        "Lower bound limit analysis using finite elements and linear programming",
+        "Geotechnical stability analysis",
+        "Axisymmetric lower-bound limit analysis using finite elements and second-order cone programming",
+        "Rotation center and horizontal bearing capacity of the bucket foundation in soft ground",
+        "Bearing capacity of circular foundations on soft clay of strength increasing with depth",
+        "Undrained pullout capacity of cylindrical suction caissons by finite element limit analysis",
+        "Undrained limit analysis for combined loading of strip footings on clay",
+        "Three-dimensional undrained tunnel face stability in clay with a linearly increasing shear strength with depth",
+        "Effect of the flow rule on the bearing capacity of strip foundations on sand by the upper-bound limit analysis and slip lines",
+        "A numerical study on static and seismic stability of breakwaters on soft granular marine deposits against deep failure",
+        "Power M. A generalised failure envelope for undrained capacity of circular shallow foundations under general loading",
+        "Undrained bearing capacity of suction caissons for offshore wind turbine foundations by numerical limit analysis",
+        "The horizontal-moment capacity of embedded foundations in undrained soil",
+        "The undrained vertical bearing capacity of skirted foundations"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

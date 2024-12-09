@@ -1,0 +1,74 @@
+{
+    "eid": "2-s2.0-85131864524",
+    "title": "Real-Time Induction Motor Health Index Prediction in A Petrochemical Plant using Machine Learning",
+    "cover-date": "2022-05-31",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "artificial neural network",
+        "gradient boost tree",
+        "machine learning",
+        "particle swarm optimisation",
+        "random forest",
+        "Real-time prediction"
+    ],
+    "authors": [
+        "Waritsara Khrakhuean",
+        "Parames Chutima"
+    ],
+    "citedby-count": 3,
+    "ref-count": 31,
+    "ref-list": [
+        "Condition monitoring of induction motors: A review and an application of an ensemble of hybrid intelligent models",
+        "Multi-classifiers ensemble with confidence diversity for fault diagnosis in induction motors",
+        "Bearing fault diagnosis of induction motors using a genetic algorithm and machine learning classifiers",
+        "Cascade neural-network-based fault classifier for three-phase induction motor",
+        "Induction machine condition monitoring using neural network modeling",
+        "Unsupervised neural-network-based algorithm for an on-line diagnosis of three-phase induction motor stator fault",
+        "A new gradient based particle swarm optimization algorithm for accurate computation of global minimum",
+        "Parameters optimization of deep learning models using particle swarm optimization",
+        "Prediction of motor function in stroke patients using machine learning algorithm: Development of practical models",
+        "An in-depth experimental study of anomaly detection using gradient boosted machine",
+        "Deep neural networks, gradient-boosted trees, random forests: Statistical arbitrage on the S&P 500",
+        "Adversarial training of gradient-boosted decision trees",
+        "Diabetics prediction using gradient boosted classifier",
+        "A statistical approach to predict flight delay using gradient boosted decision tree",
+        "Modelling the map reduce based optimal gradient boosted tree classification algorithm for diabetes mellitus diagnosis system",
+        "Random forest classifier for remote sensing classification",
+        "An assessment of the effectiveness of a random forest classifier for land-cover classification",
+        "Flight delay prediction using a hybrid deep learning method",
+        "Special issue on learning from imbalanced data sets",
+        "SMOTE: Synthetic minority over-sampling technique",
+        "Understanding AUC-ROC curve",
+        "Bagging predictors",
+        "P value interpretations and considerations",
+        "Training of artificial neural network using PSO with novel initialization technique",
+        "Particle swarm optimization algorithm: An overview",
+        "An improved particle swarm optimization for evolving feedforward artificial neural networks",
+        "Self-organizing hierarchical particle swarm optimizer with time-varying acceleration coefficients",
+        "A brief survey on random forest ensembles in classification model"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "102044311",
+            "affilname": "Academy of Science",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/102044311",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

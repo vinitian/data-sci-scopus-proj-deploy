@@ -1,0 +1,116 @@
+{
+    "eid": "2-s2.0-85109378312",
+    "title": "Whole-body uptake classification and prostate cancer staging in 68Ga-PSMA-11 PET/CT using dual-tracer learning",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Deep learning",
+        "miTNM",
+        "PET/CT",
+        "Prostate cancer",
+        "PSMA",
+        "Staging"
+    ],
+    "authors": [
+        "Nicol\u00f2 Capobianco",
+        "Ludovic Sibille",
+        "Maythinee Chantadisai",
+        "Andrei Gafita",
+        "Thomas Langbein",
+        "Guenther Platsch",
+        "Esteban Lucas Solari",
+        "Vijay Shah",
+        "Bruce Spottiswoode",
+        "Matthias Eiber",
+        "Wolfgang A. Weber",
+        "Nassir Navab",
+        "Stephan G. Nekolla"
+    ],
+    "citedby-count": 12,
+    "ref-count": 36,
+    "ref-list": [
+        "Cancer statistics, 2020",
+        "Prostate cancer, Version 2.2019, NCCN Clinical Practice Guidelines in Oncology",
+        "Current status of MRI and PET in the NCCN guidelines for prostate cancer",
+        "Prostate-specific membrane antigen PET-CT in patients with high-risk prostate cancer before curative-intent surgery or radiotherapy (proPSMA): a prospective, randomised, multicentre study",
+        "Diagnostic efficacy of68gallium-PSMA positron emission tomography compared to conventional imaging for lymph node Staging of 130 consecutive patients with intermediate to high risk prostate cancer",
+        "Value of 68Ga-PSMA HBED-CC PET for the assessment of lymph node metastases in prostate cancer patients with biochemical recurrence: comparison with histopathology after salvage lymphadenectomy",
+        "Evaluation of hybrid 68Ga-PSMA ligand PET/CT in 248 patients with biochemical recurrence after radical prostatectomy",
+        "68Ga-PSMA PET/CT: joint EANM and SNMMI procedure guideline for prostate cancer imaging: version 1.0",
+        "Pearls and pitfalls in clinical interpretation of prostate-specific membrane antigen (PSMA)-targeted PET imaging",
+        "Prostate-specific membrane antigen PET: clinical utility in prostate cancer, normal patterns, pearls, and pitfalls",
+        "Matched-pair comparison of68Ga-PSMA-11 PET/CT and18F-PSMA-1007 PET/CT: frequency of pitfalls and detection efficacy in biochemical recurrence after radical prostatectomy",
+        "68Ga-PSMA PET/MR with multimodality image analysis for primary prostate cancer",
+        "18F-PSMA-1007 PET/CT detects micrometastases in a patient with biochemically recurrent prostate cancer",
+        "Prostate Cancer Molecular Imaging Standardized Evaluation (PROMISE): proposed miTNM classification for the interpretation of PSMA-ligand PET/CT",
+        "Proposal for a structured reporting system for prostate-specific membrane antigen\u2013targeted PET imaging: PSMA-RADS version 1.0",
+        "E-PSMA: the EANM standardized reporting guidelines v1.0 for PSMA-PET",
+        "Response assessment using 68Ga-PSMA ligand PET in patients undergoing 177Lu-PSMA radioligand therapy for metastatic castration-resistant prostate cancer",
+        "Semiautomatically quantified tumor volume using68Ga-PSMA-11 PET as a biomarker for survival in patients with advanced prostate cancer",
+        "68Ga-PSMA-11 PET/CT-derived metabolic parameters for determination of whole-body tumor burden and treatment response in prostate cancer",
+        "PSMA PET total tumor volume predicts outcome of patients with advanced prostate cancer receiving [177Lu]Lu-PSMA-617 radioligand therapy in a bicentric analysis",
+        "Prostate cancer nodal staging: using deep learning to predict 68Ga-PSMA-positivity from CT imaging alone",
+        "Exploring new multimodal quantitative imaging indices for the assessment of osseous tumor burden in prostate cancer using68Ga-PSMA PET/CT",
+        "EBONI: a tool for automated quantification of bone metastasis load in PSMA PET/CT",
+        "qPSMA: semiautomatic software for whole-body tumor burden assessment in prostate cancer using68Ga-PSMA11 PET/CT",
+        "Deep neural network for automatic characterization of lesions on 68Ga-PSMA-11 PET/CT",
+        "18F-FDG PET/CT uptake classification in lymphoma and lung cancer by using deep convolutional neural networks",
+        "From RECIST to PERCIST: evolving considerations for PET response criteria in solid tumors",
+        "Validation of a multifocal segmentation method for measuring metabolic tumor volume in Hodgkin lymphoma",
+        "Time to prepare for risk adaptation in lymphoma by standardizing measurement of metabolic tumor burden",
+        "FDG PET/CT: EANM procedure guidelines for tumour imaging: version 2.0",
+        "Repeatability of two semi-automatic artificial intelligence approaches for tumor segmentation in PET",
+        "The first MICCAI challenge on PET tumor segmentation",
+        "Comparison of 11 automated PET segmentation methods in lymphoma",
+        "Tumor segmentation and feature extraction from whole-body FDG-PET/CT using cascaded 2D and 3D convolutional neural networks",
+        "Fully automatic segmentation of diffuse large B cell lymphoma lesions on 3D FDG-PET/CT for total metabolic tumour volume prediction using a convolutional neural network",
+        "Metabolic tumour volume from PSMA PET/CT scans of prostate cancer patients during chemotherapy\u2014do different software solutions deliver comparable results?"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Munich",
+            "@id": "60019722",
+            "affilname": "Technische Universit\u00e4t M\u00fcnchen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019722",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Munich",
+            "@id": "60117640",
+            "affilname": "TUM Fakult\u00e4t f\u00fcr Medizin",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60117640",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60084261",
+            "affilname": "Siemens USA",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60084261",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Munich",
+            "@id": "60028673",
+            "affilname": "Siemens AG",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028673",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "European Union\u2019s Horizon 2020"
+    ]
+}

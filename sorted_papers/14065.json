@@ -1,0 +1,81 @@
+{
+    "eid": "2-s2.0-85062234708",
+    "title": "Abnormality detection in hard disk drive assembly process using support vector machine",
+    "cover-date": "2019-01-18",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Detection",
+        "Hard Disk Drive",
+        "Support Vector Machine",
+        "Voice Coild Motor"
+    ],
+    "authors": [
+        "Masayuti Simongyi",
+        "Prabhas Chongstitvatana"
+    ],
+    "citedby-count": 2,
+    "ref-count": 11,
+    "ref-list": [
+        "Support vector networks",
+        "An improved training algorithm for support vector machines",
+        "Comparison of kernel selection for support vector machines using diabetes dataset",
+        "Support vector machine based model predictive control for engine idle speed control",
+        "Fault tolerant SVM based nonlinear Model Predictive Control",
+        "Time-frequency analysis and support vector machine in automatic detection of defect from vibration signal of centrifugal pump",
+        "Vision-based pest detection based on SVM classification method",
+        "Machine learning methods forpredicting failures in hard drives: A multiple-instance application",
+        "An approach to develop a hybrid algorithm based on support vector machine and Naive Bayes for anomaly detection",
+        "A survey of outlier detection methodologies"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

@@ -1,0 +1,97 @@
+{
+    "eid": "2-s2.0-85073474269",
+    "title": "Design and Development of an IoT Gateway for Smart Building Applications",
+    "cover-date": "2019-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Building energy management",
+        "cloud computing",
+        "fog computing",
+        "Internet of Things (IoT)",
+        "IoT gateway"
+    ],
+    "authors": [
+        "Aditya Nugur",
+        "Manisa Pipattanasomporn",
+        "Murat Kuzlu",
+        "Saifur Rahman"
+    ],
+    "citedby-count": 23,
+    "ref-count": 29,
+    "ref-list": [
+        "A transparent iPv6 multi-protocol gateway to integrate building automation systems in the Internet of Things",
+        "A gateway-based framework for transparent interconnection between WSN and IP network",
+        "IoT gateway: Bringing wireless sensor networks into Internet of Things",
+        "Architecture of an interoperable IoT platform based on microservices",
+        "Building energy management system based on smart grid",
+        "Semantic gateway as a service architecture for IoT interoperability",
+        "An IoT architecture for things from industrial environment",
+        "Fog computing and smart gateway based communication for cloud of things",
+        "Fog computing architecture to enable consumer-centric Internet of Things services",
+        "A fog-based emergency system for smart enhanced living environments",
+        "Improving Web sites performance using edge servers in fog computing architecture",
+        "MIST: Fog-based data analytics scheme with cost-efficient resource provisioning for IoT crowdsensing applications",
+        "Fog computing: A cloud to the ground support for smart things and machine-to-machine networks",
+        "The Internet of Things how the next evolution of the Internet is changing everything",
+        "A universal modular ACTOR formalism for artificial intelligence",
+        "A survey on application layer protocols for Internet of Things (IoT)",
+        "Assessment of communication technologies and network requirements for different smart grid applications"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Blacksburg",
+            "@id": "60027090",
+            "affilname": "Virginia Polytechnic Institute and State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027090",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Norfolk",
+            "@id": "60007652",
+            "affilname": "Old Dominion University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007652",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "U.S. Department of Energy"
+    ]
+}

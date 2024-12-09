@@ -1,0 +1,81 @@
+{
+    "eid": "2-s2.0-85104145398",
+    "title": "Will Artificial Intelligence Outperform the Clinical Neurologist in the Near Future? Yes",
+    "cover-date": "2021-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Neurology",
+            "@code": "2808",
+            "@abbrev": "NEUR"
+        },
+        {
+            "@_fa": "true",
+            "$": "Neurology (clinical)",
+            "@code": "2728",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "artificial intelligence",
+        "clinical neurologists",
+        "outperform"
+    ],
+    "authors": [
+        "Roongroj Bhidayasiri"
+    ],
+    "citedby-count": 2,
+    "ref-count": 26,
+    "ref-list": [
+        "Predicting the future\u2014big data, machine learning, and clinical medicine",
+        "End-to-end lung cancer screening with three-dimensional deep learning on low-dose chest computed tomography",
+        "Dermatologist-level classification of skin cancer with deep neural networks",
+        "A better way to onboard AI",
+        "The art of diagnosis: solving the clinicopathological exercise",
+        "Towards the simulation of clinical cognition. Taking a present illness by computer",
+        "Clinical judgment and computers",
+        "The neurologist and artificial intelligence: titans at crossroads",
+        "The accuracy of diagnosis of parkinsonian syndromes in a specialist movement disorder service",
+        "Using artificial neural network to discriminate Parkinson's disease from other parkinsonisms by focusing on putamen of dopamine transporter SPECT images",
+        "Improvement of classification performance of Parkinson's disease using shape features for machine learning on dopamine transporter single photon emission computed tomography",
+        "Accuracy of clinical diagnosis of Parkinson disease: a systematic review and meta-analysis",
+        "Prediction of cognition in Parkinson's disease with a clinical-genetic score: a longitudinal analysis of nine cohorts",
+        "Large-scale identification of clinical and genetic predictors of motor progression in patients with newly diagnosed Parkinson's disease: a longitudinal cohort study and validation",
+        "Prognostic factors of rapid symptoms progression in patients with newly diagnosed parkinson's disease",
+        "Clinical assessments in Parkinson's disease: scales and monitoring",
+        "Digital phenotyping in Parkinson's disease: empowering neurologists for measurement-based care",
+        "Modernizing daily function assessment in Parkinson's disease using capacity, perception, and performance measures",
+        "Developing a tool for remote digital assessment of Parkinson's disease",
+        "Sensor-based algorithmic dosing suggestions for oral administration of levodopa/carbidopa microtablets for Parkinson's disease: a first experience",
+        "A roadmap for implementation of patient-centered digital outcome measures in Parkinson's disease obtained using mobile health technologies",
+        "Investigating risk factors and predicting complications in deep brain stimulation surgery with machine learning algorithms",
+        "Care, convenience, comfort, confidentiality, and contagion: The 5 C's that will shape the future of telemedicine",
+        "Using an unbiased symbolic movement representation to characterize Parkinson's disease states",
+        "Objective analysis of neck muscle boundaries for cervical dystonia using ultrasound imaging and deep learning"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "106208652",
+            "affilname": "Academy of Science",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/106208652",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn Academic Advancement Fund",
+        "Royal Society of Thailand",
+        "Boehringer-Ingelheim",
+        "Abbott",
+        "Chulalongkorn University",
+        "Thailand Research Fund",
+        "Thailand Science Research and Innovation"
+    ]
+}

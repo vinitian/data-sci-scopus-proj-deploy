@@ -1,0 +1,78 @@
+{
+    "eid": "2-s2.0-85074226920",
+    "title": "Text Generation for Imbalanced Text Classification",
+    "cover-date": "2019-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "imbalanced text classification",
+        "LSTM",
+        "Markov chains",
+        "text generation"
+    ],
+    "authors": [
+        "Suphamongkol Akkaradamrongrat",
+        "Pornpimon Kachamas",
+        "Sukree Sinthupinyo"
+    ],
+    "citedby-count": 16,
+    "ref-count": 16,
+    "ref-list": [
+        "A Review of Class Imbalance Problem",
+        "A Comparison of Oversampling Methods on Imbalanced Topic Classification of Korean News Articles",
+        "Improving emotion classification in imbalanced YouTube dataset using SMOTE algorithm",
+        "Imbalanced Toxic Comments Classification using Data Augmentation and Deep Learning",
+        "Show, attend and tell: Neural image caption generation with visual attention",
+        "Markov Constraints for Generating Lyrics with Style",
+        "Ghostwriter: Using an LSTM for automatic rap lyric generation",
+        "RelGAN: Relational Generative Adversarial Networks for Text Generation",
+        "Adversarial feature matching for text generation",
+        "Statistical methods in Markov chains",
+        "Long short-Term memory",
+        "Measuring effectiveness of marketing communication using AISAS ARCAS model"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

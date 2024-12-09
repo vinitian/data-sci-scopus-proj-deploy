@@ -1,0 +1,77 @@
+{
+    "eid": "2-s2.0-85081715514",
+    "title": "Optimal operational strategy for a vanadium redox flow battery",
+    "cover-date": "2020-05-08",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Chemical Engineering (all)",
+            "@code": "1500",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Dynamic optimization",
+        "Electrolyte flow rate",
+        "Electrolyte imbalance",
+        "System efficiency",
+        "Vanadium redox flow battery"
+    ],
+    "authors": [
+        "Tossaporn Jirabovornwisut",
+        "Soorathep Kheawhom",
+        "Yong Song Chen",
+        "Amornchai Arpornwichanop"
+    ],
+    "citedby-count": 20,
+    "ref-count": 23,
+    "ref-list": [
+        "On-line dynamic optimization and control strategy for improving the performance of batch reactors",
+        "An enhancement to Vynnycky's model for the all-vanadium redox flow battery",
+        "Selective anion exchange membranes for high coulombic efficiency vanadium redox flow batteries",
+        "The electricity market in a renewable energy system",
+        "Dynamic flow rate control for vanadium redox flow batteries",
+        "Numerical investigation and thermodynamic analysis of the effect of electrolyte flow rate on performance of all vanadium redox flow batteries",
+        "Parametric study and flow rate optimization of all-vanadium redox flow batteries",
+        "Open circuit voltage of vanadium redox flow batteries: discrepancy between models and experiments",
+        "A multi-objective optimization approach for selection of energy storage systems",
+        "An optimal strategy of electrolyte flow rate for vanadium redox flow battery",
+        "Optimal charging of vanadium redox flow battery with time-varying input power",
+        "Measuring the state of charge of the electrolyte solution in a vanadium redox flow battery using a four-pole cell device",
+        "Analysis and measurement of the electrolyte imbalance in a vanadium redox flow battery",
+        "The performance of all vanadium redox flow batteries at below-ambient temperatures",
+        "Thermodynamic derivation of open circuit voltage in vanadium redox flow batteries",
+        "Capacity balancing for vanadium redox flow batteries through electrolyte overflow",
+        "Parasitic hydrogen evolution at different carbon fiber electrodes in vanadium redox flow batteries",
+        "Dynamic modelling of the effects of ion diffusion and side reactions on the capacity loss for vanadium redox flow battery",
+        "Studies on pressure losses and flow rate optimization in vanadium redox flow battery",
+        "Thermal modelling and simulation of the all-vanadium redox flow battery",
+        "Dynamic control strategy for the electrolyte flow rate of vanadium redox flow batteries",
+        "Thermal hydraulic behavior and efficiency analysis of an all-vanadium redox flow battery"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Min-Hsiung",
+            "@id": "60007954",
+            "affilname": "National Chung Cheng University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007954",
+            "affiliation-country": "Taiwan"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn Academic Advancement"
+    ]
+}

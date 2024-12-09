@@ -1,0 +1,117 @@
+{
+    "eid": "2-s2.0-85164672249",
+    "title": "A formal model for blockchain-based consent management in data sharing",
+    "cover-date": "2023-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Logic",
+            "@code": "2609",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Consent management",
+        "Data protection",
+        "Event-B",
+        "GDPR",
+        "Privacy by design",
+        "Smart contracts"
+    ],
+    "authors": [
+        "Neda Peyrone",
+        "Duangdao Wichadakul"
+    ],
+    "citedby-count": 1,
+    "ref-count": 56,
+    "ref-list": [
+        "Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (Text with EEA relevance)",
+        "A systematic review of blockchain for consent management",
+        "A consent model for blockchain-based health data sharing platforms",
+        "Blockchain-based consent manager for gdpr compliance",
+        "Blockchain-enabled clinical study consent management",
+        "I'm all ears! Listening to software developers on putting gdpr principles into software development practice",
+        "Why developers cannot embed privacy into software systems? An empirical investigation",
+        "Understanding how to implement privacy by design, one step at a time",
+        "Synthesising privacy by design knowledge toward explainable internet of things application designing in healthcare",
+        "Privacy regulation cannot be hardcoded. A critical comment on the \u2018privacy by design\u2019 provision in data-protection law",
+        "Blockchains and data protection in the European Union",
+        "Blockchain and gdpr - a study on compatibility issues of the distributed ledger technology with gdpr data processing",
+        "Blockchain based access control and data sharing systems for smart devices",
+        "Design and implementation of a data sharing model for improving blockchain technology",
+        "Demonstration of a blockchain-based framework using smart contracts for supply chain collaboration",
+        "Modeling in Event-B: System and Software Engineering",
+        "Report on the NSF Workshop on Formal Methods for Security",
+        "Formal methods for privacy",
+        "An open toolset for modelling and reasoning in Event-B",
+        "Lightweight blockchain-based platform for gdpr-compliant personal data management",
+        "A smart contract-based dynamic consent management system for personal data usage under gdpr",
+        "Advocate: a consent management platform for personal data processing in the iot using blockchain technology",
+        "Medrec: using blockchain for medical data access and permission management",
+        "Crowdmed-ii: a blockchain-based framework for efficient consent management in health data sharing",
+        "Crowdmed: a blockchain-based approach to consent management for health data sharing",
+        "Medichaintm: a secure decentralized medical data asset management system",
+        "Consentio: managing consent to data access using permissioned blockchains",
+        "Design and implementation of a blockchain-based e-health consent management framework",
+        "Dwarna: a blockchain solution for dynamic consent in biobanking",
+        "Blockchain based model for consent management and data transparency assurance",
+        "Engineering privacy by design",
+        "Delegation-based personal data processing request notarization framework for gdpr based on private blockchain",
+        "Formal methods for preserving privacy for big data extraction software",
+        "Big data and human geography: opportunities, challenges and risks",
+        "Leveraging Management of Customers' Consent Exploiting the Benefits of Blockchain Technology Towards Secure Data Sharing",
+        "Data Science in Healthcare: Benefits, Challenges and Opportunities",
+        "Data protection by design: building the foundations of trustworthy data sharing",
+        "A survey of blockchain from the perspectives of applications, challenges, and opportunities",
+        "A survey on different consensus mechanisms for the blockchain technology",
+        "Blockchain smart contracts: applications, challenges, and future trends",
+        "Chapter 13 - cryptocurrency mechanisms for blockchains: models, characteristics, challenges, and applications",
+        "An Event-B based approach for formal modelling and verification of smart contracts",
+        "Formal simulation and verification of solidity contracts in Event-B",
+        "Refinement, decomposition, and instantiation of discrete models: application to Event-B",
+        "A concise summary of the Event-B mathematical toolkit",
+        "Privacy design strategies",
+        "Designing privacy-by-design",
+        "Docker: lightweight Linux containers for consistent development and deployment",
+        "Introduction to kubernetes",
+        "Three-tier architecture",
+        "An investigation into smart contract deployment on Ethereum platform using web3.js and solidity using blockchain",
+        "Blockchain oracles: state-of-the-art and research directions",
+        "RUN-ONCO: a highly extensible software platform for cancer precision medicine"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

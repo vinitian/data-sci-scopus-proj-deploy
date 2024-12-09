@@ -1,0 +1,92 @@
+{
+    "eid": "2-s2.0-85132885257",
+    "title": "Formal models for consent-based privacy",
+    "cover-date": "2022-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Logic",
+            "@code": "2609",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Consent management",
+        "Data protection",
+        "Event-B",
+        "Formal method",
+        "GDPR",
+        "Privacy by design"
+    ],
+    "authors": [
+        "Neda Peyrone",
+        "Duangdao Wichadakul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 28,
+    "ref-list": [
+        "Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (Text with EEA relevance)",
+        "Privacy by Design: The 7 Foundational Principles",
+        "Understanding how to implement privacy by design, one step at a time",
+        "Synthesising privacy by design knowledge toward explainable Internet of things application designing in healthcare",
+        "Report on the NSF Workshop on Formal Methods for Security",
+        "Formal methods for privacy",
+        "A formal model of data privacy",
+        "Formal methods for preserving privacy for big data extraction software",
+        "Privacy in data mining using formal methods",
+        "The Coq Proof Assistant Reference Manual: Version 8.13.1",
+        "Beyond consent: improving data protection through consumer protection law",
+        "A formal framework for consent management",
+        "A formal approach to build privacy-awareness into clinical workflows",
+        "Formal models for privacy",
+        "Role-based access controls",
+        "Privacy-aware role-based access control",
+        "Enterprise Privacy Authorization Language (EPAL)",
+        "\u201cPrivacy by Design\u201d implementation: information system engineers' perspective",
+        "PriBioAuth: privacy-preserving biometric-based remote user authentication",
+        "Modeling in Event-B: System and Software Engineering",
+        "Rodin: an open toolset for modelling and reasoning in Event-B",
+        "GDPR compliance in the design of the INFORM e-learning platform: a case study",
+        "Forgetting personal data and revoking consent under the GDPR: challenges and proposed solutions",
+        "Refinement, decomposition, and instantiation of discrete models: application to Event-B",
+        "A concise summary of the Event-B mathematical toolkit",
+        "Privacy design strategies",
+        "Designing Privacy-by-Design",
+        "RUN-ONCO: a highly extensible software platform for cancer precision medicine"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

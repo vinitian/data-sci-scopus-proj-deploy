@@ -1,0 +1,67 @@
+{
+    "eid": "2-s2.0-85094913757",
+    "title": "Discussion on \u201cModeling multivariate cross-correlated geotechnical random fields using vine copulas for slope reliability analysis\u201d",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Geotechnical Engineering and Engineering Geology",
+            "@code": "1909",
+            "@abbrev": "EART"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Copula",
+        "Cross-correlated random fields",
+        "Reliability analysis",
+        "Vine structure"
+    ],
+    "authors": [
+        "Thanh Son Nguyen",
+        "Suraparb Keawsawasvong",
+        "Suched Likitlersuang"
+    ],
+    "citedby-count": 0,
+    "ref-count": 6,
+    "ref-list": [
+        "Copula-based multivariate input modeling",
+        "Influence of the spatial variability of shear strength parameters on rainfall induced landslides: a case study of sandstone slope in Japan",
+        "Influence of the spatial variability of the root cohesion on a slope-scale stability model: a case study of residual soil slope in Thailand",
+        "Modeling multivariate cross-correlated geotechnical random fields using vine copulas for slope reliability analysis",
+        "The role of copulas in random fields: characterization and application",
+        "Generation of multivariate cross-correlated geotechnical random fields"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60012521",
+            "affilname": "Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012521",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "No",
+            "@id": "121548832",
+            "affilname": "Mientrung University of Civil Engineering",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/121548832",
+            "affiliation-country": "Viet Nam"
+        }
+    ],
+    "funding": [
+        "Ratchadapisek Sompoch Endowment Fund",
+        "Chulalongkorn University"
+    ]
+}

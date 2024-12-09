@@ -1,0 +1,106 @@
+{
+    "eid": "2-s2.0-85093901328",
+    "title": "Bottleneck based gridlock prediction in an urban road network using long short-term memory",
+    "cover-date": "2020-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Bottleneck and gridlock identification",
+        "Gridlock prediction",
+        "Long short-term memory",
+        "Urban road network"
+    ],
+    "authors": [
+        "Ei Ei Mon",
+        "Hideya Ochiai",
+        "Chaiyachet Saivichit",
+        "Chaodit Aswakul"
+    ],
+    "citedby-count": 1,
+    "ref-count": 37,
+    "ref-list": [
+        "Recurrent and non-recurrent bottleneck analysis based on traffic state rank distribution",
+        "Spatial distribution complexities of traffic congestion and bottlenecks in different network topologies",
+        "Recurrent and Non-recurrent Congestion Based Gridlock Detection on Chula-SSS Urban Road Network",
+        "Adaptive Kalman filter approach for stochastic short-term traffic flow rate prediction and uncertainty quantification",
+        "Developing a systematic method for identifying and ranking freeway bottlenecks using vehicle probe data",
+        "Minimum Sampling Size of Floating Cars for Urban Link Travel Time Distribution Estimation",
+        "Chula-SSS: Developmental Framework for Signal Actuated Logics on SUMO Platform in Over-saturated Sathorn Road Network Scenario",
+        "Discovering traffic bottlenecks in an urban network by spatiotemporal data mining on location-based services",
+        "Identification of oversaturated intersections using high-resolution traffic signal data",
+        "Urban Traffic Bottleneck Identification Based on Congestion Propagation",
+        "Identifying Recurring Bottlenecks on Urban Expressway Using a Fusion Method Based on Loop Detector Data",
+        "Using truck probe GPS data to identify and rank roadway bottlenecks",
+        "Exploratory Methodology for Identification of Urban Bottlenecks Using GPS Data",
+        "Identifying and Classifying Highway Bottlenecks Based on Spatial and Temporal Variation of Speed",
+        "Data-driven approach for identifying spatiotemporally recurrent bottlenecks",
+        "Identification and characteristics analysis of bottlenecks on urban expressways based on floating car data",
+        "Expressway bottleneck pattern identification using traffic big data\u2014The case of ring roads in Beijing, China",
+        "Comparison of parametric and nonparametric models for traffic flow forecasting",
+        "Modeling and characterization of traffic flows in urban environments",
+        "Large-scale transportation network congestion evolution prediction using deep learning theory",
+        "Traffic speed prediction and congestion source exploration: A deep learning method",
+        "Long short-term memory",
+        "LSTM network: A deep learning approach for short-term traffic forecast",
+        "Data-driven short-term forecasting for urban road network traffic based on data processing and LSTM-RNN",
+        "A continuous-flow-intersection-lite design and traffic control for oversaturated bottleneck intersections",
+        "Urban gridlock: Macroscopic modeling and mitigation approaches",
+        "Macroscopic relations of urban traffic variables: Bifurcations, multivaluedness and instability",
+        "A comparative study of urban road traffic simulators",
+        "Microscopic Traffic Simulation using SUMO",
+        "Recent development and applications of SUMO-Simulation of Urban MObility",
+        "Experimental Study of Multivariate Time Series Forecasting Models",
+        "Another look at measures of forecast accuracy",
+        "Map matching for low-sampling-rate GPS trajectories by exploring real-time moving directions"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025272",
+            "affilname": "The University of Tokyo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025272",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "JICA"
+    ]
+}

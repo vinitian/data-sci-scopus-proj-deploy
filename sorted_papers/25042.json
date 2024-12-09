@@ -1,0 +1,115 @@
+{
+    "eid": "2-s2.0-85078573044",
+    "title": "Risk-involved stochastic scheduling of plug-in electric vehicles aggregator in day-ahead and reserve markets using downside risk constraints method",
+    "cover-date": "2020-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Geography, Planning and Development",
+            "@code": "3305",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Transportation",
+            "@code": "3313",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "Day-ahead and reserve markets",
+        "Downside risk constraints (DRC)",
+        "Mixed-integer linear programming (MILP)",
+        "Plug-in electric vehicles (PEVs)",
+        "Risk-constrained stochastic optimization"
+    ],
+    "authors": [
+        "Man Wen Tian",
+        "Shu Rong Yan",
+        "Xiao Xiao Tian",
+        "Milad Kazemi",
+        "Sayyad Nojavan",
+        "Kittisak Jermsittiparsert"
+    ],
+    "citedby-count": 42,
+    "ref-count": 33,
+    "ref-list": [
+        "Multi-objective optimization based robust scheduling of electric vehicles aggregator",
+        "Coordinating vehicle-to-grid services with energy trading",
+        "Stochastic scheduling of aggregators of plug-in electric vehicles for participation in energy and ancillary service markets",
+        "Optimization models for EV aggregator participation in a manual reserve market",
+        "Modelling charging profiles of electric vehicles based on real-world electric vehicle charging data",
+        "A novel hybrid prediction model for aggregated loads of buildings by considering the electric vehicles",
+        "Scheduling charging of hybrid-electric vehicles according to supply and demand based on particle swarm optimization, imperialist competitive and training-learning algorithms",
+        "Optimal scheduling of renewable micro-grids considering plug-in hybrid electric vehicle charging demand",
+        "Vehicle-to-grid power fundamentals: Calculating capacity and net revenue",
+        "Stochastic-programming-based bidding strategy for V2G services",
+        "Fundamentals of power system economics [book review]",
+        "A dynamic stochastic optimization for recharging plug-in electric vehicles",
+        "Network-constrained optimal bidding strategy of a plug-in electric vehicle aggregator: A stochastic/robust game theoretic approach",
+        "Optimal short-term scheduling of aggregators for plug-in electric vehicles",
+        "Distributed charge scheduling of plug-in electric vehicles using inter-aggregator collaboration",
+        "Demand side management by using electric vehicles as distributed energy resources",
+        "Electric vehicles for improving resilience of distribution systems",
+        "Distributed convex optimization for electric vehicle aggregators",
+        "Stochastic charging of electric vehicles in smart power distribution grids",
+        "Modeling of interactions between market regulations and behavior of plug-in electric vehicle aggregators in a virtual power market environment",
+        "A novel model of electric vehicle fleet aggregate battery for energy planning studies",
+        "Decision making under uncertainty in energy systems: State of the art",
+        "Optimal charging strategies for unidirectional vehicle-to-grid",
+        "Vehicle-to-grid service potential with price based PEV charging/discharging",
+        "Real-time charging management framework for electric vehicle aggregators in a market environment",
+        "Self scheduling of plug-in electric vehicle aggregator to provide balancing services for wind power",
+        "Real-time charging strategies for an electric vehicle aggregator to provide ancillary services",
+        "Using vehicle-to-grid technology for frequency regulation and peak-load reduction",
+        "GENCO's risk-constrained hydrothermal scheduling",
+        "Risk-constrained stochastic optimization of a concentrating solar power plant",
+        "Evaluation of achievable vehicle-to-grid capacity using aggregate PEV model",
+        "Risk-based day-ahead scheduling of electric vehicle aggregator using information gap decision theory"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bonab",
+            "@id": "60108382",
+            "affilname": "University of Bonab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60108382",
+            "affiliation-country": "Iran"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tabriz",
+            "@id": "60022156",
+            "affilname": "Azarbaijan Shahid Madani University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022156",
+            "affiliation-country": "Iran"
+        },
+        {
+            "affiliation-city": "Nanchang",
+            "@id": "60010606",
+            "affilname": "East China Jiaotong University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010606",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": [
+        "National Social Science Fundation"
+    ]
+}

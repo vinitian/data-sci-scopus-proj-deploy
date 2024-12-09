@@ -1,0 +1,71 @@
+{
+    "eid": "2-s2.0-85119506012",
+    "title": "Reconstruct-to-refocus: Joint reconstruction of a biological sample and of calibration objects for accurate auto-focusing in digital holography",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanics of Materials",
+            "@code": "2211",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Dylan Brault",
+        "Anthony Berdeu",
+        "Ferr\u00e9ol Soulez",
+        "Fabien Momey",
+        "Thomas Olivier",
+        "Lo\u00efc Denis",
+        "Corinne Fournier"
+    ],
+    "citedby-count": 0,
+    "ref-count": 9,
+    "ref-list": [
+        "Digital holographic microscopy: a noninvasive contrast imaging technique allowing quantitative visualization of living cells with subwavelength axial accuracy",
+        "Near-field Lorenz-Mie theory and its application to micro-holography",
+        "Phase retrieval algorithms: a comparison",
+        "Inverse-problem approach for particle digital holography: accurate location based on local optimization",
+        "Reconstruction of in-line holograms: combining model-based and regularized inversion",
+        "Robust object characterization from lensless microscopy videos",
+        "Regularized reconstruction of absorbing and phase objects from a single in-line hologram, application to fluid mechanics and micro-biology"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Chiangmai",
+            "@id": "60274668",
+            "affilname": "National Astronomical Research Institute of Thailand",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60274668",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Saint-Etienne",
+            "@id": "60068548",
+            "affilname": "Laboratoire Hubert Curien UMR CNRS 5516",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60068548",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Lyon",
+            "@id": "60005667",
+            "affilname": "\u00c9cole Normale Sup\u00e9rieure de Lyon",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005667",
+            "affiliation-country": "France"
+        }
+    ],
+    "funding": []
+}

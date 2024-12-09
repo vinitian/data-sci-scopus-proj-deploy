@@ -1,0 +1,139 @@
+{
+    "eid": "2-s2.0-85137866881",
+    "title": "GlauNet: Glaucoma Diagnosis for OCTA Imaging Using a New CNN Architecture",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Artificial intelligence",
+        "convolutional neural network",
+        "deep learning",
+        "glaucoma",
+        "optical coherence tomography angiography",
+        "retinal blood vessels"
+    ],
+    "authors": [
+        "Anita Manassakorn",
+        "Supatana Auethavekiat",
+        "Vera Sa-Ing",
+        "Sunee Chansangpetch",
+        "Kitiya Ratanawongphaibul",
+        "Nopphawan Uramphorn",
+        "Visanee Tantisevi"
+    ],
+    "citedby-count": 2,
+    "ref-count": 49,
+    "ref-list": [
+        "Global prevalence of glaucoma and projections of glaucoma burden through 2040. A systematic review and meta-analysis",
+        "The rates of blindness and of partial sight registration in glaucoma patients",
+        "The prevalence of glaucoma in a population-based study of Hispanic subjects: Proyecto VER",
+        "Temba glaucoma study: A population-based cross-sectional survey in urban south Africa",
+        "Awareness of incident open-angle glaucoma in a population study: The Barbados Eye Studies",
+        "Prevalence of glaucoma in the United States: The 2005\u20132008 national health and nutrition examination survey",
+        "Agreement among glaucoma specialists in assessing progressive disc changes from photographs in open-angle glaucoma patients",
+        "Agreement and accuracy of non-expert ophthalmologists in assessing glaucomatous changes in serial stereo optic disc photographs",
+        "Estimating optical coherence tomography structural measurement floors to improve detection of progression in advanced glaucoma",
+        "Diagnostic classification of macular ganglion cell and retinal nerve fiber layer analysis: Differentiation of false-positives from glaucoma",
+        "Evaluation of a myopic normative database for analysis of retinal nerve fiber layer thickness",
+        "Retinal nerve fiber layer defect detection using machine learning on optic disc photograph",
+        "Optical coherence tomography angiography",
+        "Optical coherence tomography based angiography [invited]",
+        "Optical coherence tomography angiography in glaucoma care",
+        "Ocular blood flow as a clinical observation: Value, limitations and data analysis",
+        "Optical coherence tomography angiography vessel density in healthy, glaucoma suspect, and glaucoma eyes",
+        "Peripapillary perfused capillary density in primary open-angle glaucoma across disease stage: An optical coherence tomography angiography study",
+        "A comparison of the diagnostic ability of vessel density and structural measurements of optical coherence tomography in primary open angle glaucoma",
+        "Macular and optic nerve head vessel density and progressive retinal nerve fiber layer loss in glaucoma",
+        "Vessel density and structural measurements of optical coherence tomography in primary angle closure and primary angle closure glaucoma",
+        "Foveal avascular zone measurement via optical coherence tomography angiography and its relationship with the visual field in eyes with open-angle glaucoma",
+        "Macular vessel density and foveal avascular zone parameters in patients after acute primary angle closure determined by OCT angiography",
+        "Alterations of the foveal avascular zone measured by optical coherence tomography angiography in glaucoma patients with central visual field defects",
+        "Deep retinal layer microvasculature dropout detected by the optical coherence tomography angiography in glaucoma",
+        "Evaluation of parapapillary choroidal microvasculature dropout and progressive retinal nerve fiber layer thinning in patients with glaucoma",
+        "Quantitative optical coherence tomography angiography: A review",
+        "Survey on image segmentation techniques",
+        "Deep learning",
+        "Integrating holistic and local deep features for glaucoma classification",
+        "Automatic identification of glaucoma using deep learning methods",
+        "Efficacy of a deep learning system for detecting glaucomatous optic neuropathy based on color fundus photographs",
+        "Performance of deep learning architectures and transfer learning for detecting glaucomatous optic neuropathy in fundus photographs",
+        "Development of a deep residual learning algorithm to screen for glaucoma from fundus photography",
+        "Deep learning and glaucoma specialists: The relative importance of optic disc features to predict glaucoma referral in fundus photographs",
+        "Detection of glaucomatous optic neuropathy with spectral-domain optical coherence tomography: A retrospective training and validation deep-learning analysis",
+        "A feature agnostic approach for glaucoma detection in OCT volumes",
+        "Assessment of a segmentation-free deep learning algorithm for diagnosing glaucoma from optical coherence tomography scans",
+        "From machine to machine: An OCT-trained deep learning algorithm for objective quantification of glaucomatous damage in fundus photographs",
+        "Automated detection of a nonperfusion area caused by retinal vein occlusion in optical coherence tomography angiography images using deep learning",
+        "Transfer learning for automated OCTA detection of diabetic retinopathy",
+        "Ensemble deep learning for diabetic retinopathy detection using optical coherence tomography angiography",
+        "Deep learning image analysis of optical coherence tomography angiography measured vessel density improves classification of healthy and glaucoma eyes",
+        "Image projection network: 3D to 2D image segmentation in OCTA images",
+        "Real-time 3D ultrasound denoising based on adaptive regularisation Savitzky\u2013Golay filter",
+        "Multiscale adaptive regularisation Savitzky\u2013Golay method for speckle noise reduction in ultrasound images",
+        "Image artefacts in swept-source optical coherence tomography angiography",
+        "Prevalence and severity of artifacts in optical coherence tomographic angiograms",
+        "OCT angiography artifacts in glaucoma"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60020352",
+            "affilname": "Vajira Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020352",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60000316",
+            "affilname": "Srinakharinwirot University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000316",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

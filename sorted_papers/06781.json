@@ -1,0 +1,95 @@
+{
+    "eid": "2-s2.0-85093660739",
+    "title": "Combination of Active Braking and Torque Vectoring in Electronic Stability Control for Four-Wheel Independent Drive Electric Vehicle",
+    "cover-date": "2019-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Organizational Behavior and Human Resource Management",
+            "@code": "1407",
+            "@abbrev": "BUSI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "active braking",
+        "electric vehicle",
+        "ESC",
+        "independent-wheel drive",
+        "torque vectoring"
+    ],
+    "authors": [
+        "Sitthichok Sitthiracha",
+        "Saiprasit Koetniyom",
+        "Gridsada Phanomchoeng"
+    ],
+    "citedby-count": 1,
+    "ref-count": 9,
+    "ref-list": [
+        "Electric vehicle differential system based on co-simulation of carsim/simulink",
+        "A safe torque vectoring function for an electric vehicle",
+        "A review of active yaw control system for vehicle handling and stability enhancement,\" int",
+        "Advanced stability control for electric vehiclea via a novel hybrid actuator system",
+        "Direct yaw moment control actuated through electric drivetrains and friction brakes: Theoretical design and experiment assessment",
+        "Electric vehicle drive trains: From the specification sheet to the drive-train concept",
+        "A wheel slip control approach integrated with electronic stability control for ddecentralized drive electric vehicles"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

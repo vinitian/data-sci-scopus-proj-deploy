@@ -1,0 +1,101 @@
+{
+    "eid": "2-s2.0-85077774167",
+    "title": "PTM-Logo: A program for generation of sequence logos based on position-specific background amino-acid probabilities",
+    "cover-date": "2019-12-15",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Statistics and Probability",
+            "@code": "2613",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Thammakorn Saethang",
+        "Kenneth Hodge",
+        "Chin Rang Yang",
+        "Yue Zhao",
+        "Ingorn Kimkong",
+        "Mark A. Knepper",
+        "Trairak Pisitkun"
+    ],
+    "citedby-count": 7,
+    "ref-count": 11,
+    "ref-list": [
+        "Endogenous carbamylation of renal medullary proteins",
+        "Identifying protein kinase target preferences using mass spectrometry",
+        "Large-scale phosphoproteomic analysis of membrane proteins in renal proximal and distal tubule",
+        "PhosphoSitePlus, 2014: Mutations, PTMs and recalibrations",
+        "DbPTM 2016: 10-year anniversary of a resource for post-translationalmodification of proteins",
+        "Systems-level identification of PKA-dependent signaling in epithelial cells",
+        "Systematic discovery of in vivo phosphorylation networks",
+        "The iceLogo web server and SOAP service for determining protein consensus sequences",
+        "Scansite 2.0: Proteome-wide prediction of cell signaling interactions using short sequence motifs",
+        "Ultradeep human phosphoproteome reveals a distinct regulatory nature of Tyr and Ser/Thr-based signaling",
+        "Seq2Logo: A method for construction and visualization of amino acid binding motifs and sequence profiles including sequence weighting, pseudo counts and two-sided representation of amino acid enrichment and depletion"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60021944",
+            "affilname": "Kasetsart University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021944",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bethesda",
+            "@id": "60005281",
+            "affilname": "National Heart, Lung, and Blood Institute (NHLBI)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005281",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn Academic Advancement",
+        "Ratchadapiseksompotch Fund",
+        "NIH",
+        "NHLBI",
+        "Division of Intramural Research",
+        "Chulalongkorn University",
+        "Thailand Research Fund",
+        "Faculty of Medicine, Chulalongkorn University"
+    ]
+}

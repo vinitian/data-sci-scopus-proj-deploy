@@ -1,0 +1,76 @@
+{
+    "eid": "2-s2.0-85028968808",
+    "title": "Numerical Analysis and Experiments on the Electromechanical Behavior of Wired-Shape Conducting Particles",
+    "cover-date": "2018-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Electromechanics",
+        "electrostatic",
+        "force",
+        "insulation system",
+        "particle",
+        "torque"
+    ],
+    "authors": [
+        "Boonchai Techaumnat",
+        "Viet Q. Huynh",
+        "Kunihiko Hidaka"
+    ],
+    "citedby-count": 4,
+    "ref-count": 15,
+    "ref-list": [
+        "Performance of particle contaminated GIS with dielectric coated electrodes",
+        "A study on effects of conducting particles in SF6 GAS and test methods for GIS",
+        "The influence of free moving particles on the breakdown voltage of GIS under different electrical stresses",
+        "Partial discharge initiated by free moving metallic particles on GIS insulator surface: Severity diagnosis and assessment",
+        "Behavior of metallic particles in GIS under DC voltage",
+        "Lifting force on metallic particles in GIS systems",
+        "Numerical analysis and experiment of floating conductive particle motion due to contact charging in high-voltage system",
+        "Conducting particle motion and particle-initiated breakdown in dc electric field between diverging conducting plates in atmospheric air",
+        "Study on the electromechanics of a conducting particle under nonuniform electric field",
+        "Metallic particle motion and control under DC voltages",
+        "Motion and discharge characteristics of metal particles existing in GIS under DC voltage",
+        "The behavior of charged conducting particles in electric fields",
+        "Experimental studies of free conducting wire particle behavior between nonparallel plane electrodes with AC voltages in air"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60272237",
+            "affilname": "Ho Chi Minh City University of Technology - HCMUT",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60272237",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025272",
+            "affilname": "The University of Tokyo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025272",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Thailand Research Fund",
+        "JICA"
+    ]
+}

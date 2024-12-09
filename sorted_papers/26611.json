@@ -1,0 +1,90 @@
+{
+    "eid": "2-s2.0-85114799188",
+    "title": "Chromosome-scale assembly of the complete genome sequence of leishmania (mundinia) orientalis, isolate lscm4, strain lv768",
+    "cover-date": "2021-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Immunology and Microbiology (miscellaneous)",
+            "@code": "2401",
+            "@abbrev": "IMMU"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Hatim Almutairi",
+        "Michael D. Urbaniak",
+        "Michelle D. Bates",
+        "Narissara Jariyapan",
+        "Waleed S. Al-Salem",
+        "Rod J. Dillon",
+        "Paul A. Bates",
+        "Derek Gatherer"
+    ],
+    "citedby-count": 3,
+    "ref-count": 25,
+    "ref-list": [
+        "Leishmaniasis",
+        "Leishmania immunity: Advancing immunotherapy and vaccine development",
+        "Leishmaniasis worldwide and global estimates of its incidence",
+        "Cutaneous leishmaniasis of the guinea pig, Leishmania enriettii n. sp",
+        "An appraisal of the taxonomy and nomenclature of trypanosomatids presently classified as Leishmania and Endotrypanum",
+        "Leishmania (Mundinia) spp.: From description to emergence as new human and animal Leishmania pathogens",
+        "First isolation of Leishmania from Northern Thailand: Case report, identification as Leishmania martiniquensis and phylogenetic position within the Leishmania enriettii complex",
+        "Visceral leishmaniasis: The first indigenous case report in Thailand",
+        "Visceral leishmaniasis caused by Leishmania infantum in Thailand",
+        "Leishmania (Mundinia) orientalis n. sp. (Trypanosomatidae), a parasite from Thailand responsible for localised cutaneous leishmaniasis",
+        "Axenic amastigote cultivation and in vitro development of Leishmania orientalis",
+        "MultiQC: Summarize analysis results for multiple tools and samples in a single report",
+        "Assembly of long, errorprone reads using repeat graphs",
+        "Minimap and miniasm: Fast mapping and de novo assembly for noisy long sequences",
+        "The Sequence Alignment/Map format and SAMtools",
+        "Pilon: An integrated tool for comprehensive microbial variant detection and genome assembly improvement",
+        "PacBio long-read sequencing, assembly, and Funannotate reannotation of the complete genome of Trichoderma reesei QM6a",
+        "RaGOO: Fast and accurate reference-guided scaffolding of draft genomes",
+        "The genome of the kinetoplastid parasite, Leishmania major",
+        "Sustainable data analysis with Snakemake",
+        "LGAAP: Leishmaniinae genome assembly and annotation pipeline",
+        "BUSCO: Assessing genome assembly and annotation completeness with single-copy orthologs",
+        "MAKER2: An annotation pipeline and genomedatabase management tool for second-generation genome projects",
+        "AUGUSTUS: A Web server for gene finding in eukaryotes"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Lancaster",
+            "@id": "60117609",
+            "affilname": "Division of Biomedical and Life Sciences, Lancaster University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60117609",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Riyadh",
+            "@id": "60032813",
+            "affilname": "Ministry of Health Saudi Arabia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032813",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Ministry of Health and Public Health Authority of Saudi Arabia"
+    ]
+}

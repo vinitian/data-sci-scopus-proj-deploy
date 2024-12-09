@@ -1,0 +1,104 @@
+{
+    "eid": "2-s2.0-85077504487",
+    "title": "An iterative elastic SBFE approach for collapse load analysis of inelastic structures",
+    "cover-date": "2020-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Collapse load",
+        "Elastic compensation",
+        "Limit analysis",
+        "Plasticity",
+        "Scaled boundary finite element"
+    ],
+    "authors": [
+        "Afshin Mellati",
+        "Sawekchai Tangaramvong",
+        "Francis Tin-Loi",
+        "Chongmin Song"
+    ],
+    "citedby-count": 7,
+    "ref-count": 46,
+    "ref-list": [
+        "Limit Analysis of Solids and Structures",
+        "A matrix structural theory of piecewise linear elastoplasticity with interacting yield planes",
+        "Mathematical programming applications to structural mechanics: some introductory thoughts",
+        "Elastic\u2013plastic and limit-state analyses of frames with softening plastic-hinge models by mathematical programming",
+        "Limit analysis of elastoplastic frames considering 2nd-order geometric nonlinearity and displacement constraints",
+        "Complementarity problems in structural engineering: an overview",
+        "Collapse load evaluation of structures with frictional contact supports under combined stresses",
+        "An FE-MPEC approach for limit load evaluation in the presence of contact and displacement constraints",
+        "Upper bound limit analysis using the weak form quadrature element method",
+        "Limit state analysis of reinforced concrete slabs using an integrated radial basis function based mesh-free method",
+        "Classification of clamp induced stresses in thin walled pipe",
+        "Evaluation of deformation or load control of stress under inelastic conditions using elastic finite element stress analysis",
+        "Limit loads of mechanical components and structures using the Gloss R-node method",
+        "A method of estimating limit loads by iterative elastic analysis. I-simple examples",
+        "Simplified lower bound limit analysis of pressurised cylinder/cylinder intersections using generalised yield criteria",
+        "Limit and shakedown analysis of nozzle/cylinder intersections under internal pressure and in-plane moment loading",
+        "Simplified lower bound limit analysis of transversely loaded thin plates using generalised yield criteria",
+        "Elastic modulus reduction method for limit analysis of thin plate and shell structures",
+        "Numerical limit analysis of steel-reinforced concrete walls and slabs",
+        "Collapse load of composite laminates: lower bound evaluation by stress field analytical approximation",
+        "Strengthening of steel-reinforced concrete structural elements by externally bonded FRP sheets and evaluation of their load carrying capacity",
+        "Limit analysis based on a modified elastic compensation method for nozzle-to-cylinder junctions",
+        "Limit analysis of structures containing flaws based on a modified elastic compensation method",
+        "The scaled boundary finite-element method-alias consistent",
+        "Polygon scaled boundary finite elements for crack propagation modelling",
+        "Dynamic crack propagation simulation with scaled boundary polygon elements and automatic remeshing technique",
+        "Hierarchical tree-based finite element mesh generation",
+        "The scaled boundary finite-element method - a primer: derivations",
+        "The scaled boundary finite-element method - a primer: solution procedures",
+        "A scaled boundary polygon formulation for elasto-plastic analyses",
+        "Adaptation of quadtree meshes in the scaled boundary finite element method for crack propagation modelling",
+        "PolyMesher: a general-purpose mesh generator for polygonal elements written in Matlab",
+        "Limit state solutions, based upon linear elastic solutions with a spatially varying elastic modulus",
+        "Limit analysis for a general class of yield conditions",
+        "A non-linear programming method approach for upper bound limit analysis",
+        "Performance of the p-version finite element method for limit analysis",
+        "On numerically accurate finite element solutions in the fully plastic range",
+        "A direct complementarity approach for the elastoplastic analysis of plane stress and plane strain structures",
+        "A mixed finite element model for plane strain elastic-plastic analysis. Part I: formulation and assessment of the overall behaviour",
+        "A mixed finite element model for plane strain elastic-plastic analysis. Part II: application to the 4-node bilinear element",
+        "Generalization of selective integration procedures to anisotropic and nonlinear media",
+        "Adaptivity based on error estimation for viscoplastic softening materials",
+        "An algorithm for shakedown analysis with nonlinear yield functions",
+        "Lower bound limit analysis of cohesive-frictional materials using second-order cone programming",
+        "Upper and lower bounds in limit analysis: adaptive meshing strategies and discontinuous loading",
+        "Numerical determination of limit loads for three-dimensional structures using boundary element method"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Sydney",
+            "@id": "60028333",
+            "affilname": "UNSW Sydney",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028333",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Ratchadaphiseksomphot Endowment Fund",
+        "Thai Research Funding",
+        "Australian Research Council",
+        "Chulalongkorn University"
+    ]
+}

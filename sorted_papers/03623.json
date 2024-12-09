@@ -1,0 +1,61 @@
+{
+    "eid": "2-s2.0-85163500065",
+    "title": "Random forest algorithm using quartile-pattern bootstrapping for a class imbalanced problem",
+    "cover-date": "2023-03-24",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Class imbalanced problem",
+        "mass-ratio-variance outlier factor",
+        "minority condensation decision trees",
+        "random forest"
+    ],
+    "authors": [
+        "Worawit Jitpakdeebodin",
+        "Krung Sinapiromsaran"
+    ],
+    "citedby-count": 0,
+    "ref-count": 9,
+    "ref-list": [
+        "An insight into classification with imbalanced data: Empirical results and current trends on using data intrinsic characteristics",
+        "An Imbalanced-Data Processing Algorithm for the Prediction of Heart Attack in Stroke Patients",
+        "A Random Forest with Minority Condensation and Decision Trees for Class Imbalanced Problems",
+        "An Experimental Comparison of Three Methods for Constructing Ensembles of Decision Trees: Bagging, Boosting, and Randomization",
+        "Top 10 algorithms in data mining",
+        "Mass-ratio-variance based Outlier Factor2021"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Department of Mathematics and Computer Science, Faculty of Science, Chulalongkorn University"
+    ]
+}

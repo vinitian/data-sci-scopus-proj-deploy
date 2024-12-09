@@ -1,0 +1,109 @@
+{
+    "eid": "2-s2.0-85162743809",
+    "title": "Generalizing a Small Facial Image Dataset Using Facial Generative Adversarial Networks for Stroke's Facial Weakness Screening",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Facial generative adversarial networks",
+        "facial weakness",
+        "FAST",
+        "small dataset",
+        "stroke-screening"
+    ],
+    "authors": [
+        "Phongphan Phienphanich",
+        "Nichapa Lerthirunvibul",
+        "Ekabhat Charnnarong",
+        "Adirek Munthuli",
+        "Charturong Tantibundhit",
+        "Nijasri C. Suwanwela"
+    ],
+    "citedby-count": 0,
+    "ref-count": 43,
+    "ref-list": [
+        "World stroke organization (WSO): Global stroke fact sheet 2022",
+        "Facial weakness analysis and quantification of static images",
+        "Stroke screening feature selection for arm weakness using a mobile application",
+        "Video-based facial weakness analysis",
+        "Automatic detection and vascular territory classification of hyperacute staged ischemic stroke on diffusion weighted image using convolutional neural networks",
+        "Automatic stroke screening on mobile application: Features of gyroscope and accelerometer for arm factor in FAST",
+        "Guidelines for the early management of adults with ischemic stroke",
+        "Prehospital stroke scales in urban environments: A systematic review",
+        "The impact of misdiagnosing Bell's palsy as acute stroke",
+        "StyleCLIP: Text-driven manipulation of StyleGAN imagery",
+        "Scaling-up disentanglement for image translation",
+        "Automatic facial palsy diagnosis as a classification problem using regional information extracted from a photograph",
+        "Deep assessment process: Objective assessment process for unilateral peripheral facial paralysis via deep convolutional neural network",
+        "Towards identification of hypomimia in Parkinson's disease based on face recognition methods",
+        "Quantitative analysis of facial paralysis based on filters of concentric modulation",
+        "A markerless 2D video, facial feature recognition.based, artificial intelligence model to assist with screening for Parkinson disease: Development and usability study",
+        "Diagnosing Parkinson disease through facial expression recognition: Video analysis",
+        "Analysis of facial expressions in Parkinson's disease through video-based automatic methods",
+        "Toward an automatic system for computer-aided assessment in facial palsy",
+        "3DPalsyNet: A facial palsy grading and motion recognition framework using fully 3D convolutional neural networks",
+        "A survey on image data augmentation for deep learning",
+        "Feature-based detection of facial landmarks from neutral and expressive facial images",
+        "Dynamic facial expression recognition with atlas construction and sparse representation",
+        "ArcFace: Additive angular margin loss for deep face recognition",
+        "Human vs. machine learning based detection of facial weakness using video analysis",
+        "Generative adversarial nets",
+        "Generative adversarial networks for face generation: A survey",
+        "Facial landmark detection by deep multi-task learning",
+        "Facial landmark detection: A literature survey",
+        "RetinaFace: Single-shot multi-level face localisation in the wild",
+        "Data augmentation for face recognition",
+        "Toward end-to-end face recognition through alignment learning",
+        "Two algorithms for constructing a Delaunay triangulation",
+        "A ConvNet for the 2020s",
+        "Deep networks with stochastic depth",
+        "Understanding the difficulty of training deep feedforward neural networks",
+        "Exploring simple Siamese representation learning",
+        "Interrater reliability: The Kappa statistic",
+        "Effectively unbiased FID and inception score and where to find them"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60012521",
+            "affilname": "Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012521",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "129951220",
+            "affilname": "Patumwan Demonstration School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129951220",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

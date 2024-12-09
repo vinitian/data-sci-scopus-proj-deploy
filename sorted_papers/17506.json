@@ -1,0 +1,408 @@
+{
+    "eid": "2-s2.0-85108025403",
+    "title": "International Delphi Expert Consensus on Safe Return to Surgical and Endoscopic Practice: From the Coronavirus Global Surgical Collaborative",
+    "cover-date": "2021-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Surgery",
+            "@code": "2746",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "backlog",
+        "consensus",
+        "coronavirus",
+        "Delphi",
+        "endoscopy",
+        "pandemic",
+        "pathways",
+        "recommendations",
+        "resources",
+        "resumption",
+        "surgery"
+    ],
+    "authors": [
+        "Horacio J. Asbun",
+        "Mohammad Abu Hilal",
+        "Filipe Kunzler",
+        "Domenech Asbun",
+        "Jaap Bonjer",
+        "Kevin Conlon",
+        "Nicolas Demartines",
+        "Liane S. Feldman",
+        "Salvador Morales-Conde",
+        "Andrea Pietrabissa",
+        "Aurora D. Pryor",
+        "Christopher M. Schlachta",
+        "Patricia Sylla",
+        "Eduardo M. Targarona",
+        "Yolanda Agra",
+        "Marc G. Besselink",
+        "Mark Callery",
+        "Sean P. Cleary",
+        "Luis De La Cruz",
+        "Philippe Eckert",
+        "Chad Evans",
+        "Ho Seong Han",
+        "Daniel B. Jones",
+        "Tong Joo Gan",
+        "Daniel Koch",
+        "Keith D. Lillemoe",
+        "Davide Lomanto",
+        "Jeffrey Marks",
+        "Brent Matthews",
+        "John Mellinger",
+        "William Scott Melvin",
+        "Eduardo Moreno-Paquentin",
+        "Claudio Navarrete",
+        "Timothy M. Pawlik",
+        "Patrick Pessaux",
+        "Walter Ricciardi",
+        "Steven Schwaitzberg",
+        "Paresh Shah",
+        "Joseph Szokol",
+        "Mark Talamini",
+        "Ricardo Torres",
+        "Alessandro Triboldi",
+        "Suthep Udomsawaengsup",
+        "Federica Valsecchi",
+        "Jean Nicolas Vauthey",
+        "Michael Wallace",
+        "Steven D. Wexner",
+        "Michael Zinner",
+        "Nader Francis"
+    ],
+    "citedby-count": 5,
+    "ref-count": 34,
+    "ref-list": [
+        "Joint Statement: Roadmap for Resuming Elective Surgery after COVID-19 Pandemic",
+        "Early look at the future of healthcare during the COVID-19 pandemic",
+        "An experimental application of the DELPHI method to the use of experts",
+        "COVID-19 outbreak and surgical practice: Unexpected fatality in perioperative period",
+        "Rethinking how we care for our patients in a time of social distancing during the COVID-19 pandemic",
+        "Surgical ethics during a pandemic: Moving into the unknown?",
+        "Immediate and long-Term impact of the COVID-19 pandemic on delivery of surgical services",
+        "Fair allocation of scarce medical resources in the time of Covid-19",
+        "COVID-19 and the Financial Health of US Hospitals",
+        "COVID-19 pandemic: Perspectives on an unfolding crisis",
+        "Approaching surgical triage during the COVID-19 pandemic",
+        "The Delphi technique: Making sense of consensus",
+        "On the epistemology of the inexact science",
+        "Use of a modified Delphi process to determine course objectives for a Model Global Health Course in a pharmacy curriculum",
+        "Association of chemosensory dysfunction and Covid-19 in patients presenting with influenza-like symptoms",
+        "Has COVID-19 subverted global health?"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Stony Brook",
+            "@id": "60101642",
+            "affilname": "Renaissance School of Medicine at Stony Brook University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60101642",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Lausanne",
+            "@id": "60023561",
+            "affilname": "Centre Hospitalier Universitaire Vaudois",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023561",
+            "affiliation-country": "Switzerland"
+        },
+        {
+            "affiliation-city": "Miami",
+            "@id": "100803653",
+            "affilname": "Miami Cancer Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/100803653",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Miami",
+            "@id": "60122600",
+            "affilname": "Herbert Wertheim College of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60122600",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Strasbourg",
+            "@id": "60103368",
+            "affilname": "Universit\u00e9 de Strasbourg",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103368",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Evanston",
+            "@id": "60103003",
+            "affilname": "NorthShore University HealthSystem",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103003",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Buffalo",
+            "@id": "60101632",
+            "affilname": "Jacobs School of Medicine and Biomedical Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60101632",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Seongnam",
+            "@id": "60098516",
+            "affilname": "Seoul National University Bundang Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60098516",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Rome",
+            "@id": "60073799",
+            "affilname": "Fondazione Policlinico Universitario Agostino Gemelli IRCCS",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60073799",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Sevilla",
+            "@id": "60033267",
+            "affilname": "Hospital Universitario Virgen del Roc\u00edo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60033267",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Yeovil",
+            "@id": "60032977",
+            "affilname": "Yeovil District Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032977",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60032105",
+            "affilname": "NYU Langone Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032105",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60031619",
+            "affilname": "Schulich School of Medicine &amp; Dentistry",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031619",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Charlotte",
+            "@id": "60030824",
+            "affilname": "Carolinas Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030824",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60030058",
+            "affilname": "Beth Israel Deaconess Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030058",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60029929",
+            "affilname": "Massachusetts General Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029929",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Fort Lauderdale",
+            "@id": "60029770",
+            "affilname": "Cleveland Clinic Florida",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029770",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60026680",
+            "affilname": "NUS Yong Loo Lin School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026680",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Stony Brook",
+            "@id": "60026415",
+            "affilname": "Stony Brook University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026415",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bern",
+            "@id": "60024537",
+            "affilname": "Swiss Federal Office of Public Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024537",
+            "affiliation-country": "Switzerland"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60024099",
+            "affilname": "Montefiore Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024099",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "San Francisco",
+            "@id": "60023691",
+            "affilname": "University of California, San Francisco",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023691",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Cerdanyola del Valles",
+            "@id": "60023020",
+            "affilname": "Universitat Aut\u00f2noma de Barcelona",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023020",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60022148",
+            "affilname": "University College London",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022148",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "60021848",
+            "affilname": "American British Cowdray Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021848",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Cleveland",
+            "@id": "60021578",
+            "affilname": "University Hospitals Case Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021578",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Springfield",
+            "@id": "60021399",
+            "affilname": "Southern Illinois University School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021399",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Pavia",
+            "@id": "60015197",
+            "affilname": "Universit\u00e0 degli Studi di Pavia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015197",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Columbus",
+            "@id": "60015140",
+            "affilname": "The Ohio State University Wexner Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015140",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Houston",
+            "@id": "60015023",
+            "affilname": "The University of Texas MD Anderson Cancer Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015023",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60012981",
+            "affilname": "Icahn School of Medicine at Mount Sinai",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012981",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Dublin",
+            "@id": "60008643",
+            "affilname": "St Vincent's University Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008643",
+            "affiliation-country": "Ireland"
+        },
+        {
+            "affiliation-city": "Montreal",
+            "@id": "60006558",
+            "affilname": "Centre Universitaire de Sant\u00e9 McGill",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006558",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Rochester",
+            "@id": "60005558",
+            "affilname": "Mayo Clinic",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005558",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Santiago",
+            "@id": "60004577",
+            "affilname": "Hospital Cl\u00ednico San Borja Arriar\u00e1n",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004577",
+            "affiliation-country": "Chile"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Jacksonville",
+            "@id": "60002333",
+            "affilname": "Mayo Clinic in Jacksonville, Florida",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002333",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Amsterdam",
+            "@id": "60001157",
+            "affilname": "Amsterdam UMC - University of Amsterdam",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001157",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Southampton",
+            "@id": "60000703",
+            "affilname": "University Hospital Southampton NHS Foundation Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000703",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Brescia",
+            "@id": "126420096",
+            "affilname": "Palazzolo Sull'Oglio",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126420096",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Reno",
+            "@id": "126420068",
+            "affilname": "BA Wake Forest University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126420068",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Corrientes",
+            "@id": "112659725",
+            "affilname": "Hospital Escuela Gral. Jos\u00e9 Francisco de San Mart\u00edn",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112659725",
+            "affiliation-country": "Argentina"
+        },
+        {
+            "affiliation-city": "Brescia",
+            "@id": "110206130",
+            "affilname": "Fondazione Poliambulanza Istituto Ospedaliero",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/110206130",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Madrid",
+            "@id": "100342647",
+            "affilname": "Ministry of Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/100342647",
+            "affiliation-country": "Spain"
+        }
+    ],
+    "funding": []
+}

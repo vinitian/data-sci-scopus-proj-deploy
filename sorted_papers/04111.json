@@ -1,0 +1,99 @@
+{
+    "eid": "2-s2.0-85086310869",
+    "title": "Draft genome sequences of chlamydiales bacterium STE3 and neochlamydia sp. strain AcF84, endosymbionts of acanthamoeba spp",
+    "cover-date": "2020-05-14",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Immunology and Microbiology (miscellaneous)",
+            "@code": "2401",
+            "@abbrev": "IMMU"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Stephan K\u00f6stlbacher",
+        "Stefanie Michels",
+        "Alexander Siegl",
+        "Frederik Schulz",
+        "Daryl Domman",
+        "Somchai Jongwutiwes",
+        "Chaturong Putaporntip",
+        "Matthias Horn",
+        "Astrid Collingro"
+    ],
+    "citedby-count": 2,
+    "ref-count": 19,
+    "ref-list": [
+        "Chlamydiae as symbionts in eukaryotes",
+        "Twenty years of research into Chlamydia-like organisms: A revolution in our understanding of the biology and pathogenicity of members of the phylum Chlamydiae",
+        "Amoebal endosymbiont Neochlamydia genome sequence illuminates the bacterial role in the defense of the host amoebae against Legionella pneumophila",
+        "Parachlamydia acanthamoeba is endosymbiotic or lytic for Acanthamoeba polyphaga depending on the incubation temperature",
+        "Symbiont-mediated defense against Legionella pneumophila in amoebae",
+        "Unity in variety: The pan-genome of the Chlamydiae",
+        "Improved axenization method reveals complexity of symbiotic associations between bacteria and acanthamoebae",
+        "Axenic cultivation of large populations of Acanthamoeba castellanii (JBM)",
+        "A novel betaproteobacterial agent of gill epitheliocystis in seawater farmed Atlantic salmon (Salmo salar)",
+        "DNA recovery from soils of diverse composition",
+        "SPAdes: A new genome assembly algorithm and its applications to single-cell sequencing",
+        "CheckM: Assessing the quality of microbial genomes recovered from isolates, single cells, and metagenomes",
+        "ConsPred: A rule-based (re-)annotation framework for prokaryotic genomes",
+        "Draft genome sequence of high-temperature-adapted Protochlamydia sp. HST3, an amoebal endosymbiotic bacterium found in Acanthamoeba isolated from a hot spring in Japan",
+        "High-temperature adapted primitive Protochlamydia found in Acanthamoeba isolated from a hot spring can grow in immortalized human epithelial HEp-2 cells",
+        "Environmental metagenomic assemblies reveal seven new highly divergent chlamydial lineages and hallmarks of a conserved intracellular lifestyle",
+        "OrthoFinder: Solving fundamental biases in whole genome comparisons dramatically improves orthogroup inference accuracy",
+        "Massive expansion of ubiquitination-related gene families within the Chlamydiae"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Vienna",
+            "@id": "60025988",
+            "affilname": "Universit\u00e4t Wien",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025988",
+            "affiliation-country": "Austria"
+        },
+        {
+            "affiliation-city": "Albuquerque",
+            "@id": "60022693",
+            "affilname": "UNM Health Sciences Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022693",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Berkeley",
+            "@id": "60014567",
+            "affilname": "U.S. Department of Energy Joint Genome Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014567",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Oy-Mittelberg",
+            "@id": "122578804",
+            "affilname": "optiferm GmbH",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/122578804",
+            "affiliation-country": "Germany"
+        }
+    ],
+    "funding": [
+        "FWF"
+    ]
+}

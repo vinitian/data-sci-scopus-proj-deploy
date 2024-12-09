@@ -1,0 +1,65 @@
+{
+    "eid": "2-s2.0-85084995733",
+    "title": "Design of a Low Power Processor for Embedded System Applications",
+    "cover-date": "2020-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Clock Gating",
+        "Low power processor",
+        "MIPS microarchitecture",
+        "RV32E"
+    ],
+    "authors": [
+        "Kan Pinyotrakool",
+        "Boonchuay Supmonchai"
+    ],
+    "citedby-count": 2,
+    "ref-count": 11,
+    "ref-list": [
+        "Slow and steady wins the race? A comparison of ultra-low-power risc-v cores for internet-of-things applications",
+        "A system-on-chip platform for the internet of things featuring a 32-bit risc-v based microcontroller",
+        "Single cycle risc-v micro architecture processor and its FPGA prototype",
+        "FPGA implementation of 32-bit risc-v processor with web-based assembler-disassembler",
+        "Ultra-low-power processor design",
+        "The risc-v instruction set manual, volume i: User-level isa, document version 2.2"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

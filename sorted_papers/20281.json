@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85062236418",
+    "title": "An input capacitor-less boost converter with variation-tolerant MPPT circuit for thermal energy harvesting",
+    "cover-date": "2019-01-18",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Boost converter",
+        "Energy harvesting",
+        "Maximum power point (MPP)",
+        "Process variation",
+        "Tolerance"
+    ],
+    "authors": [
+        "Jaggarin Pamod",
+        "Suree Pumrin",
+        "Boonchuay Supmonchai"
+    ],
+    "citedby-count": 0,
+    "ref-count": 9,
+    "ref-list": [
+        "A battery-less thermoelectric energy harvesting interface circuit with 35 MV startup voltage",
+        "An efficient zero current switching control for L-based DC-DC converters in TEG applications",
+        "A DC-DC boost converter with variation-tolerant MPPT technique and efficient ZCS circuit for thermoelectric energy harvesting applications",
+        "A 10 mV-input boost converter with inductor peak current control and zero detection for thermoelectric and solar energy harvesting with 220 mV cold-start and -14.5 dBm, 915 MHz RF kick-start",
+        "A fractional open circuit voltage based maximum power point tracker for photovoltaic arrays",
+        "A thermal energy harvesting power supply with an internal startup circuit for pacemakers",
+        "1.2-V supply, 100-nW, 1.09-V bandgap and 0.7-V supply, 52.5-nW, 0.55-V subbandgap reference circuits for nanowatt CMOS LSIs",
+        "A 20 mV input boost converter with efficient digital control for thermoelectric energy harvesting"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Starmed",
+        "Department of Electrical Engineering, Chulalongkorn University"
+    ]
+}

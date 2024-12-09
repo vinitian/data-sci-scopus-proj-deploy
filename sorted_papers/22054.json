@@ -1,0 +1,86 @@
+{
+    "eid": "2-s2.0-85127696700",
+    "title": "Unsupervised Mining of HLA-I Peptidomes Reveals New Binding Motifs and Potential False Positives in the Community Database",
+    "cover-date": "2022-03-21",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Immunology and Allergy",
+            "@code": "2723",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Immunology",
+            "@code": "2403",
+            "@abbrev": "IMMU"
+        }
+    ],
+    "keywords": [
+        "De novo peptide sequencing",
+        "HLA binding motifs",
+        "HLA class I",
+        "HLA peptidomics",
+        "IEDB"
+    ],
+    "authors": [
+        "Chatchapon Sricharoensuk",
+        "Tanupat Boonchalermvichien",
+        "Phijitra Muanwien",
+        "Poorichaya Somparn",
+        "Trairak Pisitkun",
+        "Sira Sriswasdi"
+    ],
+    "citedby-count": 4,
+    "ref-count": 35,
+    "ref-list": [
+        "More Than One Reason to Rethink the Use of Peptides in Vaccine Design",
+        "Cancer Immunotherapy Comes of Age",
+        "The Immune Epitope Database and Analysis Resource in Epitope Discovery and Synthetic Vaccine Design",
+        "Mass Spectrometric Analysis of the HLA Class I Peptidome of Melanoma Cell Lines as a Promising Tool for the Identification of Putative Tumor-Associated HLA Epitopes",
+        "Immunotherapy: Cancer Vaccines on the Move",
+        "Personalized Vaccines for Cancer Immunotherapy",
+        "Naturally-Occurring Peptide Antigens Derived From the MHC Class-I-Restricted Processing Pathway",
+        "A Large Peptidome Dataset Improves HLA Class I Epitope Prediction Across Most of the Human Population",
+        "Prominent Role of Secondary Anchor Residues in Peptide Binding to HLA-A2.1 Molecules",
+        "Deciphering HLA-I Motifs Across HLA Peptidomes Improves Neo-Antigen Predictions and Identifies Allostery Regulating HLA Specificity",
+        "The Length Distribution and Multiple Specificity of Naturally Presented HLA-I Ligands",
+        "Unsupervised HLA Peptidome Deconvolution Improves Ligand Prediction Accuracy and Predicts Cooperative Effects in Peptide-HLA Interactions",
+        "HLA-DR3 Molecules Can Bind Peptides Carrying Two Alternative Specific Submotifs",
+        "Mhc Motif Viewer",
+        "The Immune Epitope Database (Iedb) 3.0",
+        "Examining the Independent Binding Assumption for Binding of Peptide Epitopes to MHC-I Molecules",
+        "Mass Spectrometry Profiling of HLA-Associated Peptidomes in Mono-Allelic Cells Enables More Accurate Epitope Prediction",
+        "Robust Prediction of HLA Class II Epitopes by Deep Motif Deconvolution of Immunopeptidomes",
+        "Interferences and Contaminants Encountered in Modern Mass Spectrometry",
+        "Pitfalls in HLA Ligandomics-How to Catch a Li(E)Gand",
+        "Discrimination Between Human Leukocyte Antigen Class I-Bound and Co-Purified HIV-Derived Peptides in Immunopeptidomics Workflows",
+        "Uncovering Thousands of New Peptides With Sequence-Mask-Search Hybrid",
+        "The Length Distribution of Class I-Restricted T Cell Epitopes Is Determined by Both Peptide Supply and MHC Allele-Specific Binding Preference",
+        "Gibbscluster: Unsupervised Clustering and Alignment of Peptide Sequences",
+        "Netmhcpan-4.1 and Netmhciipan-4.0: Improved Predictions of MHC Antigen Presentation by Concurrent Motif Deconvolution and Integration of MS MHC Eluted Ligand Data",
+        "PEAKS DB: De Novo Sequencing Assisted Database Search for Sensitive and Accurate Peptide Identification",
+        "PEAKS: Powerful Software for Peptide De Novo Sequencing by Tandem Mass Spectrometry",
+        "Nnalign_MA; MHC Peptidome Deconvolution for Accurate MHC Binding Motif Characterization and Improved T-Cell Epitope Predictions",
+        "Combining Results of Multiple Search Engines in Proteomics",
+        "Integrated Proteomic Pipeline Using Multiple Search Engines for a Proteogenomic Study With a Controlled Protein False Discovery Rate",
+        "Mass Spectrometry-Based Identification of MHC-Bound Peptides for Immunopeptidomics",
+        "A Cross-Platform Toolkit for Mass Spectrometry and Proteomics",
+        "Uniprot: A Worldwide Hub of Protein Knowledge",
+        "Reference Sequence (Refseq) Database at NCBI: Current Status, Taxonomic Expansion, and Functional Annotation",
+        "Logomaker: Beautiful Sequence Logos in Python"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60002620",
+        "affilname": "Faculty of Medicine, Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Program Management Unit for Competitiveness",
+        "Thailand Research Fund for Career Development",
+        "Chulalongkorn University",
+        "Thailand Research Fund"
+    ]
+}

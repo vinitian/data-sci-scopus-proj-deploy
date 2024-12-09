@@ -1,0 +1,66 @@
+{
+    "eid": "2-s2.0-85142769977",
+    "title": "Validation of RapidPlan knowledge-based model for volumetric-modulated arc therapy in prostate cancer",
+    "cover-date": "2022-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biophysics",
+            "@code": "1304",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Knowledge-based planning",
+        "prostate cancer",
+        "RapidPlan Model",
+        "treatment planning",
+        "volumetric-modulated arc therapy"
+    ],
+    "authors": [
+        "Isra Ayuthaya",
+        "Sivalee Suriyapee",
+        "Taweap Sanghangthum"
+    ],
+    "citedby-count": 0,
+    "ref-count": 14,
+    "ref-list": [
+        "Intensity-modulated radiation therapy: Supportive data for prostate cancer",
+        "Variation in external beam treatment plan quality: An inter-institutional study of planners and planning systems",
+        "Knowledge-based IMRT treatment planning for prostate cancer",
+        "Intercenter validation of a knowledge based model for automated planning of volumetric modulated arc therapy for prostate cancer. The experience of the German RapidPlan Consortium",
+        "Effect of dosimetric outliers on the performance of a commercial knowledge-based planning solution",
+        "On the pre-clinical validation of a commercial model-based optimisation engine: Application to volumetric modulated arc therapy for patients with lung or prostate cancer",
+        "Clinical validation and benchmarking of knowledge-based IMRT and VMAT treatment planning in pelvic anatomy",
+        "Applying a RapidPlan model trained on a technique and orientation to another: A feasibility and dosimetric evaluation",
+        "Use of normal tissue complication probability models in the clinic",
+        "Conformity index: A review",
+        "Volume-effect and radiotherapy [II]. Part II: Volume-effect and normal tissue",
+        "Single dose radiosurgical treatment of recurrent previously irradiated primary brain tumors and brain metastases: Final report of RTOG protocol 90-05",
+        "Homogeneity Index: An objective tool for assessment of conformal radiation treatments",
+        "Dosimetric comparison of RapidPlan and manually optimized plans in volumetric modulated arc therapy for prostate cancer"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

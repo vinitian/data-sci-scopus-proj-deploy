@@ -1,0 +1,97 @@
+{
+    "eid": "2-s2.0-85149441486",
+    "title": "Mitigating Spurious Correlation in Natural Language Understanding with Counterfactual Inference",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Can Udomcharoenchaikit",
+        "Wuttikorn Ponwitayarat",
+        "Patomporn Payoungkhamdee",
+        "Kanruethai Masuk",
+        "Weerayut Buaphet",
+        "Ekapol Chuangsuwanich",
+        "Sarana Nutanong"
+    ],
+    "citedby-count": 0,
+    "ref-count": 35,
+    "ref-list": [
+        "Don't take the easy way out: Ensemble based methods for avoiding known dataset biases",
+        "BERT: Pre-training of deep bidirectional transformers for language understanding",
+        "Deep dominance - how to properly compare deep neural models",
+        "Towards interpreting and mitigating shortcut learning behavior of NLU models",
+        "Causal analysis of syntactic agreement mechanisms in neural language models",
+        "AllenNLP: A deep semantic natural language processing platform",
+        "End-to-end self-debiasing framework for robust NLU training",
+        "Annotation artifacts in natural language inference data",
+        "Training products of experts by minimizing contrastive divergence",
+        "End-to-end bias mitigation by modelling biases in corpora",
+        "Adversarial filters of dataset biases",
+        "Focal loss for dense object detection",
+        "Decoupled weight decay regularization",
+        "Right for the wrong reasons: Diagnosing syntactic heuristics in natural language inference",
+        "Uncovering main causalities for long-tailed information extraction",
+        "Counterfactual vqa: A cause-effect look at language bias",
+        "Introspective distillation for robust question answering",
+        "Direct and indirect effects",
+        "Scikit-learn: Machine learning in Python",
+        "Counterfactual inference for text classification debiasing",
+        "Identifiability and exchangeability for direct and indirect effects",
+        "Winogrande: An adversarial winograd schema challenge at scale",
+        "Learning from others' mistakes: Avoiding dataset biases without modeling them",
+        "Towards debiasing fact verification models",
+        "Tackling the story ending biases in the story cloze test",
+        "FEVER: a large-scale dataset for fact extraction and VERification",
+        "Mind the trade-off: Debiasing NLU models without degrading the in-distribution performance",
+        "Towards debiasing NLU models from unknown biases",
+        "Investigating gender bias in language models using causal mediation analysis",
+        "Clicks can be cheating: Counterfactual recommendation for mitigating clickbait issue",
+        "Model-agnostic counterfactual reasoning for eliminating popularity bias in recommender system",
+        "A broad-coverage challenge corpus for sentence understanding through inference",
+        "Transformers: State-of-the-art natural language processing",
+        "PAWS: Paraphrase adversaries from word scrambling"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "129267073",
+            "affilname": "VISAI AI",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129267073",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "116353786",
+            "affilname": "VISTEC",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/116353786",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,101 @@
+{
+    "eid": "2-s2.0-85151954105",
+    "title": "Attitude Fault-Tolerant Control of Aerial Robots with Sensor Faults and Disturbances",
+    "cover-date": "2023-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Aerospace Engineering",
+            "@code": "2202",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "fault diagnosis",
+        "fault tolerant control",
+        "sensor fault",
+        "sliding mode control"
+    ],
+    "authors": [
+        "Ngoc P. Nguyen",
+        "Phongsaen Pitakwatchara"
+    ],
+    "citedby-count": 0,
+    "ref-count": 40,
+    "ref-list": [
+        "A hybrid robust adaptive control for a quadrotor UAV via mass observer and robust controller",
+        "Parameter Adaptive Control for a Quadrotor with a Suspended Unknown Payload under External Disturbance",
+        "Development of entropy measure for selecting highly sensitive WPT band to identify defective components of an axial piston pump",
+        "Quadrotor UAV attitude stabilization using fuzzy robust control",
+        "Fuzzy Gain-Scheduling PID for UAV Position and Altitude Controllers",
+        "PSO Based Optimal Gain Scheduling Backstepping Flight Controller Design for a Transformable Quadrotor",
+        "Robust path tracking of a quadrotor using adaptive fuzzy terminal sliding mode control",
+        "Adaptive super-twisting non-singular terminal sliding mode control for tracking of quadrotor with bounded disturbances",
+        "Quadrotor stabilization under time and space constraints using implicit PID controller",
+        "Control of a quadrotor using a smart self-tuning fuzzy PID controller",
+        "Robust Fault Diagnosis for quadrotor uavs using Adaptive Thau observer",
+        "Systematic fault tolerant control based on adaptive Thau observer estimation for quadrotor UAVs",
+        "Fault Detection and Diagnosis for GTM UAV with dual Unscented Kalman Filter",
+        "Experimental test of a two-stage kalman filter for actuator fault detection and diagnosis of an unmanned quadrotor helicopter",
+        "Generalized fault recovery of an under-actuated quadrotor aerial vehicle",
+        "A Neural Adaptive Approach for Active Fault-Tolerant Control Design in UAV",
+        "IMU sensor fault diagnosis and estimation for quadrotor UAVs",
+        "Actuator and sensor fault detection and fault diagnosis for unmanned quadrotor helicopters",
+        "Sensor fault detection and isolation in quadrotor vehicle using nonlinear identity observer approach",
+        "Sensor Fault Diagnosis for Unmanned Quadrotor Helicopter via Adaptive Two-Stage Extended Kalman Filter",
+        "Robust sensor fault diagnosis and tracking controller for a UAV modelled as LPV system",
+        "Fault Tolerant Control of Drone Interceptors Using Command Filtered Backstepping and Fault Weighting Dynamic Control Allocation",
+        "Event-triggered adaptive fault tolerant control for a class of uncertain nonlinear systems",
+        "A dual adaptive fault-tolerant control for a quadrotor helicopter against actuator faults and model uncertainties without overestimation",
+        "An Adaptive Fault-Tolerant Sliding Mode Control Allocation Scheme for Multirotor Helicopter Subject to Simultaneous Actuator Faults",
+        "Sliding Mode Fault Tolerant Control for a Quadrotor with Varying Load and Actuator Fault",
+        "Sliding Mode Disturbance Observer-Based Adaptive Dynamic Inversion Fault-Tolerant Control for Fixed-Wing UAV",
+        "A multi-observer switching strategy for fault-tolerant control of a quadrotor helicopter",
+        "Active Fault-Tolerant Control for a Quadrotor with Sensor Faults",
+        "Adaptive observer-based fast fault estimation",
+        "Finite-time formation tracking control with collision avoidance for quadrotor UAVs",
+        "Sliding Mode Fault Tolerant Control for Unmanned Aerial Vehicle with Sensor and Actuator Faults",
+        "Sensor fault\u2013tolerant control of a quadrotor unmanned aerial vehicle",
+        "Active Fault-Tolerant Control for Quadrotor UAV against Sensor Fault Diagnosed by the Auto Sequential Random Forest",
+        "Robust sensor faults estimation with H-infinity performance for Lipschitz uncertain nonlinear systems",
+        "Robust sensor fault estimation and fault-tolerant control for uncertain Lipschitz nonlinear systems",
+        "Performance enhanced model reference adaptive control through switching nonquadratic Lyapunov functions",
+        "Model reference adaptive control with L1+\u03b1tracking",
+        "Nonsingular fast terminal sliding mode control for nonlinear dynamical systems"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Second Century Fund",
+        "Chulalongkorn University"
+    ]
+}

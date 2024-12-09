@@ -1,0 +1,76 @@
+{
+    "eid": "2-s2.0-85066075477",
+    "title": "Estimating PM2.5 concentrations with statistical distribution techniques for health risk assessment in Bangkok",
+    "cover-date": "2020-08-08",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Ecological Modeling",
+            "@code": "2302",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Pollution",
+            "@code": "2310",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Health, Toxicology and Mutagenesis",
+            "@code": "2307",
+            "@abbrev": "ENVI"
+        }
+    ],
+    "keywords": [
+        "GIS-based map",
+        "health risk assessment",
+        "multiple linear regression",
+        "PM2.5"
+    ],
+    "authors": [
+        "Tin Thongthammachart",
+        "Wanida Jinsart"
+    ],
+    "citedby-count": 10,
+    "ref-count": 21,
+    "ref-list": [
+        "Multiple linear regression (MLR) models for long term PM10concentration forecasting during different monsoon seasons",
+        "Evaluation on environmental impact from the utilization of fossil fuel, electricity and biomass producer gas in the double-chambered crematories",
+        "Comparison of six GIS-based spatial interpolation methods for estimating air temperature in western Saudi Arabia",
+        "Decreasing trends of suspended particulate matter and PM2.5concentrations in Tokyo, 1990\u20132010",
+        "Application of the air pollution model (TAPM) to the urban airshed of Bangkok, Thailand",
+        "The research of PM2.5 concentrations model based on regression calculation model",
+        "A GIS model for PM10exposure from biomass burning in the north of Thailand",
+        "Regression and multivariate models for predicting particulate matter concentration level",
+        "Assessment with satellite data of the urban heat island effects in Asian mega cities",
+        "Impacts of some meteorological parameters on SO2and TSP concentrations in Erzurum, Turkey",
+        "Comparison between multiple linear regression and feed forward back propagation neural network models for predicting PM10concentration level based on gaseous and meteorological parameters",
+        "Performance of multiple linear regression model for long-term PM10concentration prediction based on gaseous and meteorological parameters",
+        "Evaluation of a multiple regression model for the forecasting of the concentrations of NOxand PM10in Athens and Helsinki",
+        "Source apportionment and potential source locations of PM2.5and PM2.5\u201310at residential sites in metropolitan Bangkok",
+        "Emission characteristics of harmful air pollutants from cremators in Beijing, China"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60091516",
+            "affilname": "Center of Excellence on Hazardous Substance Management",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091516",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "National Center of Excellence for Environmental and Hazardous Waste Management",
+        "Pollution Control Department, Thailand, and Bangkok Metropolitan Administration",
+        "Chulalongkorn University",
+        "National Research Council of Thailand"
+    ]
+}

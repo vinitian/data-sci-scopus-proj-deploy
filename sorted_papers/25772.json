@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85050741219",
+    "title": "An on-site measurement coupled CFD based approach for wind resource assessment over complex terrains",
+    "cover-date": "2018-07-10",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "complex terrain",
+        "Computational fluid dynamics (CFD)",
+        "on-site measurement validation",
+        "wind energy",
+        "wind resource assessment"
+    ],
+    "authors": [
+        "Xiao Yu Tang",
+        "Bernhard Stoevesandt",
+        "Bo Fan",
+        "Siliang Li",
+        "Qinmin Yang",
+        "Thavatchai Tayjasanant",
+        "Youxian Sun"
+    ],
+    "citedby-count": 4,
+    "ref-count": 17,
+    "ref-list": [
+        "A comprehensive review of wind resource assessment",
+        "Combining the vas 3d interpolation method and wind atlas methodology to produce a high-resolution wind resource map for the Czech Republic",
+        "On the theory of sodar measurement techniques",
+        "Conically scanning lidar error in complex terrain",
+        "Computational modelling for wind energy assessment",
+        "Linear and nonlinear models in wind resource assessment and wind turbine micro-siting in complex terrain",
+        "Observations of boundary-layer windtunnel flow over isolated ridges of varying steepness and roughness",
+        "Measuring turbine inflow with vertically-profiling lidar in complex terrain",
+        "Evaluation of four numerical wind flow models for wind resource mapping",
+        "Coupled on-site measurement/cfd based approach for high-resolution wind resource assessment over complex terrains",
+        "Modelling the swedish wind power production using merra reanalysis data",
+        "A review of wind speed probability distributions used in wind energy analysis: Case studies in the canary islands"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Hangzhou",
+            "@id": "60117978",
+            "affilname": "State Key Laboratory of Industrial Control Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60117978",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Bremerhaven",
+            "@id": "60109827",
+            "affilname": "Fraunhofer-Institut f\u00fcr Windenergiesysteme IWES",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60109827",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Wuhan",
+            "@id": "114289868",
+            "affilname": "WindMagics Energy Co. Ltd.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/114289868",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": [
+        "National Natural Science Foundation of China"
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "eid": "2-s2.0-85140486283",
+    "title": "Machine Learning Based Design of Railway Prestressed Concrete Sleepers",
+    "cover-date": "2022-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Process Chemistry and Technology",
+            "@code": "1508",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Fluid Flow and Transfer Processes",
+            "@code": "1507",
+            "@abbrev": "CENG"
+        }
+    ],
+    "keywords": [
+        "design",
+        "machine learning",
+        "prestressed concrete sleepers",
+        "railway construction"
+    ],
+    "authors": [
+        "Sakdirat Kaewunruen",
+        "Jessada Sresakoolchai",
+        "Junhui Huang",
+        "Yingyu Zhu",
+        "Chayut Ngamkhanong",
+        "Alex M. Remennikov"
+    ],
+    "citedby-count": 3,
+    "ref-count": 41,
+    "ref-list": [
+        "Smart railway sleepers\u2014A review of recent developments, challenges, and future prospects",
+        "Numerical studies to evaluate crack propagation behaviour of prestressed concrete railway sleepers",
+        "Research and application of intelligent computation in civil engineering",
+        "Machine learning: Trends, perspectives, and prospects",
+        "Prediction Model for Elongation of Tension Leveling Based on Machine Learning Algorithm and Numerical Analysis",
+        "Structural safety of railway prestressed concrete sleepers",
+        "Introducing a new limit states design concept to railway concrete sleepers: An Australian experience",
+        "Fatigue life assessment method for prestressed concrete sleepers",
+        "Research and prospect of surface deformation prediction of shield tunneling based on machine learning",
+        "A review of the methods of regional landslide hazard assessment based on machine learning",
+        "Regression techniques in machine learning &applications: A review",
+        "Joint Shear Strength Prediction of Beam-Column Connections using Machine Learning via Experimental Results",
+        "Machine learning and deep learning applications-a vision",
+        "Deep learning applications and challenges in big data analytics",
+        "ImageNet classification with deep convolutional neural networks",
+        "Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups",
+        "Hybrid prediction method for wind speed combining ensemble empirical mode decomposition and Bayesian ridge regression",
+        "Data-driven machine learning approach to integrate field submittals in project scheduling",
+        "Random forests for classification in ecology",
+        "Using \u201crandom forest\u201d for classification and regression",
+        "Feasibility of random-forest approach for prediction of ground settlements induced by the construction of a shield-driven tunnel",
+        "A review of Industry 4.0 and additive manufacturing synergy",
+        "Research and application of machine learning for additive manufacturing",
+        "Relative density prediction of additively manufactured Inconel 718: A study on genetic algorithm optimized neural network models",
+        "Composite slabs for railway construction and maintenance: A mechanistic review",
+        "MatLab vs. Python vs. R",
+        "Machine learning and deep learning",
+        "A Bayesian ridge regression analysis of congestion\u2019s impact on urban expressway safety",
+        "Random Forests",
+        "Performance Prediction of Asphalt Pavement Based on Random Forest",
+        "Understanding the 3 Most Common Loss Functions for Machine Learning Regression",
+        "A survey of forecast error measures",
+        "Data-driven approximation algorithms for rapid performance evaluation and optimization of civil structures",
+        "Some misconceptions about r2. International Society of Six Sigma Professionals",
+        "Applying various algorithms for species distribution modelling"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Birmingham",
+            "@id": "60019702",
+            "affilname": "University of Birmingham",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019702",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Wollongong",
+            "@id": "60011664",
+            "affilname": "University of Wollongong",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011664",
+            "affiliation-country": "Australia"
+        }
+    ],
+    "funding": [
+        "H2020-RISE",
+        "European Commission"
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "eid": "2-s2.0-85136933639",
+    "title": "RAPID, CAPILARY-DRIVEN IMMUNOASSAY FOR SARS-CoV-2 DETECTION",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Bioengineering",
+            "@code": "1502",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Chemical Engineering (miscellaneous)",
+            "@code": "1501",
+            "@abbrev": "CENG"
+        }
+    ],
+    "keywords": [
+        "COVID-19",
+        "ELISA",
+        "Lateral-Flow-Assay",
+        "Microfluidic",
+        "Paper-Based",
+        "SARS-CoV-2"
+    ],
+    "authors": [
+        "Jeremey S. Link",
+        "Cody S. Carrell",
+        "Zachary D. Call",
+        "Elijah J.O. Barstis",
+        "Ilhoon Jang",
+        "James Terry",
+        "Loran Anderson",
+        "Yosita Panraksa",
+        "Brian Geiss",
+        "David Dandy",
+        "Chuck Henry"
+    ],
+    "citedby-count": 0,
+    "ref-count": 3,
+    "ref-list": [
+        "Virology, transmission, and pathogenesis of SARS-CoV-2",
+        "Rapid, point\u2010of\u2010care antigen and molecular\u2010based tests for diagnosis of SARS\u2010CoV\u20102 infection"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "50 Grand Junction",
+            "@id": "127156503",
+            "affilname": "Colorado State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/127156503",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Seoul",
+            "@id": "60024872",
+            "affilname": "Hanyang University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024872",
+            "affiliation-country": "South Korea"
+        }
+    ],
+    "funding": [
+        "State of Colorado Department of Health and Environment",
+        "NSF",
+        "NIH"
+    ]
+}

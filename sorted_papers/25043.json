@@ -1,0 +1,89 @@
+{
+    "eid": "2-s2.0-85147684406",
+    "title": "Simulative Investigations of Crowd Evacuation by Incorporating Reinforcement Learning Scheme",
+    "cover-date": "2022-09-16",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Crowd Evacuation",
+        "Evacuation Leader",
+        "Reinforcement Learning",
+        "Social Force Model"
+    ],
+    "authors": [
+        "Nitinun Sinpan",
+        "Pruk Sasithong",
+        "Sushank Chaudhary",
+        "Suvit Poomrittigul",
+        "Natt Leelawat",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 0,
+    "ref-count": 17,
+    "ref-list": [
+        "Simulating dynamical features of escape panic",
+        "Social force model for pedestrian dynamics",
+        "Study on the social force model of personnel evacuation in large stadiums",
+        "Guided crowd dynamics via modified social force model",
+        "Necessity of guides in pedestrian emergency evacuation",
+        "Optimization of crowd evacuation with leaders in urban rail transit stations",
+        "Modeling and simulation of crowd evacuation with signs at subway platform: A case study of Beijing subway stations",
+        "Reinforcement learning model, algorithms and its application",
+        "Crowd evacuation simulation using hierarchical deep reinforcement learning",
+        "Improved multi-agent reinforcement learning for path planning-based crowd simulation",
+        "Improved multi-agent deep deterministic policy gradient for path planning-based crowd simulation",
+        "Explaining human behavior in dynamic tasks through reinforcement learning",
+        "Reinforcement Learning Based Offloading Framework for Computation Service in the Edge Cloud and Core Cloud",
+        "Tsunami evacuation experiment using a mobile application: A design science approach"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "129164901",
+            "affilname": "Wireless Communication Ecosystem Research Unit",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129164901",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Wangmai District, Bangkok",
+            "@id": "126215741",
+            "affilname": "Pathumwan Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126215741",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "TSRI Fund"
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "eid": "2-s2.0-85135033422",
+    "title": "Voice Impersonation for Thai Speech Using CycleGAN over Prosody",
+    "cover-date": "2022-04-28",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Generative adversarial network",
+        "Prosody transformation",
+        "Voice conversion",
+        "Voice impersonation"
+    ],
+    "authors": [
+        "Chatri Chuangulueam",
+        "Boonserm Kijsirikul",
+        "Nuttakorn Thubthong"
+    ],
+    "citedby-count": 0,
+    "ref-count": 32,
+    "ref-list": [
+        "Voice conversion",
+        "Phoneme-Discriminative Features for Dysarthric Speech Conversion",
+        "Applying Voice Conversion to Concatenative Singing-Voice Synthesis",
+        "Foreign accent conversion in computer assisted pronunciation training",
+        "Can we steal your vocal identity from the Internet?: Initial investigation of cloning Obama's voice using GAN, WaveNet and low-quality found data",
+        "Tone recognition of continuous Thai speech under tonal assimilation and declination effects using half-tone model",
+        "Voice conversion based on maximumlikelihood estimation of spectral parameter trajectory",
+        "Bidirectional Voice Conversion Based on Joint Training Using Gaussian-Gaussian Deep Relational Model",
+        "Sequence-to-Sequence Voice Conversion with Similarity Metric Learned Using Generative Adversarial Networks",
+        "INCA Algorithm for Training Voice Conversion Systems From Nonparallel Corpora",
+        "Phonetic posteriorgrams for manyto-one voice conversion without parallel data training",
+        "Average Modeling Approach to Voice Conversion with Non-Parallel Data",
+        "The NU Non-Parallel Voice Conversion System for the Voice Conversion Challenge 2018",
+        "Interactions in processing segmental and suprasegmental features of speech",
+        "A mixed excitation LPC vocoder model for low bit rate speech coding",
+        "An overview of voice conversion systems",
+        "WORLD: a vocoder-based high-quality speech synthesis system for real-time applications",
+        "Using dynamic time warping to compute prosodic similarity measures"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

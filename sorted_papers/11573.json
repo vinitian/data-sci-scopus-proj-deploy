@@ -1,0 +1,89 @@
+{
+    "eid": "2-s2.0-85111556005",
+    "title": "Granger Causality Inference in EEG Source Connectivity Analysis: A State-Space Approach",
+    "cover-date": "2022-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Brain connectivity",
+        "electroencephalogram (EEG)",
+        "Granger causality (GC)",
+        "group sparse structure",
+        "state-space models"
+    ],
+    "authors": [
+        "Parinthorn Manomaisaowapak",
+        "Anawat Nartkulpat",
+        "Jitkomut Songsiri"
+    ],
+    "citedby-count": 3,
+    "ref-count": 41,
+    "ref-list": [
+        "Electrophysiological brain connectivity: Theory and implementation",
+        "A review on exploring brain networks from fMRI data",
+        "Critical comments on EEG sensor space dynamical connectivity analysis",
+        "A critical assessment of connectivity measures for EEG data: A simulation study",
+        "Incorporating priors for EEG source imaging and connectivity analysis",
+        "Modeling effective connectivity in high-dimensional cortical source signals",
+        "EEGLAB, SIFT, NFT, BCILAB, and ERICA: New tools for advanced EEG processing",
+        "EEGLAB: An open source toolbox for analysis of single-trial EEG dynamics including independent component analysis",
+        "FieldTrip: Open source software for advanced analysis of MEG, EEG, and invasive electrophysiological data",
+        "Modeling sparse connectivity between underlying brain sources for EEG/MEG",
+        "Measuring directional coupling between EEG sources",
+        "A generalized multivariate autoregressive (GMAR)-based approach for EEG source connectivity analysis",
+        "SCoT: A Python toolbox for EEG source connectivity",
+        "A framework to assess the information dynamics of source EEG activity and its application to epileptic brain networks",
+        "Estimation of cortical connectivity from EEG using state-space models",
+        "A state-space model of cross-region dynamic connectivity in MEG/EEG",
+        "SISSY: An efficient and automatic algorithm for the analysis of EEG sources based on structured sparsity",
+        "Comparison analysis: Granger causality and new causality and their applications to motor imagery",
+        "Shortcomings/limitations of blockwise Granger causality and advances of blockwise new causality",
+        "Granger causality for state-space models",
+        "A simulation framework for benchmarking EEG-based brain connectivity estimation methodologies",
+        "State-space model estimation of EEG time series for classifying active brain sources",
+        "Group sparse optimization via lp,q regularization",
+        "Accelerated proximal gradient methods for nonconvex programming",
+        "A regularized matrix factorization approach to induce structured sparselow-rank solutions in the EEG inverse problem",
+        "Behaviour of Granger causality under filtering: Theoretical invariance and practical application",
+        "The New York head: A precise standardized volume conductor model for EEG source localization and tES targeting",
+        "The MVGC multivariate Granger causality toolbox: A new approach to Granger-causal inference",
+        "Brainstorm: A user-friendly application for MEG/EEG analysis",
+        "Noninvasive electromagnetic source imaging and Granger causality analysis: An electrophysiological connectome (eConnectome) approach",
+        "Quantifying the effect of demixing approaches on directed connectivity estimated between reconstructed EEG sources",
+        "The enhanced information flow from visual cortex to frontal area facilitates SSVEP response: Evidence from model-driven and datadriven causality analysis",
+        "Spatio temporal EEG source imaging with the hierarchical Bayesian elastic net and elitist lasso models",
+        "Nonlinear structural vector autoregressive models with application to directed brain networks"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

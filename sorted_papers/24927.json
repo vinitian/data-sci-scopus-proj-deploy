@@ -1,0 +1,92 @@
+{
+    "eid": "2-s2.0-85143165234",
+    "title": "Deep Learning Based Autonomous Real-Time Traffic Sign Recognition System for Advanced Driver Assistance",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Graphics and Computer-Aided Design",
+            "@code": "1704",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "data augmentation",
+        "preprocessing",
+        "template matching",
+        "Xception",
+        "YOLO"
+    ],
+    "authors": [
+        "Sithmini Gunasekara",
+        "Dilshan Gunarathna",
+        "Maheshi B. Dissanayake",
+        "Supavadee Aramith",
+        "Wazir Muhammad"
+    ],
+    "citedby-count": 0,
+    "ref-count": 34,
+    "ref-list": [
+        "Xception: Deep learning with depthwise separable convolutions",
+        "Image Super-Resolution Using Deep Convolutional Networks",
+        "The German Traffic Sign Recognition Benchmark: A multi-class classification competition",
+        "LeNet",
+        "Visualizing and understanding convolutional networks",
+        "Very deep convolutional networks for large-scale image recognition",
+        "Network in network",
+        "Going deeper with convolutions",
+        "Batch normalization: Accelerating deep network training by reducing internal covariate shift",
+        "Rethinking the Inception Architecture for Computer Vision",
+        "Inception-v4, inception-ResNet and the impact of residual connections on learning",
+        "L2MXception: an improved Xception network for classification of peach diseases",
+        "A survey on transfer learning",
+        "Pay Attention to Features, Transfer Learn Faster CNNs",
+        "Deep residual learning for image recognition",
+        "A study on CNN transfer learning for image classification",
+        "On hyperparameter optimization of machine learning algorithms: Theory and practice",
+        "An overview of popular digital image processing filtering operations",
+        "Data augmentation for improving deep learning in image classification problem",
+        "A survey on Image Data Augmentation for Deep Learning",
+        "You only look once: Unified, real-time object detection",
+        "YOLO9000: Better, faster, stronger",
+        "Rich feature hierarchies for accurate object detection and semantic segmentation",
+        "Microsoft COCO: Common objects in context",
+        "Multi-scale Xception based depthwise separable convolution for single image super-resolution"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Khuzdar",
+            "@id": "60264867",
+            "affilname": "Balochistan University of Engineering &amp; Technology, Khuzdar",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60264867",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Peradeniya",
+            "@id": "60071082",
+            "affilname": "University of Peradeniya",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071082",
+            "affiliation-country": "Sri Lanka"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

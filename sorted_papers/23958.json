@@ -1,0 +1,82 @@
+{
+    "eid": "2-s2.0-85074577385",
+    "title": "Genome sequence and phylogenetic analysis of a novel comovirus from tabasco pepper (Capsicum frutescens)",
+    "cover-date": "2019-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Virology",
+            "@code": "2406",
+            "@abbrev": "IMMU"
+        }
+    ],
+    "keywords": [
+        "Capsicum annuum",
+        "dsRNA",
+        "Next generation sequencing",
+        "Replicative intermediate dsRNA",
+        "Secoviridae"
+    ],
+    "authors": [
+        "Ricardo Iv\u00e1n Alcal\u00e1-Brise\u00f1o",
+        "Pongtharin Lotrakul",
+        "Rodrigo A. Valverde"
+    ],
+    "citedby-count": 0,
+    "ref-count": 16,
+    "ref-list": [
+        "Virus diseases of peppers (Capsicum spp.) and their control",
+        "ICTV Virus Taxonomy Profile: Secoviridae",
+        "Two complete genome sequences of Squash mosaic virus from 20-year-old cucurbit leaf samples from Australia",
+        "Comoviruses: Identification and diseases caused",
+        "A comovirus affecting tabasco pepper in Central America",
+        "Detection and differentiation of Comoviridae using a semi-nested RT-PCR and phylogenetic analysis based on the polymerase protein",
+        "SPAdes: A new genome assembly algorithm and its applications to single-cell sequencing",
+        "Virus surveys of Capsicum spp. in the Republic of Benin reveal the prevalence of pepper vein yellows virus and the identification of a previously uncharacterised polerovirus species",
+        "Occurrence of viruses in field-grown pepper crops and some of their reservoir weed hosts in Samsun, Turkey",
+        "Survey of viruses infecting open-field pepper crops in C\u00f4te d'Ivoire and diversity of Pepper veinal mottle virus and Cucumber mosaic virus",
+        "Effects of coinfections of Andean potato mottle comovirus with two potyviruses in seven Capsicum genotypes",
+        "The EMBL-EBI search and sequence analysis tools APIs in 2019",
+        "IQ-TREE: a fast 23 and effective stochastic algorithm for estimating maximum-likelihood 24 phylogenies",
+        "SDT: a virus classification tool based on pairwise sequence alignment and identity calculation",
+        "MAFFT: a novel method for rapid multiple sequence alignment based on fast Fourier transform"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Gainesville",
+            "@id": "60013959",
+            "affilname": "University of Florida",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013959",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Baton Rouge",
+            "@id": "60013610",
+            "affilname": "LSU Agricultural Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013610",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Louisiana State University"
+    ]
+}

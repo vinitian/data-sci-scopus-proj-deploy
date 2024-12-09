@@ -1,0 +1,99 @@
+{
+    "eid": "2-s2.0-85139344482",
+    "title": "Prediction of charge-discharge behavior and state of charge estimation for tri-electrode rechargeable zinc-air flow batteries",
+    "cover-date": "2022-11-30",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Battery management system",
+        "Extended Kalman filter",
+        "Flow battery",
+        "Linear parameter varying"
+    ],
+    "authors": [
+        "Woranunt Lao-atiman",
+        "Pornchai Bumroongsri",
+        "Amornchai Arpornwichanop",
+        "Sorin Olaru",
+        "Soorathep Kheawhom"
+    ],
+    "citedby-count": 3,
+    "ref-count": 32,
+    "ref-list": [
+        "Challenges and opportunities for the control of energy storage systems. A focus on the zinc-air batteries",
+        "Recent progress in electrolytes for Zn\u2013air batteries",
+        "Efficient iron-cobalt oxide bifunctional electrode catalyst in rechargeable high current density zinc-air battery",
+        "A durable rechargeable zinc-air battery via self-supported MnOx-S air electrode",
+        "Advanced rechargeable zinc-air battery with parameter optimization",
+        "Overcurrent abuse of primary prismatic zinc-air battery cells studying air supply effects on performance and safety shut-down",
+        "Zinc electrodeposition from flowing alkaline zincate solutions: role of hydrogen evolution reaction",
+        "Stabilizing zinc anodes for different configurations of rechargeable zinc-air batteries",
+        "A horizontal three-electrode structure for zinc-air batteries with long-term cycle life and high performance",
+        "A tri-electrode configuration for zinc-air batteries using gel polymer electrolytes",
+        "Battery management systems\u2014challenges and some solutions",
+        "Review on the battery model and SOC estimation method",
+        "Validation and benchmark methods for battery management system functionalities: state of charge estimation algorithms",
+        "A comparative study and validation of state estimation algorithms for Li-ion batteries in battery management systems",
+        "A review on battery modelling techniques",
+        "A critical look at coulomb counting approach for state of charge estimation in batteries",
+        "Model-based state of charge estimation algorithms under various current patterns",
+        "State estimation for advanced battery management: key challenges and future trends",
+        "Linear parameter-varying model for a refuellable zinc-air battery",
+        "Battery cell state-of-charge estimation using linear parameter varying system techniques",
+        "SOC estimation based on LPV-Kalman considering coulometric conversion",
+        "Comparative study of methods for integrated model identification and state of charge estimation of lithium-ion battery",
+        "Revisiting the dual extended Kalman filter for battery state-of-charge and state-of-health estimation: a use-case life cycle analysis",
+        "Battery state-of-charge estimation based on a dual unscented Kalman filter and fractional variable-order model",
+        "Recent advances in oxygen electrocatalysts based on tunable structural polymers",
+        "Benchmarking superfast electrodeposited bimetallic (Ni, Fe, Co, and Cu) hydroxides for oxygen evolution reaction",
+        "Influencing factors of performance degradation of zinc-air batteries exposed to air",
+        "Unscented filtering and nonlinear estimation",
+        "Discharge performance and dynamic behavior of refuellable zinc-air battery",
+        "Discharge profile of a zinc-air flow battery at various electrolyte flow rates and discharge currents"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60012718",
+            "affilname": "Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012718",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Gif-sur-Yvette",
+            "@id": "60007136",
+            "affilname": "Laboratoire des Signaux et Syst\u00e8mes",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007136",
+            "affiliation-country": "France"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn Academic Advancement",
+        "Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "eid": "2-s2.0-84958901802",
+    "title": "Stereoscopic Face Reconstruction from a Single 2-Dimensional Face Image Using Orthogonality of Normal Surface and Y-Ratio",
+    "cover-date": "2016-02-01",
+    "subject-areas": [
+        {
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707"
+        },
+        {
+            "$": "Software",
+            "@code": "1712"
+        },
+        {
+            "$": "Artificial Intelligence",
+            "@code": "1702"
+        }
+    ],
+    "keywords": [
+        "3-dimensional face reconstruction",
+        "Lambertian model",
+        "normal surface",
+        "pattern morphing",
+        "Shape from shading",
+        "Y-ratio"
+    ],
+    "authors": [
+        "Natchamol Srichumroenrattana"
+    ],
+    "citedby-count": 2,
+    "ref-count": 47,
+    "ref-list": [
+        "What is the range of surface reconstructions from a gradient field?",
+        null,
+        "Shape estimation using polarization and shading from two views",
+        "3D face model reconstruction from single 2D frontal image",
+        "A simple algorithm for shape from shading",
+        "Proc. IJCAI'85: The 9th Int. Joint Conf. Artificial Intelligence",
+        "Shape from shading using wavelets",
+        "Calculus of Variations",
+        "Surface Curvature and Shape Reconstruction from Unknown Multiple Illumination and Integrability",
+        "A Method for Enforcing Integrability in Shape from Shading Algorithms",
+        "Maximum likelihood estimation of depth maps using photometric stereo",
+        "Shape from Shading: A Method for Obtaining the Shape of a Smooth Opaque Object from One View",
+        "Height and gradient from shading",
+        "The variational approach to shape from shading",
+        "Depth from gradient fields and control points: Bias correction in photometric stereo",
+        "Numerical shape from shading and occluding boundaries",
+        "3-D reconstruction of shaded objects from multiple images under unknown illumination",
+        "Optimal algorithm for shape from shading and path planning",
+        "Improved methods of estimating shape from shading using the light source coordinate system",
+        "Proc. 9th WSEAS Int. Conf. Signal Processing, Robotics and Automation",
+        "Multi-level partition of unity implicits",
+        "Direct method for reconstructing shape from shading",
+        "Integrability disambiguates surface recovery in two-image photometric stereo",
+        "A 3D face model for pose and illumination invariant face recognition",
+        "Shape information from shading: A theory about human perception",
+        "Enforcing integrability for surface reconstruction algorithms using belief propagation in graphical models",
+        "Efficient belief propagation for vision using linear constraint nodes",
+        "Fortran Numerical Recipes",
+        "Shape-from-shading using the heat equation",
+        "Viscosity solutions approach to shape-from-shading",
+        "Fast Marching Methods",
+        "Height estimation from vector fields of surface normals",
+        "Recovering facial shape using a statistical model of surface normal direction",
+        "2D face image depth ordering using adaptive Hillcrest-Valley classification and Otsu",
+        "Depth estimation of face images based on the constrained ICA model",
+        "Shape-from-shading under perspective projection",
+        "Shape from shading using linear approximation",
+        "Shape from shading using probability functions and belief propagation",
+        "Shape from Shading",
+        "A line-integration based method for depth recovery from surface normals",
+        "Interactive normal reconstruction from a single image",
+        "Dense photometric stereo using a mirror sphere and graph cut",
+        "Shape from shading: A survey",
+        "Estimation of illuminant direction, albedo, and shape from shading",
+        "3D modeling of faces from near infrared images using statistical learning",
+        "Research on the stereoscopic image pairs with 3D Automatic architectural objects modeling techniques",
+        "Int. J. Adv. Comput. Technol."
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "affilname": "Chulalongkorn University",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

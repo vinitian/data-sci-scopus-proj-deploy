@@ -1,0 +1,74 @@
+{
+    "eid": "2-s2.0-85108694114",
+    "title": "Opinion mining for laptop reviews using na\u00efve bayes",
+    "cover-date": "2020-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biotechnology",
+            "@code": "1305",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Environmental Engineering",
+            "@code": "2305",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Agronomy and Crop Science",
+            "@code": "1102",
+            "@abbrev": "AGRI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Agricultural and Biological Sciences (miscellaneous)",
+            "@code": "1101",
+            "@abbrev": "AGRI"
+        }
+    ],
+    "keywords": [
+        "Laptop reviews",
+        "Na\u00efve Bayes",
+        "Opinion mining",
+        "Review analysis"
+    ],
+    "authors": [
+        "Pakawan Pugsee",
+        "Thanapat Chatchaithanawat"
+    ],
+    "citedby-count": 1,
+    "ref-count": 17,
+    "ref-list": [
+        "A framework for laptop review analysis",
+        "Thumbs up? Sentiment classification using machine learning techniques",
+        "Thumbs up or thumbs down? Semantic orientation applied to unsupervised classification of reviews",
+        "Intensified sentiment analysis of customer product reviews using acoustic and textual features",
+        "SentiWordNet 3.0: An enhanced lexical resource for sentiment analysis and opinion mining",
+        "Sentiment analysis in TripAdvisor",
+        "Opinion mining for skin care products on Twitter",
+        "Satisfactory analysis for cosmetic product review comments",
+        "Role of emoticons for multidimensional sentiment analysis of twitter"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "119943544",
+            "affilname": "Ltd.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/119943544",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Office of the Higher Education Commission",
+        "Thailand Research Fund"
+    ]
+}

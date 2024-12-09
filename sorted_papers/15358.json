@@ -1,0 +1,114 @@
+{
+    "eid": "2-s2.0-85070777695",
+    "title": "A fast tag identification anti-collision algorithm for RFID systems",
+    "cover-date": "2019-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "ALOHA",
+        "anti-collision",
+        "reader",
+        "RFID",
+        "tag",
+        "tree algorithm"
+    ],
+    "authors": [
+        "Sanika Krishnamali Wijayasekara",
+        "Suvit Nakpeerayuth",
+        "Robithoh Annur",
+        "Hung Yun Hsieh",
+        "Teerapat Sanguankotchakorn",
+        "Kumbesan Sandrasegaran",
+        "Warakorn Srichavengsup",
+        "Tharathorn Phromsa-ard",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 4,
+    "ref-count": 31,
+    "ref-list": [
+        "An introduction to RFID technology",
+        "Tree-based anti-collision protocols for RFID tags",
+        "RFID and contactless technology",
+        "A survey and tutorial of RFID anti-collision protocols",
+        "Taxonomy and survey of RFID anti-collision protocols",
+        "Energy efficient tag identification algorithms for RFID: survey, motivation and new design",
+        "Aloha packet system with and without slots and capture",
+        "Dynamic frame length ALOHA",
+        "A reduced complexity of Vahedi's tag estimation method for DFSA",
+        "An efficient RFID anticollision algorithm using early adjustment of frame length",
+        "Energy efficient tag estimation method for ALOHA-based RFID systems",
+        "A feasible and easy-to-implement anticollision algorithm for the EPCGLOBAL UHF class-1 generation-2 RFID protocol",
+        "A collision-tolerant-based anti-collision algorithm for large scale RFID system",
+        "An effective frame breaking policy for dynamic framed slotted ALOHA in RFID",
+        "Tree algorithms for packet broadcast channels",
+        "Generalized TDMA: the multi-accessing tree protocol",
+        "Q-ary collision resolution algorithms in random-access systems with free or blocked channel access",
+        "Collision-resolution algorithms and random-access communications",
+        "Anticollision protocols for single-reader RFID systems: Temporal analysis and optimization",
+        "Binary tree slotted ALOHA for passive RFID tag anticollision",
+        "Fast splitting-based tag identification algorithm for anti-collision in UHF RFID system",
+        "Improvement of anti-collision performance for the ISO 18000-6 type B RFID system"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Kajang",
+            "@id": "60090708",
+            "affilname": "Universiti Tunku Abdul Rahman",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60090708",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Sydney",
+            "@id": "60023932",
+            "affilname": "University of Technology Sydney",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023932",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Amphoe Khlong Luang",
+            "@id": "60010105",
+            "affilname": "Asian Institute of Technology Thailand",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010105",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Taipei",
+            "@id": "60005429",
+            "affilname": "National Taiwan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005429",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "119643476",
+            "affilname": "Thai-Nichi Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/119643476",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "90th Anniversary Chulalongkorn University Fund",
+        "Chulalongkorn University Fund for Doctoral Scholarship",
+        "Ratchdaphiseksomphot Endowment Fund",
+        "Graduate School of Chulalongkorn University"
+    ]
+}

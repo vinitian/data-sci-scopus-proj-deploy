@@ -1,0 +1,75 @@
+{
+    "eid": "2-s2.0-85146400785",
+    "title": "Over 90-km 400GBASE-LR8 Repeatered Transmission with Bismuth-doped Fibre Amplifiers",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Yuta Wakayama",
+        "Daniel J. Elson",
+        "Vitaly Mikhailov",
+        "Rachata Maneekut",
+        "Jiawei Luo",
+        "Noboru Yoshikane",
+        "Daryl Inniss",
+        "Takehiro Tsuritani"
+    ],
+    "citedby-count": 4,
+    "ref-count": 8,
+    "ref-list": [
+        "Amplified transmission beyond C-and L-bands: Bismuth doped fiber amplifier for O-band transmission",
+        "4-level alternate-mark-inversion for reach extension in the oband spectral region",
+        "400GBASE-LR4 transmission over field-deployed fibre link supported by bismuth-doped fibre amplifier",
+        "Ultra-broadband bismuth-doped fiber amplifier covering a 115-nm bandwidth in the O and E bands",
+        "Optical characterization of installed step-index profile standard cladding multi-core fiber with multiconnection"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Murray",
+            "@id": "60029886",
+            "affilname": "OFS Laboratories",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029886",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Fujimino",
+            "@id": "60025556",
+            "affilname": "KDDI Research, Inc.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025556",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

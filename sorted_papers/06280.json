@@ -1,0 +1,55 @@
+{
+    "eid": "2-s2.0-85100152053",
+    "title": "Thai Traffic Sign Classification and Recognition System Based on Histogram of Gradients, Color Layout Descriptor, and Normalized Correlation Coefficient",
+    "cover-date": "2020-10-21",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "driving assistance technology",
+        "traffic sign classification",
+        "traffic sign recognition"
+    ],
+    "authors": [
+        "Nattapol Namyang",
+        "Suphakant Phimoltares"
+    ],
+    "citedby-count": 5,
+    "ref-count": 14,
+    "ref-list": [
+        "Speed limit traffic sign detection and recognition based on support vector machines",
+        "Indonesian traffic sign detection and recognition using color and texture feature extraction and SVM classifier",
+        "A hybrid approach for detection and recognition of traffic text sign using mser and ocr",
+        "Traffic sign detection and recognition based on convolutional neural network",
+        "Traffic sign recognition by combining global and local features based on semi-supervised classification",
+        "Two-stage traffic sign detection and recognition based on SVM and convolutional neural networks",
+        "Thai traffic sign detection and recognition for driver assistance",
+        "Thai traffic sign detection and recognition using convolutional neural networks",
+        "Two step template matching method with correlation coefficient and genetic algorithm"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

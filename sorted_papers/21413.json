@@ -1,0 +1,95 @@
+{
+    "eid": "2-s2.0-85137741409",
+    "title": "Trace-Level Invisible Enhanced Network for 6D Pose Estimation",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Hanbo Sang",
+        "Zelin Ni",
+        "Huanyu He",
+        "Xuesong Gao",
+        "Qihao Sun",
+        "Lei Qu",
+        "Sihai Zhang",
+        "Wenwen Wang",
+        "Supavadee Aramvith",
+        "Weiyao Lin"
+    ],
+    "citedby-count": 0,
+    "ref-count": 27,
+    "ref-list": [
+        "Stereo-based 6d object localization for grasping with humanoid robot systems",
+        "Pose estimation for augmented reality: A hands-on survey",
+        "Key-point sequence lossless compression for intelligent video analysis",
+        "Are we ready for autonomous driving. The kitti vision benchmark suite",
+        "Multi-view 3d object detection network for autonomous driving",
+        "Ssd-6d: Making rgb-based 3d detection and 6d pose estimation great again",
+        "Pvnet: Pixel-wise voting network for 6dof pose estimation",
+        "Normalized object coordinate space for category-level 6d object pose and size estimation",
+        "Single-stage 6d object pose estimation",
+        "Gdr-net: Geometryguided direct regression network for monocular 6d object pose estimation",
+        "Deepim: Deep iterative matching for 6d pose estimation",
+        "Deep model-based 6d pose refinement in rgb",
+        "Densefusion: 6d object pose estimation by iterative dense fusion",
+        "Cosypose: Consistent multi-view multi-object 6d pose estimation",
+        "Bb8: A scalable, accurate, robust to partial occlusion method for predicting the 3d poses of challenging objects without using depth",
+        "Hybridpose: 6d object pose estimation under hybrid representations",
+        "Epnp: An accurate o (n) solution to the pnp problem",
+        "Dpod: 6d pose object detector and refiner",
+        "Cdpn: Coordinates-based disentangled pose network for real-time rgb-based 6-dof object pose estimation",
+        "Pix2pose: Pixel-wise coordinate regression of objects for 6d pose estimation",
+        "Generative adversarial nets",
+        "Dsacdifferentiable ransac for camera localization",
+        "Neural-guided ransac: Learning where to sample model hypotheses",
+        "Pointnet: Deep learning on point sets for 3d classification and segmentation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Shanghai",
+            "@id": "60025084",
+            "affilname": "Shanghai Jiao Tong University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025084",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "128561493",
+            "affilname": "Hisense Group Holdings",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/128561493",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Guangzhou",
+            "@id": "126155473",
+            "affilname": "Ltd",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126155473",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": [
+        "NSRF",
+        "National Natural Science Foundation of China",
+        "National Key Research and Development Program of China"
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "eid": "2-s2.0-85149647774",
+    "title": "Job-Candidate Classifying and Ranking System-Based Machine Learning Method",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "candidate classifying",
+        "candidate ranking",
+        "machine learning",
+        "similarity"
+    ],
+    "authors": [
+        "Thapanee Boonchob",
+        "Nuengwong Tuaycharoen",
+        "Santisook Limpeeticharoenchot",
+        "Narongthat Thanyawet"
+    ],
+    "citedby-count": 0,
+    "ref-count": 24,
+    "ref-list": [
+        "Retaining Talent in a New World of Work",
+        "A Machine Learning approach for automation of Resume Recommendation system",
+        "Matching Applicants with Positions for Better Allocation of Employees in the Job Market",
+        "Design and Development of Machine Learning based Resume Ranking System",
+        "Feature Selection for Job Matching Application using Profile Matching Model",
+        "Agility: The Essential Ingredient for Recruiting Success",
+        "Machine Learning",
+        "Types of Machine Learning Systems",
+        "Research Paper Classification using Supervised Machine Learning Techniques",
+        "Hybrid of Naive Bayes and Gaussian Naive Bayes for Classification: A Map Reduce Approach",
+        "CatBoost: Unbiased boosting with categorical features",
+        "Grid Search-Based Hyperparameter Tuning and Classification of Microarray Cancer Data",
+        "K-Nearest Neighbors and Grid Search CV Based Real Time Fault Monitoring System for Industries",
+        "Attention is All You Need",
+        "Fine-grained Sentiment Classification using BERT",
+        "BERT: Pretraining of Deep Bidirectional Transformers for Language Understanding",
+        "Evaluating Trust Prediction and Confusion Matrix Measures for Web Services Ranking",
+        "The relationship between Precision-Recall and ROC curves",
+        "Confidence interval for micro-averaged F1 and macro-averaged F1 scores",
+        "The use of the area under the ROC curve in the evaluation of machine learning algorithms"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "129278929",
+            "affilname": "STelligence Co.,Ltd.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129278929",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85140594763",
+    "title": "An Application of Deep Learning YOLOv5 Framework to Intelligent Radio Spectrum Monitoring",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Electrosense",
+        "Radio spectrogram",
+        "Signal-to-Noise Ratio (SNR)",
+        "Spectrum monitoring",
+        "YOLO"
+    ],
+    "authors": [
+        "Thanh Le Truong",
+        "Ngoc Thien Le",
+        "Watit Benjapolakul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 11,
+    "ref-list": [
+        "Spectrum Monitoring for Radar Bands Using Deep Convolutional Neural Networks",
+        "You Only Look Once: Unified, Real-Time Object Detection",
+        "Electrosense: Open and Big Spectrum Data",
+        "Deep Learning Models for Wireless Signal Classification With Distributed Low-Cost Spectrum Sensors",
+        "Automatic Modulation Classification Using Parallel Fusion of Convolutional Neural Networks",
+        "Crowdsourced Wireless Spectrum Anomaly Detection",
+        "End-to-End Learning From Spectrum Data: A Deep Learning Approach for Wireless Signal Identification in Spectrum Monitoring Applications",
+        "A novel clouds based spectrum monitoring approach for future monitoring network",
+        "Electrosense+: Crowdsourcing radio spectrum decoding using IoT receivers"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Machine Learning",
+        "Ratchadapisek Somphot Fund for Artificial Intelligence",
+        "Chulalongkorn University"
+    ]
+}

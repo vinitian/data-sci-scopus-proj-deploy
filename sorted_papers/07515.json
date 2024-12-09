@@ -1,0 +1,281 @@
+{
+    "eid": "2-s2.0-85102446457",
+    "title": "Implementation of PDOPPS in a middle-income country: Early lessons from Thailand",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Nephrology",
+            "@code": "2727",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Culture-negative peritonitis",
+        "hypokalaemia",
+        "PD First policy",
+        "PDOPPS implementation",
+        "peritoneal dialysis",
+        "Thailand PDOPPS"
+    ],
+    "authors": [
+        "Talerngsak Kanjanabuch",
+        "Pongpratch Puapatanakul",
+        "Guttiga Halue",
+        "Pichet Lorvinitnun",
+        "Kittisak Tangjittrong",
+        "Krit Pongpirul",
+        "Surapong Narenpitak",
+        "Chanchana Boonyakrai",
+        "Sajja Tatiyanupanwong",
+        "Rutchanee Chieochanthanakij",
+        "Worapot Treamtrakanpon",
+        "Uraiwan Parinyasiri",
+        "Niwat Lounseng",
+        "Phichit Songviriyavithaya",
+        "Suchai Sritippayawan",
+        "Jeffrey Perl",
+        "Roberto Pecoits-Filho",
+        "Bruce Robinson",
+        "Simon J. Davies",
+        "David W. Johnson",
+        "Kriang Tungsanga"
+    ],
+    "citedby-count": 7,
+    "ref-count": 26,
+    "ref-list": [
+        "Hemodialysis in Asia",
+        "Cost-effectiveness of hemodialysis and peritoneal dialysis: a national cohort study with 14 years follow-up and matched for comorbidities and propensity score",
+        "Global dialysis perspective: Thailand",
+        "The peritoneal dialysis outcomes and practice patterns study (PDOPPS): unifying efforts to inform practice and improve global outcomes in peritoneal dialysis",
+        "The strengthening the reporting of observational studies in epidemiology (STROBE) statement: guidelines for reporting observational studies",
+        "ISPD peritonitis recommendations: 2016 update on prevention and treatment",
+        "The challenges in preventing infection in peritoneal dialysis: a nurse\u2019s viewpoint",
+        "Peritoneal dialysis drop-out: causes and prevention strategies",
+        "Where we come from and where we are going in terms of peritoneal dialysis: identifying barriers and strategies for the future",
+        "Antecedents of patient health outcomes in dialysis clinics: a national study",
+        "Risk of peritoneal dialysis-related peritonitis in a multi-racial Asian population",
+        "International comparison of peritoneal dialysis prescriptions from the peritoneal dialysis outcomes and practice patterns study (PDOPPS)",
+        "International Society for Peritoneal Dialysis practice recommendations: prescribing high-quality goal-directed peritoneal dialysis",
+        "Peritonitis in patients on peritoneal dialysis: analysis of a single Brazilian center based on the International Society for Peritoneal Dialysis",
+        "Microbiology and outcomes of peritonitis in North America",
+        "Predictors of peritonitis in patients on peritoneal dialysis: results of a large, prospective Canadian database",
+        "Why PD get in trend and why everyone love it?",
+        "The incidence of peritoneal dialysis-related infection in Thailand: a nationwide survey",
+        "Center effects and peritoneal dialysis peritonitis outcomes: analysis of a national registry",
+        "The effect of antibiotic exposure and specimen volume on the detection of bacterial pathogens in children with pneumonia",
+        "Streptococcal peritonitis in Australian peritoneal dialysis patients: predictors, treatment and outcomes in 287 cases",
+        "Streptococcal PD peritonitis: a 10-year review of one centre\u2019s experience",
+        "Changes in the worldwide epidemiology of peritoneal dialysis"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199575",
+            "affilname": "Siriraj Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199575",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ann Arbor",
+            "@id": "60136265",
+            "affilname": "Arbor Research Collaborative for Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60136265",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Woolloongabba",
+            "@id": "60109259",
+            "affilname": "Translational Research Institute Australia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60109259",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Amphoe Muang",
+            "@id": "60092124",
+            "affilname": "Chaiyapoom Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60092124",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Toronto",
+            "@id": "60085801",
+            "affilname": "Li Ka Shing Knowledge Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60085801",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Udon Thani",
+            "@id": "60031882",
+            "affilname": "Udon Thani Center Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031882",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Brisbane",
+            "@id": "60031004",
+            "affilname": "The University of Queensland",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031004",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Keele",
+            "@id": "60030210",
+            "affilname": "Keele University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030210",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Songkla",
+            "@id": "60026403",
+            "affilname": "Songkhla Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026403",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Woolloongabba",
+            "@id": "60025258",
+            "affilname": "Princess Alexandra Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025258",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "60023241",
+            "affilname": "Trang Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023241",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Curitiba",
+            "@id": "60020004",
+            "affilname": "Pontif\u00edcia Universidade Cat\u00f3lica do Paran\u00e1",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020004",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60014909",
+            "affilname": "Taksin Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014909",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Baltimore",
+            "@id": "60006183",
+            "affilname": "Johns Hopkins Bloomberg School of Public Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006183",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "60006092",
+            "affilname": "Sawanpracharak Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006092",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Prachinburi",
+            "@id": "124393912",
+            "affilname": "Chaopraya Abhaiphubejhr Hospital Foundation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/124393912",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nontaburi",
+            "@id": "122032958",
+            "affilname": "Phranangklao Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/122032958",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Amnat Charoen",
+            "@id": "119310173",
+            "affilname": "Amnat Charoen Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/119310173",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ubon Ratchathani",
+            "@id": "115838518",
+            "affilname": "Sunpasitthiprasong Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/115838518",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Phayao",
+            "@id": "106249955",
+            "affilname": "Phayao Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/106249955",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Amnatcharoen Hospital",
+        "Angsuwarin Wongpiang",
+        "Anocha Pullboon",
+        "Apinya Wechpradit",
+        "Areewan Cheawchanwattana",
+        "Bangkok Metropolitan Administration",
+        "Chadarat Kleebchaiyaphum",
+        "Chaiyaphum Hospital",
+        "Chaophaya Abhaiphubejhr Hospital",
+        "Chaoprayayomraj Hospital",
+        "Donkum Kaewboonsert",
+        "Kanittha Triamamornwooth",
+        "KhueangNai Hospital",
+        "Korawee Sukmee",
+        "Montha Jankramol",
+        "Mukdahan Hospital",
+        "Nakhon Pathom Hospital",
+        "Narumon Lukrat",
+        "Navarat Rukchart",
+        "Niparat Pikul",
+        "Pensri Uttayotha",
+        "Phayao Hospital",
+        "Pong Hospital",
+        "Pranangklao Hospital",
+        "Rachadaphiseksompot Endowment Fund",
+        "Rujira Luksanaprom",
+        "Sawanpracharak Hospital",
+        "Setthapon Panyatong",
+        "Siriwan Thaweekote",
+        "Sriphrae Uppamai",
+        "Sukhothai Hospital",
+        "Sunpasitthiprasong Hospital",
+        "Taksin Hospital",
+        "Thailand Research Foundation",
+        "Trang Hospital",
+        "Trat Hospital",
+        "Udonthani Hospital",
+        "Wadsamon Saikong",
+        "Wichai Sopassathit",
+        "Yupha Laoong",
+        "King Chulalongkorn Memorial Hospital",
+        "Chulalongkorn University",
+        "National Research Council of Thailand",
+        "Siriraj Hospital",
+        "Khon Kean University"
+    ]
+}

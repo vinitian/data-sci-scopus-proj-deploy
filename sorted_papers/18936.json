@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85112851788",
+    "title": "Data pattern effect of SOA at 25 Gbps with different PRBS and multi-channel amplification",
+    "cover-date": "2021-05-19",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Cross gain modulation",
+        "Data pattern effect",
+        "Semiconductor Optical Amplifier"
+    ],
+    "authors": [
+        "Pichakorn Sawatdee",
+        "Duang Rudee Worasucheep",
+        "Ruben S. Luis",
+        "Satoshi Shimizu",
+        "Satoshi Shinada",
+        "Hideaki Furukawa",
+        "Naoya Wada"
+    ],
+    "citedby-count": 1,
+    "ref-count": 4,
+    "ref-list": [
+        "Soa nonlinearities in 4 \u00d7 25 gb/s WDM pre-amplified system for 100gb/s ethernet",
+        "Evaluation of ber and WDM crosstalk penalty at 2. 5 gb/s in an soa by holding beam injection around transparency wavelength"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Koganei",
+            "@id": "60032325",
+            "affilname": "Japan National Institute of Information and Communications Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032325",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85140602137",
+    "title": "Smart Agriculture Monitoring and Management System using IoT-enabled Devices based on LoRaWAN",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Internet of Things",
+        "IoTs",
+        "LoRa",
+        "LoRaWAN",
+        "Node-RED",
+        "Precision agriculture",
+        "Smart farming"
+    ],
+    "authors": [
+        "Pittaya Supanirattisai",
+        "Kongpop U-Yen",
+        "Alongkorn Pimpin",
+        "Werayut Srituravanich",
+        "Nattapol Damrongplasit"
+    ],
+    "citedby-count": 3,
+    "ref-count": 6,
+    "ref-list": [
+        "An internet of energy things based on wireless LPWAN",
+        "Smart mobile device power consumption measurement for video streaming in wireless environments: WiFi vs. LTE",
+        "A comparative study of LPWAN technologies for large-scale IoT deployment",
+        "LoRaWAN\u00ae",
+        "Implementation of Smart Urban Farming using Raspberry Pi, Arduino and Node-RED Platform",
+        "Sleep Modes"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Department of Mechanical Engineering, Faculty of Engineering, Chulalongkorn University",
+        "Micro/Nano Electromechanical Integrated Device Research Unit"
+    ]
+}

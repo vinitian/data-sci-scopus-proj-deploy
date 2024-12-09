@@ -1,0 +1,94 @@
+{
+    "eid": "2-s2.0-85112642279",
+    "title": "Post-Processing of NWP Forecasts Using Kalman Filtering with Operational Constraints for Day-Ahead Solar Power Forecasting in Thailand",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Kalman filter",
+        "model output statistics",
+        "numerical weather prediction",
+        "Solar irradiance forecasting",
+        "WRF"
+    ],
+    "authors": [
+        "Supachai Suksamosorn",
+        "Naebboon Hoonchareon",
+        "Jitkomut Songsiri"
+    ],
+    "citedby-count": 4,
+    "ref-count": 48,
+    "ref-list": [
+        "Solar forecasting methods for renewable energy integration",
+        "Review of photovoltaic power forecasting",
+        "Review of solar irradiance forecasting methods and a proposition for small-scale insular grids",
+        "On recent advances in PV output power forecast",
+        "Photovoltaic and solar power forecasting for smart grid energy management",
+        "Review on forecasting of photovoltaic power generation based on machine learning and Metaheuristic techniques",
+        "WRF-solar: Description and clear-sky assessment of an augmented NWP model for solar power prediction",
+        "The role of unresolved clouds on shortrange global horizontal irradiance predictability",
+        "Comparison of numerical weather prediction solar irradiance forecasts in the US, Canada and Europe",
+        "Evaluation of the WRF model solar irradiance forecasts in Andalusia (southern Spain)",
+        "SolarAnywhere forecasting",
+        "Evaluation of numerical weather prediction for intra-day solar forecasting in the continental United States",
+        "Solar irradiance forecasting in the tropics using numerical weather prediction and statistical learning",
+        "A benchmark of statistical regression methods for short-Term forecasting of photovoltaic electricity production, part I: Deterministic forecast of hourly production",
+        "Improved model output statistics of numerical weather prediction based irradiance forecasts for solar power applications",
+        "Use of multilinear adaptive regression splines and numerical weather prediction to forecast the power output of a PV plant in Borkum, Germany",
+        "Twenty-four hour solar irradiance forecast based on neural networks and numerical weather prediction",
+        "Master optimization process based on neural networks ensemble for 24-H solar irradiance forecast",
+        "Forecast for surface solar irradiance at the Brazilian northeastern region using NWP model and artificial neural networks",
+        "Determination method of insolation prediction with fuzzy and applying neural network for longterm ahead PV power output correction",
+        "Online 24-H solar power forecasting based on weather type classification using artificial neural network",
+        "Short-Term power forecasting system for photovoltaic plants",
+        "Anovel hybrid model for shortterm forecasting in PV power generation",
+        "Irradiance forecasting for the power prediction of grid-connected photovoltaic systems",
+        "A neural network post-processing approach to improving NWP solar radiation forecasts",
+        "Prediction of hourly solar radiation using a novel hybrid model of ARMA and TDNN",
+        "The use of model output statistics (MOS) in objective weather forecasting",
+        "Solar and photovoltaic forecasting through post-processing of the global environmental multiscale numerical weather prediction model",
+        "Postprocessing of solar irradiance forecasts from WRF model at Reunion Island",
+        "Building the Sun4Cast system: Improvements in solar power forecasting",
+        "Combining artificial intelligence with physics-based methods for probabilistic renewable energy forecasting",
+        "Probabilistic forecasting of dayahead solar irradiance using quantile gradient boosting",
+        "An analog ensemble for short-Term probabilistic solar power forecast",
+        "The schaake shufe technique to combine solar and wind power probabilistic forecasting",
+        "Radiative forcing by long-lived greenhouse gases: Calculations with the AER radiative transfer models",
+        "Solar photovoltaic generation forecasting methods: A review",
+        "Day-Ahead forecasting of solar power output from photovoltaic plants in the American Southwest",
+        "Influential variable selection for improving solar forecasts from numerical weather prediction",
+        "Comparisons of next-day solar forecasting for Singapore using 3DVAR and 4DVAR data assimilation approaches with the WRF model",
+        "Solar PV power generation forecast using a hybrid intelligent approach",
+        "Photovoltaic power forecasting using statistical methods: Impact of weather data",
+        "Analysis and validation of 24 hours ahead neural network forecasting of photovoltaic output power",
+        "A power prediction method for photovoltaic power plant based on wavelet decomposition and artificial neural networks"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "National Research Council of Thailand Fund on Renewable Energy Framework"
+    ]
+}

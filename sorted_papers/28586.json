@@ -1,0 +1,105 @@
+{
+    "eid": "2-s2.0-85134654974",
+    "title": "An IoT based authentication system for therapeutic herbs measured by local descriptors using machine learning approach",
+    "cover-date": "2022-08-15",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Artificial Neural Network",
+        "Histogram of oriented gradients",
+        "Machine learning",
+        "Medicinal leaf dataset",
+        "Medicinal plant classification",
+        "oriented FAST and rotated BRIEF",
+        "Raspberry Pi",
+        "Scale invariant feature transform",
+        "Support vector machine"
+    ],
+    "authors": [
+        "S. Roopashree",
+        "J. Anitha",
+        "T. R. Mahesh",
+        "V. Vinoth Kumar",
+        "Wattana Viriyasitavat",
+        "Amandeep Kaur"
+    ],
+    "citedby-count": 12,
+    "ref-count": 57,
+    "ref-list": [
+        "Automatic classification of plants based on their leaves",
+        "First steps toward an electronic field guide for plants",
+        "Phytochemicals: extraction, isolation, and identification of bioactive compounds from plant extracts",
+        "A study on plant recognition using conventional image processing and deep learning approaches",
+        "LeafNet: a computer vision system for automatic plant species identification",
+        "Automatic recognition of medicinal plants using machine learning techniques",
+        "Plant species identification using digital morphometrics: a review",
+        "STOA: a bio-inspired based optimization algorithm for industrial engineering problems",
+        "State-of-the-art review on advancements of data mining in structural health monitoring",
+        "Recent advances in MXene-based sensors for Structural Health Monitoring applications: a review",
+        "Crime tracking system and people's safety in India using machine learning approaches",
+        "Improved object recognition results using SIFT and ORB feature detector",
+        "Plant identification using new architecture convolutional neural networks combine with replacing the red of color channel image by vein morphology leaf",
+        "A computer aided system for tropical leaf medicinal plant identification",
+        "A novel method of automatic plant species identification using sparse representation of leaf tooth features",
+        "Automated Chinese medicinal plants classification based on machine learning using leaf morpho-colorimetry, fractal dimension and visible/near infrared spectroscopy",
+        "Classification of medicinal plant leaf image based on multi-feature extraction",
+        "December). Fully automatic leaf-based plant identification, application for Vietnamese medicinal plant search",
+        "Distinctive Image Features from Scale-Invariant Keypoints",
+        "Plant leaf classification using probabilistic integration of shape, texture and margin features",
+        "Classification of medicinal plants: an approach using modified LBP with symbolic representation",
+        "Medleaf: mobile application for medicinal plant identification based on leaf image",
+        "Breast cancer image classification using transfer learning and convolutional neural network",
+        "Ayurvedic leaf recognition for plant classification",
+        "Performance of SVM classifier for image based soil classification",
+        "Indian medicinal plants as an effective antimicrobial agent",
+        "A Comparative study of fuzzy optimization through fuzzy number",
+        "Vietnamese herbal plant recognition using deep convolutional features",
+        "Can walking and measuring along chord bunches better describe leaf shapes?",
+        "WHO monographs on selected medicinal plants"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bengaluru",
+            "@id": "60006536",
+            "affilname": "JAIN (Deemed-to-be University)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006536",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199583",
+            "affilname": "Chulalongkorn Business School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199583",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Mohali",
+            "@id": "60111704",
+            "affilname": "Chandigarh University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60111704",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Bengaluru",
+            "@id": "123895180",
+            "affilname": "RV Institute of Technology and Management",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/123895180",
+            "affiliation-country": "India"
+        }
+    ],
+    "funding": [
+        "Biotechnology Centre"
+    ]
+}

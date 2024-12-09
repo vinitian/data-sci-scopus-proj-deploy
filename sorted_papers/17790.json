@@ -1,0 +1,101 @@
+{
+    "eid": "2-s2.0-85137983472",
+    "title": "Modelling the Surface Roughness of Steel after Laser hardening by using 2D Visibility Network, Convolutional neural Networks and Genetic Programming \u041c\u041e\u0414\u0415\u041b\u0418\u0420\u0410\u040a\u0415 \u0425\u0420\u0410\u041f\u0410\u0412\u041e\u0421\u0422\u0418 \u041f\u041e\u0412\u0420\u0428\u0418\u041d\u0415 \u0427\u0415\u041b\u0418\u041a\u0410 \u041d\u0410\u041a\u041e\u041d \u041b\u0410\u0421\u0415\u0420\u0421\u041a\u041e\u0413 \u041a\u0410\u0409\u0415\u040a\u0410 \u041a\u041e\u0420\u0418\u0428\u040b\u0415\u040a\u0415\u041c 2\u0414 \u041c\u0420\u0415\u0416\u0415 \u0412\u0418\u0414\u0409\u0418\u0412\u041e\u0421\u0422\u0418, \u041a\u041e\u041d\u0412\u041e\u041b\u0423\u0426\u0418\u041e\u041d\u0418\u0425 \u041d\u0415\u0423\u0420\u041e\u041d\u0421\u041a\u0418\u0425 \u041c\u0420\u0415\u0416\u0410 \u0418 \u0413\u0415\u041d\u0415\u0422\u0421\u041a\u041e\u0413 \u041f\u0420\u041e\u0413\u0420\u0410\u041c\u0418\u0420\u0410\u040a\u0410",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Mechanics of Materials",
+            "@code": "2211",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "2d visibility network",
+        "Convolutional neural networks",
+        "Genetic algorithm",
+        "Robot laser hardening (rlh)",
+        "Roughness"
+    ],
+    "authors": [
+        "M. Babi\u010d",
+        "P. Wangyao",
+        "B. \u0160ter",
+        "D. Marinkovi\u0107",
+        "C. Fragassa"
+    ],
+    "citedby-count": 0,
+    "ref-count": 24,
+    "ref-list": [
+        "State of the art of laser hardening and cladding",
+        "Process signature for laser hardening",
+        "Predictive modeling of laser hardening of AISI5150H steels",
+        "New double cycle hybrid method of machine learning using laser heat treatment pattern recognition with the topological properties of a network",
+        "Microstructural aspects of laser surface treatment of commercially pure titanium",
+        "Evaluating conducting network based transparent electrodes from geometrical considerations",
+        "Siri, Siri in my Hand, who's the Fairest in the Land? On the Interpretations, Illustrations and Implications of Artificial Intelligence",
+        "Neural network prediction of aluminum\u2013silicon carbide tensile strength from acoustic emission rise angle data",
+        "Predicting the tensile behaviour of cast alloys by a pattern recognition analysis on experimental data",
+        "Surface roughness evaluation in hardened materials by pattern recognition using network theory",
+        "A new method for complexity determination by using fractals and its applications in material surface characteristics",
+        "Fourth-order strain gradient bar-substrate model with nonlocal and surface effects for the analysis of nanowires embedded in substrate media",
+        "ImageNet Classification with Deep Convolutional Neural Networks",
+        "Roll wear modeling using genetic programming-industry case study",
+        "Genetic programming in the steelmaking industry",
+        "Evolving a Nelder\u2013Mead Algorithm for Optimization with Genetic Programming",
+        "Geometry optimization by fem simulation of the automatic changing gear",
+        "Calibration of material models for the human cervical spine ligament behaviour using a genetic algorithm",
+        "From time series to complex networks: The visibility graph",
+        "Analysis and visualization of large networks with programpackage Pajek",
+        "Effect of Post-Fabrication Treatments on Surface Residual Stresses of Additive Manufactured Stainless Steel 316L",
+        "A gentle introduction to deep learning for graphs",
+        "Development of a Miniature Robot Based on Experience Inspired by Nature",
+        "Automatic switching algorithms in hybrid single-objective optimization"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Novo Mesto",
+            "@id": "60110775",
+            "affilname": "Univerza v Novem Mestu",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60110775",
+            "affiliation-country": "Slovenia"
+        },
+        {
+            "affiliation-city": "Ljubljana",
+            "@id": "60031106",
+            "affilname": "Univerza v Ljubljani",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031106",
+            "affiliation-country": "Slovenia"
+        },
+        {
+            "affiliation-city": "Bologna",
+            "@id": "60028218",
+            "affilname": "Alma Mater Studiorum Universit\u00e0 di Bologna",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028218",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Berlin",
+            "@id": "60011604",
+            "affilname": "Technische Universit\u00e4t Berlin",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011604",
+            "affiliation-country": "Germany"
+        }
+    ],
+    "funding": [
+        "scientific research cooperation program between the Republic of Slovenia"
+    ]
+}

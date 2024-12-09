@@ -1,0 +1,88 @@
+{
+    "eid": "2-s2.0-84962469237",
+    "title": "GPU accelerated grid-free surface tracking",
+    "cover-date": "2016-06-01",
+    "subject-areas": [
+        {
+            "$": "Human-Computer Interaction",
+            "@code": "1709"
+        },
+        {
+            "$": "General Engineering",
+            "@code": "2200"
+        },
+        {
+            "$": "Software",
+            "@code": "1712"
+        },
+        {
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707"
+        },
+        {
+            "$": "Signal Processing",
+            "@code": "1711"
+        },
+        {
+            "$": "Computer Graphics and Computer-Aided Design",
+            "@code": "1704"
+        }
+    ],
+    "keywords": [
+        "Explicit surface tracking",
+        "GPU"
+    ],
+    "authors": [
+        "Nuttapong Chentanez"
+    ],
+    "citedby-count": 5,
+    "ref-count": 31,
+    "ref-list": [
+        "Fast grid-free surface tracking",
+        "GPU Technology Conference",
+        "Khronos OpenCL Working Group",
+        "Unified particle physics for real-time applications",
+        "Fast and Robust Tracking of Fluid Surfaces",
+        "MARCHING CUBES: A HIGH RESOLUTION 3D SURFACE CONSTRUCTION ALGORITHM.",
+        "Deforming meshes that split and merge",
+        "Eurographics 2012",
+        "Physics-inspired topology changes for thin fluid features",
+        "Robust topological operations fo r dynamic explicit surfaces",
+        "Multimaterial mesh-based surface tracking",
+        "Putting holes in holey geometry: Topology change for arbitrary surfaces",
+        "Constrained delaunay triangulations",
+        "Freestyle: Sculpting meshes with self-adaptive topology",
+        "Grid-free surface tracking on the GPU",
+        "Symposium on Interactive 3D Graphics (I3D)",
+        "27th European Workshop on Computational Geometry (EuroCG)",
+        "CPU-GPU algorithms for triangular surface mesh simplification",
+        "Wait-free test-and-set",
+        "Morph algorithms on GPUs",
+        "Flip-flop: Convex hull construction via star-shaped polyhedron in 3D",
+        "Triangular mesh simplification on the GPU",
+        "Perfect spatial hashing",
+        "Real-time parallel hashing on the GPU",
+        "Cuckoo hashing",
+        "Coherent parallel hashing",
+        "ROBIN HOOD HASHING.",
+        "Lock-free hash table on graphics processors",
+        "High performance dynamic lock-free hash tables and list-based sets",
+        "Vision, Modeling, and Visualization",
+        "GPUGems 2: Programming Techniques for High-performance Graphics and General-purpose Computation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Santa Clara",
+            "affilname": "NVIDIA",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Nvidia"
+    ]
+}

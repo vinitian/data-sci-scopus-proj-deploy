@@ -1,0 +1,98 @@
+{
+    "eid": "2-s2.0-85066336496",
+    "title": "MHCSeqNet: A deep neural network model for universal MHC binding prediction",
+    "cover-date": "2019-05-28",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Structural Biology",
+            "@code": "1315",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Deep learning",
+        "MHC epitope prediction",
+        "Recurrent neural networks"
+    ],
+    "authors": [
+        "Poomarin Phloyphisut",
+        "Natapol Pornputtapong",
+        "Sira Sriswasdi",
+        "Ekapol Chuangsuwanich"
+    ],
+    "citedby-count": 39,
+    "ref-count": 30,
+    "ref-list": [
+        "Exploiting the Mutanome for Tumor Vaccination",
+        "Realising the Promise: Neoantigens in cancer immunotherapy",
+        "Immunotherapy: Cancer vaccines on the move",
+        "Personalized vaccines for cancer immunotherapy",
+        "Relapse or Eradication of Cancer Is Predicted by Peptide-Major Histocompatibility Complex Affinity",
+        "The immune epitope database (IEDB) 3.0",
+        "Mass Spectrometry Profiling of HLA-Associated Peptidomes in Mono-allelic Cells Enables More Accurate Epitope Prediction",
+        "NetMHCpan-4.0: Improved Peptide-MHC Class i Interaction Predictions Integrating Eluted Ligand and Peptide Binding Affinity Data",
+        "MHCflurry: Open-Source Class i MHC Binding Affinity Prediction",
+        "Deep convolutional neural networks for pan-specific peptide-MHC class i binding prediction",
+        "Speech recognition with deep recurrent neural networks",
+        "DanQ: A hybrid convolutional and recurrent deep neural network for quantifying the function of DNA sequences",
+        "Memory visualization for gated recurrent neural networks in speech recognition",
+        "Direct identification of clinically relevant neoepitopes presented on native human melanoma tissue by mass spectrometry",
+        "Natural language processing (almost) from scratch",
+        "Distributed representations of words and phrases and their compositionality",
+        "Continuous Distributed Representation of Biological Sequences for Deep Proteomics and Genomics",
+        "Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm",
+        "Adaptation of multilingual stacked bottle-neck neural network structure for new language",
+        "An Altered Position of the \u03b12 Helix of MHC Class i Is Revealed by the Crystal Structure of HLA-B3501",
+        "MUSCLE: Multiple sequence alignment with high accuracy and high throughput",
+        "Dropout: A Simple Way to Prevent Neural Networks from Overfitting",
+        "UniProt: The universal protein knowledgebase",
+        "Prediction of proteasome cleavage motifs by neural networks",
+        "The Human Leukocyte Antigen (HLA)-B27 Peptidomein Vivo, in Spondyloarthritis-susceptible HLA-B27 Transgenic Rats and the Effect of Erap1 Deletion"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Rayong",
+            "@id": "60110787",
+            "affilname": "Vidyasirimedhi Institute of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60110787",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn Academic Advancement",
+        "Vidyasirimedhi Institute of Science and Technology",
+        "Chulalongkorn University"
+    ]
+}

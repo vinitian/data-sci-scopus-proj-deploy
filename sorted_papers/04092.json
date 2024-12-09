@@ -1,0 +1,71 @@
+{
+    "eid": "2-s2.0-85117824821",
+    "title": "Improved mixed-integer linear programming model for short-term scheduling of the pressing process in multi-layer printed circuit board manufacturing",
+    "cover-date": "2021-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Mathematics (all)",
+            "@code": "2600",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Mixed-integer linear programming",
+        "Pressing process",
+        "Printed circuit board",
+        "Scheduling"
+    ],
+    "authors": [
+        "Teeradech Laisupannawong",
+        "Boonyarit Intiyot",
+        "Chawalit Jeenanunta"
+    ],
+    "citedby-count": 2,
+    "ref-count": 23,
+    "ref-list": [
+        "Scheduling of printed circuit board (PCB) assembly systems with heterogeneous processors using simulation-based intelligent optimization methods",
+        "A two-stage ant colony algorithm for hybrid flow shop scheduling with lot sizing and calendar constraints in printed circuit board assembly",
+        "A genetic algorithm for the flexible job-shop scheduling problem",
+        "Mathematical models for job-shop scheduling problems with routing and process plan flexibility",
+        "Evaluation of mathematical models for flexible job-shop scheduling problems",
+        "Mathematical modelling and a meta-heuristic for flexible job shop scheduling",
+        "Hybrid flexible flowshop problems: Models and solution methods",
+        "More MILP models for hybrid flow shop scheduling problem and its extended problems",
+        "Mixed-integer linear programming model and heuristic for short-term scheduling of pressing process in multi-layer printed circuit board manufacturing",
+        "A study of integer programming formulations for scheduling problems",
+        "Evaluation of mixed integer programming formulations for non-preemptive parallel machine scheduling problems",
+        "An improved model and novel simulated annealing for distributed job shop problems",
+        "Model formulations for the machine scheduling problem with limited waiting time constraints",
+        "A study on open shop scheduling to minimise total tardiness",
+        "Sequence-dependent setup time flexible job shop scheduling problem to minimise total tardiness",
+        "Flexible job shop scheduling with tabu search algorithms",
+        "Mathematical modeling and heuristic approaches to flexible job shop scheduling problems",
+        "Sequence-based MILP modeling for flexible job shop scheduling",
+        "Modeling and heuristics for scheduling of distributed job shops",
+        "Efficient Estimation of Distribution for Flexible Hybrid Flow Shop Scheduling",
+        "Mixed-integer linear programming and constraint programming formulations for solving distributed flexible job shop scheduling problem"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011220",
+            "affilname": "Sirindhorn International Institute of Technology, Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011220",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Center of Excellence in Logistics and Supply Chain Systems Engineering and Technology",
+        "Department of Mathematics and Computer Science, Faculty of Science, Chulalongkorn University",
+        "Sirindhorn International Institute of Technology",
+        "Thammasat University, Thailand"
+    ]
+}

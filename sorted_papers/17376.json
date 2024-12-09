@@ -1,0 +1,60 @@
+{
+    "eid": "2-s2.0-85151139901",
+    "title": "Effects of Discretization Schemes on Free Vibration Analysis of Planar Beam Structures Using Isogeometric Timoshenko-Ehrenfest Beam Formulations",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Convergence tests",
+        "Discretization schemes",
+        "Free vibration analysis",
+        "Isogeometric analysis (IGA)",
+        "Planar Timoshenko-Ehrenfest beam formulations"
+    ],
+    "authors": [
+        "Duc Van Nguyen",
+        "Duy Vo",
+        "Pruettha Nanakorn"
+    ],
+    "citedby-count": 0,
+    "ref-count": 11,
+    "ref-list": [
+        "Improved numerical integration for locking treatment in isogeometric structural elements, part I: Beams",
+        "Locking free isogeometric formulations of curved thick beams",
+        "Isogeometric analysis of plane-curved beams",
+        "Elimination of self-straining in isogeometric formulations of curved Timoshenko beams in curvilinear coordinates",
+        "Isogeometric analysis of free-form Timoshenko curved beams including the nonlinear effects of large deformations",
+        "Isogeometric analysis: CAD, finite elements, NURBS, exact geometry and mesh refinement",
+        "Isogeometric vibration analysis of free-form Timoshenko curved beams",
+        "Non-linear buckling of elliptical curved beams",
+        "An efficient isogeometric beam formulation for analysis of 2D non-prismatic beams",
+        "A total Lagrangian Timoshenko beam formulation for geometrically nonlinear isogeometric analysis of planar curved beams"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011220",
+            "affilname": "Sirindhorn International Institute of Technology, Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011220",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Sirindhorn International Institute of Technology",
+        "Chulalongkorn University"
+    ]
+}

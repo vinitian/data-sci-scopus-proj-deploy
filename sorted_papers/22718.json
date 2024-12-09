@@ -1,0 +1,111 @@
+{
+    "eid": "2-s2.0-85084315725",
+    "title": "Learning only from relevant keywords and unlabeled documents",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Nontawat Charoenphakdee",
+        "Jongyeong Lee",
+        "Yiping Jin",
+        "Dittaya Wanvarie",
+        "Masashi Sugiyama"
+    ],
+    "citedby-count": 4,
+    "ref-count": 50,
+    "ref-list": [
+        "Generalization bounds for the area under the roc curve",
+        "Convexity, classification, and risk bounds",
+        "On the difficulty of approximately maximizing agreements",
+        "Introduction to statistical learning theory",
+        "Importance of semantic representation: Dataless classification",
+        "On symmetric losses for learning from corrupted labels",
+        "Dataless text classification with descriptive lda",
+        "A survey of current work in biomedical text mining",
+        "Auc optimization vs. Error rate minimization",
+        "Agnostic learning of monomials by halfspaces is hard",
+        "An extensive empirical study of feature selection metrics for text classification",
+        "On the consistency of auc pairwise optimization",
+        "Making risk minimization tolerant to label noise",
+        "The meaning and use of the area under a receiver operating characteristic (roc) curve",
+        "Optimising area under the roc curve using gradient descent",
+        "Long short-term memory",
+        "Mining and summarizing customer reviews",
+        "Text analytics in social media",
+        "Community challenges in biomedical text mining over 10 years: Success, failure and the future",
+        "Combining lightly-supervised text classification models for accurate contextual advertising",
+        "Learning from positive and unlabeled data with a selection bias",
+        "ADaM: A method for stochastic optimization",
+        "Recurrent convolutional neural networks for text classification",
+        "Newsweeder: Learning to filter net-news",
+        "A pseudo label based dataless naive bayes algorithm for text classification with seed words",
+        "A survey of opinion mining and sentiment analysis",
+        "On a test of whether one of two random variables is stochastically larger than the other",
+        "On the method of bounded differences",
+        "Sentiment analysis algorithms and applications: A survey",
+        "Learning from corrupted binary labels via class-probability estimation",
+        "Bipartite ranking: A risk-theoretic perspective",
+        "On the relationship between binary classification, bipartite ranking, and binary class probability estimation",
+        "Text classification from labeled and unlabeled documents using em",
+        "A sentimental education: Sentiment analysis using subjectivity",
+        "Scikit-learn: Machine learning in Python",
+        "Glove: Global vectors for word representation",
+        "On the convergence of Adam and beyond",
+        "Machine learning in automated text categorization",
+        "On dataless hierarchical text classification",
+        "A data-dependent generalisation error bound for the auc",
+        "Optimizing classifier performance via an approximation to the wilcoxonmann-whitney statistic",
+        "Social media analytics and intelligence",
+        "Statistical behavior and consistency of classification methods based on convex risk minimization",
+        "Character-level convolutional networks for text classification",
+        "A brief introduction to weakly supervised learning"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025272",
+            "affilname": "The University of Tokyo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025272",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60277287",
+            "affilname": "RIKEN Center for Advanced Intelligence Project",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60277287",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "JST CREST",
+        "MEXT",
+        "Chulalongkorn University",
+        "JST CREST"
+    ]
+}

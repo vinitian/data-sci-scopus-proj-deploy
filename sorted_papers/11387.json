@@ -1,0 +1,125 @@
+{
+    "eid": "2-s2.0-85082308390",
+    "title": "Unsupervised Anomaly Detection and Localization Based on Deep Spatiotemporal Translation Network",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Anomaly detection",
+        "anomaly localization",
+        "spatiotemporal",
+        "unsupervised learning",
+        "video surveillance"
+    ],
+    "authors": [
+        "Thittaporn Ganokratanaa",
+        "Supavadee Aramvith",
+        "Nicu Sebe"
+    ],
+    "citedby-count": 47,
+    "ref-count": 67,
+    "ref-list": [
+        "Impact of computer technology on health: Computer Vision Syndrome (CVS)",
+        "Professionalizing police media work: Surveillance video and the forensic sensibility",
+        "Learning deep event models for crowd anomaly detection",
+        "Anomaly detec-tion in crowded scenes",
+        "Abnormal crowd behavior detection using social force model",
+        "Detecting anomalous events in videos by learning deep representations of appearance and motion",
+        "Learning sparse representation with variational auto-encoder for anomaly detection",
+        "Abnormal event detection using convolutional neural networks and 1-class SVM clas-sifier",
+        "Plug-and-play CNN for crowd motion analysis: An application in abnormal event detection",
+        "Abnormal event detection in videos using generative adver-sarial nets",
+        "Crowd abnormal detection using two-stream fully convolutional neural networks",
+        "Training adversar-ial discriminators for cross-channel abnormal event detection in crowds",
+        "Learning temporal regularity in video sequences",
+        "Future frame prediction for anomaly detection A new baseline",
+        "AnomalyNet: An anomaly detection network for video surveillance",
+        "Abnormal event detection at 150 fps in mat-lab",
+        "Sparse reconstruction cost for abnormal event detection",
+        "Anomaly detection and localization in crowded scenes",
+        "Sparse coding based motion attention for abnormal event detection",
+        "Abnormal event detection based on sparse reconstruction in crowded scenes",
+        "Anomaly detection in crowded scenes using motion energy model",
+        "Global abnormal event detection in video via motion information entropy",
+        "Abnormal event detec-tion in crowded scenes based on structural multi-scale motion interrelated patterns",
+        "Histograms of optical flow orientation and magnitude and entropy to detect anomalous events in videos",
+        "Video anomaly detection and localization using hierarchical feature representation and Gaussian process regression",
+        "Toward abnormal trajectory and event detection in video surveillance",
+        "Combining motion and appear-ance cues for anomaly detection",
+        "Generative adversarial nets",
+        "Improved techniques for training GANs",
+        "Image-to-image translation with conditional adversarial networks",
+        "Observe locally, infer globally: A space-time MRF for detecting abnormal activities with incremental updates",
+        "Crowd motion monitoring using tracklet-based commotion measure",
+        "Fast optical flow using dense inverse search",
+        "Detecting irregularities in images and in video",
+        "An on-line, real-time learning method for detecting anomalies in videos using spatio-temporal composi-tions",
+        "Learning to detect anomalies in surveil-lance video",
+        "Video anomaly search in crowded scenes via spatio-temporal motion context",
+        "Statistical hypothesis detector for abnormal event detection in crowded scenes",
+        "Global abnormal events detection in crowded scenes using context location and motion-rich spatio-temporal volumes",
+        "Deep-cascade: Cas-cading 3D deep neural networks for fast anomaly detection and local-ization in crowded scenes",
+        "Structured dictionary learning for abnormal event detection in crowded scenes",
+        "Deep-anomaly: Fully convolutional neural network for fast anomaly detection in crowded scenes",
+        "Video anomaly detection and localization by local motion based joint video representation and OCELM",
+        "A computational approach to edge detection",
+        "TensorFlow: A system for large-scale machine learning",
+        "Video anomaly detection and localisation based on the sparsity and reconstruction error of auto-encoder",
+        "Abnormal event detection in crowded scenes based on deep learning",
+        "Learning both weights and con-nections for efficient neural network",
+        "Low-rank matrix factorization for deep neural network training with high-dimensional output targets",
+        "On the reduction of computational complexity of deep convolutional neural networks",
+        "Gradient-based learn-ing applied to document recognition",
+        "Fully convolutional networks for semantic segmentation",
+        "Modelling crowd scenes for event detection",
+        "Stacked denoising autoencoders: Learning useful representations in a deep network with a local denoising criterion",
+        "Batch normalization: Accelerating deep network training by reducing internal covariate shift",
+        "U-net: Convolutional networks for biomedical image segmentation",
+        "Deep residual learning for image recognition",
+        "Image quality assessment: From error visibility to structural similarity",
+        "Improved adaptive Gaussian mixture model for background subtraction"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Trento",
+            "@id": "60015986",
+            "affilname": "Universit\u00e0 di Trento",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015986",
+            "affiliation-country": "Italy"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

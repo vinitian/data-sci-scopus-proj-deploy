@@ -1,0 +1,115 @@
+{
+    "eid": "2-s2.0-85143515539",
+    "title": "Position and stiffness control of an antagonistic variable stiffness actuator with input delay using super-twisting sliding mode control",
+    "cover-date": "2023-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Aerospace Engineering",
+            "@code": "2202",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Ocean Engineering",
+            "@code": "2212",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Antagonistic variable stiffness actuator",
+        "Input-delay compensation",
+        "Prediction-based control",
+        "Super-twisting sliding mode control"
+    ],
+    "authors": [
+        "Ali Javadi",
+        "Ronnapee Chaichaowarat"
+    ],
+    "citedby-count": 5,
+    "ref-count": 51,
+    "ref-list": [
+        "Discrete-time adaptive control for systems with input time-delay and non-sector bounded nonlinear functions",
+        "Design and analysis of a novel variable stiffness actuator based on parallel-assembled-folded serial leaf springs",
+        "Comparing model based control methods for simultaneous stiffness and position control of inflatable soft robots",
+        "Cycling-enhanced knee exoskeleton using planar spiral spring",
+        "Design and modeling of a variable-stiffness spring mechanism for impedance modulation in physical human-robot interaction",
+        "Macro-mini linear actuator using electrorheological-fluid brake for impedance modulation in physical human-robot interaction",
+        "On-line estimation of variable stiffness in flexible robot joints",
+        "Variable stiffness actuators: the user\u2019s point of view",
+        "The variable stiffness actuator vsaUT-ii: Mechanical design, modeling, and identification",
+        "Mechanical design and analysis of the novel 6-DOF variable stiffness robot arm based on antagonistic driven joints",
+        "Mechanical design and robust tracking control of a class of antagonistic variable stiffness actuators based on the equivalent nonlinear torsion springs",
+        "Modeling, control, and numerical simulations of a novel binary-controlled variable stiffness actuator (BcVSA)",
+        "Output feedback control of an uncertain input-delayed nonlinear system with bounded control commands",
+        "Energy efficient actuators with adjustable stiffness: a review on AwAS, AwAS-ii and compACT VSA changing stiffness based on lever mechanism",
+        "Input delay compensation of nonlinear stochastic systems with both state and input delays by prediction approach",
+        "Adaptive fuzzy predictive sliding control of uncertain nonlinear systems with bound-known input delay",
+        "Adaptive fuzzy sliding mode control of input-delayed uncertain nonlinear systems through output-feedback",
+        "Time-varying ankle mechanical impedance during human locomotion",
+        "Residual-based external torque estimation in series elastic actuators over a wide stiffness range: frequency domain approach",
+        "High-gain-predictor-based output feedback control for time-delay nonlinear systems",
+        "Design of a structure-controlled variable stiffness actuator based on rotary flexure hinges",
+        "Low impedance-guaranteed gain-scheduled GESO for torque-controlled VSA with application of exoskeleton-assisted sit-to-stand",
+        "Impedance-controlled variable stiffness actuator for lower limb robot applications",
+        "Robust adaptive control of antagonistic tendon-driven joint in the presence of parameter uncertainties and external disturbances",
+        "Simultaneous position and stiffness control of a revolute joint using a biphasic media variable stiffness actuator",
+        "Cascade control of antagonistic VSA-an engineering control approach to a bioinspired robot actuator",
+        "Closed-loop positive real optimal control of variable stiffness actuators",
+        "Anti disturbance sliding mode control of a novel variable stiffness actuator for the rehabilitation of neurologically disabled patients",
+        "Prediction-based sliding mode control of non-linear systems with input delay using disturbance observer",
+        "Asymptotic stabilization of a class of nonlinear systems with long input delay in the presence of disturbance",
+        "Strict Lyapunov functions for the super-twisting algorithm",
+        "Human-robot interaction: Controller design and stability",
+        "Unknown time-varying input delay compensation for uncertain nonlinear systems",
+        "Feedback linearization of variable stiffness joints based on twisted string actuators",
+        "Rigid precision reducers for machining industrial robots",
+        "Development and control of a compliant asymmetric antagonistic actuator for energy efficient mobility",
+        "Design and optimisation of load-adaptive actuator with variable stiffness for compact ankle exoskeleton",
+        "Design, modeling and control of a novel compact, energy-efficient, and rotational serial variable stiffness actuator (SVSA-II)",
+        "A novel design of serial variable stiffness actuator based on an Archimedean spiral relocation mechanism",
+        "Decoupled nonlinear adaptive control of position and stiffness for pneumatic soft robots",
+        "Adaptive sliding mode control with application to super-twist algorithm: equivalent control method",
+        "Variable impedance actuators: a review",
+        "A review on the rehabilitation exoskeletons for the lower limbs of the elderly and the disabled",
+        "Linear variable-stiffness mechanisms based on preloaded curved beams",
+        "The study on mechanical impedance and piezoelectric impedance for cantilever beam based on FEA method",
+        "Design and evaluation of a novel torque-controllable variable stiffness actuator with reconfigurability"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Second Century Fund",
+        "Chulalongkorn University",
+        "Thailand Science Research and Innovation Fund"
+    ]
+}

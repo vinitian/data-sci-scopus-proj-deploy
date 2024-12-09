@@ -1,0 +1,112 @@
+{
+    "eid": "2-s2.0-85078291404",
+    "title": "An IoT-Based Thermal Model Learning Framework for Smart Buildings",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Building energy management (BEM)",
+        "building thermal model",
+        "Internet of Things (IoT)",
+        "smart buildings"
+    ],
+    "authors": [
+        "Xiangyu Zhang",
+        "Manisa Pipattanasomporn",
+        "Tao Chen",
+        "Saifur Rahman"
+    ],
+    "citedby-count": 62,
+    "ref-count": 43,
+    "ref-list": [
+        "Agentoriented cooperative smart objects: From IoT system design to implementation",
+        "IoT considerations, requirements, and architectures for smart buildings-Energy optimization and next-generation building management systems",
+        "Dendritic neuron model with effective learning algorithms for classification, approximation, and prediction",
+        "Parallel reinforcement learning: A framework and case study",
+        "Feature-based aggregation and deep reinforcement learning: A survey and some new implementations",
+        "Deploying IoT devices to make buildings smart: Performance evaluation and deployment experience",
+        "Device-free occupant activity sensing using WiFi-enabled IoT devices for smart homes",
+        "Fusion of nonintrusive environmental sensors for occupancy detection in smart homes",
+        "Fog assisted-IoT enabled patient health monitoring in smart homes",
+        "A power disaggregation approach to identify power-temperature models of HVAC units",
+        "A fog-based Internet of energy architecture for transactive energy management systems",
+        "Implemented IoTbased self-learning home management system (SHMS) for Singapore",
+        "An Internet of Things framework for smart energy in buildings: Designs, prototype, and experiments",
+        "Toward opportunistic services for the industrial Internet of Things",
+        "Day-ahead buildinglevel load forecasts using deep learning vs. Traditional time-series techniques",
+        "On-line building energy optimization using deep reinforcement learning",
+        "Thermal comfort modeling for smart buildings: A fine-grained deep learning approach",
+        "Real-time optimized HVAC control system on top of an IoT framework",
+        "IoT-based smart building environment service for occupants' thermal comfort",
+        "Smart HVAC control in IoT: Energy consumption minimization with user comfort constraints",
+        "Operating reserve evaluation of aggregated air conditioners",
+        "A simplified dynamic model for existing buildings using CTF and thermal network models",
+        "Applicability of calculation methods for conduction transfer function of building constructions",
+        "EnergyPlus: Creating a new-generation building energy simulation program",
+        "Use of general models with a small number of parameters, Part 1: Theoretical analysis",
+        "Building thermal model reduction using nonlinear constrained optimization",
+        "Development of a simplified and accurate building model based on electrical analogy",
+        "A new analytical approach for simplified thermal modelling of buildings: Self-adjusting RC-network model",
+        "Prediction of room temperature and relative humidity by autoregressive linear and nonlinear neural network models for an open office",
+        "Indoor air-temperature forecast for energy-efficient management in smart buildings",
+        "Application of artificial neural network for predicting hourly indoor air temperature and relative humidity in modern building in humid region",
+        "A self-learning algorithm for coordinated control of rooftop units in small-and mediumsized commercial buildings",
+        "Development of physical-based demand response-enabled residential load models"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Blacksburg",
+            "@id": "60027090",
+            "affilname": "Virginia Polytechnic Institute and State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027090",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Golden",
+            "@id": "60030451",
+            "affilname": "National Renewable Energy Laboratory",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030451",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "U.S. Department of Energy"
+    ]
+}

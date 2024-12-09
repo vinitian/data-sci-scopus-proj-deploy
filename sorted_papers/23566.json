@@ -1,0 +1,77 @@
+{
+    "eid": "2-s2.0-85079788214",
+    "title": "Separation of cells and particles by the application of discrete dielectrophoretic",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Chemistry (all)",
+            "@code": "1600",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Bioengineering",
+            "@code": "1502",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Chemical Engineering (miscellaneous)",
+            "@code": "1501",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Cell separation",
+        "Dielectrophoretic force",
+        "Microfluidic device"
+    ],
+    "authors": [
+        "Force Nitipong Panklang",
+        "Boonchai Techaumnat",
+        "Anurat Wisitsoraat",
+        "Yuji Suzuki"
+    ],
+    "citedby-count": 0,
+    "ref-count": 9,
+    "ref-list": [
+        "Continuous blood cell separation by hydrophoretic filtration",
+        "Continuous-flow microfluidic blood cell sorting for unprocessed whole blood using surface-micromachined microfiltration membranes",
+        "Local control of magnetic objects in microfluidic channels",
+        "Sorting drops and cells with acoustics: Acoustic microfluidic fluorescence-activated cell sorter",
+        "Separation of human breast cancer cells from blood by differential dielectric affinity",
+        "Dielectrophoretic separation and manipulation of live and heat-treated cells of listeria on microfabricated devices with interdigitated electrodes",
+        "Dielectrophoretic separation of platelets from diluted whole blood in microfluidic channels"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025272",
+            "affilname": "The University of Tokyo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025272",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011525",
+            "affilname": "Thailand National Electronics and Computer Technology Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011525",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,91 @@
+{
+    "eid": "2-s2.0-85119720228",
+    "title": "Iterative LMI Approach to Robust Hierarchical Control of Homogenous Linear Multi-Agent Systems Subject to Polytopic Uncertainty and External Disturbance",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "disturbance attenuation",
+        "hierarchical control",
+        "Multi-agent systems",
+        "parameter-dependent bilinear matrix inequality",
+        "polytopic uncertainty"
+    ],
+    "authors": [
+        "Tuynh Van Pham",
+        "Dinh Hoa Nguyen",
+        "David Banjerdpongchai"
+    ],
+    "citedby-count": 1,
+    "ref-count": 27,
+    "ref-list": [
+        "Hierarchical decentralized stabilization for networked dynamical systems by LQR selective pole shift",
+        "Disturbance-observer-based control and related methods An overview",
+        "A dilated LMI approach to continuous-time gain-scheduled controller synthesis with parameter-dependent Lyapunov variables",
+        "Affine parameter-dependent Lyapunov functions and real parametric uncertainty",
+        "Robust analysis and control of parameter-dependent uncer-tain descriptor systems",
+        "LPV control of nonstationary systems: A parameter-dependent Lyapunov approach",
+        "Robust performance analysis with LMI-based methods for real parametric uncertainty via parameter-dependent Lyapunov functions",
+        "Robust stability and performance of linear time-varying systems in polytopic domains",
+        "Polynomially parameter-dependent Lyapunov functions for robust stability of polytopic systems: An LMI approach",
+        "Parameter-dependent LMIs in robust analysis: Characterization of homogeneous polynomially parameter-dependent solutions via LMI relaxations",
+        "Parameter-dependent Lyapunov functions for linear systems with constant uncertainties",
+        "Leader-following consensus of linear multiagent systems with state observer under switching topologies",
+        "Design of robust hierarchical control for homogeneous linear multi-agent systems with parametric uncertainty and external disturbance",
+        "Robust consensus for linear multi-agent systems with mixed uncertainties",
+        "Iterative LMI approach to robust state-feedback control of polynomial systems with bounded actuators",
+        "A sub-optimal consensus design for multi-agent systems based on hierarchical LQR",
+        "Distributed robust control of linear multi-agent systems with parameter uncertainties",
+        "On H1 and H2 performance regions of multi-agent systems",
+        "Synthesis of fixed-structure controllers via numerical optimization",
+        "Iterative LMI approach to design robust state-feedback controllers for Lur'e systems with time-invariant delays",
+        "Neural network control for a semi-active vehicle suspension with a magnetorheological damper",
+        "Neural network-based supervisory con-trol for quarter-car suspension with nonlinearity and uncertainty",
+        "Design of nonlinear controllers for active vehicle suspensions using parameter-varying control synthesis",
+        "Design of non-fragile H1 controller for active vehicle suspensions"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Fukuoka",
+            "@id": "60011047",
+            "affilname": "Kyushu University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011047",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "Japan International Cooperation Agency"
+    ]
+}

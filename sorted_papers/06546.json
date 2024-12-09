@@ -1,0 +1,81 @@
+{
+    "eid": "2-s2.0-85160414086",
+    "title": "Adaptive sentiment analysis using multioutput classification: a performance comparison",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "AdaBoost and ExtraTrees",
+        "Bagging and Stacking",
+        "BernoulliNB",
+        "Comparation",
+        "Decision Tree",
+        "K-nearest neighbor",
+        "LinearSVC",
+        "Logistic Regression",
+        "Multioutput",
+        "Random Forest"
+    ],
+    "authors": [
+        "Taqwa Hariguna",
+        "Athapol Ruangkanjanases"
+    ],
+    "citedby-count": 0,
+    "ref-count": 33,
+    "ref-list": [
+        "Sentiment analysis algorithms: evaluation performance of the Arabic and English language",
+        "Classification of tweets causing deadlocks in Jakarta streets with the help of algorithm C4.5",
+        "Comparison of three time series forecasting methods on linear regression, exponential smoothing and weighted moving average",
+        "A knowledge behavioral and intelligence management in fostering entrepreneurship for modern industries",
+        "Sentiment analysis of GO-JEK services quality using Multi-Label Classification",
+        "Understanding the meanings of citations using sentiment, role, and citation function classifications",
+        "Utilizing internet analysis technology to conduct data analysis of student attitude survey",
+        "Empathy and distress prediction using transformer multi-output regression and emotion analysis with an ensemble of supervised and zero-shot learning models",
+        "Emotional text mining: customer profiling in brand management",
+        "Sentiment analysis via semi-supervised learning: a model based on dynamic threshold and multi-classifiers",
+        "COVID-19 vaccination: a retrospective observation and sentiment analysis of the twitter social media platform in Indonesia",
+        "Community opinion sentiment analysis on social media using Naive Bayes algorithm methods",
+        "Certainty factor method analysis for identification of Covid-19 virus accuracy",
+        "Application of quality function development method to establish application of new product development information system",
+        "Exploiting BERT to improve aspect-based sentiment analysis performance on Persian language",
+        "A brief overview of the accuracy of classification algorithms for data prediction in machine learning applications",
+        "An empirical research on sentiment analysis using machine learning approaches",
+        "A proposed sentiment analysis deep learning algorithm for analyzing COVID-19 tweets",
+        "Research on deep learning-based algorithm and model for personalized recommendation of resources",
+        "Multi-output learning based on multimodal GCN and co-attention for image aesthetics and emotion analysis",
+        "Lexicon-based approach outperforms Supervised machine learning approach for urdu sentiment analysis in multiple domains",
+        "Data mining implementation with algorithm c4.5 for predicting graduation rate college student",
+        "Sentiment analysis in learning resources",
+        "Market basket analysis using FP-growth algorithm to design marketing strategy by determining consumer purchasing patterns",
+        "Multi output learning using task wise attention for predicting binary properties of tweets: shared-task-on-fighting the COVID-19 infodemic",
+        "A study on the relationships among personality traits, gender and customer knowledge preferences",
+        "Software defect fault intelligent location and identification method based on data mining",
+        "Chinese micro-blog sentiment analysis based on multiple sentiment dictionaries and semantic rule sets",
+        "Survey on multi-output learning",
+        "A comparative study on bio-inspired algorithms for sentiment analysis",
+        "Study on the ideological and political practice teaching of college students based on the internet + technology"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199583",
+            "affilname": "Chulalongkorn Business School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199583",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Purwokerto",
+            "@id": "60109777",
+            "affilname": "Universitas Amikom Purwokerto",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60109777",
+            "affiliation-country": "Indonesia"
+        }
+    ],
+    "funding": []
+}

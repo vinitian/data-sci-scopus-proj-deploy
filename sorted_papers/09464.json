@@ -1,0 +1,95 @@
+{
+    "eid": "2-s2.0-85162956377",
+    "title": "Image processing technique for electrical characterization of red blood cells by electrorotation",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "electrorotation",
+        "image processing",
+        "red blood cells",
+        "rotation rate",
+        "single-cell"
+    ],
+    "authors": [
+        "Rakdee Bandatang",
+        "Nitipong Panklang",
+        "Mati Horprathum",
+        "Suchin Trirongjitmoah",
+        "Boonchai Techaumnat"
+    ],
+    "citedby-count": 0,
+    "ref-count": 8,
+    "ref-list": [
+        "Dielectrophoretic detection of changes in erythrocyte membranes following malarial infection",
+        "Rotation of cells in an alternating electric field: theory and experimental proof",
+        "Dielectric spectroscopy of Schizosaccharomyces pombe using electrorotation and electroorientation",
+        "Image Processing Technique for Characteristic Test of Cell Based on Electrorotation Chip",
+        "Tissue Cell Boundaries Detection based on Curvelet-based Snake Model in Electrorotation Bio-chip Control System",
+        "Cell electrorotation motion parameters detection based on image processing",
+        "Consideration of Relationship between Shape and Angular Velocity of Particles under Electrorotation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Ubon Ratchathani",
+            "@id": "60030801",
+            "affilname": "Ubon Ratchathani University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030801",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60030267",
+            "affilname": "Rajamangala University of Technology Thanyaburi (RMUTT)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030267",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011525",
+            "affilname": "Thailand National Electronics and Computer Technology Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011525",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "NRCT-JSPS"
+    ]
+}

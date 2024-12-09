@@ -1,0 +1,52 @@
+{
+    "eid": "2-s2.0-85019905263",
+    "title": "Robust model predictive control with time-varying tubes",
+    "cover-date": "2017-08-01",
+    "subject-areas": [
+        {
+            "$": "Computer Science Applications",
+            "@code": "1706"
+        },
+        {
+            "$": "Control and Systems Engineering",
+            "@code": "2207"
+        }
+    ],
+    "keywords": [
+        "Bounded disturbances",
+        "model predictive controller",
+        "robust stability",
+        "time-varying tubes"
+    ],
+    "authors": [
+        "Pornchai Bumroongsri"
+    ],
+    "citedby-count": 12,
+    "ref-count": 11,
+    "ref-list": [
+        "Model Predictive Control: Theory and Design",
+        "Robustifying model predictive control of constrained linear systems",
+        "Robust model predictive control of constrained linear systems with bounded disturbances",
+        "Robust tube-based MPC for tracking of constrained linear systems with additive disturbances",
+        "Tube-based robust MPC for linear time-varying systems with bounded disturbances",
+        "An Off-Line Formulation of Tube-Based Robust MPC Using Polyhedral Invariant Sets",
+        "Online robust tube-based MPC for time-varying systems: A practical approach",
+        "Robust output feedback model predictive control of constrained linear systems: Time varying case",
+        "Invariant approximations of the minimal robust positively invariant set",
+        "Convex Optimization",
+        "Theory and computation of disturbance invariant sets for discrete-time linear systems"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "affilname": "Mahidol University",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

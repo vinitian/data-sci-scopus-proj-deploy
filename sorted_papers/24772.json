@@ -1,0 +1,95 @@
+{
+    "eid": "2-s2.0-85146430750",
+    "title": "Coffee Bean Inspection Machine with Deep Learning Classification",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Automotive Engineering",
+            "@code": "2203",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        }
+    ],
+    "keywords": [
+        "Classification",
+        "Coffee Beans",
+        "Convolutional Neural Network (CNNs)",
+        "Deep Learning",
+        "Machine Learning"
+    ],
+    "authors": [
+        "Terisara Micaraseth",
+        "Khemwutta Pornpipatsakul",
+        "Ratchatin Chancharoen",
+        "Gridsada Phanomchoeng"
+    ],
+    "citedby-count": 0,
+    "ref-count": 17,
+    "ref-list": [
+        "Coffee: World markets and trade",
+        "Arabica Green Coffee: Defect Handbook",
+        "Quality and Defect Inspection of Green Coffee Beans Using a Computer Vision System",
+        "Classification of Green coffee bean images basec on defect types using convolutional neural network (CNN)",
+        "Deep-learning-based defective bean inspection with GAN-structured automated labeled data augmentation in coffee industry",
+        "Deep Convolutional Neural Network for Coffee Bean Inspection",
+        "Deep Learning Model for the Inspection of Coffee Bean Defects",
+        "Prediction of Defect Coffee Beans Using CNN",
+        "Deep Learning to Detect and Classify the Purity Level of Luwak Coffee Green Beans",
+        "Classification of coffee bean species using image processing, artificial neural network and K nearest neighbors",
+        "Visual feature and machine learning approach for arabica green coffee beans grade determination",
+        "Improving Defect Inspection Quality of Deep-Learning Network in Dense Beans by Using Hough Circle Transform for Coffee Industry",
+        "Real-time classification of green coffee beans by using a convolutional neural network",
+        "Peaberry and normal coffee bean classification using CNN, SVM, and KNN: Their implementation in and the limitations of Raspberry Pi 3",
+        "AlexNet convolutional neural network to classify the types of Indonesian coffee beans"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

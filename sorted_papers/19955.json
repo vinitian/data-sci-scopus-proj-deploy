@@ -1,0 +1,81 @@
+{
+    "eid": "2-s2.0-85090209846",
+    "title": "Potential Use of Personal Tracking Device for Sleep Quality Assessment of Flight Attendant",
+    "cover-date": "2020-06-05",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Flight Attendant",
+        "Image Processing",
+        "OCR",
+        "Personal Tracking Device",
+        "Sleep Quality Assessment"
+    ],
+    "authors": [
+        "Aurawan Imsombut",
+        "Waraporn Jirapanthong",
+        "Banyapon Poolsawas",
+        "Vongsa Laovoravit",
+        "Krit Pongpirul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 21,
+    "ref-list": [
+        "Effects of ad lib extended-delayed sleep on sensorimotor performance, memory and sleepiness in the young adult",
+        "The effects of changing the phase and duration of sleep",
+        "The Immune System",
+        "Effect of yoga on sleep quality and neuroendocrine immune response in metastatic breast cancer patients",
+        "Randomized, controlled trial of a nonpharmacological intervention to improve abnormal sleep/wake patterns in nursing home residents",
+        "Loneliness predicts pain, depression, and fatigue: Understanding the role of immune dysregulation",
+        "Multiclass sleep stage analysis and adaptive pattern recognition",
+        "A convolutional neural network for sleep stage scoring from raw singlechannel EEG",
+        "An efficient sleep scoring system based on EEG signal using complex-valued machine learning algorithms",
+        "Recognizing sleep stages with wearable sensors in everyday settings",
+        "Sleep behavior assessment via smartwatch and stigmergic receptive fields",
+        "Scene text recognition in mobile applications by character descriptor and structure configuration",
+        "Long short-Term memory",
+        "Optical character recognition by open source ocr tool tesseract: A case study",
+        "Combining tesseract and asprise results to improve ocr text detection accuracy"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60001385",
+            "affilname": "Dhurakij Pundit University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001385",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

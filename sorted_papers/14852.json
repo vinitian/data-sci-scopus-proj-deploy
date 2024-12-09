@@ -1,0 +1,78 @@
+{
+    "eid": "2-s2.0-85051787618",
+    "title": "Mesh-based multi-view normal integration with energy minimization using surface reflectance properties",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Graphics and Computer-Aided Design",
+            "@code": "1704",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "3D reconstruction",
+        "Multi-view normal integration",
+        "Multi-view vision",
+        "Triangle mesh-based surface"
+    ],
+    "authors": [
+        "Wichayut Eaksarayut",
+        "Borom Tunwattanapong",
+        "Pitchaya Sitthi-Amorn",
+        "Nuttapong Chentanez"
+    ],
+    "citedby-count": 0,
+    "ref-count": 22,
+    "ref-list": [
+        "Principles of shape from specular reflection",
+        "Shape, illumination, and reflectance from shading",
+        "Putting holes in holey geometry: Topology change for arbitrary surfaces",
+        "Multiview normal field integration using level set methods",
+        "Gpu accelerated grid-free surface tracking",
+        "Fast grid-free surface tracking",
+        "Metro: Measuring error on simplified surfaces",
+        "Gradient flows for optimizing triangular mesh-based surfaces: Applications to 3d reconstruction problems dealing with visibility",
+        "Multiview photometric stereo",
+        "A method for enforcing integrability in shape from shading algorithms",
+        "An introduction to image-based 3d surface reconstruction and a survey of photometric stereo methods",
+        "The variational approach to shape from shading. Computer Vision",
+        "The visual hull concept for silhouette-based image understanding",
+        "Multiview normal field integration using graph-cuts",
+        "Acquiring reflectance and shape from continuous spherical harmonic illumination",
+        "Multi-view normal field integration for 3d reconstruction of mirroring objects",
+        "Topologyadaptive multi-view photometric stereo",
+        "Transformesh: A topology-adaptive mesh-based approach to surface evolution",
+        "Topology-adaptive mesh deformation for surface evolution, morphing, and multiview reconstruction",
+        "Shape-from-shading: A survey"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ubon Ratchathani",
+            "@id": "107273332",
+            "affilname": "Ratchathani University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/107273332",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

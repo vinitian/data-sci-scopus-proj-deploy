@@ -1,0 +1,89 @@
+{
+    "eid": "2-s2.0-85159378506",
+    "title": "Privacy-Preserving Machine Learning for Snoring Detection",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Media Technology",
+            "@code": "2214",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Education",
+            "@code": "3304",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "Ambient Living",
+        "Convolutional Neural Network",
+        "Edge Computing",
+        "Federated Learning",
+        "Snoring Detection"
+    ],
+    "authors": [
+        "Kundjanasith Thonglek",
+        "Thanaporn Jinnovart",
+        "Arnan Maipradit"
+    ],
+    "citedby-count": 0,
+    "ref-count": 18,
+    "ref-list": [
+        "Snoring sound classification from respiratory signal",
+        "Insights into the aetiology of snoring from observational and genetic investigations in the uk biobank",
+        "A novel approach to diagnosis of sleep apnea from snoring signals: Ternary pattern method",
+        "Osasud: A dataset of stroke unit recordings for the detection of obstructive sleep apnea syndrome",
+        "Noncontact sleep stage detection using canonical correlation analysis of respiratory sound",
+        "Snoring seconds detection with emfi sensor strips",
+        "A sleep monitoring system using force sensor and an accelerometer sensor for screening sleep apnea",
+        "Wearable skin vibration sensor using a pvdf film",
+        "Design of real-Time system based on machine learning for snoring and osa detection",
+        "Accuracy comparison of present low-cost current sensors for building energy monitoring",
+        "Federated vs. centralized machine learning under privacy-elastic users: A comparative analysis",
+        "Federated learning: Challenges, methods, and future directions",
+        "Wireless powered mobile edge computing for industrial internet of things systems",
+        "N-fedavg: Novel federated average algorithm based on fedavg",
+        "Design considerations for edge neural network accelerators: An industry perspective",
+        "The research of feature extraction based on mfcc for speaker recognition",
+        "Sparse communication for federated learning",
+        "A deep learning model for snoring detection and vibration notification using a smart wearable gadget"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60030267",
+            "affilname": "Rajamangala University of Technology Thanyaburi (RMUTT)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030267",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ikoma",
+            "@id": "60025017",
+            "affilname": "Nara Institute of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025017",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

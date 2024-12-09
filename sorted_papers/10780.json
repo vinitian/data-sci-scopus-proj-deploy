@@ -1,0 +1,75 @@
+{
+    "eid": "2-s2.0-85076261344",
+    "title": "Detecting and removing specular reflectance components based on image linearization",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Image Linearization",
+        "Lambert Reflectance",
+        "Photometric Stereo",
+        "Relighting",
+        "Specular Reflectance"
+    ],
+    "authors": [
+        "Ryosuke Nakao",
+        "Yuji Iwahori",
+        "Yoshinori Adachi",
+        "Aili Wang",
+        "M. K. Bhuyan",
+        "Boonserm Kijsirikul"
+    ],
+    "citedby-count": 4,
+    "ref-count": 10,
+    "ref-list": [
+        "Obtaining shape from shading information",
+        "Photometric method for determining surface orientation from multiple images",
+        "Shape and materials by example: A photometric stereo approach",
+        "Color photometric stereo and virtual image generation by neural network",
+        "Neural network implementation of image rendering via self-calibration",
+        "Geometry and photometry in 3d visual recognition",
+        "Face relighting with Rediance Environment Maps",
+        "Photometric image-based rendering for image generation in arbitrary illumination",
+        "Real-time relighting of arbitrary objects with shape change"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Harbin",
+            "@id": "60024758",
+            "affilname": "Harbin University of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024758",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Guwahati",
+            "@id": "60010126",
+            "affilname": "Indian Institute of Technology Guwahati",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010126",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Kasugai",
+            "@id": "60007976",
+            "affilname": "Chubu University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007976",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "JSPS Grant-in-Aid for Scientific Research",
+        "Chubu University"
+    ]
+}

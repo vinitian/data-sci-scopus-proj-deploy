@@ -1,0 +1,58 @@
+{
+    "eid": "2-s2.0-85054367105",
+    "title": "Estimations of GNSS receiver internal delay using precise point positioning algorithm",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (miscellaneous)",
+            "@code": "2201",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Earth and Planetary Sciences (miscellaneous)",
+            "@code": "1901",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [
+        "NSS receiver internal delay",
+        "PPP"
+    ],
+    "authors": [
+        "Natchapan Pothikunkupatarak",
+        "Thayathip Thongtan",
+        "Chalermchon Satirapod"
+    ],
+    "citedby-count": 4,
+    "ref-count": 11,
+    "ref-list": [
+        "Precise receiver clock offset estimations according to each Global Navigation Satellite Systems (GNSS) timescales"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathumtani",
+            "@id": "101395628",
+            "affilname": "National Institute of Metrology (Thailand)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101395628",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "NIMT"
+    ]
+}

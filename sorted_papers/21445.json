@@ -1,0 +1,108 @@
+{
+    "eid": "2-s2.0-85118336295",
+    "title": "Comparative genome characterization of leptospira interrogans from mild and severe leptospirosis patients",
+    "cover-date": "2021-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Ecology, Evolution, Behavior and Systematics",
+            "@code": "1105",
+            "@abbrev": "AGRI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Health Informatics",
+            "@code": "2718",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Genome annotation",
+        "Leptospira interrogans",
+        "Leptospirosis",
+        "Virulence factor genes"
+    ],
+    "authors": [
+        "Songtham Anuntakarun",
+        "Vorthon Sawaswong",
+        "Rungrat Jitvaropas",
+        "Kesmanee Praianantathavorn",
+        "Witthaya Poomipak",
+        "Yupin Suputtamongkol",
+        "Chintana Chirathaworn",
+        "Sunchai Payungporn"
+    ],
+    "citedby-count": 0,
+    "ref-count": 38,
+    "ref-list": [
+        "Leptospirosis: a zoonotic disease of global importance",
+        "Leptospira and leptospirosis",
+        "Genome sequence of the saprophyte Leptospira biflexa provides insights into the evolution of Leptospira and the pathogenesis of leptospirosis",
+        "Whole genome sequencing revealed host adaptation-focused genomic plasticity of pathogenic Leptospira",
+        "100K Pathogen Genome Project",
+        "VFDB: a refer-ence database for bacterial virulence factors",
+        "Trimmomatic: a flexible trimmer for Illumina sequence data",
+        "SPAdes: a new genome assembly algorithm and its applications to single-cell sequencing",
+        "ContEst16S: an algorithm that identifies contaminated prokaryotic genomes using 16S RNA gene sequences",
+        "ACT: the Artemis Comparison Tool",
+        "Prokka: rapid prokaryotic genome annotation",
+        "eggNOG 5.0: a hierarchical, functionally and phylogenetically annotated orthology resource based on 5090 organisms and 2502 viruses",
+        "The DAVID Gene Functional Classification Tool: a novel biological module-centric algorithm to functionally analyze large gene lists",
+        "KEGG: new perspectives on genomes, pathways, diseases and drugs",
+        "Prediction of lipoprotein signal peptides in Gram-nega-tive bacteria",
+        "PHASTER: a better, faster version of the PHAST phage search tool",
+        "Gene Ontology: tool for the unification of biology",
+        "Importance of prophages to evolution and virulence of bacterial pathogens",
+        "Correction to: Genomic analysis of Leptospira interro-gans serovar Paidjan and Dadas isolates from carrier dogs and comparative genomic analysis to detect genes under positive se-lection",
+        "Comparative analysis of 37 Acinetobacter bacteriophages",
+        "Lipoproteins of bacterial pathogens",
+        "LIPOPRE-DICT: bacterial lipoprotein prediction server",
+        "Lethal outcome of leptospirosis in south-ern Russia: characterization of Leptospira interrogans isolated from a deceased teenager",
+        "Complete genome sequence of Leptospira interrogans strains FMAS_KW1, FMAS_KW2 and FMAS_AW1 isolated from leptospirosis patients from Karawa-nalla and Awissawella, Sri Lanka",
+        "Complete genome sequence of a virulent Leptospira interrogans serovar Copenhageni strain, assembled with a combination of nanopore and Illumina reads",
+        "The IgA1 proteases of pathogenic bacteria",
+        "IgA1 protease",
+        "Aminoglyco-sides: an overview",
+        "Clinical observation and treatment of leptospirosis",
+        "Identification and functional analysis of dTDP-glucose-4,6-dehydratase gene and its linked gene cluster in an aminoglycoside antibiotics producer of Streptomyces tene-brarius H6",
+        "Nutritional immunity: transition metals at the pathogen-host interface",
+        "Structure-function analysis of manganese exporter proteins across bacteria",
+        "Manganese acquisition and homeostasis at the host-pathogen interface",
+        "Molecular phylogeny as a basis for the classification of transport proteins from bacteria, archaea and eukarya",
+        "FlaA proteins in Leptospira interrogans are essential for motility and virulence but are not required for formation of the flagellum sheath",
+        "Flagellar bas-al body structural proteins FlhB, FliM, and FliY are required for flagellar-associated protein expression in Listeria monocytogenes"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199575",
+            "affilname": "Siriraj Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199575",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60013939",
+            "affilname": "Faculty of Medicine, Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013939",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalong-korn University",
+        "Chulalongkorn University"
+    ]
+}

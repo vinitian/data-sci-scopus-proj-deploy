@@ -1,0 +1,117 @@
+{
+    "eid": "2-s2.0-85159860271",
+    "title": "Mobile Bot Application for Identification of Trypanosoma evansi Infection through Thin-Blood Film Examination Based on Deep Learning Approach",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "a microscopic examination",
+        "Mobile application",
+        "model performance",
+        "Trypanosoma evansi",
+        "YOLO algorithms"
+    ],
+    "authors": [
+        "Rangsan Jomtarak",
+        "Veerayuth Kittichai",
+        "Morakot Kaewthamasorn",
+        "Suchansa Thanee",
+        "Apinya Arnuphapprasert",
+        "Kaung Myat Naing",
+        "Teerawat Tongloy",
+        "Siridech Boonsang",
+        "Santhad Chuwongin"
+    ],
+    "citedby-count": 0,
+    "ref-count": 35,
+    "ref-list": [
+        "A Clinical and Epidemiological Investigation of the First Reported Human Infection With the Zoonotic Parasite Trypanosoma evansi in Southeast Asia",
+        "Innate and acquired resistance to African trypanosomiasis",
+        "The trypanosomiases",
+        "Human trypanosomiasis caused by Trypanosoma evansi in India: The first case report",
+        "A new form of human trypanosomiasis in India. Description of the first human case in the world caused by Trypanosoma evansi",
+        "Trypanocidal activity of human plasma on Trypanosoma evansi in mice",
+        "UAV-YOLO: Small Object Detection on Unmanned Aerial Vehicle Perspective",
+        "YOLO-Tomato: A Robust Algorithm for Tomato Detection Based on YOLOv3",
+        "Mango Fruit Load Estimation Using a Video Based MangoYOLO-Kalman Filter-Hungarian Algorithm Method",
+        "Early recognition of tomato gray leaf spot disease based on MobileNetv2-YOLOv3 model",
+        "Classification of the COVID-19 infected patients using DenseNet201 based deep transfer learning",
+        "Classification of COVID-19 patients from chest CT images using multi-objective differential evolution-based convolutional neural networks",
+        "Transfer Learning with Deep Convolutional Neural Network (CNN) for Pneumonia Detection using Chest X-ray",
+        "Automated detection of COVID-19 cases using deep neural networks with X-ray images",
+        "COVID-19 detection in CT images with deep learning: A voting-based scheme and cross-datasets analysis",
+        "Deep learning approach to peripheral leukocyte recognition",
+        "Deep Learning Based Automatic Malaria Parasite Detection from Blood Smear and its Smartphone Based Application",
+        "An automatic device for detection and classification of malaria parasite species in thick blood film",
+        "Aedes mosquito detection in its larval stage using deep neural networks",
+        "Mosquito Larva Classification Method Based on CNN",
+        "A Vision-Based Counting and Recognition System for Flying Insects in Intelligent Agriculture",
+        "Detection of Plasmodium berghei infected Anopheles stephensi using near-infrared spectroscopy",
+        "Deep learning approach to detect malaria from microscopic images",
+        "CNN-Based Image Analysis for Malaria Diagnosis",
+        "Classification and Morphological Analysis of Vector Mosquitoes using Deep Convolutional Neural Networks",
+        "Humanlevel recognition of blast cells in acute myeloid leukaemia with convolutional neural networks"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Ladkrabang Bangkok",
+            "@id": "60021543",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021543",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60001477",
+            "affilname": "Suan Dusit University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001477",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "College of Advanced Manufacturing Innovation",
+        "Office of the Permanent Secretary",
+        "Thailand Science Research and Innovation Fund Chulalongkorn University",
+        "National Research Council of Thailand",
+        "King Mongkut s Institute of Technology Ladkrabang",
+        "Ministry of Higher Education, Science, Research and Innovation",
+        "Faculty of Veterinary Science, Chulalongkorn University"
+    ]
+}

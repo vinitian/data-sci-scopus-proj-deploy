@@ -1,0 +1,79 @@
+{
+    "eid": "2-s2.0-85081698319",
+    "title": "Aircraft Detection Based on Saliency Map and Convolution Neural Network",
+    "cover-date": "2019-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Media Technology",
+            "@code": "2214",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Aircraft detection",
+        "CNN",
+        "Image processing",
+        "Remote sensing image",
+        "Saliency map"
+    ],
+    "authors": [
+        "Yuwei Sun",
+        "Nagul Cooharojananone",
+        "Hideya Ochiai"
+    ],
+    "citedby-count": 2,
+    "ref-count": 14,
+    "ref-list": [
+        "Deep learning approach for car detection in UAV imagery",
+        "Fasterr-cnn:Towardsreal-time object detection with",
+        "Imagenet classification with deep convolutional neural networks",
+        "You only look once: Unified, real-time object detection",
+        "Aircraft detection in remote sensing images based on saliency and convolution neural network",
+        "Backpropagation applied to handwritten zip code recognition",
+        "Aircraft type recognition based on segmentation with deep convolutional neural networks",
+        "Aircraft type recognition in remote sensing images based on feature learning with conditional generative adversarial networks",
+        "Gradient-based learning applied to document recognition"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025272",
+            "affilname": "The University of Tokyo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025272",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

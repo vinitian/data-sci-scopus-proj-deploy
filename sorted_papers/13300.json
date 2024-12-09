@@ -1,0 +1,85 @@
+{
+    "eid": "2-s2.0-85082982845",
+    "title": "Interdependent multi-task learning for simultaneous segmentation and detection",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Deep Learning",
+        "Multi-task Learning",
+        "Object Detection",
+        "Semantic Segmentation"
+    ],
+    "authors": [
+        "Mahesh Reginthala",
+        "Yuji Iwahori",
+        "M. K. Bhuyan",
+        "Yoshitsugu Hayashi",
+        "Witsarut Achariyaviriya",
+        "Boonserm Kijsirikul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 37,
+    "ref-list": [
+        "In-place activated batchnorm for memory-optimized training of dnns",
+        "A unified multi-scale deep convolutional neural network for fast object detection",
+        "Multitask learning: A knowledge-based source of inductive bias",
+        "Searching for efficient multi-scale architectures for dense image prediction",
+        "Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs",
+        "Encoder-decoder with atrous separable convolution for semantic image segmentation",
+        "The cityscapes dataset for semantic urban scene understanding",
+        "ImageNet: A large-scale hierarchical image database",
+        "Scene parsing with multiscale feature learning, purity trees, and optimal covers",
+        "Dual attention network for scene segmentation",
+        "Fast R-CNn",
+        "Rich feature hierarchies for accurate object detection and semantic segmentation",
+        "Delving deep into rectifiers: Surpassing human-level performance on imagenet classification",
+        "Spatial pyramid pooling in deep convolutional networks for visual recognition",
+        "Feature pyramid networks for object detection",
+        "Focal loss for dense object detection",
+        "Path aggregation network for instance segmentation",
+        "Fully convolutional networks for semantic segmentation",
+        "Cross-stitch networks for multi-task learning",
+        "YOLO9000: Better, faster, stronger",
+        "Faster R-CNN: Towards real-time object detection with region proposal networks",
+        "Selective search for object recognition",
+        "Self-supervised model adaptation for multimodal semantic segmentation",
+        "Pyramid scene parsing network",
+        "M2DET: A single-shot object detector based on multi-level feature pyramid network"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Guwahati",
+            "@id": "60010126",
+            "affilname": "Indian Institute of Technology Guwahati",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010126",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Kasugai",
+            "@id": "60007976",
+            "affilname": "Chubu University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007976",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Japan Society for the Promotion of Science",
+        "JST",
+        "Chubu University",
+        "JICA"
+    ]
+}

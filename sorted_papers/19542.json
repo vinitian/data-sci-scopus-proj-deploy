@@ -1,0 +1,99 @@
+{
+    "eid": "2-s2.0-85136222063",
+    "title": "A Computational Workflow for Estimation of Short RNA Polyadenylation using Direct RNA Nanopore Sequencing with Polyuridylation",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Education",
+            "@code": "3304",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "Direct RNA Nanopore sequencing",
+        "Poly(A) tail",
+        "Poly(U) tail",
+        "RNA"
+    ],
+    "authors": [
+        "Jirachote Karunyakorn",
+        "Naruemon Pratanwanich",
+        "Monnat Pongpanich",
+        "Pornchai Kaewsapsak"
+    ],
+    "citedby-count": 0,
+    "ref-count": 21,
+    "ref-list": [
+        "Ribonucleic aciddependent ribonucleotide incorporation. I. Purification and properties of the enzyme",
+        "Polyadenylation in mammalian mitochondria: Insights from recent studies",
+        "Polyadenylation of three classes of chloroplast RNA in Chlamydomonas reinhadtii",
+        "Dual requirement for yeast hnRNP Nab2p in mRNA poly(A) tail length control and nuclear export",
+        "Regulation of mRNA stability in mammalian cells",
+        "RNA polyadenylation and its consequences in prokaryotes",
+        "Polyadenylylation helps regulate mRNA decay in Escherichia coli",
+        "Polyadenylation of mRNA in prokaryotes",
+        "RNase II removes the oligo(A) tails that destabilize the rpsO mRNA of Escherichia coli",
+        "Formation of mRNA 3' ends in eukaryotes: Mechanism, regulation, and interrelationships with other steps in mRNA synthesis",
+        "The Oxford Nanopore MinION: Delivery of nanopore sequencing to the genomics community",
+        "Highly parallel direct RNA sequencing on an array of nanopores",
+        "Genomewide characterization of non-polyadenylated RNAs",
+        "A complete bacterial genome assembled de novo using only nanopore sequencing data",
+        "Tailfindr: Alignment-free poly(A) length measurement for Oxford Nanopore RNA and DNA sequencing",
+        "NanoPack: Visualizing and processing long-read sequencing data",
+        "Minimap2: Pairwise alignment for nucleotide sequences",
+        "The Sequence Alignment/Map format and SAMtools",
+        "Selective review of offline change point detection methods",
+        "Nanopore native RNA sequencing of a human poly(A) transcriptome",
+        "Sequencing DNA with nanopores: Troubles and biases"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

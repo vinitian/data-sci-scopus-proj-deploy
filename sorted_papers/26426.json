@@ -1,0 +1,66 @@
+{
+    "eid": "2-s2.0-85069161268",
+    "title": "Development of a prototype of autonomous vehicle for agriculture applications",
+    "cover-date": "2019-04-12",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Autonomous vehicle",
+        "Fertilizer spreader",
+        "Obstacle avoidance",
+        "Path following",
+        "PIXHAWK",
+        "RTK GPS"
+    ],
+    "authors": [
+        "Peerapol Chemhengcharoen",
+        "Peeranut Nilsumrit",
+        "Pornsinee Pongpetrarat",
+        "Gridsada Phanomchoeng"
+    ],
+    "citedby-count": 3,
+    "ref-count": 11,
+    "ref-list": [
+        "Autonomous ground vehicle",
+        "Autonomous ground vehicle path tracking",
+        "PIXHAWK: A system for autonomous flight using onboard computer vision",
+        "A system for semi-autonomous tractor operations",
+        "New trends in robotics for agriculture: Integration and assessment of a real fleet of robots",
+        "Application of GPS-RTK technology in the land change survey",
+        "Analysis and design parameters for inclined rotors used for manure dispersal on broadcast spreaders for solid manure"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

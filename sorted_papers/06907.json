@@ -1,0 +1,81 @@
+{
+    "eid": "2-s2.0-85076999331",
+    "title": "Online optimal stationary reference frame controller for inverter interfaced distributed generation in a microgrid system",
+    "cover-date": "2020-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy (all)",
+            "@code": "2100",
+            "@abbrev": "ENER"
+        }
+    ],
+    "keywords": [
+        "Distributed generation",
+        "Fuzzy logic",
+        "Microgrid",
+        "Particle swarm optimization (PSO) algorithm",
+        "Proportional-resonant controller"
+    ],
+    "authors": [
+        "Xiao yan Jiang",
+        "Chuan He",
+        "Kittisak Jermsittiparsert"
+    ],
+    "citedby-count": 12,
+    "ref-count": 29,
+    "ref-list": [
+        "Multi-objective energy management in a micro-grid",
+        "Instantaneous reactive power compensator comprising switching devices without energy storage components",
+        "Extracting appropriate nodal marginal prices for all types of committed reserve",
+        "A survey of particle swarm optimization applications in electric power systems",
+        "Overview of control and grid synchronization for distributed power generation systems",
+        "The price prediction for the energy market based on a new method",
+        "A control strategy for a distributed generation unit in grid-connected and autonomous modes of operation",
+        "A new feature selection and hybrid forecast engine for day-ahead price forecasting of electricity markets",
+        "Decentralized control for parallel operation of distributed generation inverters using resistive output impedance",
+        "Hierarchical control of droop-controlled AC and DC microgrids\u2014A general approach toward standardization",
+        "A framework to expedite joint energy-reserve payment cost minimization using a custom-designed method based on Mixed Integer Genetic Algorithm",
+        "Islanding detection method for microgrid based on extracted features from differential transient rate of change of frequency",
+        "A flexible harmonic control approach through voltage controlled DG-grid interfacing converters",
+        "Optimal preventive maintenance policy for electric power distribution systems based on the fuzzy AHP methods",
+        "Micro-grid autonomous operation during and subsequent to islanding process",
+        "Fuzzy-based heat and power hub models for cost-emission operation of an industrial consumer using compromise programming",
+        "Critic-based self-tuning PI structure for active and reactive power control of VSCs in microgrid system",
+        "A new wind power prediction method based on ridgelet transforms, hybrid feature selection and closed-loop forecasting",
+        "Particle swarm optimization-based parameter identification applied to permanent magnet synchronous motors",
+        "Electricity load forecasting by an improved forecast engine for building level consumers",
+        "A new prediction model of battery and wind-solar output in hybrid power system",
+        "Adaptive decentralized droop controller to preserve power sharing stability of paralleled inverters in distributed generation microgrids",
+        "Modeling, analysis and testing of autonomous operation of an inverter-based microgrid",
+        "Particle swarm optimization in electromagnetics"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "121365833",
+            "affilname": "Ba River Power Generation of State Grid Tibet Electric Power Company",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/121365833",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Wuhan",
+            "@id": "118664493",
+            "affilname": "Tibet Agricultural and Animal Husbandry University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/118664493",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": [
+        "Regional Natural Science Foundation",
+        "Regional Natural Science Foundation, China",
+        "National Natural Science Foundation of China"
+    ]
+}

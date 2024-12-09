@@ -1,0 +1,127 @@
+{
+    "eid": "2-s2.0-85159811178",
+    "title": "SENext: Squeeze-and-ExcitationNext for Single Image Super-Resolution",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Convolutional neural networks",
+        "LeakyReLU activation function",
+        "squeeze-and-excitation block"
+    ],
+    "authors": [
+        "Wazir Muhammad",
+        "Supavadee Aramvith",
+        "Takao Onoye"
+    ],
+    "citedby-count": 1,
+    "ref-count": 68,
+    "ref-list": [
+        "Image super-resolution via sparse representation",
+        "Image super-resolution as sparse representation of raw image patches",
+        "Fast direct super-resolution by simple functions",
+        "A+: Adjusted anchored neighborhood regression for fast super-resolution",
+        "Fast and accurate image upscaling with super-resolution forests",
+        "Image super-resolution using deep convolutional networks",
+        "Accelerating the super-resolution convolutional neural network",
+        "ImageNet classification with deep convolutional neural networks",
+        "Accurate image super-resolution using very deep convolutional networks",
+        "Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network",
+        "Deeply-recursive convolutional network for image super-resolution",
+        "A deep journey into super-resolution: A survey",
+        "Squeeze-and-excitation networks",
+        "SESR: Single image super resolution with recursive squeeze and excitation networks",
+        "Rectifier nonlinearities improve neural network acoustic models",
+        "Delving deep into rectifiers: Surpassing human-level performance on ImageNet classification",
+        "Deep networks for image super-resolution with sparse prior",
+        "Deeply improved sparse coding for image super-resolution",
+        "Image restoration using very deep convolutional encoder\u2013decoder networks with symmetric skip connections",
+        "RAISR: Rapid and accurate image super resolution",
+        "Deep Laplacian pyramid networks for fast and accurate super-resolution",
+        "Beyond a Gaussian denoiser: Residual learning of deep CNN for image denoising",
+        "Lightweight image super-resolution with information multi-distillation network",
+        "Image super-resolution via deep recursive residual network",
+        "Photo-realistic single image super-resolution using a generative adversarial network",
+        "Enhanced deep residual networks for single image super-resolution",
+        "NTIRE 2017 challenge on single image super-resolution: Dataset and study",
+        "MemNet: A persistent memory network for image restoration",
+        "Fast and accurate image super resolution by deep CNN with skip connection and network in network",
+        "Image super-resolution via dual-state recurrent networks",
+        "Multi-scale residual network for image super-resolution",
+        "Fast accurate and lightweight super-resolution with cascading residual network",
+        "Learning a single convolutional super-resolution network for multiple degradations",
+        "Multi-scale inception based super-resolution using deep learning approach",
+        "Receptive field size versus model depth for single image super-resolution",
+        "End-to-end image super-resolution via deep and shallow convolutional networks",
+        "DRFN: Deep recurrent fusion network for single-image super-resolution with large factors",
+        "Hierarchical recursive network for single image super resolution",
+        "Fast and accurate single image super-resolution via information distillation network",
+        "Real-time image super-resolution using recursive depthwise separable convolution network",
+        "Super-resolution using lightweight detailnet network",
+        "Multi-scale xception based depthwise separable convolution for single image super-resolution",
+        "Image super-resolution using capsule neural networks",
+        "Effective image super resolution via hierarchical convolutional neural network",
+        "A POCS super resolution restoration algorithm based on BM3D",
+        "MFEN: Lightweight multi-scale feature extraction super-resolution network in embedded system",
+        "Lightweight single image super-resolution with attentive residual refinement network",
+        "Adjustable super-resolution network via deep supervised learning and progressive self-distillation",
+        "Image super-resolution using very deep residual channel attention networks",
+        "Deep residual learning for image recognition",
+        "Accurate single image super-resolution using multi-path wide-activated residual network",
+        "Image super-resolution based on dense convolutional auto-encoder blocks",
+        "Going deeper with convolutions",
+        "Pooling in convolutional neural networks for medical image analysis: A survey and an empirical study",
+        "Dynamic routing between capsules",
+        "Contour detection and hierarchical image segmentation",
+        "Detail-preserving image super-resolution via recursively dilated residual network",
+        "Low-complexity single-image super-resolution based on nonnegative neighbor embedding",
+        "On single image scale-up using sparse-representations",
+        "Single image super-resolution from transformed self-exemplars",
+        "Sketch-based Manga retrieval using Manga109 dataset",
+        "Detection of lung malignancy using SqueezeNet-Fc deep learning classification technique",
+        "Real-time vehicle make and model recognition with the residual SqueezeNet architecture",
+        "An improved SqueezeNet model for the diagnosis of lung cancer in CT scans",
+        "A deep learning approach for detecting face mask using an improved YOLO-V2 with SqueezeNet",
+        "Adam: A method for stochastic optimization"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Suita",
+            "@id": "60024322",
+            "affilname": "Osaka University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024322",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "NSRF",
+        "Second Century Fund",
+        "Thailand Science Research and Innovation Fund Chulalongkorn University",
+        "Chulalongkorn University"
+    ]
+}

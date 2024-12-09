@@ -1,0 +1,85 @@
+{
+    "eid": "2-s2.0-85130779972",
+    "title": "HybridBERT4Rec: A Hybrid (Content-Based Filtering and Collaborative Filtering) Recommender System Based on BERT",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "BERT",
+        "Hybrid recommendation",
+        "Recommender system",
+        "Sequential recommendation"
+    ],
+    "authors": [
+        "Chanapa Channarong",
+        "Chawisa Paosirikul",
+        "Saranya Maneeroj",
+        "Atsuhiro Takasu"
+    ],
+    "citedby-count": 2,
+    "ref-count": 29,
+    "ref-list": [
+        "CiteSeer: An autonous web agent for automatic retrieval and identification of interesting publications",
+        "Learning rep-resentations by back-propagating errors",
+        "A dynamic recurrent model for next basket recommendation",
+        "MV-RNN: A multi-view recurrent neural network for sequential recommendation",
+        "BERT4Rec: Sequential recommendation with bidirectional encoder representations from transformer",
+        "BERT: Pre-training of deep bidirectional transformers for language understanding",
+        "Cloze procedure: A new tool for measuring readability",
+        "A hybrid movie rec-ommendation method based on social similarity and item attributes",
+        "Hybrid recommender system for learning material using content-based filtering and collaborative filter-ing with good learners' rating",
+        "Matrix factorization techniques for recommender systems",
+        "Neural col-laborative filtering",
+        "Object recognition with gradient-based learning",
+        "Long short-term memory",
+        "Learning phrase representations using RNN encoder_decoder for statistical machine translation",
+        "Sequential user-based recurrent neural network recommendations",
+        "Recurrent neural networks with top-k gains for session-based recommendations",
+        "Neural attentive session-based recommendation",
+        "Personal-izing session-based recommendations with hierarchical recurrent neural networks",
+        "Sequen-tial recommendation with user memory networks",
+        "Personalized top-N sequential recommendation via convolutional sequence embedding",
+        "Attention is all you need",
+        "Fine-grained spoiler detection from large-scale review corpora",
+        "Self-attentive sequential recommendation",
+        "Marginalized denois-ing autoencoders for domain adaptation",
+        "Survey on collaborative filtering, content-based filtering and hybrid recommendation system",
+        "A hybrid recommendation system based on bidirectional encoder representations",
+        "Neural collaborative with sentence BERT for news recommender system"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hayama",
+            "@id": "60021523",
+            "affilname": "The Graduate University for Advanced Studies",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021523",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

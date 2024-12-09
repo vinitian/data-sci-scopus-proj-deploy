@@ -1,0 +1,72 @@
+{
+    "eid": "2-s2.0-85081665844",
+    "title": "Failure Prediction in Open-hole Wireline Logging of Oil and Gas Drilling Operation",
+    "cover-date": "2019-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Media Technology",
+            "@code": "2214",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "data analysis",
+        "decision tree",
+        "drilling",
+        "machine learning",
+        "naive bayes",
+        "oil and gas",
+        "open-hole wireline logging",
+        "support vector machine"
+    ],
+    "authors": [
+        "Maylada Pootisirakorn",
+        "Prabhas Chongstitvatana"
+    ],
+    "citedby-count": 1,
+    "ref-count": 13,
+    "ref-list": [
+        "Support-vector networks",
+        "Machine learning overcomes challenges of selecting locations for infill wells",
+        "Data driven approach to failure prediction for electrical submersible pump systems",
+        "Implementing artificial neural networks and support vector machines in stuck pipe prediction",
+        "Stuck pipe prediction and avoidance: A convolutional neural network approach",
+        "Classification of petroleum well drilling operations using support vector machine (SVM)",
+        "Study on intelligent prediction for risk level of lost circulation while drilling based on machine learning",
+        "Selection of relevant features and examples in machine learning",
+        "The use of the area under the ROC curve in the evaluation of machine learning algorithms"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

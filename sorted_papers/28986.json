@@ -1,0 +1,69 @@
+{
+    "eid": "2-s2.0-85057129403",
+    "title": "Information-theoretic broadcast with dishonest majority for long messages",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Wutichai Chongchitmate",
+        "Rafail Ostrovsky"
+    ],
+    "citedby-count": 2,
+    "ref-count": 16,
+    "ref-list": [
+        "Correlated pseudorandomness and the complexity of private computations",
+        "Unconditionally-secure digital signatures",
+        "Bounds on information exchange for byzantine agreement",
+        "Authenticated algorithms for byzantine agreement",
+        "Optimally efficient multi-valued byzantine agreement",
+        "Optimal extension protocols for byzantine broadcast and agreement",
+        "Multi-valued byzantine broadcast: The t<n case",
+        "Extending oblivious transfers efficiently",
+        "Error-free multi-valued consensus with byzantine failures",
+        "On the feasibility of extending oblivious transfer",
+        "A new approach to practical active-secure two-party computation",
+        "Error-free multi-valued broadcast and byzantine agreement with optimal communication complexity",
+        "Reaching agreement in the presence of faults",
+        "Unconditional byzantine agreement for any number of faulty processors",
+        "Information-Theoretic Pseudosignatures and Byzantine Agreement for t>n/3",
+        "Extending binary byzantine agreement to multivalued byzantine agreement"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Los Angeles",
+            "@id": "60027550",
+            "affilname": "University of California, Los Angeles",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027550",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Galois Inc.",
+        "US-Israel BSF",
+        "NSF",
+        "U.S. Department of Defense",
+        "DARPA",
+        "IBM",
+        "Brain Science Foundation"
+    ]
+}

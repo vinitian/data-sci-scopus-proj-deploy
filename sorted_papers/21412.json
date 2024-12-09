@@ -1,0 +1,91 @@
+{
+    "eid": "2-s2.0-85133632916",
+    "title": "Simple Closed-Form Formulas for Conditional Moments of Inhomogeneous Nonlinear Drift Constant Elasticity of Variance Process",
+    "cover-date": "2022-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Chemistry (miscellaneous)",
+            "@code": "1601",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mathematics (all)",
+            "@code": "2600",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Physics and Astronomy (miscellaneous)",
+            "@code": "3101",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "conditional moment",
+        "constant elasticity of variance process",
+        "Feynman\u2013Kac formula"
+    ],
+    "authors": [
+        "Kittisak Chumpong",
+        "Raywat Tanadkithirun",
+        "Chanon Tantiwattanapaibul"
+    ],
+    "citedby-count": 3,
+    "ref-count": 30,
+    "ref-list": [
+        "The sub-fractional CEV model",
+        "Pricing variance swaps under hybrid CEV and stochastic volatility",
+        "A closed-form pricing formula for European options under the Heston model with stochastic interest rate",
+        "An analytical option pricing formula for mean-reverting asset with time-dependent parameter",
+        "An equilibrium characterization of the term structure",
+        "A theory of the term structure of interest rates",
+        "Is the short rate drift actually nonlinear?",
+        "Nonlinear mean reversion in the short-term interest rate",
+        "A Novel Analytical Formula for the Discounted Moments of the ECIR Process and Interest Rate Swaps Pricing",
+        "Analytical Formulas for Conditional Mixed Moments of Generalized Stochastic Correlation Process",
+        "Stochastic processes for interest rates and equilibrium bond prices",
+        "It\u00f4 conditional moment generator and the estimation of short-rate processes",
+        "Pricing interest-rate-derivative securities",
+        "Solution of the extended CIR term structure and bond option valuation",
+        "Closed-form formulas for conditional moments of inhomogeneous Pearson diffusion processes",
+        "Closed-form formula for conditional moments of generalized nonlinear drift CEV process",
+        "Two singular diffusion problems",
+        "Explicit formula for conditional expectations of product of polynomial and exponential function of affine transform of extended Cox\u2013Ingersoll\u2013Ross process",
+        "Analytical formula for conditional expectations of path-dependent product of polynomial and exponential functions of extended Cox\u2013Ingersoll\u2013Ross process",
+        "Analytically Pricing Formula for Contingent Claim with Polynomial Payoff under ECIR Process",
+        "A simple closed-form formula for the conditional moments of the Ornstein\u2013Uhlenbeck process",
+        "Analytical formulas for pricing discretely-sampled skewness and kurtosis swaps based on Schwartz\u2019s one-factor model",
+        "Closed-form formula for the conditional moments of log prices under the inhomogeneous Heston model",
+        "Modified finite integration method using Chebyshev polynomial for solving linear differential equations",
+        "Numerical solution of direct and inverse problems for time-dependent Volterra integro-differential equation using finite integration method with shifted Chebyshev polynomials",
+        "Numerical solutions for systems of fractional and classical integro-differential equations via finite integration method based on shifted Chebyshev polynomials",
+        "Modified finite integration method using Chebyshev polynomial expansion for solving onedimensional nonlinear Burgers\u2019equations with shock wave",
+        "finite integration method with shifted Chebyshev polynomials for solving time-fractional Burgers\u2019 equations",
+        "Moment swaps"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Hatyai",
+            "@id": "60006314",
+            "affilname": "Prince of Songkla University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006314",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

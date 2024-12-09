@@ -1,0 +1,54 @@
+{
+    "eid": "2-s2.0-85104147053",
+    "title": "Scaled boundary finite element method for two-dimensional crack problems in multi-field media",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Cracks",
+        "Multi-field media",
+        "Scaled boundary finite element methods",
+        "State variables",
+        "Stress intensity factors",
+        "Surface flux"
+    ],
+    "authors": [
+        "C. V. Nguyen",
+        "J. Rungamornrat"
+    ],
+    "citedby-count": 0,
+    "ref-count": 9,
+    "ref-list": [
+        "Plane strain crack toughness testing of high strength metallic materials",
+        "An h-hierarchical adaptive procedure for the scaled boundary finite-element method",
+        "A new scaled boundary finite element formulation for computation of singularity orders at cracks and notches in arbitrary laminated composites",
+        "An Element-free Galerkin scaled boundary method",
+        "Fracture analysis of piezoelectric materials using the scaled boundary finite element method",
+        "Scaled boundary finite element method for two-dimensional linear multi-field media",
+        "Scaled boundary finite element method with exact defining curves for two-dimensional linear multi-field media",
+        "Use of higher-order shape functions in the scaled boundary finite element method"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60112735",
+            "affilname": "HCMC University of Technology and Education",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60112735",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

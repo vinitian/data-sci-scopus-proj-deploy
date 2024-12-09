@@ -1,0 +1,76 @@
+{
+    "eid": "2-s2.0-85118353292",
+    "title": "Estimation of pressure drop in a demister for multi-stage flash desalination process based on stacked long short-term memory (Lstm) neural networks",
+    "cover-date": "2021-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Physics and Astronomy (all)",
+            "@code": "3100",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Deep learning",
+        "Demister",
+        "Estimation",
+        "LSTM",
+        "Multi-stage flash desalination proceess",
+        "Pressure drop"
+    ],
+    "authors": [
+        "Jarukamol Dawkrajai",
+        "Weerawun Weerachapichasgul",
+        "Wachira Daosud",
+        "Paisan Kittisupakorn"
+    ],
+    "citedby-count": 0,
+    "ref-count": 26,
+    "ref-list": [
+        "Performance of wire mesh mist eliminator",
+        "Venturi and other atomizing scrubbers efficiency and pressure drop",
+        "Application of various correlations for design of demisters to study the effect of geometrical parameters on its performance",
+        "Investigating pressure drop across wire mesh mist eliminators in bubble column",
+        "Design of wire mesh mist eliminators",
+        "Determination of pressure drop I wire mesh mist eliminator by CFD",
+        "A numerical model for gas flow and droplet motion in wave-plate mist eliminators withdrainage channels",
+        "Eulerian-Lagrangian modeling and computational fluid dynamics simulation of wire mesh demisters in MSF plants",
+        "Application of various correlations for design of demisters to study the effect of geometrical parameters on its performance",
+        "Application of ensemble RNN Deep neural network to the fall detection through IoT environment",
+        "A deep learning framework for financial time series using stacked autoencoders and long-short term memory",
+        "Image captioning using deep learning: a systematic literature review",
+        "Detection of pseudo brain tumors via stacked LSTM neural networks using MR spectroscopy signals",
+        "A neural network based linear ensemble framework for time series forecasting",
+        "An ensemble of LSTM neural networks for high-frequency stock market classification",
+        "Predictign flood susceptibility using LSTM neural networks",
+        "A long short-term memory algorithm approach for improving the outcome estimation in intensive care unit",
+        "Neural networks in finance and economics forecasting"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pitsanulok",
+            "@id": "60022498",
+            "affilname": "Naresuan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022498",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chonburi",
+            "@id": "60009116",
+            "affilname": "Burapha University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009116",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Department of Chemical Engineering, Faculty of Engineering, Chulalongkorn University",
+        "European Union"
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "eid": "2-s2.0-85062361910",
+    "title": "Performance Of OLSR manet adopting cross-layer approach under CBR and VBR traffics environment",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Bit Error Rate (BER)",
+        "Mobile Ad-hoc Network (MANET)",
+        "OLSR",
+        "Quality of Service (QoS)",
+        "Weighted Connectivity Index"
+    ],
+    "authors": [
+        "Teerapat Sanguankotchakorn",
+        "Sanika K. Wijayasekara",
+        "Sugino Nobuhiko"
+    ],
+    "citedby-count": 6,
+    "ref-count": 40,
+    "ref-list": [
+        "\"Analysis and Enhancement of Multi-channel MAC Protocol for Ad Hoc Networks\"",
+        "\"Virtual Reservation Scheme for Supporting CBR Multimedia Services with Strict QoS Performance over WLAN and Wireless Mesh\"",
+        "\"An Energy Efficient Routing Based on OLSR in Wireless Ad Hoc and Sensor Networks\"",
+        "\"A Novel Efficient Powersaving MAC Protocol for Multi-hop MANETs\"",
+        "\"QoS Requirements of Network Applications on the Internet\"",
+        "\"A Cross-layer Design Approach in OLSR MANET using BER and Weighted Connectivity Index\"",
+        "\"Ad-hoc On-demand Distance Vector Routing\"",
+        "\"Optimized Path Selection Process in OLSR Based on Weighted Connectivity Index and Delay''",
+        "\"A new BER-based Approach to improve OLSR Protocol''",
+        "\"Optimized Link State Routing Protocol (OLSR)\"",
+        "\"QoS Routing in OLSR with Several Classes of Service''",
+        "\"QoS Routing and Performance Evaluation for Mobile Ad Hoc Networks Using OLSR Protocol''",
+        "\"QoS-aware Routing for Mobile Ad Hoc Networks Based on Multiple Metrics: Connectivity Index (CI) and Delay\"",
+        "\"Multi-Constrained Path (MCP) QoS routing in OLSR Based on Multiple Additive QoS Metrics\"",
+        "\"Generalized Multi-constrained Path (G_MCP) QoS Routing for Mobile Ad Hoc Networks\"",
+        "\"QoS Routing in MANET through Cross-Layer Design with BER and Modifying AODV\"",
+        "\"Optimal Path Selection in a Link State QoS Routing Protocol\"",
+        "\"Quality of Service Routing in Ad-hoc Networks using OLSR''",
+        "\"Heuristic Algorithms for Multi-Constrained Quality-of-Service Routing\"",
+        "\" Multi-constraint QoS Routing using a new Single Mixed Metrics\"",
+        "\"Multi-Post path-based Look ahead Multi-Constraint QoS Routing\"",
+        "\"Cross-layer and Cognitive QoS Management System for Next Generation Networking\"",
+        "\", Advances in Multimedia Communications\"",
+        "\"Identifying QoS Violations through Statistical End-to-End Analysis\"",
+        "\"A Cross-layer TCP for providing Fairness in Wireless Mesh Network\"",
+        "\"Cross-layer MAC Design for Location aware Wireless Sensor Networks\"",
+        "\"A Dynamic Channel Assignment Strategy based on Cross-layer Design for Wireless Mesh Networks\"",
+        "\"Interdisciplinary and Cross-layer Design of Mobile Social Networks and Wireless Networks\"",
+        "\"Effective Social Ad Hoc Networking on OLSR MANET using Similarity Approach\"",
+        "\"Cross-Layer Design: A Survey and the Road Ahead''",
+        "\"Energy Issues and Energy aware Routing in Wireless Ad-hoc Networks\"",
+        "\"Performance Evaluation of Energy Consumption in MANET\"",
+        "\"Routing with Multiple Quality-of-Services Constraints: An Approximation Perspective\"",
+        "\"Optimization of Energy Consumption for OLSR Routing Protocol in MANET\"",
+        "\"Performance Evaluation of AODV, DSR, OLSR, and GRP MANET Routing Protocols Using OPNET\"",
+        "\" Performance Evaluation of Ad Hoc Routing Protocols to Deliver MPEG-4 Traffic\"",
+        "\"Simulate 802.11b Channel within NS2\"",
+        "\" An Evaluation Framework for More Realistic Simulations of MPEG Video Transmission\""
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60031126",
+            "affilname": "Tokyo Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031126",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Amphoe Khlong Luang",
+            "@id": "60010105",
+            "affilname": "Asian Institute of Technology Thailand",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010105",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

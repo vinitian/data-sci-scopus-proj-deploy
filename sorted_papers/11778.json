@@ -1,0 +1,120 @@
+{
+    "eid": "2-s2.0-85110988375",
+    "title": "Renal 99mTc-DMSA pharmacokinetics in pediatric patients",
+    "cover-date": "2021-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Radiation",
+            "@code": "3108",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biomedical Engineering",
+            "@code": "2204",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Compartmental modeling",
+        "DMSA",
+        "Dose reduction/optimization",
+        "Pediatric imaging",
+        "Pharmacokinetics"
+    ],
+    "authors": [
+        "Donika Plyku",
+        "Michael Ghaly",
+        "Ye Li",
+        "Justin L. Brown",
+        "Shannon O\u2019Reilly",
+        "Kitiwat Khamwan",
+        "Alison B. Goodkind",
+        "Briana Sexton-Stallone",
+        "Xinhua Cao",
+        "David Zurakowski",
+        "Frederic H. Fahey",
+        "S. Ted Treves",
+        "Wesley E. Bolch",
+        "Eric C. Frey",
+        "George Sgouros"
+    ],
+    "citedby-count": 4,
+    "ref-count": 28,
+    "ref-list": [
+        "Pediatric radiopharmaceutical administered doses: 2010 North American consensus guidelines",
+        ". Effects of image gently and the North American guidelines: Administered activities in children at 13 North American pediatric hospitals",
+        "2016 Update of the North American consensus guidelines for pediatric administered radiopharmaceutical activities",
+        "Publication 53: radiation dose to patients from radiopharmaceuticals, 53",
+        "Comparison of Tc-99m complexes for renal imaging",
+        "Dosimetry of current radiopharmaceuticals used in renal investigation",
+        "Renal cortical imaging in 35 patients: superior quality with 99mTc-DMSA",
+        "Clinical experience with Tc-99m-DMSA (dimercaptosuccinic acid), a new renal-imaging agent",
+        "Radiation dose to patients from radiopharmaceuticals: a compendium of current information related to frequently used substances (vol 44, pg 7, 2015)",
+        "An approach for balancing diagnostic image quality with cancer risk: application to pediatric diagnostic imaging of 99mTc-dimercaptosuccinic acid",
+        "A risk index for pediatric patients undergoing diagnostic imaging with 99mTc-dimercaptosuccinic acid that accounts for body habitus",
+        "Patient girth is better than weight for selecting administered activity in renal pediatric imaging",
+        "Limitation of weight-based pediatric dosing guidelines in 99mTc-DMSA renal SPECT",
+        "Dose estimation in pediatric nuclear medicine",
+        "Current pediatric administered activity guidelines for (99m) Tc-DMSA SPECT based on patient weight do not provide the same task-based image quality",
+        "Segmentation of the body and lungs from compton scatter and photopeak window data in SPECT: a Monte Carlo investigation (vol 15, pg 13, 1996)",
+        "Accelerated image reconstruction using ordered subsets of projection data",
+        "A new method for modeling the spatially-variant, object-dependent scatter response function in SPECT",
+        "Fast implementations of reconstruction-based scatter compensation in fully 3D SPECT image reconstruction",
+        "A Monte Carlo and physical phantom evaluation of quantitative In-111 SPECT",
+        "SAAM II: simulation, analysis, and modeling software for tracer and pharmacokinetic studies",
+        "Internal photon and electron dosimetry of the newborn patient--a hybrid computational phantom study",
+        "Pharmacokinetic modeling of F-18 fluorodeoxyglucose (FDG) for premature infants, and newborns through 5-year-olds",
+        "Pediatric S-values for a mulitregional brain model",
+        "Evaluation of quantitative imaging methods for organ activity and residence time estimation using a population of phantoms having realistic variations in anatomy and uptake",
+        "Biokinetic behavior of technetium-99m-DMSA in children",
+        "Effect of renal maturation on the clearance of Tc-99m mercaptoacetyltriglycine",
+        "Kidneys, Chapter 12"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Boston",
+            "@id": "60002746",
+            "affilname": "Harvard Medical School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002746",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Gainesville",
+            "@id": "60013959",
+            "affilname": "University of Florida",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013959",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Baltimore",
+            "@id": "60001117",
+            "affilname": "Johns Hopkins School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001117",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "National Institutes of Health"
+    ]
+}

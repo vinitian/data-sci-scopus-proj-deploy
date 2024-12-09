@@ -1,0 +1,96 @@
+{
+    "eid": "2-s2.0-85083482804",
+    "title": "An efficient ALOHA based collision resolution algorithm for RFID",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "ALOHA",
+        "Efficiency",
+        "Reader",
+        "RFID",
+        "Tag"
+    ],
+    "authors": [
+        "S. K. Wijayasekara",
+        "M. Saadi",
+        "T. Sriprasert",
+        "P. Sasithong",
+        "K. Panyim",
+        "M. Pengnoo",
+        "L. Wuttisittikulkij"
+    ],
+    "citedby-count": 2,
+    "ref-count": 9,
+    "ref-list": [
+        "A collision resolution algorithm for RFID using modified dynamic tree with Bayesian tag estimation",
+        "Collision-resolution algorithms and random-access communications",
+        "A survey and tutorial of RFID anti-collision protocols",
+        "The aloha system: Another alternative for computer communications",
+        "A fast tag identification anti collision algorithm for RFID systems",
+        "Dynamic frame length ALOHA",
+        "An effective frame breaking policy for dynamic framed slotted aloha in RFID",
+        "Bayesian method of slotted aloha based anti-collision protocol for RFID systems"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Lahore",
+            "@id": "60103839",
+            "affilname": "University of Central Punjab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103839",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60012718",
+            "affilname": "Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012718",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "124281640",
+            "affilname": "General Sir John Kotelawela University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/124281640",
+            "affiliation-country": "Sri Lanka"
+        }
+    ],
+    "funding": []
+}

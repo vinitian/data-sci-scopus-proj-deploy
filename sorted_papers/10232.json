@@ -1,0 +1,74 @@
+{
+    "eid": "2-s2.0-85165622232",
+    "title": "Design of the Robot Application for Slicing Food into Equal-Mass Slices",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "depth camera",
+        "mechatronics",
+        "point cloud",
+        "robotics",
+        "slicing food"
+    ],
+    "authors": [
+        "Poom Separattananan",
+        "Jetnipat Thongprasith",
+        "Phumrapee Meyer",
+        "Ratchatin Chancharoen"
+    ],
+    "citedby-count": 2,
+    "ref-count": 14,
+    "ref-list": [
+        "Substantial capabilities of robotics in enhancing industry 4.0 implementation",
+        "Challenges and opportunities in robotic food handling: A review",
+        "Robotics and food technology: A mini review",
+        "A study of high pressure water jets for cutting chicken breast meat",
+        "GRIBBOT-Robotic 3D visionguided harvesting of chicken fillets",
+        "Machinelearning- based automated quantification machine for virus plaque assay counting",
+        "On-line ladle lining temperature estimation by using bounded jacobian nonlinear observer",
+        "H\u221e observer for descriptor nonlinear systems with nonlinear output equations",
+        "Real-time automotive slip angle estimation with nonlinear observer",
+        "A new approach for low-dimensional constrained engineering design optimization using design and analysis of simulation experiments",
+        "Portioning algorithm using the bisection method for slicing food",
+        "Web-based teleoperation system for enhanced precision and efficiency in food industry applications"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

@@ -1,0 +1,94 @@
+{
+    "eid": "2-s2.0-85110454546",
+    "title": "Semi-supervised thai sentence segmentation using local and distant word representations",
+    "cover-date": "2021-06-30",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Artificial neural networks",
+        "Machine learning",
+        "Natural language processing",
+        "Sequence tagging model",
+        "Thai language",
+        "Thai sentence segmentation"
+    ],
+    "authors": [
+        "Chanatip Saetia",
+        "Ekapol Chuangsuwanich",
+        "Tawunrat Chalothorn",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 1,
+    "ref-count": 71,
+    "ref-list": [
+        "Dependency parsing",
+        "Sentence boundary detection and the problem with the us",
+        "A statistical approach to machine translation",
+        "Graph-based ranking algorithms for sentence extraction, applied to text summarization",
+        "Query-oriented text summarization using sentence extraction technique",
+        "Summcoder: An unsupervised framework for extractive text summarization based on deep autoencoders",
+        "Semisupervised domain adaptation for dependency parsing",
+        "Thai sentence-breaking for large-scale smt",
+        "The automatic thai sentence extraction",
+        "Automatic sentence break disambiguation for thai",
+        "A word labeling approach to Thai sentence boundary detection and POS tagging",
+        "Orchid: Thai part-of-speech tagged corpus",
+        "Long short-term memory",
+        "Attention is all you need",
+        "Pooled contextualized embeddings for named entity recognition",
+        "Contextual string embeddings for sequence labeling",
+        "Neural architectures for nested NER through linearization",
+        "CrossWeigh: Training named entity tagger from imperfect annotations",
+        "Semi-supervised learning with ladder networks",
+        "Virtual adversarial training: A regularization method for supervised and semi-supervised learning",
+        "Semi-supervised sequence modeling with cross-view training",
+        "Xlnet: Generalized autoregressive pretraining for language understanding",
+        "A preliminary study on fundamental thai nlp tasks for user-generated web content",
+        "Contextual behaviour features and grammar rules for thai sentence-breaking",
+        "Thai language sentence segmentation based on n-gram context model",
+        "Improving thai word and sentence segmentation using linguistic knowledge",
+        "Sentence boundary detection in broadcast speech transcripts",
+        "Modeling punctuation prediction as machine translation",
+        "Punctuation insertion for real-time spoken language translation",
+        "Self-attention based network for punctuation restoration",
+        "Restoring punctuation and capitalization in transcribed speech",
+        "Better punctuation prediction with dynamic conditional random fields",
+        "Improved models for automatic punctuation prediction for spoken and written text",
+        "Punctuation prediction for unsegmented transcript based on word vector",
+        "Lstm for punctuation restoration in speech transcripts",
+        "Deep recurrent neural networks with layerwise multi-head attentions for punctuation restoration",
+        "Unsupervised cross-lingual representation learning at scale",
+        "The viterbi algorithm",
+        "A tutorial on hidden markov models and selected applications in speech recognition",
+        "cloze procedure\u201d: A new tool for measuring readability",
+        "Allennlp interpret: A framework for explaining predictions of nlp models",
+        "Hotflip: White-box adversarial examples for text classification",
+        "Adaptive subgradient methods for online learning and stochastic optimization",
+        "Dropout: A simple way to prevent neural networks from overfitting",
+        "Towards fast and accurate neural chinese word segmentation with multi-criteria learning",
+        "Adversarial multi-criteria learning for chinese word segmentation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nontaburi",
+            "@id": "118642053",
+            "affilname": "Ltd.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/118642053",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

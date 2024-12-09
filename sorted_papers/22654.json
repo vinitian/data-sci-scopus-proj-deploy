@@ -1,0 +1,75 @@
+{
+    "eid": "2-s2.0-85042710824",
+    "title": "A Synchro-Perspective-Based High-Frequency Voltage Injection Method for Position-Sensorless Vector Control of Doubly Fed Induction Machines",
+    "cover-date": "2018-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Doubly fed induction machines (DFIM)",
+        "global stability of estimator",
+        "high-frequency (HF) signal injection",
+        "rotor-position estimation",
+        "salient autonomous",
+        "sensorless control"
+    ],
+    "authors": [
+        "Anuwat Srivorakul",
+        "Surapong Suwankawin"
+    ],
+    "citedby-count": 5,
+    "ref-count": 25,
+    "ref-list": [
+        "Overview of control systems for the operation of DFIGs in wind energy applications",
+        "Converting to variable speed at a pumped-storage plant",
+        "Sensorless control of a doubly-fed induction generator using a rotor-current based MRAS observer",
+        "MRAS observers for sensorless control of doubly-fed induction generators",
+        "AnMRAS observer for sensorless DFIM drives with direct estimation of the torque and flux rotor current components",
+        "A class of flux observers for doubly-fed induction generators used in small power wind generation systems",
+        "Simple low-speed sensorless dual DTC for double fed inductionmachine drive",
+        "Air-gap-power-vector-based sensorless method for DFIG control without flux estimator",
+        "Effects of mismatched parameters in MRAS sensorless doubly fed induction machine drives",
+        "Sensorless direct slip position estimator of a DFIM based on the air gap pq vector-Sensitivity study",
+        "A rotor-current-based slip angle estimator for grid-connected doubly fed induction generator requiring the stator inductance only",
+        "Adaptive tuning of the stator inductance in a rotor-currentbased MRAS observer for sensorless doubly fed induction-machine drives",
+        "Stator inductance self-Tuning in an air-gap-power-vector-based observer for the sensorless control of doubly fed induction machines",
+        "Rotor position estimation",
+        "A new high-frequency injection method for sensorless control of doubly fed induction machines",
+        "Sensorless control of doubly fed induction generators based on rotor high-frequency signal injection",
+        "Sensorless control of doubly fed induction generators based on stator high-frequency signal injection",
+        "An observer for sensorless DFIM drives based on the natural fifth harmonic of the line voltage, without stator current measurement",
+        "Doubly fed induction generator using back-To-back PWM converters and its application to variable-speed wind-energy generation",
+        "A fault tolerant doubly fed induction generator wind turbine using a parallel grid side rectifier and series grid side converter",
+        "Position estimation of surface permanent-magnent synchronous motors based on a new reduced-order model with guaranteed global stability",
+        "Position estimation of interior permanent-magnet synchronous motors based on fictitious induced EMF with switching-frequency signal injection",
+        "A synchro-perspective-based highfrequency signal injection method for position-sensorless vector control of doubly-fed induction machines",
+        "A synchro-perspective-based highfrequency signal injection method for position-sensorless vector control of doubly-fed induction machines"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Thailand Research Fund"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "eid": "2-s2.0-85083514610",
+    "title": "Stochastic modeling for VRS network-based GNSS RTK with residual interpolation uncertainty",
+    "cover-date": "2020-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (miscellaneous)",
+            "@code": "2201",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Earth and Planetary Sciences (miscellaneous)",
+            "@code": "1901",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [
+        "Network-based RTK",
+        "Residual interpolation uncertainty",
+        "Stochastic model",
+        "VRS"
+    ],
+    "authors": [
+        "Thanate Jongrujinan",
+        "Chalermchon Satirapod"
+    ],
+    "citedby-count": 2,
+    "ref-count": 22,
+    "ref-list": [
+        "An improved ionosphere interpolation algorithm for network RTK in low-latitude regions",
+        "Improving the Stochastic Model for VRS Network-Based GNSS Surveying",
+        "Network-Based Stochastic Model for Instantaneous GNSS Real-Time Kinematic Positioning",
+        "Effects of ionospheric scintillation on GNSS-Based positioning",
+        "Investigation of ionospheric scintillation effects on BDS precise point positioning at low-latitude regions",
+        "Better thresholds and weights to improve GNSS PPP under ionospheric scintillation activity at low latitude",
+        "Stochastic Models used in Static GPS Relative Positioning",
+        "A Realistic and Easy-to-Implement Weighting Model for GPS Phase Observations",
+        "GPS stochastic modelling: Signal quality measures and ARMA processes",
+        "Investigation of Different Interpolation Models Used in Network-RTK for the Virtual Reference Station Technique",
+        "Use of genetic algorithm and sliding windows for optimizing ambiguity fixing rate in GPS kinematic positioning mode",
+        "The LAMBDA method for integer ambiguity estimation: Implementation aspects"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

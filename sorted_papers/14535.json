@@ -1,0 +1,132 @@
+{
+    "eid": "2-s2.0-85139790391",
+    "title": "AI-Assisted Tuberculosis Detection and Classification from Chest X-Rays Using a Deep Learning Normalization-Free Network Model",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Neuroscience (all)",
+            "@code": "2800",
+            "@abbrev": "NEUR"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mathematics (all)",
+            "@code": "2600",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Vasundhara Acharya",
+        "Gaurav Dhiman",
+        "Krishna Prakasha",
+        "Pranshu Bahadur",
+        "Ankit Choraria",
+        "M. Sushobhitha",
+        " Sowjanya",
+        "Srikanth Prabhu",
+        "Krishnaraj Chadaga",
+        "Wattana Viriyasitavat",
+        "Sandeep Kautish"
+    ],
+    "citedby-count": 12,
+    "ref-count": 53,
+    "ref-list": [
+        "Machine learning in dermatology: Current applications, opportunities, and limitations",
+        "Keratinocytic skin cancer detection on the face using region-based convolutional neural network",
+        "Dermatologist-level classification of skin cancer with deep neural networks",
+        "TzanckNet: A convolutional neural network to identify cells in the cytology of erosive-vesiculobullous diseases",
+        "Automated methods for the summarization of electronic health records",
+        "Painful conversations: Therapeutic chatbots and public capacities",
+        "Automated medical chatbot",
+        "Edge-ai in lora-based health monitoring",
+        "Coordinated expression of tyro3, axl, and mer receptors in macrophage ontogeny",
+        "Performance analysis of machine learning based optimized feature selection approaches for breast cancer diagnosis",
+        "Deep learning model for detection of covid-19 utilizing the chest x-ray images",
+        "Medical diagnosis of covid-19 using blood tests and machine learning",
+        "Automatic detection of tuberculosis in chest radiographs using a combination of textural, focal, and shape abnormality analysis",
+        "Two public chest x-ray datasets fo\u0155 computer-aided screening of pulmonary diseases",
+        "Role of gist and phog features in computer-aided diagnosis of tuberculosis without segmentation",
+        "Reliable tuberculosis detection using chest x-ray with deep learning, segmentation and visualization",
+        "Development of a digital image database for chest radiographs with and without a lungnodule: Receiver operating characteristic analysis of radiologists' detection of pulmonary nodules",
+        "A novel approach for tuberculosis screening based on deep convo- lutional neural networks",
+        "Deep learning for automated classification of tuberculosisrelated chest x-ray: Dataset distribution shift limits diagnostic performance generalizability",
+        "Automated tb classification using ensemble of deep architectures",
+        "Deep learning algorithms with demographic information help to detect tuberculosis in chest radiographs in annual workers' health examination data",
+        "Deep learning at chest radiography: Automated classification of pulmonary tuberculosis by using convolutional neural networks",
+        "Comparing deep learning models for population screening using chest radiography",
+        "Ensemble deep learning for tuberculosis detection using chest x-ray and canny edge detected images",
+        "Efficient deep network architectures for fast chest x-ray tuberculosis screening and visualization",
+        "Detecting drug-resistant tuberculosis in chest radiographs",
+        "Feature selection for automatic tuberculosis screening in frontal chest radiographs",
+        "Pre-trained convolutional neural networks as feature extractors for tuberculosis detection",
+        "A fully automatic artificial intelligence-based ct image analysis system for accurate detection, diagnosis, and quantitative severity evaluation of pulmonary tuberculosis",
+        "Deep-learning-aided detection of mycobacteria in pathology specimens increases the sensitivity in early diagnosis of pulmonary tuberculosis compared with bacteriology tests",
+        "Rethinking the transfer learning architecture for respiratory diseases and covid-19 diagnosis",
+        "Co-irv2: Optimized inceptionresnetv2 for covid-19 detection from chest ct images",
+        "Diagnosis of covid-19 using machine learning and deep learning: A review",
+        "Co-resnet: Optimized resnet model for covid-19 diagnosis from x-ray images",
+        "Hybrid deep learning for detecting lung diseases from x-ray images",
+        "Performance of cnn for predicting cancerous lung nodules using lightgbm",
+        "The tb portals: An open-access, web-based platform for global drug-resistant-tuberculosis data sharing and analysis"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Manipal",
+            "@id": "60028079",
+            "affilname": "Manipal Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028079",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Bengaluru",
+            "@id": "128731231",
+            "affilname": "Sri Dharmasthala Manjunatheshwara Institute of Ayurveda and Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/128731231",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199583",
+            "affilname": "Chulalongkorn Business School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199583",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Dehradun",
+            "@id": "60103785",
+            "affilname": "Graphic Era Deemed to be University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103785",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Beirut",
+            "@id": "60068769",
+            "affilname": "Lebanese American University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60068769",
+            "affiliation-country": "Lebanon"
+        },
+        {
+            "affiliation-city": "Campeche",
+            "@id": "115683841",
+            "affilname": "Universidad Internacional Iberoamericana",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/115683841",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Janakpur",
+            "@id": "101981124",
+            "affilname": "Janaki Medical College",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101981124",
+            "affiliation-country": "Nepal"
+        }
+    ],
+    "funding": []
+}

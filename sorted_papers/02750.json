@@ -1,0 +1,231 @@
+{
+    "eid": "2-s2.0-85138755350",
+    "title": "APASL-ACLF Research Consortium\u2013Artificial Intelligence (AARC-AI) model precisely predicts outcomes in acute-on-chronic liver failure patients",
+    "cover-date": "2023-02-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Hepatology",
+            "@code": "2721",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "cirrhosis",
+        "data science",
+        "machine learning",
+        "mortality",
+        "prognosis"
+    ],
+    "authors": [
+        "Nipun Verma",
+        "Ashok Choudhury",
+        "Virendra Singh",
+        "Ajay Duseja",
+        "Manum Al-Mahtab",
+        "Harshad Devarbhavi",
+        "Chundamannil E. Eapen",
+        "Ashish Goel",
+        "Qin Ning",
+        "Zhongping Duan",
+        "Saeed Hamid",
+        "Wasim Jafri",
+        "Amna Shubhan Butt",
+        "Akash Shukla",
+        "Soek Siam Tan",
+        "Dong Joon Kim",
+        "Jinhua Hu",
+        "Ajit Sood",
+        "Omesh Goel",
+        "Vandana Midha",
+        "Hashmik Ghaznian",
+        "Manoj Kumar Sahu",
+        "Guan Huei Lee",
+        "Sombat Treeprasertsuk",
+        "Samir Shah",
+        "Laurentius A. Lesmana",
+        "Rinaldi C. Lesmana",
+        "V. G.Mohan Prasad",
+        "Shiv K. Sarin"
+    ],
+    "citedby-count": 2,
+    "ref-count": 39,
+    "ref-list": [
+        "The systemic inflammation hypothesis: towards a new paradigm of acute decompensation and multiorgan failure in cirrhosis",
+        "Acute-on-chronic liver failure: consensus recommendations of the Asian Pacific association for the study of the liver (APASL): an update",
+        "Systemic inflammatory response syndrome in acute-on-chronic liver failure: relevance of 'golden window': a prospective study",
+        "Acute-on-chronic liver failure: an update",
+        "Acute-on-chronic liver failure is a distinct syndrome that develops in patients with acute decompensation of cirrhosis",
+        "Incidence and mortality of acute-on-chronic liver failure using two definitions in patients with compensated cirrhosis",
+        "Liver failure determines the outcome in patients of acute-on-chronic liver failure (ACLF): comparison of APASL ACLF Research Consortium (AARC) and CLIF-SOFA models",
+        "Comparative accuracy of prognostic models for short-term mortality in acute-on-chronic liver failure patients: CAP-ACLF",
+        "Application of artificial intelligence to gastroenterology and hepatology",
+        "The application of artificial intelligence for the diagnosis and treatment of liver diseases",
+        "An accurate data preparation approach for the prediction of mortality in ACLF patients using the CANONIC dataset",
+        "Clinical course of acute-on-chronic liver failure syndrome and effects on prognosis",
+        "Minimum information about clinical artificial intelligence modeling: the MI-CLAIM checklist",
+        "Guidelines for developing and reporting machine learning predictive models in biomedical research: a multidisciplinary view",
+        "Greedy function approximation: a gradient boosting machine",
+        "Gradient boosting machines, a tutorial",
+        "Random forests",
+        "Lactate improves prediction of short-term mortality in critically ill patients with cirrhosis: a multinational study",
+        "Na\u00efve Bayes classification in R",
+        "Fast large-margin learning for statistical machine translation",
+        "Hyperparameter optimization",
+        "ROSE: a package for binary imbalanced learning",
+        "Using AUC and accuracy in evaluating learning algorithms",
+        "Review and comparison of methods to study the contribution of variables in artificial neural network models",
+        "Variable importance analysis: a comprehensive review",
+        "Explaining prediction models and individual predictions with feature contributions",
+        "XGBoost: a scalable tree boosting system",
+        "Blood metabolomics uncovers inflammation-associated mitochondrial dysfunction as a potential mechanism underlying ACLF",
+        "Development, validation, and evaluation of a simple machine learning model to predict cirrhosis mortality",
+        "Global burden of bacterial antimicrobial resistance in 2019: a systematic analysis",
+        "Mortality prediction in intensive care units (ICUs) using a deep rule-based fuzzy classifier",
+        "Augmented intelligence with natural language processing applied to electronic health records for identifying patients with non-alcoholic fatty liver disease at risk for disease progression",
+        "Missing data in clinical studies: issues and methods"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Beijing",
+            "@id": "60112648",
+            "affilname": "Beijing YouAn Hospital, Capital Medical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60112648",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "New Delhi",
+            "@id": "60107629",
+            "affilname": "Institute of Liver and Biliary Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60107629",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60106366",
+            "affilname": "National University Health System",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60106366",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Bhubaneswar",
+            "@id": "60079572",
+            "affilname": "Siksha O Anusandhan (Deemed to be University)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60079572",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Beijing",
+            "@id": "60073426",
+            "affilname": "302 Hospital of People's Liberation Army",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60073426",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Karachi",
+            "@id": "60067302",
+            "affilname": "The Aga Khan University Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60067302",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Mumbai",
+            "@id": "60015187",
+            "affilname": "Lokmanya Tilak Municipal General Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015187",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Dhaka",
+            "@id": "60007825",
+            "affilname": "Bangabandhu Sheikh Mujib Medical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007825",
+            "affiliation-country": "Bangladesh"
+        },
+        {
+            "affiliation-city": "Chuncheon",
+            "@id": "60006034",
+            "affilname": "Hallym University, College of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006034",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Wuhan",
+            "@id": "60001193",
+            "affilname": "Tongji Medical College",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001193",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Vellore",
+            "@id": "60000653",
+            "affilname": "Christian Medical College, Vellore",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000653",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Chandigarh",
+            "@id": "60000137",
+            "affilname": "Postgraduate Institute of Medical Education &amp; Research, Chandigarh",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000137",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Selangor",
+            "@id": "126196916",
+            "affilname": "Hospital Selayang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126196916",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Bengaluru",
+            "@id": "116430566",
+            "affilname": "St. John\u2019s Medical College",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/116430566",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Yerevan",
+            "@id": "114673248",
+            "affilname": "Nork Clinical Hospital of Infectious Diseases",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/114673248",
+            "affiliation-country": "Armenia"
+        },
+        {
+            "affiliation-city": "Coimbatore",
+            "@id": "114434381",
+            "affilname": "VGM Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/114434381",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Mumbai",
+            "@id": "113492048",
+            "affilname": "Global Hospitals",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/113492048",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Jakarta",
+            "@id": "101572156",
+            "affilname": "Medistra Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101572156",
+            "affiliation-country": "Indonesia"
+        },
+        {
+            "affiliation-city": "Ludhiana",
+            "@id": "100337640",
+            "affilname": "DMC and Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/100337640",
+            "affiliation-country": "India"
+        }
+    ],
+    "funding": []
+}

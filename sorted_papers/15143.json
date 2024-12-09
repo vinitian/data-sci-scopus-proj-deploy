@@ -1,0 +1,236 @@
+{
+    "eid": "2-s2.0-85041139198",
+    "title": "ALMA 26 arcmin2 Survey of GOODS-S at One-millimeter (ASAGAO): X-Ray AGN Properties of Millimeter-selected Galaxies",
+    "cover-date": "2018-01-20",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Astronomy and Astrophysics",
+            "@code": "3103",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Space and Planetary Science",
+            "@code": "1912",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [
+        "galaxies: active",
+        "galaxies: high-redshift",
+        "galaxies: starburst",
+        "X-rays: galaxies"
+    ],
+    "authors": [
+        "Y. Ueda",
+        "B. Hatsukade",
+        "K. Kohno",
+        "Y. Yamaguchi",
+        "Y. Tamura",
+        "H. Umehata",
+        "M. Akiyama",
+        "Y. Ao",
+        "I. Aretxaga",
+        "K. Caputi",
+        "J. S. Dunlop",
+        "D. Espada",
+        "S. Fujimoto",
+        "N. H. Hayatsu",
+        "M. Imanishi",
+        "A. K. Inoue",
+        "R. J. Ivison",
+        "T. Kodama",
+        "M. M. Lee",
+        "K. Matsuoka",
+        "T. Miyaji",
+        "K. Morokuma-Matsui",
+        "T. Nagao",
+        "K. Nakanishi",
+        "K. Nyland",
+        "K. Ohta",
+        "M. Ouchi",
+        "W. Rujopakarn",
+        "T. Saito",
+        "K. Tadaki",
+        "I. Tanaka",
+        "Y. Taniguchi",
+        "T. Wang",
+        "W. H. Wang",
+        "Y. Yoshimura",
+        "M. S. Yun"
+    ],
+    "citedby-count": 26,
+    "ref-count": 67,
+    "ref-list": [],
+    "affiliation": [
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025272",
+            "affilname": "The University of Tokyo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025272",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Mitaka",
+            "@id": "60029701",
+            "affilname": "National Institutes of Natural Sciences - National Astronomical Observatory of Japan",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029701",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Chiangmai",
+            "@id": "60274668",
+            "affilname": "National Astronomical Research Institute of Thailand",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60274668",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Edinburgh",
+            "@id": "60110880",
+            "affilname": "University of Edinburgh, Institute for Astronomy",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60110880",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60103895",
+            "affilname": "Research Center for the Early Universe",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103895",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Taipei",
+            "@id": "60091990",
+            "affilname": "Academia Sinica, Institute of Astronomy and Astrophysics",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091990",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Mexico",
+            "@id": "60032442",
+            "affilname": "Universidad Nacional Aut\u00f3noma de M\u00e9xico",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032442",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Puebla",
+            "@id": "60030699",
+            "affilname": "Instituto Nacional de Astrofisica Optica y Electronica",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030699",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Daito",
+            "@id": "60024188",
+            "affilname": "Osaka Sangyo University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024188",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Charlottesville",
+            "@id": "60024185",
+            "affilname": "National Radio Astronomy Observatory",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024185",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Garching bei Munchen",
+            "@id": "60023599",
+            "affilname": "European Southern Observatory",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023599",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Kobe",
+            "@id": "60023499",
+            "affilname": "University of Hyogo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023499",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Florence",
+            "@id": "60021859",
+            "affilname": "Universit\u00e0 degli Studi di Firenze",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021859",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Hayama",
+            "@id": "60021523",
+            "affilname": "The Graduate University for Advanced Studies",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021523",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Chiba",
+            "@id": "60015324",
+            "affilname": "The Open University of Japan",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015324",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Amherst",
+            "@id": "60014313",
+            "affilname": "University of Massachusetts Amherst",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014313",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Groningen",
+            "@id": "60011173",
+            "affilname": "Kapteyn Instituut",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011173",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Kyoto",
+            "@id": "60011001",
+            "affilname": "Kyoto University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011001",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Sendai",
+            "@id": "60008435",
+            "affilname": "Tohoku University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008435",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Matsuyama",
+            "@id": "60002090",
+            "affilname": "Ehime University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002090",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Sagamihara",
+            "@id": "60000809",
+            "affilname": "JAXA Institute of Space and Astronautical Science",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000809",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Nagoya",
+            "@id": "60000264",
+            "affilname": "Nagoya University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000264",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "COSMICISM",
+        "Thailand Research Fund/Office of the Higher Education Commission",
+        "European Research Council",
+        "Ministry of Education, Culture, Sports, Science and Technology",
+        "NAOJ"
+    ]
+}

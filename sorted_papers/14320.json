@@ -1,0 +1,88 @@
+{
+    "eid": "2-s2.0-85042384000",
+    "title": "Development of stereotactic radiosurgery using carbon beams (carbon-knife)",
+    "cover-date": "2018-02-20",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Radiological and Ultrasound Technology",
+            "@code": "3614",
+            "@abbrev": "HEAL"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "beam quality",
+        "carbon beam",
+        "radiation dosimetry",
+        "small field irradiation",
+        "stereotactic radiosurgery"
+    ],
+    "authors": [
+        "Mintra Keawsamur",
+        "Akihiko Matsumura",
+        "Hikaru Souda",
+        "Yosuke Kano",
+        "Masami Torikoshi",
+        "Takashi Nakano",
+        "Tatsuaki Kanai"
+    ],
+    "citedby-count": 4,
+    "ref-count": 17,
+    "ref-list": [
+        "Radiotherapy with beams of carbon ions",
+        "Current status of clinical particle radiotherapy at Lawrence Berkerley Labolatory",
+        "Evaluation of the dosimetric propoties of a diode detector for small field proton radiosurgery",
+        "Biophysical characteristics of HIMAC clinical irradiation system for heavy-ion radiation therapy",
+        "Examination of gye system for HIMAC carbon therapy",
+        "The stereotactic method and radiosurgery of the brain",
+        "A helium-ion beam for stereotactic radiosurgery of central nervous system disorders",
+        "Evaluation of an empirical monitor output estimation in carbon ion radiotherapy",
+        "Comparison of different radiation types and irradiation geometries in stereotactic radiosurgery",
+        "Measurements of lateral penumbra for uniform scanning proton beams under various beam delivery conditions and comparison to the XiO treatment planning system",
+        "Design of ridge filters for spread-out Bragg peaks with Monte Carlo simulation in carbon ion therapy",
+        "The history of steriotactic radiosurgery",
+        "Development of scanning irradiation in Gunma University Heavy ion Medical center",
+        "Improvement of scanning irradiation in Gunma University Heavy Ion Medical Center",
+        "Overview of clinical experiences on carbon ion radiotherapy at NIRS",
+        "Small photon field dosimetry using EBT2 Gafchromic film and Monte Carlo simulation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Maebashi",
+            "@id": "60005935",
+            "affilname": "Gunma University Faculty of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005935",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Chiba",
+            "@id": "60272574",
+            "affilname": "Accelerator Engineering Corporation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60272574",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Maebashi",
+            "@id": "60014756",
+            "affilname": "Gunma University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014756",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Ministry of Education, Culture, Sports, Science and Technology of Japan"
+    ]
+}

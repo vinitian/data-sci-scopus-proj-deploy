@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85167449080",
+    "title": "Cross-Border Capacity Planning in Air Traffic Management Under Uncertainty",
+    "cover-date": "2023-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Transportation",
+            "@code": "3313",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "air traffic management",
+        "capacity planning",
+        "simulation optimization"
+    ],
+    "authors": [
+        "Jan Rasmus K\u00fcnnen",
+        "Arne K. Strauss",
+        "Nikola Ivanov",
+        "Radosav Jovanovi\u0107",
+        "Frank Fichert",
+        "Stefano Starita"
+    ],
+    "citedby-count": 1,
+    "ref-count": 25,
+    "ref-list": [
+        "Adaptive random search for continuous simulation optimization",
+        "Reinventing European air traffic control based on the Covid-19 pandemic experience",
+        "Cross-border exchange and sharing of generation reserve capacity",
+        "An asymptotically optimal set approach for simulation optimization",
+        "Coordinated capacity and demand management in a redesigned Air Traffic Management value-chain",
+        "The single-period (news-vendor) problem: Literature review and suggestions for future research",
+        "A guide to sample average approximation",
+        "The sample average approximation method for stochastic discrete optimization",
+        "The value of flexible flight-to-route assignments in pre-tactical air traffic management",
+        "The data-driven newsvendor problem: New bounds and insights",
+        "An algorithm for the multidimensional multiple-choice knapsack problem",
+        "Effects of fragmentation on route charges",
+        "A minimal algorithm for the multiple-choice knapsack problem",
+        "The newsvendor problem: Review and directions for future research",
+        "Air traffic control capacity planning under demand and capacity provision uncertainty"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60138776",
+            "affilname": "Sasin School of Management, Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60138776",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Belgrade",
+            "@id": "60068815",
+            "affilname": "University of Belgrade",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60068815",
+            "affiliation-country": "Serbia"
+        },
+        {
+            "affiliation-city": "Worms",
+            "@id": "60029327",
+            "affilname": "Fachhochschule Worms",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029327",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Vallendar",
+            "@id": "60012481",
+            "affilname": "WHU - Otto Beisheim School of Management",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012481",
+            "affiliation-country": "Germany"
+        }
+    ],
+    "funding": [
+        "Horizon 2020 Framework Programme"
+    ]
+}

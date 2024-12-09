@@ -1,0 +1,76 @@
+{
+    "eid": "2-s2.0-85121760611",
+    "title": "An applying colored petri net for computerized accounting system and ledger accounts instruction",
+    "cover-date": "2021-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Colored petri net",
+        "Computerized accounting system",
+        "Formal model",
+        "Ledger account",
+        "Model-based instruction",
+        "Model-based simulation"
+    ],
+    "authors": [
+        "Chanon Dechsupa",
+        "Wiwat Vatanawood",
+        "Worawit Poolsawasdi",
+        "Arthit Thongtak"
+    ],
+    "citedby-count": 1,
+    "ref-count": 27,
+    "ref-list": [
+        "Snoopy\u2014A unifying Petri net tool",
+        "Coloured Petri Nets and CPN Tools for modelling and validation of concurrent systems",
+        "GreatSPN 1.7: Graphical editor and analyzer for timed and stochastic Petri nets",
+        "Petri net model checking with LoLA 2",
+        "Test case design based on Z and the classification-tree method",
+        "Formal Verification of the Accounting Information Interfaces Using Colored Petri Net",
+        "A framework for analytics and simulation of accounting information systems: A Petri net modeling primer",
+        "The research of computerized accounting system of internal control",
+        "Decision tables in Petri net models",
+        "Generating of business rules for Coloured Petri Nets",
+        "Accounting Information Systems implementation and management accounting change",
+        "An empirical analysis of accounting information integration in integrated systems",
+        "Quality dimensions of Delone-McLean model to measure students\u2019 accounting computer satisfaction: An empirical test on accounting system information",
+        "Towards a meta-theory of accounting information systems",
+        "Computer aided instruction A study of student evaluations and academic performance",
+        "Double-entry bookkeeping and the birth of capitalism: Accounting for the commercial revolution in medieval northern Italy",
+        "Model checking and the state explosion problem",
+        "Petri nets in systems biology",
+        "Petri Net representations in systems biology",
+        "Petri nets for systems and synthetic biology"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chonburi",
+            "@id": "60009116",
+            "affilname": "Burapha University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009116",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

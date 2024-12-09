@@ -1,0 +1,72 @@
+{
+    "eid": "2-s2.0-85135034115",
+    "title": "Many-Objective Mixed-Model Parallel Assembly Line Balancing Utilizing Normal Workers, Disabled Workers, and Robots",
+    "cover-date": "2022-04-28",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Human and Robotic Assembly Line",
+        "Many-Objective Mixed-Model Parallel Assembly Line Balancing",
+        "MOEA/D",
+        "NSGA-III"
+    ],
+    "authors": [
+        "Supitcha Ngampanich",
+        "Parames Chutima"
+    ],
+    "citedby-count": 0,
+    "ref-count": 10,
+    "ref-list": [
+        "Multi-objective mixed-model parallel assembly line balancing with a fuzzy adaptive biogeography-based algorithm",
+        "Multi-objective two-sided mixed-model assembly line balancing using particle swarm optimisation with negative knowledge",
+        "Solving Many-Objective Car Sequencing Problems on Two-Sided Assembly Lines Using an Adaptive Differential Evolutionary Algorithm",
+        "Balancing parallel assembly lines with disabled workers",
+        "Multi-objective co-operative co-evolutionary algorithm for minimizing carbon footprint and maximizing line efficiency in robotic assembly line systems",
+        "Designing assembly lines with humans and collaborative robots: A genetic approach",
+        "An evolutionary many-objective optimization algorithm using reference-point based non-dominated sorting approach, part II: Handling constraints and extending to an adaptive approach",
+        "An efficient approach for type II robotic assembly line balancing problems",
+        "Advanced Materials and Energy Sustainability-Proceedings of the 2016 International Conference on Advanced Materials and Energy Sustainability (Ames2016)",
+        "Many-objective low-cost airline cockpit crew rostering optimisation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "North Bangkok",
+            "@id": "109168253",
+            "affilname": "Academy of Science",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/109168253",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,77 @@
+{
+    "eid": "2-s2.0-85160776164",
+    "title": "Improvements in dose efficiency with high resolution scan modes in photon counting CT",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biomaterials",
+            "@code": "2502",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "detectability",
+        "dose efficiency",
+        "high resolution",
+        "photon counting CT"
+    ],
+    "authors": [
+        "Picha Shunhavanich",
+        "Kishore Rajendran",
+        "Mingdong Fan",
+        "Cynthia H. McCollough",
+        "Shuai Leng",
+        "Lifeng Yu",
+        "Scott S. Hsieh"
+    ],
+    "citedby-count": 0,
+    "ref-count": 8,
+    "ref-list": [
+        "X-ray computed tomography",
+        "First clinical photon-counting detector CT system: Technical evaluation",
+        "Improved quantification of coronary artery luminal stenosis in the presence of heavy calcifications using photon-counting detector CT",
+        "Accuracy of Nodule Volume and Airway Wall Thickness Measurement Using Low-Dose Chest CT on a Photon-Counting Detector CT Scanner",
+        "Assessment of visibility of bone structures in the wrist using normal and half of the radiation dose with photon-counting detector CT",
+        "Image quality in CT: From physical measurements to model observers",
+        "To bin or not to bin? The effect of CT system limiting resolution on noise and detectability",
+        "Nonparametric signal detectability evaluation using an exponential transformation of the FROC curve"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Rochester",
+            "@id": "60005558",
+            "affilname": "Mayo Clinic",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005558",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "National Institutes of Health"
+    ]
+}

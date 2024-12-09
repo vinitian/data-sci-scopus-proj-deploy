@@ -1,0 +1,70 @@
+{
+    "eid": "2-s2.0-85131684459",
+    "title": "Reliability of DC-link Capacitors in Three-Level NPC Inverters under different PWM Methods",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "capacitors",
+        "power loss",
+        "pulse-width modulation (PWM)",
+        "Reliability",
+        "three-level inverter"
+    ],
+    "authors": [
+        "Ariya Sangwongwanich",
+        "Mateja Novak",
+        "Somboon Sangwongwanich",
+        "Frede Blaabjerg"
+    ],
+    "citedby-count": 3,
+    "ref-count": 25,
+    "ref-list": [
+        "A survey on neutral-point-clamped inverters",
+        "A new neutral-point-clamped PWM inverter",
+        "A comprehensive study of neutralpoint voltage balancing problem in three-level neutral-point-clamped voltage source PWM inverters",
+        "Carrier based SVPWM method for multi-level system with reduced HDF",
+        "Evaluation of the low-frequency neutral-point voltage oscillations in the three-level inverter",
+        "Research on zero-sequence signal of space vector modulation for three-level neutralpoint-clamped inverter based on vector diagram partition",
+        "Generalized discontinuous DC-link balancing modulation strategy for three-level inverters",
+        "The nearest three virtual space vector PWM-a modulation for the comprehensive neutral-point balancing in the three-level NPC inverter",
+        "Fast-processing modulation strategy for the neutralpoint-clamped converter with total elimination of low-frequency voltage oscillations in the neutral point",
+        "Minimum-loss strategy for three-phase PWM rectifier",
+        "Optimal pulse-width modulation for threelevel inverters",
+        "Modulation techniques for three-phase three-level NPC inverters: A review and a novel solution for switching losses reduction and optimal neutral-point balancing in photovoltaic applications",
+        "A generalized discontinuous PWM scheme for three-level NPC traction inverter with minimum switching loss for electric vehicles",
+        "Analytical calculation of the RMS current stress on the DC link capacitor of voltage DC link PWM converter systems",
+        "Analysis of DClink capacitor losses in three-level neutral point clamped and cascaded H-Bridge voltage source inverters",
+        "Mission profile based reliability evaluation of capacitor banks in wind power converters",
+        "Reliability assessment of hybrid capacitor bank using electrolytic-and film-capacitors in three-level neutral-point-clamped inverters",
+        "Carrier-based realization of arbitrary space-vector PWM methods for three-level inverters",
+        "Analysis of variation of neutral point potential in neutral-point-clamped voltage source PWM inverters",
+        "A neutral-point potential balancing algorithm for three-level NPC inverters using analytically injected zero-sequence voltage",
+        "Design for accelerated testing of DC-link capacitors in photovoltaic inverters based on mission profiles"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Aalborg",
+            "@id": "60022134",
+            "affilname": "Aalborg University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022134",
+            "affiliation-country": "Denmark"
+        }
+    ],
+    "funding": [
+        "Villum Foundation"
+    ]
+}

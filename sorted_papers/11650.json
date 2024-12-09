@@ -1,0 +1,121 @@
+{
+    "eid": "2-s2.0-85168715759",
+    "title": "Label-free tumor cells classification using deep learning and high-content imaging",
+    "cover-date": "2023-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Statistics and Probability",
+            "@code": "2613",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Education",
+            "@code": "3304",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Statistics, Probability and Uncertainty",
+            "@code": "1804",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Library and Information Sciences",
+            "@code": "3309",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Chawan Piansaddhayanon",
+        "Chonnuttida Koracharkornradt",
+        "Napat Laosaengpha",
+        "Qingyi Tao",
+        "Praewphan Ingrungruanglert",
+        "Nipan Israsena",
+        "Ekapol Chuangsuwanich",
+        "Sira Sriswasdi"
+    ],
+    "citedby-count": 0,
+    "ref-count": 41,
+    "ref-list": [
+        "Identification and quantitation of circulating tumor cells",
+        "Circulating tumor cells: From theory to nanotechnology-based detection",
+        "Circulating tumor cell enumeration with a combination of epithelial cell adhesion molecule- and cell-surface vimentin-based methods for monitoring breast cancer therapeutic response",
+        "Circulating tumor cell detection: A direct comparison between negative and unbiased enrichment in lung cancer",
+        "Progress and challenges of sequencing and analyzing circulating tumor cells",
+        "Automatic detection of circulating tumor cells in darkfield microscopic images of unstained blood using boosting techniques",
+        "High-throughput automated microscopy of circulating tumor cells",
+        "Cell type classification and unsupervised morphological phenotyping from low-resolution images using deep learning",
+        "Deep learning in label-free cell classification",
+        "In silico labeling: Predicting fluorescent labels in unlabeled images",
+        "Deep learning to predict microscope images",
+        "Deep learning of circulating tumour cells",
+        "Morphological differences between circulating tumor cells from prostate cancer patients and cultured prostate cancer cells",
+        "Label-free detection of rare circulating tumor cells by image analysis and machine learning",
+        "Circulating tumor cell identification based on deep learning",
+        "Evican \u2013 a balanced dataset for algorithm development in cell and nucleus segmentation",
+        "Livecell \u2013 a large-scale dataset for label-free live cell segmentation",
+        "Cholangiocarcinoma disease modelling through patients derived organoids",
+        "Comparison and optimization of machine learning methods for automated classification of circulating tumor",
+        "Deepmitosis: Mitosis detection via deep detection, verification and segmentation networks",
+        "Deep learning in digital pathology image analysis: a survey",
+        "The organoid cell atlas",
+        "Automated brightfield morphometry of 3d organoid populations by organoseg",
+        "D-crypto: deep learning-based analysis of colon organoid morphology from brightfield images",
+        "Fluorescence imaging of CCA organoid-derived cells",
+        "Faster R-CNN: Towards real-time object detection with region proposal networks",
+        "Deep residual learning for image recognition",
+        "Imagenet: A large-scale hierarchical image database",
+        "A convnet for the 2020 s",
+        "Nuclear mechanopathology and cancer diagnosis",
+        "UMAP: Uniform manifold approximation and projection",
+        "EfficientNet: Rethinking model scaling for convolutional neural networks",
+        "Densely connected convolutional networks",
+        "Swin transformer: Hierarchical vision transformer using shifted windows",
+        "Fcos: Fully convolutional one-stage object detection"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Santa Clara",
+            "@id": "60076695",
+            "affilname": "NVIDIA",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60076695",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Asahi Glass Foundation",
+        "Chulalongkorn University"
+    ]
+}

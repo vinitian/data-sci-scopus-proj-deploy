@@ -1,0 +1,89 @@
+{
+    "eid": "2-s2.0-85050336797",
+    "title": "Designing Model for Calculating the Amount of Cyber Risk Insurance",
+    "cover-date": "2018-03-27",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computational Mechanics",
+            "@code": "2206",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "cyber risk",
+        "information system",
+        "insurance",
+        "risk management",
+        "security"
+    ],
+    "authors": [
+        "Krerk Piromsopa",
+        "Tomas Klima",
+        "Lukas Pavlik"
+    ],
+    "citedby-count": 5,
+    "ref-count": 9,
+    "ref-list": [
+        "Closing the price of anarchy gap in the interdependent security game",
+        "The Complexity of Estimating Systematic Risk in Networks",
+        "On a way to improve cyber-insurer profits when a security vendor becomes the cyber-insurer",
+        "Why cyber-insurance contracts fail to reflect cyber-risks",
+        "Insuring Big Losses Due to Security Breaches through Insurance: A Business Model",
+        "Applicability of Prediction Markets in Information Security Risk Management"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Prague",
+            "@id": "60017004",
+            "affilname": "Prague University of Economics and Business",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017004",
+            "affiliation-country": "Czech Republic"
+        },
+        {
+            "affiliation-city": "Zlin",
+            "@id": "60008287",
+            "affilname": "Univerzita Tom\u00e1se Bati ve Zlin\u011b",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008287",
+            "affiliation-country": "Czech Republic"
+        }
+    ],
+    "funding": []
+}

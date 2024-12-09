@@ -1,0 +1,75 @@
+{
+    "eid": "2-s2.0-85085014294",
+    "title": "Development of Rhythm-based and Morphology-based Algorithm for Atrial Fibrillation Detection From Single Lead ECG Signal",
+    "cover-date": "2020-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "AlexNet",
+        "Atrial Fibrillation",
+        "Morphology-based",
+        "Rhythm-based"
+    ],
+    "authors": [
+        "Jantappapa Chanthercrob",
+        "Suchet Mahattanatawee",
+        "Arporn Teeramongkonrasmee",
+        "Pakpum Somboon"
+    ],
+    "citedby-count": 2,
+    "ref-count": 13,
+    "ref-list": [
+        "Prevalence of atrial fibrillation in elderly subjects (the cardiovascular health study)",
+        "ACC/AHA/ESC 2006 guidelines for the management of patients with atrial fibrillation",
+        "Guidelines for the management of atrial fibrillation: The task force for the management of atrial fibrillation of the european society of cardiology (ESC)",
+        "Thai af guideline 2012",
+        "Cost of care distribution in atrial fibrillation patients: The cocaf study",
+        "Deep learning in bioinformatics",
+        "Af classification from a short single lead ECG recording: The physionet computing in cardiology challenge 2017",
+        "Arrhythmia classification by heart rate variability analysis using symlets based on time-frequency features",
+        "Cardiac arrhythmia detection using deep learning",
+        "Morphology-based atrial fibrillation detection from single lead ECG recordings using deep learning",
+        "Imagenet classification with deep convolutional neural networks",
+        "Convolutional neural networks for medical image analysis: Full training or fine tuning?"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "eid": "2-s2.0-85067195685",
+    "title": "Fast Coding Unit Encoding Scheme for HEVC Using Genetic Algorithm",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Fast encoding",
+        "genetic algorithm",
+        "high efficiency video coding",
+        "quadtree-based coding unit partitioning"
+    ],
+    "authors": [
+        "Ei Ei Tun",
+        "Supavadee Aramvith",
+        "Yoshikazu Miyanaga"
+    ],
+    "citedby-count": 2,
+    "ref-count": 24,
+    "ref-list": [
+        "Overview of the high efficiency video coding (HEVC) standard",
+        "Overview of the H.264/AVC video coding standard",
+        "Fast CU splitting and pruning for suboptimal CU partitioning in HEVC intra coding",
+        "A fast CU size decision algorithm for the HEVC intra encoder",
+        "Adeep convolutional neural network approach for complexity reduction on intra-mode HEVC",
+        "Fast intra-mode and CU size decision for HEVC",
+        "An effective CU size decision method for HEVC encoders",
+        "Fast coding unit partitioning algorithm for HEVC",
+        "Inter-prediction optimizations for video coding using adaptive coding unit visiting order",
+        "Fast coding unit size selection for HEVC based on Bayesian decision rule",
+        "An adaptive quad-tree depth range prediction mechanism for HEVC",
+        "CU splitting early termination based on weighted SVM",
+        "Fast HEVC encoding decisions using data mining",
+        "Machine learning-based coding unit depth decisions for flexible complexity allocation in high efficiency video coding",
+        "Fast CU split decisions for HEVC inter coding using support vector machines",
+        "Fuzzy SVM-based coding unit decision in HEVC",
+        "Fast CU partitioning algorithm for HEVC using an online-learning-based Bayesian decision rule",
+        "Binary and multi-class learning based low complexity optimization for HEVC encoding",
+        "Reducing complexity of HEVC: A deep learning approach",
+        "Early MERGE mode decision based on motion estimation and hierarchical depth correlation for HEVC",
+        "Fast motion estimation based on content property for low-complexity H.265/HEVC encoder"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Sapporo",
+            "@id": "60014652",
+            "affilname": "Hokkaido University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014652",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Ministry of Education, Science, Sports and Culture",
+        "JICA",
+        "Ministry of Internal Affairs and Communications"
+    ]
+}

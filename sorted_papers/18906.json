@@ -1,0 +1,122 @@
+{
+    "eid": "2-s2.0-85163306522",
+    "title": "A Deep Learning Approach for Locating Microalgae in Image Captured by Smartphone and Digital Microscope Camera",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Education",
+            "@code": "3304",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Arts and Humanities (miscellaneous)",
+            "@code": "1201",
+            "@abbrev": "ARTS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Media Technology",
+            "@code": "2214",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Health Informatics",
+            "@code": "2718",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "digital microscope camera",
+        "efficientdet",
+        "faster-rcnn",
+        "microalgae detection",
+        "retinanet",
+        "smartphone camera",
+        "yolov5"
+    ],
+    "authors": [
+        "Nitiphong Kaewman",
+        "Phasit Charoenkwan",
+        "Jinnapat Yana",
+        "Phon Ubon Suanoi",
+        "Kritsana Duangjan",
+        "Jeeraporn Pekkoh",
+        "Chayakorn Pumas"
+    ],
+    "citedby-count": 0,
+    "ref-count": 30,
+    "ref-list": [
+        "Assessment of Water Quality in Standing Water by Using Dominant Phytoplankton (AARL-PP Score)",
+        "Algae as an Indicator of Water Quality",
+        "Phytoplankton as a Bio-indicator of Water Quality in the Freshwater Fishing Area of Pak Phanang River Basin (Southern Thailand)",
+        "Phytoplankton composition and water quality of Kwan Phayao Reservoir, Thailand, during rainy and cold dry seasons Nostoc sp. in rice seeding View project Alleviation of Cadmium Toxicity in Rice by gamma-Polyglutamic Acid Produced by Bacillus subtilis View project",
+        "Freshwater Algae",
+        "Review on freshwater blue-green algae (cyanobacteria): Occurrence, classification and toxicology",
+        "Microalgae identification: Future of image processing and digital algorithm",
+        "Machine learning for microalgae detection and utilization",
+        "Deep Learning for Imaging and Detection of Microorganisms",
+        "Point-of-care applications of smartphone-based microscopy",
+        "Contextual-YOLOV3: Implement better small object detection based deep learning",
+        "Computer Vision Based Deep Learning Approach for the Detection and Classification of Algae Species Using Microscopic Images",
+        "Influence of image quality on the identification of psyllids using convolutional neural networks",
+        "Mobile-aware deep learning algorithms for malaria parasites and white blood cells localization in thick blood smears",
+        "1D Barcode Detection: Novel Benchmark Datasets and Comprehensive Comparison of Deep Convolutional Neural Network Approaches",
+        "An improved algae-YOLO model based on deep learning for object detection of ocean microalgae considering aquacultural lightweight deployment",
+        "Malaria parasite detection in thick blood smear microscopic images using modified YOLOV3 and YOLOV4 models",
+        "Water monitoring by means of digital microscopy identification and classification of microalgae",
+        "Deep Learning-Based Algal Detection Model Development Considering Field Application",
+        "An Evaluation of Deep Learning Methods for Small Object Detection",
+        "An Improved Faster R-CNN for Small Object Detection",
+        "Investigations of object detection in images/videos using various deep learning techniques and embedded platforms-A comprehensive review",
+        "Mobile-aware deep learning algorithms for malaria parasites and white blood cells localization in thick blood smears",
+        "A review of object detection based on deep learning",
+        "Automatic identification of harmful algae based on multiple convolutional neural networks and transfer learning",
+        "A Systematic Literature Review of the Mobile Application for Object Recognition for Visually Impaired People"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Chaing Mai",
+            "@id": "60000881",
+            "affilname": "Chiang Mai University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000881",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "National Science and Technology Development Agency"
+    ]
+}

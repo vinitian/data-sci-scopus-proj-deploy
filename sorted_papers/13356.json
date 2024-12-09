@@ -1,0 +1,147 @@
+{
+    "eid": "2-s2.0-85092151149",
+    "title": "KITSUNE: A Tool for Identifying Empirically Optimal K-mer Length for Alignment-Free Phylogenomic Analysis",
+    "cover-date": "2020-09-23",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biotechnology",
+            "@code": "1305",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Bioengineering",
+            "@code": "1502",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Histology",
+            "@code": "2722",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biomedical Engineering",
+            "@code": "2204",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "alignment-free",
+        "comparative genomics",
+        "k-mer",
+        "phylogenomics",
+        "species identification"
+    ],
+    "authors": [
+        "Natapol Pornputtapong",
+        "Daniel A. Acheampong",
+        "Preecha Patumcharoenpol",
+        "Piroon Jenjaroenpun",
+        "Thidathip Wongsurawat",
+        "Se Ran Jun",
+        "Suganya Yongkiettrakul",
+        "Nipa Chokesajjawatee",
+        "Intawat Nookaew"
+    ],
+    "citedby-count": 5,
+    "ref-count": 53,
+    "ref-list": [
+        "Basic local alignment search tool",
+        "Optimal choice of word length when comparing two Markov sequences using a chi (2)-statistic",
+        "From theory to practice: translating whole-genome sequencing (WGS) into the clinic",
+        "Alignment-free inference of hierarchical and reticulate phylogenomic relationships",
+        "Alignment-free microbial phylogenomics under scenarios of sequence divergence, genome rearrangement and lateral genetic transfer",
+        "Alignment-free genetic sequence comparisons: a review of recent approaches by word analysis",
+        "Spaced seeds improve k-mer-based metagenomic classification",
+        "On the resemblance and containment of documents",
+        "A decade of genome sequencing has revolutionized studies of experimental evolution",
+        "Genome sequences of horticultural plants: past, present, and future",
+        "Whole-proteome tree of life suggests a deep burst of organism diversity",
+        "Safety assessment of a nham starter culture Lactobacillus plantarum BCC9546 via whole-genome analysis",
+        "Novel sequencing technologies to support industrial biotechnology",
+        "Comparison of long-read sequencing technologies in the hybrid assembly of complex bacterial genomes",
+        "An assembly and alignment-free method of phylogeny reconstruction from next-generation sequencing data",
+        "Nucleotide sequences of influenza virus segments 1 and 3 reveal mosaic structure of a small viral RNA segment",
+        "Genomics of the fungal kingdom: insights into eukaryotic biology",
+        "Assigning Escherichia coli strains to phylogenetic groups: multi-locus sequence typing versus the PCR triplex method",
+        "MycoCosm portal: gearing up for 1000 fungal genomes",
+        "Severe acute respiratory syndrome coronavirus 2 from patient with 2019 novel coronavirus disease, United States",
+        "Clinical and biological insights from viral genome sequencing",
+        "Approximate nearest neighbors: towards removing the curse of dimensionality",
+        "High throughput ANI analysis of 90K prokaryotic genomes reveals clear species boundaries",
+        "Complete genomic and transcriptional landscape analysis using third-generation sequencing: a case study of Saccharomyces cerevisiae CEN.PK113-7D",
+        "Construction of infectious cDNA clones for dengue 2 virus: strain 16681 and its attenuated vaccine derivative, strain PDK-53",
+        "Assembly of long, error-prone reads using repeat graphs",
+        "Insights from 20 years of bacterial genome sequencing",
+        "CAFE: aCcelerated Alignment-FrEe sequence analysis",
+        "A benchmark study of k-mer counting methods for high-throughput sequencing",
+        "A fast, lock-free approach for efficient parallel counting of occurrences of k-mers",
+        "Signal peptide fragments of preprolactin and HIV-1 p-gp160 interact with calmodulin",
+        "Mash: fast genome and metagenome distance estimation using MinHash",
+        "Alignment-free sequence comparison (I): statistics and power",
+        "Alignment-free sequence analysis and applications",
+        "Genome to phenome: improving animal health, production, and well-being - a new USDA blueprint for animal genome research 2018-2027",
+        "Kaposi\u2019s sarcoma-associated herpesvirus immune modulation: an overview",
+        "Evolutionary genomics: the fruits of genomic approaches applied to evolutionary biology",
+        "Within-species lateral genetic transfer and the evolution of transcriptional regulation in Escherichia coli and Shigella",
+        "The present and future of de novo whole-genome assembly",
+        "Afann: bias adjustment for alignment-free sequence comparison based on sequencing data using neural network regression",
+        "A greedy alignment-free distance estimator for phylogenetic inference",
+        "MetaPhlAn2 for enhanced metagenomic taxonomic profiling",
+        "Integration of molecular functions at the ecosystemic level: breakthroughs and future goals of environmental genomics and post-genomics",
+        "Performance of neural network basecalling tools for Oxford Nanopore sequencing",
+        "Bandage: interactive visualization of de novo genome assemblies",
+        "Case of microcephaly after congenital infection with asian lineage zika virus, Thailand",
+        "R-loop-forming sequences analysis in thousands of viral genomes identify a new common element in herpesviruses",
+        "Genome sequences of zika virus strains recovered from amniotic fluid, placenta, and fetal brain of a microcephaly patient in Thailand, 2017",
+        "Improved metagenomic analysis with Kraken 2",
+        "Whole-proteome phylogeny of large dsDNA virus families by an alignment-free method",
+        "Viral phylogenomics using an alignment-free method: a three-step approach to determine optimal length of k-mer",
+        "Benchmarking of alignment-free sequence comparison methods",
+        "Alignment-free sequence comparison: benefits, applications, and tools"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Little Rock",
+            "@id": "60024885",
+            "affilname": "University of Arkansas for Medical Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024885",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60021944",
+            "affilname": "Kasetsart University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021944",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011947",
+            "affilname": "Thailand National Center for Genetic Engineering and Biotechnology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011947",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Little Rock",
+            "@id": "60001241",
+            "affilname": "University of Arkansas at Little Rock",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001241",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "National Institutes of Health",
+        "National Institute of General Medical Sciences"
+    ]
+}

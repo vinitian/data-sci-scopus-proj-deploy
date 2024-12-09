@@ -1,0 +1,86 @@
+{
+    "eid": "2-s2.0-85145956665",
+    "title": "3D reconstruction of proximal femoral fracture from biplanar radiographs with fractural representative learning",
+    "cover-date": "2023-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Multidisciplinary",
+            "@code": "1000",
+            "@abbrev": "MULT"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Danupong Buttongkum",
+        "Pairat Tangpornprasert",
+        "Chanyaphan Virulsri",
+        "Numphung Numkarunarunrote",
+        "Chavarin Amarase",
+        "Thananop Kobchaisawat",
+        "Thanarat Chalidabhongse"
+    ],
+    "citedby-count": 0,
+    "ref-count": 40,
+    "ref-list": [
+        "Epidemiology of proximal femoral fractures",
+        "Risk factors for nonunion after intramedullary nailing of subtrochanteric femoral fractures",
+        "Trends in fracture incidence: A population-based study over 20 years",
+        "Proximal femoral fractures: What the orthopedic surgeon wants to know",
+        "Computer-assisted preoperative planning improves the learning curve of PFNA-II in the treatment of intertrochanteric femoral fractures",
+        "Plain radiography of the hip: A review of radiographic techniques and image features",
+        "Computer-assisted preoperative planning for reduction of proximal femoral fracture using 3-D-CT data",
+        "A comparative study of medical imaging techniques",
+        "Teaching medical anatomy: What is the role of imaging today?",
+        "Association of computer-assisted virtual preoperative planning with postoperative mortality and complications in older patients with intertrochanteric hip fracture",
+        "Navigation in surgery",
+        "Review of 2-D/3-D reconstruction using statistical shape and intensity models and X-ray image synthesis: Toward a unified framework",
+        "Statistical shape models for 3D medical image segmentation: A review",
+        "Reconstructing the 3D shape and bone mineral density distribution of the proximal femur from dual-energy X-ray absorptiometry",
+        "Fully convolutional networks for semantic segmentation",
+        "Feature pyramid networks for object detection",
+        "3D U-Net",
+        "Single-image tomography: 3D volumes from 2D cranial X-rays",
+        "GA-GAN: CT reconstruction from biplanar DRRs using GAN with guided attention",
+        "Hip fractures: Relevant anatomy, classification, and biomechanics of fracture and fixation",
+        "X2CT-GAN: Reconstructing CT from biplanar X-rays with generative adversarial networks",
+        "A survey on image data augmentation for deep learning",
+        "Fracture and dislocation classification compendium\u20142018",
+        ". Densely connected convolutional networks",
+        "Unsupervised Representation Learning by Predicting Image Rotations",
+        "Context Encoders: Feature Learning by Inpainting",
+        "Self-supervised visual feature learning with deep neural networks: A survey",
+        "Measurement of changes in trabecular bone at fracture sites using X-ray CT and automated image registration and processing",
+        "Focal Loss for Dense Object Detection",
+        "Fast generation of digitally reconstructed radiographs using attenuation fields with application to 2D\u20133D image registration",
+        "A digitally reconstructed radiograph algorithm calculated from first principles",
+        "Radiographic anatomy and imaging of the acetabulum",
+        "PyTorch: An imperative style, high-performance deep learning library",
+        "A method for stochastic optimization. In The 3rd International Conference for Learning Representations",
+        "Family of boundary overlap metrics for the evaluation of medical image segmentation",
+        "Liver tumor segmentation in CT volumes using an adversarial densely connected network",
+        "Selecting the correct X-ray tube tilt angle and roof pillar rotation for bedside radiography with combined cranio-caudal and lateral cassette tilt",
+        "Three dimensional bone mineral density changes in the femur over 1 year in primary total hip arthroplasty patients"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Department of Radiology",
+        "Chulalongkorn University"
+    ]
+}

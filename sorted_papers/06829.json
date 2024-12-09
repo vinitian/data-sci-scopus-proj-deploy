@@ -1,0 +1,133 @@
+{
+    "eid": "2-s2.0-85077793091",
+    "title": "Deep learning image-based defect detection in high voltage electrical equipment",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Fuel Technology",
+            "@code": "2103",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy (miscellaneous)",
+            "@code": "2101",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Deep learning",
+        "Defect detection",
+        "High voltage electrical equipment",
+        "Infrared thermography",
+        "Random forest",
+        "Support vector machine",
+        "Thermal imaging"
+    ],
+    "authors": [
+        "Irfan Ullah",
+        "Rehan Ullah Khan",
+        "Fan Yang",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 41,
+    "ref-count": 53,
+    "ref-list": [
+        "Thermography-based diagnostics of power equipment",
+        "Performance monitoring of direct air-cooled power generating unit with infrared thermography",
+        "Medical applications of infrared thermography: A review",
+        "Measurement of the temperature distribution on a circular plane fin by infrared thermography technique",
+        "Infrared thermography for building diagnostics",
+        "Thermographic study of the preheating plugs in diesel engines",
+        "Field winding fault diagnosis in DC motors during manufacturing using thermal monitoring",
+        "Applications of thermography in non-destructive testing of structures",
+        "Thermographic study of energetic installations",
+        "Recent progress in diagnosing the reliability of electrical equipment by using infrared thermography",
+        "Automatic diagnosis system of electrical equipment using infrared thermography",
+        "Neonatal infrared thermography imaging: Analysis of heat flux during different clinical scenarios",
+        "Finding region of interest in the infrared image of electrical installation",
+        "Contamination grades recognition of ceramic insulators using fused features of infrared and ultraviolet images",
+        "Intelligent thermographic diagnostic applied to surge arresters: A new approach",
+        "Design of early fault detection technique for electrical assets using infrared thermograms",
+        "An intelligent fault diagnosis method for electrical equipment using infrared images",
+        "Aggregating deep convolutional feature maps for insulator detection in infrared images",
+        "Research on the infrared and visible power-equipment image fusion for inspection robots",
+        "Substation equipment image recognition based on SIFT feature matching",
+        "Multi-angle insulator recognition method in infrared image based on parallel deep convolutional neural networks",
+        "Predictive maintenance of power substation equipment by infrared thermography using a machine-learning approach",
+        "Object level deep feature pooling for compact image representation",
+        "A Bayesian hierarchical model for learning natural scene categories",
+        "Distinctive image features from scale-invariant keypoints",
+        "SURF: Speeded up robust features",
+        "Aggregating local descriptors into a compact image representation",
+        "Aggregating local image descriptors into compact codes",
+        "Imagenet classification with deep convolutional neural networks",
+        "Learning and transferring mid-level image representations using convolutional neural networks",
+        "Faster R-CNN: Towards real-time object detection with region proposal networks",
+        "SSD: Single shot multibox detector",
+        "Visualizing and understanding convolutional networks",
+        "Shape quantization and recognition with randomized trees",
+        "The random subspace method for constructing decision forests",
+        "Experimental comparison of three methods for constructing ensembles of decision trees: Bagging, boosting, and randomization",
+        "Experiments with a new boosting algorithm",
+        "Bagging predictors",
+        "Analyzing bagging",
+        "Observations on bagging",
+        "On the layered nearest neighbour estimate, the bagged nearest neighbour estimate and the random forest method in regression and classification",
+        "Image indexing using color correlograms",
+        "ImageNet large scale visual recognition challenge"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Buraidah",
+            "@id": "60025518",
+            "affilname": "Al Qassim University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025518",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chongqing",
+            "@id": "60023380",
+            "affilname": "Chongqing University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023380",
+            "affiliation-country": "China"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Chulalongkorn University",
+        "STATE GRID of China corporation"
+    ]
+}

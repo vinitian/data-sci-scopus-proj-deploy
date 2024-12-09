@@ -1,0 +1,368 @@
+{
+    "eid": "2-s2.0-85137008986",
+    "title": "Predicting the potential for zoonotic transmission and host associations for novel viruses",
+    "cover-date": "2022-08-19",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Medicine (miscellaneous)",
+            "@code": "2701",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry, Genetics and Molecular Biology (all)",
+            "@code": "1300",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Agricultural and Biological Sciences (all)",
+            "@code": "1100",
+            "@abbrev": "AGRI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "P. S. Pandit",
+        "S. J. Anthony",
+        "T. Goldstein",
+        "K. J. Olival",
+        "M. M. Doyle",
+        "N. R. Gardner",
+        "B. Bird",
+        "W. A. Smith",
+        "D. Wolking",
+        "K. Gilardi",
+        "C. Monagin",
+        "T. Kelly",
+        "M. Uhart",
+        "J. H. Epstein",
+        "C. Machalaba",
+        "M. K. Rostal",
+        "P. Dawson",
+        "E. Hagan",
+        "A. Sullivan",
+        "H. Li",
+        "A. A. Chmura",
+        "A. Latinne",
+        "C. Lange",
+        "T. O'Rourke",
+        "S. H. Olson",
+        "L. Keatts",
+        "A. P. Mendoza",
+        "A. Perez",
+        "C. Dejuste de Paula",
+        "D. Zimmerman",
+        "M. Valitutto",
+        "M. LeBreton",
+        "D. McIver",
+        "A. Islam",
+        "V. Duong",
+        "M. Mouiche",
+        "Z. Shi",
+        "P. Mulembakani",
+        "C. Kumakamba",
+        "M. Ali",
+        "N. Kebede",
+        "U. Tamoufe",
+        "S. Bel-Nono",
+        "A. Camara",
+        "J. Pamungkas",
+        "K. Coulibaly",
+        "E. Abu-Basha",
+        "J. Kamau",
+        "S. Silithammavong",
+        "J. Desmond",
+        "T. Hughes",
+        "E. Shiilegdamba",
+        "O. Aung",
+        "D. Karmacharya",
+        "J. Nziza",
+        "D. Ndiaye",
+        "A. Gbakima",
+        "Z. Sijali",
+        "S. Wacharapluesadee",
+        "E. Alandia Robles",
+        "B. Ssebide",
+        "G. Suz\u00e1n",
+        "L. F. Aguirre",
+        "M. R. Solorio",
+        "T. N. Dhole",
+        "N. T.T. Nga",
+        "P. L. Hitchens",
+        "D. O. Joly",
+        "K. Saylors",
+        "A. Fine",
+        "S. Murray",
+        "W. Karesh",
+        "P. Daszak",
+        "J. A.K. Mazet",
+        "C. K. Johnson"
+    ],
+    "citedby-count": 2,
+    "ref-count": 0,
+    "ref-list": [],
+    "affiliation": [
+        {
+            "affiliation-city": "San Francisco",
+            "@id": "60138738",
+            "affilname": "Metabiota, Inc.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60138738",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bogor",
+            "@id": "60069381",
+            "affilname": "IPB University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60069381",
+            "affiliation-country": "Indonesia"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60091700",
+            "affilname": "EcoHealth Alliance",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091700",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Kinshasa",
+            "@id": "60072820",
+            "affilname": "Universite de Kinshasa",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60072820",
+            "affiliation-country": "Democratic Republic Congo"
+        },
+        {
+            "affiliation-city": "La Paz",
+            "@id": "60072083",
+            "affilname": "Wildlife Conservation Society Bolivia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60072083",
+            "affiliation-country": "Bolivia"
+        },
+        {
+            "affiliation-city": "Cochabamba",
+            "@id": "60072078",
+            "affilname": "Universidad Mayor de San Sim\u00f3n",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60072078",
+            "affiliation-country": "Bolivia"
+        },
+        {
+            "affiliation-city": "Phnom Penh",
+            "@id": "60071992",
+            "affilname": "Institut Pasteur du Cambodge",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071992",
+            "affiliation-country": "Cambodia"
+        },
+        {
+            "affiliation-city": "Abidjan",
+            "@id": "60071946",
+            "affilname": "Institut Pasteur de Cote-d'Ivoire",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071946",
+            "affiliation-country": "Cote d'Ivoire"
+        },
+        {
+            "affiliation-city": "Morogoro",
+            "@id": "60071594",
+            "affilname": "Sokoine University of Agriculture",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071594",
+            "affiliation-country": "Tanzania"
+        },
+        {
+            "affiliation-city": "Dakar",
+            "@id": "60071540",
+            "affilname": "Universit\u00e9 Cheikh Anta Diop de Dakar",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071540",
+            "affiliation-country": "Senegal"
+        },
+        {
+            "affiliation-city": "Addis Ababa",
+            "@id": "60071181",
+            "affilname": "Addis Ababa University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071181",
+            "affiliation-country": "Ethiopia"
+        },
+        {
+            "affiliation-city": "Nairobi",
+            "@id": "60068299",
+            "affilname": "University of Nairobi Medical School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60068299",
+            "affiliation-country": "Kenya"
+        },
+        {
+            "affiliation-city": "Irbid",
+            "@id": "60051534",
+            "affilname": "Jordan University of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60051534",
+            "affiliation-country": "Jordan"
+        },
+        {
+            "affiliation-city": "Nairobi",
+            "@id": "60037596",
+            "affilname": "National Museums of Kenya",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60037596",
+            "affiliation-country": "Kenya"
+        },
+        {
+            "affiliation-city": "Mexico",
+            "@id": "60032442",
+            "affilname": "Universidad Nacional Aut\u00f3noma de M\u00e9xico",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032442",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Melbourne",
+            "@id": "60031124",
+            "affilname": "Faculty of Veterinary and Agricultural Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031124",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60030162",
+            "affilname": "Columbia University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030162",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Wuhan",
+            "@id": "60027289",
+            "affilname": "Wuhan Institute of Virology Chinese Academy of Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027289",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Lucknow",
+            "@id": "60025015",
+            "affilname": "Sanjay Gandhi Postgraduate Institute of Medical Sciences Lucknow",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025015",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Cairo",
+            "@id": "60014618",
+            "affilname": "National Research Centre",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014618",
+            "affiliation-country": "Egypt"
+        },
+        {
+            "affiliation-city": "Belem",
+            "@id": "60001890",
+            "affilname": "Universidade Federal do Par\u00e1",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001890",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60001012",
+            "affilname": "Wildlife Conservation Society",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001012",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Davis",
+            "@id": "60000018",
+            "affilname": "School of Veterinary Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000018",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "128517424",
+            "affilname": "BP",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/128517424",
+            "affiliation-country": "Guinea"
+        },
+        {
+            "affiliation-city": "Yaounde",
+            "@id": "128517310",
+            "affilname": "BP",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/128517310",
+            "affiliation-country": "Cameroon"
+        },
+        {
+            "affiliation-city": "Hanoi",
+            "@id": "128287192",
+            "affilname": "Wildlife Conservation Society (WCS)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/128287192",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Accra",
+            "@id": "128286333",
+            "affilname": "Military Veterinarian (Rtd.)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/128286333",
+            "affiliation-country": "Ghana"
+        },
+        {
+            "affiliation-city": "Ulaanbaatar",
+            "@id": "126976176",
+            "affilname": "Wildlife Conservation Society",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126976176",
+            "affiliation-country": "Mongolia"
+        },
+        {
+            "affiliation-city": "Nanaimo",
+            "@id": "126230341",
+            "affilname": "Nyati Health Consulting",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126230341",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Kinshasa",
+            "@id": "125190515",
+            "affilname": "Metabiota Inc.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125190515",
+            "affiliation-country": "Democratic Republic Congo"
+        },
+        {
+            "affiliation-city": "Musanze",
+            "@id": "118823362",
+            "affilname": "Mountain Gorilla Veterinary Project",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/118823362",
+            "affiliation-country": "Rwanda"
+        },
+        {
+            "affiliation-city": "Lima",
+            "@id": "113105739",
+            "affilname": "Wildlife Conservation Society (WCS)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/113105739",
+            "affiliation-country": "Peru"
+        },
+        {
+            "affiliation-city": "Yaounde",
+            "@id": "112669051",
+            "affilname": "Global Viral Cameroon",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112669051",
+            "affiliation-country": "Cameroon"
+        },
+        {
+            "affiliation-city": "Kathmandu",
+            "@id": "109520672",
+            "affilname": "Center for Molecular Dynamics Nepal (CMDN)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/109520672",
+            "affiliation-country": "Nepal"
+        },
+        {
+            "affiliation-city": "Sungai",
+            "@id": "106602489",
+            "affilname": "Sungai Buloh Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/106602489",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Seattle",
+            "@id": "101651900",
+            "affilname": "Global Health Program",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101651900",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": []
+}

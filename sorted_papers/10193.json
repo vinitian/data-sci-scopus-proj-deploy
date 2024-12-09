@@ -1,0 +1,141 @@
+{
+    "eid": "2-s2.0-85143865196",
+    "title": "Verification of the NACAC atmospheric dispersion calculation using a hypothetical accident in a neighboring nuclear power plant",
+    "cover-date": "2023-02-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Nuclear Energy and Engineering",
+            "@code": "2104",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Waste Management and Disposal",
+            "@code": "2311",
+            "@abbrev": "ENVI"
+        }
+    ],
+    "keywords": [
+        "Atmospheric dispersion",
+        "JRODOS",
+        "NACAC",
+        "Neighboring nuclear power plant",
+        "Severe accident"
+    ],
+    "authors": [
+        "Narakhan Khunsrimek",
+        "Piyawan Krisanungkura",
+        "Wasin Vechgama",
+        "Kampanart Silva",
+        "Somboon Rassame",
+        "Takashi Hibiki"
+    ],
+    "citedby-count": 2,
+    "ref-count": 50,
+    "ref-list": [
+        "Model Description of the RODOS Meteorological Preprocessor, Report RODOS (RA2)-TN (09)-02",
+        "Influence of the meteorological input on the atmospheric transport modelling with FLEXPART of radionuclides from the Fukushima Daiichi nuclear accident",
+        "Surface Roughness Model for LINCOM",
+        "METRODOS: meteorological preprocessor chain",
+        "The VOL-CALPUFF model for atmospheric ash dispersal: 1. Approach and physical formulation",
+        "Nuclear emergency management using accident consequence analysis code",
+        "Air Pollution from Industries and Asthma Onset in Childhood: A Population-Based Birth Cohort Study Using Dispersion Modeling",
+        "Intercomparison of atmospheric dispersion models",
+        "Evaluation of results of a numerical simulation of dispersion in an idealized urban area for emergency response modelling",
+        "Health Effects Models for Nuclear Power Plant Accident Consequence Analysis. Part 1, Introduction, Integration, and Summary: Revision 2",
+        "The Chernobyl nuclear accident 137Cs cumulative depositions simulated by means of the CALMET/CALPUFF modelling system",
+        "Radiological Consequence Assessments of Degraded Core Accident Scenarios Derived from a Generic Level 2 PSA of a BWR",
+        "Uncertainty and sensitivity studies with the probabilistic accident consequence assessment code OSCAAR",
+        "Criteria for Use in Preparedness and Response for a Nuclear or Radiological Emergency, General Safety Guide",
+        "Actions to Protect the Public in an Emergency Due to Severe Conditions at a Light Water Reactor",
+        "JRODOS Customization Guide",
+        "Atmospheric stability characterization using the Pasquill method: a critical evaluation",
+        "Verification of long-range dispersion calculation by nuclear accident consequence assessment code (NACAC) using JRODOS",
+        "Dose-rate Conversion Factors for External Exposure to Photon and Electron Radiation from Radionuclides Occurring in Routine Releases from Nuclear Fuel Cycle Facilities",
+        "The decision support system RODOS",
+        "Sensitivity of the modelled deposition of Caesium-137 from the Fukushima Dai-ichi nuclear power plant to the wet deposition parameterization in NAME",
+        "A review of numerical models to predict the atmospheric dispersion of radionuclides",
+        "A study of the atmospheric dispersion of a high release of krypton-85 above a complex coastal terrain, comparison with the predictions of Gaussian models (Briggs, Doury, ADMS4)",
+        "Nuclear accident consequence assessment in Hong Kong using JRODOS",
+        "Impact of boundary layer simulation on predicting radioactive pollutant dispersion: a case study for HANARO research reactor using the WRF-MMIF-CALPUFF modeling system",
+        "Atmospheric radionuclides from the Fukushima Dai-ichi nuclear reactor accident observed in Vietnam",
+        "Description of the Atmospheric Flow Model MCF. RODOS(W62)-RP998)-01",
+        "Atmospheric transport and deposition of radionuclides released after the Fukushima Dai-chi accident and resulting effective dose",
+        "Environmental impact on the Korean peninsula due to hypothetical accidental scenarios at the Haiyang nuclear power plant in China",
+        "Model Description of the Terrestrial Food Chain and Dose Module FDMT in RODOS PV6",
+        "Long-term simulations of the 137Cs dispersion from the Fukushima accident in the world ocean",
+        "Mid-range atmospheric dispersion modeling. Intercomparison of simple models in EMRAS-2 project",
+        "Dispersion of Fukushima radionuclides in the global atmosphere and the ocean",
+        "Modeling the fallout from stabilized nuclear clouds using the HYSPLIT atmospheric dispersion model",
+        "Calculation of Organ Doses from Environmental Gamma Rays Using Human Phantoms and Monte Carlo Methods",
+        "Horizontal resolution dependence of atmospheric simulations of the Fukushima nuclear accident using 15-km, 3-km, and 500-m grid models",
+        "Consideration of change over time in nuclear accident consequence assessment to support optimization of long-term remediation strategy",
+        "Systematic approach to transboundary radioactivity monitoring for accidents in external nuclear power plants",
+        "Fangchenggang Nuclear Power Plant Phase II (2 \u00d7 HL1000-1) Project Environmental Impact Report for Units 3 and 4 (Site Selection Stage)",
+        "Environmental Impact Statement for Fangchenggang NPP Units 3 and 4 (Operation Phase)",
+        "Simulation study of radionuclide atmospheric transport after wildland fires in the Chernobyl Exclusion Zone in April 2020",
+        "Atmospheric discharge and dispersion of radionuclides during the Fukushima Dai-ichi Nuclear Power Plant accident. Part II: verification of the source term and analysis of regional-scale atmospheric dispersion",
+        "Good Practice Guide for Atmospheric Dispersion Modelling",
+        "Model testing using data on 131I released from Hanford",
+        "Model testing using data on 137Cs from Chernobyl fallout in the Iput River catchment area of Russia",
+        "Description of the Atmospheric Dispersion Module RIMPUFF",
+        "Atmospheric dispersion modeling. a critical review",
+        "The asian monsoon",
+        "JRodos: an Offsite Emergency Management System for Nuclear Accidents"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60250877",
+            "affilname": "Thailand National Energy Technology Center (ENTEC)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60250877",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "60013983",
+            "affilname": "City University of Hong Kong",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013983",
+            "affiliation-country": "Hong Kong"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "126490379",
+            "affilname": "Thailand Institute of Nuclear Technology (Public Organization)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126490379",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "107903705",
+            "affilname": "Office of Atoms for Peace",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/107903705",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Karlsruhe Institute of Technology",
+        "National Research Council of Thailand",
+        "Thailand Institute of Nuclear Technology"
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "eid": "2-s2.0-85146197709",
+    "title": "Technology Transfer of Convolutional Neural Networks: An Example",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Bone Segmentation",
+        "Convolutional Neural Networks",
+        "Dice Similarity Coefficient",
+        "Hausdorff Distance",
+        "LSTM",
+        "Technology Transfer to Industry",
+        "U-net"
+    ],
+    "authors": [
+        "Thanakij Wanavit",
+        "Samuel Sallee",
+        "Chedtha Puncreobutr",
+        "Leslie Klieb",
+        "Pin Pin Tea-Makorn"
+    ],
+    "citedby-count": 0,
+    "ref-count": 13,
+    "ref-list": [
+        "Comparing images using the Hausdorff distance",
+        "Mathematical properties of soft cardinality: Enhancing Jaccard, Dice and cosine similarity measures with element-wise distance",
+        "Automatic bone segmentation in wholebody CT images",
+        "Trepanation procedures/outcomes: Comparison of prehistoric Peru with other ancient, medieval, and American civil war cranial surgery",
+        "Variability in thickness of human skull bones and sternum - an autopsy experience",
+        "CT image segmentation of bone for medical additive manufacturing using a convolutional neural network",
+        "Deep convolutional neural networks for image classification: A comprehensive review",
+        "Unet: convolutional networks for biomedical image segmentation",
+        "CT image segmentation methods for bone used in medical additive manufacturing",
+        "A proof of the arithmetic mean - geometric mean - harmonic mean inequalities"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60138776",
+            "affilname": "Sasin School of Management, Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60138776",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "San Francisco",
+            "@id": "128065346",
+            "affilname": "Tenxor Inc",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/128065346",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,76 @@
+{
+    "eid": "2-s2.0-85091486934",
+    "title": "Comprehensive detection of vulnerable personal information leaks in android applications",
+    "cover-date": "2020-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Leak detection",
+        "Mobile applications",
+        "Personal information",
+        "Privacy"
+    ],
+    "authors": [
+        "Nattanon Wongwiwatchai",
+        "Phannawhat Pongkham",
+        "Kunwadee Sripanidkulchai"
+    ],
+    "citedby-count": 6,
+    "ref-count": 27,
+    "ref-list": [
+        "Leakminer: Detect information leakage on android with static taint analysis",
+        "Androidleaks: Automatically detecting potential privacy leaks in android applications on a large scale booktitle",
+        "Flowdroid: Precise context, flow, field, object-sensitive and lifecycle-aware taint analysis for android apps",
+        "Recon: Revealing and controlling pii leaks in mobile network traffic",
+        "Leaky birds: Exploiting mobile application traffic for surveillance",
+        "Detecting information theft based on mobile network flows for android users",
+        "Obfuscation-resilient privacy leak detection for mobile apps through differential analysis",
+        "Is our children's apps learning?. automatically detecting coppa violations",
+        "Wont somebody think of the children? Examining coppa compliance at scale",
+        "Privacy leak classification on mobile devices",
+        "Supporting users to take informed decisions on privacy settings of personal devices",
+        "Unique in the shopping mall: On the reidentifiability of credit card metadata",
+        "Automated Test Input Generation for Android: Are We There Yet?. (E)",
+        "Sapienz: Multi-objective automated testing for android applications",
+        "Humanoid: A deep learning-based approach to automated black-box android app testing",
+        "Privacy-preserving detection of sensitive data exposure"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

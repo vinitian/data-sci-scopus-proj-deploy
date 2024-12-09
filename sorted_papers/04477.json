@@ -1,0 +1,95 @@
+{
+    "eid": "2-s2.0-85089107255",
+    "title": "A robust design method for retrofit of industrial heat exchanger networks using modified stage-wise model",
+    "cover-date": "2021-01-16",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Chemistry (all)",
+            "@code": "1600",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Chemical Engineering (all)",
+            "@code": "1500",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Heat exchanger network (HEN) retrofit",
+        "Industrial applications",
+        "Iterative optimization",
+        "Mathematical programming",
+        "Stage-wise model"
+    ],
+    "authors": [
+        "Natchanon Angsutorn",
+        "Kitipat Siemanond",
+        "Rungroj Chuvaree"
+    ],
+    "citedby-count": 7,
+    "ref-count": 38,
+    "ref-list": [
+        "A mixed method for retrofiting heat-exchanger networks",
+        "Retrofitting heat exchanger networks using a modified network pinch approach",
+        "Solving large-scale retrofit heat exchanger network synthesis problems with mathematical optimization methods",
+        "Genetic algorithms approach for retrofitting heat exchanger network with standard heat exchangers",
+        "New analysis method to reduce the industrial energy requirements by heat-exchanger network retrofit: Part 1 \u2013 Concepts",
+        "Hypertargets: a Conceptual Programming approach for the optimisation of industrial heat exchanger networks \u2014 II. Retrofit design",
+        "Hypertargets: a Conceptual Programming approach for the optimisation of industrial heat exchanger networks\u2014Part III. Industrial applications",
+        "Letter to the Editors: Comments on improvement on a replacement for the logarithmic mean",
+        "A retrofit approach for heat exchanger networks",
+        "A mixed integer nonlinear programming model for retrofitting heat-exchanger networks",
+        "A comprehensive optimization model of the heat exchanger network retrofit problem",
+        "Optimal heat exchanger network synthesis: A case study comparison",
+        "A new graphical method for Pinch Analysis applications: Heat exchanger network retrofit and energy integration",
+        "Heat exchanger network retrofit using the reduced superstructure synthesis approach",
+        "Temperature driving force (TDF) curves for heat exchanger network retrofit \u2013 A case study and implications",
+        "Forty years of Heat Integration: Pinch Analysis (PA) and Mathematical Programming (MP)",
+        "Simultaneous diagnosis and retrofit of heat exchanger network via individual process stream mapping",
+        "Retrofitting heat exchanger networks based on simple pinch analysis",
+        "Constant approach temperature model for HEN retrofit",
+        "Use of advanced composite curves for assessing cost-effective HEN retrofit I: Theory and concepts",
+        "Paths combination for HENs retrofit",
+        "Novel MILP-based iterative method for the retrofit of heat exchanger networks with intensified heat transfer",
+        "New MILP-based iterative approach for retrofitting heat exchanger networks with conventional network structure modifications",
+        "Improving heat recovery in retrofitting heat exchanger networks with heat transfer intensification, pressure drop constraint and fouling mitigation",
+        "Heat exchanger networks retrofit by coupling genetic algorithm with NLP and ILP methods",
+        "RESHEX: An interactive software package for the synthesis and analysis of resilient heat-exchanger networks\u2014I. Program description and application",
+        "Reducing energy demand: A review of issues, challenges and approaches",
+        "Using pinch technology for process retrofit",
+        "Structural targeting for heat integration retrofit",
+        "Application of intensified heat transfer for the retrofit of heat exchanger network",
+        "Simultaneous optimization models for heat integration\u2014II. Heat exchanger network synthesis",
+        "A screening and optimization approach for the retrofit of heat-exchanger networks",
+        "A combined genetic algorithm/simulated annealing algorithm for large scale system energy integration"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60114641",
+            "affilname": "PTT Public Company Limited",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60114641",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "National Center of Excellence for Petroleum, Petrochemicals, and Advanced Materials",
+        "Petroleum and Petrochemical College",
+        "Thailand Research Fund"
+    ]
+}

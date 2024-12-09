@@ -1,0 +1,63 @@
+{
+    "eid": "2-s2.0-85089228993",
+    "title": "Learning A Common Granger Causality Network Using A Non-Convex Regularization",
+    "cover-date": "2020-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "brain connectivity",
+        "Granger causality",
+        "group sparse learning",
+        "non-convex penalty"
+    ],
+    "authors": [
+        "Parinthorn Manomaisaowapak",
+        "Jitkomut Songsiri"
+    ],
+    "citedby-count": 2,
+    "ref-count": 18,
+    "ref-list": [
+        "Dynamic Bayesian network modeling of fMRI: A comparison of group-analysis methods",
+        "Joint estimation of multiple graphical models",
+        "Joint learning of multiple sparse matrix Gaussian graphical models",
+        "Gene regulation network inference with joint sparse Gaussian graphical models",
+        "Sparse autoregressive model estimation for learning Granger causality in time series",
+        "Learning multiple granger graphical models via group fused lasso",
+        "Group sparse optimization via 'p;q regularization",
+        "Accelerated proximal gradient methods for nonconvex prograMMIng",
+        "Joint estimation of multiple network Granger causal models",
+        "Regularized joint estimation of related vector autoregressive models",
+        "Multiclass vector auto-regressive models for multistore sales data",
+        "Learning coherent Granger-causality in panel vector autoregressive models",
+        "Proximal algorithms",
+        "The Autism brain imaging data exchange: Towards a large-scale evaluation of the intrinsic brain architecture in autism",
+        "Convex formulation for regularized estimation of structural equation models",
+        "Brainnet viewer: A network visualization tool for human brain connectomics"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

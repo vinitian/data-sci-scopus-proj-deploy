@@ -1,0 +1,98 @@
+{
+    "eid": "2-s2.0-85077249848",
+    "title": "Minimizing process lead time for a single machine using the developed optimal batch size equations",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Automotive Engineering",
+            "@code": "2203",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Management of Technology and Innovation",
+            "@code": "1405",
+            "@abbrev": "BUSI"
+        }
+    ],
+    "keywords": [
+        "Batch size",
+        "Lead time",
+        "Optimal",
+        "Single machine"
+    ],
+    "authors": [
+        "A. Ruangkanjanases",
+        "N. Vikitset"
+    ],
+    "citedby-count": 0,
+    "ref-count": 19,
+    "ref-list": [
+        "Operations planning in a supply chain system with fixed-interval deliveries of finished goods to multiple customers",
+        "Mathematical model with simulation to find the optimal batch size for a supply chain system",
+        "Multiproduct optimal batch sizes with in-process inventories and multi work centers",
+        "A single-stage supply chain system controlled by Kanban under just-in-time philosophy",
+        "An optimal batch size for an imperfect production system with quality assurance and rework",
+        "An optimal batch size for integrated production-inventory policy in supply chain",
+        "An exploration of models that minimize leadtime through batching of arrived orders",
+        "An exploration of models that minimize leadtime through batching of arrived orders",
+        "Hierarchically integrated lot size optimization",
+        "CAN-Q User's Guide",
+        "Open queuing network models of dynamic job shops",
+        "The queuing network analyzer",
+        "Lot sizes, lead time and in-process inventories",
+        "A stochastic model for the optimal batch size in multi-step operations with process and product variability",
+        "Batch sizes and lead-time performance in flexible manufacturing systems",
+        "Determination of batch size at a bottleneck machine in manufacturing systems",
+        "A chaotic-search-based self-organizing optimization approach for multistage batch scheduling problem",
+        "Comprehensive optimization of batch process based on particle swarm optimization algorithm"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199583",
+            "affilname": "Chulalongkorn Business School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199583",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "123712591",
+            "affilname": "PI Polene Public Company Limited",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/123712591",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

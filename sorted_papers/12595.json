@@ -1,0 +1,108 @@
+{
+    "eid": "2-s2.0-85130468424",
+    "title": "The Bangkok Urbanscapes Dataset for Semantic Urban Scene Understanding Using Enhanced Encoder-Decoder With Atrous Depthwise Separable A1 Convolutional Neural Networks",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Deep convolutional neural networks",
+        "Object recognition",
+        "Semantic image segmentation",
+        "Thailand",
+        "Urbanscapes dataset"
+    ],
+    "authors": [
+        "Kitsaphon Thitisiriwech",
+        "Teerapong Panboonyuen",
+        "Pittipol Kantavat",
+        "Yuji Iwahori",
+        "Boonserm Kijsirikul"
+    ],
+    "citedby-count": 5,
+    "ref-count": 54,
+    "ref-list": [
+        "Semantic understanding of scenes through the ADE20K dataset",
+        "SUN RGB-D: A RGB-D scene understanding benchmark suite",
+        "The Pascal visual object classes (VOC) challenge",
+        "Microsoft COCO: Common objects in context",
+        "Semantic object classes in video: A high-definition ground truth database",
+        "The cityscapes dataset for semantic urban scene understanding",
+        "The ApolloScape open dataset for autonomous driving and its application",
+        "ImageNet classification with deep convolutional neural networks",
+        "ImageNet large scale visual recognition challenge",
+        "Deep learning",
+        "SegNet: A deep convolutional encoder-decoder architecture for image segmentation",
+        "Fully convolutional networks for semantic segmentation",
+        "U-Net: Convolutional networks for biomedical image segmentation",
+        "Encoderdecoder with Atrous separable convolution for semantic image segmentation",
+        "Xception: Deep learning with depthwise separable convolutions",
+        "How transferable are features in deep neural networks",
+        "Pedestrian detection: An evaluation of the state of the art",
+        "Dynamic 3D scene analysis from a moving vehicle",
+        "Vision meets robotics: The KITTI dataset",
+        "The mapillary vistas dataset for semantic understanding of street scenes",
+        "The SYNTHIA dataset: A large collection of synthetic images for semantic segmentation of urban scenes",
+        "Playing for benchmarks",
+        "Pyramid scene parsing network",
+        "Transportation mobility factor extraction using image recognition techniques",
+        "The one hundred layers Tiramisu: Fully convolutional DenseNets for semantic segmentation",
+        "Learning deconvolution network for semantic segmentation",
+        "Densely connected convolutional networks",
+        "Batch normalization: Accelerating deep network training by reducing internal covariate shift",
+        "Dropout: A simple way to prevent neural networks from overfitting",
+        "Conditional random fields: Probabilistic models for segmenting and labeling sequence data",
+        "DeepLab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected CRFs",
+        "Deep residual learning for image recognition",
+        "Improving semantic segmentation via decoupled body and edge supervision",
+        "Gated-SCNN: Gated shape CNNs for semantic segmentation",
+        "LabelMe: A database and web-based tool for image annotation",
+        "IDD: A dataset for exploring problems of autonomous navigation in unconstrained environments",
+        "Rethinking the inception architecture for computer vision",
+        "WoodScape: A multi-task, multi-camera fisheye dataset for autonomous driving",
+        "TensorFlow: A system for large-scale machine learning",
+        "PyTorch: An imperative style, high-performance deep learning library",
+        "Focal loss for dense object detection"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Kasugai",
+            "@id": "60007976",
+            "affilname": "Chubu University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007976",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Japan Science and Technology Agency",
+        "Science and Technology Research Partnership for Sustainable Development",
+        "Chulalongkorn University",
+        "Chubu University",
+        "Japan International Cooperation Agency",
+        "Japan Society for the Promotion of Science"
+    ]
+}

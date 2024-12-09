@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85165653688",
+    "title": "Web-Based Teleoperation System for Enhanced Precision and Efficiency in Food Industry Applications",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Food Industry",
+        "IoT",
+        "Teleoperating",
+        "Web Application"
+    ],
+    "authors": [
+        "Phumrapee Meyer",
+        "Poom Separattananan",
+        "Jetnipat Thongprasith",
+        "Chawaphon Payattapong",
+        "Ratchatin Chancharoen"
+    ],
+    "citedby-count": 2,
+    "ref-count": 20,
+    "ref-list": [
+        "Challenges and opportunities in robotic food handling: A review",
+        "Robotics and food technology: A mini review",
+        "Smart packaging systems for food applications: A review",
+        "The telepresence laboratory for a new campus life since the covid-19 crisis",
+        "A review of teleoperation system control",
+        "Control methods for internet-based teleoperation systems: A review",
+        "Scaling up the lab: An adaptable and scalable architecture for embedded systems remote labs",
+        "A comparison of MQTT brokers for distributed IoT edge computing",
+        "Efficient way of web development using python and flask",
+        "Internet of things: A survey on enabling technologies, protocols, and applications",
+        "Design and implementation of IoT based smart laboratory",
+        "On-line ladle lining temperature estimation by using bounded jacobian nonlinear observer",
+        "Observer for descriptor nonlinear systems with nonlinear output equations",
+        "A new approach for low-dimensional constrained engineering design optimization using design and analysis of simulation experiments",
+        "Real-time automotive slip angle estimation with nonlinear observer",
+        "Coherent detection-based photonic radar for autonomous vehicles under diverse weather conditions",
+        "Portioning algorithm using the bisection method for slicing food",
+        "Design of the robot application for slicing food into equalmass slices"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

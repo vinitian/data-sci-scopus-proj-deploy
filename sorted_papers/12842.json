@@ -1,0 +1,133 @@
+{
+    "eid": "2-s2.0-85085258157",
+    "title": "Analysis of 3D cracked components repaired by adhesively bonded patches using FEM-BIEM coupling",
+    "cover-date": "2020-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Condensed Matter Physics",
+            "@code": "3104",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Adhesively bonded patches",
+        "Boundary integral equation method",
+        "Cracked components",
+        "Finite element method",
+        "Stress intensity factors"
+    ],
+    "authors": [
+        "Binh V. Pham",
+        "Thai Binh Nguyen",
+        "Jaroon Rungamornrat",
+        "Suchart Limkatanyu",
+        "Tinh Quoc Bui"
+    ],
+    "citedby-count": 3,
+    "ref-count": 40,
+    "ref-list": [
+        "Repair of mirage III aircraft using the BFRP crack-patching technique",
+        "Bonded repair of metallic components: Thick sections",
+        "Increasing the fatigue life of cracked fastener holes using bonded repairs",
+        "Analysis of cracked plates with a bonded patch",
+        "Analysis of patched and stiffened cracked panels using the boundary element method",
+        "Bonded-composite repair of representative multi-site damage in a full-scale fatigue-test article",
+        "The application of the dual boundary element method to the analysis of cracked stiffened panels",
+        "Fatigue crack growth analysis of adhesively repaired panel using perfectly and imperfectly composite patches",
+        "The boundary element analysis of cracked stiffened sheets, reinforced by adhesively bonded patches",
+        "Stiffened cracked plates analysis by dual boundary element method",
+        "Boundary element analysis of flat cracked panels with adhesively bonded patches",
+        "Boundary element analysis of curved cracked panels with adhesively bonded patches",
+        "Boundary element analysis of cracked panels repaired by mechanically fastened composite patches",
+        "Analytical approach to bonded repair of elliptical dent, corrosion grind-out, and cut-out",
+        "Numerical simulation study of fatigue crack growth behavior of cracked aluminum panels repaired with a FRP composite patch using combined BEM/FEM",
+        "Fracture mechanics and crack contact analyses of the active repair of multi-layered piezoelectric patches bonded on cracked structures",
+        "Boundary elements analysis of adhesively bonded piezoelectric active repair",
+        "Boundary element analysis of CFRP reinforced steel plates",
+        "Crack propagation prediction of CFRP retrofitted steel plates with different degrees of damage using BEM",
+        "Boundary element analysis of stiffened panels with repair patches",
+        "Crack growth and debonding analysis of an aluminum pipe repaired by composite patch under fatigue loading",
+        "Failure analysis of composite repaired pipelines with an inclined crack under static internal pressure",
+        "A weakly-singular SGBEM for analysis of cracks in 3D anisotropic media",
+        "Weakly-singular, weak-form integral equations for cracks in three-dimensional anisotropic media",
+        "The finite element method: linear static and dynamic finite element analysis",
+        "The Finite Element Method: Solid Mechanics",
+        "Symmetric weak-form integral equation method for three-dimensional fracture analysis",
+        "3D fracture analysis by the symmetric Galerkin BEM",
+        "Analysis for T-stress of cracks in 3D anisotropic elastic media by weakly singular integral equation method",
+        "Variants of BICGSTAB for matrices with complex spectrum",
+        "Bi-CGSTAB: A fast and smoothly converging variant of Bi-CG for the solution of nonsymmetric linear systems",
+        "GMRES: A generalized minimal residual algorithm for solving nonsymmetric linear systems",
+        "Optimum design of symmetric composite patch repair to centre cracked metallic sheet",
+        "Modeling of interface cracks in fiber-reinforced composites with the presence of interphases using the boundary element method",
+        "Numerical simulation of fretting wear in fiber-reinforced composite materials"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60272237",
+            "affilname": "Ho Chi Minh City University of Technology - HCMUT",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60272237",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Da Nang",
+            "@id": "60111656",
+            "affilname": "Duy Tan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60111656",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60078566",
+            "affilname": "Viet Nam National University Ho Chi Minh City",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60078566",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60031126",
+            "affilname": "Tokyo Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031126",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hatyai",
+            "@id": "60006314",
+            "affilname": "Prince of Songkla University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006314",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "SEED",
+        "Thailand Research Fund",
+        "JICA"
+    ]
+}

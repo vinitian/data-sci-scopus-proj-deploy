@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85079050318",
+    "title": "A Hierarchical Volt-var Optimization with Discrete Variables in Unbalanced Distribution Systems",
+    "cover-date": "2019-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Nuclear Energy and Engineering",
+            "@code": "2104",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Distribution systems",
+        "optimal power flow",
+        "photovoltaic integration",
+        "voltage regulation"
+    ],
+    "authors": [
+        "Quan Nguyen",
+        "Keng Weng Lao",
+        "Surya Santoso",
+        "Pisitpol Chirapongsananurak"
+    ],
+    "citedby-count": 0,
+    "ref-count": 16,
+    "ref-list": [
+        "Voltage rise: The big issue when connecting embedded generation to long 11 kv overhead lines",
+        "Combined transmission and distribution test system to study high penetration of distributed solar generation",
+        "Advances in volt-var control approaches in utility distribution systems",
+        "Optimal reactive power dispatch for voltage regulation in unbalanced distribution systems",
+        "Optimal inverter var control in distribution systems with high pv penetration",
+        "Coordinated active power curtailment of grid connected pv inverters for overvoltage prevention",
+        "Reactive power management for overvoltage prevention at high pv penetration in a low-voltage distribution system",
+        "Optimal dispatch of photovoltaic inverters in residential distribution systems",
+        "Scalable optimization methods for distribution networks with high pv integration",
+        "Optimal pv inverter reactive power control and real power curtailment to improve performance of unbalanced four-wire lv distribution networks",
+        "A comprehensive centralized approach for voltage constraints management in active distribution grid",
+        "Optimization of unbalanced power distribution networks via semidefinite relaxation",
+        "A new optimal reactive power flow model in rectangular form and its solution by predictor corrector primal dual interior point method",
+        "Exact optimal power dispatch in unbalanced distribution systems with high pv penetration",
+        "An extended nonlinear primal-dual interior-point algorithm for reactive-power optimization of large-scale power systems with discrete control variables",
+        "An interior-point method for nonlinear optimal power flow using voltage rectangular coordinates"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Austin",
+            "@id": "60013372",
+            "affilname": "The University of Texas at Austin",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013372",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": []
+}

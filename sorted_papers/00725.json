@@ -1,0 +1,70 @@
+{
+    "eid": "2-s2.0-85112795152",
+    "title": "An enabling resynchronization technique for grid-connected voltage-source converters",
+    "cover-date": "2021-05-19",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Converter control",
+        "Resynchronization",
+        "Virtual synchronous generator",
+        "Voltage-source inverter"
+    ],
+    "authors": [
+        "Nuttakit Kijshevavithaya",
+        "Surapong Suwankawin"
+    ],
+    "citedby-count": 2,
+    "ref-count": 6,
+    "ref-list": [
+        "A synchronization controller for grid reconnection of islanded virtual synchronous machines",
+        "Integrated synchronization control of grid-forming inverters for smooth microgrid transition",
+        "A reliable microgrid with seamless transition between grid connected and islanded mode for residential community with enhanced power quality",
+        "Analysis of ac dispatchable microgrid during grid-connected and isolated modes transitions",
+        "Resynchronization of distributed generation based on the universal droop controller for seamless transfer between operation modes"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

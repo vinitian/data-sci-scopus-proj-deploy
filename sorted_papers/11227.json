@@ -1,0 +1,74 @@
+{
+    "eid": "2-s2.0-85091816642",
+    "title": "Adder Circuit on IBM Universal Quantum Computers",
+    "cover-date": "2020-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "IBM quantum computer",
+        "quantum adder circuit",
+        "quantum computer"
+    ],
+    "authors": [
+        "Wiphoo Methachawalit",
+        "Prabhas Chongstitvatana"
+    ],
+    "citedby-count": 2,
+    "ref-count": 9,
+    "ref-list": [
+        "A fast quantum mechanical algorithm for database search",
+        "Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer",
+        "Circuit for shor's algorithm using 2n+3 qubits",
+        "Why haven't more quantum algorithms been found"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

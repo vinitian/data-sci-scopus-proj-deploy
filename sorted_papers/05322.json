@@ -1,0 +1,134 @@
+{
+    "eid": "2-s2.0-85108334784",
+    "title": "Prediction of Human-Plasmodium vivax Protein Associations From Heterogeneous Network Structures Based on Machine-Learning Approach",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "host-parasite interaction",
+        "human-parasite protein association",
+        "machine learning",
+        "Network-based method",
+        "Plasmodium vivax",
+        "ranking score",
+        "topological profiles"
+    ],
+    "authors": [
+        "Apichat Suratanee",
+        "Teerapong Buaboocha",
+        "Kitiporn Plaimas"
+    ],
+    "citedby-count": 8,
+    "ref-count": 60,
+    "ref-list": [
+        "Molecular mechanisms of malaria sporozoite motility and invasion of host cells",
+        "Evidence and implications of mortality associated with acute Plasmodium vivax malaria",
+        "Plasmodium vivax chloroquine resistance links to pvcrt transcription in a genetic cross",
+        "Mapping the global endemicity and clinical burden of Plasmodium vivax, 2000-17: a spatial and temporal modelling study",
+        "Molecular detection of drug resistant malaria in Southern Thailand",
+        "Single-dose tafenoquine to prevent relapse of Plasmodium vivax malaria",
+        "Tafenoquine and G6PD: a primer for clinicians",
+        "Hemolytic potential of tafenoquine in female volunteers heterozygous for glucose-6-phosphate dehydrogenase (G6PD) deficiency (G6PD Mahidol variant) versus G6PD-normal volunteers",
+        "Tafenoquine for the radical cure and prevention of malaria: the importance of testing for G6PD deficiency",
+        "Host-parasite interactions in human malaria: clinical implications of basic research",
+        "Red blood cell invasion by Plasmodium vivax: structural basis for DBP engagement of DARC",
+        "Plasmodium vivax invasion of human erythrocytes inhibited by antibodies directed against the Duffy binding protein",
+        "Plasmodium vivax in vitro continuous culture: the spoke in the wheel",
+        "Bacterial protein meta-interactomes predict cross-species interactions and protein function",
+        "Protein-protein Interaction Networks of E. coli and S. cerevisiae are similar",
+        "The binary protein-protein interaction landscape of Escherichia coli",
+        "Predicting essential proteins by integrating orthology, gene expressions, and PPI networks",
+        "Protein-protein interaction studies reveal the Plasmodium falciparum merozoite surface protein-1 region involved in a complex formation that binds to human erythrocytes",
+        "Heterogeneous network model to identify potential associations between Plasmodium vivax and human proteins",
+        "Landscape of the Plasmodium interactome reveals both conserved and species-specific functionality",
+        "A protein interaction network of the malaria parasite Plasmodium falciparum",
+        "Computational prediction of protein interactions related to the invasion of erythrocytes by malarial parasites",
+        "Inhibition of protein-protein interactions in Plasmodium falciparum: future drug targets",
+        "Analysis of protein targets in pathogen-host interaction in infectious diseases: a case study on Plasmodium falciparum and Homo sapiens interaction network",
+        "Identification of inflammatory bowel disease-related proteins using a reverse k-nearest neighbor search",
+        "DDA: a novel network-based scoring method to identify disease-disease associations",
+        "Network-based association analysis to infer new disease-gene relationships using large-scale protein interactions",
+        "Viruses.STRING: a virus-host protein-protein interaction database",
+        "Ortholog-based protein-protein interaction prediction and its application to inter-species interactions",
+        "Molecular Interaction Search Tool (MIST): an integrated resource for mining gene and protein interaction data",
+        "Identification of potential interaction networks using sequence-based searches for conserved protein-protein interactions or \u201cinterologs.",
+        "Annotation transfer between genomes: protein-protein interologs and protein-DNA regulogs",
+        "STRING: known and predicted protein-protein associations, integrated and transferred across organisms",
+        "Analysis of predicted host-parasite interactomes reveals commonalities and specificities related to parasitic lifestyle and tissues tropism",
+        "Identifying essential genes in bacterial metabolic networks with machine learning methods",
+        "A change of perspective in network centrality",
+        "STRING v11: protein-protein association networks with increased coverage, supporting functional discovery in genome-wide experimental datasets",
+        "Lethality and centrality in protein networks",
+        "Comparative genomics of centrality and essentiality in three eukaryotic protein-interaction networks",
+        "Specificity and stability in topology of protein networks",
+        "An introduction to sequence similarity (\u201chomology\u201d) searching",
+        "The KEGG database",
+        "Using the KEGG database resource",
+        "Rcpi: R/bioconductor package to generate various descriptors of proteins, compounds and their interactions",
+        "Topology-function conservation in protein-protein interaction networks",
+        "Cytoscape: a software environment for integrated models of biomolecular interaction networks",
+        "ClueGO: a Cytoscape plug-in to decipher functionally grouped gene ontology and pathway annotation networks",
+        "The DUB/USP17 deubiquitinating enzymes, a multigene family within a tandemly repeated sequence",
+        "The deubiquitinating enzyme USP17 is highly expressed in tumor biopsies, is cell cycle regulated, and is required for G1-S progression",
+        "The ubiquitin-specific protease USP17 prevents cellular senescence by stabilizing the methyltransferase SET8 and transcriptionally repressing p21",
+        "Human RAS superfamily proteins and related GTPases",
+        "Rab proteins: the key regulators of intracellular vesicle transport",
+        "Rab GTPases and membrane trafficking in neurodegeneration",
+        "CORUM: the comprehensive resource of mammalian protein complexes-2019",
+        "DrugBank 5.0: a major update to the DrugBank database for 2018",
+        "Antimalarial proteasome inhibitor reveals collateral sensitivity from intersubunit interactions and fitness cost of resistance",
+        "Validation of the proteasome as a therapeutic target in Plasmodium using an epoxyketone inhibitor with parasite-specific toxicity",
+        "The proteasome of malaria parasites: a multi-stage drug target for chemotherapeutic intervention",
+        "eggNOG 5.0: a hierarchical, functionally and phylogenetically annotated orthology resource based on 5090 organisms and 2502 viruses"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Office of the Higher Education Commission",
+        "Thailand Research Fund"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "eid": "2-s2.0-85053818719",
+    "title": "Modified finite integration method using chebyshev polynomial for solving linear differential equations",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Numerical Analysis",
+            "@code": "2612",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Chebyshev polynomial",
+        "Finite integration method",
+        "Linear differential equations"
+    ],
+    "authors": [
+        "R. Boonklurb",
+        "A. Duangpan",
+        "T. Treeyaprasert"
+    ],
+    "citedby-count": 18,
+    "ref-count": 6,
+    "ref-list": [
+        "Numerical Methods for Special Functions, 1st Edition",
+        "Finite integration method for solving multi-dimensional partial differential equations",
+        "Improved finite integration method for partial differential equations",
+        "Finite integration method for partial differential equations"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60012521",
+            "affilname": "Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012521",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

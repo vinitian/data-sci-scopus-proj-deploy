@@ -1,0 +1,87 @@
+{
+    "eid": "2-s2.0-85134205926",
+    "title": "Double-Carrier-Based PWM Theory for Independent Power Control of Dual-Input Three-level Inverters",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "dipolar PWM",
+        "Double-carrier-based PWM",
+        "dual-input three-level inverter",
+        "independent and direct power control"
+    ],
+    "authors": [
+        "Monchai Ariyapuek",
+        "Surapong Suwankawin",
+        "Somboon Sangwongwanich",
+        "Ariya Sangwongwanich"
+    ],
+    "citedby-count": 2,
+    "ref-count": 17,
+    "ref-list": [
+        "Wide-Scale Adoption of Photovoltaic Energy: Grid Code Modifications Are Explored in the Distribution Grid",
+        "Renewable energy resources: Current status, future prospects and their enabling technology",
+        "Grid-Connected Photovoltaic Systems: An Overview of Recent Research and Emerging PV Converter Technology",
+        "Multi-string-converter with reduced specific costs and enhanced functionality",
+        "Multilevel Diode-Clamped Converter for Photovoltaic Generators With Independent Voltage Control of Each Solar Array",
+        "Direct power control of grid connected PV systems with three level NPC inverter",
+        "Asymmetric Control of DC-Link Voltages for Separate MPPTs in Three-Level Inverters",
+        "Control Strategy of Two Capacitor Voltages for Separate MPPTs in Photovoltaic Systems Using Neutral-Point-Clamped Inverters",
+        "Maximum Power Point Controller for Large-Scale Photovoltaic Power Plants Using Central Inverters Under Partial Shading Conditions",
+        "A Control Strategy for Dual-Input Neutral-Point-Clamped Inverter-Based Grid-Connected Photovoltaic System",
+        "General Control Scheme for a Dual-Input Three-Level Inverter",
+        "Extended Functionalities of Photovoltaic Systems With Flexible Power Point Tracking: Recent Advances",
+        "A novel approach to the generation and optimization of three-level PWM wave forms for induction motor inverters",
+        "Double-carrier-based modulation theory of three-level inverters and a new discontinuous PWM for neutral-point voltage balancing",
+        "A Unified PWM Method for Matrix Converters and Its Carrier-Based Realization Using Dipolar Modulation Technique",
+        "Overview of Control and Grid Synchronization for Distributed Power Generation Systems",
+        "A State-Space Dynamic Model for Photovoltaic Systems With Full Ancillary Services Support"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Aalborg",
+            "@id": "60022134",
+            "affilname": "Aalborg University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022134",
+            "affiliation-country": "Denmark"
+        }
+    ],
+    "funding": []
+}

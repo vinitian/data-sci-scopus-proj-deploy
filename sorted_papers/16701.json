@@ -1,0 +1,83 @@
+{
+    "eid": "2-s2.0-84928784344",
+    "title": "CORE: Core-based synthetic minority over-sampling and borderline majority under-sampling technique",
+    "cover-date": "2015-01-01",
+    "subject-areas": [
+        {
+            "$": "Library and Information Sciences",
+            "@code": "3309"
+        },
+        {
+            "$": "General Biochemistry",
+            "@code": "1300"
+        },
+        {
+            "$": "Information Systems",
+            "@code": "1710"
+        }
+    ],
+    "keywords": [
+        "Class imbalance",
+        "Classification",
+        "Core-based",
+        "Over-sampling",
+        "Under-sampling"
+    ],
+    "authors": [
+        "Chumphol Bunkhumpornpat"
+    ],
+    "citedby-count": 9,
+    "ref-count": 35,
+    "ref-list": [
+        "The UC Irvine Machine Learning Repository",
+        "The use of the area under the ROC curve in the evaluation of machine learning algorithms",
+        "The relationship between Recall and Precision",
+        "Safe-level-SMOTE: Safe-level-synthetic minority over-sampling technique for handling the class imbalanced problem",
+        "MUTE: Majority under-sampling technique",
+        "DBSMOTE: Density-based synthetic minority over-sampling technique",
+        "SMOTE: Synthetic minority over-sampling technique",
+        "SIGKDD Explorations",
+        "Fast Effective Rule Induction",
+        "Nearest Neighbor Pattern Classification",
+        "ICML 2003 Workshop on Learning from Imbalanced Data Sets II",
+        "Severe class imbalance: Why better algorithms aren't the answer",
+        "Combining Data Mining and Machine Learning for Effective User Profiling",
+        "Naive bayes for text classification with unbalanced classes",
+        "Borderline-SMOTE: A new over-sampling method in imbalanced data sets learning",
+        "Data Mining: Concepts and Techniques, 3rd Ed",
+        "Unbalanced sample size effect on genome-wide population differentiation studies",
+        "2000 International Conference on Artificial Intelligence",
+        "ICML 2003 Workshop on Learning from Imbalanced Data Sets II",
+        "The class imbalance problem: A systematic study",
+        "14th International Joint Conference on Artificial Intelligence",
+        "A cascaded classifier approach for improving detection rates on rare attack categories in network intrusion detection",
+        "14th International Conference on Machine Learning",
+        "Learning when negative examples abound",
+        "Machine learning for the detection of oil spills in satellite radar images",
+        "Selection of vocal features for Parkinson's Disease diagnosis",
+        "Heterogeneous Uncertainty Sampling for Supervised Learning",
+        "8th International Workshop on Artificial Intelligence and Statistics",
+        "Prediction of cancer Class with majority voting genetic programming classifier using gene expression data",
+        "Class imbalances versus class overlapping: An analysis of a learning system behavior",
+        "C4.5: Programs for Machine Learning",
+        "Neural Network Studies. 1. Comparison of Overfitting and Overtraining",
+        "TWO MODIFICATIONS OF CNN.",
+        "Data Mining: Practical Machine Learning Tools and Techniques, Third Edition",
+        "MAPLSC: A novel multi-class classifier for medical diagnosis"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chiang Mai",
+            "affilname": "Chiang Mai University",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chiang Mai University"
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "eid": "2-s2.0-85119205081",
+    "title": "Spectral and latent speech representation distortion for TTS evaluation",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Language and Linguistics",
+            "@code": "1203",
+            "@abbrev": "ARTS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Speech recognition",
+        "Speech synthesis",
+        "TTS evaluation"
+    ],
+    "authors": [
+        "Thananchai Kongthaworn",
+        "Burin Naowarat",
+        "Ekapol Chuangsuwanich"
+    ],
+    "citedby-count": 0,
+    "ref-count": 31,
+    "ref-list": [
+        "Non-intrusive quality assessment of synthesized speech using spectral features and support vector regression",
+        "Speech quality objective assessment using neural network",
+        "Quality-Net: An end-to-end non-intrusive speech quality assessment model based on blstm",
+        "Text-to-speech quality evaluation based on lstm recurrent neural networks",
+        "Non-intrusive speech quality assessment using neural networks",
+        "Deep Learning Based Assessment of Synthetic Speech Naturalness",
+        "Mel-cepstral distance measure for objective speech quality assessment",
+        "An objective measure for predicting subjective quality of speech coders",
+        "TTS evaluation: Double-ended objective quality measures",
+        "Fusion of magnitude and phase-based features for objective evaluation of TTS voice",
+        "High fidelity speech synthesis with adversarial networks",
+        "Analyzing hidden representations in end-to-end automatic speech recognition systems",
+        "What does a network layer hear? Analyzing hidden representations of end-to-end ASR through speech synthesis",
+        "Analyzing phonetic and graphemic representations in end-to-end automatic speech recognition",
+        "Dynamic programming algorithm optimization for spoken word recognition",
+        "A dynamic programming approach to continuous speech recognition",
+        "The Blizzard Challenge 2012",
+        "The Blizzard Challenge 2013",
+        "Reducing Spelling Inconsistencies in Code-Switching ASR using Contextualized CTC Loss",
+        "FastDTW: Toward accurate dynamic time warping in linear time and space",
+        "Natural TTS synthesis by conditioning wavenet on mel spectrogram predictions",
+        "FastSpeech: Fast, Robust and Controllable Text to Speech",
+        "Waveglow: A Flow-based Generative Network for Speech Synthesis",
+        "Wave-Tacotron: Spectrogram-free end-to-end text-to-speech synthesis",
+        "Perceptual evaluation of speech quality (PESQ)-a new method for speech quality assessment of telephone networks and codecs",
+        "An evaluation of a synthetic speech using the PESQ measure",
+        "ViSQOL v3: An open source production ready objective speech and audio metric",
+        "Speech intelligibility prediction using a Neurogram Similarity Index Measure",
+        "MOSNet: Deep learning based objective assessment for voice conversion",
+        "The Voice Conversion Challenge 2018: Promoting development of parallel and nonparallel methods"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

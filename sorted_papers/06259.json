@@ -1,0 +1,134 @@
+{
+    "eid": "2-s2.0-85068172252",
+    "title": "Affective EEG-Based Person Identification Using the Deep Learning Approach",
+    "cover-date": "2020-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Affective computing",
+        "biometrics",
+        "convolutional neural networks (CNNs)",
+        "deep learning (DL)",
+        "electroencephalography (EEG)",
+        "long short-Term memory (LSTM)",
+        "personal identification (PI)",
+        "recurrent neural networks (RNNs)"
+    ],
+    "authors": [
+        "Theerawit Wilaiprasitporn",
+        "Apiwat Ditthapron",
+        "Karis Matchaparn",
+        "Tanaboon Tongbuasirilai",
+        "Nannapas Banluesombatkul",
+        "Ekapol Chuangsuwanich"
+    ],
+    "citedby-count": 99,
+    "ref-count": 56,
+    "ref-list": [
+        "Deep learning for health informatics",
+        "Deep belief networks for electroencephalography: A review of recent contributions and future outlooks",
+        "Deep learning and insomnia: Assisting clinicians with their diagnosis",
+        "A deep learning scheme for motor imagery classification based on restricted Boltzmann machines",
+        "EEGbased intention recognition from spatio-Temporal representations via cascade and parallel convolutional recurrent neural networks",
+        "A novel deep learning approach for classification of EEG motor imagery signals",
+        "Deep learning with convolutional neural networks for EEG decoding and visualization",
+        "Exploring EEG-based biometrics for user identification and authentication",
+        "On the permanence of EEG signals for biometric recognition",
+        "Brain waves for automatic biometricbased user recognition",
+        "On the usability of electroencephalographic signals for biometric recognition: A survey",
+        "Resting state EEGbased biometrics for individual identification using convolutional neural networks",
+        "Biometrics based on hand synergies and their neural representations",
+        "Individual identification using cognitive electroencephalographic neurodynamics",
+        "A high-security EEG-based login system with RSVP stimuli and dry electrodes",
+        "Visually evoked potential for EEG biometrics using convolutional neural network",
+        "Motor imagery for EEG biometrics using convolutional neural network",
+        "Electroencephalogram subject identification: A review",
+        "EEG biometric identification: A thorough exploration of the time-frequency domain",
+        "Evidence of a task-independent neural signature in the spectral shape of the electroencephalogram",
+        "DEAP: A database for emotion analysis ;using physiological signals",
+        "Neural network based person identification using EEG features",
+        "Biometrics from brain electrical activity: A machine learning approach",
+        "Human brain distinctiveness based on EEG spectral coherence connectivity",
+        "Combination of multiple detectors for EEG based biometric identification/authentication",
+        "Parametric person identification from the EEG using computational geometry",
+        "The electroencephalogram as a biometric",
+        "Unobtrusive biometric system based on electroencephalogram analysis",
+        "Brain waves based user recognition using the ?eyes closed resting conditions? protocol",
+        "EEG signal preprocessing for biometric recognition",
+        "An identification system based on portable EEG acquisition equipment",
+        "Wavelet framework for improved target detection in oddball paradigms using P300 and gamma band analysis",
+        "Wavelet-based EEG preprocessing for biometric applications",
+        "Feature extraction using emprical mode decomposition for biometric system",
+        "Novel HHT-based features for biometric identification using EEG signals",
+        "Fisher linear discriminant based person identification using visual evoked potentials",
+        "Evaluation of recording factors in EEG-based personal identification: A vital step in real implementations",
+        "Electroencephalogram signals from imagined activities: A novel biometric identifier for a small population",
+        "A study on the reproducibility of biometric authentication based on electroencephalogram (EEG)",
+        "Method of identifying individuals using VEP signals and neural network",
+        "PIN generation using single channel EEG biometric",
+        "Comparison of different classifiers for biometric system based on EEG signals",
+        "Low-cost electroencephalogram (EEG) based authentication",
+        "On the influence of affect in EEG-based subject identification",
+        "Rich feature hierarchies for accurate object detection and semantic segmentation",
+        "On the properties of neural machine translation: Encoder-decoder approaches",
+        "Empirical evaluation of gated recurrent neural networks on sequence modeling",
+        "Memory visualization for gated recurrent neural networks in speech recognition",
+        "Acoustic event detection in multichannel audio using gated recurrent neural networks with high-resolution spectral features",
+        "Multi-class support vector machines",
+        "Single-layer learning revisited: A stepwise procedure for building and training a neural network",
+        "Accurate EEG-based emotion recognition on combined features using deep convolutional neural networks"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Worcester",
+            "@id": "60011410",
+            "affilname": "Worcester Polytechnic Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011410",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Linkoping",
+            "@id": "60009358",
+            "affilname": "Link\u00f6pings Universitet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009358",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "Thonburi",
+            "@id": "60008786",
+            "affilname": "King Mongkut's University of Technology Thonburi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008786",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Rayong",
+            "@id": "114984152",
+            "affilname": "Vidyasirimedhi Institute of Science and Engineering",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/114984152",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Office of the Higher Education Commission",
+        "Thailand Research Fund"
+    ]
+}

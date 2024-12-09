@@ -1,0 +1,63 @@
+{
+    "eid": "2-s2.0-85140377681",
+    "title": "Options portfolio optimization of exotic options written on Mini S&P500 Index in an illiquid market with Conditional Value-at-Risk (CVaR)",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Mathematics (all)",
+            "@code": "2600",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Conditional Value-at-Risk (CVaR)",
+        "Derivatives markets",
+        "Gaussian Quadrature",
+        "Portfolio optimization",
+        "Variance Gamma process"
+    ],
+    "authors": [
+        "Benyanee Kosapong",
+        "Petarpa Boonserm",
+        "Udomsak Rakwongwan"
+    ],
+    "citedby-count": 2,
+    "ref-count": 16,
+    "ref-list": [
+        "Overview of portfolio optimization models",
+        "Markowitz\u2019s \u201dportfolio selection\u201d: A fifty-year retrospective",
+        "hinking coherently",
+        "Coherent measures of risk",
+        "An introduction to risk measures for actuarial applications",
+        "Optimization of conditional value-at-risk",
+        "Derivatives of probability functions and some applications",
+        "Conditional value-at-risk: Optimization algorithms and applications",
+        "Some remarks on the value-at-risk and the conditional value-at-risk",
+        "Nondifferentiability of the steady-state function in discrete event dynamic systems",
+        "Minimizing CVaR and VaR for a portfolio of derivatives",
+        "The variance gamma (VG) model for share market returns",
+        "The variance gamma process and option pricing"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60021944",
+            "affilname": "Kasetsart University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021944",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "DPST",
+        "De velopment and Promotion of Science and Technology Talents Project",
+        "Development and Promotion of Science and Technology Talents Project"
+    ]
+}

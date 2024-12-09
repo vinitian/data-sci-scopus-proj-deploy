@@ -1,0 +1,85 @@
+{
+    "eid": "2-s2.0-85058636959",
+    "title": "Dual-band infrared video-based measurement using pulse wave maps to analyze heart rate variability",
+    "cover-date": "2018-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Chemistry (all)",
+            "@code": "1600",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Ryota Mitsuhashi",
+        "Keiichiro Kagawa",
+        "Shoji Kawahito",
+        "Chawan Koopipat",
+        "Norimichi Tsumura"
+    ],
+    "citedby-count": 1,
+    "ref-count": 15,
+    "ref-list": [
+        "Heart rate variability: Standards of measurement, physiological interpletation, and clinical use",
+        "Spectral analysis of R-R and arterial pressure variabilities to assess sympatho-vagal interaction during mental stress in humans",
+        "Power spectrum analysis of heart rate fluctuation: A quantative probe of beat-to-beat cardiovascular control",
+        "Improvements in remote cardio-pulmonary measurement using a five band digital camera",
+        "Advancements in noncontact, multiparameter physiological measurements using a webcam",
+        "Heart rate variability extraction from videos signals: ICA vs. EVM comparison",
+        "Eulerian video magnification for revealing subtle changes in the world",
+        "Non-contact video based estimation for heart rate variability spectrogram using ambient light by extracting hemoglobin information",
+        "Non-contact video-based estimation of heart rate variability spectrogram from hemoglobin composition",
+        "Contact-free measurement of cardiac pulse based on the analysis of thermal imagery",
+        "Infrared video based non-invasive heart rate measurement",
+        "Spatio-temporal filtering of thermal video sequences for heart rate",
+        "Two-band infrared video-based measurement for non-contact pulse wave detection on face without visible lighting",
+        "Non-contact pulse wave detection by two-band infrared video-based measurement on face without visible lighting",
+        "Distance PPG: Robust non-contact vital signs monitoring using a camera"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Shizuoka",
+            "@id": "60103680",
+            "affilname": "Shizuoka University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103680",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chiba",
+            "@id": "60002787",
+            "affilname": "Chiba University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002787",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "MEXT",
+        "JST"
+    ]
+}

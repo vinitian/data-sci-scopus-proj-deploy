@@ -1,0 +1,118 @@
+{
+    "eid": "2-s2.0-85149535053",
+    "title": "Analytical Formulas Using Affine Transformation for Pricing Generalized Swaps in Commodity Markets with Stochastic Convenience Yields",
+    "cover-date": "2022-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Chemistry (miscellaneous)",
+            "@code": "1601",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mathematics (all)",
+            "@code": "2600",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Physics and Astronomy (miscellaneous)",
+            "@code": "3101",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Bell polynomial",
+        "discrete sampling",
+        "generalized swaps",
+        "stochastic convenience yields",
+        "variance swaps"
+    ],
+    "authors": [
+        "Ampol Duangpan",
+        "Ratinan Boonklurb",
+        "Udomsak Rakwongwan",
+        "Phiraphat Sutthimat"
+    ],
+    "citedby-count": 1,
+    "ref-count": 57,
+    "ref-list": [
+        "Simple Analytical Formulas for Pricing and Hedging Moment Swaps",
+        "Simple closed-form formulas for conditional moments of inhomogeneous nonlinear drift constant elasticity of variance process",
+        "Analytically pricing variance swaps in commodity derivative markets under stochastic convenience yields",
+        "Variance and volatility swaps in energy markets",
+        "A closed-form exact solution for pricing variance swaps with stochastic volatility",
+        "The stochastic behavior of commodity prices: Implications for valuation and hedging",
+        "On the theory of the Brownian motion",
+        "Price volatility, speculation and excessive speculation in commodity markets: Sheep or shepherd behaviour?",
+        "Conditional price volatility, speculation, and excessive speculation in commodity markets: Sheep or shepherd behaviour?",
+        "Nonlinear PDE model for European options with transaction costs under Heston stochastic volatility",
+        "On the valuation of variance swaps with stochastic volatility",
+        "Analytically pricing volatility swaps under stochastic volatility",
+        "On the convexity correction approximation in pricing volatility swaps and VIX futures",
+        "Pricing Various Types of Power Options under Stochastic Volatility",
+        "Pricing discretely-sampled variance swaps on commodities",
+        "A closed-form formula for pricing variance swaps on commodities",
+        "Analytical formulas for pricing discretely-sampled skewness and kurtosis swaps based on Schwartz\u2019s one-factor model",
+        "A simple closed-form formula for the conditional moments of the Ornstein\u2013Uhlenbeck process",
+        "Transform analysis and asset pricing for affine jump-diffusions",
+        "Mean reverting processes-energy price processes used for derivatives pricing & risk management",
+        "Stochastic model for gold prices ans its application for noarbitrage pricing",
+        "Pricing generalized variance swaps under the Heston model with stochastic interest rates",
+        "Affine processes and applications in finance",
+        "Polynomial diffusions and applications in finance",
+        "Affine diffusion processes: Theory and applications",
+        "The curious history of Fa\u00e0 di Bruno\u2019s formula",
+        "Closed-form solutions of general second order linear recurrences and applications",
+        "The Pearson diffusions: A class of statistically tractable diffusion processes",
+        "Closed-form formulas for conditional moments of inhomogeneous Pearson diffusion processes",
+        "A closed-form pricing formula for variance swaps under MRG\u2013Vasicek model",
+        "A series-form solution for pricing variance and volatility swaps with stochastic volatility and stochastic interest rate",
+        "Closed form pricing formulas for discretely sampled generalized variance swaps",
+        "An analytical option pricing formula for mean-reverting asset with time-dependent parameter",
+        "A Novel Analytical Formula for the Discounted Moments of the ECIR Process and Interest Rate Swaps Pricing",
+        "Analytically Pricing Formula for Contingent Claim with Polynomial Payoff under ECIR Process",
+        "Explicit formula for conditional expectations of product of polynomial and exponential function of affine transform of extended Cox\u2013Ingersoll\u2013Ross process",
+        "Closed-form formula for conditional moments of generalized nonlinear drift CEV process",
+        "Analytical formula for conditional expectations of path-dependent product of polynomial and exponential functions of extended Cox\u2013Ingersoll\u2013Ross process",
+        "Pricing of commodity and energy derivatives for polynomial processes",
+        "Analytical Formulas for Conditional Mixed Moments of Generalized Stochastic Correlation Process",
+        "Prediction-based estimating functions",
+        "Statistical inference for reciprocal gamma diffusion process",
+        "Statistical inference for Student diffusion process",
+        "Parameter estimation for Fisher\u2013Snedecor diffusion",
+        "Parameter estimation of one-dimensional Ito processes by LTDRM",
+        "Moment swaps",
+        "Exact pricing of discretely-sampled variance derivatives",
+        "Sensitivity, specificity, and accuracy of predictive models on phenols toxicity",
+        "Jump processes in commodity futures prices and options pricing",
+        "A multi-factor jump-diffusion model for commodities"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60021944",
+            "affilname": "Kasetsart University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021944",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Chulalongkorn University"
+    ]
+}

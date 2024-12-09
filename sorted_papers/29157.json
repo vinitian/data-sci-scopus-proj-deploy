@@ -1,0 +1,107 @@
+{
+    "eid": "2-s2.0-85129683394",
+    "title": "Impact of Bandwidth on Range Resolution of Multiple Targets Using Photonic Radar",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Frequency modulated continuous wave (FMCW)",
+        "photonic radar",
+        "polarization division multiplexing (PDM)",
+        "wavelength division multiplexing (WDM)"
+    ],
+    "authors": [
+        "Abhishek Sharma",
+        "Sushank Chaudhary",
+        "Jyoteesh Malhotra",
+        "Amir Parnianifard",
+        "Santosh Kumar",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 10,
+    "ref-count": 46,
+    "ref-list": [
+        "Experimenting with sensors of a low-cost prototype of an autonomous vehicle",
+        "Tesla driver dies in first fatal crash while using autopilot mode",
+        "For self-driving cars, there's big meaning behind one big number: 4 terabytes",
+        "In-car positioning and navigation technologies-A survey",
+        "Combination of indoor and outdoor positioning",
+        "Moving from legacy 24 GHz to state-of-the-art 77-GHz radar",
+        "Attenuation by atmospheric gases",
+        "Towards reliable perception for unmanned ground vehicles in challenging conditions",
+        "Comparison of 905 nm and 1550 nm semiconductor laser rangefinders' performance deterioration due to adverse environmental conditions",
+        "Basics and developments of frequency modulation continuous wave LiDAR",
+        "Fog research: A review of past achievements and future perspectives",
+        "A benchmark for LiDAR sensors in fog: Is detection breaking down?",
+        "Quantifying the influence of rain in LiDAR performance",
+        "Cognitive radar: A way of the future",
+        "Stationary target identi-fication in a traffic monitoring radar system",
+        "Vehicular traffic surveillance and road lane detection using radar interferometry",
+        "Photonicsbased radar-LiDAR integrated system for multi-sensor fusion applications",
+        "A cost-effective photonic radar under adverse weather conditions for autonomous vehicles by incorporating a frequencymodulated direct detection scheme",
+        "Coherent detection-based photonic radar for autonomous vehicles under diverse weather conditions",
+        "Simulative investigation of FMCW based optical photonic radar and its different configurations",
+        "Chirped LiDAR using simplified homodyne detection",
+        "Linear FMCW laser radar for precision range and vector velocity measurements",
+        "Full-duty triangular pulse generation based on a polarization-multiplexing dual-drive Mach-Zehnder modulator",
+        "Multifunction LiDAR system based on polarization-division multiplexing",
+        "Linearization of the frequency sweep of a frequency-modulated continuous-wave semiconductor laser radar and the resulting ranging performance",
+        "Modeling and comparative study of various detection techniques for FMCW LiDAR using optisystem",
+        "Generation of linear frequency-modulated waveforms by a frequency-sweeping optoelectronic oscillator",
+        "Spectrum slicing WDM for FSO communication systems under the heavy rain weather",
+        "The aRbrelation in the calculation of rain attenuation",
+        "Statistical theory of the marshall-palmer distribution of raindrops",
+        "A review on channel models in free space optical communication systems",
+        "Characterization of fog and snow attenuations for free-space optical propagation",
+        "Cloud attenuations for free-space optical links",
+        "Photonics-based real-time ultra-highrange-resolution radar with broadband signal generation and processing",
+        "Photonic approach for on-board and ground radars in automotive applications",
+        "In-field demonstration of a photonic coherent MIMO distributed radar network",
+        "Range detection assessment of photonic radar under adverse weather perceptions",
+        "Simultaneous detection of the distance and direction for a noncooperative target based on the microwave photonic radar",
+        "A novel scheme for processing FMCW-ladar data acquired with low sampling rate",
+        "Multi-functional microwave photonic radar system for simultaneous distance and velocity measurement and high-resolution microwave imaging"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Liaocheng",
+            "@id": "60030274",
+            "affilname": "Liaocheng University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030274",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Amritsar",
+            "@id": "60000078",
+            "affilname": "Guru Nanak Dev University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000078",
+            "affiliation-country": "India"
+        }
+    ],
+    "funding": []
+}

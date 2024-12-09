@@ -1,0 +1,88 @@
+{
+    "eid": "2-s2.0-85120525670",
+    "title": "Personalized Preference Drift Aware Sequential Recommender System",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "machine learning",
+        "Neural networks",
+        "recommender systems"
+    ],
+    "authors": [
+        "Nakarin Sritrakool",
+        "Saranya Maneeroj"
+    ],
+    "citedby-count": 3,
+    "ref-count": 45,
+    "ref-list": [
+        "Matrix factorization techniques for recommender systems",
+        "Interpretable convolutional neural networks with dual local and global attention for review rating prediction",
+        "Factorization meets the neighborhood: A multifaceted collaborative filtering model",
+        "Neural collaborative filtering",
+        "XDeepFM: Combining explicit and implicit feature interactions for recommender systems",
+        "AutoRec: Autoencoders meet collaborative filtering",
+        "Hybrid recommender system based on autoencoders",
+        "Variational autoencoders for collaborative filtering",
+        "Collaborative denoising auto-encoders for top-N recommender systems",
+        "Neural attentional rating regression with review-level explanations",
+        "Ask the GRU: Multi-task learning for deep text recommendations",
+        "Deep learning based recommender system: A survey and new perspectives",
+        "Collaborative knowledge base embedding for recommender systems",
+        "Collaborative filtering with temporal dynamics",
+        "Temporal collaborative filtering with Bayesian probabilistic tensor factorization",
+        "Long short-term memory",
+        "Learning phrase representations using RNN encoder-decoder for statistical machine translation",
+        "Recurrent recommender networks",
+        "Sequential user-based recurrent neural network recommendations",
+        "Recurrent neural networks with top-K gains for session-based recommendations",
+        "Personalizing session-based recommendations with hierarchical recurrent neural networks",
+        "Attention is all you need",
+        "Self-attentive sequential recommendation",
+        "BERT4Rec: Sequential recommendation with bidirectional encoder representations from transformer",
+        "BERT: Pre-training of deep bidirectional transformers for language understanding",
+        "MRIF: Multi-resolution interest fusion for recommendation",
+        "Phased LSTM: Accelerating recurrent network training for long or event-based sequences",
+        "Towards neural mixture recommender for long range dependent user sequences",
+        "What to do next: Modeling user behaviors by time-LSTM",
+        "Cloud migration: Standards and regulatory issues with their possible solutions",
+        "DBNet: A novel dilated CNN based multi-step forecasting model for power consumption in integrated local energy systems",
+        "Delving deep into rectifiers: Surpassing human-level performance on ImageNet classification",
+        "Dropout: A simple way to prevent neural networks from overfitting",
+        "Layer normalization",
+        "A scalable framework for segmenting magnetic resonance images",
+        "Item recommendation on monotonic behavior chains",
+        "Fine-grained spoiler detection from large-scale review corpora",
+        "Joint optimization of tree-based index and deep model for recommender systems",
+        "Learning treebased deep model for recommender systems",
+        "Learning optimal tree models under beam search",
+        "Personalized top-n sequential recommendation via convolutional sequence embedding",
+        "Adam: A method for stochastic optimization"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

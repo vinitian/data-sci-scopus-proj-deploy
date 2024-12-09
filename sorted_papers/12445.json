@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85137340001",
+    "title": "CL-ReLKT: Cross-lingual Language Knowledge Transfer for Multilingual Retrieval Question Answering",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Peerat Limkonchotiwat",
+        "Wuttikorn Ponwitayarat",
+        "Can Udomcharoenchaikit",
+        "Ekapol Chuangsuwanich",
+        "Sarana Nutanong"
+    ],
+    "citedby-count": 1,
+    "ref-count": 31,
+    "ref-list": [
+        "ReQA: An evaluation for end-to-end answer retrieval models",
+        "Massively multilingual neural machine translation in the wild: Findings and challenges",
+        "On the cross-lingual transferability of monolingual representations",
+        "XOR QA: Cross-lingual open-retrieval question answering",
+        "Universal sentence encoder for english",
+        "Unsupervised cross-lingual representation learning at scale",
+        "BERT: Pre-training of deep bidirectional transformers for language understanding",
+        "Language-agnostic BERT sentence embedding",
+        "Multilingual language processing from bytes",
+        "Multireqa: A cross-domain evaluation for retrieval question answering models",
+        "Dense passage retrieval for opendomain question answering",
+        "Deep metric learning: A survey",
+        "Convolutional neural networks for sentence classification",
+        "MLQA: Evaluating cross-lingual extractive question answering",
+        "Choosing transfer languages for cross-lingual learning",
+        "Multilingual denoising pretraining for neural machine translation",
+        "Rapid adaptation of neural machine translation to new languages",
+        "Zero-shot cross-lingual transfer with meta learning",
+        "SQuAD: 100, 000+ questions for machine comprehension of text",
+        "Sentence-BERT: Sentence embeddings using Siamese BERTnetworks",
+        "Making monolingual sentence embeddings multilingual using knowledge distillation",
+        "Learning joint multilingual sentence representations with neural machine translation",
+        "Robust fragment-based framework for cross-lingual sentence retrieval",
+        "Improvements to bm25 and language models examined",
+        "Attention is all you need",
+        "Aligning cross-lingual sentence representations with dual momentum contrast",
+        "Balancing training for multilingual neural machine translation",
+        "Multilingual universal sentence encoder for semantic retrieval",
+        "Bootstrapped unsupervised sentence representation learning",
+        "Transfer learning for low-resource neural machine translation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "116353786",
+            "affilname": "VISTEC",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/116353786",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

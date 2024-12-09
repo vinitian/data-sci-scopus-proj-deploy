@@ -1,0 +1,924 @@
+{
+    "eid": "2-s2.0-85147833764",
+    "title": "Nonpharmaceutical interventions reduce the incidence and mortality of COVID-19: A study based on the survey from the International COVID-19 Research Network (ICRN)",
+    "cover-date": "2023-02-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Infectious Diseases",
+            "@code": "2725",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Virology",
+            "@code": "2406",
+            "@abbrev": "IMMU"
+        }
+    ],
+    "keywords": [
+        "COVID-19",
+        "isolation",
+        "mask",
+        "nonpharmacologic interventions",
+        "quarantine",
+        "sanitizer"
+    ],
+    "authors": [
+        "Seung Hyun Park",
+        "Sung Hwi Hong",
+        "Kwanghyun Kim",
+        "Seung Won Lee",
+        "Dong Keon Yon",
+        "Sun Jae Jung",
+        "Ziad Abdeen",
+        "Ramy Abou Ghayda",
+        "Mohamed Lemine Cheikh Brahim Ahmed",
+        "Abdulwahed Al Serouri",
+        "Waleed Al-Herz",
+        "Humaid O. Al-Shamsi",
+        "Sheeza Ali",
+        "Kosar Ali",
+        "Oidov Baatarkhuu",
+        "Henning Bay Nielsen",
+        "Enrico Bernini-Carri",
+        "Anastasiia Bondarenko",
+        "Ayun Cassell",
+        "Akway Cham",
+        "Melvin L.K. Chua",
+        "Sufia Dadabhai",
+        "Tchin Darre",
+        "Hayk Davtyan",
+        "Elena Dragioti",
+        "Barbora East",
+        "Robert Jeffrey Edwards",
+        "Martina Ferioli",
+        "Tsvetoslav Georgiev",
+        "Lilian A. Ghandour",
+        "Harapan Harapan",
+        "Po Ren Hsueh",
+        "Saad I. Mallah",
+        "Aamer Ikram",
+        "Shigeru Inoue",
+        "Louis Jacob",
+        "Slobodan M. Jankovi\u0107",
+        "Umesh Jayarajah",
+        "Milos Jesenak",
+        "Pramath Kakodkar",
+        "Nathan Kapata",
+        "Yohannes Kebede",
+        "Yousef Khader",
+        "Meron Kifle",
+        "David Koh",
+        "Vi\u0161nja Koki\u0107 Male\u0161",
+        "Katarzyna Kotfis",
+        "Ai Koyanagi",
+        "James Paul Kretchy",
+        "Sulaiman Lakoh",
+        "Jinhee Lee",
+        "Jun Young Lee",
+        "Maria da Luz Lima Mendon\u00e7a",
+        "Lowell Ling",
+        "Jorge Llibre-Guerra",
+        "Masaki Machida",
+        "Richard Makurumidze",
+        "Ziad A. Memish",
+        "Ivan Mendoza",
+        "Sergey Moiseev",
+        "Thomas Nadasdy",
+        "Chen Nahshon",
+        "Silvio A. \u00d1amendys-Silva",
+        "Blaise Nguendo Yongsi",
+        "Amalea Dulcene Nicolasora",
+        "Zhamilya Nugmanova",
+        "Hans Oh",
+        "Atte Oksanen",
+        "Oluwatomi Owopetu",
+        "Zeynep Ozge Ozguler",
+        "Konstantinos Parperis",
+        "Gonzalo Emanuel Perez",
+        "Krit Pongpirul",
+        "Marius Rademaker",
+        "Nemanja Radojevic",
+        "Anna Roca",
+        "Alfonso J. Rodriguez-Morales",
+        "Enver Roshi",
+        "Khwaja Mir Islam Saeed",
+        "Ranjit Sah",
+        "Boris Sakakushev",
+        "Dina E. Sallam",
+        "Brijesh Sathian",
+        "Patrick Schober",
+        "P. Shaik Syed Ali",
+        "Zoran Simonovi\u0107",
+        "Tanu Singhal",
+        "Natia Skhvitaridze",
+        "Marco Solmi",
+        "Kannan Subbaram",
+        "Kalthoum Tizaoui",
+        "John Thato Tlhakanelo",
+        "Julio Torales",
+        "Junior Smith Torres-Roman",
+        "Dimitrios Tsartsalis",
+        "Jadamba Tsolmon",
+        "Duarte Nuno Vieira",
+        "Sandro G.Viveiros Rosa",
+        "Guy Wanghi",
+        "Uwe Wollina",
+        "Ren He Xu",
+        "Lin Yang",
+        "Kashif Zia",
+        "Muharem Zildzic",
+        "Jae Il Shin",
+        "Lee Smith"
+    ],
+    "citedby-count": 3,
+    "ref-count": 50,
+    "ref-list": [
+        "Clinical characteristics of coronavirus disease 2019 in China",
+        "An interactive web-based dashboard to track COVID-19 in real time",
+        "Covid-19 vaccine effectiveness against the Omicron (B. 1.1. 529) variant",
+        "Impact assessment of non-pharmaceutical interventions against coronavirus disease 2019 and influenza in Hong Kong: an observational study",
+        "Effects of non-pharmaceutical interventions on COVID-19 cases, deaths, and demand for hospital services in the UK: a modelling study",
+        "Impact of lockdown on COVID-19 incidence and mortality in China: an interrupted time series study",
+        "Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe",
+        "Physical distancing interventions and incidence of coronavirus disease 2019: natural experiment in 149 countries",
+        "Addressing the worldwide shortages of face masks",
+        "Why inequality could spread COVID-19",
+        "Effects of the global financial crisis on health in high-income oecd countries: a narrative review",
+        "Towards an understanding of resilience: responding to health systems shocks",
+        "Effectiveness of non-pharmaceutical interventions on COVID-19 transmission in 190 countries from 23 January to 13 April 2020",
+        "Effect of non-pharmaceutical interventions to contain COVID-19 in China",
+        "Estimating the effectiveness of non-pharmaceutical interventions on COVID-19 control in Korea",
+        "World Bank",
+        "Methods for testing statistical differences between groups in medical research: statistical standard and guideline of Life Cycle Committee",
+        "Regression analysis for continuous independent variables in medical research: statistical standard and guideline of Life Cycle Committee",
+        "Active quarantine measures are the primary means to reduce the fatality rate of COVID-19",
+        "Impact of lockdown on COVID-19 incidence and mortality in China: an interrupted time series study",
+        "Social distancing to slow the US COVID-19 epidemic: longitudinal pretest\u2013posttest comparison group study",
+        "Learning about COVID-19-related stigma, quarantine and isolation experiences in Finland",
+        "Dynamic response systems of healthcare mask production to COVID-19: a case study of Korea",
+        "Addressing COVID-19 spread: development of reliable testing system for mask reuse",
+        "Decontamination of face masks with steam for mask reuse in fighting the pandemic COVID-19: experimental supports",
+        "Detection of infectious influenza virus in cough aerosols generated in a simulated patient examination room",
+        "Comprehensive review of mask utility and challenges during the COVID-19 pandemic",
+        "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China",
+        "A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster",
+        "COVID-19 may transmit through aerosol",
+        "Airborne transmission route of COVID-19: why 2 meters/6 feet of inter-personal distance could not be enough",
+        "Hand sanitizers: a review on formulation aspects, adverse effects, and regulations",
+        "Sanitizing agents for virus inactivation and disinfection",
+        "Inactivation of SARS coronavirus by means of povidone-iodine, physical conditions and chemical reagents",
+        "Host\u2013pathogen interactions: basic concepts of microbial commensalism, colonization, infection, and disease",
+        "An evidence review of face masks against COVID-19",
+        "Test sensitivity is secondary to frequency and turnaround time for COVID-19 screening",
+        "COVID-19: a review of current knowledge regarding exposure, quarantine, isolation and other preventive measures",
+        "Understanding and measuring quality of care: dealing with complexity",
+        "The failure of private health services: COVID-19 induced crises in low-and middle-income country (LMIC) health systems"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Seoul",
+            "@id": "60016728",
+            "affilname": "Yonsei University College of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016728",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Lima",
+            "@id": "60078122",
+            "affilname": "Universidad Cientifica del Sur",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60078122",
+            "affiliation-country": "Peru"
+        },
+        {
+            "affiliation-city": "Ulaanbaatar",
+            "@id": "60072644",
+            "affilname": "Mongolian National University of Medical Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60072644",
+            "affiliation-country": "Mongolia"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60031809",
+            "affilname": "National Cancer Centre, Singapore",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031809",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Wonju",
+            "@id": "60007143",
+            "affilname": "Yonsei University Wonju College of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007143",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Male",
+            "@id": "60257151",
+            "affilname": "Maldives National University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60257151",
+            "affiliation-country": "Maldives"
+        },
+        {
+            "affiliation-city": "Riyadh",
+            "@id": "60231076",
+            "affilname": "College of Medicine Alfaisal University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60231076",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Sant Boi de Llobregat",
+            "@id": "60212489",
+            "affilname": "Parc Sanitari Sant Joan de D\u00e9u",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60212489",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Tirana",
+            "@id": "60209726",
+            "affilname": "Universiteti i Mjek\u00ebsis\u00eb, Tiran\u00eb",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60209726",
+            "affiliation-country": "Albania"
+        },
+        {
+            "affiliation-city": "Dresden",
+            "@id": "60204338",
+            "affilname": "Universit\u00e4tsklinikum Carl Gustav Carus Dresden",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60204338",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Taipa",
+            "@id": "60202582",
+            "affilname": "Faculty of Health Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60202582",
+            "affiliation-country": "Macao"
+        },
+        {
+            "affiliation-city": "Nicosia",
+            "@id": "60199653",
+            "affilname": "University of Cyprus Medical School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199653",
+            "affiliation-country": "Cyprus"
+        },
+        {
+            "affiliation-city": "Kyiv",
+            "@id": "60199611",
+            "affilname": "International European University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199611",
+            "affiliation-country": "Ukraine"
+        },
+        {
+            "affiliation-city": "Byblos",
+            "@id": "60199552",
+            "affilname": "Gilbert and Rose-Marie Chagoury School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199552",
+            "affiliation-country": "Lebanon"
+        },
+        {
+            "affiliation-city": "Roskilde",
+            "@id": "60136205",
+            "affilname": "Sj\u00e6llands Universitetshospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60136205",
+            "affiliation-country": "Denmark"
+        },
+        {
+            "affiliation-city": "Accra",
+            "@id": "60120457",
+            "affilname": "Central University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60120457",
+            "affiliation-country": "Ghana"
+        },
+        {
+            "affiliation-city": "Nouakchott",
+            "@id": "60120089",
+            "affilname": "University of Nouakchott (Universit\u00e9 de Nouakchott)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60120089",
+            "affiliation-country": "Mauritania"
+        },
+        {
+            "affiliation-city": "Medellin",
+            "@id": "60112679",
+            "affilname": "Fundaci\u00f3n Universitaria Aut\u00f3noma de las Am\u00e9ricas",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60112679",
+            "affiliation-country": "Colombia"
+        },
+        {
+            "affiliation-city": "Almaty",
+            "@id": "60108730",
+            "affilname": "Kazakh National Medical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60108730",
+            "affiliation-country": "Kazakhstan"
+        },
+        {
+            "affiliation-city": "Muharraq",
+            "@id": "60107237",
+            "affilname": "Royal College of Surgeons in Ireland Medical University of Bahrain",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60107237",
+            "affiliation-country": "Bahrain"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60095034",
+            "affilname": "Duke-NUS Medical School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60095034",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Tunis",
+            "@id": "60091645",
+            "affilname": "Universit\u00e9 de Tunis El Manar, Facult\u00e9 des Sciences de Tunis",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091645",
+            "affiliation-country": "Tunisia"
+        },
+        {
+            "affiliation-city": "Split",
+            "@id": "60087149",
+            "affilname": "Klini\u010dki Bolni\u010dki Centar Split",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60087149",
+            "affiliation-country": "Croatia"
+        },
+        {
+            "affiliation-city": "Ankara",
+            "@id": "60079005",
+            "affilname": "T.C. Sa\u011fl\u0131k Bakanl\u0131\u011f\u0131,",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60079005",
+            "affiliation-country": "Turkey"
+        },
+        {
+            "affiliation-city": "Freetown",
+            "@id": "60072928",
+            "affilname": "University of Sierra Leone",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60072928",
+            "affiliation-country": "Sierra Leone"
+        },
+        {
+            "affiliation-city": "Kinshasa",
+            "@id": "60072820",
+            "affilname": "Universite de Kinshasa",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60072820",
+            "affiliation-country": "Democratic Republic Congo"
+        },
+        {
+            "affiliation-city": "Lome",
+            "@id": "60072777",
+            "affilname": "University of Lome",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60072777",
+            "affiliation-country": "Togo"
+        },
+        {
+            "affiliation-city": "Doha",
+            "@id": "60072744",
+            "affilname": "Rumailah Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60072744",
+            "affiliation-country": "Qatar"
+        },
+        {
+            "affiliation-city": "San Lorenzo",
+            "@id": "60072737",
+            "affilname": "Universidad Nacional de Asuncion",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60072737",
+            "affiliation-country": "Paraguay"
+        },
+        {
+            "affiliation-city": "Kathmandu",
+            "@id": "60071822",
+            "affilname": "Tribhuvan University Teaching Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071822",
+            "affiliation-country": "Nepal"
+        },
+        {
+            "affiliation-city": "Juba",
+            "@id": "60071746",
+            "affilname": "University of Juba",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071746",
+            "affiliation-country": "South Sudan"
+        },
+        {
+            "affiliation-city": "Manila",
+            "@id": "60071446",
+            "affilname": "Gokila",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071446",
+            "affiliation-country": "Philippines"
+        },
+        {
+            "affiliation-city": "Jimma",
+            "@id": "60071196",
+            "affilname": "Jimma University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071196",
+            "affiliation-country": "Ethiopia"
+        },
+        {
+            "affiliation-city": "Colombo",
+            "@id": "60071074",
+            "affilname": "University of Colombo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071074",
+            "affiliation-country": "Sri Lanka"
+        },
+        {
+            "affiliation-city": "Yaounde",
+            "@id": "60070929",
+            "affilname": "Universit\u00e9 de Yaound\u00e9 II",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60070929",
+            "affiliation-country": "Cameroon"
+        },
+        {
+            "affiliation-city": "Banda Aceh",
+            "@id": "60069406",
+            "affilname": "Universitas Syiah Kuala",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60069406",
+            "affiliation-country": "Indonesia"
+        },
+        {
+            "affiliation-city": "Kragujevac",
+            "@id": "60068809",
+            "affilname": "University of Kragujevac",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60068809",
+            "affiliation-country": "Serbia"
+        },
+        {
+            "affiliation-city": "Podgorica",
+            "@id": "60068808",
+            "affilname": "University of Montenegro",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60068808",
+            "affiliation-country": "Montenegro"
+        },
+        {
+            "affiliation-city": "Beirut",
+            "@id": "60068761",
+            "affilname": "American University of Beirut",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60068761",
+            "affiliation-country": "Lebanon"
+        },
+        {
+            "affiliation-city": "Islamabad",
+            "@id": "60056782",
+            "affilname": "National Institute of Health Pakistan",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60056782",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Irbid",
+            "@id": "60051534",
+            "affilname": "Jordan University of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60051534",
+            "affiliation-country": "Jordan"
+        },
+        {
+            "affiliation-city": "Kuwait City",
+            "@id": "60038812",
+            "affilname": "Kuwait University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60038812",
+            "affiliation-country": "Kuwait"
+        },
+        {
+            "affiliation-city": "Harare",
+            "@id": "60033774",
+            "affilname": "University of Zimbabwe",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60033774",
+            "affiliation-country": "Zimbabwe"
+        },
+        {
+            "affiliation-city": "Barcelona",
+            "@id": "60032907",
+            "affilname": "Instituci\u00f3 Catalana de Recerca i Estudis Avan\u00e7ats",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032907",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Taichung",
+            "@id": "60031941",
+            "affilname": "China Medical University Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031941",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Plovdiv",
+            "@id": "60031890",
+            "affilname": "Medical University of Plovdiv",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031890",
+            "affiliation-country": "Bulgaria"
+        },
+        {
+            "affiliation-city": "Abu Dis",
+            "@id": "60031805",
+            "affilname": "Al-Quds University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031805",
+            "affiliation-country": "Palestine"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60031331",
+            "affilname": "London School of Hygiene &amp; Tropical Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031331",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Copenhagen",
+            "@id": "60030840",
+            "affilname": "K\u00f8benhavns Universitet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030840",
+            "affiliation-country": "Denmark"
+        },
+        {
+            "affiliation-city": "Versailles",
+            "@id": "60029937",
+            "affilname": "Universit\u00e9 de Versailles Saint-Quentin-en-Yvelines",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029937",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Los Angeles",
+            "@id": "60029311",
+            "affilname": "University of Southern California",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029311",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Ottawa",
+            "@id": "60028897",
+            "affilname": "University of Ottawa",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028897",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Plovdiv",
+            "@id": "60028132",
+            "affilname": "St.George University Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028132",
+            "affiliation-country": "Bulgaria"
+        },
+        {
+            "affiliation-city": "Berlin",
+            "@id": "60026245",
+            "affilname": "Charit\u00e9 \u2013 Universit\u00e4tsmedizin Berlin",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026245",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Hamilton",
+            "@id": "60025902",
+            "affilname": "Waikato Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025902",
+            "affiliation-country": "New Zealand"
+        },
+        {
+            "affiliation-city": "Martin",
+            "@id": "60025826",
+            "affilname": "Jesseniuss Faculty of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025826",
+            "affiliation-country": "Slovakia"
+        },
+        {
+            "affiliation-city": "Seoul",
+            "@id": "60025071",
+            "affilname": "Kyung Hee Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025071",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Bologna",
+            "@id": "60024574",
+            "affilname": "IRCCS Azienda Ospedaliero-Universitaria di Bologna",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024574",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Prague",
+            "@id": "60023469",
+            "affilname": "Fakultn\u00ed Nemocnice v Motole",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023469",
+            "affiliation-country": "Czech Republic"
+        },
+        {
+            "affiliation-city": "Gaborone",
+            "@id": "60021221",
+            "affilname": "University of Botswana",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021221",
+            "affiliation-country": "Botswana"
+        },
+        {
+            "affiliation-city": "Coimbra",
+            "@id": "60020985",
+            "affilname": "Universidade de Coimbra",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020985",
+            "affiliation-country": "Portugal"
+        },
+        {
+            "affiliation-city": "Tlalpan",
+            "@id": "60019825",
+            "affilname": "Instituto Nacional de Cancerologia, M\u00e9xico",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019825",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "Szczecin",
+            "@id": "60019189",
+            "affilname": "Pomeranian Medical University in Szczecin",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019189",
+            "affiliation-country": "Poland"
+        },
+        {
+            "affiliation-city": "Ibadan",
+            "@id": "60018680",
+            "affilname": "University College Hospital, Ibadan",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018680",
+            "affiliation-country": "Nigeria"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60017161",
+            "affilname": "National University of Singapore",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017161",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Seoul",
+            "@id": "60016912",
+            "affilname": "Yonsei University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016912",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Haifa",
+            "@id": "60016549",
+            "affilname": "Carmel Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016549",
+            "affiliation-country": "Israel"
+        },
+        {
+            "affiliation-city": "Suwon",
+            "@id": "60016329",
+            "affilname": "SKKU School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016329",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Cairo",
+            "@id": "60015323",
+            "affilname": "Faculty of Medicine - Ain Shams University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015323",
+            "affiliation-country": "Egypt"
+        },
+        {
+            "affiliation-city": "Strasbourg",
+            "@id": "60012671",
+            "affilname": "Council of Europe",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012671",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Tampere",
+            "@id": "60011170",
+            "affilname": "Tampere University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011170",
+            "affiliation-country": "Finland"
+        },
+        {
+            "affiliation-city": "Moscow",
+            "@id": "60010188",
+            "affilname": "Sechenov First Moscow State Medical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010188",
+            "affiliation-country": "Russian Federation"
+        },
+        {
+            "affiliation-city": "Linkoping",
+            "@id": "60009358",
+            "affilname": "Link\u00f6pings Universitet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009358",
+            "affiliation-country": "Sweden"
+        },
+        {
+            "affiliation-city": "Oxford",
+            "@id": "60008936",
+            "affilname": "Nuffield Department of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008936",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Amsterdam",
+            "@id": "60008734",
+            "affilname": "Vrije Universiteit Amsterdam",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008734",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Galway",
+            "@id": "60008539",
+            "affilname": "University of Galway",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008539",
+            "affiliation-country": "Ireland"
+        },
+        {
+            "affiliation-city": "Baltimore",
+            "@id": "60006183",
+            "affilname": "Johns Hopkins Bloomberg School of Public Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006183",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Varna",
+            "@id": "60005828",
+            "affilname": "Medical University-Varna",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005828",
+            "affiliation-country": "Bulgaria"
+        },
+        {
+            "affiliation-city": "Athens",
+            "@id": "60003720",
+            "affilname": "Hippokration General Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003720",
+            "affiliation-country": "Greece"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60003181",
+            "affilname": "Tokyo Medical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003181",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "60002798",
+            "affilname": "Chinese University of Hong Kong",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002798",
+            "affiliation-country": "Hong Kong"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ottawa",
+            "@id": "60002173",
+            "affilname": "Ottawa Hospital Research Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002173",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Glasgow",
+            "@id": "60001490",
+            "affilname": "University of Glasgow",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001490",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Caracas",
+            "@id": "60001197",
+            "affilname": "Universidad Central de Venezuela",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001197",
+            "affiliation-country": "Venezuela"
+        },
+        {
+            "affiliation-city": "Calgary",
+            "@id": "60000953",
+            "affilname": "Cumming School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000953",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Cambridge",
+            "@id": "60000913",
+            "affilname": "Anglia Ruskin University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000913",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Cleveland",
+            "@id": "60000305",
+            "affilname": "Case Western Reserve University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000305",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Cairo",
+            "@id": "129225387",
+            "affilname": "Chair of Propedeutics of Surgical Diseases",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129225387",
+            "affiliation-country": "Egypt"
+        },
+        {
+            "affiliation-city": "Santiago",
+            "@id": "129225068",
+            "affilname": "Santiago Island",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129225068",
+            "affiliation-country": "Cape Verde"
+        },
+        {
+            "affiliation-city": "Yerevan",
+            "@id": "128112042",
+            "affilname": "Tuberculosis Research and Prevention Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/128112042",
+            "affiliation-country": "Armenia"
+        },
+        {
+            "affiliation-city": "Port",
+            "@id": "126189225",
+            "affilname": "Medical Research Foundation of Trinidad and Tobago",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126189225",
+            "affiliation-country": "Trinidad and Tobago"
+        },
+        {
+            "affiliation-city": "Abu Dhabi",
+            "@id": "125335607",
+            "affilname": "Burjeel Cancer Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125335607",
+            "affiliation-country": "United Arab Emirates"
+        },
+        {
+            "affiliation-city": "Sulaymaniyah",
+            "@id": "124376198",
+            "affilname": "University of Sulaimani College of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/124376198",
+            "affiliation-country": "Iraq"
+        },
+        {
+            "affiliation-city": "Lusaka",
+            "@id": "120741557",
+            "affilname": "Zambia National Public Health Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/120741557",
+            "affiliation-country": "Zambia"
+        },
+        {
+            "affiliation-city": "Sana'a",
+            "@id": "120551377",
+            "affilname": "Yemen Field Epidemiology Training Program",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/120551377",
+            "affiliation-country": "Yemen"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "116415180",
+            "affilname": "University of Georgia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/116415180",
+            "affiliation-country": "Georgia"
+        },
+        {
+            "affiliation-city": "Mumbai",
+            "@id": "113566384",
+            "affilname": "Kokilaben Dhirubhai Ambani Hospital and Medical Research Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/113566384",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Sarajevo",
+            "@id": "112869092",
+            "affilname": "Academy of Medical Sciences og Bosnia and Herzegovina",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112869092",
+            "affiliation-country": "Bosnia and Herzegovina"
+        },
+        {
+            "affiliation-city": "Kabul",
+            "@id": "112805014",
+            "affilname": "Afghanistan National Public Health Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112805014",
+            "affiliation-country": "Afghanistan"
+        },
+        {
+            "affiliation-city": "Havana",
+            "@id": "108042029",
+            "affilname": "National Institute of Neurology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/108042029",
+            "affiliation-country": "Cuba"
+        },
+        {
+            "affiliation-city": "Iasi",
+            "@id": "107382890",
+            "affilname": "St. Parascheva Clinical Hospital of Infectious Diseases",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/107382890",
+            "affiliation-country": "Romania"
+        },
+        {
+            "affiliation-city": "Maribor",
+            "@id": "101013966",
+            "affilname": "National Institute of Public Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101013966",
+            "affiliation-country": "Slovenia"
+        },
+        {
+            "affiliation-city": "Rio de Janeiro",
+            "@id": "100842940",
+            "affilname": "Rio de Janeiro",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/100842940",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Buenos Aires",
+            "@id": "100490043",
+            "affilname": "Cardiology Division",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/100490043",
+            "affiliation-country": "Argentina"
+        },
+        {
+            "affiliation-city": "Edison",
+            "@id": "100340491",
+            "affilname": "John F. Kennedy Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/100340491",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": []
+}

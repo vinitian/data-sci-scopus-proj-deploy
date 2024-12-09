@@ -1,0 +1,68 @@
+{
+    "eid": "2-s2.0-85092018795",
+    "title": "Detecting personally identifiable information transmission in android applications using light-weight static analysis",
+    "cover-date": "2020-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Law",
+            "@code": "3308",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "Data analytics",
+        "Machine learning",
+        "Mobile applications",
+        "Personally identifiable information (PII)",
+        "Privacy"
+    ],
+    "authors": [
+        "Nattanon Wongwiwatchai",
+        "Phannawhat Pongkham",
+        "Kunwadee Sripanidkulchai"
+    ],
+    "citedby-count": 4,
+    "ref-count": 34,
+    "ref-list": [
+        "Drebin: Effective and Explainable Detection of Android Malware in Your Pocket",
+        "FlowDroid: Precise Context, Flow, Field, Object-sensitive and Lifecycle-aware Taint Analysis for Android Apps",
+        "Detecting Information Theft Based on Mobile Network Flows for Android Users",
+        "Automated Test Input Generation for Android: Are We There Yet? (E)",
+        "The dark side(-channel) of mobile devices: a survey on network traffic analysis",
+        "Obfuscation-Resilient Privacy Leak Detection for Mobile Apps Through Differential Analysis",
+        "AndroidLeaks: Automatically Detecting Potential Privacy Leaks in Android Applications on a Large Scale",
+        "Methodology for Behavioral-based Malware Analysis and Detection Using Random Projections and K-Nearest Neighbors Classifiers",
+        "Signature generation for sensitive information leakage in android applications",
+        "Sapienz: multi-objective automated testing for Android applications",
+        "Android malware detection using autoencoder",
+        "An Analysis of Mobile Application Network Behavior",
+        "Using the middle to meddle with mobile",
+        "ReCon: Revealing and Controlling PII Leaks in Mobile Network Traffic",
+        "\u201dIs Our Children's Apps Learning?\u201d Automatically Detecting COPPA Violations",
+        "\u201cWon't somebody think of the children?\u201d examining COPPA compliance at scale",
+        "Android malware classification based on mobile security framework",
+        "Privacy Leak Classification on Mobile Devices",
+        "PrivacyGuard: A VPN-based Platform to Detect Information Leakage on Android Devices",
+        "Investigating user privacy in android ad libraries",
+        "Leaky Birds: Exploiting Mobile Application Traffic for Surveillance",
+        "Comprehensive Detection of Vulnerable Personal Information Leaks in Android Applications",
+        "Leakminer: Detect Information Leakage on Android with Static Taint Analysis",
+        "Analysis of bayesian classification-based approaches for android malware detection",
+        "A Novel Android Malware Detection Approach Based on Convolutional Neural Network"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

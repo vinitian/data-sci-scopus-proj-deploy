@@ -1,0 +1,66 @@
+{
+    "eid": "2-s2.0-85128515451",
+    "title": "Journal Recommendation System for Author Using Thai and English Information from Manuscript",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Cosine similarity",
+        "Journal recommendation system",
+        "TF-IDF",
+        "Thai and English articles"
+    ],
+    "authors": [
+        "Nithirun Numnonda",
+        "Sapa Chanyachatchawan",
+        "Nuengwong Tuaycharoen"
+    ],
+    "citedby-count": 0,
+    "ref-count": 15,
+    "ref-list": [
+        "The role of text pre-processing in sentiment analysis",
+        "Word segmentation for Thai in machine translation system",
+        "Understanding inverse document frequency: On theoretical arguments for IDF",
+        "Content-based similarity of Twitter users",
+        "Distance weighted cosine similarity measure for text classification",
+        "Study on the impact of partition-induced dataset shift on k-fold cross-validation",
+        "A comparative analysis of text similarity measures and algorithms in research paper recommender systems",
+        "Scholarly paper recommendation via user\u2019s recent research interests",
+        "Resampling methods"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011525",
+            "affilname": "Thailand National Electronics and Computer Technology Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011525",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,91 @@
+{
+    "eid": "2-s2.0-85107555192",
+    "title": "Building Detection in Airports through Remote Sensing Image Using YOLOv3 with Jet Saliency Map",
+    "cover-date": "2021-04-23",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Decision Sciences (miscellaneous)",
+            "@code": "1801",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Automotive Engineering",
+            "@code": "2203",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Transportation",
+            "@code": "3313",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "building detection",
+        "jet colormap",
+        "morphological operations",
+        "saliency map",
+        "YOLO network"
+    ],
+    "authors": [
+        "Noppadon Pumpong",
+        "Petarpa Boonserm",
+        "Kazuki Kobayashi",
+        "Nagul Cooharojananone"
+    ],
+    "citedby-count": 1,
+    "ref-count": 11,
+    "ref-list": [
+        "Feature hierarchies for accurate object detection and semantic seg-mentation",
+        "R. Faster R-CNN: Towards real-time object detection with region proposal networks",
+        "You only look once: Unified, real-time object detection",
+        "Yolo9000: Better, faster, stronger",
+        "C. Application of improved yolov3 in aircraft recognition of remote sensing images",
+        "Aircraft detection based on saliency map and convolution neural network",
+        "Aircraft detection from remote sensing images using single shot scale-invariant face detector with viridis saliency map",
+        "Parallel rcnn: A deep learning method for people detection using rgb-d images",
+        "Feature pyramid networks for object detection",
+        "Yolov3-vd: A sparse network for vehicle detection using variational dropout"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Matsumoto",
+            "@id": "60031955",
+            "affilname": "Shinshu University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031955",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "DPST",
+        "Development and Promotion of Science and Technology Talents Project",
+        "Institute for the Promotion of Teaching Science and Technology"
+    ]
+}

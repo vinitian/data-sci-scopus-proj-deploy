@@ -1,0 +1,83 @@
+{
+    "eid": "2-s2.0-85164690405",
+    "title": "A new formula for converting dose-area product to effective dose in dental cone-beam computed tomography",
+    "cover-date": "2023-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biophysics",
+            "@code": "1304",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Physics and Astronomy (all)",
+            "@code": "3100",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Cone-beam computed tomography",
+        "Dental radiography",
+        "Dentistry",
+        "Radiation protection"
+    ],
+    "authors": [
+        "Ruben Pauwels"
+    ],
+    "citedby-count": 0,
+    "ref-count": 26,
+    "ref-list": [
+        "Cone beam computed tomography in implant dentistry: a systematic review focusing on guidelines, indications, and radiation dose risks",
+        "European society of endodontology position statement: use of cone beam computed tomography in endodontics: european society of endodontology (ESE) developed by",
+        "How useful is intraoperative cone beam computed tomography in maxillofacial surgery? An overview of the current literature",
+        "Cone-beam CT in paediatric dentistry: DIMITRA project position statement",
+        "Radiological protection in cone beam computed tomography (CBCT). ICRP Publication 129",
+        "Dose distribution for dental cone beam CT and its implication for defining a dose index",
+        "Quality control in cone-beam computed tomography (CBCT) EFOMP-ESTRO-IAEA protocol (summary report)",
+        "Image quality optimization using a narrow vertical detector dental cone-beam CT",
+        "Monitoring cone-beam CT radiation dose levels in a University Hospital",
+        "Effective doses in panoramic images from conventional and CBCT equipment",
+        "A review of dental cone-beam CT dose conversion coefficients",
+        "Dental cone beam CT: an updated review",
+        "Technical Note: SpekPy v2.0-a software toolkit for modeling x-ray tube spectra",
+        "Measurement of radiation dose in dental radiology",
+        "Conversion coefficients for the estimation of effective doses in intraoral and panoramic dental radiology from dose-area product values",
+        "Can modifying shielding, field of view, and exposure settings make the effective dose of a cone-beam computed tomography comparable to traditional radiographs used for orthodontic diagnosis?",
+        "Absorbed doses for patients undergoing panoramic radiography, cephalometric radiography and CBCT",
+        "Comparison of effective dose for imaging of mandible between multi-detector CT and cone-beam CT",
+        "Effective radiation dose and eye lens dose in dental cone beam CT: effect of field of view and angle of rotation",
+        "A pragmatic approach to determine the optimal kVp in cone beam CT: balancing contrast-to-noise ratio and radiation dose",
+        "Determination of size-specific exposure settings in dental cone-beam CT",
+        "Optimization of exposure parameters in dental cone beam computed tomography using a 3-step approach",
+        "PCXMC - A Monte Carlo program for calculating patient doses in medical x-ray examinations"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Aarhus",
+            "@id": "60029616",
+            "affilname": "Aarhus Universitet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029616",
+            "affiliation-country": "Denmark"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "AIAS-COFUND",
+        "Marie Sk\u0142odowska-Curie",
+        "Aarhus University Research Foundation",
+        "European Union Horizon 2020 Research and Innovation Programme"
+    ]
+}

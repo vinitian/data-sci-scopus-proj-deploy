@@ -1,0 +1,92 @@
+{
+    "eid": "2-s2.0-85089310669",
+    "title": "Thai Spelling Correction and Word Normalization on Social Text Using a Two-Stage Pipeline with Neural Contextual Attention",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "artificial neural networks",
+        "machine learning",
+        "Natural language processing",
+        "spelling correction",
+        "text generation",
+        "text normalization",
+        "Thai language"
+    ],
+    "authors": [
+        "Anuruth Lertpiya",
+        "Tawunrat Chalothorn",
+        "Ekapol Chuangsuwanich"
+    ],
+    "citedby-count": 8,
+    "ref-count": 41,
+    "ref-list": [
+        "Real-time disease surveillance using Twitter data: Demonstration on flu and cancer",
+        "Natural language processing for social media",
+        "A preliminary study on fundamental Thai NLP tasks for user-generated Web content",
+        "Progress of combining trigram and winnow in Thai OCR error correction",
+        "Combining trigram and winnow in Thai OCR error correction",
+        "Thai OCR error correction using token passing algorithm",
+        "Thai OCR error correction using genetic algorithm",
+        "Spell checker for Thai document",
+        "Amultilayer convolutionalencoder-decoder neural network for grammatical error correction",
+        "Neural quality estimation of grammatical error correction",
+        "Spelling checker algorithm methods for many languages",
+        "The CoNLL-2014 shared task on grammatical error correction",
+        "Grammatical error correction: Machine translation and classifiers",
+        "Phrase-based Machine Translation is State-of-the-Art for Automatic Grammatical Error Correction",
+        "Long short-term memory",
+        "Bidirectional recurrent neural networks",
+        "Ground Truth for Grammatical Error Correction Metrics",
+        "BLEU: A method for automatic evaluation of machine translation",
+        "Human evaluation of grammatical error correction systems",
+        "Thoughts on word and sentence segmentation in Thai",
+        "Online passive-aggressive algorithms",
+        "Building a large annotated corpus of learner English: The NUS corpus of learner English",
+        "The effect of learner corpus size in grammatical error correction of ESL writings"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nontaburi",
+            "@id": "122490113",
+            "affilname": "Kasikorn Labs",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/122490113",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Kasikorn Business Technology Group",
+        "Chulalongkorn University"
+    ]
+}

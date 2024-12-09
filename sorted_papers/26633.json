@@ -1,0 +1,85 @@
+{
+    "eid": "2-s2.0-85153870545",
+    "title": "Efficient Traffic Management For Resolving Traffic Congestion On Motorways",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "style",
+        "Traffic formulation",
+        "Vehicle Platooning",
+        "vehicle to vehicle"
+    ],
+    "authors": [
+        "Muhammad Arslan",
+        "Rana Abu Bakar",
+        "Abdul Ahad"
+    ],
+    "citedby-count": 0,
+    "ref-count": 16,
+    "ref-list": [
+        "A survey of motion planning and control techniques for self-driving urban vehicles",
+        "A survey on the coordination of connected and automated vehicles at intersections and merging at highway on-ramps",
+        "Coordinating vehicle platoons for highway bottleneck decongestion and throughput improvement",
+        "An Automated Detection Framework for Multiple Highway Bottleneck Activations",
+        "Platoon-based Vehicle Coordination Scheme for Resolving Sudden Traffic Jam in the IoV Era",
+        "ILRSH: Intelligent lane reservation system for highway (s)",
+        "Supporting vehicle-to-everything services by 5G new radio release-16 systems",
+        "LTE-V for sidelink 5G V2X vehicular communications: A new 5G technology for short-range vehicle-to-everything communications",
+        "Designing optimal autonomous vehicle sharing and reservation systems: A linear programming approach",
+        "Cooperative control of heterogeneous connected vehicle platoons: An adaptive leader-following approach",
+        "Platoon control of connected multi-vehicle systems under V2X communications: design and experiments",
+        "Vehicle dynamics and control",
+        "Cooperative adaptive cruise control in real traffic situations",
+        "Plexe: A platooning extension for Veins",
+        "Smart cities: Fusion-based intelligent traffic congestion control system for vehicular networks using machine learning techniques",
+        "Review of learning-based longitudinal motion planning for autonomous vehicles: research gaps between self-driving and traffic congestion"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Sahiwal",
+            "@id": "124173488",
+            "affilname": "University of Sahiwal",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/124173488",
+            "affiliation-country": "Pakistan"
+        }
+    ],
+    "funding": []
+}

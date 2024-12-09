@@ -1,0 +1,69 @@
+{
+    "eid": "2-s2.0-85059965712",
+    "title": "Deep Learning for Stock Market Prediction Using Event Embedding and Technical Indicators",
+    "cover-date": "2018-11-20",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Convolutional Neural Network",
+        "Deep Learning",
+        "Event Embedding",
+        "Long Short-term Memory",
+        "Stock Market Prediction"
+    ],
+    "authors": [
+        "Pisut Oncharoen",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 45,
+    "ref-count": 21,
+    "ref-list": [
+        "Application of neural network to technical analysis of stock market prediction",
+        "Forecasting the NYSE composite index with technical analysis, pattern recognizer, neural network, and genetic algorithm: A case study in romantic decision support",
+        "Borsa istanbul (BIST) daily prediction using financial news and balanced feature selection",
+        "A novel text mining approach to financial time series forecasting",
+        "Textual analysis of stock market prediction using breaking financial news: The AZFin text system",
+        "Using structured events to predict stock price movement: An empirical investigation",
+        "Deep learning for eventdriven stock prediction",
+        "Stock Market's price movement prediction with LSTM neural networks",
+        "Deep learning for stock prediction using numerical and textual information",
+        "Deep learning for stock market prediction from financial news articles",
+        "A new model for stock price movements prediction using deep neural network",
+        "Combining news and technical indicators in daily stock price trends prediction",
+        "GloVe: Global vectors for word representation",
+        "Mining of concurrent text and time series",
+        "Dropout: A simple way to prevent neural networks from overfitting"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

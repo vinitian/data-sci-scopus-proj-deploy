@@ -1,0 +1,83 @@
+{
+    "eid": "2-s2.0-85129611354",
+    "title": "Dynamic Slicing of Time Petri Net Based on MTL Property",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Dynamic slicing",
+        "global firing dependency graph",
+        "metric temporal logic",
+        "real-time systems",
+        "slicing for verification",
+        "state space reduction",
+        "structural reduction",
+        "time Petri net"
+    ],
+    "authors": [
+        "P. Chariyathitipong",
+        "W. Vatanawood"
+    ],
+    "citedby-count": 0,
+    "ref-count": 33,
+    "ref-list": [
+        "An enumerative approach for analyzing time Petri nets",
+        "Efficient reachability analysis for time Petri nets",
+        "Verification of reachability properties for time Petri nets",
+        "On-the-fly symbolic model checking for real-time systems",
+        "On the fly model-checking of TPN: TPN TCTL1h",
+        "On-the-fly TCTL model checking for time Petri nets using state class graphs",
+        "A new product construction for the diagnosability of patterns in time Petri net",
+        "Towards efficient partial order techniques for time Petri nets",
+        "Delay-dependent partial order reduction technique for real time systems",
+        "Start pruning when time gets urgent: Partial order reduction for timed systems",
+        "On persistency in time Petri nets",
+        "Stubborn sets for time Petri nets",
+        "Symmetry reduction for time Petri net state classes",
+        "Reduction rules for time Petri nets",
+        "Property preservation of time Petri net reduction",
+        "Temporal reduction in time Petri net",
+        "Compositional time Petri nets and reduction rules",
+        "Evaluation of program slicing in software verification",
+        "Slicing-based reductions for Rebeca",
+        "Slicing behavior tree models for verification",
+        "Compositional verification of data invariants in Promela using slicing technique",
+        "Issues in slicing PROMELA and its applications to model checking, protocol understanding, and simulation",
+        "A framework for verification of SystemC TLM programs with model slicing: A case study",
+        "Slicing of timed automata with discrete data",
+        "Slicing for UPPAAL",
+        "Safety slicing Petri nets",
+        "Slicing Petri nets with an application to workflow verification",
+        "Performance of static slicing algorithms for Petri nets",
+        "Dynamic slicing techniques for Petri nets",
+        "Dynamic slicing of Petri nets based on structural dependency graph and its application in system analysis",
+        "Maintaining knowledge about temporal intervals",
+        "Reachability analysis of real-time systems using time Petri nets"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

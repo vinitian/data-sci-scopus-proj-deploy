@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85056104659",
+    "title": "Integrating the importance levels of friends into trust-based ant-colony recommender systems",
+    "cover-date": "2019-03-07",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Ant-colony optimization",
+        "Ant-colony system",
+        "Collaborative filtering",
+        "Recommender systems"
+    ],
+    "authors": [
+        "Phannakan Tengkiattrakul",
+        "Saranya Maneeroj",
+        "Atsuhiro Takasu"
+    ],
+    "citedby-count": 0,
+    "ref-count": 23,
+    "ref-list": [
+        "Supporting trust in virtual communities",
+        "Trust based recommender system using ant colony for trust computation",
+        "Improving the recommendation accuracy for cold-start users in trust-based recommender systems",
+        "Rating pattern formation for better recommendation",
+        "Propagation of trust and distrust",
+        "All Friends are not equal: using weights in social graphs to improve search",
+        "An index to quantify an individual\u2019s scientific research output",
+        "TrustWalker: a random walk model for combining trust-based and item-based recommendation",
+        "Semantic constraints for trust transitivity",
+        "Analysing topologies of transitive trust",
+        "Collaborating trust and item-prediction with ant colony for recommendation",
+        "Learning to recommend with social trust ensemble",
+        "Trust-aware recommender systems",
+        "Using trust in recommender systems: an experimental analysis",
+        "Trust in recommender systems",
+        "Trust-based recommender systems: an overview",
+        "Applying ant-colony concept to trust-based recommender systems",
+        "The small-world trust network",
+        "Improved trust-aware recommender system using small-worldness of trust networks",
+        "Elevating prediction accuracy in trust-aware collaborative filtering recommenders through T-index metric and TopTrustee lists"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Hayama",
+            "@id": "60021523",
+            "affilname": "The Graduate University for Advanced Studies",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021523",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60028928",
+            "affilname": "Research Organization of Information and Systems National Institute of Informatics",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028928",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Japan Society for the Promotion of Science"
+    ]
+}

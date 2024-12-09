@@ -1,0 +1,87 @@
+{
+    "eid": "2-s2.0-85141992661",
+    "title": "A Smart Direct Load Control Approach Using Dynamic Voltage Control for Demand Response Programs",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "demand response",
+        "direct load control",
+        "domestic loads",
+        "dynamic voltage control",
+        "PV systems"
+    ],
+    "authors": [
+        "Onur Elma",
+        "Murat Kuzlu",
+        "Manisa Pipattanasomporn"
+    ],
+    "citedby-count": 0,
+    "ref-count": 32,
+    "ref-list": [
+        "Demand response for residential appliances via customer reward scheme",
+        "Smart homes: A domestic demand response and demand-side energy management system for future smart grids",
+        "Hardware demonstration of a home energy management system for demand response applications",
+        "An algorithm for intelligent home energy management and demand response analysis",
+        "Load profiles of selected major household appliances and their demand response opportunities",
+        "An architecture for enabling distributed plug load control for commercial building demand response",
+        "Demand response management of smart grids using dynamic pricing",
+        "Internet-based communication platform for residential DR programmes",
+        "Active sensing approach to electrical load\u2019 classification by smart plug",
+        "One type of smart meter with demand control Local demand response with smart meter",
+        "Load shedding and smart-direct load control using internet of things in smart grid demand response management",
+        "A new home energy management algorithm with voltage control in a smart home environment",
+        "Load modeling\u2014A review",
+        "Experimental determination of ZIP coefficients for modern residential, commercial and industrial loads",
+        "Component based aggregate load models for combined power flow and harmonic analysis",
+        "Experimental determination of ZIP coefficients for residential appliances and ZIP model based appliance identification: The case of YTU smart home",
+        "Performance evaluation of the ZIP model-phaselet frame approach for identifying appliances in residential loads",
+        "A quantification of the energy savings by conservation voltage reduction",
+        "A robust building energy management algorithm validated in a smart house environment",
+        "Smart grid-ready concept of a smart home prototype: A demonstration project in YTU"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Canakkale",
+            "@id": "60019519",
+            "affilname": "\u00c7anakkale Onsekiz Mart \u00dcniversitesi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019519",
+            "affiliation-country": "Turkey"
+        },
+        {
+            "affiliation-city": "Norfolk",
+            "@id": "60007652",
+            "affilname": "Old Dominion University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007652",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Istanbul Development Agency"
+    ]
+}

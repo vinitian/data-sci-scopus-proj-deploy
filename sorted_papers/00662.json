@@ -1,0 +1,83 @@
+{
+    "eid": "2-s2.0-85063265740",
+    "title": "Appliance Classification Method Based on K-Nearest Neighbors for Home Energy Management System",
+    "cover-date": "2019-02-20",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mechanics",
+            "@code": "2206",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Appliance Classification",
+        "Home Energy Management System",
+        "KNN classifier",
+        "Smart Plug-In"
+    ],
+    "authors": [
+        "Thanh Dat Nguyen",
+        "Truong Dong Do",
+        "My Ha Le",
+        "Ngoc Thien Le",
+        "Watit Benjapolakul"
+    ],
+    "citedby-count": 9,
+    "ref-count": 9,
+    "ref-list": [
+        "Machine learning approaches for electric appliance classification",
+        "Real time identification of electrical devices through power consumption pattern detection",
+        "EMeter: An interactive energy monitor",
+        "Real time identification of electrical devices through power consumption pattern detection",
+        "IoTBased smart plug-in device for home energy management system"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60112735",
+            "affilname": "HCMC University of Technology and Education",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60112735",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60109585",
+            "affilname": "University of Architecture Ho Chi Minh City",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60109585",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85053463395",
+    "title": "Diagnosis of Heart Disease Using a Mixed Classifier",
+    "cover-date": "2018-08-21",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "back-propagation learning",
+        "data mining",
+        "heart disease",
+        "k-nearest neighbor method",
+        "multi-layer perceptron",
+        "na\u00ef ve bayes approach",
+        "support vector machine"
+    ],
+    "authors": [
+        "Sarawut Meesri",
+        "Suphakant Phimoltares",
+        "Atchara Mahaweerawat"
+    ],
+    "citedby-count": 2,
+    "ref-count": 11,
+    "ref-list": [
+        "Diagnosis of heart disease using data mining algorithm",
+        "An ensemble based decision support framework for intelligent heart disease diagnosis",
+        "Neural network diagnosis of heart disease",
+        "Diagnosing of heart diseases using average k-nearest neighbor algorithm of data mining",
+        "Classification and prediction of heart disease risk using data mining techniques of Support Vector Machine and Artificial Neural Network",
+        "Comparison of data mining classification algorithms for breast cancer prediction",
+        "A comparative study of breast cancer detection based on SVM and MLP BPN classifier",
+        "Prediction of diseases by cascading clustering and classification"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022676",
+            "affilname": "Ramkhamhaeng University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022676",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

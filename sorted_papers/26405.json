@@ -1,0 +1,93 @@
+{
+    "eid": "2-s2.0-85062224724",
+    "title": "Nonlinear model predictive control of inverted pendulum using iterative steepest descent algorithm",
+    "cover-date": "2019-01-18",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Inverted pendulum",
+        "Nonlinear model predictive control",
+        "Nonlinear systems",
+        "Optimal control"
+    ],
+    "authors": [
+        "Petchakrit Pinyopawasutthi",
+        "David Banjerdpongchai",
+        "Yasuaki Oishi"
+    ],
+    "citedby-count": 0,
+    "ref-count": 11,
+    "ref-list": [
+        "Global optimal feedback control for general nonlinear systems with nonquadratic performance criteria",
+        "Feedback control methodologies for nonlinear systems",
+        "Galerkin approximations of the generalized Hamilton-Jacobi-Bellman equation",
+        "Case studies on the application of the stable manifold approach for nonlinear optimal control design",
+        "From linear to nonlinear MPC: Bridging the gap via the real-time iteration",
+        "A general framework to design stabilizing nonlinear model predictive controllers",
+        "Nonlinear model predictive tracking control for rotorcraft-based unmanned aerial vehicles",
+        "Real-time optimization algorithm for nonlinear receding-horizon control",
+        "Output-feedback nonlinear model predictive control using high-gain observers in original coordinates",
+        "Nonlinear model predictive control: From theory to application"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nagoya",
+            "@id": "122021262",
+            "affilname": "Nazan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/122021262",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Department of Electrical Engineering, Chulalongkorn University"
+    ]
+}

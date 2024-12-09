@@ -1,0 +1,105 @@
+{
+    "eid": "2-s2.0-85123918095",
+    "title": "Handling Cross- and Out-of-Domain Samples in Thai Word Segmentation",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Language and Linguistics",
+            "@code": "1203",
+            "@abbrev": "ARTS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Linguistics and Language",
+            "@code": "3310",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Peerat Limkonchotiwat",
+        "Wannaphong Phatthiyaphaibun",
+        "Raheem Sarwar",
+        "Ekapol Chuangsuwanich",
+        "Sarana Nutanong"
+    ],
+    "citedby-count": 8,
+    "ref-count": 52,
+    "ref-list": [
+        "Universal Dependencies Version 2 for Japanese",
+        "Neural regularized domain adaptation for Chinese word segmentation",
+        "Ethical research protocols for social media health research",
+        "Urdu word segmentation using conditional random fields (CRFs)",
+        "Best corpus development and analysis",
+        "Language models are few-shot learners",
+        "Optimizing Chinese Word Segmentation for Machine Translation Performance",
+        "Towards interpretable clinical diagnosis with Bayesian network ensembles stacked on entity-aware CNNs",
+        "Enhance robustness of sequence la-belling with masked adversarial training",
+        "Adversarial multi-criteria learning for Chinese word segmentation",
+        "Syllable-based Neural Thai Word Segmentation",
+        "Robust Chinese Word Segmentation with Contextualized Word Representations",
+        "Coupling distant annotation and adversarial training for cross-domain Chinese word segmentation",
+        "Attention is all you need for Chinese word segmentation",
+        "The second international chinese word segmentation bakeoff",
+        "RethinkCWS: Is Chinese word segmentation a solved task?",
+        "A maximum-entropy chinese parser augmented by transformation-based learning",
+        "Long short-term memory",
+        "A comparative study of pretrained language models on thai social text categorization",
+        "A joint multiple criteria model in transfer learning for cross-domain Chinese word segmentation",
+        "Single model ensemble using pseudo-tags and distinct vectors",
+        "Conditional augmentation for aspect term extraction via masked sequence-to-sequence generation",
+        "Probabilistically masked language model capable of autoregressive generation in arbitrary word order",
+        "Domain adaptation of Thai word segmentation models using stacked ensemble",
+        "Neural chinese word segmentation with lexicon and unlabeled data via posterior regularization",
+        "Probabilistic ensemble learning for vietnamese word segmentation",
+        "Domain adaptation for CRF-based Chinese word segmentation using free annotations",
+        "State-of-the-art Chinese word segmentation with BiLSTMs",
+        "Balanced corpus of contemporary written Japanese",
+        "NLP-based feature extraction for the detection of COVID-19 misinformation videos on YouTube",
+        "Bosonnlp: An ensemble approach for word segmentation and pos tagging",
+        "Word segmentation of informal Arabic with domain adaptation",
+        "SSMBA: Self-supervised manifold based data augmentation for improving out-of-domain robustness",
+        "From word segmentation to POS tagging for Vietnamese",
+        "A feature-based ensemble approach to recognition of emerging and rare named entities",
+        "Stacked ensembles of information extractors for knowledge-base population",
+        "Treebank embedding vectors for out-of-domain dependency parsing",
+        "Unsupervised learning helps supervised neural word segmentation",
+        "NCRF++: An open-source neural sequence labeling toolkit",
+        "Xlnet: Generalized autoregressive pretraining for language understanding",
+        "Simple data augmentation with the mask token improves domain adaptation for dialog act tagging",
+        "Exploring representations from unlabeled data with co-training for Chinese word segmentation",
+        "Segmentation-free multi-font printed manchu word recognition using deep convolutional features and data augmentation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Khon Kaen",
+            "@id": "60017165",
+            "affilname": "Khon Kaen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017165",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Wolverhampton",
+            "@id": "60007173",
+            "affilname": "University of Wolverhampton",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007173",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "116353786",
+            "affilname": "VISTEC",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/116353786",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

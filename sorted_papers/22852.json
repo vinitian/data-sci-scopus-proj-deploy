@@ -1,0 +1,135 @@
+{
+    "eid": "2-s2.0-85124627440",
+    "title": "Towards improving coherence and diversity of slogan generation",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Language and Linguistics",
+            "@code": "1203",
+            "@abbrev": "ARTS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Linguistics and Language",
+            "@code": "3310",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Natural language generation",
+        "Sequence-to-sequence model",
+        "Slogan generation"
+    ],
+    "authors": [
+        "Yiping Jin",
+        "Akshay Bhatia",
+        "Dittaya Wanvarie",
+        "Phu T.V. Le"
+    ],
+    "citedby-count": 1,
+    "ref-count": 75,
+    "ref-list": [
+        "Personalized ad delivery when ads fatigue: An approximation algorithm",
+        "A learning algorithm for boltzmann machines",
+        "Computational generation of slogans",
+        "Leveraging linguistic structure for open domain information extraction",
+        "Neural machine translation by jointly learning to align and translate",
+        "A dynamic model for digital advertising: The effects of creative format, message content, and targeting on engagement",
+        "Language gans falling short",
+        "Factual error correction for abstractive summarization models",
+        "Faithful to the original: Fact aware neural abstractive summarization",
+        "Improving faithfulness in abstractive summarization with contrast candidate generation and selection",
+        "Learning phrase representations using RNN encoder-decoder for statistical machine translation",
+        "A coefficient of agreement for nominal scales",
+        "Bert: Pre-training of deep bidirectional transformers for language understanding",
+        "Multi-fact correction in abstractive text summarization",
+        "Feqa: A question answering evaluation framework for faithfulness assessment in abstractive summarization",
+        "Question answering as an automatic evaluation metric for news article summarization",
+        "Ranking generated summaries by correctness: An interesting but challenging application for natural language inference",
+        "Hierarchical neural story generation",
+        "GO FIGURE: A meta evaluation of factuality in summarization",
+        "Jointly optimizing diversity and relevance in neural response generation",
+        "Slogans are not forever: Adapting linguistic expressions to the news",
+        "To sing like a mockingbird",
+        "Assessing the factual accuracy of generated text",
+        "Bag of tricks for image classification with convolutional neural networks",
+        "Teaching machines to read and comprehend",
+        "Long short-term memory",
+        "The curious case of neural text degeneration",
+        "Fastai: A layered API for deep learning",
+        "DYPLOC: Dynamic planning of content using mixed language models for text generation",
+        "Generating better search engine text advertisements with deep reinforcement learning",
+        "Japanese advertising slogan generator using case frame and word vector",
+        "Hooks in the headline: Learning to generate headlines with controlled styles",
+        "Ad headline generation using self-critical masked language model",
+        "Sentence position revisited: A robust light-weight update summarization 'baseline' algorithm",
+        "Evaluating the factual consistency of abstractive text summarization",
+        "BART: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension",
+        "The optimum length of advertising headline",
+        "Effective approaches to attention-based neural machine translation",
+        "Improving truthfulness of headline generation",
+        "On faithfulness and factuality in abstractive summarization",
+        "Tradition and innovation: Proverbs in advertising",
+        "Distributed representations of words and phrases and their compositionality",
+        "Distinctive slogan generation with reconstruction",
+        "Learning to create better ads: Generation and ranking approaches for ad creative refinement",
+        "Persuaide! an adaptive persuasive text generation system for fashion domain",
+        "Entity-level factual consistency of abstractive text summarization",
+        "Bi-directional differentiable input reconstruction for low-resource neural machine translation",
+        "Brainsup: Brainstorming support for creative sentence generation",
+        "Understanding factuality in abstractive summarization with frank: A benchmark for factuality metrics",
+        "Impact of advertising metaphor on consumer belief: Delineating the contribution of comparison versus deviation factors",
+        "Stanza: A python natural language processing toolkit for many human languages",
+        "Language models are unsupervised multitask learners",
+        "A primer in bertology: What we know about how bert works",
+        "Answers unite! unsupervised metrics for reinforced summarization models",
+        "Get to the point: Summarization with pointer-generator networks",
+        "AESOP: Paraphrase generation with adaptive syntactic control",
+        "Sequence to sequence learning with neural networks",
+        "Bert rediscovers the classical NLP pipeline",
+        "Implementation of a slogan generator",
+        "Attention is all you need",
+        "Enabling hyper-personalisation: Automated ad creative generation and ranking for fashion e-commerce",
+        "Asking and answering questions to evaluate the factual consistency of summaries",
+        "Neural text generation with unlikelihood training",
+        "Creativity: The X factor in advertising theory",
+        "A broad-coverage challenge corpus for sentence understanding through inference",
+        "Transformers: State-of-the-art natural language processing",
+        "Trading off diversity and quality in natural language generation",
+        "Pegasus: Pre-training with extracted gap-sentences for abstractive summarization",
+        "Optimizing the factual correctness of a summary: A study of summarizing radiology reports",
+        "Enhancing factual consistency of abstractive summarization"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "125848645",
+            "affilname": "Knorex",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125848645",
+            "affiliation-country": "Singapore"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

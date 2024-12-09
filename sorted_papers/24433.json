@@ -1,0 +1,85 @@
+{
+    "eid": "2-s2.0-85153179096",
+    "title": "The Maxwell-Burr X Distribution: Its Properties and Applications to the COVID-19 Mortality Rate in Thailand",
+    "cover-date": "2023-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Statistics and Probability",
+            "@code": "2613",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "hazard function",
+        "maximum likelihood estimation",
+        "Maxwell generalized family",
+        "model selection criteria",
+        "quantile function"
+    ],
+    "authors": [
+        "Kamonrut Koobubpha",
+        "Thap Panitanarak",
+        "Pornanan Domthong",
+        "Uthumporn Panitanarak"
+    ],
+    "citedby-count": 0,
+    "ref-count": 20,
+    "ref-list": [
+        "The Maxwell-Exponential Distribution: Theory and Application to Lifetime Data",
+        "Empirical bayes estimation of P Y( < X) and characterizations of Burr-Type X model",
+        "A New Version of the Exponentiated Burr X distribution",
+        "Marshall-Olkin Extended Burr Type XII Distribution",
+        "A new method for generating families of continuous distributions",
+        "Cumulative frequency functions",
+        "Theoria Motus Corporum Coelestium in Sectionibus Conicis Solem Ambientium",
+        "Bayesian estimation of the parameter of Maxwell-Mukherjee Islam distribution using assumptions of the extended Jeffrey\u2019s, Inverse-Rayleigh and Inverse-Nakagami priors under the three loss functions",
+        "The Maxwell Weibull distribution in modeling lifetime datasets",
+        "Bayesian approach to prediction with outliers from the Burr type X model",
+        "Beta Burr type X with application to rainfall data",
+        "New extension of Burr type X distribution properties with application",
+        "Illustrations of the dynamical theory of gases",
+        "The beta Burr type X distribution properties with application",
+        "Order statistics from the Burr type X model",
+        "Bayes prediction bounds for the Burr type X model",
+        "Inference for P Y( < X) in the Burr type X model",
+        "Inference for reliability and stress-strength for a scaled Burr type X distribution"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Khon Kaen",
+            "@id": "60017165",
+            "affilname": "Khon Kaen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017165",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Khon Kaen",
+            "@id": "60012921",
+            "affilname": "Khon Kaen Regional Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012921",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60012718",
+            "affilname": "Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012718",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

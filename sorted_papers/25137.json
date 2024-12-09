@@ -1,0 +1,67 @@
+{
+    "eid": "2-s2.0-85065969173",
+    "title": "City Link: Finding Similar Areas in Two Cities Using Twitter Data",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "City similarity",
+        "Crowd-sourcing",
+        "Doc2Vec",
+        "Map visualization",
+        "Social media"
+    ],
+    "authors": [
+        "Wannita Takerngsaksiri",
+        "Shoko Wakamiya",
+        "Eiji Aramaki"
+    ],
+    "citedby-count": 0,
+    "ref-count": 13,
+    "ref-list": [
+        "The shortest path to happiness: Recommending beautiful, quiet, and happy routes in the city",
+        "Smelly maps: The digital life of urban smellscapes",
+        "Chatty maps: Constructing sound maps of urban areas from social media data",
+        "Towards detecting influenza epidemics by analyzing Twitter messages",
+        "Predicting the Brexit vote by tracking and classifying public opinion using Twitter data",
+        "Predicting crime using Twitter and Kernel density estimation",
+        "Predicting elections with Twitter: What 140 characters reveal about political sentiment",
+        "Twitter location (Sometimes) matters: Exploring the relationship between georeferenced tweet content and nearby feature classes",
+        "Exploring venue-based city-to-city similarity measures",
+        "Search as if you were in your home town: Geographic search by regional context and dynamic feature-space selection",
+        "A tale of two (Similar) cities: Inferring city similarity through geo-spatial query log analysis"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ikoma",
+            "@id": "60025017",
+            "affilname": "Nara Institute of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025017",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "AMED",
+        "JSPS",
+        "MIC"
+    ]
+}

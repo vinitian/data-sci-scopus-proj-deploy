@@ -1,0 +1,144 @@
+{
+    "eid": "2-s2.0-85163053530",
+    "title": "Evaluation of deep learning and convolutional neural network algorithms accuracy for detecting and predicting anatomical landmarks on 2D lateral cephalometric images: A systematic review and meta-analysis",
+    "cover-date": "2023-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Dentistry (all)",
+            "@code": "3500",
+            "@abbrev": "DENT"
+        }
+    ],
+    "keywords": [
+        "Accuracy",
+        "Artificial intelligence",
+        "Convolutional neural network",
+        "Lateral cephalometry",
+        "Machine learning",
+        "Orthodontics"
+    ],
+    "authors": [
+        "Jimmy Londono",
+        "Shohreh Ghasemi",
+        "Altaf Hussain Shah",
+        "Amir Fahimipour",
+        "Niloofar Ghadimi",
+        "Sara Hashemi",
+        "Zohaib Khurshid",
+        "Mahmood Dashti"
+    ],
+    "citedby-count": 0,
+    "ref-count": 56,
+    "ref-list": [
+        "The accuracy of linear and angular measurements in the different regions of the jaw in cone-beam computed tomography views",
+        "Automation of Cephalometrics Using Machine Learning Methods",
+        "The validity of machine learning procedures in orthodontics: what is still missing?",
+        "Applications of artificial intelligence and machine learning in orthodontics: a scoping review",
+        "Cephalometry in orthodontics: 2D and 3D",
+        "Decision Support System for Orthgnathic diagnosis and treatment planning based on machine learning",
+        "Validity of 2D lateral cephalometry in orthodontics: a systematic review",
+        "Stress distribution in 5-Unit fixed partial dentures with a pier abutment and rigid and nonrigid connectors with two different occlusal schemes: a three-dimensional finite element analysis",
+        "Automated 2-D cephalometric analysis of X-ray by image registration approach based on least square approximator",
+        "Automatic identification and localization of craniofacial landmarks using multi layer neural network",
+        "Accuracy of 3D cephalometric measurements based on an automatic knowledge-based landmark detection algorithm",
+        "Significance of cephalometric radiograph in orthodontic treatment plan decision",
+        "Quantifying heterogeneity in a meta-analysis",
+        "Cephalometric analysis: manual tracing of a lateral cephalogram. S Afr",
+        "Evaluation of automated cephalometric analysis based on the latest deep learning method",
+        "Artificial intelligence system for automated landmark localization and analysis of cephalometry",
+        "The challenge of eHealth data in orthodontics",
+        "Adding depth to cephalometric analysis: comparing two- and three-dimensional angular cephalometric measurements",
+        "A review on cephalometric landmark detection techniques",
+        "Automatic cephalometric landmark identification system based on the multi-stage convolutional neural networks with CBCT combination images",
+        "Web-based fully automated cephalometric analysis by deep learning",
+        "Usage and comparison of artificial intelligence algorithms for determination of growth and development by cervical vertebrae stages in orthodontics",
+        "Automated cephalometric landmark detection with confidence regions using Bayesian convolutional neural networks",
+        "Machine learning in orthodontics: challenges and perspectives",
+        "Evaluation of histogram equalization and contrast limited adaptive histogram equalization effect on image quality and fractal dimensions of digital periapical radiographs",
+        "Machine learning and orthodontics, current trends and the future opportunities: a scoping review",
+        "Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement",
+        "Automatic 3-dimensional cephalometric landmarking based on active shape models in related projections",
+        "Deep anatomical context feature learning for cephalometric landmark detection",
+        "Artificial intelligence-creating the future in orthodontics-a review",
+        "Applying artificial intelligence to assess the impact of orthognathic treatment on facial attractiveness and estimated age",
+        "Evolution of cephalometric analysis of orthodontic diagnosis",
+        "Convolution neural network based automatic localization of landmarks on lateral x-ray images",
+        "Comparative validation of the mixed and permanent dentition at web-based artificial intelligence cephalometric analysis",
+        "Automatic cephalometric landmark detection on X-ray images using a deep-learning method",
+        "An efficient deep learning based coarse-to-fine cephalometric landmark detection method",
+        "Tapping on the black box: how is the scoring power of a machine-learning scoring function dependent on the training set?",
+        "Present and future of artificial intelligence in dentistry",
+        "Automated cephalometry: system performance reliability using landmark-dependent criteria",
+        "Machine/deep learning for performing orthodontic diagnoses and treatment planning",
+        "Imaging in Orthodontics",
+        "Performance of a convolutional neural network- based artificial intelligence algorithm for automatic cephalometric landmark detection",
+        "Conducting meta-analyses in R with the metafor package",
+        "Automatic analysis of lateral cephalograms based on multiresolution decision tree regression voting",
+        "QUADAS-2: a revised tool for the quality assessment of diagnostic accuracy studies",
+        "Automatic localization of cephalometric landmarks based on convolutional neural network",
+        "Fully automated identification of cephalometric landmarks for upper airway assessment using cascaded convolutional neural networks",
+        "Evaluation of facial attractiveness for patients with malocclusion: a machine-learning technique employing Procrustes",
+        "Automated 2-D cephalometric analysis on X-ray images by a model-based approach",
+        "Cascaded convolutional networks for automatic cephalometric landmark detection"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Augusta",
+            "@id": "60105348",
+            "affilname": "Augusta University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60105348",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Tehran",
+            "@id": "60113484",
+            "affilname": "SBUMS School of Dentistry",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60113484",
+            "affiliation-country": "Iran"
+        },
+        {
+            "affiliation-city": "Tehran",
+            "@id": "60031777",
+            "affilname": "Islamic Azad University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031777",
+            "affiliation-country": "Iran"
+        },
+        {
+            "affiliation-city": "Al-Ahsa",
+            "@id": "60030736",
+            "affilname": "King Faisal University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030736",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Isfahan",
+            "@id": "60020609",
+            "affilname": "Isfahan University of Medical Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020609",
+            "affiliation-country": "Iran"
+        },
+        {
+            "affiliation-city": "Sydney",
+            "@id": "60013292",
+            "affilname": "The University of Sydney School of Dentistry",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013292",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Riyadh",
+            "@id": "60013183",
+            "affilname": "King Saud University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013183",
+            "affiliation-country": "Saudi Arabia"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,471 @@
+{
+    "eid": "2-s2.0-85122487727",
+    "title": "Global guideline for the diagnosis and management of the endemic mycoses: an initiative of the European Confederation of Medical Mycology in cooperation with the International Society for Human and Animal Mycology",
+    "cover-date": "2021-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Infectious Diseases",
+            "@code": "2725",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "George R. Thompson",
+        "Thuy Le",
+        "Ariya Chindamporn",
+        "Carol A. Kauffman",
+        "Ana Alastruey-Izquierdo",
+        "Neil M. Ampel",
+        "David R. Andes",
+        "Darius Armstrong-James",
+        "Olusola Ayanlowo",
+        "John W. Baddley",
+        "Bridget M. Barker",
+        "Leila Lopes Bezerra",
+        "Maria J. Buitrago",
+        "Leili Chamani-Tabriz",
+        "Jasper F.W. Chan",
+        "Methee Chayakulkeeree",
+        "Oliver A. Cornely",
+        "Cao Cunwei",
+        "Jean Pierre Gangneux",
+        "Nelesh P. Govender",
+        "Ferry Hagen",
+        "Mohammad T. Hedayati",
+        "Tobias M. Hohl",
+        "Gr\u00e9gory Jouvion",
+        "Chris Kenyon",
+        "Christopher C. Kibbler",
+        "Nikolai Klimko",
+        "David C.M. Kong",
+        "Robert Krause",
+        "Low Lee Lee",
+        "Graeme Meintjes",
+        "Marisa H. Miceli",
+        "Peter Michael Rath",
+        "Andrej Spec",
+        "Flavio Queiroz-Telles",
+        "Ebrahim Variava",
+        "Paul E. Verweij",
+        "Ilan S. Schwartz",
+        "Alessandro C. Pasqualotto"
+    ],
+    "citedby-count": 55,
+    "ref-count": 73,
+    "ref-list": [
+        "Global guideline for the diagnosis and management of mucormycosis: an initiative of the European Confederation of Medical Mycology in cooperation with the Mycoses Study Group Education and Research Consortium",
+        "Phylogeographic analysis of Blastomyces dermatitidis and Blastomyces gilchristii reveals an association with North American freshwater drainage basins",
+        "Blastomyces helicus, a new dimorphic fungus causing fatal pulmonary and systemic disease in humans and animals in western Canada and the United States",
+        "Diagnosis of blastomycosis in surgical pathology and cytopathology: correlation with microbiologic culture",
+        "Detection of Blastomyces dermatitidis antigen in patients with newly diagnosed blastomycosis",
+        "Recurrent blastomycosis of the central nervous system: case report and review",
+        "Itraconazole therapy for blastomycosis and histoplasmosis",
+        "Treatment of blastomycosis with fluconazole: a pilot study",
+        "Treatment of blastomycosis with higher doses of fluconazole",
+        "Successful treatment of cerebral blastomycosis with voriconazole",
+        "Isavuconazole treatment of cryptococcosis and dimorphic mycoses",
+        "Successful use of posaconazole for treatment of blastomycosis",
+        "Management and outcomes of acute respiratory distress syndrome caused by blastomycosis: a retrospective case series",
+        "Coccidioidomycosis",
+        "Coccidioidomycosis: epidemiology",
+        "The rise of Coccidioides: forces against the dust devil unleashed",
+        "Coccidioidomycosis complement fixation titer trends in the age of antifungals",
+        "Routine CSF analysis in coccidioidomycosis is not required",
+        "Characteristics of patients with mild to moderate primary pulmonary coccidioidomycosis",
+        "Factors and outcomes associated with the decision to treat primary pulmonary coccidioidomycosis",
+        "2016 Infectious Diseases Society of America (IDSA) clinical practice guideline for the treatment of coccidioidomycosis",
+        "Current concepts and future directions in the pharmacology and treatment of coccidioidomycosis",
+        "Human blastomycosis in South Africa caused by Blastomyces percursus and Blastomyces emzantsi sp. nov., 1967 to 2014",
+        "A novel dimorphic pathogen, Emergomyces orientalis (Onygenales), agent of disseminated infection",
+        "Chronic granulomatous lung infection caused by the dimorphic fungus Emmonsia sp",
+        "A dimorphic fungus causing disseminated infection in South Africa",
+        "Clinical characteristics, diagnosis, management, and outcomes of disseminated emmonsiosis: a retrospective case series",
+        "Antifungal susceptibility of emerging dimorphic pathogens in the family Ajellomycetaceae",
+        "AIDS-related endemic mycoses in Western Cape, South Africa, and clinical mimics: a cross-sectional study of adults with advanced HIV and recent-onset, widespread skin lesions",
+        "Neglected endemic mycoses",
+        "Histoplasmosis in Europe: report on an epidemiological survey from the European Confederation of Medical Mycology Working Group",
+        "Histoplasmosis in Africa: an emerging or a neglected disease?",
+        "A multicenter evaluation of tests for diagnosis of histoplasmosis",
+        "Comparison of diagnostic methods to detect Histoplasma capsulatum in serum and blood samples from AIDS patients",
+        "Safety and efficacy of liposomal amphotericin B compared with conventional amphotericin B for induction therapy of histoplasmosis in patients with AIDS",
+        "Clinical practice guidelines for the management of patients with histoplasmosis: 2007 update by the Infectious Diseases Society of America",
+        "Fluconazole therapy for histoplasmosis",
+        "Emergence of resistance to fluconazole as a cause of failure during treatment of histoplasmosis in patients with acquired immunodeficiency disease syndrome",
+        "Voriconazole versus Itraconazole for the initial and step-down treatment of histoplasmosis: a retrospective cohort",
+        "Histoplasmosis complicating tumor necrosis factor-\u03b1 blocker therapy: a retrospective analysis of 98 cases",
+        "Treatment options for paracoccidioidomycosis and new strategies investigated",
+        "Endemic regions of paracoccidioidomycosis in Brazil: a clinical and epidemiologic study of 584 cases in the southeast region",
+        "Guidelines in paracoccidioidomycosis",
+        "Serological diagnosis of paracoccidioidomycosis through a western blot technique",
+        "Serology of paracoccidioidomycosis",
+        "An open-label comparative pilot study of oral voriconazole and itraconazole for long-term treatment of paracoccidioidomycosis",
+        "Treatment of paracoccidioidomycosis with itraconazole",
+        "Comparison between itraconazole and cotrimoxazole in the treatment of paracoccidiodomycosis",
+        "Itraconazole vs. trimethoprim-sulfamethoxazole: a comparative cohort study of 200 patients with paracoccidioidomycosis",
+        "Sporotrichosis between 1898 and 2017: the evolution of knowledge on a changeable disease and on emerging etiological agents",
+        "Taxonomy and phylogeny of new wood- and soil-inhabiting Sporothrix species in the Ophiostoma stenoceras-Sporothrix schenckii complex",
+        "The threat of emerging and re-emerging pathogenic Sporothrix species",
+        "Sporothrix schenckii and sporotrichosis",
+        "Serologic studies in the diagnosis and management of meningitis due to Sporothrix schenckii",
+        "Development of an enzyme-linked immunosorbent assay for the serodiagnosis of several clinical forms of sporotrichosis",
+        "Treatment of cutaneous sporotrichosis with itraconazole\u2014study of 645 patients",
+        "Treatment of human cutaneous sporotrichosis with itraconazole",
+        "Comparative study of 250 mg/day terbinafine and 100 mg/day itraconazole for the treatment of cutaneous sporotrichosis",
+        "New posology of potassium iodide for the treatment of cutaneous sporotrichosis: study of efficacy and safety in 102 patients",
+        "Treatment of cutaneous sporotrichosis with one daily dose of potassium iodide",
+        "The difficult management of disseminated Sporothrix brasiliensis in a patient with advanced AIDS",
+        "Fungal infections in HIV/AIDS",
+        "Epidemiology and management of penicilliosis in human immunodeficiency virus-infected patients",
+        "Penicillium marneffei infection: an emerging disease in mainland China",
+        "Epidemiology, seasonality, and predictors of outcome of AIDS-associated Penicillium marneffei infection in Ho Chi Minh City, Viet Nam",
+        "Effects of Talaromyces marneffei infection on mortality of HIV/AIDS patients in southern China: a retrospective cohort study",
+        "Development and evaluation of a real-time polymerase chain reaction assay for the rapid detection of Talaromyces marneffei MP1 gene in human plasma",
+        "Evaluation of quantitative real-time PCR and Platelia galactomannan assays for the diagnosis of disseminated Talaromyces marneffei infection",
+        "A trial of itraconazole or amphotericin B for HIV-associated talaromycosis",
+        "A controlled trial of itraconazole to prevent relapse of Penicillium marneffei infection in patients infected with the human immunodeficiency virus",
+        "A controlled trial of itraconazole as primary prophylaxis for systemic fungal infections in patients with advanced human immunodeficiency virus infection in Thailand",
+        "Aspiring antifungals: review of current antifungal pipeline developments",
+        "Hope on the horizon: novel fungal treatments in development"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Cape Town",
+            "@id": "60000356",
+            "affilname": "University of Cape Town",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000356",
+            "affiliation-country": "South Africa"
+        },
+        {
+            "affiliation-city": "Johannesburg",
+            "@id": "60016218",
+            "affilname": "University of the Witwatersrand, Johannesburg",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016218",
+            "affiliation-country": "South Africa"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60009343",
+            "affilname": "Memorial Sloan-Kettering Cancer Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009343",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199575",
+            "affilname": "Siriraj Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199575",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60138292",
+            "affilname": "Oxford University Clinical Research Unit",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60138292",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Nanning",
+            "@id": "60121618",
+            "affilname": "The First Affiliated Hospital of Guangxi Medical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60121618",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Melbourne",
+            "@id": "60117340",
+            "affilname": "The Peter Doherty Institute for Infection and Immunity",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60117340",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Ann Arbor",
+            "@id": "60105937",
+            "affilname": "VA Ann Arbor Healthcare System",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60105937",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "60103563",
+            "affilname": "The University of Hong Kong Li Ka Shing Faculty of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103563",
+            "affiliation-country": "Hong Kong"
+        },
+        {
+            "affiliation-city": "Porto Alegre",
+            "@id": "60101670",
+            "affilname": "Universidade Federal de Ciencias da Sa\u00fade de Porto Alegre",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60101670",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "60086495",
+            "affilname": "The University of Hong Kong, State Key Laboratory of Emerging Infectious Diseases",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60086495",
+            "affiliation-country": "Hong Kong"
+        },
+        {
+            "affiliation-city": "Ann Arbor",
+            "@id": "60033182",
+            "affilname": "University of Michigan Medical School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60033182",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Utrecht",
+            "@id": "60032724",
+            "affilname": "University Medical Center Utrecht",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032724",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Madison",
+            "@id": "60032179",
+            "affilname": "University of Wisconsin-Madison",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032179",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Johannesburg",
+            "@id": "60031471",
+            "affilname": "National Institute for Communicable Diseases",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031471",
+            "affiliation-country": "South Africa"
+        },
+        {
+            "affiliation-city": "Rennes",
+            "@id": "60028893",
+            "affilname": "Centre Hospitalier Universitaire de Rennes",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028893",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Antwerpen",
+            "@id": "60028863",
+            "affilname": "Prins Leopold Instituut voor Tropische Geneeskunde",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028863",
+            "affiliation-country": "Belgium"
+        },
+        {
+            "affiliation-city": "Scottsdale",
+            "@id": "60026952",
+            "affilname": "Mayo Clinic Scottsdale-Phoenix, Arizona",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026952",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Majadahonda",
+            "@id": "60026457",
+            "affilname": "Centro Nacional de Microbiologia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026457",
+            "affiliation-country": "Spain"
+        },
+        {
+            "affiliation-city": "Koln",
+            "@id": "60024025",
+            "affilname": "Universit\u00e4t zu K\u00f6ln",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024025",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Flagstaff",
+            "@id": "60023517",
+            "affilname": "Northern Arizona University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023517",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "St. Louis",
+            "@id": "60022756",
+            "affilname": "Washington University School of Medicine in St. Louis",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022756",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60022148",
+            "affilname": "University College London",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022148",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Tucson",
+            "@id": "60021334",
+            "affilname": "University of Arizona College of Medicine \u2013 Tucson",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021334",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Edmonton",
+            "@id": "60019490",
+            "affilname": "University of Alberta, Faculty of Medicine and Dentistry",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019490",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Saint Petersburg",
+            "@id": "60017862",
+            "affilname": "North-Western State Medical University named after I.I. Mechnikov",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017862",
+            "affiliation-country": "Russian Federation"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60015150",
+            "affilname": "Imperial College London",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015150",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Curitiba",
+            "@id": "60015043",
+            "affilname": "Universidade Federal do Parana",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015043",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Davis",
+            "@id": "60014439",
+            "affilname": "University of California, Davis",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014439",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Baltimore",
+            "@id": "60012957",
+            "affilname": "University of Maryland School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012957",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Ballarat",
+            "@id": "60011735",
+            "affilname": "Ballarat Health Services",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011735",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Koln",
+            "@id": "60008658",
+            "affilname": "Uniklinik K\u00f6ln",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008658",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Essen",
+            "@id": "60007896",
+            "affilname": "Universit\u00e4tsklinikum Essen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007896",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Lagos",
+            "@id": "60006448",
+            "affilname": "University of Lagos",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006448",
+            "affiliation-country": "Nigeria"
+        },
+        {
+            "affiliation-city": "Graz",
+            "@id": "60006224",
+            "affilname": "Medizinische Universit\u00e4t Graz",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006224",
+            "affiliation-country": "Austria"
+        },
+        {
+            "affiliation-city": "Rio de Janeiro",
+            "@id": "60005499",
+            "affilname": "Universidade do Estado do Rio de Janeiro",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005499",
+            "affiliation-country": "Brazil"
+        },
+        {
+            "affiliation-city": "Durham",
+            "@id": "60005200",
+            "affilname": "Duke University School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005200",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Sacramento",
+            "@id": "60003160",
+            "affilname": "UC Davis Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003160",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nijmegen",
+            "@id": "60002573",
+            "affilname": "Radboud University Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002573",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Paris",
+            "@id": "60001772",
+            "affilname": "Institut Pasteur, Paris",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001772",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Utrecht",
+            "@id": "60001472",
+            "affilname": "Westerdijk Fungal Biodiversity Institute - KNAW",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001472",
+            "affiliation-country": "Netherlands"
+        },
+        {
+            "affiliation-city": "Paris",
+            "@id": "60001422",
+            "affilname": "Sorbonne Universit\u00e9",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001422",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Sari",
+            "@id": "60000780",
+            "affilname": "Faculty of Medicine MAZUMS",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000780",
+            "affiliation-country": "Iran"
+        },
+        {
+            "affiliation-city": "Alor Setar",
+            "@id": "127567225",
+            "affilname": "Hospital Sultanah Bayiyah",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/127567225",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Jinan",
+            "@id": "115791551",
+            "affilname": "Jining No. 1 People\u2019s Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/115791551",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Dubai",
+            "@id": "113086226",
+            "affilname": "Saudi German Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/113086226",
+            "affiliation-country": "United Arab Emirates"
+        },
+        {
+            "affiliation-city": "Porto Alegre",
+            "@id": "101917572",
+            "affilname": "Molecular Biology Laboratory",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101917572",
+            "affiliation-country": "Brazil"
+        }
+    ],
+    "funding": []
+}

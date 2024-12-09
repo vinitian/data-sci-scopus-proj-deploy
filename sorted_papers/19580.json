@@ -1,0 +1,56 @@
+{
+    "eid": "2-s2.0-85082300013",
+    "title": "Stock Return Prediction Using Dual-Stage Attention Model with Stock Relation Inference",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Deep learning",
+        "Dual-stage attention",
+        "Long Short-term memory model",
+        "Ranking-aware loss function",
+        "Stock prediction",
+        "Stock ranking"
+    ],
+    "authors": [
+        "Tanawat Chiewhawan",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 2,
+    "ref-count": 16,
+    "ref-list": [
+        "Efficient capital markets: A review of theory and empirical work",
+        "Reflections on the efficient market hypothesis: 30 years later",
+        "A dual-stage attention-based recurrent neural network for time series prediction",
+        "Temporal relational ranking for stock prediction",
+        "Evaluating multiple classifiers for stock price direction prediction",
+        "Predicting stock and stock price index movement using trend deterministic data preparation and machine learning techniques",
+        "Deep learning with long short-term memory networks for financial market predictions",
+        "A LSTM-based method for stock returns prediction: A case study of china stock market",
+        "Stock market\u2019s price movement prediction with LSTM neural networks",
+        "Long short-term memory",
+        "Algorithmic financial trading with deep convolutional neural networks: Time series to image conversion approach",
+        "Deep learning for stock prediction using numerical and textual information",
+        "Deep learning using risk-reward function for stock market prediction"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

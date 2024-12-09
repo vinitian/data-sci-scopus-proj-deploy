@@ -1,0 +1,71 @@
+{
+    "eid": "2-s2.0-85133669655",
+    "title": "Simple Analytical Formulas for Pricing and Hedging Moment Swaps",
+    "cover-date": "2022-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Mathematics (all)",
+            "@code": "2600",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Black-Scholes model",
+        "discrete sampling",
+        "moment swaps",
+        "time-dependent parameters"
+    ],
+    "authors": [
+        "Kittisak Chumpong",
+        "Khamron Mekchay",
+        "Sanae Rujivan",
+        "Nopporn Thamrongrat"
+    ],
+    "citedby-count": 3,
+    "ref-count": 17,
+    "ref-list": [
+        "The effect of jumps and discrete sampling on volatility and variance swaps",
+        "Estimation of parameters of stochastic differential equations Black-Scholes model share price of gold",
+        "The skew risk premium in the equity index market",
+        "Realized skewness",
+        "Pricing and hedging contingent claims using variance and higher-order moment swaps",
+        "A closed-form formula for the conditional moments of the extended CIR process",
+        "A novel analytical approach for pricing discretely sampled gamma swaps in the Heston model",
+        "A simplified analytical approach for pricing discretely-sampled variance swaps with stochastic volatility",
+        "A simple closed-form formula for pricing discretely-sampled variance swaps under the Heston model",
+        "Moment swaps",
+        "The skewness implied in the Heston model and its application",
+        "The skew risk premium in the equity index market",
+        "Closed form pricing formulas for discretely sampled generalized variance swaps",
+        "A closed-form exact solution for pricing variance swaps with stochastic volatility",
+        "On the valuation of variance swaps with stochastic volatility"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Hatyai",
+            "@id": "60006314",
+            "affilname": "Prince of Songkla University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006314",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tha Sala",
+            "@id": "60026526",
+            "affilname": "Walailak University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026526",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "Walailak University"
+    ]
+}

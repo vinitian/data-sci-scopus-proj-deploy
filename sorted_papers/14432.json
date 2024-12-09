@@ -1,0 +1,79 @@
+{
+    "eid": "2-s2.0-84946040079",
+    "title": "Dynamically adaptive tree grid modeling for simulation and visualization of rainwater overland flow",
+    "cover-date": "2015-12-20",
+    "subject-areas": [
+        {
+            "$": "Computational Mechanics",
+            "@code": "2206"
+        },
+        {
+            "$": "Mechanics of Materials",
+            "@code": "2211"
+        },
+        {
+            "$": "Applied Mathematics",
+            "@code": "2604"
+        },
+        {
+            "$": "Computer Science Applications",
+            "@code": "1706"
+        },
+        {
+            "$": "Mechanical Engineering",
+            "@code": "2210"
+        }
+    ],
+    "keywords": [
+        "Adaptive grids",
+        "Dynamic domain-defining method",
+        "Hydrostatic reconstruction",
+        "Rainwater overland flow",
+        "Well-balanced method"
+    ],
+    "authors": [
+        "Anurak Busaman"
+    ],
+    "citedby-count": 9,
+    "ref-count": 31,
+    "ref-list": [
+        "Comptes Rendus de l'Acad\u00e9mie des Sciences",
+        "Modeling of two\u2010dimensional overland flow",
+        "A numerical method for simulating discontinuous shallow flow over an infiltrating surface",
+        "Proceedings of the 12th International Conference on Hyperbolic Problems, University of Maryland, College Park (USA), 2008",
+        "International Journal for Numerical Methods in Fluids",
+        "Simulation of dam- and dyke-break hydrodynamics on dynamically adaptive quadtree grids",
+        "Quadtree-adaptive tsunami modelling",
+        "A finite volume solver for 1D shallow-water equations applied to an actual river",
+        "Modelling the effect of proposed channel deepening on the tides in Port Philip Bay",
+        "Upwind methods for hyperbolic conservation laws with source terms",
+        "A well-balanced scheme for the numerical processing of source terms in hyperbolic equations",
+        "A fast and stable well-balanced scheme with hydrostatic reconstruction for shallow water flows",
+        "Well-balanced shallow water flow simulation on quadtree cut cell grids",
+        "Shared memory parallelization of fully-adaptive simulations using a dynamic tree-split and -join approach",
+        "2nd IMA International Conference on Flood Risk Assessment",
+        "A limitation of the hydrostatic reconstruction technique for Shallow Water equations",
+        "Reliability of first order numerical schemes for solving shallow water system over abrupt topography",
+        "An improved hydrostatic reconstruction method for shallow water model",
+        "SIAM Review",
+        "Semidiscrete central-upwind schemes for hyperbolic conservation laws and Hamilton-Jacobi equations",
+        "Visual simulation of shallow-water waves",
+        "Central-upwind schemes for two-layer shallow water equations",
+        "Simulation of dam break using finite volume method",
+        "Some exact solutions to the nonlinear shallow-water wave equations",
+        "Disaster Presentation Research Institute Bulletin, Kyoto University, Kyoto, Japan"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hatyai",
+            "affilname": "Prince of Songkla University",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

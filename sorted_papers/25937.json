@@ -1,0 +1,99 @@
+{
+    "eid": "2-s2.0-85096767074",
+    "title": "Predict the percentage error of LM35 temperature sensor readings using simple linear regression analysis",
+    "cover-date": "2020-09-03",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Health Informatics",
+            "@code": "2718",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Arduino",
+        "Embedded system",
+        "LM35",
+        "Simple linear regression",
+        "Temperature sensor"
+    ],
+    "authors": [
+        "Tigor Hamonangan Nasution",
+        "Lukman Adlin Harahap"
+    ],
+    "citedby-count": 6,
+    "ref-count": 17,
+    "ref-list": [
+        "A vision of iot: Applications, challenges, and opportunities with China perspective",
+        "Designing an {iot}-based air quality monitoring system",
+        "Arduino based temprature and humidity sensor",
+        "Monitoring temperature and humidity of server room using lattepanda and thingspeak",
+        "Telemonitoring temperature and humidity at bio-energy process using smart phones",
+        "Development of a temperature measurement system for natural tubular daylight illumination device",
+        "Simple regression",
+        "Simple and multiple linear regression: Sample size considerations",
+        "Linear regression and correlation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Medan",
+            "@id": "60069397",
+            "affilname": "Universitas Sumatera Utara",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60069397",
+            "affiliation-country": "Indonesia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Department of Electrical Engineering, Faculty of Engineering, Universitas Sumatera Utara",
+        "Universitas Sumatera Utara"
+    ]
+}

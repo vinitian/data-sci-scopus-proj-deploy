@@ -1,0 +1,64 @@
+{
+    "eid": "2-s2.0-85101674089",
+    "title": "Gait biometric-based human recognition system using deep convolutional neural network in surveillance system",
+    "cover-date": "2020-09-18",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Convolutional neural network",
+        "Gait",
+        "Gait energy image",
+        "Person identification",
+        "Physical biometric"
+    ],
+    "authors": [
+        "Hsu Mon Lei Aung",
+        "Charnchai Pluempitiwiriyawej"
+    ],
+    "citedby-count": 11,
+    "ref-count": 16,
+    "ref-list": [
+        "Individual recognition using gait energy image",
+        "Body-movement-based human identification using convolutional neural network",
+        "Performance of convolutional neural networks for human identification by gait recognition",
+        "Robust cnn-based gait verification and identification using skeleton gait energy image",
+        "A comprehensive study on cross-view gait based human identification with deep cnns",
+        "A framework for evaluating the effect of view angle, clothing and carrying condition on gait recognition",
+        "Improved gait recognition based on specialized deep convolutional neural network",
+        "Multi-attributes gait identification by convolutional neural networks",
+        "Deepgait: A learning deep convolutional representation for gait recognition",
+        "Cross-validation",
+        "Handwritten digit recognition with a backpropagation network",
+        "Behavioral biometrics for human identification: Intelligent applications",
+        "On input/output architectures for convolutional neural network-based cross-view gait recognition",
+        "A model-based gait recognition method with body pose and human prior knowledge"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "JICA"
+    ]
+}

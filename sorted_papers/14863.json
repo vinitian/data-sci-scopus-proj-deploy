@@ -1,0 +1,134 @@
+{
+    "eid": "2-s2.0-85160905299",
+    "title": "Changes in the distribution of annual maximum temperatures in Europe",
+    "cover-date": "2023-05-24",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Oceanography",
+            "@code": "1910",
+            "@abbrev": "EART"
+        },
+        {
+            "@_fa": "true",
+            "$": "Statistics and Probability",
+            "@code": "2613",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atmospheric Science",
+            "@code": "1902",
+            "@abbrev": "EART"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Graeme Auld",
+        "Gabriele C. Hegerl",
+        "Ioannis Papastathopoulos"
+    ],
+    "citedby-count": 0,
+    "ref-count": 77,
+    "ref-list": [
+        "Framingand Context",
+        "Temperatureextremes in Europe: overview of their driving atmosphericpatterns",
+        "Hierarchical Modelingand Analysis for Spatial Data",
+        "Relation between elevated ambienttemperature and mortality: a review of the epidemiologicevidence",
+        "Geographicallyweighted regression-modelling spatial non-stationarity",
+        "On the maximum likelihood estimator forthe Generalized Extreme-Value distribution",
+        "Inference for clustered data usingthe independence loglikelihood",
+        "Generalized additivemodelling of sample extremes",
+        "A general introduction to adjustmentfor multiple comparisons",
+        "Likelihood-based inferencefor extreme value models",
+        "An ensemble version of the E-OBS temperature and precipitationdata sets",
+        "Models for exceedancesover high thresholds",
+        "Impacts ofsummer 2003 heat wave in Europe",
+        "Linking Global to RegionalClimate Change",
+        "The shifting probability distributionof global daytime and night-time temperatures",
+        "Development of an UpdatedGlobal Land In Situ-Based Data Set of Temperature andPrecipitation Extremes: HadEX3",
+        "Overview of the CoupledModel Intercomparison Project Phase 6 (CMIP6) experimentaldesign and organization",
+        "A review of modern multiple hypothesistesting, with particular attention to the false discoveryproportion",
+        "Consistent geographical patterns ofchanges in high-impact European heatwaves",
+        "Forecast verificationfor extreme value distributions with an application to probabilisticpeak wind prediction",
+        "extRemes 2.0: An ExtremeValue Analysis Package in R",
+        "Strictly proper scoring rules, prediction,and estimation",
+        "Comparing density forecasts usingthreshold-and quantile-weighted scoring rules",
+        "Varying-coefficient models",
+        "Spatial trend analysis of gridded temperature data at varyingspatial scales",
+        "TheERA5 global reanalysis",
+        "Impacts of 1.5 Cof Global Warming on Natural and Human Systems, in: GlobalWarming of 1.5 C. An IPCC Special Report on the impactsof global warming of 1.5 C above pre-industrial levels and relatedglobal greenhouse gas emission pathways, in the context ofstrengthening the global response to the threat of climate change,sustainable development, and efforts to eradicate poverty",
+        "Testing E-OBSEuropean high-resolution gridded data set of daily precipitationand surface temperature",
+        "The influence of interpolationand station network density on the distributions andtrends of climate variables in gridded daily data",
+        "Maximum-likelihood estimation ofthe parameters of the generalized extreme-value distribution",
+        "L-Moments: Analysis and estimation of distributionsusing linear combinations of order statistics",
+        "Estimationof the Generalized Extreme-Value Distribution by the Methodof Probability-Weighted Moments",
+        "Atlas",
+        "Summary for Policymakers",
+        "Comparisons of two methods of removinganthropogenically related variability from the near-surface observationaltemperature field",
+        "Evaluating ProbabilisticForecasts with scoringRules",
+        "Statistics of extremesin hydrology",
+        "Atmospheric carbon dioxide variationsat Mauna Loa Observatory, Hawaii",
+        "Estimating extremes in transientclimate change simulations",
+        "Comparison of modeled and observed trends in indices of dailyclimate extremes",
+        "Evaluation of the CMIP6 multi-model ensemble for climateextreme indices",
+        "Observationaluncertainty and regional climate model evaluation: Apan-European perspective",
+        "Verification tools for probabilistic forecastsof continuous hydrological variables",
+        "Generalized maximum-likelihoodgeneralized extreme-value quantile estimators for hydrologicdata",
+        "The shared socioeconomicpathway (SSP) greenhouse gas concentrations andtheir extensions to 2500",
+        "Detectable changesin the frequency of temperature extremes",
+        "A highresolutiondata set of surface climate over global land areas",
+        "Threshold modelling of spatiallydependentnon-stationary extremes with application tohurricane-induced wave heights",
+        "Bayesian inference fromcomposite likelihoods, with an application to spatial extremes",
+        "Death toll exceeded70,000 in Europe during the summer of 2003",
+        "The Berkeley Earth Land/OceanTemperature Record",
+        "Approximate Bayesian inferencefor latent Gaussian models by using integrated nestedLaplace approximations",
+        "Monitoring European average temperature based on the E-OBSgridded data set",
+        "The role of increasing temperature variabilityin European summer heatwaves",
+        "Maximum likelihood estimation in aclass of non-regular cases",
+        "Homogenization of daily temperature series in the EuropeanClimate Assessment & Dataset",
+        "On the causal structure between CO2 and global temperature",
+        "Cross-validatory choice and assessment of statisticalpredictions",
+        "Human contributionto the European heatwave of 2003",
+        "Evaluation of CMIP5 and CMIP6 simulationsof historical surface air temperature extremes usingproper evaluation methods",
+        "Recent increases in extremetemperature occurrence over land",
+        "Smoothing parameter and modelselection for general smooth models",
+        "Generalized additive models for exceedancesof high thresholds with an application to return level estimationfor U.S. wind gusts",
+        "evgam: An R Package for Generalized AdditiveExtreme Value Models",
+        "Anthropogenicinfluence on long return period daily temperature extremesat regional scales"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Edinburgh",
+            "@id": "60112734",
+            "affilname": "Maxwell Institute for Mathematical Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60112734",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Edinburgh",
+            "@id": "60027272",
+            "affilname": "The University of Edinburgh",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027272",
+            "affiliation-country": "United Kingdom"
+        }
+    ],
+    "funding": [
+        "EPSRC",
+        "NERC",
+        "Chulalongkorn University"
+    ]
+}

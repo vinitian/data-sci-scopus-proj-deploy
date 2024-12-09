@@ -1,0 +1,101 @@
+{
+    "eid": "2-s2.0-85078459624",
+    "title": "Quantum Phase Estimation Algorithm for Finding Polynomial Roots",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Physics and Astronomy (all)",
+            "@code": "3100",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Eigenvalue problems",
+        "Polynomial roots",
+        "Quantum algorithm",
+        "Quantum phase estimation"
+    ],
+    "authors": [
+        "Theerapat Tansuwannont",
+        "Surachate Limkumnerd",
+        "Sujin Suwanna",
+        "Pruet Kalasuwan"
+    ],
+    "citedby-count": 4,
+    "ref-count": 37,
+    "ref-list": [
+        "Solving a polynomial equation: Some history and recent progress",
+        "Algorithms for quantum computation: Discrete logarithms and factoring",
+        "Universal quantum simulators",
+        "Simulating physics with computers",
+        "Simulated quantum computation of molecular energies",
+        "Quantum simulation of the wavefunction to probe frustrated Heisenberg spin systems",
+        "Limitations of quantum simulation examined by simulating a pairing hamiltonian using nuclear magnetic resonance",
+        "Liquidstate NMR simulations of quantum many-body problems",
+        "Observing fermionic statistics with photons in arbitrary processes",
+        "Correlation functions and momentum distribution of one-dimensional hard-core anyons in optical lattices",
+        "Suppression laws for multiparticle interference in Sylvester interferometers",
+        "Quantum measurements and the Abelian Stabilizer Problem",
+        "Experimental quantum-enhanced estimation of a lossy phase shift",
+        "A universal quantum circuit scheme for finding complex eigenvalues",
+        "Universal programmable quantum circuit schemes to emulate an operator",
+        "Quantum algorithm providing exponential speed increase for finding eigenvalues and eigenvectors",
+        "Calculating unknown eigenvalues with a quantum algorithm",
+        "Measurement-based quantum phase estimation algorithm for finding eigenvalues of nonunitary matrices",
+        "Univariate polynomials: Nearly optimal algorithms for numerical factorization and root-finding",
+        "Elementary gates for quantum computation",
+        "Semiclassical fourier transform for quantum computation",
+        "Implementation of the semiclassical quantum fourier transform in a scalable system",
+        "Univariate polynomials: Nearly optimal algorithms for numerical factorization and root-finding",
+        "A universal two-bit gate for quantum computation",
+        "Ring closure and local conformational deformations of chain molecules",
+        "Research directions in virtual environments",
+        "New aspects of the motion of a particle in a circular cavity",
+        "Classical and fractional aspects of two coupled pendulums",
+        "Step-by-step decoding of the bose-chadhuri-hocquenghem codes",
+        "Simple algorithms for BCH decoding"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Waterloo",
+            "@id": "60014171",
+            "affilname": "University of Waterloo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014171",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60012718",
+            "affilname": "Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012718",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hatyai",
+            "@id": "60006314",
+            "affilname": "Prince of Songkla University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006314",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ayuthaya",
+            "@id": "105795818",
+            "affilname": "Ministry of Education",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/105795818",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "DPST",
+        "Development and Promotion of Science and Technology Talents project",
+        "Queen Sirikit Scholarship"
+    ]
+}

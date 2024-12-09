@@ -1,0 +1,119 @@
+{
+    "eid": "2-s2.0-85125783044",
+    "title": "Transfer learning on VGG16 for the Classification of Potato Leaves Infected by Blight Diseases",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "CNN",
+        "Plan Disease Identification",
+        "VGGNet",
+        "Zero Hunger"
+    ],
+    "authors": [
+        "Jesmin Akther",
+        "Muhammad Harun-Or-Roshid",
+        "Al Akhir Nayan",
+        "Muhammad Golam Kibria"
+    ],
+    "citedby-count": 3,
+    "ref-count": 31,
+    "ref-list": [
+        "Economic evaluation of production costs and returns of potato crop in Sylhet region of Bangladesh",
+        "A machine learning approach for early detection of fish diseases by analyzing water quality",
+        "IoT based smart water quality prediction for biofloc aquaculture",
+        "Blind image steganalysis based on evidential K-Nearest Neighbors",
+        "Steganalysis on images using svm with selected hybrid features of gini index feature selection algorithm",
+        "Towards genetic feature selection in image steganalysis",
+        "Improved contourlet-based steganalysis using binary particle swarm optimization and radial basis neural networks",
+        "Distinctive image features from scale-invariant keypoints",
+        "Histograms of oriented gradients for human detection",
+        "Speeded-up robust features (SURF) as a benchmark for heterogeneous computers",
+        "Regularized linear discriminant analysis and its application in microarrays",
+        "Leaf image based cucumber disease recognition using sparse representation classification",
+        "Cucumber disease recognition based on Global-Local Singular value decomposition",
+        "An optimized model based on convolutional neural networks and orthogonal learning particle swarm optimization algorithm for plant diseases diagnosis",
+        "Image processing based leaf rot disease, detection of betel vine (Piper BetleL.)",
+        "Detection of unhealthy region of plant leaves and classification of plant leaf diseases using textural features",
+        "Transfer learning for the classification of sugar beet and volunteer potato under field conditions",
+        "Deep learning: Layer-wise learning of feature hierarchies",
+        "Region-based convolutional networks for accurate object detection and semantic segmentation",
+        "The pascal visual object classes challenge: A retrospective",
+        "Cnn features off-The-shelf: An astounding baseline for recognition",
+        "Learning deep features for scene recognition using places database",
+        "Using deep learning for image-based plant disease detection",
+        "Automatic image-based plant disease severity estimation using deep learning",
+        "A recognition method for cucumber diseases using leaf symptom images based on deep convolutional neural network",
+        "Identification of rice diseases using deep convolutional neural networks",
+        "Factors in_uencing the use of deep learning for plant disease recognition",
+        "Deep convolutional neural networks for mobile capture device-based crop disease classification in the wild",
+        "Plant disease detection using CNNs and GANs as an augmentative approach"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Dhaka",
+            "@id": "60159848",
+            "affilname": "University of Liberal Arts Bangladesh",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60159848",
+            "affiliation-country": "Bangladesh"
+        },
+        {
+            "affiliation-city": "Noakhali",
+            "@id": "60108743",
+            "affilname": "Noakhali Science and Technology University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60108743",
+            "affiliation-country": "Bangladesh"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Dhaka",
+            "@id": "60027523",
+            "affilname": "Daffodil International University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027523",
+            "affiliation-country": "Bangladesh"
+        }
+    ],
+    "funding": []
+}

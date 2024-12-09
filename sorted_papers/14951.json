@@ -1,0 +1,115 @@
+{
+    "eid": "2-s2.0-84922389185",
+    "title": "Robust and accurate anomaly detection in ECG artifacts using time series motif discovery",
+    "cover-date": "2015-01-22",
+    "subject-areas": [
+        {
+            "$": "Modeling and Simulation",
+            "@code": "2611"
+        },
+        {
+            "$": "Applied Mathematics",
+            "@code": "2604"
+        },
+        {
+            "$": "General Biochemistry",
+            "@code": "1300"
+        },
+        {
+            "$": "General Immunology and Microbiology",
+            "@code": "2400"
+        },
+        {
+            "$": "General Medicine",
+            "@code": "2700"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Haemwaan Sivaraks"
+    ],
+    "citedby-count": 60,
+    "ref-count": 74,
+    "ref-list": [
+        "Development of a wireless capacitive sensor for ambulatory ECG monitoring over clothes",
+        "Starting to Read ECGs",
+        "Rapid Interpretation of EKG's",
+        "Clinical Electrocardiography: A Simplified Approach, Elsevier/ Saunders",
+        "Detecting ECG abnormalities via transductive transfer learning",
+        "Simulated ECG waveforms in long QT syndrome based on a model of human ventricular tissue",
+        "Correlation between P-wave morphology and origin of atrial focal tachycardia-insights from realistic models of the human atria and torso",
+        "Discriminant analysis of multivariate time series: Application to diagnosis based on ECG signals",
+        "Detection of ECG Arrhythmia using a differential expert system approach based on principal component analysis and least square support vector machine",
+        "Anomaly detection using multi-channel FLAC for supporting diagnosis of ECG",
+        "Implementation of real-time abnormal ECG detection algorithm for wearable healthcare",
+        "Multi-lead ECG classification based on independent component analysis and support vector machine",
+        "Myocardial infarction classification with multi-lead ECG using hidden Markov models and Gaussian mixture models",
+        "Artifactual electrocardiographic change mimicking clinical abnormality on the ECG",
+        "Electrocardiography pitfalls and artifacts: The 10 commandments",
+        "ThaparUniversity",
+        "Anomaly detection using multi-channel FLAC for supporting diagnosis of ECG",
+        "ECG anomalies identification using a time series novelty detection technique",
+        "ECG anomaly detection via time series analysis",
+        "Anomaly detection algorithm based on pattern density in time series",
+        "Finding the most unusual time series subsequence: Algorithms and applications",
+        "A review of electrocardiogram filtering",
+        "PCA and ICA processing methods for removal of artifacts and noise in electrocardiograms: A survey and comparison",
+        "Comparison of different approaches for removal of Baseline wander from ECG signal",
+        "A hierarchical method for removal of baseline drift from biomedical signals: Application in ECG analysis",
+        "Noise suppression in ECG signals through efficient one-step wavelet processing techniques",
+        "Optimal selection of wavelet basis function applied to ECG signal denoising",
+        "A Wavelet-Based ECG Delineator Evaluation on Standard Databases",
+        "ECG signal conditioning by morphological filtering",
+        "ECG signal denoising and baseline wander correction based on the empirical mode decomposition",
+        "Empirical mode decomposition based filtering techniques for power line interference reduction in electrocardiogram using various adaptive structures and subtraction methods",
+        "An adaptive filtering approach for electrocardiogram (ECG) signal noise reduction using neural networks",
+        "ISRN Cardiology",
+        "What is inside the electrocardiograph?",
+        "HOT SAX: Efficiently finding the most unusual time series subsequence",
+        "Finding time series discord based on bit representation clustering",
+        "Efficient proper length time series motif discovery",
+        "HOT aSAX: A novel adaptive symbolic representation for time series discords discovery",
+        "Time series discord discovery using WAT algorithm and iSAX representation",
+        "Anomaly detection in streaming time series based on bounding boxes",
+        "Heartbeat classification using normalized RR intervals and morphological features",
+        "Data Mining and Knowledge Discovery",
+        "An improved algorithm for noise suppression and baseline correction of ECG signals",
+        "Communications in Information Science and Management Engineering",
+        "ECG beat classification using PCA, LDA, ICA and Discrete Wavelet Transform",
+        "Cardiac arrhythmia detection using dynamic time warping of ECG beats in e-healthcare systems",
+        "Fast classification of electrocardiograph signals via instance selection",
+        "Electrocardiogram data mining based on frame classification by dynamic time warping matching",
+        "ECG InterpretationMade Incredibly Easy",
+        "Practical Aspects of ECG Recording",
+        "ECG Complete",
+        "Electrocardiography artifact: What you do not know, you do not recognize",
+        "Physician interpretation of electrocardiographic artifact that mimics ventricular tachycardia",
+        "Electrocardiographic electrode misplacement, misconnection, and artifact",
+        "Motion artifact removal in ECG signals using multi-resolution thresholding",
+        "Proceedings of the Workshop on Knowledge Discovery in Databases",
+        "Proceedings of the 3rd Workshop on Mining Temporal and Sequential Data",
+        "Three myths about dynamic time warping data mining",
+        "Analyzing ECG for cardiac arrhythmia using cluster analysis",
+        "ISRN Biomedical Engineering",
+        "A computer based wireless system for online acquisition, monitoring and digital processing of ECG waveforms",
+        "Filtering of electromyogram artifacts from the electrocardiogram",
+        "Time series epenthesis: Clustering time series streams requires ignoring some data",
+        "Laboratory Manual for Anatomy and Physiology",
+        "A comparison of the indirect estimate of mean arterial pressure calculated by the conventional equation and calculated to compensate for a change in heart rate",
+        "QRS complexes detection for ECG signal: The Difference Operation Method",
+        "Feature selection algorithm for ECG signals using Range-Overlaps Method",
+        "Automatic detection of onset and offset of QRS complexes independent of isoelectric segments",
+        "Chou's Electrocardiography in Clinical Practice: Adult and Pediatric",
+        "PhysioBank, PhysioToolkit, and PhysioNet: components of a new research resource for complex physiologic signals.",
+        "Accurate subsequence matching on data stream under time warping distance",
+        "Parameter-free Subsequence Time Series Clustering"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "affilname": "Chulalongkorn University",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

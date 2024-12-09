@@ -1,0 +1,78 @@
+{
+    "eid": "2-s2.0-85136178569",
+    "title": "Predicting Signs of Depression from Twitter Messages",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Education",
+            "@code": "3304",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "deep learning",
+        "depression",
+        "machine learning",
+        "natural language processing",
+        "Twitter"
+    ],
+    "authors": [
+        "Suwaroj Mahasiriakalayot",
+        "Twittie Senivongse",
+        "Nattasuda Taephant"
+    ],
+    "citedby-count": 0,
+    "ref-count": 9,
+    "ref-list": [
+        "Natural language processing in mental health applications using nonclinical texts",
+        "Depression analysis from social media data in Bangla language using long short term memory (LSTM) recurrent neural network technique",
+        "Detection of depression in Thai social media messages using deep learning",
+        "Detecting depression in Thai blog posts: A dataset and a baseline",
+        "Social behavior analysis and Thai mental health questionnaire (TMHQ) optimization for depression detection system",
+        "The norm profile for the Thai mental health questionnaire",
+        "SMOTE-Out, SMOTE-Cosine, and selected-SMOTE: An enhancement strategy to handle imbalance in data level"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Jireerat Sittiwong",
+        "Khongphon Vaewvoravit",
+        "Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "eid": "2-s2.0-85149665385",
+    "title": "Transforming Probabilistic Timed Automata to PRISM Model",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "PRISM model",
+        "Probabilistic timed automata",
+        "Simulation"
+    ],
+    "authors": [
+        "Thirawat Sutalungka",
+        "Patimakorn Chariyathitipong",
+        "Wiwat Vatanawood"
+    ],
+    "citedby-count": 0,
+    "ref-count": 9,
+    "ref-list": [
+        "PRISM 4. 0: Verification of Probabilistic Real-Time Systems",
+        "Reactive Modules",
+        "A theory of timed automata",
+        "A Markovian Decision Process",
+        "MDP + TA = PTA:Probabilistic Timed Automata, Formalized"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Sisaket",
+            "@id": "60194925",
+            "affilname": "Sisaket Rajabhat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60194925",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

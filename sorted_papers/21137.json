@@ -1,0 +1,119 @@
+{
+    "eid": "2-s2.0-85088030910",
+    "title": "Statistical estimation of freight activity analytics from Global Positioning System data of trucks",
+    "cover-date": "2020-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Business and International Management",
+            "@code": "1403",
+            "@abbrev": "BUSI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Transportation",
+            "@code": "3313",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "Activity pattern",
+        "Commodity trip chain",
+        "Global Positioning System",
+        "Maximum likelihood estimation",
+        "Truck activity"
+    ],
+    "authors": [
+        "Treerapot Siripirote",
+        "Agachai Sumalee",
+        "H. W. Ho"
+    ],
+    "citedby-count": 17,
+    "ref-count": 52,
+    "ref-list": [
+        "Improving mobility by optimizing the number, location and usage of loading/unloading bays for urban freight vehicles",
+        "Daily activity pattern recognition by using support vector machines with multiple classes",
+        "Mining activity pattern trajectories and allocating activities in the network",
+        "Review of UK Urban Freight Studies",
+        "Public transport trip purpose inference using smart card fare data",
+        "Identifying and characterizing truck stops from GPS data",
+        "Prediction model of bus arrival time at signalized intersection using GPS data",
+        "Deriving and validating trip purposes and travel modes for multi-day GPS-based travel surveys: A large-scale application in the Netherlands",
+        "Evaluating the feasibility of a passive travel survey collection in a complex urban environment: Lessons learned from the New York City case study",
+        "Understanding urban freight activity \u2013 key issues for freight planning",
+        "An analysis of drivers route choice behaviour using GPS data and optimal alternatives",
+        "fitdistrplus: An R package for fitting distributions",
+        "Detecting activity type from GPS traces using spatial and temporal information",
+        "Classifying the purpose of stopped truck events: An application of entropy to GPS data",
+        "Identification of activity stop locations in GPS trajectories by density-based clustering method combined with support vector machines",
+        "Collecting commercial vehicle tour data with passive global positioning system technology",
+        "Monitoring urban-freight transport based on GPS trajectories of heavy-goods vehicles",
+        "Joint optimization of freight facility location and pavement infrastructure rehabilitation under network traffic equilibrium",
+        "The prediction of interregional goods vehicle flows: Some new modeling concepts",
+        "Behavioural insights into the modelling of freight transportation and distribution systems",
+        "Developing advanced route choice models for heavy goods vehicles using GPS data",
+        "Modeling commercial vehicle empty trips with a first order trip chain model",
+        "Commercial vehicle empty trip models with variable zero order empty trip probabilities",
+        "Hierarchical hub location problem for freight network design",
+        "Inferring commercial vehicle activities in Gauteng, South Africa",
+        "Deriving truck route choice from large GPS data streams",
+        "A pedestrian network construction algorithm based on multiple GPS traces",
+        "Commercial vehicles time of day choice behavior in urban areas",
+        "Analyzing tour chaining patterns of urban commercial vehicles",
+        "Best-practice truck-flow estimation model for the New York City Region",
+        "Annotating mobile phone location data with activity purposes using machine learning algorithms",
+        "GPS error correction by multipath adaptation",
+        "2006 Austin Area Commercial Vehicle Survey Technical Summary Report",
+        "Semantic annotation of global positioning system traces",
+        "The annotation of global positioning system (GPS) data with activity purposes using multiple machine learning algorithms",
+        "Modeling urban commercial vehicle daily tour chaining",
+        "Stop purpose classification from GPS data of commercial vehicle fleets",
+        "Review of GPS travel survey and GPS data-processing methods",
+        "Development of a statewide truck trip forecasting model based on commodity flows and input-output coefficients",
+        "Cyclist deceleration rate as surrogate safety measure in Montreal using smartphone GPS data",
+        "Methodology for identifying activities from GPS data streams",
+        "Eighty weeks of global positioning system traces",
+        "Predicting travel time reliability using mobile phone GPS data",
+        "From trajectories to activities: A spatio-temporal join approach",
+        "Urban freight delivery stop identification with GPS data",
+        "Inverse vehicle routing for activity-based urban freight forecast modeling and city logistics",
+        "Estimating activity patterns using spatio-temporal data of cell phone networks",
+        "Deriving Statewide Freight Truck Flows from Global Positioning System (GPS) Data. MSc. Department of Civil and Environmental Engineering",
+        "Estimation of statewide origin-destination truck flows from large streams of GPS data: application for florida statewide model",
+        "Identifying activities and trips with GPS data",
+        "Detecting home location and trip purposes for cardholders by mining smart card transaction data in Beijing subway"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "60008928",
+            "affilname": "The Hong Kong Polytechnic University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008928",
+            "affiliation-country": "Hong Kong"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60000316",
+            "affilname": "Srinakharinwirot University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000316",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Government of Thailand",
+        "Hong Kong Polytechnic University"
+    ]
+}

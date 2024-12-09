@@ -1,0 +1,75 @@
+{
+    "eid": "2-s2.0-85053564074",
+    "title": "Event-B formalization of basic supply chain patterns",
+    "cover-date": "2018-08-20",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "Basic supply chain patterns",
+        "Event-B",
+        "Formal Verification",
+        "Timed Petri nets"
+    ],
+    "authors": [
+        "Chalika Saksupawattanakul",
+        "Wiwat Vatanawood"
+    ],
+    "citedby-count": 2,
+    "ref-count": 18,
+    "ref-list": [
+        "Supply chains-how to support critical infrastructures safety, protection, preparedness and resilience",
+        "A new take on supply chain event management",
+        "Petri-net based applications for supply chain management: An overview",
+        "A negotiation-based multi-agent system for supply chain management",
+        "Supply chain inventory optimisation with multiple objectives: An industrial case study",
+        "A formal modeling approach for supply chain event management",
+        "Analysis of asynchronous concurrent systems by timed petri nets",
+        "A Petri net-based approach to the quantification of data center dependability",
+        "A method to prove non-reachability in priority duration Petri nets",
+        "SMT solvers for Rodin"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

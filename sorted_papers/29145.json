@@ -1,0 +1,88 @@
+{
+    "eid": "2-s2.0-85112353752",
+    "title": "Detecting Facial Images in Public with and without Masks Using VGG and FR-TSVM Models",
+    "cover-date": "2021-06-30",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "COVID-19",
+        "FR-TSVM",
+        "Public Places",
+        "TSVM",
+        "VGG-16",
+        "Wear Mask"
+    ],
+    "authors": [
+        "Hangkai Wang",
+        "Chidchanok Lursinsap"
+    ],
+    "citedby-count": 1,
+    "ref-count": 24,
+    "ref-list": [
+        "An updated estimation of the risk of transmission of the novel coronavirus (2019-nCov)",
+        "Estimation of the transmission risk of the 2019-nCoV and Its implication for public health interventions",
+        "An evidence review of face masks against COVID-19",
+        "Twin support vector machines for pattern classification",
+        "A -twin support vector machine (-TSVM) classifier and its geometric algorithms",
+        "Early transmission dynamics in Wuhan, China, of novel coronavirus-infected pneumonia",
+        "A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: A study of a family cluster",
+        "Preliminary prediction of the basic reproduction number of the Wuhan novel coronavirus 2019-nCoV",
+        "Real-time face mask identification using facemasknet deep learning network",
+        "Robust deep learning method to detect face masks",
+        "A novel approach to detect face mask to control covid using deep learning",
+        "Face mask use in the general population and optimal resource allocation during the COVID-19 pandemic",
+        "Face mask detection using transfer learning of inception V3",
+        "A hybrid deep transfer learning model with machine learning methods for face mask detection in the era of the COVID-19 pandemic",
+        "High-resolution radar target recognition via inception-based VGG (IVGG) networks",
+        "Analyzing the impact of soft errors in VGG networks implemented on GPUS",
+        "Perceptual-aware sketch simplification based on integrated VGG layers",
+        "An approach focusing on the convolutional layer characteristics of the vgg network for vehicle tracking",
+        "Improving the performance of VGG through different granularity feature combinations",
+        "How to correctly detect face-masks for COVID-19 from visual information?",
+        "A 3D registration methodology to evaluate the goodness of fit at the individual-respiratory mask interface"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

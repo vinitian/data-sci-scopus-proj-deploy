@@ -1,0 +1,85 @@
+{
+    "eid": "2-s2.0-85118431439",
+    "title": "Challenges and opportunities for the control of energy storage systems. a focus on the zinc-air batteries",
+    "cover-date": "2021-09-13",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Control",
+        "Estimation",
+        "Identification",
+        "Mathematical modelling"
+    ],
+    "authors": [
+        "Sorin Olaru",
+        "Florin Stoican",
+        "Soorathep Kheawhom"
+    ],
+    "citedby-count": 6,
+    "ref-count": 27,
+    "ref-list": [
+        "Congestion management within a multi-service scheduling coordination scheme for large battery storage systems",
+        "Interface engineering of air electrocatalysts for rechargeable zinc-air batteries",
+        "Energy storage technologies: The past and the present",
+        "A novel method to obtain the open circuit voltage for the state of charge of lithium ion batteries in electric vehicles by using h infinity filter",
+        "A review of model-based design tools for metal-air batteries",
+        "Recent advances in zinc-air batteries",
+        "Model-based analysis of an integrated zinc-air flow battery/zinc electrolyzer system",
+        "Electric vehicle battery technologies",
+        "Online parameters identification and state of charge estimation for lithium-ion capacitor based on improved cubature Kalman filter",
+        "An improved thevenin model of lithium-ion battery with high accuracy for electric vehicles",
+        "Equivalent circuit models and parameter identification methods for lithium-ion capacitors",
+        "A method for state of energy estimation of lithium-ion batteries at dynamic currents and temperatures",
+        "Remaining discharge-time prediction for batteries using the lambert function",
+        "Adaptive estimation of the electromotive force of the lithium-ion battery after current interruption for an accurate state-of-charge and capacity determination",
+        "Lithium-ion battery modeling and parameter identification based on fractional theory",
+        "Lithium-ion battery state of charge estimation with model parameters adaptation using hinf extended kalman filter",
+        "Comparative study of methods for integrated model identification and state of charge estimation of lithium-ion battery",
+        "Adaptive sliding mode observers for lithium-ion battery state estimation based on parameters identified online",
+        "An improved adaptive estimator for state-of-charge estimation of lithium-ion batteries",
+        "Estimation and control of battery electrochemistry models: A tutorial",
+        "Discharge performance and dynamic behavior of refuellable zinc-air battery",
+        "Linear parameter-varying model for a refuellable zinc-air battery",
+        "Discharge profile of a zinc-air flow battery at various electrolyte flow rates and discharge currents",
+        "Extended kalman filtering for battery management systems of lipb-based hev battery packs: Part 3. state and parameter estimation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Gif-sur-Yvette",
+            "@id": "60106017",
+            "affilname": "Universit\u00e9 Paris-Saclay",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60106017",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bucharest",
+            "@id": "60003161",
+            "affilname": "University Politehnica of Bucharest",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003161",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "CNCS-UEFISCDI",
+        "Romanian Ministry of Education and Research"
+    ]
+}

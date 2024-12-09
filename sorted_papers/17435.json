@@ -1,0 +1,68 @@
+{
+    "eid": "2-s2.0-85096329400",
+    "title": "Software Remodularization Using Tabu Search",
+    "cover-date": "2020-01-14",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Software Modularity",
+        "Software Remodularization",
+        "Tabu search"
+    ],
+    "authors": [
+        "Photjanat Janvattanavong",
+        "Pornsiri Muenchaisri"
+    ],
+    "citedby-count": 1,
+    "ref-count": 18,
+    "ref-list": [
+        "Towards assessing modularity",
+        "Information-theoretic remodularization of object-oriented software systems",
+        "Class modularization using indirect relationships",
+        "Refactoring object-oriented applications towards a better decoupling and instantiation unanticipation",
+        "Identifying objects using cluster and concept analysis",
+        "Software remodularization by estimating structural and conceptual relations among classes and using hierarchical clustering",
+        "Remodularization analysis using semantic clustering",
+        "Automated software remodularization based on move refactoring",
+        "A novel approach for automatic remodularization of software systems using extended ant colony optimization algorithm",
+        "Tabu search",
+        "Search-based improvement of subsystem decompositions",
+        "Automatic package coupling and cycle minimization",
+        "Harmony search based remodularization for object-oriented software systems",
+        "A heuristic approach to solving the software clustering problem",
+        "On the automatic modularization of software systems using the bunch tool",
+        "Silhouettes: A graphical aid to the interpretation and validation of cluster analysis"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

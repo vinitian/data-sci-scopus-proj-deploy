@@ -1,0 +1,72 @@
+{
+    "eid": "2-s2.0-85060496074",
+    "title": "Design of output feedback nonlinear model predictive control for inverted pendulum on cART",
+    "cover-date": "2018-12-10",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Inverted pendulum on cart",
+        "Nonlinear model predictive control",
+        "Nonlinear systems",
+        "Optimal control",
+        "State observer"
+    ],
+    "authors": [
+        "Petchakrit Pinyopawasutthi",
+        "David Banjerdpongchai",
+        "Yasuaki Oishi"
+    ],
+    "citedby-count": 0,
+    "ref-count": 9,
+    "ref-list": [
+        "Receding horizon tracking control of wheeled mobile robots",
+        "Nonlinear model predictive tracking control for rotorcraft-based unmanned aerial vehicles",
+        "Real-time optimization algorithm for nonlinear receding-horizon control",
+        "Nonlinear optimal tracking using finite horizon state dependent Riccati equation (SDRE)",
+        "A time-stepping procedure for =A1X+ XA2+D, X (0)=C",
+        "Design of reduced-order observer and linear quadratic regulator for inverted pendulum on cart",
+        "Convergence analysis of the extended Kalman filter as an observer for nonlinear discrete-time systems",
+        "Control of pendulum on a cart with state dependent Riccati equations"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nagoya",
+            "@id": "122021262",
+            "affilname": "Nazan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/122021262",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

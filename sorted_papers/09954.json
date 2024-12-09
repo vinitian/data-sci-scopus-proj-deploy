@@ -1,0 +1,83 @@
+{
+    "eid": "2-s2.0-84989832098",
+    "title": "Interval analysis of nonlinear frames with uncertain connection properties",
+    "cover-date": "2016-11-01",
+    "subject-areas": [
+        {
+            "$": "Mechanical Engineering",
+            "@code": "2210"
+        },
+        {
+            "$": "Mechanics of Materials",
+            "@code": "2211"
+        },
+        {
+            "$": "Applied Mathematics",
+            "@code": "2604"
+        }
+    ],
+    "keywords": [
+        "Elastoplasticity",
+        "Hardening",
+        "Interval analysis",
+        "Mathematical programming",
+        "Semi-rigid connections",
+        "Steel structures"
+    ],
+    "authors": [
+        "S. Tangaramvong"
+    ],
+    "citedby-count": 9,
+    "ref-count": 39,
+    "ref-list": [
+        "ANALYSIS OF FLEXIBILITY CONNECTED STEEL FRAMES.",
+        "Semirigid steel beam-to-column connections: Data base and modeling",
+        "A design model for semi-rigid connections",
+        "Moment-rotation functions for steel connections",
+        "Experimental and theoretical analysis of the moment-rotation behaviour of stiffened extended end-plate connections",
+        "Numerical modelling of structural fire behaviour of restrained steel beam-column assemblies using typical joint types",
+        "Review on the modelling of joint behaviour in steel frames",
+        "Experimental and numerical analysis of three-dimensional semi-rigid steel joints under non-proportional loading",
+        "Stability and non-linear second-order elastic analyses of beam and framed structures with semi-rigid connections using the cross method",
+        "Large-deflection and postbuckling of beam-columns with non-linear semi-rigid connections including shear and axial effects",
+        "Moment-rotation behavior of bolted top-seat angle connections",
+        "Moment-rotation behavior of double angle connections subjected to shear load",
+        "Probabilistic study of the behavior of steel frames with partially restrained connections",
+        "Effects of semi-rigid behavior of connections in the reliability of steel frames",
+        "Uncertainty in mechanics problems - interval-based approach",
+        "Engineering computation under uncertainty - Capabilities of non-traditional models",
+        "Interval elastoplastic analysis of structures",
+        "Mathematical programming approaches for the safety assessment of semirigid elastoplastic frames",
+        "A matrix structural theory of piecewise linear elastoplasticity with interacting yield planes",
+        "A complementarity approach for elastoplastic analysis of strain softening frames under combined bending and axial force",
+        "Some noninterior continuation methods for linear complementarity problems",
+        "A quadratic programming approach for certain classes of non linear structural problems",
+        "Behavior of braced and unbraced semi-rigid frames",
+        "COLLAPSE LOAD ANALYSIS OF FRAMES CONSIDERING AXIAL FORCES.",
+        "Complementarity problems in GAMS and the PATH solver",
+        "Parameter identification of quasibrittle materials as a mathematical program with equilibrium constraints",
+        "Collapse load evaluation of structures with frictional contact supports under combined stresses",
+        "Limit analysis of frictional block assemblies as a mathematical program with complementarity constraints",
+        "Simultaneous ultimate load and deformation analysis of strain softening frames under combined stresses",
+        "ORSA J. Comput.",
+        "Washington (DC): GAMS Development Corporation",
+        "Mathematical programming approaches for obtaining sharp collapse load bounds in interval limit analysis",
+        "Struct. Eng. Rev.",
+        "An efficient mathematical programming method for the elastoplastic analysis of frames"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Sydney",
+            "affilname": "UNSW Sydney",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Australian Research Council"
+    ]
+}

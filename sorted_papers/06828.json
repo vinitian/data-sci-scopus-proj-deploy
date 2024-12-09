@@ -1,0 +1,183 @@
+{
+    "eid": "2-s2.0-85161382470",
+    "title": "A novel coarse-to-fine computational method for three-dimensional landmark detection to perform hard-tissue cephalometric analysis",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "3D dental analysis",
+        "cephalometric analysis",
+        "CT",
+        "landmark",
+        "landmark detection"
+    ],
+    "authors": [
+        "Kusum Yadav",
+        "Kawther A. Al-Dhlan",
+        "Hamad A. Alreshidi",
+        "Gaurav Dhiman",
+        "Wattana Golf Viriyasitavat",
+        "Abdullah Zaid Almankory",
+        "Kadiyala Ramana",
+        "S. Vimal",
+        "Venkatesan Rajinikanth"
+    ],
+    "citedby-count": 0,
+    "ref-count": 53,
+    "ref-list": [
+        "Accurate and compact convolutional neural network based on stochastic computing",
+        "Decoding tumour phenotype by noninvasive imaging using a quantitative radiomics approach",
+        "FoGMatch: An intelligent multi-criteria IoT-fog scheduling approach using game theory",
+        "A systematic review of the techniques for the automatic segmentation of organs-at-risk in thoracic computed tomography images",
+        "Cephalometric measurements performed on CBCT and reconstructed lateral cephalograms: A cross-sectional study providing a quantitative approach of differences and bias",
+        "Accuracy and reliability of linear cephalometric measurements from cone-beam computed tomography scans of a dry human skull",
+        "Geodesic active contours",
+        "A smart green house control and management system using iot",
+        "Metaverse for healthcare: A survey on potential applications, challenges and future directions",
+        "Automatic three-dimensional cephalometric landmarking via deep learning",
+        "Variations in facial relationships; their significance in treatment and prognosis",
+        "Clinical radiological issues in orthodontic practice",
+        "Automatic localization of cephalometric landmarks",
+        "Blockchain technology with its application in medical and healthcare systems: A survey",
+        "Stable federated fog formation: An evolutionary game theoretical approach",
+        "On demand fog federations for horizontal federated learning in IoV",
+        "Energy-aware distributed edge ML for mhealth applications with strict latency requirements",
+        "Gaze prediction based on convolutional neural network",
+        "An improved VGG16 model for pneumonia image classification",
+        "3D cephalometric landmark detection by multiple stage deep reinforcement learning",
+        "Reliability of cephalometric landmark identification on three-dimensional computed tomographic images",
+        "Modern 3D cephalometry in pediatric orthodontics-downsizing the FOV and development of a new 3D cephalometric analysis within a minimized large FOV for dose reduction",
+        "Reliability and reproducibility of landmark identification in unilateral cleft lip and palate patients: Digital lateral Vis-A-Vis CBCT-derived 3D cephalograms",
+        "Automatic 3D cephalometric annotation system using shadowed 2D image-based machine learning",
+        "Automatic cephalometric analysis",
+        "Fully automatic system for accurate localisation and analysis of cephalometric landmarks in lateral cephalograms",
+        "2D-to-3D: A review for computational 3D image reconstruction from X-ray images",
+        "Reproducibility of cephalometric landmarks and errors of measurements of cephalometric cranial distances",
+        "Automatic 3-dimensional cephalometric landmarking based on active shape models in related projections",
+        "Automatic localization of three-dimensional cephalometric landmarks on CBCT images by extracting symmetry features of the skull",
+        "Digital cephalometric teleradiography with storage phosphors. Comparative study",
+        "3D CT-based cephalometric analysis: 3D cephalometric theoretical concept and software",
+        "A systematic review of the automatic kidney segmentation methods in abdominal images",
+        "A proportional-derivative-double derivative controller for robot manipulators",
+        "Iterative learning control: Practical implementation and automation",
+        "Autonomous robotic manipulation: Real-time, deep-learning approach for grasping of unknown objects",
+        "The accuracy of a designed software for automated localization of craniofacial landmarks on CBCT images",
+        "A probabilistically quantized learning control framework for networked linear systems",
+        "Noisy output based direct learning tracking control with markov nonuniform trial lengths using adaptive gains",
+        "A privacy preserving internet of things smart healthcare financial system",
+        "Distortion and magnification of four digital cephalometric units",
+        "Automatic cephalometric landmark detection on X-ray images using a deep-learning method",
+        "Optimizing information freshness for MEC-enabled cooperative autonomous driving",
+        "Swarm intelligence-based hyper-heuristic for the vehicle routing problem with prioritized customers",
+        "Artificial intelligence-based digital transformation for sustainable societies: The prevailing effect of COVID-19 crises",
+        "Deep geodesic learning for segmentation and anatomical landmarking",
+        "A lightweight deep learning architecture for the automatic detection of pneumonia using chest X-ray images",
+        "Effect of head rotation on lateral cephalometric radiographs",
+        "Automated 2-D cephalometric analysis on X-ray images by a model-based approach",
+        "Learning-based local-to-global landmark annotation for automatic 3D cephalometry"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Hail",
+            "@id": "60104671",
+            "affilname": "University of Ha'il",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104671",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Patiala",
+            "@id": "60276078",
+            "affilname": "Government Bikram College of Commerce",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60276078",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199583",
+            "affilname": "Chulalongkorn Business School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199583",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Rajapalayam",
+            "@id": "60114916",
+            "affilname": "Ramco Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60114916",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Rajpura",
+            "@id": "60113205",
+            "affilname": "Chitkara University, Punjab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60113205",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Mohali",
+            "@id": "60111704",
+            "affilname": "Chandigarh University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60111704",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Chennai",
+            "@id": "60109336",
+            "affilname": "Saveetha School of Engineering",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60109336",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Dehradun",
+            "@id": "60103785",
+            "affilname": "Graphic Era Deemed to be University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103785",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Phagwara",
+            "@id": "60094571",
+            "affilname": "Lovely Professional University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60094571",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Hyderabad",
+            "@id": "60094091",
+            "affilname": "Chaitanya Bharathi Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60094091",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Beirut",
+            "@id": "60068769",
+            "affilname": "Lebanese American University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60068769",
+            "affiliation-country": "Lebanon"
+        }
+    ],
+    "funding": []
+}

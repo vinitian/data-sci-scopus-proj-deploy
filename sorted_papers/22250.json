@@ -1,0 +1,88 @@
+{
+    "eid": "2-s2.0-85146907900",
+    "title": "High-Speed Spiral-Phase Donut-Modes-Based Hybrid FSO-MMF Communication System by Incorporating OCDMA Scheme",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "donut modes",
+        "free-space optics (FSO)",
+        "mode-division multiplexing (MDM)",
+        "optical code division multiple access (OCDMA)"
+    ],
+    "authors": [
+        "Meet Kumari",
+        "Abhishek Sharma",
+        "Sushank Chaudhary"
+    ],
+    "citedby-count": 3,
+    "ref-count": 21,
+    "ref-list": [
+        "Link-Layer Retransmission-Based Error-Control Protocols in FSO Communications: A Survey",
+        "Hybrid FSO/RF Networks: A Review of Practical Constraints, Applications and Challenges",
+        "Performance Evaluation of a 4 \u00d7 20-Gbps OFDM-Based FSO Link Incorporating Hybrid W-MDM Techniques",
+        "Optical Fiber Sensor Network Integrating SAC-OCDMA and Cladding Modified Optical Fiber Sensors Coated with Nanomaterial",
+        "A Comparative Study of Asynchronous and Synchronous OCDMA Systems",
+        "New Asymptotically Optimal Three-Dimensional Wave-Length/Space/Time Optical Orthogonal Codes for OCDMA Systems",
+        "A Review on Code Families for SAC\u2014OCDMA Systems",
+        "A Cost Effective 100 Gbps Hybrid MDM\u2013OCDMA\u2013FSO Transmission System under Atmospheric Turbulences",
+        "Performance Enhancement of OCDMA System Using NAND Detection with Modified Double Weight (MDW) Code for Optical Access Network",
+        "Three-Dimensional Multi-Diagonal Codes for OCDMA System",
+        "Perspective on Mode-Division Multiplexing",
+        "A High Speed 100 Gbps MDM-SAC-OCDMA Multimode Transmission System for Short Haul Communication",
+        "Hybrid MDM/OCDM System with Mode and Code Multi-/Demultiplexers",
+        "Performance Analysis of Shift ZCC Codes and Multi Diagonal Codes in 100 Gbps MDM-FSO System",
+        "First Demonstration of a Scalable MDM/CDM Optical Access System",
+        "Asynchronous MDM-OCDM-Based 10G-PON over 40km-SMF and 2km-TMF Using Mode MUX/DeMUX at Remote Node and OLT",
+        "40 Gbps\u201380 GHz PSK-MDM Based Ro-FSO Transmission System",
+        "Performance Evaluation of 120 GB/s Hybrid FSO-SACOCDMA-MDM System Using Newly Designed ITM-Zero Cross-Correlation Code",
+        "Performance Analysis of Long-Reach 40/40 Gbps Mode Division Multiplexing-Based Hybrid Time and Wavelength Division Multiplexing Passive Optical Network/Free-Space Optics Using Gamma-Gamma Fading Model with Pointing Error under Different Weather Conditions",
+        "Hybrid WDM-FSO-PON with Integrated SMF/FSO Link for Transportation of Rayleigh Backscattering Noise Mitigated Wired/Wireless Information in Long-Reach",
+        "Investigation of High-Speed Hybrid WDM-OCDMA-PON System Incorporating Integrated Fiber-FSO Link under Distinct Climate Conditions"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Mohali",
+            "@id": "60111704",
+            "affilname": "Chandigarh University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60111704",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Amritsar",
+            "@id": "60000078",
+            "affilname": "Guru Nanak Dev University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000078",
+            "affiliation-country": "India"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "eid": "2-s2.0-85092920527",
+    "title": "Cyclopentane Purification from Multicomponent Azeotropic Mixtures",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Chemical Engineering (all)",
+            "@code": "1500",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "azeotropic and close boiling point mixture",
+        "distillation",
+        "extractive distillation"
+    ],
+    "authors": [
+        "I. Nuchteera",
+        "P. Thirasak",
+        "M. Chavagorn",
+        "C. Thanyalak",
+        "S. Kitipat"
+    ],
+    "citedby-count": 3,
+    "ref-count": 10,
+    "ref-list": [
+        "Design and Control of Distillation Systems for Separating Azeotropes",
+        "Petroleum Science and Technology",
+        "METHOD OF PRODUCING PURIFIED CYCLOPENTANE",
+        "Separation process engineering: includes mass transfer analysis",
+        "Conceptual Design of Distillation Systems",
+        "Chapter 2 - Vapor\u2013Liquid Equilibrium and Physical Properties for Distillation, Distillation: Fundamentals and Principles",
+        "Extractive Distillation: A Review. Separation and Purification Reviews",
+        "Distillation | Extractive Distillation",
+        "\u201cConceptual design for the extractive distillation of cyclopentane and neohexane using a mixture of N,N-dimethyl formamide and ionic liquid as the solvent.\u201d"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Rayong",
+            "@id": "125237088",
+            "affilname": "Sak Chaisidhi Company Limited",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125237088",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chonburi",
+            "@id": "109677783",
+            "affilname": "Thaioil Public Company Limited",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/109677783",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Petroleum and Petrochemical College",
+        "Thai Oil Public Company Limited"
+    ]
+}

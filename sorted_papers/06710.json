@@ -1,0 +1,143 @@
+{
+    "eid": "2-s2.0-85166269895",
+    "title": "The Good, the Bad and the Ugly: Practices and Perspectives on Hardware Acceleration for Embedded Image Processing",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Co-design",
+        "Embedded",
+        "FPGAs",
+        "Hardware acceleration",
+        "Image processing",
+        "Language",
+        "Paradigm"
+    ],
+    "authors": [
+        "Joshua Fryer",
+        "Paulo Garcia"
+    ],
+    "citedby-count": 0,
+    "ref-count": 86,
+    "ref-list": [
+        "Pattern recognition and image processing",
+        "Generative adversarial networks in medical image augmentation: A review",
+        "Binary partition tree as an efficient representation for image processing, segmentation, and information retrieval",
+        "Image processing with imagej",
+        "FPGA: An efficient and promising platform for real-time image processing applications",
+        "Tightly-coupled lidar and computer vision integration for vehicle detection",
+        "Computer vision and deep learning techniques for pedestrian detection and tracking: A survey",
+        "Fast semantic segmentation for scene perception",
+        "Survey of computer vision algorithms and applications for unmanned aerial vehicles",
+        "Computer vision algorithms and hardware implementations: A survey",
+        "Deep learning for computer vision: A brief review",
+        "Performance evaluation of image processing algorithms on the GPU",
+        "Power efficient dataflow design for a heterogeneous smart camera architecture",
+        "Real-time system hardware for agnostic and deterministic OSES within softcore",
+        "Towards a programming paradigm for reconfigurable computing: Asynchronous graph programming",
+        "Tooling up for reconfigurable system design",
+        "Suitability of recent hardware accelerators (DSPS, FPGAS, and GPUS) for computer vision and image processing algorithms",
+        "An introduction to high-level synthesis",
+        "Robust lane detection and tracking with Ransac and Kalman filter",
+        "High-level synthesis: past, present, and future",
+        "A survey and evaluation of FPGA high-level synthesis tools",
+        "Three ages of FPGAs: a retrospective on the first thirty years of FPGA technology",
+        "An overview of today\u2019s high-level synthesis tools",
+        "High-level synthesis for FPGAs: From prototyping to deployment",
+        "A review of high-level synthesis for dynamically reconfigurable FPGAs",
+        "Reconfigurable computing: a survey of systems and software",
+        "Compiling for reconfigurable computing: a survey",
+        "Hierarchical and multiple-clock domain high-level synthesis for low-power design on FPGA",
+        "SystemC: A modeling platform supporting multiple design abstractions",
+        "Handel-C for rapid prototyping of VLSI coprocessors for real time systems",
+        "Catapult synthesis: A practical introduction to interactive C synthesis",
+        "Impulse C vs. VHDL for accelerating tomographic reconstruction",
+        "C-to-Silicon Compiler High-Level Synthesis",
+        "Legup: High-level synthesis for FPGA-based processor/accelerator systems",
+        "ASC: A stream compiler for computing with FPGAs",
+        "Chimps: A C-level compilation flow for hybrid CPU-FPGA architectures",
+        "Designing modular hardware accelerators in C with ROCCC 2.0",
+        "Trident: from high-level language to hardware circuitry",
+        "High-performance dynamic programming on FPGAS with OpenCL",
+        "FCUDA: Enabling efficient compilation of Cuda Kernels onto FPGAs",
+        "Lime: A Java-compatible and synthesizable language for heterogeneous architectures",
+        ". Kiwi: Synthesis of FPGA circuits from parallel programs",
+        "Dwarv 2.0: A cosy-based C-to-VHDL hardware compiler",
+        "Bambu: A modular framework for the high level synthesis of memory-intensive applications",
+        "Source and IR-level optimisations in the hercules high-level synthesis tool",
+        "HML: An innovative hardware description language and its translation to VHDL",
+        "Hardware design and synthesis in ForSyDe",
+        "Designing FPGA circuits in lava",
+        "Paro: Synthesis of hardware accelerators for multi-dimensional dataflow-intensive applications",
+        "Development of safety-critical reconfigurable hardware with Esterel",
+        "Compiling higher order functional programs to composable digital hardware",
+        "Semantics driven hardware design, implementation, and verification with rewire",
+        "5. High-level synthesis of SAFL",
+        "Harnessing parallelism in FPGAs using the hume language",
+        "Hipacc: a domain-specific language and compiler for image processing",
+        "Building domain-specific languages for model-driven development",
+        "LLVM: A compilation framework for lifelong program analysis & transformation",
+        "Software code generation for the RVC-CAL language",
+        ". High-level synthesis of dataflow programs for signal processing systems",
+        "Spiral: Code generation for DSP transforms",
+        "RIPL: A parallel image processing language for FPGAs",
+        "Bluespec system Verilog: Efficient, correct RTL from high level specifications",
+        "Chisel: Constructing hardware in a scala embedded language",
+        "Kahn process networks",
+        "PushPush: Seamless integration of hardware and software objects via function calls over AXI",
+        "Hardware efficient architectures for eigenvalue computation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ottawa",
+            "@id": "60017592",
+            "affilname": "Carleton University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017592",
+            "affiliation-country": "Canada"
+        }
+    ],
+    "funding": []
+}

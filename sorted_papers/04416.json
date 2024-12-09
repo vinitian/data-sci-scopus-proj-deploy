@@ -1,0 +1,78 @@
+{
+    "eid": "2-s2.0-85125186278",
+    "title": "Screening TB Using Deep Transfer Learning",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Automotive Engineering",
+            "@code": "2203",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Chest X-ray (CXR)",
+        "Convolutional Neural Network (CNN)",
+        "Transfer learning",
+        "Tuberculosis (TB)"
+    ],
+    "authors": [
+        "Chaiyasit Pattanasuwan",
+        "Prabhas Chongstitvatana"
+    ],
+    "citedby-count": 0,
+    "ref-count": 18,
+    "ref-list": [
+        "Global Tuberculosis Report 2020-Reflections on the global TB burden, treatment and prevention efforts",
+        "Tuberculosis: A radiologic review",
+        "Chest tuberculosis: Radiological review and imaging recommendations",
+        "Deep learning",
+        "Advancements in image classification using convolutional neural network",
+        "Convolutional neural network (CNN) for image detection and recognition",
+        "Artificial intelligence in medical imaging: Threat or opportunity? Radiologists again at the forefront of innovation in medicine",
+        "Deep convolutional neural networks for chest diseases detection",
+        "Deep residual learning for image recognition",
+        "Densely connected convolutional networks",
+        "Automatic tuberculosis screening using chest radiographs",
+        "A novel approach for tuberculosis screening based on deep convolutional neural networks",
+        "Efficient pneumonia detection in chest xray images using deep transfer learning"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

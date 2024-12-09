@@ -1,0 +1,251 @@
+{
+    "eid": "2-s2.0-85079179222",
+    "title": "Disease risk and GVHD biomarkers can stratify patients for risk of relapse and nonrelapse mortality post hematopoietic cell transplant",
+    "cover-date": "2020-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Hematology",
+            "@code": "2720",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Oncology",
+            "@code": "2730",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Cancer Research",
+            "@code": "1306",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Mina D. Aziz",
+        "Jay Shah",
+        "Urvi Kapoor",
+        "Christina Dimopoulos",
+        "Sarah Anand",
+        "Allan Augustine",
+        "Francis Ayuk",
+        "Mohammed Chaudhry",
+        "Yi Bin Chen",
+        "Hannah K. Choe",
+        "Aaron Etra",
+        "Stephanie Gergoudis",
+        "Matthew J. Hartwell",
+        "Elizabeth O. Hexner",
+        "William J. Hogan",
+        "Carrie L. Kitko",
+        "Steven Kowalyk",
+        "Nicolaus Kr\u00f6ger",
+        "Pietro Merli",
+        "George Morales",
+        "Ryotaro Nakamura",
+        "Rainer Ordemann",
+        "Michael A. Pulsipher",
+        "Muna Qayed",
+        "Ran Reshef",
+        "Wolf R\u00f6sler",
+        "Tal Schechter",
+        "Elisabeth Schreiner",
+        "Hrishikesh Srinagesh",
+        "Matthias W\u00f6lfl",
+        "Kitsada Wudhikarn",
+        "Gregory Yanik",
+        "Rachel Young",
+        "Umut \u00d6zbek",
+        "James L.M. Ferrara",
+        "John E. Levine"
+    ],
+    "citedby-count": 14,
+    "ref-count": 44,
+    "ref-list": [
+        "Immune escape of relapsed AML cells after allogeneic transplantation",
+        "Graft-versus-host disease",
+        "Reduced mortality after allogeneic hematopoietic-cell transplantation",
+        "Significant improvement in survival after unrelated donor hematopoietic cell transplantation in the recent era",
+        "Standard graft-versus-host disease prophylaxis with or without anti-T-cell globulin in haematopoietic cell transplantation from matched unrelated donors: a randomised, open-label, multicentre phase 3 trial",
+        "Prophylaxis and treatment of GVHD: EBMT-ELN working group recommendations for a standardized practice",
+        "Selected biological issues affecting relapse after stem cell transplantation: role of T-cell impairment, NK cells and intrinsic tumor resistance",
+        "The impact of graft-versus-host disease prophylaxis in reduced-intensity conditioning allogeneic stem cell transplant in acute myeloid leukemia: a study from the Acute Leukemia Working Party of the European Group for Blood and Marrow Transplantation",
+        "GVHD prophylaxis using low-dose cyclosporine improves survival in leukaemic recipients of HLA-identical sibling transplants",
+        "Low-dose cyclosporin A with short-term methotrexate for graft-versus-host disease prophylaxis in allogeneic bone marrow transplantation from human leukocyte antigen-identical siblings: a prospective phase II study in Japanese patients",
+        "Low-dose cyclosporine of short duration increases the risk of mild and moderate GVHD and reduces the risk of relapse in HLA-identical sibling marrow transplant recipients with leukaemia",
+        "Extended mycophenolate mofetil and shortened cyclosporine failed to reduce graft-versus-host disease after unrelated hematopoietic cell transplantation with nonmyeloablative conditioning",
+        "Early cyclosporine taper in high-risk sibling allogeneic bone marrow transplants",
+        "Early mixed chimerism-based preemptive immunotherapy in children undergoing allogeneic hematopoietic stem cell transplantation for acute leukemia",
+        "Mixed T lymphocyte chimerism after allogeneic hematopoietic transplantation is predictive for relapse of acute myeloid lLeukemia and myelodysplastic syndromes",
+        "Comparison of chimerism and minimal residual disease monitoring for relapse prediction after allogeneic stem cell transplantation for adult acute lymphoblastic leukemia",
+        "Outcomes among patients with recurrent high-risk hematologic malignancies after allogeneic hematopoietic cell transplantation",
+        "Clinical outcomes of AML patients relapsing after matched-related donor and umbilical cord blood transplantation",
+        "Efficacy of immune suppression tapering in treating relapse after reduced intensity allogeneic stem cell transplantation",
+        "Relapse of lymphoma after allogeneic hematopoietic cell transplantation: management strategies and outcome",
+        "Induction of a graft-versus-leukemia reaction by cyclosporin A withdrawal as immunotherapy for leukemia relapsing after allogeneic bone marrow transplantation",
+        "Early tapering of immunosuppressive agents after HLA-matched donor transplantation can improve the survival of patients with advanced acute myeloid leukemia",
+        "Amphiregulin modifies the minnesota acute graft-versus-host disease risk score: results from BMT CTN 0302/0802",
+        "Regenerating islet-derived 3-alpha is a biomarker of gastrointestinal graft-versus-host disease",
+        "An early-biomarker algorithm predicts lethal graft-versus-host disease and survival",
+        "A prognostic score for acute graft-versus-host disease based on biomarkers: a multicentre study",
+        "ST2 as a marker for risk of therapy-resistant graft-versus-host disease and death",
+        "MAGIC biomarkers predict long-term outcomes for steroid-resistant acute GVHD",
+        "International, multicenter standardization of acute graft-versus-host disease clinical data collection: a report from the Mount Sinai Acute GVHD International Consortium",
+        "A scheme for defining cause of death and its application in the T cell depletion trial",
+        "Validation and refinement of the Disease Risk Index for allogeneic stem cell transplantation",
+        "A proportional hazards model for the subdistribution of a competing risk",
+        "A class of K-sample tests for comparing the cumulative incidence of a competing risk",
+        "Establishment of definitions and review process for consistent adjudication of cause-specific mortality after allogeneic unrelated donor hematopoietic cell transplantation",
+        "Variation in management of immune suppression after allogeneic hematopoietic cell transplantation",
+        "Significance of recurrence of minimal residual disease detected by multi-parameter flow cytometry in patients with acute lymphoblastic leukemia in morphological remission",
+        "Monitoring of minimal residual disease after allogeneic stem-cell transplantation in relapsed childhood acute lymphoblastic leukemia allows for the identification of impending relapse: results of the ALL-BFM-SCT 2003 trial",
+        "Graft-versus-leukemia reactions after bone marrow transplantation",
+        "The allogeneic graft-versus-cancer effect",
+        "Role of donor lymphocyte infusions in relapsed hematological malignancies after stem cell transplantation revisited",
+        "Prophylactic donor lymphocyte infusion after allogeneic stem cell transplantation in acute leukaemia\u2014a matched pair analysis by the Acute Leukaemia Working Party of EBMT",
+        "Prevention of relapse using DLI can increase survival following HLA-identical transplantation in patients with advanced-stage acute leukemia: a multi-center study",
+        "Pegylated interferon-2alpha invokes graft-versus-leukemia effects in patients relapsing after allogeneic stem cell transplantation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "New York",
+            "@id": "60012981",
+            "affilname": "Icahn School of Medicine at Mount Sinai",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012981",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Dresden",
+            "@id": "60204338",
+            "affilname": "Universit\u00e4tsklinikum Carl Gustav Carus Dresden",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60204338",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Regensburg",
+            "@id": "60030807",
+            "affilname": "Universit\u00e4t Regensburg",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030807",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Nashville",
+            "@id": "60030769",
+            "affilname": "Vanderbilt University Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030769",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Toronto",
+            "@id": "60030319",
+            "affilname": "Hospital for Sick Children University of Toronto",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030319",
+            "affiliation-country": "Canada"
+        },
+        {
+            "affiliation-city": "New York",
+            "@id": "60030162",
+            "affilname": "Columbia University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030162",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Erlangen",
+            "@id": "60029931",
+            "affilname": "Universit\u00e4tsklinikum Erlangen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029931",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Boston",
+            "@id": "60029929",
+            "affilname": "Massachusetts General Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029929",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ann Arbor",
+            "@id": "60025778",
+            "affilname": "University of Michigan, Ann Arbor",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025778",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Philadelphia",
+            "@id": "60023009",
+            "affilname": "Penn Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023009",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Los Angeles",
+            "@id": "60020565",
+            "affilname": "Children's Hospital Los Angeles",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020565",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Rome",
+            "@id": "60017905",
+            "affilname": "IRCCS Ospedale Pediatrico Bambino Ges\u00f9",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017905",
+            "affiliation-country": "Italy"
+        },
+        {
+            "affiliation-city": "Wurzburg",
+            "@id": "60012689",
+            "affilname": "Julius-Maximilians-Universit\u00e4t W\u00fcrzburg",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012689",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Duarte",
+            "@id": "60007474",
+            "affilname": "City of Hope National Med Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007474",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Rochester",
+            "@id": "60005558",
+            "affilname": "Mayo Clinic",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005558",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Hamburg",
+            "@id": "60005036",
+            "affilname": "Universit\u00e4tsklinikum Hamburg-Eppendorf",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005036",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Columbus",
+            "@id": "60003500",
+            "affilname": "The Ohio State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003500",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Atlanta",
+            "@id": "60000928",
+            "affilname": "Emory University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000928",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "American Cancer Society",
+        "National Cancer Institute",
+        "Doris Duke Charitable Foundation"
+    ]
+}

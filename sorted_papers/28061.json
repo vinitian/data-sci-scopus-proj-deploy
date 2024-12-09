@@ -1,0 +1,89 @@
+{
+    "eid": "2-s2.0-85097539909",
+    "title": "Solution types of two-sided interval linear system and their application on interval linear programming problems",
+    "cover-date": "2021-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Interval linear system",
+        "L-localized solution",
+        "Tolerance solution",
+        "Weak solution"
+    ],
+    "authors": [
+        "Phantipa Thipwiwatpotjana",
+        "Artur Gorka",
+        "Worrawate Leela-apiradee"
+    ],
+    "citedby-count": 2,
+    "ref-count": 24,
+    "ref-list": [
+        "Linear Optimization Problems with Inexact Data",
+        "Zur l\u00f6sung linearer ungleichungssysteme bei st\u00f6rimg der rechten seite und der koeffizientenmatrix",
+        "Weak and strong solvability of interval linear systems of equations and inequalities",
+        "\u00dcber Gleichungen und \u00fcber L\u00f6sungen",
+        "Compatibility of approximate solution of linear equations with given error bounds for coefficients and right-hand sides",
+        "Checking solvability of systems of interval linear equations and inequalities via mixed integer programming",
+        "Input-Output Planning with Inexact Data, Vol. 9",
+        "On controlled solution set of interval algebraic systems",
+        "Parametric interval algebraic systems",
+        "On optimal solution of interval linear equations",
+        "Relations between various methods for solving linear interval and parametric equations",
+        "Zur L\u00f6sung von linearen Toleranzproblemen",
+        "A solution algorithm for a system of interval linear equations based on the constraint interval point of view",
+        "Localized solutions to interval linear equations",
+        "Tolerance analysis with interval arithmetic",
+        "Interval Methods for Systems of Equations",
+        "Solving the interval linear tolerance problem",
+        "Controllable solution set to interval static systems",
+        "AE solutions and AE solvability to general interval linear systems",
+        "L- and R-localized solvabilities of max-separable interval linear equations and its applications",
+        "Interval Analysis",
+        "An algorithm for solving two-sided interval system of max-plus linear equations",
+        "Towards sustainable water resources planning and pollution control: Inexact joint-probabilistic double-sided stochastic chance-constrained programming model",
+        "Interval number and fuzzy number linear programmings"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Rayong",
+            "@id": "60272485",
+            "affilname": "Kamnoetvidya Science Academy",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60272485",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Due West",
+            "@id": "60027259",
+            "affilname": "Erskine College",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027259",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60012521",
+            "affilname": "Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012521",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

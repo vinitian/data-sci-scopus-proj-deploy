@@ -1,0 +1,83 @@
+{
+    "eid": "2-s2.0-85082146794",
+    "title": "Sleep medicine in Thailand",
+    "cover-date": "2020-03-15",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Pulmonary and Respiratory Medicine",
+            "@code": "2740",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Neurology",
+            "@code": "2808",
+            "@abbrev": "NEUR"
+        },
+        {
+            "@_fa": "true",
+            "$": "Neurology (clinical)",
+            "@code": "2728",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Naricha Chirakalwasan",
+        "Aroonwan Preutthipan",
+        "Khun Nanta Maranetra",
+        "Prapan Yongchaiyudh",
+        "Naiphinich Kotchabhakdi"
+    ],
+    "citedby-count": 2,
+    "ref-count": 13,
+    "ref-list": [
+        "Projecting Thailand physician supplies between 2012 and 2030: Application of cohort approaches",
+        "Prospects and contexts of demographic transitions in Thailand",
+        "Death in transitional Asia: 11-year all-cause mortality in the Thai cohort study",
+        "Epidemiology of sleep-related complaints associated with sleep-disordered breathing in Bangkok, Thailand",
+        "Prevalence of sleep apnea in HRH Princess Maha Chakri Srinthorn Medical Center, Thailand",
+        "Estimation of the global prevalence and burden of obstructive sleep apnoea: A literature-based analysis",
+        "Sleep medicine in Thailand",
+        "Effects of bedroom environmental conditions on the severity of obstructive sleep apnea"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199578",
+            "affilname": "Ramathibodi Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199578",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60012718",
+            "affilname": "Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012718",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "101823394",
+            "affilname": "Royal Society of Thailand",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101823394",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

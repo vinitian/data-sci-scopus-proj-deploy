@@ -1,0 +1,110 @@
+{
+    "eid": "2-s2.0-85161609917",
+    "title": "Multi-FusNet of Cross Channel Network for Image Super-Resolution",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "multipath residual",
+        "Residual network",
+        "super-resolution"
+    ],
+    "authors": [
+        "Watchara Ruangsang",
+        "Supavadee Aramvith",
+        "Takao Onoye"
+    ],
+    "citedby-count": 1,
+    "ref-count": 52,
+    "ref-list": [
+        "Public confidence in CCTV and fear of crime in Bangkok, Thailand",
+        "Thailand smart cities: What is the path to success?",
+        "The design of real estate housing project in Bangkok and the metropolitan, Thailand for the year 2021",
+        "Bangkok CCTV image through a road environment extraction system using multi-label convolutional neural network classification",
+        "Real-time multiple face recognition using deep learning on embedded GPU system",
+        "Unsupervised anomaly detection and localization based on deep spatiotemporal translation network",
+        "Video processing and analysis for surveillance applications",
+        "Improving feature preservation in high efficiency video coding standard",
+        "Encoder control enhancement in HEVC based on R-Lambda coefficient distribution",
+        "Super-resolution for HD to 4K using analysis K-SVD dictionary and adaptive elastic-net",
+        "Efficient super-resolution algorithm using overlapping bicubic interpolation",
+        "Multi-scale inception based superresolution using deep learning approach",
+        "Deep learning for image superresolution: A survey",
+        "Learning a deep convolutional network for image super-resolution",
+        "Image super-resolution using deep convolutional networks",
+        "Accurate image super-resolution using very deep convolutional networks",
+        "Deep residual learning for image recognition",
+        "Fast, accurate, and lightweight superresolution with cascading residual network",
+        "Multi-scale residual network for image super-resolution",
+        "Feedback network for image super-resolution",
+        "Lightweight single-image super-resolution network with attentive auxiliary feature learning",
+        "Multi-objective reinforced evolution in mobile neural architecture search",
+        "Fast, accurate and lightweight super-resolution with neural architecture search",
+        "Deeply-recursive convolutional network for image super-resolution",
+        "Image super-resolution via deep recursive residual network",
+        "MemNet:Apersistent memory network for image restoration",
+        "Deep Laplacian pyramid networks for fast and accurate super-resolution",
+        "Residual dense network for image super-resolution",
+        "Deep back-projection networks for super-resolution",
+        "Fast and accurate single image superresolution via information distillation network",
+        "Lightweight image superresolution with information multi-distillation network",
+        "A deep convolutional neural network with selection units for super-resolution",
+        "Image superresolution using very deep residual channel attention networks",
+        "Enhanced deep residual networks for single image super-resolution",
+        "A deep journey into super-resolution: A survey",
+        "Accelerating the super-resolution convolutional neural network",
+        "Learning a single convolutional superresolution network for multiple degradations",
+        "Lightweight single image super-resolution with similar feature fusion block",
+        "Understanding and improving convolutional neural networks via concatenated rectified linear units",
+        "Channel split convolutional neural network for single image super-resolution (CSISR)",
+        "A dynamic residual self-attention network for lightweight single image super-resolution",
+        "Information-growth attention network for image super-resolution",
+        "Context reasoning attention network for image super-resolution",
+        "Second-order attention network for single image super-resolution",
+        "Residual networks behave like ensembles of relatively shallow networks",
+        "Multipath residual network for spectral-spatial hyperspectral image classification",
+        "Real-time single image and video superresolution using an efficient sub-pixel convolutional neural network",
+        "NTIRE 2017 challenge on single image super-resolution: Dataset and study",
+        "On single image scale-up using sparserepresentations",
+        "Single image super-resolution from transformed self-exemplars"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Suita",
+            "@id": "60024322",
+            "affilname": "Osaka University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024322",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "NSRF",
+        "Thailand Science Research and Innovation Fund Chulalongkorn University",
+        "Chulalongkorn University"
+    ]
+}

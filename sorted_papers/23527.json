@@ -1,0 +1,108 @@
+{
+    "eid": "2-s2.0-85141840215",
+    "title": "A Deterministic Branch Prediction Technique for a Real-Time Embedded Processor Based on PicoBlaze Architecture",
+    "cover-date": "2022-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "deterministic instruction set architecture",
+        "field programmable gate arrays",
+        "FPGA",
+        "microprocessors",
+        "real-time embedded systems",
+        "Xilinx PicoBlaze"
+    ],
+    "authors": [
+        "Ehsan Ali",
+        "Wanchalerm Pora"
+    ],
+    "citedby-count": 0,
+    "ref-count": 77,
+    "ref-list": [
+        "On the determinism of multi-core processors",
+        "The worst-case execution time problem-overview of methods and survey of tools",
+        "A Definition and Classification of Timing Anomalies",
+        "Timing anomalies reloaded",
+        "PLRU cache domino effects",
+        "Advanced Processor Architecture",
+        "On subnormal floating point and abnormal timing",
+        "Misconceptions about real-time computing: A serious problem for next-generation systems",
+        "Predicated worst-case execution-time analysis",
+        "The best of both: High performance and deterministic real-time executive by application-specific multi-core SoCs",
+        "Timing validation of automotive software",
+        "Building timing predictable embedded systems",
+        "Worst-case execution-time analysis for embedded real-time systems",
+        "Modular transformation of embedded systems from firm-cores to soft-cores",
+        "Chapter 2-overview of embedded systems and real-time systems",
+        "A firm real-time system implementation using commercial off-the-shelf hardware and free software",
+        "Chapter 6-programmable-logic and application-specific integrated circuits (plasic)",
+        "FPGA Design Automation: A Survey",
+        "FPGAs as reconfigurable processing elements",
+        "Advanced features and industrial applications of FPGAs-a review",
+        "Soft-core processors for embedded systems",
+        "Firmware upgrade in xTCA systems",
+        "Measuring the gap between FPGAs and ASICs",
+        "A study of the speedups and competitiveness of FPGA soft processor cores using dynamic hardware/software partitioning",
+        "Data processing on FPGAs",
+        "Design and Implementation of Soft core Processor on FPGA based on Avalon Bus and SOPC Technology",
+        "Chapter 14-embedded processing cores",
+        "An introduction to soft-core processors and a biomedical application",
+        "FPGA-based real-time embedded system for RISS/GPS integrated navigation",
+        "Real-time embedded systems powered by FPGA dynamic partial self-reconfiguration: A case study oriented to biometric recognition applications",
+        "RISC I: A Reduced Instruction set VLSI computer",
+        "Increasing processor performance by implementing deeper pipelines",
+        "The optimal logic depth per pipeline stage is 6 to 8 fo4 inverter delays",
+        "Optimum power/performance pipeline depth",
+        "The binary decision machine as programmable controller",
+        "Binary-decision and RISC-like machines for semicustom design",
+        "Single cycle risc-v micro architecture processor and its fpga prototype",
+        "The 801 minicomputer",
+        "Double-latch clocking scheme for low-power IP cores",
+        "Low-power design of 8-b embedded CoolRISC microcontroller cores",
+        "Platform Independent 8-bit Soft-core for SoPC",
+        "Espresso-signature: A new exact minimizer for logic functions",
+        "Executing Hardware as Parallel Software for PicoBlaze Networks",
+        "Implementation and Verification of IEEE-754 64-bit Floating-Point Arithmetic Library for 8-bit Soft-Core Processors"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn Academic Advancement",
+        "Chulalongkorn University"
+    ]
+}

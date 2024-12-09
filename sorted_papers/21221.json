@@ -1,0 +1,74 @@
+{
+    "eid": "2-s2.0-85100418945",
+    "title": "A straight-line DCA for a gas reservoir",
+    "cover-date": "2021-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Fuel Technology",
+            "@code": "2103",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geotechnical Engineering and Engineering Geology",
+            "@code": "1909",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [
+        "DCA",
+        "Gas initially-in-place",
+        "Gas reservoir"
+    ],
+    "authors": [
+        "Kittiphong Jongkittinarukorn",
+        "Nick Last",
+        "Freddy Humberto Escobar",
+        "Falan Srisuriyachai"
+    ],
+    "citedby-count": 5,
+    "ref-count": 16,
+    "ref-list": [
+        "Advanced Reservoir Engineering",
+        "Application of real gas flow theory to well testing and deliverability forecasting",
+        "A semi-analytic (p/z) rate-time relation for the analysis and prediction of gas well performance",
+        "Analysis of decline curves",
+        "Density-based decline performance analysis of natural gas reservoirs using a universal type-curve",
+        "The variable-rate reservoir limits testing of gas wells",
+        "Type curves for finite radial and linear gas-flow systems: constant-terminal-pressure case",
+        "Estimating gas decline-exponent before decline-curve analysis",
+        "Decline curve analysis using type curves",
+        "Decline curve analysis using type curves: case histories",
+        "Useful concepts for decline-curve forecasting, reserve estimation, and analysis",
+        "Gas reservoir decline-curve analysis using type curves with real gas pseudopressure and normalized time",
+        "Decline curve analysis for HP/HT gas wells: theory and applications",
+        "A new decline-curve-analysis method for layered reservoirs",
+        "Rigorous and explicit determination of reserves and hyperbolic exponents in gas-well decline analysis",
+        "Straight-line analysis of flow rate vs cumulative production data for the explicit determination of gas reserves"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Neiva",
+            "@id": "60070351",
+            "affilname": "Universidad Surcolombiana",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60070351",
+            "affiliation-country": "Colombia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Perth",
+            "@id": "120428412",
+            "affilname": "Well Test Knowledge International",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/120428412",
+            "affiliation-country": "Australia"
+        }
+    ],
+    "funding": []
+}

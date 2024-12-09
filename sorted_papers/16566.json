@@ -1,0 +1,64 @@
+{
+    "eid": "2-s2.0-85086252008",
+    "title": "Automated Monitoring and Behavior Analysis for Proactive Security Operations",
+    "cover-date": "2020-04-07",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Elastic stack",
+        "Honeypot",
+        "Log analysis",
+        "Network threat detection",
+        "Proactive security operation"
+    ],
+    "authors": [
+        "Vitsunee Teeraratchakarn",
+        "Yachai Limpiyakorn"
+    ],
+    "citedby-count": 4,
+    "ref-count": 10,
+    "ref-list": [
+        "Detecting and analyzing the malicious linux events using filebeat and elk stack",
+        "Detecting and analyzing the malicious windows events using winlogbeat and elk stack",
+        "Malicious event detection using elk stack through cyber threat intelligence",
+        "Cyber threat intelligence from honeypot data using elasticsearch",
+        "Network security enhancement through effective log analysis using elk",
+        "Geo-identification of web users through logs using elk stack",
+        "Research on network defense strategy based on honey pot technology",
+        "Automated malicious advertisement detection using virustotal, urlvoid, and trendmicro",
+        "Public api version 2. 0",
+        "Faqs for v2 dat files"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

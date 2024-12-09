@@ -1,0 +1,96 @@
+{
+    "eid": "2-s2.0-85075060368",
+    "title": "Identification of zinc-ion battery via equivalent circuit model",
+    "cover-date": "2019-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Process Chemistry and Technology",
+            "@code": "1508",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Battery management system",
+        "Equivalent-circuit model",
+        "Hybrid pulse power",
+        "Recursive least squares",
+        "Zinc-ion batteries"
+    ],
+    "authors": [
+        "Wathanyu Kao-Ian",
+        "Soorathep Kheawhom",
+        "Sorin Olaru"
+    ],
+    "citedby-count": 3,
+    "ref-count": 16,
+    "ref-list": [
+        "Zinc-ion batteries: Materials, mechanisms, and applications",
+        "Electrical energy storage for the grid: A battery of choices",
+        "Recent advances in aqueous zinc-ion batteries",
+        "Li-ion battery materials: Present and future",
+        "Bio-inspired choline chloride-based deep eutectic solvents as electrolytes for lithium-ion batteries",
+        "Organic electrolyte-based rechargeable zincion batteries using potassium nickel hexacyanoferrate as a cathode material",
+        "A high-capacity and long-life aqueous rechargeable zinc battery using a metal oxide intercalation cathode",
+        "Rechargeable zinc-ion battery based on choline chloride-urea deep eutectic solvent",
+        "Energetic zinc ion chemistry: The rechargeable zinc ion battery",
+        "Online estimation of battery equivalent circuit model parameters and state of charge using decoupled least squares technique",
+        "A systematic review of lumped-parameter equivalent circuit models for real-time estimation of lithium-ion battery states",
+        "Progress in rechargeable aqueous zinc-and aluminum-ion battery electrodes: Challenges and outlook",
+        "State of charge estimation for li-ion battery based on extended kalman filter",
+        "Digital signal processing: A practical approach"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Gif-sur-Yvette",
+            "@id": "60106017",
+            "affilname": "Universit\u00e9 Paris-Saclay",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60106017",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn Academic Advancement",
+        "Hadamard Mathematics LabEx",
+        "IDEX Paris-Saclay",
+        "Thailand\u2019s Office of Higher Education, Chulalongkorn University",
+        "Chulalongkorn University"
+    ]
+}

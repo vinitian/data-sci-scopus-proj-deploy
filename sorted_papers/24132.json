@@ -1,0 +1,91 @@
+{
+    "eid": "2-s2.0-85165622179",
+    "title": "Two-stage method for hepatocellular carcinoma screening in B-mode ultrasound images",
+    "cover-date": "2023-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Health Professions (miscellaneous)",
+            "@code": "3601",
+            "@abbrev": "HEAL"
+        },
+        {
+            "@_fa": "true",
+            "$": "Occupational Therapy",
+            "@code": "3609",
+            "@abbrev": "HEAL"
+        },
+        {
+            "@_fa": "true",
+            "$": "Medical Laboratory Technology",
+            "@code": "3607",
+            "@abbrev": "HEAL"
+        },
+        {
+            "@_fa": "true",
+            "$": "Health Information Management",
+            "@code": "3605",
+            "@abbrev": "HEAL"
+        }
+    ],
+    "keywords": [
+        "classifier",
+        "HCC screening",
+        "liver ultrasound",
+        "two-stage model",
+        "YOLOv4 detector"
+    ],
+    "authors": [
+        "Sutthirak Tangruangkiat",
+        "Anchali Krisanachinda",
+        "Wongsakorn Ruangprapawut",
+        "Supatana Auethavekiat"
+    ],
+    "citedby-count": 0,
+    "ref-count": 19,
+    "ref-list": [
+        "Non-enhanced magnetic resonance imaging as a surveillance tool for hepatocellular carcinoma: comparison with ultrasound",
+        "Imaging techniques for the diagnosis of hepatocellular carcinoma: a systematic review and meta-analysis",
+        "Computer aided diagnosis system developed for ultrasound diagnosis of liver lesions using deep learning",
+        "Improving B-mode ultrasound diagnostic performance for focal liver lesions using deep learning: A multicentre study",
+        "Preliminary study of chronic liver classification on ultrasound images using an ensemble model",
+        "Comparison of deep-learning and conventional machine-learning methods for the automatic recognition of the hepatocellular carcinoma areas from ultrasound images",
+        "Joint segmentation and classification of hepatic lesions in ultrasound images using deep learning",
+        "Automated liver tumor detection in abdominal ultrasonography with a modified faster region-based convolutional neural networks (Faster R-CNN) architecture",
+        "A study on the optimal condition of ground truth area for liver tumor detection in ultrasound images using deep learning",
+        "Deep learning for ultrasound image caption generation based on object detection",
+        "Liver motion tracking in ultrasound images using attention guided mask R-CNN with long-short-term-memory network",
+        "Development and validation of artificial intelligence to detect and diagnose liver lesions from ultrasound images",
+        "Hemangioma-like lesions in chronic liver disease: diagnostic evaluation in patients",
+        "Changes of guidelines diagnosing hepatocellular carcinoma during the last ten-year period",
+        "Management of hepatocellular carcinoma: the role of contrast-enhanced ultrasound",
+        "Diagnosis of focal liver lesions from ultrasound using deep learning",
+        "Diagnosis of focal liver diseases based on deep learning technique for ultrasound images",
+        "An experimental study on breast lesion detection and classification from ultrasound images using deep learning architectures",
+        "Computer-aided diagnosis system for breast ultrasound images using deep learning"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "129990093",
+            "affilname": "Intronics company limited",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129990093",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

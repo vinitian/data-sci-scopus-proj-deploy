@@ -1,0 +1,74 @@
+{
+    "eid": "2-s2.0-85123924013",
+    "title": "Analysis of Equilibrium Point and Genetic Algorithm Design of Observer-Based PID Controller for Membrane Bioreactor",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Aerospace Engineering",
+            "@code": "2202",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Automotive Engineering",
+            "@code": "2203",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Equilibrium point",
+        "Genetic algorithm",
+        "Membrane bioreactor",
+        "PID controller",
+        "State observer"
+    ],
+    "authors": [
+        "Yanita Changsila",
+        "David Banjerdpongchai"
+    ],
+    "citedby-count": 0,
+    "ref-count": 10,
+    "ref-list": [
+        "Membrane bioreactor technology for wastewater treatment and reuse",
+        "Treatment of oil sands process-affected water (OSPW) using a membrane bioreactor with a submerged flat-sheet ceramic microfiltration membrane",
+        "Automatic control system for energy optimization in membrane bioreactors",
+        "Optimal fractional order PI\u03bbD\u03bcA controller design for bioreactor control using particle swarm optimization",
+        "Control of a bioreactor using a new partially supervised reinforcement learning algorithm",
+        "Corrigendum to design, analysis and validation of a simple dynamic model of a submerged membrane bioreactor",
+        "Effluent and production impacts of flow-through aquaculture operations in West Virginia",
+        "Research on PID control parameters tuning based on election-survey optimization algorithm",
+        "Genetic algorithm optimization of PID controller for brushed dc motor",
+        "Genetic algorithm based PID controller tuning approach for continuous stirred tank reactor"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chula Engineering",
+        "Chulalongkorn University",
+        "UTM"
+    ]
+}

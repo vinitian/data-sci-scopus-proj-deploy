@@ -1,0 +1,59 @@
+{
+    "eid": "2-s2.0-84948168371",
+    "title": "Applying SVM to data bypass prediction in multi core last-level caches",
+    "cover-date": "2015-11-25",
+    "subject-areas": [
+        {
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208"
+        },
+        {
+            "$": "Condensed Matter Physics",
+            "@code": "3104"
+        },
+        {
+            "$": "Electronic",
+            "@code": "2504"
+        }
+    ],
+    "keywords": [
+        "Cache bypassing",
+        "Cache hit rate",
+        "Last-level cache",
+        "SVM"
+    ],
+    "authors": [
+        "Warisa Sritriratanarak"
+    ],
+    "citedby-count": 2,
+    "ref-count": 14,
+    "ref-list": [
+        "Counter-based cache replacement and bypassing algorithms",
+        "Optimal bypass monitor for high performance last-level caches",
+        "Improving cache management policies using dynamic reuse distances",
+        "MICRO",
+        "A data cache with multiple caching strategies tuned to different types of locality",
+        "Run-time cache bypassing",
+        "A novel approach to cache block reuse predictions",
+        "Reducing conflicts in direct-mapped caches with a temporality-based design",
+        "A cache replacement policy to reduce cache miss rate for multiprocessor architecture",
+        "ICS",
+        "Multi2Sim: A simulation framework for CPU-GPU computing",
+        "ISCA",
+        "Hierarchical multi-label classification with SVMs: A case study in gene function prediction",
+        "Sampling dead block prediction for last-level caches"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Amphoe Khlong Luang",
+            "affilname": "Asian Institute of Technology Thailand",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

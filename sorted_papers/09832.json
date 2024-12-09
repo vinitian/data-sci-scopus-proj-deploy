@@ -1,0 +1,68 @@
+{
+    "eid": "2-s2.0-85072810668",
+    "title": "An enhanced time series classification using linear-regression based shape descriptor",
+    "cover-date": "2019-07-19",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Dynamic time warping",
+        "HOG",
+        "Shape descriptor",
+        "Time series classification"
+    ],
+    "authors": [
+        "Silumpa Arnupapsanyakorn",
+        "Chotirat Ann Ratanamahatana"
+    ],
+    "citedby-count": 0,
+    "ref-count": 18,
+    "ref-list": [
+        "Fast time series classification using numerosity reduction",
+        "On clustering multimedia time series data using K-means and dynamic time warping",
+        "Exact indexing of dynamic time warping",
+        "Interval and dynamic time warping-based decision trees",
+        "Distance-function design and fusion for sequence data",
+        "The great time series classification bake off: A review and experimental evaluation of recent algorithmic advances",
+        "Classifying time series using local descriptors with hybrid sampling",
+        "Derivative dynamic time warping",
+        "Using dynamic time warping to find patterns in time series",
+        "Weighted dynamic time warping for time series classification",
+        "Sdtw: Computing dtw distances using locally relevant constraints based on salient feature alignments",
+        "Everything you know about dynamic time warping is wrong",
+        "Dimensionality reduction for fast similarity search in large time series databases",
+        "Fast time sequence indexing for arbitrary lp norms",
+        "Bag-of-words representation for biomedical time series classification"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

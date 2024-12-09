@@ -1,0 +1,65 @@
+{
+    "eid": "2-s2.0-85020422062",
+    "title": "Reducing misclassification of true defects in defect classification of electronic board",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Defect candidate region",
+        "Defect classification",
+        "Multiple classes",
+        "SVM"
+    ],
+    "authors": [
+        "Tokiko Shiina",
+        "Yuji Iwahori",
+        "Yohei Takada",
+        "Boonserm Kijsirikul",
+        "M. K. Bhuyan"
+    ],
+    "citedby-count": 1,
+    "ref-count": 9,
+    "ref-list": [
+        "Precise detection of short circuit defect on TFT substrate by infrared image matching",
+        "A method for detecting globally distributed defects by using learning with Mahalanobis distance",
+        "Automatic optical inspection for detecting defects on printed circuit board inner layers",
+        "A neural network approach to defect classification on printed circuit boards",
+        "Defect classification of electronic board using SVM and table matching",
+        "Defect classification of electronic circuit board using SVM based on random sampling",
+        "Defect classification of electronic board using two images with changing lighting condition",
+        "Estimating the error rate of a prediction rule: Improvement on cross-validation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Guwahati",
+            "@id": "60010126",
+            "affilname": "Indian Institute of Technology Guwahati",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010126",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Kasugai",
+            "@id": "60007976",
+            "affilname": "Chubu University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007976",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "JSPS",
+        "Chubu University"
+    ]
+}

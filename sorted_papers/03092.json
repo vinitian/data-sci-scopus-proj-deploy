@@ -1,0 +1,164 @@
+{
+    "eid": "2-s2.0-85052727555",
+    "title": "Constitutive equations for vertical upward two-phase flow in rod bundle",
+    "cover-date": "2018-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Condensed Matter Physics",
+            "@code": "3104",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Fluid Flow and Transfer Processes",
+            "@code": "1507",
+            "@abbrev": "CENG"
+        }
+    ],
+    "keywords": [
+        "Covariance",
+        "Flow regime",
+        "Interfacial area concentration",
+        "Rod bundle",
+        "Void fraction"
+    ],
+    "authors": [
+        "Takashi Hibiki",
+        "Tetsuhiro Ozaki",
+        "Xiuzhong Shen",
+        "Shuichiro Miwa",
+        "Ikuo Kinoshita",
+        "Tatsuya Hazuku",
+        "Somboon Rassame"
+    ],
+    "citedby-count": 17,
+    "ref-count": 77,
+    "ref-list": [
+        "Vertical upward two-phase flow CFD using interfacial area transport equation",
+        "Bubble induced turbulence modeling for vertical bubbly flows",
+        "Interfacial forces used in two-phase flow numerical simulation",
+        "Databases of interfacial area concentration in gas\u2013liquid two-phase flow",
+        "Thermo-fluid Dynamics of Two-phase Flow",
+        "Phenomena identification and ranking table for thermal-hydraulic phenomena during a small-break LOCA with loss of high pressure injection",
+        "Flow characteristics and void fraction prediction in large diameter pipes",
+        "Flow pattern transition for gas-liquid flow in a vertical rod bundle",
+        "Two-phase flow patterns in a four rod bundle",
+        "Flow regime identification under adiabatic upward two-phase flow in a vertical rod bundle geometry",
+        "Flow pattern map and multi-scale entropy analysis in 3\u00d73 rod bundle channel",
+        "Experimental study of flow regime map in 5\u00d75 rod bundle",
+        "An experimental study on measuring volumetric void fraction using impedance meter in 3\u00d73 rod bundle consisting of metal filter",
+        "Flow regime transition criteria for upward two-phase flow in vertical rod bundles",
+        "Drift-flux model for rod bundle geometry",
+        "One-dimensional drift-flux model for two-phase flow in a large diameter pipe",
+        "Average volumetric concentration in two-phase flow systems",
+        "Interfacial drag force in one-dimensional two-fluid model",
+        "NEPTUN-III reflooding and boil-off experiments with an LWHCR fuel bundle simulator: experimental results and initial core assessment efforts",
+        "Void fraction estimation within rod bundle based on three-fluid model and comparison with X-ray CT void data",
+        "In-bundle void measurement of BWR fuel assembly by X-ray CT scanner",
+        "Void fraction distribution in BWR fuel assembly and evaluation of subchannel code",
+        "Void fraction distribution in rod bundle under high pressure conditions",
+        "Void-fraction distribution under high-pressure boil-off conditions in rod bundle geometry",
+        "Void fraction under high pressure, low flow conditions in rod bundle geometry",
+        "Flow structure of sub-cooled boiling water flow in a sub-channel of 3\u00d73 rod bundles",
+        "Measurement and modeling of two-phase flow parameters in scaled 8\u00d78 BWR rod bundle",
+        "Experimental study of air-water two-phase flow in a 8\u00d78 rod bundle under pool condition for one-dimensional drift-flux analysis",
+        "Experimental study of void fraction distribution in a rod bundle at conditions of low flow rate and wide pressure range using X-ray CT images",
+        "Some characteristics of interfacial area transport for air-water two-phase flow in 5\u00d75 rod bundles",
+        "Development of drift-flux model based on 8 \u00d7 8 BWR rod bundle geometry experiments under prototypic temperature and pressure conditions",
+        "The physical closure laws in the CATHARE code",
+        "In-bundle void measurement of a BWR design void correlation",
+        "Review of wide range void correlations against and extensive data base of rod bundle void measurements",
+        "Drift-flux model in a sub-channel of rod bundle geometry",
+        "Drift-flux model for large diameter pipe and new correlation for pool void fraction",
+        "Modeling of distribution parameter, void fraction covariance and relative velocity covariance for upward steam-water boiling flow in vertical rod bundle",
+        "Modeling of bubble-layer thickness for formulation of one-dimensional interfacial area transport equation in subcooled boiling two-phase flow",
+        "One-dimensional interfacial area transport for bubbly two-phase flow in vertical 5\u00d75 rod bundle",
+        "Drift-flux correlation for rod bundle geometries",
+        "Development of a new drift flux model for rod bundle geometries at low flow and pressure conditions (1) New drift flux model development and validation",
+        "Development of one-dimensional two-fluid model with consideration of void fraction covariance effect",
+        "Effect of void fraction covariance on relative velocity in gas-dispersed two-phase flow",
+        "One-group interfacial area transport of bubbly flows in vertical round tubes",
+        "Two-group interfacial area transport equations at bubbly-to-slug flow transition",
+        "Interfacial area concentration of bubbly flow systems",
+        "Interfacial area concentration in boiling bubbly flow systems",
+        "Interfacial area concentration in gas-liquid bubbly to churn-turbulent flow regime",
+        "A correlation for interfacial area concentration in high void fraction flows in large diameter channels",
+        "Prediction of interfacial area transport in a scaled 8\u00d78 BWR rod bundle",
+        "Modeling of bubble coalescence and disintegration in confined upward two-phase flow",
+        "Active nucleation site density in boiling systems",
+        "Wall nucleation modeling in subcooled boiling flow",
+        "Modeling of the condensation sink term in an interfacial area transport equation",
+        "Modeling and validation of interfacial area transport equation in subcooled boiling flow",
+        "Friction factor equations spans all fluid-flow regimes",
+        "A review of explicit friction factor equations",
+        "A new description of liquid metal heat transfer in closed conduits",
+        "Forced convection subcooled boiling prediction of vapor volumetric fraction",
+        "Simple and explicit formulas for the friction factor in turbulent pipe flow",
+        "Proposed correlation of data for isothermal two-phase, two-component flow in pipes",
+        "A theoretical basis for the Lockhart-Martinelli correlation for two-phase flow",
+        "Prediction of time dependent diabatic two-phase water flows",
+        "Two-phase wall friction model for the TRACE computer code"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Yokohama",
+            "@id": "60269774",
+            "affilname": "Nuclear Fuel Industries,Ltd.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60269774",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Sennan",
+            "@id": "60119479",
+            "affilname": "Institute for Integrated Radiation and Nuclear Science, Kyoto University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60119479",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Fukui",
+            "@id": "60104729",
+            "affilname": "Institute of Nuclear Safety System, Incorporated",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104729",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60018357",
+            "affilname": "Tokyo University of Marine Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018357",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Sapporo",
+            "@id": "60014652",
+            "affilname": "Hokkaido University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014652",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "West Lafayette",
+            "@id": "60009254",
+            "affilname": "Purdue University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009254",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Ministry of Education, Culture, Sports, Science and Technology",
+        "Chubu Electric Power Co., Inc."
+    ]
+}

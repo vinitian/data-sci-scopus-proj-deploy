@@ -1,0 +1,86 @@
+{
+    "eid": "2-s2.0-85109856951",
+    "title": "The dosimetric comparison using anisotropic analytical algorithm (AAA) and Acuros XB algorithms in the target overlapping with air cavity of pituitary carcinoma",
+    "cover-date": "2021-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Radiological and Ultrasound Technology",
+            "@code": "3614",
+            "@abbrev": "HEAL"
+        },
+        {
+            "@_fa": "true",
+            "$": "Oncology",
+            "@code": "2730",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Oncology (nursing)",
+            "@code": "2917",
+            "@abbrev": "NURS"
+        }
+    ],
+    "keywords": [
+        "Acuros XB (AXB)",
+        "Air cavity",
+        "Anisotropic analytical algorithm (AAA)",
+        "Inhomogeneity",
+        "Treatment planning"
+    ],
+    "authors": [
+        "Isra Israngkul-Na-Ayuthaya",
+        "Sivalee Suriyapee",
+        "Taweap Sanghamthum"
+    ],
+    "citedby-count": 1,
+    "ref-count": 21,
+    "ref-list": [
+        "Comparative evaluation of modern dosimetry techniques near low- and high-density heterogeneities",
+        "Clinical implementation and evaluation of the Acuros dose calculation algorithm",
+        "A comparison of Monte Carlo, anisotropic analytical algorithm (AAA) and Acuros XB algorithms in assessing dosimetric perturbations during enhanced dynamic wedged radiotherapy deliveries in heterogeneous media",
+        "Small field depth dose profile of 6 MV photon beam in a simple air-water heterogeneity combination: A comparison between anisotropic analytical algorithm dose estimation with thermoluminescent dosimeter dose measurement",
+        "Dosimetric evaluation of Acuros XB dose calculation algorithm with measurements in predicting doses beyond different air gap thickness for smaller and larger field sizes",
+        "Validation of a new grid-based Boltzmann equation solver for dose calculation in radiotherapy with photon beams",
+        "Evaluation of dose calculation accuracy of treatment planning systems in the presence of tissue heterogeneities",
+        "Dose calculation of Acuros XB and Anisotropic Analytical Algorithm in lung stereotactic body radiotherapy treatment with flattening filter free beams and the potential role of calculation grid size",
+        "Comparison of Acuros (AXB) and Anisotropic Analytical Algorithm (AAA) for dose calculation in treatment of oesophageal cancer: effects on modelling tumour control probability",
+        "Comparison of selected dose calculation algorithms in radiotherapy treatment planning for tissues with inhomogeneities",
+        "Dosimetric comparison of different algorithms in stereotactic body radiation therapy (SBRT) plan for non-small cell lung cancer (NSCLC)",
+        "Dose distribution evaluation of various dose calculation algorithms in inhomogeneous media",
+        "Dosimetric evaluation of Acuros XB Advanced Dose Calculation algorithm in heterogeneous media",
+        "Organs at risk in the brain and their dose-constraints in adults and in children: a radiation oncologist's guide for delineation in everyday practice",
+        "Radiotherapy for Pituitary Tumors",
+        "Volume-effect and radiotherapy [II]. Part II: volume-effect and normal tissue",
+        "Conformity index: a review",
+        "Single dose radiosurgical treatment of recurrent previously irradiated primary brain tumors and brain metastases: final report of RTOG protocol 90-05",
+        "Dose Evaluation of Treatment Planning System in Inhomogeneous Media",
+        "Correlation between CT numbers and tissue parameters needed for Monte Carlo simulations of clinical dose distributions"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "King Chulalongkorn Memorial Hospital"
+    ]
+}

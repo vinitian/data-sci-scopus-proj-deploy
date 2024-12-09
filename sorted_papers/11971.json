@@ -1,0 +1,99 @@
+{
+    "eid": "2-s2.0-85078049766",
+    "title": "An efficient matrix tridiagonalization method for 3D finite element analysis of free vibration",
+    "cover-date": "2020-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Numerical Analysis",
+            "@code": "2612",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Block Lanczos",
+        "Eigenvalue problem",
+        "Free vibration",
+        "Matrix tridiagonalization",
+        "Orthogonality"
+    ],
+    "authors": [
+        "A. Malatip",
+        "N. Prasomsuk",
+        "C. Siriparu",
+        "N. Paoprasert",
+        "S. Otarawanna"
+    ],
+    "citedby-count": 2,
+    "ref-count": 25,
+    "ref-list": [
+        "Engineering Vibrations",
+        "Singular value decompositions of complex symmetric matrices",
+        "Lanczos Algorithms for Large Symmetric Eigenvalue Computations. Vol. 1: Theory",
+        "A First Course in Finite Element Method",
+        "Computer Techniques in Vibration",
+        "Mechanical and Structural Vibrations: Theory and Applications",
+        "The block Lanczos method for computing eigenvalues",
+        "A Stable Lanczos Tridiagonalization of Complex Symmetric Matrices: Technical Report CAS 03-08-SQ",
+        "Unitary triangularization of a nonsymmetric matrix",
+        "The Finite Element Method: Linear Static and Dynamic Finite Element Analysis",
+        "Reorthogonalization in the block Lanczos algorithm",
+        "A new reorthogonalization in the Lanczos algorithm",
+        "An iteration method for solution of the eigenvalue problem of linear differential and integral operation",
+        "A fast singular value algorithm for Hankel matrices",
+        "A block Lanczos algorithm for finding dependencies over GF(2)",
+        "Error analysis of the Lanczos algorithm for tridiagonalizing a symmetric matrix",
+        "Tracking the progress of the Lanczos algorithm for large symmetric eigenproblem",
+        "The Lanczos algorithm with selective orthogonalization",
+        "Introduction to Finite Element Vibration Analysis",
+        "Numerical Recipes in Fortran 90: The Art of Parallel Scientic Computing Volume 2 of Fortran Numerical Recipes",
+        "Block Lanczos tridiagonalization of complex symmetric matrices. Advanced Signal Processing Algorithms, Architectures, and Implementations XV",
+        "Finite Element Dynamic Analysis of Blade Packets and Bladed Disc Assemblies",
+        "The Lanczos algorithm with partial reorthogonalization",
+        "Application of the finite element method for the evaluation of velocity response of anvil"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60014471",
+            "affilname": "Thailand National Metal and Materials Technology Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014471",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "National Science and Technology Development Agency",
+        "MTEC"
+    ]
+}

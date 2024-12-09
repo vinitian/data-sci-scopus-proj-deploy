@@ -1,0 +1,56 @@
+{
+    "eid": "2-s2.0-85090112869",
+    "title": "Stress estimation using multimodal biosignal information from RGB facial video",
+    "cover-date": "2020-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Takumi Nagasawa",
+        "Ryo Takahashi",
+        "Chawan Koopipat",
+        "Norimichi Tsumura"
+    ],
+    "citedby-count": 5,
+    "ref-count": 9,
+    "ref-list": [
+        "Video-based stress level measurement using imaging photoplethysmography",
+        "Remote plethysmographic imaging using ambient light",
+        "Motion robust remote photoplethysmography in cielab color space",
+        "Improvements in remote cardiopulmonary measurement using five band digital camera",
+        "Advancements in noncontact, multiparameter physiological measurement using a webcam",
+        "Noncontact monitoring breathing pattern, exhalation flow rate and pulse transit time",
+        "Non-contact video-based estimation of heart rate variability spectrogram from hemoglobin composition",
+        "Imagebased skin color and texture analysis/synthesis by extracting hemoglobin and melanin information in the skin",
+        "Real-time eye blink detection using facial landmarks"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chiba",
+            "@id": "60002787",
+            "affilname": "Chiba University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002787",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

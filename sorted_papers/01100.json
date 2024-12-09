@@ -1,0 +1,101 @@
+{
+    "eid": "2-s2.0-85168866615",
+    "title": "An Extended System for External Sensors Data Acquisition and Validation During Conducting Polysomnography",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "photoplethysmography (PPG)",
+        "polysomnography (PSG)",
+        "sleep monitoring",
+        "system integration",
+        "wearable sensors"
+    ],
+    "authors": [
+        "Tanut Choksatchawathi",
+        "Thitikorn Kaewlee",
+        "Guntitat Sawadwuthikul",
+        "Busarakum Chaitusaney",
+        "Nattapong Jaimchariyatam",
+        "Theerawit Wilaiprasitporn",
+        "Thapanun Sudhawiyangkul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 17,
+    "ref-list": [
+        "Impact of automatic feature extraction in deep learning architecture",
+        "Risk monitoring strategy for confidentiality of healthcare information",
+        "A review of automated sleep disorder detection",
+        "Polysomnography",
+        "Detection and classification of sleep apnea and hypopnea using ppg and spo 2 signals",
+        "Estimation of respiratory rates using the built-in microphone of a smartphone or headset",
+        "Unconstrained video monitoring of breathing behavior and application to diagnosis of sleep apnea",
+        "Learning your heart actions from pulse: ECG waveform reconstruction from PPG",
+        "Pulse arrival time (PAT) measurement based on arm ECG and finger PPG signals-comparison of PPG feature detection methods for PAT calculation",
+        "Use of pulse transit time as a measure of inspiratory effort in patients with obstructive sleep apnoea",
+        "Arousal responses to respiratory events during sleep: The role of pulse wave amplitude",
+        "CorNET: Deep learning framework for PPG-based heart rate estimation and biometric identification in ambulant environment",
+        "PP-net: A deep learning framework for PPG-based blood pressure and heart rate estimation",
+        "Toward a robust estimation of respiratory rate from pulse oximeters",
+        "HeartPy: A novel heart rate algorithm for the analysis of noisy signals",
+        "Rrwavenet: A compact end-toend multi-scale residual cnn for robust ppg respiratory rate estimation",
+        "Accuracy in wrist-worn, sensorbased measurements of heart rate and energy expenditure in a diverse cohort"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Rayong",
+            "@id": "60110787",
+            "affilname": "Vidyasirimedhi Institute of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60110787",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Daejeon",
+            "@id": "60032144",
+            "affilname": "Korea Advanced Institute of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032144",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Rayong",
+            "@id": "129899983",
+            "affilname": "Sense Ai Company Limited",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129899983",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Office of National Higher Education Science Research and Innovation Policy Council"
+    ]
+}

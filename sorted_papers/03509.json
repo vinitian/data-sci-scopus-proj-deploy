@@ -1,0 +1,183 @@
+{
+    "eid": "2-s2.0-85051024509",
+    "title": "Structural and functional brain imaging in acute HIV",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Neurology",
+            "@code": "2808",
+            "@abbrev": "NEUR"
+        },
+        {
+            "@_fa": "true",
+            "$": "Neurology (clinical)",
+            "@code": "2728",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Cognitive Neuroscience",
+            "@code": "2805",
+            "@abbrev": "NEUR"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Vishal Samboju",
+        "Carissa L. Philippi",
+        "Phillip Chan",
+        "Yann Cobigo",
+        "James L.K. Fletcher",
+        "Merlin Robb",
+        "Joanna Hellmuth",
+        "Khunthalee Benjapornpong",
+        "Netsiri Dumrongpisutikul",
+        "Mantana Pothisri",
+        "Robert Paul",
+        "Jintanat Ananworanich",
+        "Serena Spudich",
+        "Victor Valcour"
+    ],
+    "citedby-count": 26,
+    "ref-count": 66,
+    "ref-list": [
+        "Impact of multi-targeted antiretroviral treatment on Gut T cell depletion and HIV reservoir seeding during acute HIV infection",
+        "HIV DNA set point is rapidly established in acute HIV infection and dramatically reduced by early ART",
+        "Independent effects of HIV, aging, and HAART on brain volumetric measures",
+        "Disruption of large-scale brain systems in advanced aging",
+        "Functional-anatomic fractionation of the brain's default network",
+        "Influence of HAART on HIV-related CNS disease and Neuroinflammation",
+        "Decreased MEG beta oscillations in HIV-infected older adults during the resting state",
+        "Functional connectivity in the motor cortex of resting human brain using echo-planar MRI",
+        "Determinants of HIV-induced brain changes in three different periods of the early clinical course: a data mining analysis",
+        "On the Plurality of (Methodological) Worlds: Estimating the Analytic Flexibility of fMRI Experiments",
+        "Benchmarking of participant-level confound regression strategies for the control of motion artifact in studies of functional connectivity",
+        "AFNI: software for analysis and visualization of functional magnetic resonance neuroimages",
+        "Quantitative DTI Measures Why is Quantification Important in Medical Imaging?",
+        "Impact of nucleic acid testing relative to antigen/antibody combination immunoassay on the detection of acute HIV infection",
+        "Functional connectivity of human striatum: a resting state fMRI study",
+        "Distinct brain networks for adaptive and stable task control in humans",
+        "Cluster failure: why fMRI inferences for spatial extent have inflated false-positive rates",
+        "Dynamics of HIV viremia and antibody seroconversion in plasma donors: implications for diagnosis and staging of primary HIV infection",
+        "Diffusion tensor imaging of patients with HIV and normal-appearing white matter on MR images of the brain",
+        "Improved assessment of significant activation in functional magnetic resonance imaging (fMRI): use of a cluster-size threshold",
+        "Dipy, a library for the analysis of diffusion MRI data",
+        "White matter tract injury and cognitive impairment in human immunodeficiency virus-infected individuals",
+        "Intrinsic network connectivity abnormalities in HIV-infected individuals over age 60",
+        "Review of functional MRI in HIV: effects of aging and medication",
+        "The impact of HIV-associated neuropsychological impairment on everyday functioning",
+        "HIV-associated neurocognitive disorders persist in the era of potent antiretroviral therapy: CHARTER study",
+        "Neurologic signs and symptoms frequently manifest in acute HIV infection",
+        "HIV infection is associated with attenuated Frontostriatal intrinsic connectivity: a preliminary study",
+        "Improved optimization for the robust and accurate linear registration and motion correction of brain images",
+        "Clinical factors related to brain structure in HIV: the CHARTER study",
+        "Neuropsychological impairment in acute HIV and the effect of immediate antiretroviral therapy",
+        "Higher set point plasma viral load and more-severe acute HIV type 1 (HIV-1) illness predict mortality among high-risk HIV-1-infected African women",
+        "An automated method for neuroanatomic and cytoarchitectonic atlas-based interrogation of fMRI data sets",
+        "Brain structural changes following HIV infection: meta-analysis",
+        "Effects of HIV and combination antiretroviral therapy on cortico-striatal functional connectivity",
+        "Absence of cerebrospinal fluid signs of neuronal injury before and after immediate antiretroviral therapy in acute HIV infection",
+        "Subclinical depression severity is associated with distinct patterns of functional connectivity for subregions of anterior cingulate cortex",
+        "Toward a quantitative assessment of diffusion anisotropy",
+        "Spurious but systematic correlations in functional connectivity MRI networks arise from subject motion",
+        "Methods to detect, characterize, and remove motion artifact in resting state fMRI",
+        "Antiretroviral therapy and central nervous system HIV type 1 infection",
+        "Brain alterations within the first 100 days of HIV infection",
+        "Change in brain magnetic resonance spectroscopy after treatment during acute HIV infection",
+        "Brain infections",
+        "An improved framework for confound regression and filtering for control of motion artifact in the preprocessing of resting-state functional connectivity data",
+        "Zidovudine treatment of the AIDS dementia complex: results of a placebo-controlled trial. AIDS Clinical Trials Group",
+        "Tract-based spatial statistics: voxelwise analysis of multi-subject diffusion data",
+        "A hitchhiker's guide to diffusion tensor imaging",
+        "HIV-associated alterations in normal-appearing white matter: a voxel-wise diffusion tensor imaging study",
+        "White matter structure alterations in HIV-1-infected men with sustained suppression of viraemia on treatment on behalf of the AGE h IV cohort study",
+        "Pathways to neurodegeneration: effects of HIV and aging on resting-state functional connectivity",
+        "Weighted brain networks in disease: centrality and entropy in human immunodeficiency virus and aging",
+        "Gray and white matter abnormalities in treated human immunodeficiency virus disease and their relationship to cognitive function",
+        "Central nervous system viral invasion and inflammation during acute HIV infection",
+        "Abnormalities in resting-state functional connectivity in early human immunodeficiency virus infection",
+        "Cognitive impairment in patients with AIDS - prevalence and severity",
+        "ApoE \u03b54 is associated with cognition, brain integrity, and atrophy in HIV over age 60",
+        "Multimodal neuroimaging evidence of alterations in cortical structure and function in HIV-infected older adults",
+        "Permutation inference for the general linear model",
+        "Cognitive neuropsychology of HIV-associated neurocognitive disorders",
+        "Cerebral white matter integrity during primary HIV infection",
+        "Addressing head motion dependencies for small-world topologies in functional connectomics",
+        "Segmentation of brain MR images through a hidden Markov random field model and the expectation-maximization algorithm",
+        "High-dimensional spatial normalization of diffusion tensor images improves the detection of white matter differences: an example study using amyotrophic lateral sclerosis",
+        "Unbiased white matter atlas construction using diffusion tensor images",
+        "Combination antiretroviral therapy improves cognitive performance and functional connectivity in treatment-na\u00efve HIV-infected individuals"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60031780",
+            "affilname": "Thai Red Cross Agency",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031780",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "San Francisco",
+            "@id": "60023691",
+            "affilname": "University of California, San Francisco",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023691",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "St. Louis",
+            "@id": "60014910",
+            "affilname": "Department of Psychological Sciences",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014910",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Rockville",
+            "@id": "60014443",
+            "affilname": "HJF",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014443",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Silver Spring",
+            "@id": "60012786",
+            "affilname": "Walter Reed Army Institute of Research",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012786",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "New Haven",
+            "@id": "60005455",
+            "affilname": "Yale University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005455",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Amsterdam",
+            "@id": "60002483",
+            "affilname": "Universiteit van Amsterdam",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002483",
+            "affiliation-country": "Netherlands"
+        }
+    ],
+    "funding": [
+        "National Institutes of Health",
+        "DoD",
+        "National Institute of Mental Health",
+        "Henry M. Jackson Foundation",
+        "ViiV Healthcare"
+    ]
+}

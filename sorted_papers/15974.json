@@ -1,0 +1,83 @@
+{
+    "eid": "2-s2.0-85087040056",
+    "title": "In silico analysis for factors affecting anti-malarial penetration into red blood cells",
+    "cover-date": "2020-06-23",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Parasitology",
+            "@code": "2405",
+            "@abbrev": "IMMU"
+        },
+        {
+            "@_fa": "true",
+            "$": "Infectious Diseases",
+            "@code": "2725",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Antimalarials",
+        "Penetration",
+        "Red blood cell"
+    ],
+    "authors": [
+        "Natapol Pornputtapong",
+        "Bovornpat Suriyapakorn",
+        "Anchisa Satayamapakorn",
+        "Kanidsorn Larpadisorn",
+        "Pariyachut Janviriyakul",
+        "Phisit Khemawoot"
+    ],
+    "citedby-count": 3,
+    "ref-count": 44,
+    "ref-list": [
+        "The evaluation of radiolabeled artesunate on tissue distribution in rats and protein binding in humans",
+        "In vitro stage-specific-sensitivity of Plasmodium falciparum to quinine and artemisinin drugs",
+        "PubChem substance and compound databases",
+        "The disposition of amodiaquine in man after oral administration",
+        "The binding of the antimalarial arteether to human plasma proteins in-vitro",
+        "Development and characterization of arteether-loaded nanostructured lipid carriers for the treatment of malaria",
+        "Disposition of chloroquine in man after single intravenous and oral doses",
+        "Review of the clinical pharmacokinetics of artesunate and its active metabolite dihydroartemisinin following intravenous, intramuscular, oral or rectal administration",
+        "HMDB 4.0: The human metabolome database for 2018",
+        "In-vitro red blood cell partitioning of doxycycline",
+        "DrugBank 5.0: A major update to the DrugBank database for 2018",
+        "Patient age does not affect mefloquine concentrations in erythrocytes and plasma during the acute phase of falciparum malaria",
+        "Measurement of piperaquine in plasma by liquid chromatography with ultraviolet absorbance detection",
+        "Steady-state kinetics of proguanil and its active metabolite, cycloguanil, in man",
+        "Binding of pyrimethamine to human plasma proteins and erythrocytes",
+        "Relationship between plasma and red blood cell concentrations of quinine in Brazilian children with uncomplicated Plasmodium falciparum malaria on oral therapy",
+        "Distribution of sulfonamides and sulfonamide potentiators between red blood cells, proteins and aqueous phases of the blood of different species",
+        "Relative importance for linear regression in R: The Package relaimpo",
+        "XGBoost: A scalable tree boosting system",
+        "Optuna: A next-generation hyperparameter optimization framework",
+        "Scikit-learn: Machine learning in Python",
+        "A unified approach to interpreting model predictions",
+        "Erythrocyte uptake and protein binding of cyclosporin A (CyA) in human blood: Factors affecting CyA concentration in erythrocytes",
+        "Erythrocyte uptake and plasma binding of di phenyl hydantoin",
+        "Albumin: Biochemical properties and therapeutic potential",
+        "Investigation of the interaction between amodiaquine and human serum albumin by fluorescence spectroscopy and molecular modeling",
+        "Prediction of human pharmacokinetics - Evaluation of methods for prediction of volume of distribution",
+        "The impact of aromatic ring count on compound developability: Further insights by examining carbo- And hetero-aromatic and -aliphatic ring types"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60015887",
+            "affilname": "Faculty of Medicine Ramathibodi Hospital, Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015887",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

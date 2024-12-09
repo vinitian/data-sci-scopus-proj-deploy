@@ -1,0 +1,69 @@
+{
+    "eid": "2-s2.0-85169296407",
+    "title": "Performance Improvement on a Learning Assessment Web Application Using AWS DynamoDB as a Cache Database",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Cache Database",
+        "DynamoDB",
+        "Learning Assessment Web Application",
+        "NoSQL database",
+        "Performance improvement"
+    ],
+    "authors": [
+        "Sirawit Tantiphuwanart",
+        "Nuengwong Tuaycharoen",
+        "Dittaya Wanvarie",
+        "Naruemon Pratanwanich",
+        "Atiwong Suchato"
+    ],
+    "citedby-count": 0,
+    "ref-count": 10,
+    "ref-list": [
+        "Hybrid database system of MySQL and MongoDB in web application development",
+        "Cache hit ratio maximization in device-to-device communications overlaying cellular networks",
+        "Optimizing the performance of web applications in mobile cloud computing",
+        "Survey of performance comparison based on non relational database",
+        "Comparative analysis of automated load testing tools: Apache JMeter, Microsoft Visual Studio (TFS), LoadRunner, Siege",
+        "Research on performance automation testing technology based on JMeter"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

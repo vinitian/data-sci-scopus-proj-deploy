@@ -1,0 +1,124 @@
+{
+    "eid": "2-s2.0-85153743706",
+    "title": "Predicting the Area under the Plasma Concentration-Time Curve (AUC) for First Dose Vancomycin Using First-Order Pharmacokinetic Equations",
+    "cover-date": "2023-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Microbiology",
+            "@code": "2404",
+            "@abbrev": "IMMU"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Pharmacology, Toxicology and Pharmaceutics (all)",
+            "@code": "3000",
+            "@abbrev": "PHAR"
+        },
+        {
+            "@_fa": "true",
+            "$": "Microbiology (medical)",
+            "@code": "2726",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Infectious Diseases",
+            "@code": "2725",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Pharmacology (medical)",
+            "@code": "2736",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "area under the concentration curve",
+        "critically ill patients",
+        "pharmacokinetics",
+        "therapeutic drug monitoring",
+        "vancomycin"
+    ],
+    "authors": [
+        "Kritsaporn Sujjavorakul",
+        "Wasan Katip",
+        "Stephen J. Kerr",
+        "Noppadol Wacharachaisurapol",
+        "Thanyawee Puthanakit"
+    ],
+    "citedby-count": 0,
+    "ref-count": 23,
+    "ref-list": [
+        "Surviving Sepsis Campaign International Guidelines for the Management of Septic Shock and Sepsis-Associated Organ Dysfunction in Children",
+        "Therapeutic monitoring of vancomycin for serious methicillin-resistant Staphylococcus aureus infections: A revised consensus guideline and review by the American Society of Health-System Pharmacists, the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the Society of Infectious Diseases Pharmacists",
+        "The Epidemiology of Hospital Death Following Pediatric Severe Sepsis: When, Why, and How Children with Sepsis Die",
+        "Timing of death in children referred for intensive care with severe sepsis: Implications for interventional studies",
+        "National Trends in Timing of Death among Patients with Septic Shock, 1994\u20132014",
+        "Vancomycin Pharmacokinetics Throughout Life: Results from a Pooled Population Analysis and Evaluation of Current Dosing Recommendations",
+        "Pharmacokinetics: The Dynamics of Drug Absorption, Distribution, Metabolism, and Elimination",
+        "Innovative approaches to optimizing the delivery of vancomycin in individual patients",
+        "Optimizing Vancomycin Use Through 2-Point AUC-Based Therapeutic Drug Monitoring in Pediatric Patients",
+        "The pharmacokinetics of vancomycin during the initial loading dose in patients with septic shock",
+        "Correlation of the vancomycin 24-h area under the concentration-time curve (AUC24) and trough serum concentration in children with severe infection: A clinical pharmacokinetic study",
+        "Vancomycin pharmacodynamics and survival in patients with methicillin-resistant Staphylococcus aureus-associated septic shock",
+        "Aminoglycoside dosing in patients by kidney function and area under the curve: The Sawchuk-Zaske dosing method revisited in the era of obesity",
+        "Simplified equations using two concentrations to calculate area under the curve for antimicrobials with concentration-dependent pharmacodynamics: Daptomycin as a motivating example",
+        "Optimizing Vancomycin Dosing through Pharmacodynamic Assessment Targeting Area under the Concentration-Time Curve/Minimum Inhibitory Concentration",
+        "Kinetic model for gentamicin dosing with the use of individual patient parameters",
+        "Achievement of Vancomycin Therapeutic Goals in Critically Ill Patients: Early Individualization May Be Beneficial",
+        "Individualized Pharmacokinetic Dosing of Vancomycin Reduces Time to Therapeutic Trough Concentrations in Critically Ill Patients",
+        "Pharmacokinetic comparison of nomogram-based and individualized vancomycin regimens in neonates",
+        "PKSolver: An add-in program for pharmacokinetic and pharmacodynamic data analysis in Microsoft Excel",
+        "Pharmacokinetics of dosing regimens which utilize multiple intravenous infusions: Gentamicin in burn patients",
+        "Understanding Bland Altman analysis"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chaing Mai",
+            "@id": "60000881",
+            "affilname": "Chiang Mai University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000881",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Kensington",
+            "@id": "60026655",
+            "affilname": "The Kirby Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026655",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60016965",
+            "affilname": "The HIV Netherlands Australia Thailand Research Collaboration",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016965",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "Chulalongkorn University"
+    ]
+}

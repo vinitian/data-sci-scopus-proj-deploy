@@ -1,0 +1,73 @@
+{
+    "eid": "2-s2.0-85074944993",
+    "title": "An Interoperable Building Energy Management System with IEEE1888 Open Protocol for Peak-Load Shaving",
+    "cover-date": "2019-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "BEMS",
+        "BESS",
+        "IEEE1888 open protocol",
+        "implementation",
+        "Peak-load shaving"
+    ],
+    "authors": [
+        "Phanumat Saatwong",
+        "Surapong Suwankawin"
+    ],
+    "citedby-count": 3,
+    "ref-count": 9,
+    "ref-list": [
+        "Energy storage control for peak shaving in a single building",
+        "Smartbuilds: An energy and power simulation framework for buildings and districts",
+        "Customer-side scada-Assisted large battery operation optimization for distribution feeder peak load shaving",
+        "Greencharge: Managing renewable energy in smart buildings",
+        "Conceptual architecture of building energy management open source software (bemoss)",
+        "Fiap: Facility information access protocol for data-centric building automation systems",
+        "Power data management on the internet space: Green ict projects in Japan"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

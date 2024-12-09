@@ -1,0 +1,73 @@
+{
+    "eid": "2-s2.0-85082518972",
+    "title": "Water Quality Index Analysis and Prediction: A Case Study of Canals in Bangkok Thailand",
+    "cover-date": "2019-12-13",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Artificial neural network",
+        "Data mining",
+        "M5p",
+        "M5rules",
+        "Machine learning",
+        "Mlp",
+        "Multilayer perceptron",
+        "Reptree",
+        "Water quality index",
+        "Weka",
+        "Wqi"
+    ],
+    "authors": [
+        "Petchporn Chawakitchareon",
+        "Bernhard Thalheim",
+        "Yasushi Kiyoki"
+    ],
+    "citedby-count": 1,
+    "ref-count": 13,
+    "ref-list": [
+        "W. The STUDY on the ACCURACY of CLASSIFIERS for WATER QUALITY APPLICATION, INTERNATIONAL JOURNAL of U-AND E-SERVIce",
+        "Prediction of alum dosage in water supply by WEKA data mining software",
+        "Modelling of coagulant dosage in a water treatment plant",
+        "Development of an optimum control software package for coagulant dosing process in water purification system",
+        "Optimization of coagulant dosing process in water purification system, SICE '97",
+        "Application of ANFIS for coagulant dosing process in a water purification plant",
+        "Inducing of model trees for continuous classes",
+        "Learning with continuous classes",
+        "Generating Rule Sets from Model Trees",
+        "Analysis of WEKA data mining algorithm REPTree, Simple cart and random tree for classification of indian news"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025997",
+            "affilname": "Keio University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025997",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Kiel",
+            "@id": "60012345",
+            "affilname": "Christian-Albrechts-Universit\u00e4t zu Kiel",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012345",
+            "affiliation-country": "Germany"
+        }
+    ],
+    "funding": [
+        "Faculty of Engineering Chulalongkorn University",
+        "Keio University",
+        "Faculty of Engineering Chulalongkorn University"
+    ]
+}

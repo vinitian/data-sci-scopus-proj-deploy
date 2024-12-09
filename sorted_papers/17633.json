@@ -1,0 +1,64 @@
+{
+    "eid": "2-s2.0-85089233276",
+    "title": "Automatic Epileptic Seizure Onset-Offset Detection Based on CNN in Scalp EEG",
+    "cover-date": "2020-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "CNN",
+        "EEG",
+        "onset-offset detection",
+        "seizure detection"
+    ],
+    "authors": [
+        "Poomipat Boonyakitanont",
+        "Apiwat Lek-Uthai",
+        "Jitkomut Songsiri"
+    ],
+    "citedby-count": 13,
+    "ref-count": 17,
+    "ref-list": [
+        "Vagus nerve stimulation and the postictal state",
+        "Overview of drugs used for epilepsy and seizures: Etiology, diagnosis, and treatment",
+        "Automated EEG analysis of epilepsy: A review",
+        "A review of feature extraction and performance evaluation in epileptic seizure detection using EEG",
+        "Application of entropies for automated diagnosis of epilepsy using EEG signals: A review",
+        "A review of channel selection algorithms for EEG signal processing",
+        "Designing high-resolution time-frequency and time-scale distributions for the analysis and classification of non-stationary signals: A tutorial review with a comparison of features performance",
+        "An algorithm for detecting seizure termination in scalp EEG",
+        "Patient non-specific algorithm for seizures detection in scalp EEG",
+        "Detection of seizure event and its onset/offset using orthonormal triadic wavelet based features",
+        "Deep convolutional neural network for the automated detection and diagnosis of seizure using EEG signals",
+        "Classification of epileptic EEG recordings using signal transforms and convolutional neural networks",
+        "Rethinking the inception architecture for computer vision",
+        "Batch normalization: Accelerating deep network training by reducing internal covariate shift",
+        "Rectified linear units improve restricted boltzmann machines",
+        "Physiobank, physiotoolkit, and physionet"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

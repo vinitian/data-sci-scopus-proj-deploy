@@ -1,0 +1,107 @@
+{
+    "eid": "2-s2.0-84982102733",
+    "title": "A machine learning strategy for predicting localization of post-translational modification sites in protein-protein interacting regions",
+    "cover-date": "2016-08-17",
+    "subject-areas": [
+        {
+            "$": "Computer Science Applications",
+            "@code": "1706"
+        },
+        {
+            "$": "Molecular Biology",
+            "@code": "1312"
+        },
+        {
+            "$": "Biochemistry",
+            "@code": "1303"
+        },
+        {
+            "$": "Structural Biology",
+            "@code": "1315"
+        },
+        {
+            "$": "Applied Mathematics",
+            "@code": "2604"
+        }
+    ],
+    "keywords": [
+        "AAindex",
+        "Machine learning",
+        "Post-translational modification",
+        "Protein-protein interacting region"
+    ],
+    "authors": [
+        "Thammakorn Saethang"
+    ],
+    "citedby-count": 9,
+    "ref-count": 54,
+    "ref-list": [
+        "Post-translational modifications in signal integration",
+        "The Roles of Post-translational Modifications in the Context of Protein Interaction Networks",
+        "Phosphorylation in protein-protein binding: Effect on stability and function",
+        "Ubiquitin-binding proteins: Decoders of ubiquitin-mediated cellular functions",
+        "Ubiquitin Dynamics in Complexes Reveal Molecular Recognition Mechanisms Beyond Induced Fit and Conformational Selection",
+        "Proteomic analysis of post-translational modifications",
+        null,
+        "Activities at the Universal Protein Resource (UniProt)",
+        "DbPTM 3.0: An informative resource for investigating substrate site specificity and functional association of protein post-translational modifications",
+        "Proteome-wide post-translational modification statistics: Frequency analysis and curation of the swiss-prot database",
+        "PTMcode: A database of known and predicted functional associations between post-translational modifications in proteins",
+        "PhosphoSitePlus, 2014: Mutations, PTMs and recalibrations",
+        "SysPTM: A systematic resource for proteomic research on post-translational modifications",
+        "The protein data bank: A computer-based archival file for macromolecular structures",
+        "GlycoMine: A machine learning-based approach for predicting N-, C-and O-linked glycosylation in the human proteome",
+        "HMMpTM: Improving transmembrane protein topology prediction using phosphorylation and glycosylation site prediction",
+        "GPS-SUMO: A tool for the prediction of sumoylation sites and SUMO-interaction motifs",
+        "AAindex: Amino acid index database, progress report 2008",
+        "PAAQD: Predicting immunogenicity of MHC class I binding peptides using amino acid pairwise contact potentials and quantum topological molecular similarity descriptors",
+        "EpicCapo: Epitope prediction using combined information of amino acid pairwise contact potentials and HLA-peptide contact site information",
+        "Sample size planning for classification models",
+        "Predicting sample size required for classification performance",
+        "Identifying protein kinase target preferences using mass spectrometry",
+        "An iterative statistical approach to the identification of protein phosphorylation motifs from large-scale data sets",
+        "Simultaneous alignment and clustering of peptide data using a Gibbs sampling approach",
+        "Estimating attributes: Analysis and extensions of RELIEF",
+        "Kullback-Leibler distance as a measure of the information filtered from multivariate data",
+        "Deubiquitylation of protein cargo is not an essential step in exosome formation",
+        "LAceP: Lysine acetylation site prediction using logistic regression classifiers",
+        "HomPPI: A class of sequence homology based protein-protein interface prediction methods",
+        "GESTS International Transactions on Computer Science and Engineering",
+        "An application of oversampling, undersampling, bagging and boosting in handling imbalanced datasets",
+        "Importance of hydrophobic and polar residues in ligand binding in the family 15 carbohydrate-binding module from Cellvibrio japonicus Xyn10C",
+        "A role for surface hydrophobicity in protein\u2010protein recognition",
+        "Computational prediction of protein interfaces: A review of data driven methods",
+        "A simple method for displaying the hydropathic character of a protein",
+        "A generic method for assignment of reliability scores applied to solvent accessibility predictions",
+        "CPhos: A program to calculate and visualize evolutionarily conserved functional phosphorylation sites",
+        "On the class imbalance problem",
+        "The class imbalance problem: A systematic study",
+        "Proceedings of the AAAI'2000 workshop on imbalanced data sets.",
+        "Classification with local clustering in imbalanced data sets",
+        "Under-sampling approaches for improving prediction of the minority class in an imbalanced dataset",
+        "Cluster-based under-sampling approaches for imbalanced data distributions",
+        "Analysis of amino acid indices and mutation matrices for sequence comparison and structure prediction of proteins",
+        "Kernel methods in computational biology.",
+        "Biological applications of support vector machines.",
+        "Prediction of posttranslational modification sites from amino acid sequences with kernel methods",
+        "Machine learning applications in cancer prognosis and prediction",
+        "Data mining in bioinformatics using Weka"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bethesda",
+            "affilname": "National Heart, Lung, and Blood Institute (NHLBI)",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "CUAASC",
+        "Chulalongkorn Academic Advancement",
+        "Chulalongkorn University Ratchadaphiseksomphot Fund"
+    ]
+}

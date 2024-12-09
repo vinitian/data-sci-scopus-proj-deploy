@@ -1,0 +1,88 @@
+{
+    "eid": "2-s2.0-85074831202",
+    "title": "Solving for an optimal batch size for a single machine using the closed-form equations to minimize inventory cost",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (miscellaneous)",
+            "@code": "2501",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanics of Materials",
+            "@code": "2211",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Batch size",
+        "Inventory cost",
+        "Minimize",
+        "Optimal",
+        "Single machine"
+    ],
+    "authors": [
+        "Athapol Ruangkanjanases",
+        "Nithiphong Vikitset"
+    ],
+    "citedby-count": 0,
+    "ref-count": 17,
+    "ref-list": [
+        "Mathematical Model with Simulation to Find the Optimal Batch Size for a Supply Chain System",
+        "A Single-stage Supply Chain System Controlled by Kanban under Just-in-time Philosophy",
+        "An Optimal Batch Size for an Imperfect Production System with Quality Assurance and Rework",
+        "Hierarchically integrated lot size optimization",
+        "International Journal of Production Research",
+        "Batch sizes and lead-time performance in flexible manufacturing systems",
+        "International Journal of Production Research",
+        "Proceedings of the 32nd Chinese Control Conference",
+        "Proceedings of the 29th Chinese Control and Decision Conference, Chongqing, China",
+        "Computers and Industrial Engineering",
+        "World Scientific Publishing Co. Pte. Ltd",
+        "International Journal of Integrated Engineering",
+        "International Journal of Integrated Engineering"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199583",
+            "affilname": "Chulalongkorn Business School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199583",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60092138",
+            "affilname": "TPI Polene Public Company Limited",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60092138",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

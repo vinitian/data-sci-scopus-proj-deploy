@@ -1,0 +1,109 @@
+{
+    "eid": "2-s2.0-85096186486",
+    "title": "Modeling and simulation of onset of condensation-induced water hammer",
+    "cover-date": "2020-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Nuclear Energy and Engineering",
+            "@code": "2104",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Waste Management and Disposal",
+            "@code": "2311",
+            "@abbrev": "ENVI"
+        }
+    ],
+    "keywords": [
+        "Horizontal flow",
+        "Numerical simulation",
+        "RELAP5",
+        "Steam condensation",
+        "Water hammer"
+    ],
+    "authors": [
+        "Takashi Hibiki",
+        "Somboon Rassame",
+        "Wenbing Liu",
+        "Lutao Wang",
+        "Quanbin Zhao",
+        "Daotong Chong",
+        "Junije Yan"
+    ],
+    "citedby-count": 9,
+    "ref-count": 32,
+    "ref-list": [
+        "Gas-liquid Two-phase Flow",
+        "Condensation induced water hammer in steam supply system",
+        "Experimental and theoretical study of steam condensation induced water hammer phenomena",
+        "Multiple condensation induced water hammer events, experiments and theoretical investigations",
+        "Initiation of waterhammer in horizontal and nearly horizontal pipes containing steam and subcooled water",
+        "An Evaluation of PWR Steam Generator Water Hammer",
+        "Characteristics of entrapped bubbles of periodic condensation-induced water hammer in a horizontal pipe",
+        "Admitting cold water into steam filled pipes without water hammer due to steam bubble collapse",
+        "KAIST-CIWH computer code and a guide chart to avoid condensation-induced water hammer in horizontal pipes -nuclear engineering and technology | korea science",
+        "Parametric study and a guide chart to avoid condensation-induced water hammer in a horizontal pipe",
+        "Water hammer and condensation hammer scenarios in power plants using new measurement system",
+        "Experimental study on steam chugging phenomenon in a vertical sparger",
+        "Steam Bubble Collapse, Water Hammer and Piping Network Response",
+        "Condensation-induced steam bubble collapse in a pipeline",
+        "Fundamentals of Heat and Mass Transfer",
+        "RELAP5/MOD3.3 Code Manual Volume IV: Models and Correlations",
+        "Study of critical heat load of boiling in horizontal channel",
+        "Experimental investigation on the oscillation characteristics of periodic steam condensation induced water hammer in a horizontal pipe",
+        "Experimental investigation of functional performance of a vacuum vessel pressure suppression system of ITER",
+        "Investigation of vibrations caused by the steam condensation at subatmospheric condition in VVPSS",
+        "Experimental study of steam pressure suppression by condensation in a water tank at sub-atmospheric pressure",
+        "Experimental investigation of steam condensation in water tank at subatmospheric pressure",
+        "Overview of recent efforts through ROSA/LSTF experiments",
+        "Peak Pressures Due to Steam Bubble Collapse-Induced Water Hammer",
+        "Spontaneous water hammers in a steam line in the case of cold water ingress",
+        "Cold leg ECC flow oscillations",
+        "A model for predicting flow regime transitions in horizontal and near horizontal gas-liquid flow",
+        "On modeling of condensation-induced water hammer in horizontal pipe",
+        "Investigations on the stochastic nature of condensation induced water hammer",
+        "Experimental investigation on the phenomenon of steam condensation induced water hammer in a horizontal pipe",
+        "Analysis of root causes of water hammer"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Xi'an",
+            "@id": "60089918",
+            "affilname": "State Key Laboratory of Multiphase Flow in Power Engineering",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60089918",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "West Lafayette",
+            "@id": "60009254",
+            "affilname": "Purdue University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009254",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "National Natural Science Foundation of China",
+        "Natural Science Foundation of Shaanxi Province"
+    ]
+}

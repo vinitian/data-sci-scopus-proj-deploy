@@ -1,0 +1,119 @@
+{
+    "eid": "2-s2.0-85071507427",
+    "title": "Learning Polar Codes using Python Program with Graphical User Interface",
+    "cover-date": "2019-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "channel polarization",
+        "polar codes",
+        "self-learning software tool",
+        "successive cancellation decoder"
+    ],
+    "authors": [
+        "Htain Lynn Aung",
+        "Tay Zar Bhone Maung",
+        "Pruk Sasithong",
+        "Teesid Sreprasurt",
+        "Sanika Wijayasekara",
+        "Manus Pengnoo",
+        "Lunchakorn Wuttisittikulkij",
+        "Watid Phakphisut",
+        "Chairat Phongphanphanee",
+        "Ambar Bajpai",
+        "Muhammad Saadi",
+        "Pisit Vanichchanunt"
+    ],
+    "citedby-count": 4,
+    "ref-count": 13,
+    "ref-list": [
+        "Channel polarization: A method for constructing capacity-achieving codes for symmetric binary-input memoryless channels",
+        "On the rate of channel polarization",
+        "Compound polar codes",
+        "Performance limits and practical decoding of interleaved reed-solomon polar concatenated codes",
+        "Universal polar codes",
+        "Performance of polar codes with the construction using density evolution",
+        "How to construct polar codes",
+        "List decoding of polar codes",
+        "Performance of polar codes for channel and source coding",
+        "Polar codes for slepian-Wolf, wyner-ziv, and gelfand-pinsker",
+        "Polar codes for the twouser binary-input multiple-access channel",
+        "A performance comparison of polar codes and reed-muller codes",
+        "Performance of short polar codes under ml decoding"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Lahore",
+            "@id": "60103839",
+            "affilname": "University of Central Punjab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103839",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "New Delhi",
+            "@id": "60097640",
+            "affilname": "Shail Group",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60097640",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Ladkrabang Bangkok",
+            "@id": "60021543",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021543",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "123086690",
+            "affilname": "Smart Wireless Communication Ecosystem Research Group",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/123086690",
+            "affiliation-country": null
+        }
+    ],
+    "funding": []
+}

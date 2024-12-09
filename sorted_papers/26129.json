@@ -1,0 +1,65 @@
+{
+    "eid": "2-s2.0-85083985466",
+    "title": "Heuristic Algorithms for Aggregated HVAC Control via Smart Thermostats for Regulation Service",
+    "cover-date": "2020-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "aggregated HVAC control",
+        "Regulation services",
+        "smart thermostat"
+    ],
+    "authors": [
+        "Rajendra Adhikari",
+        "Manisa Pipattanasomporn",
+        "Saifur Rahman"
+    ],
+    "citedby-count": 16,
+    "ref-count": 32,
+    "ref-list": [
+        "Safe protocols for generating power pulses with heterogeneous populations of thermostatically controlled loads",
+        "Design considerations of a centralized load controller using thermostatically controlled appliances for continuous regulation reserves",
+        "Improving the centralized control of thermostatically controlled appliances by obtaining the right information",
+        "A framework for activating residential HVAC demand response for wind generation balancing",
+        "Dynamic frequency response from controlled domestic heat pumps",
+        "Load following of multiple heterogeneous TCL aggregators by centralized control",
+        "Controller design and parameter optimization of aggregated thermostatically controlled loads for frequency regulation",
+        "Real-time decision making model for thermostatically controlled load aggregators by natural aggregation algorithm",
+        "Experimental evaluation of frequency regulation from commercial building HVAC systems",
+        "Frequency regulation from commercial building HVAC demand response",
+        "Ramping rate flexibility of residential HVAC loads",
+        "Demand-side energy management by use of a design-then-approximate controller for aggregated thermostatic loads",
+        "How demand response from commercial buildings will provide the regulation needs of the grid",
+        "Electrical demand side contribution to frequency control in power systems: A review on technical aspects",
+        "Optimal control of aggregated heterogeneous thermostatically controlled loads for regulation services",
+        "Modeling and control of aggregated heterogeneous thermostatically controlled loads for ancillary services",
+        "System properties of packetized energy management for aggregated diverse resources",
+        "On the accuracy of the state-queuing model for the thermostatically controlled loads",
+        "Coordination and control of building HVAC systems to provide frequency regulation to the electric grid",
+        "An algorithm for optimal management of aggregated HVAC power demand using smart thermostats",
+        "Thermal environmental conditions for human occupancy"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Blacksburg",
+            "@id": "60027090",
+            "affilname": "Virginia Polytechnic Institute and State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027090",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": []
+}

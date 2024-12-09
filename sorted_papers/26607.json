@@ -1,0 +1,100 @@
+{
+    "eid": "2-s2.0-85092720452",
+    "title": "Logo Based Amphetamines Classification using SURF and Bag-of-features model",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (miscellaneous)",
+            "@code": "2201",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Theory and Mathematics",
+            "@code": "1703",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Amphetamines image",
+        "Bag-of-features",
+        "CLAHE",
+        "SURF"
+    ],
+    "authors": [
+        "Tharaphon Nitijiramon",
+        "Nagul Cooharojananone",
+        "Somjet Saiseng"
+    ],
+    "citedby-count": 0,
+    "ref-count": 16,
+    "ref-list": [
+        "Learning generative visual models from few training examples:An incremental Bayesian approach tested on 101 object categories",
+        "Visual categorization with bags of keypoints",
+        "Sampling strategies for bag-of-features image classification",
+        "SURF: Speeded up robust features",
+        "Speeded-up robust features (surf)",
+        "Bag-of-features models",
+        "A comparison of sift and surf",
+        "Geodesic active contours",
+        "Methods for fast morphological image transforms using bitmapped images",
+        "Bag of features model using the new approaches: A comprehensive study",
+        "Image segmentation based on adaptive mode quantization and 2d histograms analysis"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Patum Thani",
+            "@id": "117186572",
+            "affilname": "Police Forensic Science Center 1",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/117186572",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Narcotics Sub \u2013 Division, Police Forensic Science Center 1 Office of Police Forensic Science"
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "eid": "2-s2.0-85097332619",
+    "title": "Cloth and skin deformation with a triangle mesh based convolutional neural network",
+    "cover-date": "2020-10-06",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Graphics and Computer-Aided Design",
+            "@code": "1704",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Nuttapong Chentanez",
+        "Miles Macklin",
+        "Matthias M\u00fcller",
+        "Stefan Jeschke",
+        "Tae Yong Kim"
+    ],
+    "citedby-count": 5,
+    "ref-count": 50,
+    "ref-list": [
+        "Neural 3D morphable models: Spiral convolutional networks for 3D shape representation learning and generation",
+        "Learning shape correspondence with anisotropic convolutional neural networks",
+        "Representations of quasi-Newton matrices and their use in limited memory methods",
+        "Fast and deep deformation approximations",
+        "Learning to predict 3D objects with an interpolation-based differentiable renderer",
+        "Synthesizing cloth wrinkles by cnn-based geometry image superresolution",
+        "Gwcnn: A metric alignment layer for deep shape analysis",
+        "Latent-space dynamics for reduced deformable simulation",
+        "A deformation transformer for real-time cloth animation",
+        "Improved training of wasserstein gans",
+        "Spiralnet++: A fast and highly efficient mesh convolution operator",
+        "Surface simplification using quadric error metrics",
+        "Generative adversarial nets",
+        "Animating wrinkles on clothes",
+        "Subspace neural physics: Fast data-driven interactive simulation",
+        "Meshcnn: A network with an edge",
+        "Mesh parameterization: Theory and practice",
+        "Surface networks via general covers",
+        "Image-to-image translation with conditional adversarial networks",
+        "Inequality cloth",
+        "A shortest augmenting path algorithm for dense and sparse linear assignment problems",
+        "Adam: A method for stochastic optimization",
+        "An efficient animation of wrinkled cloth with approximate implicit integration",
+        "Physics-inspired upsampling for cloth simulation in games",
+        "Near-exhaustive precomputation of secondary cloth effects",
+        "A real-time cloth draping simulation algorithm using conjugate harmonic functions",
+        "The hungarian method for the assignment problem",
+        "Real-time dynamic wrinkles",
+        "Deepwrinkles: Accurate and realistic clothing modeling",
+        "A simple approach to intrinsic correspondence learning on unstructured 3D meshes",
+        "Smpl: A skinned multi-person linear model",
+        "Geodesic convolutional neural networks on riemannian manifolds",
+        "Geometric deep learning on graphs and manifolds using mixture model cnns",
+        "Wrinkle meshes",
+        "Convolutional neural networks on surfaces via seamless toric covers",
+        "Xpbd: Position-based simulation of compliant constrained dynamics",
+        "Hierarchical cloth simulation using deep neural networks",
+        "Direct and specific least-square fitting of hyperbola and ellipses",
+        "Multi-directional geodesic neural networks via equivariant convolution",
+        "U-net: Convolutional networks for biomedical image segmentation",
+        "Animation wrinkling: Augmenting coarse cloth simulations with realistic-looking wrinkles",
+        "Learningbased animation of clothing for virtual try-on",
+        "Enriching coarse interactive elastic objects with high-resolution data-driven deformations"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Santa Clara",
+            "@id": "60076695",
+            "affilname": "NVIDIA",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60076695",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Copenhagen",
+            "@id": "60030840",
+            "affilname": "K\u00f8benhavns Universitet",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030840",
+            "affiliation-country": "Denmark"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

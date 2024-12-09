@@ -1,0 +1,71 @@
+{
+    "eid": "2-s2.0-85151689873",
+    "title": "Microgrid Loads Clustering in an Electricity Feeder using Genetic Algorithm with Applied DBSCAN Techniques",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Decision Sciences (miscellaneous)",
+            "@code": "1801",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "component",
+        "DBSCAN",
+        "electrical optimization",
+        "genetic algorithm",
+        "microgrid",
+        "microgrid cluster"
+    ],
+    "authors": [
+        "Jarupoj Tanomrug",
+        "Chaiyachet Saivichit",
+        "Teerapol Silawan"
+    ],
+    "citedby-count": 0,
+    "ref-count": 9,
+    "ref-list": [
+        "An Improved DBSCAN Method for Self-sufficient Microgrid Design",
+        "Discovering energy communities for microgrids on the power grid",
+        "Cloud and machine learning experiments applied to the energy management in a microgrid cluster",
+        "An Efficient and Scalable Density-based Clustering Algorithm for Normalize Data",
+        "Probabilistic characterisation of the aggregated residential load patterns. IET Generation",
+        "Scikit-learn: Machine Learning in Python"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Wireless Network & Future Internet Research Unit Department of Electrical Engineering Faculty of Engineering Chulalongkorn University Bangkok Thailand",
+        "Chulalongkorn University"
+    ]
+}

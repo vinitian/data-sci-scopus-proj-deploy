@@ -1,0 +1,95 @@
+{
+    "eid": "2-s2.0-85085862165",
+    "title": "Vehicle rollover detection using recurrent neural networks",
+    "cover-date": "2019-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Neural Network",
+        "Recurrent Neural Network",
+        "Rollover Detection",
+        "Rollover Prevention"
+    ],
+    "authors": [
+        "Christian Dengler",
+        "Kailerk Treetipsounthorn",
+        "Sunhapos Chantranuwathana",
+        "Gridsada Phanomchoeng",
+        "Boris Lohmann",
+        "Setha Panngum"
+    ],
+    "citedby-count": 3,
+    "ref-count": 30,
+    "ref-list": [
+        "Real-time estimation of rollover index for tripped rollovers with a novel unknown input nonlinear observer",
+        "New paradigms for the integration of yaw stability and rollover prevention functions in vehicle stability control",
+        "Rollover index estimation in the presence of sensor faults, unknown inputs, and uncertainties",
+        "An application of neural networks to control stability of an articulated vehicle in real time",
+        "Integrated chassis control for vehicle rollover prevention with neural network time-to-rollover warning metrics",
+        "Design of a preview controller for vehicle rollover prevention",
+        "A methodology for the design of robust rollover prevention controllers for automotive vehicles with active steering",
+        "Rollover prevention with predictive control of differential braking and rear wheel steering",
+        "Rollover mitigation controller development for three-wheeled vehicle using active front steering",
+        "Design of active suspension and electronic stability program for rollover prevention",
+        "Dynamic drive-the new active roll stabilization system from bmw group-system description and functional improvements",
+        "Active roll control of single unit heavy road vehicles",
+        "Active driveline torque-management systems",
+        "Practical vehicle rollover avoidance control using energy method",
+        "Design of a rollover index-based vehicle stability control scheme",
+        "New rollover index for the detection of tripped and untripped rollovers",
+        "Long short-term memory",
+        "Gate-variants of gated recurrent unit (gru) neural networks",
+        "Learning precise timing with lstm recurrent networks",
+        "Deep sparse rectifier neural networks",
+        "Backpropagation through time: What it does and how to do it",
+        "On the difficulty of training recurrent neural networks",
+        "An empirical exploration of recurrent network architectures",
+        "Knet: Beginning deep learning with 100 lines of julia",
+        "Adam: A method for stochastic optimization"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Munich",
+            "@id": "60019722",
+            "affilname": "Technische Universit\u00e4t M\u00fcnchen",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019722",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "105182952",
+            "affilname": "Faculty of Engineering",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/105182952",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn Academic Advancement",
+        "German Reseach Foundation"
+    ]
+}

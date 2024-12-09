@@ -1,0 +1,58 @@
+{
+    "eid": "2-s2.0-85057791875",
+    "title": "Microexamination",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Immunology and Allergy",
+            "@code": "2723",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Dermatology",
+            "@code": "2708",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Shan Xian Lee",
+        "Einapak Amnattrakul",
+        "Korbkarn Pongpairoj",
+        "Pailin Puangpet",
+        "Supitchaya Thaiwat",
+        "John P. McFadden"
+    ],
+    "citedby-count": 0,
+    "ref-count": 2,
+    "ref-list": [
+        "Patch testing with the European baseline series fragrance markers: a 2016 update",
+        "Diagnosing allergic contact dermatitis through elimination, perception, detection and deduction"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60013022",
+            "affilname": "Changi General Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013022",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60005518",
+            "affilname": "Guy's and St Thomas' NHS Foundation Trust",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005518",
+            "affiliation-country": "United Kingdom"
+        }
+    ],
+    "funding": []
+}

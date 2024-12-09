@@ -1,0 +1,55 @@
+{
+    "eid": "2-s2.0-85073096098",
+    "title": "Metal Artifact Reduction by Mapping MR into CT Information",
+    "cover-date": "2018-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Nuclear and High Energy Physics",
+            "@code": "3106",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Thanapon Shevaruangroj",
+        "Supatana Auethavekiat",
+        "Vera Sa-Ing"
+    ],
+    "citedby-count": 0,
+    "ref-count": 6,
+    "ref-list": [
+        "Medical image registration using mutual information",
+        "Mutual-information-based registration of medical images: A survey",
+        "A survey of medical image registration",
+        "An algorithm for object function optimization in mutual information-based image registration",
+        "Landmark and intensity based image registration using free form deformation",
+        "A feature-based image registration algorithm using improved chain-code representation combined with invariant moments"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60023366",
+            "affilname": "Rangsit University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023366",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "King Chulalongkorn Memorial Hospital",
+        "Chulalongkorn University and Faculty of Radiological Technology of Rangsit University"
+    ]
+}

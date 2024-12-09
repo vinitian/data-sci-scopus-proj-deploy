@@ -1,0 +1,132 @@
+{
+    "eid": "2-s2.0-85114912002",
+    "title": "Hybrid deep learning based on a heterogeneous network profile for functional annotations of plasmodium falciparum genes",
+    "cover-date": "2021-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Catalysis",
+            "@code": "1503",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Spectroscopy",
+            "@code": "1607",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Physical and Theoretical Chemistry",
+            "@code": "1606",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Organic Chemistry",
+            "@code": "1605",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Inorganic Chemistry",
+            "@code": "1604",
+            "@abbrev": "CHEM"
+        }
+    ],
+    "keywords": [
+        "Functional annotations",
+        "Heterogeneous network",
+        "Hybrid deep learning",
+        "Protein network profiles"
+    ],
+    "authors": [
+        "Apichat Suratanee",
+        "Kitiporn Plaimas"
+    ],
+    "citedby-count": 5,
+    "ref-count": 50,
+    "ref-list": [
+        "Benchmarking ortholog identification methods using functional genomics data",
+        "Computational methods for gene orthology inference",
+        "Evolutionary constraints on structural similarity in orthologs and paralogs",
+        "Functional and evolutionary implications of gene orthology",
+        "Treatment and prevention of malaria in children",
+        "The clinical impact of artemisinin resistance in Southeast Asia and the potential for future spread",
+        "Molecular detection of drug resistant malaria in Southern Thailand",
+        "Declining responsiveness of childhood Plasmodium falciparum infections to artemisinin-based combination treatments ten years following deployment as first-line antimalarials in Nigeria",
+        "Malaria vaccines: Facing unknowns",
+        "Landscape of the plasmodium interactome reveals both conserved and species-specific functionality",
+        "A mutagenesis screen for essential plastid biogenesis genes in human malaria parasites",
+        "Automatic clustering of orthologs and in-paralogs from pairwise species comparisons",
+        "Improved orthology inference with Hieranoid 2",
+        "Inferring orthologs: Open questions and perspectives",
+        "Malaria.tools-comparative genomic and transcriptomic database for Plasmodium species",
+        "Heterogeneous network model to identify potential associations between Plasmodium vivax and human proteins",
+        "Human genetics and malaria resistance",
+        "Reverse nearest neighbor search on a protein-protein interaction network to infer protein-disease associations",
+        "Network-based association analysis to infer new disease-gene relationships using large-scale protein interactions",
+        "DDA: A novel network-based scoring method to identify disease-disease associations",
+        "HNet-DNN: Inferring new drug-disease associations with Deep neural network based on heterogeneous network features",
+        "Prediction of human-Plasmodium vivax protein associations from heterogeneous network structures based on machine-learning approach",
+        "DeepPPI: Boosting prediction of protein-protein interactions with deep neural networks",
+        "Accurate de novo prediction of protein contact map by ultra-deep learning model",
+        "Improved protein structure prediction using potentials from deep learning",
+        "OpenChem: A deep learning toolkit for computational chemistry and drug design",
+        "Deep learning in chemistry",
+        "Deep learning and its applications in biomedicine",
+        "EnzyNet: Enzyme classification using 3D convolutional neural networks on spatial representation",
+        "Deep learning methods in protein structure prediction",
+        "Learning long-term dependencies with gradient descent is difficult",
+        "Long short-term memory",
+        "Deep learning",
+        "Capturing non-local interactions by long short-term memory bidirectional recurrent neural networks for improving prediction of protein secondary structure, backbone angles, contact numbers and solvent accessibility",
+        "A deep bidirectional long short-term memory approach applied to the protein secondary structure prediction problem",
+        "DeepACLSTM: Deep asymmetric convolutional long short-term memory neural models for protein secondary structure prediction",
+        "Protein secondary structure prediction improved by recurrent neural networks integrated with two-dimensional convolutional neural networks",
+        "How to start training: The effect of initialization and architecture",
+        "The effect of malaria and anti-malarial drugs on skeletal and cardiac muscles",
+        "Functional and biochemical modifications in skeletal muscles from malarial mice",
+        "Identification of a Plasmodium falciparum inhibitor-2 motif involved in the binding and regulation activity of protein phosphatase type 1",
+        "STRING v11: Protein-protein association networks with increased coverage, supporting functional discovery in genome-wide experimental datasets",
+        "eggNOG 5.0: A hierarchical, functionally and phylogenetically annotated orthology resource based on 5090 organisms and 2502 viruses",
+        "PlasmoDB: A functional genomic database for malaria parasites",
+        "Adam: A method for stochastic optimization",
+        "clusterProfiler: An R package for comparing biological themes among gene clusters",
+        "REVIGO summarizes and visualizes long lists of gene ontology terms",
+        "GOSim--an R-package for computation of information theoretic GO similarities between terms and gene products",
+        "An information-theoretic definition of similarity",
+        "Cytoscape: A software environment for integrated models of biomolecular interaction networks"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "King Mongkut\u2019s University of Technology North Bangkok"
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "eid": "2-s2.0-85081106412",
+    "title": "MaligNet: Semisupervised Learning for Bone Lesion Instance Segmentation Using Bone Scintigraphy",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Bone scintigraphy",
+        "Deep learning",
+        "Lesion instance segmentation",
+        "Semi-supervised learning"
+    ],
+    "authors": [
+        "Terapap Apiparakoon",
+        "Nutthaphol Rakratchatakul",
+        "Maythinee Chantadisai",
+        "Usanee Vutrapongwatana",
+        "Kanaungnit Kingpetch",
+        "Sasitorn Sirisalipoch",
+        "Yothin Rakvongthai",
+        "Tawatchai Chaiwatanarat",
+        "Ekapol Chuangsuwanich"
+    ],
+    "citedby-count": 16,
+    "ref-count": 53,
+    "ref-list": [
+        "Automated segmentation of knee bone and cartilage combining statistical shape knowledge and convolutional neural networks: Data from the Osteoarthritis Initiative",
+        "IMPST: Anewinteractive self-training approach to segmentation suspicious lesions in breast MRI",
+        "Convolutional neural networks for classification of prostate cancer metastases using bone scan images",
+        "Deep learning for classification of benign and malignant bone lesions in [F-18] NAF PET/CT images",
+        "Automated multi-atlas segmentation of cardiac 4D flow MRI",
+        "Not-so-supervised: A survey of semi-supervised, multi-instance, and transfer learning in medical image analysis",
+        "Bone metastases from lung cancer: A paradigm for multidisciplinary onco-rheumatology management",
+        "2D image classification for 3D anatomy localization: Employing deep convolutional neural networks",
+        "ImageNet: A large-scale hierarchical image database",
+        "The Pascal visual object classes (VOC) challenge",
+        "Combining CNN and mil to assist hotspot segmentation in bone scintigraphy",
+        "A MIL-based interactive approach for hotspot segmentation from bone scintigraphy",
+        "Fast R-CNN",
+        "Rich feature hierarchies for accurate object detection and semantic segmentation",
+        "MILD-net: Minimal information loss dilated network for gland instance segmentation in colon histology images",
+        "Learning both weights and connections for efficient neural network",
+        "Spine-GAN: Semantic segmentation of multiple spinal structures",
+        "Mask R-CNN",
+        "Deep residual learning for image recognition",
+        "OBELISK-net: Fewer layers to solve 3D multi-organ segmentation with sparse deformable convolutions",
+        "Densely connected convolutional networks",
+        "Quantized neural networks: Training neural networks with lowprecision weights and activations",
+        "Satellite image classification using multi features based descriptors",
+        "Bone and cancer: The osteoncology",
+        "Efficient multi-scale 3DCNN with fully connected CRF for accurate brain lesion segmentation",
+        "Unsupervised lesion detection in bone scintigraphy using deep learningbased image inpainting technology",
+        "Constrained-CNN losses for weakly supervised segmentation",
+        "Semantic organ segmentation in 3D whole-body MR images",
+        "Feature pyramid networks for object detection",
+        "Microsoft COCO: Common objects in context",
+        "SSD: Single shot multibox detector",
+        "Regressing heatmaps for multiple landmark localization using CNNs",
+        "Semisupervised learning with ladder networks",
+        "Micro-net: A Unified model for segmentation of various objects in microscopy images",
+        "Faster R-CNN: Towards realtime object detection with region proposal networks",
+        "Cancer statistics, 2019",
+        "RIANet: Recurrent interleaved attention network for cardiac MRI segmentation",
+        "Analysis of recorded image noise in nuclear medicine",
+        "CT Male pelvic organ segmentation using fully convolutional networks with boundary sensitive representation",
+        "Pulmonary nodule detection in CT scans with equivariant CNNs",
+        "Gland instance segmentation using deep multichannel neural networks",
+        "Automated anatomical landmark detection ondistal femur surface using convolutional neural network",
+        "Semi-supervised convolutional neural networks for human activity recognition"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

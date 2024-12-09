@@ -1,0 +1,57 @@
+{
+    "eid": "2-s2.0-85142710465",
+    "title": "Physically Based Shape Matching",
+    "cover-date": "2022-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Graphics and Computer-Aided Design",
+            "@code": "1704",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "CCS Concepts",
+        "elasticity",
+        "finite element method",
+        "physically-based animation",
+        "real-time physics",
+        "\u2022 Computing methodologies \u2192 Physical simulation"
+    ],
+    "authors": [
+        "Matthias M\u00fcller",
+        "Miles Macklin",
+        "Nuttapong Chentanez",
+        "Stefan Jeschke"
+    ],
+    "citedby-count": 2,
+    "ref-count": 42,
+    "ref-list": [
+        "Position-based simulation of continuous materials",
+        "A thermomechanical material point method for baking and cooking",
+        "A moving least squares material point method with displacement discontinuity and two-way rigid body coupling",
+        "Fast corotated elastic sph solids with implicit zero-energy mode control",
+        "Meshless deformations based on shape matching",
+        "Physically based deformable models in computer graphics",
+        "Stable neo-hookean flesh simulation",
+        "Anisompm: Animating anisotropic damage mechanics",
+        "Simulation and visualization of ductile fracture with the material point method"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Santa Clara",
+            "@id": "60076695",
+            "affilname": "NVIDIA",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60076695",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

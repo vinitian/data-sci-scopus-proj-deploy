@@ -1,0 +1,77 @@
+{
+    "eid": "2-s2.0-85022331937",
+    "title": "Road segmentation of remotely-sensed images using deep convolutional neural networks with landscape metrics and conditional random fields",
+    "cover-date": "2017-07-01",
+    "subject-areas": [
+        {
+            "$": "General Earth and Planetary Sciences",
+            "@code": "1900"
+        }
+    ],
+    "keywords": [
+        "Aerial images",
+        "Conditional random fields",
+        "Deep convolutional neural networks",
+        "Road segmentation",
+        "Satellite images",
+        "THEOS"
+    ],
+    "authors": [
+        "Teerapong Panboonyuen"
+    ],
+    "citedby-count": 111,
+    "ref-count": 33,
+    "ref-list": [
+        "Tensor-Cuts: A simultaneous multi-type feature extractor and classifier and its application to road extraction from satellite images",
+        "Semantic Segmentation of Satellite Images using Deep Learning",
+        "Multiple object extraction from aerial imagery with convolutional neural networks",
+        "Fully convolutional networks for semantic segmentation",
+        "Learning deconvolution network for semantic segmentation",
+        "Segnet: A deep convolutional encoder-decoder architecture for robust semantic pixel-wise labelling",
+        "Machine Learning for Aerial Image Labeling",
+        "Segnet: A deep convolutional encoder-decoder architecture for image segmentation",
+        "Semantic segmentation of urban scenes by learning local class interactions",
+        "Detection guided deconvolutional network for hierarchical feature learning",
+        "Decoupled deep neural network for semi-supervised semantic segmentation",
+        "U-net: Convolutional networks for biomedical image segmentation",
+        "Using filter banks in Convolutional Neural Networks for texture classification",
+        "Road network extraction: a neural-dynamic framework based on deep learning and a finite state machine",
+        "ReSeg: A Recurrent Neural Network-Based Model for Semantic Segmentation",
+        "Deep Learning Markov Random Field for Semantic Segmentation",
+        "Efficient inference in fully connected crfs with Gaussian edge potentials",
+        "Semantic image segmentation with deep convolutional nets and fully connected crfs",
+        "Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs",
+        "Segment-before-detect: Vehicle detection and classification through semantic segmentation of aerial images",
+        "Fast and accurate deep network learning by exponential linear units (elus)",
+        "Adaptive road detection via context-aware label transfer",
+        "Video-based road detection via online structural learning",
+        "Very deep convolutional networks for large-scale image recognition",
+        "Fully Convolutional Instance-aware Semantic Segmentation",
+        "Mask r-cnn",
+        "Batch normalization: Accelerating deep network training by reducing internal covariate shift",
+        "An enhanced deep convolutional encoder-decoder network for road segmentation on aerial imagery",
+        "Bayesian segnet: Model uncertainty in deep convolutional encoder-decoder architectures for scene understanding",
+        "Adam: A method for stochastic optimization",
+        "Digital Image Processing",
+        "Landscape Metrics for Categorical Map Patterns",
+        "Road centreline extraction from high-resolution imagery based on multiscale structural features and support vector machines"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Geo-Informatics and Space Technology Development Agency",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "Chulalongkorn University",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

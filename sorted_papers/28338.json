@@ -1,0 +1,68 @@
+{
+    "eid": "2-s2.0-85090879037",
+    "title": "Enhance attentional LSTM models for power consumption forecasting using asymmetric loss and renewable energy factors",
+    "cover-date": "2020-07-17",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "asymmetric loss function",
+        "attention mechanism",
+        "deep learning",
+        "long short-term memory",
+        "Power consumption forecasting",
+        "renewable energy factor"
+    ],
+    "authors": [
+        "Chukwan Siridhipakul",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 22,
+    "ref-list": [
+        "Multilayer perceptron for short-term load forecasting: From global to local approach",
+        "Short-term load forecast for energy management system using neural networks with mutual information method of input selection",
+        "A multiple time series-based recurrent neural network for short-term load forecasting",
+        "Ensemble deep learning method for short-term load forecasting",
+        "Long-short-term memory network based hybrid model for short-term electrical load forecasting",
+        "Short-term wind power forecasting using long-short term memory based recurrent neural network model and variable selection",
+        "A deep neural network model for short-term load forecast based on long short-term memory network and convolutional neural network",
+        "Enhanced deep networks for short-term and medium-term load forecasting",
+        "Electric energy consumption prediction by deep learning with state explainable autoencoder",
+        "Multi-step power consumption forecasting in Thailand using dual-stage attentional lstm",
+        "Forecasting realized oil-price volatility: The Role of financial stress and asymmetric loss"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Electricity Generating Authority of Thailand"
+    ]
+}

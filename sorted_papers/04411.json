@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85112860399",
+    "title": "Performance assessments of correction models in GNSS network-based RTK positioning",
+    "cover-date": "2021-05-19",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Correction models",
+        "GNSS differential positioning",
+        "Network Real-Time Kinematic"
+    ],
+    "authors": [
+        "Chayanon Laoniphon",
+        "Thayathip Thongtan",
+        "Chalermchon Satirapod"
+    ],
+    "citedby-count": 1,
+    "ref-count": 11,
+    "ref-list": [
+        "Estimations of gnss receiver internal delay using precise point positioning algorithm",
+        "Accuracy assessment of realtime kinematic GPS surveys using the first virtual reference station (vrs) network in Thaialnd: Initial test results",
+        "Development and assessment of GPS virtual reference stations for rtk positioning",
+        "Global navigation satellite systems: Signal",
+        "Performance of network rtk correction techniques (fkp, mac and vrs) under limited sky",
+        "A comparison of the vrs and mac principles for network rtk"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "124761509",
+            "affilname": "National Institute of Metrology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/124761509",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

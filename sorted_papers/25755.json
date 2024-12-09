@@ -1,0 +1,94 @@
+{
+    "eid": "2-s2.0-85123258248",
+    "title": "Machine learning algorithms for early sepsis detection in the emergency department: A retrospective study",
+    "cover-date": "2022-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Health Informatics",
+            "@code": "2718",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Early Warning Score",
+        "Electronic Health Records",
+        "Emergency Service",
+        "Hospital",
+        "Machine Learning",
+        "Sepsis",
+        "Systemic Inflammatory Response Syndrome",
+        "Triage"
+    ],
+    "authors": [
+        "Norawit Kijpaisalratana",
+        "Daecha Sanglertsinlapachai",
+        "Siwapol Techaratsami",
+        "Khrongwong Musikatavorn",
+        "Jutamas Saoraya"
+    ],
+    "citedby-count": 10,
+    "ref-count": 36,
+    "ref-list": [
+        "Global, regional, and national sepsis incidence and mortality, 1990\u20132017: analysis for the Global Burden of Disease Study",
+        "Presenting symptoms independently predict mortality in septic shock",
+        "Age-related differences in symptoms, diagnosis and prognosis of bacteremia",
+        "Time to treatment and mortality during mandated emergency care for sepsis",
+        "The timing of early antibiotics and hospital mortality in sepsis",
+        "Surviving sepsis campaign: international guidelines for management of sepsis and septic shock: 2016",
+        "Empiric antibiotic treatment reduces mortality in severe sepsis and septic shock from the first hour",
+        "Epidemiology and costs of sepsis in the united states\u2014an analysis based on timing of diagnosis and severity level",
+        "The third international consensus definitions for sepsis and septic shock (Sepsis-3)",
+        "A comparison of the Quick-SOFA and systemic inflammatory response syndrome criteria for the diagnosis of sepsis and prediction of mortality",
+        "Applications of machine learning approaches in emergency medicine: a review article",
+        "Machine learning approaches for predicting disposition of asthma and COPD exacerbations in the ED",
+        "A machine learning approach to triaging patients with chronic obstructive pulmonary disease",
+        "Machine learning for developing a prediction model of hospital admission of emergency department patients: Hype or hope?",
+        "Creating an automated trigger for sepsis clinical decision support at emergency department triage using machine learning",
+        "Development and evaluation of a machine learning model for the early identification of patients at risk for sepsis",
+        "Prediction of Sepsis in the Intensive Care Unit With Minimal Electronic Health Record Data: A Machine Learning Approach",
+        "An interpretable machine learning model for accurate prediction of sepsis in the ICU",
+        "Multiscale network representation of physiological time series for early prediction of sepsis",
+        "Artificial intelligence algorithm for detecting myocardial infarction using six-lead electrocardiography",
+        "The need to separate the wheat from the chaff in medical informatics: Introducing a comprehensive checklist for the (self)-assessment of medical AI studies",
+        "Validation of physiological scoring systems in the accident and emergency department",
+        "Definitions for sepsis and organ failure and guidelines for the use of innovative therapies in sepsis",
+        "Mining of Massive Datasets",
+        "Receiver operating characteristic (ROC) curve analysis for medical diagnostic test evaluation",
+        "Quick Sequential [Sepsis-Related] Organ Failure Assessment (qSOFA) and St. John sepsis surveillance agent to detect patients at risk of sepsis: an observational cohort study",
+        "Diagnosing sepsis \u2013 The role of laboratory medicine",
+        "Biomarkers of sepsis: time for a reappraisal",
+        "Machine learning for the prediction of sepsis: a systematic review and meta-analysis of diagnostic test accuracy",
+        "Evaluation of a machine learning algorithm for up to 48-hour advance prediction of sepsis using six vital signs",
+        "Early Prediction of Sepsis in EMR Records Using Traditional ML Techniques and Deep Learning LSTM Networks",
+        "Machine learning for prediction of septic shock at initial triage in emergency department",
+        "Much ado about nothing: A comparison of missing data methods and software to fit incomplete data regression models",
+        "Does the missing data imputation method affect the composition and performance of prognostic models?",
+        "Applying Artificial Intelligence to Identify Physiomarkers Predicting Severe Sepsis in the PICU",
+        "Temporal Differential Expression of Physiomarkers Predicts Sepsis in Critically Ill Adults"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "126193115",
+            "affilname": "Ltd.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/126193115",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

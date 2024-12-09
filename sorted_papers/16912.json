@@ -1,0 +1,121 @@
+{
+    "eid": "2-s2.0-85135092584",
+    "title": "Speed-Direction Sensing under Multiple Vehicles Scenario Using Photonic Radars",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Biomaterials",
+            "@code": "2502",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanics of Materials",
+            "@code": "2211",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "autonomous vehicle",
+        "intelligent transportation system",
+        "linear frequency modulated continuous wavelength",
+        "mode division multiplexing",
+        "photonic radar",
+        "World health organization"
+    ],
+    "authors": [
+        "Abhishek Sharma",
+        "Sushank Chaudhary",
+        "Jyoteesh Malhotra",
+        "Muhammad Saadi",
+        "Sattam Al Otaibi",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 1,
+    "ref-count": 29,
+    "ref-list": [
+        "Advances in single-photon lidar for autonomous vehicles: Working principles, challenges, and recent advances",
+        "Multiple sensor fusion and classification for moving object detection and tracking",
+        "Three decades of driver assistance systems: Review and future perspectives",
+        "Lidar system architectures and circuits",
+        "Solid core PCF-based mode selector for MDM-Ro-FSO transmission systems",
+        "Analysis of 2 \u00d7 10 Gbps MDM enabled inter satellite optical wireless communication under the impact of pointing errors",
+        "Hybrid MDM-PDM based Ro-FSO system for broadband services by incorporating donut modes under diverse weather conditions",
+        "Performance analysis of 80 Gbps Ro-FSO system by incorporating hybrid WDM-MDM scheme",
+        "Selective excitation of LG 00, LG 01, and LG 02 modes by a solid core PCF based mode selector in MDM-Ro-FSO transmission systems",
+        "Microwave photonic MIMO radar for high-resolution imaging",
+        "A cost-effective photonic radar under adverse weather conditions for autonomous vehicles by incorporating frequency modulated direct detection scheme",
+        "Field experiment of photonic radar for low-RCS target detection and high-resolution image acquisition",
+        "Simulative investigation of FMCW based optical photonic radar and its different configurations",
+        "Coherent detection-based photonic radar for autonomous vehicles under diverse weather conditions",
+        "Impact of bandwidth on range resolution of multiple targets using photonic radar",
+        "Measurement of target range and doppler shift by incorporating PDM-enabled FMCW-based photonic radar",
+        "Photonics-based real-time ultra-high-range-resolution radar with broadband signal generation and processing",
+        "Moving from legacy 24 GHz to state-of-the-art 77-GHz radar",
+        "A photonics guide to the autonomous vehicle market",
+        "Modes in plannar waveguides",
+        "Modeling and comparative study of various detection techniques for FMCW LIDAR using optisystem",
+        "High-speed MDM-Ro-FSO system by incorporating spiral-phased Hermite Gaussian modes",
+        "Spectrum slicing WDM for FSO communication systems under the heavy rain weather",
+        "The aRbrelation in the calculation of rain attenuation",
+        "Characterization of fog and snow attenuations for free-space optical propagation",
+        "Photonic approach for on-board and ground radars in automotive applications",
+        "Range detection assessment of photonic radar under adverse weather perceptions",
+        "Multi-functional microwave Photonic Radar system for simultaneous distance and velocity measurement and high-resolution microwave imaging"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Amritsar",
+            "@id": "60000078",
+            "affilname": "Guru Nanak Dev University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000078",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Lahore",
+            "@id": "60103839",
+            "affilname": "University of Central Punjab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103839",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Taif",
+            "@id": "60091164",
+            "affilname": "Taif University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091164",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Second Century Fund",
+        "TSRI Fund",
+        "Chulalongkorn University",
+        "Taif University"
+    ]
+}

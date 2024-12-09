@@ -1,0 +1,78 @@
+{
+    "eid": "2-s2.0-85084993646",
+    "title": "Durian Ripeness Classification from the Knocking Sounds Using Convolutional Neural Network",
+    "cover-date": "2020-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "convolutional neural network",
+        "durian ripeness classification",
+        "knocking sound"
+    ],
+    "authors": [
+        "Weangchai Kharamat",
+        "Manop Wongsaisuwan",
+        "Norrarat Wattanamongkhol"
+    ],
+    "citedby-count": 7,
+    "ref-count": 15,
+    "ref-list": [
+        "Durian ripeness striking sound recognition using n-gram models with n-best lists and majority voting",
+        "Environmental sound classification with convolutional neural networks",
+        "Short-segment heart sound classification using an ensemble of deep convolutional neural networks",
+        "Deep convolutional neural networks and data augmentation for environmental sound classification",
+        "Environmental sound classification using deep convolutional neural networks and data augmentation",
+        "Comparison of parametric representations for monosyllabic word recognition in continuously spoken sentences",
+        "Remaining useful life prediction using enhanced convolutional neural network on multivariate time series sensor data",
+        "Tensorflow: A system for large-scale machine learning",
+        "ESC: Dataset for environmental sound classification",
+        "A dataset and taxonomy for urban sound research"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chonburi",
+            "@id": "60009116",
+            "affilname": "Burapha University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009116",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

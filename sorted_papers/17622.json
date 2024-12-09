@@ -1,0 +1,73 @@
+{
+    "eid": "2-s2.0-85081674112",
+    "title": "A Modified Graph Representation for Room Layout Matching using Spectral Embedding",
+    "cover-date": "2019-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Media Technology",
+            "@code": "2214",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "floor plan",
+        "graph representation",
+        "spectral embedding"
+    ],
+    "authors": [
+        "Thamonwan Sa-Ngawong",
+        "Nagul Cooharojananone"
+    ],
+    "citedby-count": 1,
+    "ref-count": 19,
+    "ref-list": [
+        "Indexing with well-founded total order for faster subgraph isomorphism detection",
+        "Graph matching: Theoretical foundations, algorithms, and applications",
+        "Optimal quadratic-time isomorphism of ordered graphs",
+        "Graph matching and clustering using spectral partitions",
+        "Spectral embedding of graphs",
+        "Exact and inexact graph matching: Methodology and applications",
+        "A guide to the theory of npcompleteness",
+        "A graph distance metric based on the maximal common subgraph",
+        "Linear time algorithm for isomorphism of planar graphs",
+        "Isomorphism of graphs of bounded valence can be tested in polynomial time",
+        "Matching graphs with unique node labels",
+        "A unified framework for semantic matching of architectural floorplans",
+        "Spectral graph theory",
+        "The representation and matching of pictorial structures",
+        "Testing for graph isomorphism using eigenvalues"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

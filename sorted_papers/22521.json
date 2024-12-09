@@ -1,0 +1,97 @@
+{
+    "eid": "2-s2.0-85098879690",
+    "title": "Convergence analysis of gradient-based iterative algorithms for a class of rectangular Sylvester matrix equations based on Banach contraction principle",
+    "cover-date": "2021-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analysis",
+            "@code": "2603",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Algebra and Number Theory",
+            "@code": "2602",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Banach contraction principle",
+        "Generalized Sylvester matrix equation",
+        "Gradient",
+        "Kronecker product",
+        "Linear difference vector equation",
+        "Matrix norms"
+    ],
+    "authors": [
+        "Adisorn Kittisopaporn",
+        "Pattrawut Chansangiam",
+        "Wicharn Lewkeeratiyutkul"
+    ],
+    "citedby-count": 7,
+    "ref-count": 40,
+    "ref-list": [
+        "Robust pole assignment via Sylvester equation based state feedback parametrization",
+        "Methods for the solution of AXD\u2212 BXC= E and its applications in the numerical solution of implicit ordinary differential equations",
+        "Application of ADI iterative methods to the restoration of noisy images",
+        "Computational methods for linear matrix equations",
+        "Solution of the matrix equation AX+ XB= C",
+        "A Hessenberg\u2013Schur method for the problem AX+ XB= C",
+        "SOR for AX\u2212 XB= C",
+        "Solving stable generalized Lyapunov equations with the matrix sign function",
+        "Recursive blocked algorithms for solving triangular systems\u2014part I: one-sided and coupled Sylvester-type matrix equations",
+        "Recursive blocked algorithms for solving triangular systems\u2014part II: two-sided and generalized Sylvester and Lyapunov matrix equations",
+        "A new version of successive approximations method for solving Sylvester matrix equations",
+        "Implicitly restarted global FOM and GMRES for nonsymmetric matrix equations and Sylvester equations",
+        "Truncated low-rank methods for solving general linear matrix equations",
+        "A generalized modified Hermitian and skew-Hermitian splitting (GMHSS) method for solving complex Sylvester matrix equation",
+        "Solving complex Sylvester matrix equation by accelerated double-step scale splitting (ADSS) method",
+        "PHSS iterative method for solving generalized Lyapunov equations",
+        "The four-parameter PSS method for solving the Sylvester equation",
+        "Generalized conjugate direction algorithm for solving the general coupled matrix equations over symmetric matrices",
+        "Extending the CGLS algorithm for least squares solutions of the generalized Sylvester-transpose matrix equations",
+        "Generalized product-type methods based on bi-conjugate gradient(GPBiCG) for solving shifted linear systems",
+        "Iterative least-squares solutions of coupled Sylvester matrix equations",
+        "Hierarchical least squares identification methods for multivariable systems",
+        "Hierarchical gradient-based identification of multivariable discrete-time systems",
+        "The relaxed gradient based iterative algorithm for the symmetric (skew symmetric) solution of the Sylvester equation AX+ XB= C",
+        "The steepest descent of gradient-based iterative method for solving rectangular linear systems with an application to Poisson\u2019s equation",
+        "Matrix iterative methods for solving the Sylvester-transpose and periodic Sylvester matrix equations",
+        "Solving the general Sylvester discrete-time periodic matrix equations via the gradient based iterative method",
+        "Gradient based iterative algorithms for solving a class of matrix equations",
+        "Iterative solutions of the generalized Sylvester matrix equations by using the hierarchical identification principle",
+        "A relaxed gradient based algorithm for solving Sylvester equations",
+        "A modified gradient based algorithm for solving Sylvester equations",
+        "An accelerated Jacobi-gradient based iterative algorithm for solving Sylvester matrix equations",
+        "An iterative method for solving the generalized coupled Sylvester matrix equations over generalized bisymmetric matrices",
+        "An iterative algorithm for the reflexive solutions of the generalized coupled Sylvester matrix equations and its optimal approximation",
+        "Nonexpansive matrices with applications to solutions of linear systems by fixed point iterations"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ladkrabang Bangkok",
+            "@id": "60021543",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021543",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Thailand Research Fund",
+        "Thailand Science Research and Innovation"
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "eid": "2-s2.0-85131856078",
+    "title": "Interpretable Deep Learning Model Reveals Subsequences of Various Functions for Long Non-Coding RNA Identification",
+    "cover-date": "2022-05-24",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Molecular Medicine",
+            "@code": "1313",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics (clinical)",
+            "@code": "2716",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "deep learning",
+        "explainable artificial intelligence (XAI)",
+        "long non-coding RNA (lncRNA)",
+        "one-dimensional convolutional neural network (1D CNN)",
+        "SHAP (SHapley additive exPlanations)"
+    ],
+    "authors": [
+        "Rattaphon Lin",
+        "Duangdao Wichadakul"
+    ],
+    "citedby-count": 1,
+    "ref-count": 42,
+    "ref-list": [
+        "Automated Detection of Arrhythmias Using Different Intervals of Tachycardia ECG Segments with Convolutional Neural Network",
+        "A Micropeptide Encoded by a Putative Long Noncoding RNA Regulates Muscle Performance",
+        "The InterPro Protein Families and Domains Database: 20 Years on",
+        "RNAsamba: Neural Network-Based Assessment of the Protein-Coding Potential of RNA Sequences",
+        "Noncoding RNA:RNA Regulatory Networks in Cancer",
+        "Anti-proliferative and Pro-apoptotic Actions of a Novel Human and Mouse Ovarian Tumor-Associated Gene OTAG-12: Downregulation, Alternative Splicing and Drug Sensitization",
+        "MetamORF: a Repository of Unique Short Open reading Frames Identified by Both Experimental and Computational Approaches for Gene and Metagene Analyses",
+        "Ensembl 2019",
+        "lncRNA_Mdeep: An Alignment-free Predictor for Distinguishing Long Non-coding RNAs from Protein-Coding Transcripts by Multimodal Deep Learning",
+        "Roles, Functions, and Mechanisms of Long Non-coding RNAs in Cancer",
+        "GENCODE Reference Annotation for the Human and Mouse Genomes",
+        "CNIT: a Fast and Accurate Web Tool for Identifying Protein-Coding and Long Non-coding Transcripts Based on Intrinsic Sequence Composition",
+        "When Long Noncoding Becomes Protein Coding",
+        "Detection of Atrial Fibrillation Using 1D Convolutional Neural Network",
+        "Roles of lncRNAs in Cancer: Focusing on Angiogenesis",
+        "CPC2: a Fast and Accurate Coding Potential Calculator Based on Sequence Intrinsic Features",
+        "1D Convolutional Neural Networks and Applications: A Survey",
+        "Predicting Transmembrane Protein Topology With a Hidden Markov Model: Application to Complete Genomes",
+        "PLEK: a Tool for Predicting Long Non-coding RNAs and Messenger RNAs Based on an Improved K-Mer Scheme",
+        "Feature Extraction and Classification of Heart Sound Using 1D Convolutional Neural Networks",
+        "Cd-hit: a Fast Program for Clustering and Comparing Large Sets of Protein or Nucleotide Sequences",
+        "The Hidden World of Membrane Microproteins",
+        "The Multidimensional Mechanisms of Long Noncoding RNA Function",
+        "Hidden Peptides Encoded by Putative Noncoding RNAs",
+        "Pfam: The Protein Families Database in 2021",
+        "Human \u03b2 Cell Transcriptome Analysis Uncovers lncRNAs that Are Tissue-specific, Dynamically Regulated, and Abnormally Expressed in Type 2 Diabetes",
+        "MobiDB: Intrinsically Disordered Proteins in 2021",
+        "Why Should I Trust You?\": Explaining the Predictions of Any Classifier",
+        "Genome Regulation by Long Noncoding RNAs",
+        "Learning Important Features through Propagating Activation Differences",
+        "RNA Sequencing: the Teenage Years",
+        "Gene Regulation by Long Non-coding RNAs and its Biological Functions",
+        "A Survey on Explainable Artificial Intelligence (XAI): Toward Medical XAI",
+        "Identification of a Dinucleotide Signature that Discriminates Coding from Non-coding Long RNAs",
+        "LNCipedia 5: towards a Reference Set of Human Long Non-coding RNAs",
+        "RNA-seq: a Revolutionary Tool for Transcriptomics",
+        "CPAT: Coding-Potential Assessment Tool Using an Alignment-free Logistic Regression Model",
+        "FEELnc: a Tool for Long Non-coding RNA Annotation and its Application to the Dog Transcriptome",
+        "Convolutional Neural Networks: an Overview and Application in Radiology",
+        "LncADeep: Anab initiolncRNA Identification and Functional Annotation Tool Based on Deep Learning"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

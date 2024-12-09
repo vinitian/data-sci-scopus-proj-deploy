@@ -1,0 +1,100 @@
+{
+    "eid": "2-s2.0-85169290432",
+    "title": "Static Class-Level Approach For Test Impact Analysis",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "abstract syntax tree",
+        "continuous testing",
+        "javaparser",
+        "test case selection",
+        "test impact analysis"
+    ],
+    "authors": [
+        "Alon Basin",
+        "Arthorn Luangsodsai",
+        "Krung Sinapiromsaran"
+    ],
+    "citedby-count": 0,
+    "ref-count": 45,
+    "ref-list": [
+        "Maintenance support for object-oriented programs",
+        "The State of Software Maintenance",
+        "Impact analysis in the software change process: a year 2000 perspective",
+        "An Empirical Study on Views of Importance of Change Impact Analysis Issues",
+        "An early impact analysis technique for software maintenance",
+        "Deriving an approximation algorithm for automatic computation of ripple effect measures",
+        "Chianti: a change impact analysis tool for Java programs",
+        "Practical regression test selection with dynamic file dependencies",
+        "Comparing and combining test-suite reduction and regression test selection",
+        "A safe, efficient algorithm for regression test selection",
+        "An Empirical Study of JUnit Test-Suite Reduction",
+        "Fine-Grained Test Minimization",
+        "Regression testing minimization, selection and prioritization: a survey",
+        "Revisiting Test Impact Analysis in Continuous Testing From the Perspective of Code Dependencies",
+        "Scaling regression testing to large software systems",
+        "An extensive study of static regression test selection in modern software evolution",
+        "Quality and productivity outcomes relating to continuous integration in GitHub",
+        "Reducing wasted development time via continuous testing",
+        "Data debugging with continuous testing",
+        "Taming Google-scale continuous testing",
+        "Learning to Prioritize Test Programs for Compiler Testing",
+        "Search Algorithms for Regression Test Case Prioritization",
+        "A Static Approach to Prioritizing JUnit Test Cases",
+        "Prioritizing test cases for regression testing",
+        "An Information Retrieval Approach for Regression Test Prioritization Based on Program Changes",
+        "Static test case prioritization using topic models",
+        "Fault localization prioritization: Comparing information-theoretic and coverage-based approaches",
+        "Bridging the gap between the total and additional test-case prioritization strategies",
+        "Techniques for improving regression testing in continuous integration development environments",
+        "How Do Static and Dynamic Test Case Prioritization Techniques Perform on Modern Software Systems? An Extensive Study on GitHub Projects",
+        "Test Re-Prioritization in Continuous Testing Environments",
+        "Predictive Test Selection",
+        "Practical Test Dependency Detection",
+        "Understanding myths and realities of test-suite evolution",
+        "To Mock or Not to Mock? An Empirical Study on Mocking Practices",
+        "Notice of Retraction: Does Refactoring of Test Smells Induce Fixing Flaky Tests?",
+        "An empirical study of bugs in test code",
+        "An empirical analysis of flaky tests",
+        "Empirically revisiting the test independence assumption"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

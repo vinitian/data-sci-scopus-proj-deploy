@@ -1,0 +1,112 @@
+{
+    "eid": "2-s2.0-85071672927",
+    "title": "Universally Composable Secure Computation with Corrupted Tokens",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Nishanth Chandran",
+        "Wutichai Chongchitmate",
+        "Rafail Ostrovsky",
+        "Ivan Visconti"
+    ],
+    "citedby-count": 1,
+    "ref-count": 39,
+    "ref-list": [
+        "New impossibility results for concurrent composition and a non-interactive completeness theorem for secure computation",
+        "Secure outsourcing of cryptographic circuits manufacturing",
+        "Resettably-sound zero-knowledge and its applications",
+        "Concurrent non-malleable zero knowledge",
+        "Non-interactive secure computation from one-way functions",
+        "Precomputing oblivious transfer",
+        "Correlated pseudorandomness and the complexity of private computations",
+        "Universally composable security: A new paradigm for cryptographic protocols",
+        "Universally composable secure computation with corrupted tokens",
+        "Universally composable security with global setup",
+        "Correlated pseudorandomness and the complexity of private computations",
+        "Resettable zero-knowledge (Extended abstract)",
+        "On the limitations of universally composable two-party computation without set-up assumptions",
+        "New constructions for UC secure computation using tamper-proof hardware",
+        "(Efficient) universally composable oblivious transfer using a minimal number of stateless tokens",
+        "Simultaneous resettability from one-way functions",
+        "Adaptive and concurrent secure computation from new adaptive, non-malleable commitments",
+        "Constant-round multiparty computation using a black-box pseudorandom generator",
+        "Correlated pseudorandomness and the complexity of private computations",
+        "General statistically secure computation with bounded-resettable hardware tokens",
+        "Private circuits iii: Hardware trojan-resilience via testing amplification",
+        "Witness indistinguishable and witness hiding protocols",
+        "Secure set intersection with untrusted hardware tokens",
+        "Strengthening zero-knowledge protocols using signatures",
+        "Impossibility results for static input secure computation",
+        "How to construct random functions",
+        "How to play any mental game or a completeness theorem for protocols with honest majority",
+        "Probabilistic encryption",
+        "Founding cryptography on tamper-proof hardware tokens",
+        "Cryptography in the multi-string model",
+        "Composable security in the tamper-proof hardware model under minimal complexity",
+        "Universally composable zero-knowledge arguments and commitments from signature cards",
+        "On the power of correlated randomness in secure computation",
+        "Founding cryptography on oblivious transfer \u2013 efficiently",
+        "Universally composable multi-party computation using tamper-proof hardware",
+        "A unified framework for concurrent security: Universal composability from stand-alone non-malleability",
+        "On simulation-sound trapdoor commitments",
+        "A touch of evil: High-assurance cryptographic hardware from untrusted components",
+        "HOP: Hardware makes obfuscation practical"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bengaluru",
+            "@id": "60098465",
+            "affilname": "Microsoft Research India",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60098465",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Los Angeles",
+            "@id": "60027550",
+            "affilname": "University of California, Los Angeles",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027550",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Salerno",
+            "@id": "60007061",
+            "affilname": "Universit\u00e0 degli Studi di Salerno",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007061",
+            "affiliation-country": "Italy"
+        }
+    ],
+    "funding": [
+        "DARPA SPAWAR",
+        "DARPA Safe-Ware subcontract",
+        "Galois Inc.",
+        "Lockheed-Martin Corporation",
+        "NSF-BSF",
+        "U.S. Government",
+        "US-Israel BSF",
+        "Department of Defense",
+        "DARPA",
+        "IBM",
+        "OKAWA Foundation"
+    ]
+}

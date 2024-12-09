@@ -1,0 +1,69 @@
+{
+    "eid": "2-s2.0-85057744305",
+    "title": "Algorithmic Music Composition Comparison",
+    "cover-date": "2018-09-06",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Algorithmic music composition",
+        "Computer generated music",
+        "Jazz music composition",
+        "Long Short-Term Memory",
+        "Machine learning",
+        "Recurrent neural networks",
+        "Rock music composition",
+        "Rule-based algorithm"
+    ],
+    "authors": [
+        "Panida Wiriyachaiporn",
+        "Kankawee Chanasit",
+        "Atiwong Suchato",
+        "Proadpran Punyabukkana",
+        "Ekapol Chuangsuwanich"
+    ],
+    "citedby-count": 6,
+    "ref-count": 29,
+    "ref-list": [
+        "Clustering music recordings based on genres",
+        "How to generate music using a lstm neural network in keras",
+        "Dropout: A simple way to prevent neural networks from overfitting"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

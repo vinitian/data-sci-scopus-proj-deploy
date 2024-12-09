@@ -1,0 +1,107 @@
+{
+    "eid": "2-s2.0-85118174711",
+    "title": "A new intelligent system for diagnosing tumors with MR images using type-2 fuzzy neural network (T2FNN)",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Media Technology",
+            "@code": "2214",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Artificial intelligence",
+        "Brain MRI",
+        "Self-organizing Map (SOM)",
+        "Type-2 fuzzy neural network (T2FNN)"
+    ],
+    "authors": [
+        "Vahid Rezaie",
+        "Amir Parnianifard"
+    ],
+    "citedby-count": 3,
+    "ref-count": 55,
+    "ref-list": [
+        "Conditional spatial fuzzy C-means clustering algorithm for segmentation of MRI images",
+        "Fuzzy logic based algorithm to classify tumor categories with position from brain MRI images",
+        "Performance impact of texture features on MRI image classification",
+        "Automatic segmentation of brain tumors in magnetic resonance images",
+        "Robust classification of MR brain images based on fractal dimension analysis",
+        "Review on MRI brain tumor segmentation",
+        "A novel systematic approach to diagnose brain tumor using integrated type-II fuzzy logic and ANFIS (adaptive neuro-fuzzy inference system) model",
+        "Brain tumor detection and classification in MRI images using image and data mining",
+        "Gliomas: classification with MR imaging",
+        "Computer-aided detection of brain tumors using morphological reconstruction",
+        "Systematic image processing for diagnosing brain tumors: a Type-II fuzzy expert system approach",
+        "Lyapunov\u2013Krasovskii stable T2FNN controller for a class of nonlinear time-delay systems",
+        "Robust brain magnetic resonance image segmentation using modified rough-fuzzy C-means with spatial constraints",
+        "Cooperative strategy for constructing interval type-2 fuzzy neural network",
+        "MRI in treatment of adult gliomas",
+        "Hybrid Tolerance Rough Set-Firefly based supervised feature selection for MRI brain tumor image classification",
+        "Brain tumor classification via statistical features and back-propagation neural network",
+        "A two-stage fuzzy multi-objective framework for segmentation of 3D MRI brain image data",
+        "A mathematical theory of shape and neuro - fuzzy methodology - based diagnostic analysis: a comparative study on early detection and treatment planning of brain cancer",
+        "A deep supervised approach for ischemic lesion segmentation from multimodal MRI using Fully Convolutional Network",
+        "Type-2 fuzzy neural network synchronization of teleoperation systems with delay and uncertainties",
+        "An intelligent system for early assessment and classification of brain tumor",
+        "A K-means interval type-2 fuzzy neural network for medical diagnosis",
+        "ChaoCF (2019) Breast cancer diagnosis using K-means type-2 fuzzy neural network",
+        "Medical JPEG image steganography based on preserving inter-block dependencies",
+        "Comparative analysis of K-means and bisecting k-means algorithms for brain tumor detection",
+        "Brain tumors practical guide to diagnosis and treatment",
+        "Multilevel clustering comparison using self-organizing map and K-means for MIR score clustering",
+        "Integrating fuzzy entropy clustering with an improved PSO for MRI brain image segmentation",
+        "Robust adaptive non-rigid image registration based on joint salient point sets in the presence of tumor-like gross outliers",
+        "Investigation of a brain cancer with interfacing of 3-dimensional image processing",
+        "A data mining system for providing analytical information on brain tumors to public health decision makers",
+        "Adaptive type-2 fuzzy neural-network control for teleoperation systems with delay and uncertainties",
+        "Identification and classification of brain tumor MRI images with feature extraction using DWT and probabilistic neural network",
+        "Multi-class disease classification in brain MRIs using a computer-aided diagnostic system",
+        "A transform-based fast fuzzy C-means approach for high brain MRI segmentation accuracy",
+        "Pancreatic cancer in Iran: an epidemiological review",
+        "3D extracellular matrix microenvironment in bioengineered tissue models of primary pediatric and adult brain tumors",
+        "Bilateral telerobotic system using Type-2 fuzzy neural network based moving horizon estimation force observer for enhancement of environmental force compliance and human perception",
+        "Path-tracking of autonomous vehicles using a novel adaptive robust exponential-like-sliding-mode fuzzy type-2 neural network controller",
+        "Chapter 15: Toxicity uncertainty",
+        "Deep learning predictions of survival based on MRI in amyotrophic lateral sclerosis",
+        "Application of data mining techniques and data analysis methods to measure cancer morbidity and mortality data in a regional cancer registry: The case of the island of Crete, Greece",
+        "A type-2 fuzzy image processing expert system for diagnosing brain tumors",
+        "Cuckoo search algorithm with onlooker bee search for modeling PEMFCs using T2FNN"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Yazd",
+            "@id": "60000159",
+            "affilname": "Yazd University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000159",
+            "affiliation-country": "Iran"
+        }
+    ],
+    "funding": []
+}

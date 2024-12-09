@@ -1,0 +1,113 @@
+{
+    "eid": "2-s2.0-85144742430",
+    "title": "Adaptive Image Preprocessing and Augmentation for Tuberculosis Screening on Out-of-Domain Chest X-Ray Dataset",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "chest radiography",
+        "data augmentation",
+        "Image classification",
+        "image preprocessing"
+    ],
+    "authors": [
+        "Wasunan Chokchaithanakul",
+        "Proadpran Punyabukkana",
+        "Ekapol Chuangsuwanich"
+    ],
+    "citedby-count": 0,
+    "ref-count": 57,
+    "ref-list": [
+        "Deep learning classification of neuro-emotional phase domain complexity levels induced by affective video film clips",
+        "Machine learning classification of maladaptive rumination and cognitive distraction in terms of frequency specific complexity",
+        "Pneumonia detection in chest X-ray images using convolutional neural networks and transfer learning",
+        "Comparison of medical image classification accuracy among three machine learning methods",
+        "Parameter tuning of CLAHE based on multi-objective optimization to achieve different contrast levels in medical images in",
+        "Comparative study of logarithmic image processing models for medical image enhancement in",
+        "Modality-specific deep learning model ensembles toward improving TB detection in chest radiographs",
+        "Cov-FrameNet: An enhanced deep learning framework for COVID-19 detection",
+        "The effectiveness of image augmentation in deep learning networks for detecting COVID-19: A geometric transformation perspective",
+        "CovidXrayNet: Optimizing data augmentation and CNN hyperparameters for improved COVID-19 detection from CXR",
+        "A review of medical image data augmentation techniques for deep learning applications",
+        "Assessment of data augmentation strategies toward performance improvement of abnormality classification in chest radiographs in",
+        "Data augmentation using generative adversarial networks (GANs) for GAN-based detection of pneumonia and COVID-19 in chest X-ray images",
+        "Data augmentation with GAN: Improving chest X-ray pathologies prediction on class-imbalanced cases in",
+        "Balance contrast enhancement technique and its application in image colour composition",
+        "Adaptive histogram equalization and its variations",
+        "Image enhancement via adaptive unsharp masking",
+        "Differential evolution A simple and efficient heuristic for global optimization over continuous spaces",
+        "Deep learning for automated classification of tuberculosis-related chest X-ray: Dataset distribution shift limits diagnostic performance generalizability",
+        "Variable generalization performance of a deep learning model to detect pneumonia in chest radiographs: A cross-sectional study",
+        "Image enhancement for tuberculosis detection using deep learning",
+        "Lung boundary detection for chest X-ray images classification based on GLCM and probabilistic neural networks",
+        "Exploring the effect of image enhancement techniques on COVID-19 detection using chest X-ray images",
+        "Chest X-ray interpretation",
+        "Learning transformations for automated classification of manifestation of tuberculosis using convolutional neural network in",
+        "Using deep learning to classify X-ray images of potential tuberculosis patients in",
+        "Application of a convolutional neural network using transfer learning for tuberculosis detection in",
+        "Detection of pulmonary tuberculosis manifestation in chest X-rays using different convolutional neural network (CNN) models",
+        "Tb detection in chest radiograph using deep learning architecture in",
+        "An ensemble algorithm based on deep learning for tuberculosis classification in",
+        "Deep learning models for tuberculosis detection from chest X-ray images in",
+        "A novel approach for multi-label chest X-ray classification of common thorax diseases",
+        "Detection of tuberculosis from chest X-ray images: Boosting the performance with vision transformer and transfer learning",
+        "Feature extraction and classification of chest X-ray images using CNN to detect pneumonia in",
+        "Deep convolutional approaches for the analysis of COVID-19 using chest X-ray images from portable devices",
+        "Multichannel transfer learning of chest X-ray images for screening of COVID-19",
+        "Attention-based VGG-16 model for COVID-19 chest X-ray image classification",
+        "Transfer learning with deep convolutional neural network (CNN) for pneumonia detection using chest X-ray",
+        "Classification of COVID-19 from chest X-ray images using deep convolutional neural network in",
+        "Deep neural network ensemble for pneumonia localization from a large-scale chest X-ray database",
+        "Improving the performance of CNN to predict the likelihood of COVID-19 using chest X-ray images with preprocessing algorithms",
+        "Application of deep learning techniques for detection of COVID-19 cases using chest X-ray images: A comprehensive study",
+        "CheXclusion: Fairness gaps in deep chest X-ray classifiers in",
+        "Deep learning for screening COVID-19 using chest X-ray images in",
+        "Deep-COVID: Predicting COVID-19 from chest X-ray images using deep transfer learning",
+        "COVID-Net: A tailored deep convolutional neural network design for detection of COVID-19 cases from chest X-ray images",
+        "A novel transfer learning based approach for pneumonia detection in chest X-ray images",
+        "Deep learning based detection and analysis of COVID-19 on chest X-ray images",
+        "Convolutional neural network architecture and data augmentation for pneumonia classification from chest XRays images",
+        "Data augmentation for chest pathologies classification in",
+        "Effect of augmented datasets on deep convolutional neural networks applied to chest radiographs",
+        "Two public chest X-ray datasets for computer-Aided screening of pulmonary diseases",
+        "Deep residual learning for image recognition in",
+        "EfficientNet: Rethinking model scaling for convolutional neural networks in",
+        "Improved image classification explainability with high-Accuracy heatmaps",
+        "Grad-CAM: Visual explanations from deep networks via gradient-based localization"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University",
+        "Health Systems Research Institute"
+    ]
+}

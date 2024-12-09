@@ -1,0 +1,95 @@
+{
+    "eid": "2-s2.0-85145770547",
+    "title": "Numerical Investigation on the Effects of Wind and Shielding Conductor on the Ion Flow Fields of HVDC Transmission Lines",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Building and Construction",
+            "@code": "2215",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Fuel Technology",
+            "@code": "2103",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (miscellaneous)",
+            "@code": "2201",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy (miscellaneous)",
+            "@code": "2101",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "high voltage direct current",
+        "ion flow field",
+        "numerical method",
+        "shielding conductor",
+        "transmission lines",
+        "upwind finite volume method",
+        "wind"
+    ],
+    "authors": [
+        "Cattareya Choopum",
+        "Boonchai Techaumnat"
+    ],
+    "citedby-count": 0,
+    "ref-count": 18,
+    "ref-list": [
+        "Influence of wind and conductor potential on distributions of electric field and ion current density at ground level in DC high voltage line to plane geometry",
+        "A very stable calculation method for ion flow field of HVDC transmission lines",
+        "Influence of Wind on the Electric Field and Ion Current Environment of HVDC Transmission Lines",
+        "Statistical evaluation and numerical analysis of effect of transverse wind on ionized field of \u00b1800 kV UHVDC operating transmission lines",
+        "Predictive calculation of ion current environment of dc transmission line based on ionised flow model of embedded short-term wind speed",
+        "Estimating the environmental impacts of HVDC and UHVDC lines for large-scale wind power transmission considering height-dependent wind and atmospheric stability",
+        "Restriction of ion-flow field under HVDC transmission line by installing shield wire",
+        "Resultant electric field reduction with shielding wires under bipolar HVDC transmission lines",
+        "Commissioning experience of the 300 MW Thailand-Malaysia interconnection project",
+        "Wind Shear Coefficient at 23 Wind Monitoring Towers in Thailand",
+        "Finite Volume-Based Approach for the Hybrid Ion-Flow Field of UHVAC and UHVDC Transmission Lines in Parallel",
+        "Investigation of the Effects of Ion Diffusivity on the Ion Flow Field Simulation",
+        "Impact Factors in Measurements of Ion-Current Density Produced by High-Voltage DC Wire\u2019s Corona"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Graduate School Chulalongkorn University"
+    ]
+}

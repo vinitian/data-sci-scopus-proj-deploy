@@ -1,0 +1,57 @@
+{
+    "eid": "2-s2.0-85129861097",
+    "title": "Bayesian Markov Chain Monte Carlo for reparameterized Stochastic volatility models using Asian FX rates during Covid-19",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Statistics and Probability",
+            "@code": "2613",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Statistics, Probability and Uncertainty",
+            "@code": "1804",
+            "@abbrev": "DECI"
+        }
+    ],
+    "keywords": [
+        "Asian FX rates",
+        "Bayesian computation",
+        "Markov Chain Monte Carlo (MCMC)",
+        "Stochastic Volatility (SV) model"
+    ],
+    "authors": [
+        "Wantanee Poonvoralak"
+    ],
+    "citedby-count": 0,
+    "ref-count": 23,
+    "ref-list": [
+        "On Gibbs sampling for state space models",
+        "Markov Chain Monte Carlo (MCMC) in conditionally Gaussian state space models",
+        "GMM estimation of a realized Stochastic volatility model: A Monte Carlo study",
+        "A subordinated stochastic process model with finite variances for speculative prices",
+        "Time series analysis of non-Gaussian observations based on state space models from both classical and Bayesian perspectives",
+        "Bayesian estimation of state-space models using the Metropolis-Hastings algorithm within Gibbs sampling",
+        "Multivariate stochastic variance models",
+        "The pricing of options on assets with stochastic volatilities",
+        "Bayesian analysis of stochastic models (with discussion)",
+        "Stochastic volatility: likelihood inference and comparison with ARCH models",
+        "Analytic convergence rates and parameterization issues for the Gibbs sampler applied to state space models",
+        "Likelihood analysis of non-Gaussian measurement time series",
+        "Market risk VaR historical simulation model with autocorrelation effects",
+        "Variable dimension via Stochastic volatility model using FX rates"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60138776",
+        "affilname": "Sasin School of Management, Bangkok",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60138776",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Imperial College of Science, Technology and Medicine, University of London",
+        "MCMC"
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85028824750",
+    "title": "In-process prediction of roundness based on dynamic cutting forces",
+    "cover-date": "2018-02-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Industrial and Manufacturing Engineering",
+            "@code": "2209",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "CNC turning",
+        "Dynamic cutting forces",
+        "Prediction",
+        "Roundness",
+        "Surface plot"
+    ],
+    "authors": [
+        "Somkiat Tangjitsitcharoen",
+        "Deuanphan Chanthana"
+    ],
+    "citedby-count": 0,
+    "ref-count": 19,
+    "ref-list": [
+        "A study of relation between roundness and cutting force in CNC turning process",
+        "A stochastic optimization approach for roundness measurements",
+        "Roundness measurements for discontinuous perimeters via machine visions",
+        "In-line inspection of roundness using machine vision",
+        "Roundness error evaluation algorithm based on polar coordinate transform",
+        "In-process out-of-roundness measurement probe for turned workpieces",
+        "ARX modelling and compensation of roundness errors in taper turning",
+        "The estimation of the diameter error in bar turning: a comparison among three cutting force models",
+        "In-process prediction of surface roughness by utilizing the cutting force ratio",
+        "Advanced prediction of surface roughness by monitoring of dynamic cutting forces in CNC turning process",
+        "Prediction of diameter errors compensation in bars turning",
+        "Development of in-process tool wear monitoring system for CNC turning",
+        "Advance in detection system to improve the stability and capability of CNC turning process",
+        "Applying particle swarm optimization algorithm to roundness error evaluation based on minimum zone circle",
+        "Linear and angular measurements precision roundness measuring gauge",
+        "Monitoring of dry cutting and applications of cutting fluid",
+        "In-process monitoring and prediction of surface roughness in CNC turning process",
+        "Surface roughness in high feed turning with wiper insert"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Thailand Research Fund"
+    ]
+}

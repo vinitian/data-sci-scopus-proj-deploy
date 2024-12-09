@@ -1,0 +1,110 @@
+{
+    "eid": "2-s2.0-85136185137",
+    "title": "Identifying catalyst layer compositions of proton exchange membrane fuel cells through machine-learning-based approach",
+    "cover-date": "2022-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Fuel Technology",
+            "@code": "2103",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Condensed Matter Physics",
+            "@code": "3104",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        }
+    ],
+    "keywords": [
+        "Classification",
+        "Low humidity operation",
+        "Machine learning",
+        "Prediction",
+        "Proton exchange membrane fuel cell"
+    ],
+    "authors": [
+        "P. Jienkulsawad",
+        "K. Wiranarongkorn",
+        "Y. S. Chen",
+        "A. Arpornwichanop"
+    ],
+    "citedby-count": 0,
+    "ref-count": 40,
+    "ref-list": [
+        "Fuel cell application in the automotive industry and future perspective",
+        "FC types: PEMFC/DMFC/AFC/PAFC//MCFC/SOFC",
+        "Evaluating co-benefits of battery and fuel cell vehicles in a community in California",
+        "Evaluation of design methodology, limitations, and iterations of a hydrogen fuelled hybrid fuel cell mini UAV",
+        "Water transport in polymer electrolyte membrane fuel cells",
+        "Characterization of self-humidifying ability of SiO2-supported Pt catalyst under low humidity in PEMFC",
+        "Evaluation of titanium oxide introduction in the electrode structure for portable PEMFC applications",
+        "Modifying the catalyst layer using polyvinyl alcohol for the performance improvement of proton exchange membrane fuel cells under low humidity operations",
+        "Effect of catalyst layer with zeolite on the performance of a proton exchange membrane fuel cell operated under low-humidity conditions",
+        "Interfacial water management of gradient microporous layer for self-humidifying proton exchange membrane fuel cells",
+        "Covalent-organic frameworks (COFs) as proton conductors",
+        "Superacidity in nafion/MOF hybrid membranes retains water at low humidity to enhance proton conduction for fuel cells",
+        "Novel ultrathin composite membranes of Nafion/PVA for PEMFCs",
+        "High electrically conductive polyaniline/partially phosphorylated poly(vinyl alcohol) composite films via aqueous dispersions",
+        "Casting of poly hydroxybutarate/poly (vinyl alcohol)Membranes for proton exchange fuel cells",
+        "Self-humidifying membrane electrode assembly prepared by adding PVA as hygroscopic agent in anode catalyst layer",
+        "Investigation of machine learning techniques on proteomics: a comprehensive survey",
+        "A critical review of machine learning of energy materials",
+        "Predictions and strategies learned from machine learning to develop high-performing perovskite solar cells",
+        "Development of an ANN-based generalized model for hardness prediction of SPSed AlCoCrCuFeMnNiW containing high entropy alloys",
+        "On neural network modeling to maximize the power output of PEMFCs",
+        "Analysis and diagnosis of PEM fuel cell failure modes (flooding & drying) across the physical parameters of electrochemical impedance model: using neural networks method",
+        "Degradation prediction of proton exchange membrane fuel cell based on grey neural network model and particle swarm optimization",
+        "Remaining useful life prediction of PEMFC systems based on the multi-input echo state network",
+        "A short- and long-term prognostic associating with remaining useful life estimation for proton exchange membrane fuel cell",
+        "Machine learning for enterprises: applications, algorithm selection, and challenges",
+        "Detection of lung cancer on chest CT images using minimum redundancy maximum relevance feature selection method with convolutional neural networks",
+        "Fast and scalable approaches to accelerate the fuzzy k-nearest neighbors classifier for big data",
+        "Three PV plants performance analysis using the principal component analysis method",
+        "Effect of bipolar plate material on proton exchange membrane fuel cell performance",
+        "Comparison of state-of-the-art machine learning algorithms and data-driven optimization methods for mitigating nitrogen crossover in PEM fuel cells",
+        "Application of machine learning in optimizing proton exchange membrane fuel cells: a review",
+        "Boosting the optimization of membrane electrode assembly in proton exchange membrane fuel cells guided by explainable artificial intelligence",
+        "Better electrochemical performance of PEMFC under a novel pneumatic clamping mechanism",
+        "Tailoring the membrane-electrode interface in pem fuel cells: a review and perspective on novel engineering approaches",
+        "Investigation of a novel catalyst coated membrane method to prepare low-platinum-loading membrane electrode assemblies for PEMFCs",
+        "KNN classification \u2014 evaluated by repeated double cross validation: recognition of minerals relevant for comet dust",
+        "Chapter 5 - supervised learning",
+        "Performance evaluation of classification algorithms by k-fold and leave-one-out cross validation",
+        "Experimental investigation and prediction of performance and emission responses of a CI engine fuelled with different metal-oxide based nanoparticles\u2013diesel blends using different machine learning algorithms"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Min-Hsiung",
+            "@id": "60007954",
+            "affilname": "National Chung Cheng University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007954",
+            "affiliation-country": "Taiwan"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University , Thailand",
+        "Chulalongkorn University, Thailand",
+        "Ratchadapisek Sompoch Endowment Fund",
+        "Chulalongkorn University"
+    ]
+}

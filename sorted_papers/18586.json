@@ -1,0 +1,96 @@
+{
+    "eid": "2-s2.0-85147091687",
+    "title": "Modeling of turbulent diffusion terms for one-dimensional interfacial area transport equation in vertical round channels",
+    "cover-date": "2023-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Nuclear Energy and Engineering",
+            "@code": "2104",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Waste Management and Disposal",
+            "@code": "2311",
+            "@abbrev": "ENVI"
+        }
+    ],
+    "keywords": [
+        "Bubbly flow",
+        "Interfacial area transport equation",
+        "Turbulent diffusion"
+    ],
+    "authors": [
+        "Somboon Rassame",
+        "Takashi Hibiki"
+    ],
+    "citedby-count": 0,
+    "ref-count": 33,
+    "ref-list": [
+        "Implementation of the Interfacial Area Transport Equation in TRACE for Boiling Two-phase Flows",
+        "NUREG/CR-4391/EGG-26804, US NRC, Washington DC TRAC-Bf1/mod1 Models And Correlations",
+        "Vertical upward two-phase flow CFD using interfacial area transport equation",
+        "Methodology Development of a Gas-Liquid Dynamic Flow Regime Transition Model",
+        "Two-group interfacial area transport in vertical air-water flow I. Mechanistic model",
+        "Experimental investigation and preliminary numerical simulations of void profile development in a vertical cylindrical pipe",
+        "Local measurement of interfacial area, interfacial velocity, and liquid turbulence in two-phase flow",
+        "Experimental study on interfacial area transport in bubbly two-phase flows",
+        "One-group interfacial area transport of bubbly flows in vertical round tubes",
+        "Two-group interfacial area transport equations at bubbly-to-slug flow transition",
+        "Axial interfacial area transport of vertical bubbly flows",
+        "Interfacial area concentration of bubbly flow systems",
+        "Development of one-group interfacial area transport equation in bubbly flow systems",
+        "Thermo-fluid Dynamics of Two-phase Flow",
+        "Interfacial are density, mean radius and number density measurements in bubbly two-phase flow",
+        "Two-phase bubbly flow simulation using CFD method: a review of models for interfacial forces",
+        "Modeling of turbulent diffusion term of interfacial area concentration in gas-liquid two-phase flow",
+        "Derivation of the basic equations and simplified transport models of the interfacial area in gas-liquid two-phase flow",
+        "Foundation of the interfacial area transport equation and its closure relations",
+        "A study of adiabatic two-phase flows using the two-group interfacial area transport equations with a modified two-fluid model",
+        "Numerical investigation of flow and heat transfer characteristics in plate-type fuel channels of IAEA MTR based on OpenFOAM",
+        "Structure of air-water bubbly flow in a vertical pipe- II. Void fraction, bubble velocity, and bubble distribution",
+        "Experimental data set no. 24: phase distribution in bubbly flow",
+        "An interfacial shear term evaluation study for adiabatic dispersed air-water two-phase flow with the two-fluid model using CFD",
+        "Beyond bubbly two-phase flow investigation using a CFD three-field two-fluid model",
+        "Comments on 'foundation of the interfacial area transport equation and its closure relations",
+        "Modeling of bubble coalescence and disintegration in confined upward two-phase flow",
+        "Modelling flow pattern transitions for steady upward gas-liquid flow in vertical tubes",
+        "Implementation and evaluation of one-group interfacial area transport equation in TRACE",
+        "RELAP5/MOD3 code manual",
+        "Development of subcooled wall boiling model considering bubble sliding in narrow rectangular channel",
+        "Three-dimensional simulations of air-water bubbly flows",
+        "Thermal hydraulic considerations of nuclear reactor systems: past, present and future challenges"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "60013983",
+            "affilname": "City University of Hong Kong",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013983",
+            "affiliation-country": "Hong Kong"
+        }
+    ],
+    "funding": [
+        "City University of Hong Kong"
+    ]
+}

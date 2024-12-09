@@ -1,0 +1,81 @@
+{
+    "eid": "2-s2.0-85082653519",
+    "title": "Duplex optical amplifier for 10 Gb/s ethernet link over 120 km SSMF and 15 km DCF",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Condensed Matter Physics",
+            "@code": "3104",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "5G",
+        "Aggregation network",
+        "Burst-mode EDFA",
+        "Duplex optical amplifiers",
+        "Erbium-doped fiber amplifier",
+        "Ethernet link",
+        "Extended distance"
+    ],
+    "authors": [
+        "Vittavat Vorapamorn",
+        "Duang Rudee Worasucheep",
+        "Naoya Wada"
+    ],
+    "citedby-count": 0,
+    "ref-count": 7,
+    "ref-list": [
+        "Ieee std 802.3ae: Ieee standard for information technology-local and metropolitan area networks-part 3: Csma/cd access method and physical layer specifications-media access control (mac) parameters, physical layer, and management parameters for 10 gb/s operation",
+        "Supplementary transient suppression in a burst-mode edfa using optical feedback",
+        "Burst-mode optical amplifier",
+        "Performance evaluation of a burst-mode edfa in an optical packet and circuit integrated network",
+        "Demonstrating network-scale gain transient impact of multiple series edfas in link failure cases",
+        "Challenges toward burst-mode edfa"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Koganei",
+            "@id": "60032325",
+            "affilname": "Japan National Institute of Information and Communications Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032325",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "National Institute of Information and Communication Technology"
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85043981703",
+    "title": "Combined Bisulfite Restriction Analysis for brain tissue identification",
+    "cover-date": "2018-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Pathology and Forensic Medicine",
+            "@code": "2734",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "COBRA-EML2",
+        "DNA methylation",
+        "EML2",
+        "Site-specific methylation"
+    ],
+    "authors": [
+        "Jarunya Samsuwan",
+        "Tachapol Muangsub",
+        "Pattamawadee Yanatatsaneejit",
+        "Apiwat Mutirangura",
+        "Nakarin Kitkumthorn"
+    ],
+    "citedby-count": 3,
+    "ref-count": 19,
+    "ref-list": [
+        "DNA methylation-specific multiplex assays for body fluid identification",
+        "The determination of tissue-specific DNA methylation patterns in forensic biofluids using bisulfite modification and pyrosequencing",
+        "DNA methylation-based forensic tissue identification",
+        "Basic concepts of epigenetics",
+        "DNA methylation patterns and epigenetic memory",
+        "Genome-wide analysis of DNA methylation patterns",
+        "Genome-wide DNA methylation profiling using infinium(R) assay",
+        "Analysis of methylation microarray for tissue specific detection",
+        "FRY site-specific methylation differentiates pancreatic ductal adenocarcinoma from other adenocarcinomas",
+        "Identification of pancreatic cancer in biliary obstruction patients by FRY site-specific methylation",
+        "Body fluid identification in forensics",
+        "Potential forensic application of DNA methylation profiling to body fluid identification",
+        "Detection of DNA methylation in eucaryotic cells",
+        "COBRA: a sensitive and quantitative DNA methylation assay",
+        "Human identification by genotyping of personal articles",
+        "Microtubule association of EML proteins and the EML4-ALK variant 3 oncoprotein require an N-terminal trimerization domain",
+        "Methylation profiling identifies epigenetic markers for high-grade gliomas",
+        "Quantitative, genome-wide analysis of the DNA methylome in sporadic pituitary adenomas",
+        "DNA methylation in health and disease"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60091468",
+            "affilname": "Mahidol University, Faculty of Dentistry",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091468",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60023217",
+            "affilname": "Police General Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023217",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Anantara Siam Bangkok Hotel",
+        "Chulalongkorn University",
+        "Thailand Research Fund"
+    ]
+}

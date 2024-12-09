@@ -1,0 +1,75 @@
+{
+    "eid": "2-s2.0-85044354013",
+    "title": "A speedup scheme for MRF stereo using local label hierarchy",
+    "cover-date": "2018-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Energy minimization",
+        "Markov random fields",
+        "QPBO",
+        "Stereo vision"
+    ],
+    "authors": [
+        "Sangsan Leelhapantu",
+        "Thanarat H. Chalidabhongse"
+    ],
+    "citedby-count": 1,
+    "ref-count": 32,
+    "ref-list": [
+        "Multispectral MRI image segmentation using Markov random field model",
+        "A pixel dissimilarity measure that is insensitive to image sampling",
+        "Pseudo-Boolean optimization",
+        "Fast approximate energy minimization via graph cuts",
+        "Mean shift: a robust approach toward feature space analysis",
+        "Inference by learning: speeding-up graphical model optimization via a coarse-to-fine cascade of pruning classifiers",
+        "The complexity of multiterminal cuts",
+        "Minimizing sparse high-order energies by submodular vertex-cover",
+        "An image registration algorithm based on phase correlation and the classical LucasKanade technique",
+        "Roof duality, complementation and persistency in quadratic 01 optimization",
+        "Accurate and efficient stereo processing by semi-global matching and mutual information",
+        "Evaluation of cost functions for stereo matching",
+        "Exact optimization for Markov random fields with convex priors",
+        "A comparative study of modern inference techniques for structured discrete energy minimization problems",
+        "On partial optimality in multi-label MRFs",
+        "Comparison of energy minimization algorithms for highly connected graphs",
+        "Minimizing nonsubmodular functions with graph cuts-A review",
+        "MAP estimation of semi-metric MRFs via hierarchical graph cuts",
+        "Stereo correspondence using multi-label QPBO method",
+        "LogCut-efficient graph cut optimization for Markov random fields",
+        "Fusion moves for Markov random field optimization",
+        "Optimizing binary MRFs via extended roof duality",
+        "Stereo without epipolar lines: a maximum-flow formulation",
+        "A maximum-flow formulation of the N-camera stereo correspondence problem",
+        "Learning conditional random fields for stereo",
+        "A taxonomy and evaluation of dense two-frame stereo correspondence algorithms",
+        "High-accuracy stereo depth maps using structured light",
+        "A comparative study of energy minimization methods for Markov random fields with smoothness-based priors",
+        "A survey on super-resolution imaging",
+        "Reducing search space for stereo correspondence with graph cuts",
+        "A principled approach for coarse-to-fine MAP inference",
+        "Fast multi-labelling for stereo matching"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "eid": "2-s2.0-85144040050",
+    "title": "ReCasNet: Improving consistency within the two-stage mitosis detection framework",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Medicine (miscellaneous)",
+            "@code": "2701",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Image classification",
+        "Mitotic count",
+        "Multi-stage deep learning",
+        "Object detection",
+        "Whole slide image"
+    ],
+    "authors": [
+        "Chawan Piansaddhayanaon",
+        "Sakun Santisukwongchote",
+        "Shanop Shuangshoti",
+        "Qingyi Tao",
+        "Sira Sriswasdi",
+        "Ekapol Chuangsuwanich"
+    ],
+    "citedby-count": 1,
+    "ref-count": 42,
+    "ref-list": [
+        "Mitosis counting in breast cancer: Object-level interobserver agreement and comparison to an automatic method",
+        "Mitosis detection techniques in h&e stained breast cancer pathological images: A comprehensive review",
+        "Deep neural network models for computational histopathology: A survey",
+        "Computerized calculation of mitotic count distribution in canine cutaneous mast cell tumor sections: Mitotic Count Is Area dependent",
+        "Mitosis detection in breast cancer histological images an ICPR 2012 contest",
+        "Assessment of algorithms for mitosis detection in breast cancer histopathology images",
+        "MITOS-ATYPIA-14-dataset",
+        "Predicting breast tumor proliferation from whole-slide images: The TUPAC16 challenge",
+        "A large-scale dataset for mitotic figure assessment on whole slide images of canine cutaneous mast cell tumor",
+        "A completely annotated whole slide image dataset of canine breast cancer to aid human breast cancer research",
+        "DeepMitosis: Mitosis detection via deep detection, verification and segmentation networks",
+        "MitosisNet: End-to-end mitotic cell detection by multi-task learning",
+        "A rotation and a translation suffice: Fooling CNNs with simple transformations",
+        "Detecting mitotic figures in breast cancer histopathology images",
+        "Mitosis detection for invasive breast cancer grading in histopathological images",
+        "Mitosis detection using generic features and an ensemble of cascade adaboosts",
+        "Maximized inter-class weighted mean for fast and accurate mitosis cells detection in breast cancer histopathology images",
+        "Regenerative random forest with automatic feature selection to detect mitosis in histopathological breast cancer images",
+        "A survey on deep learning in medical image analysis",
+        "Classification of mitotic figures with convolutional neural networks and seeded blob features",
+        "Mitosis detection in breast cancer histology images with deep neural networks",
+        "Deep learning algorithms out-perform veterinary pathologists in detecting the mitotically most active tumor region",
+        "Computer-assisted mitotic count using a deep learning-based algorithm improves interobserver reproducibility and accuracy",
+        "OncoPetNet: A deep learning based AI system for mitotic figure counting on H&E stained whole slide digital images in a large veterinary diagnostic lab setting",
+        "Faster R-CNN: Towards real-time object detection with region proposal networks",
+        "MMDetection: Open mmlab detection toolbox and benchmark",
+        "EfficientNet: Rethinking model scaling for convolutional neural networks",
+        "Microsoft COCO: Common objects in context",
+        "Mitotic count and the field of view area: Time to standardize",
+        "TensorFlow: Large-scale machine learning on heterogeneous systems",
+        "Active learning literature survey",
+        "Active learning for convolutional neural networks: A core-set approach"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Santa Clara",
+            "@id": "60076695",
+            "affilname": "NVIDIA",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60076695",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University, Thailand",
+        "NSRF"
+    ]
+}

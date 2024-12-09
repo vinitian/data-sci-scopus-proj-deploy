@@ -1,0 +1,71 @@
+{
+    "eid": "2-s2.0-85096622322",
+    "title": "An ESO Approach for Optimal Steel Structure Design Complying with AISC 2010 Specification",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Evolutionary structural optimization (ESO)",
+        "Limit state criteria",
+        "Non-smooth",
+        "Nonconvex",
+        "Optimal steel design"
+    ],
+    "authors": [
+        "Atitaya Chaiwongnoi",
+        "Huynh Van Thu",
+        "Sawekchai Tangaramvong",
+        "Chung Nguyen Van"
+    ],
+    "citedby-count": 0,
+    "ref-count": 20,
+    "ref-list": [
+        "Towards structural optimization via the genetic algorithm",
+        "Design of nonlinear framed structures using genetic optimization",
+        "Design of steel frames using ant colony optimization",
+        "Optimum design of steel frames using harmony search algorithm",
+        "Design-driven harmony search (DDHS) in steel frame optimization",
+        "Optimum design of planar steel frames using the Search Group Algorithm",
+        "Optimal performance-based rehabilitation of steel frames using braces",
+        "A simple evolutionary procedure for structural optimization",
+        "An evolutionary structural optimization method for sizing problems with discrete design variables",
+        "Evolutionary structural optimization for stress minimization problems by discrete thickness design",
+        "Optimum design of frames with multiple constraints using an evolutionary method",
+        "Evolutionary structural optimisation (ESO) for combined topology and size optimisation of discrete structures",
+        "A multiobjective and fixed elements based modification of the evolutionary structural optimization method",
+        "Evolutionary structural optimization for problems with stiffness constraints",
+        "School based optimization algorithm for design of steel frames",
+        "An enhanced honey bee mating optimization algorithm for design of side sway steel frames",
+        "Optimum design of frame structures using the eagle strategy with differential evolution",
+        "Optimum design of steel structures in accordance with AISC 2010 specification using heuristic algorithm"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60112735",
+            "affilname": "HCMC University of Technology and Education",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60112735",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

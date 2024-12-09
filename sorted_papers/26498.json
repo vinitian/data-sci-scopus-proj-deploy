@@ -1,0 +1,100 @@
+{
+    "eid": "2-s2.0-85160232838",
+    "title": "Real-Time Identification of Malignant Biliary Strictures on Cholangioscopy Images Using Explainable Convolutional Neural Networks With Heatmaps",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Deep learning",
+        "explainable deep learning",
+        "indeterminate biliary strictures",
+        "real-time image classification"
+    ],
+    "authors": [
+        "Passakron Phuangthongkham",
+        "Phonthep Angsuwatcharakon",
+        "Santi Kulpatcharapong",
+        "Peerapon Vateekul",
+        "Rungsun Rerknimitr"
+    ],
+    "citedby-count": 0,
+    "ref-count": 40,
+    "ref-list": [
+        "Cholangiocarcinoma: Lessons from Thailand",
+        "Cholangiocarcinoma",
+        "Diagnostic accuracy of conventional and cholangioscopy-guided sampling of indeterminate biliary lesions at the time of ERCP: A prospective, long-term follow-up study",
+        "Incidence of benign pathology in patients undergoing hepatic resection for suspected malignancy",
+        "Current endoscopic approach to indeterminate biliary strictures",
+        "Digital single-operator cholangioscopy-guided biopsy for indeterminate biliary strictures: Seeing is believing?",
+        "Evaluation of indeterminate biliary strictures",
+        "Diagnostic accuracy and interobserver agreement of digital single-operator cholangioscopy for indeterminate biliary strictures",
+        "The interobserver agreement of optical features used to differentiate benign from neoplastic biliary lesions assessed at balloon-assisted cholangioscopy",
+        "Deep residual learning for image recognition",
+        "Depthwise separable convolutions for neural machine translation",
+        "EfficientNet: Rethinking model scaling for convolutional neural networks",
+        "Medical deep learning\u2014A systematic meta-review",
+        "Accurate prediction of glaucoma from colour fundus images with a convolutional neural network that relies on active and transfer learning",
+        "Review on the applications of deep learning in the analysis of gastrointestinal endoscopy images",
+        "Accurate classification of diminutive colorectal polyps using computer-aided analysis",
+        "Artificial intelligence for automatic diagnosis of biliary stricture malignancy status in single-operator cholangioscopy: A pilot study",
+        "Identification of patients with malignant biliary strictures using a cholangioscopy-based deep learning artificial intelligence (with video)",
+        "Improved image classification explainability with high-accuracy heatmaps",
+        "Identity mappings in deep residual networks",
+        "Hookworm detection in wireless capsule endoscopy images with deep learning",
+        "Going deeper with convolutions",
+        "ImageNet classification with deep convolutional neural networks",
+        "Colorectal disease classification using efficiently scaled dilation in convolutional neural network",
+        "Improvement of gastroscopy classification performance through image augmentation using a gradient-weighted class activation map",
+        "Grad-CAM: Visual explanations from deep networks via gradient-based localization",
+        "Enhanced classification of gastric lesions and early gastric cancer diagnosis in gastroscopy using multi-filter AutoAugment",
+        "Real-time differentiation of adenomatous and hyperplastic diminutive colorectal polyps during analysis of unaltered videos of standard colonoscopy using a deep learning model",
+        "Real-time artificial intelligence-based histologic classifications of colorectal polyps using narrow-band imaging",
+        "ResNeSt: Split-attention networks",
+        "Learning deep features for discriminative localization",
+        "Thoracic disease identification and localization with limited supervision",
+        "Grad-CAM++: Generalized gradient-based visual explanations for deep convolutional networks",
+        "Panoptic feature pyramid networks",
+        "Squeeze-and-excitation networks",
+        "CutMix: Regularization strategy to train strong classifiers with localizable features",
+        "Artificial intelligence in endoscopic imaging for detection of malignant biliary strictures and cholangiocarcinoma: A systematic review",
+        "MobileNetV2: Inverted residuals and linear bottlenecks"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University",
+        "National Research Council of Thailand"
+    ]
+}

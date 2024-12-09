@@ -1,0 +1,65 @@
+{
+    "eid": "2-s2.0-85077964431",
+    "title": "Fictitious flux observer for sensorless control of synchronous reluctance motors considering magnetic cross -coupling effects",
+    "cover-date": "2019-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Cross coupling effects",
+        "Fictitious flux",
+        "Globally stable observer",
+        "Sensorless control",
+        "Synchronous reluctance motor"
+    ],
+    "authors": [
+        "Salingkan Pitphibunwong",
+        "Somboon Sangwongwanich"
+    ],
+    "citedby-count": 2,
+    "ref-count": 13,
+    "ref-list": [
+        "Synchronous reluctance machines - A viable alternative for ac drives",
+        "Cross magnetization effect on inductances of linear synchronous reluctance motor under load conditions",
+        "Accurate d-q axis modeling of synchronous machines with skew accounting for saturation",
+        "Magnetic models of saturated interior permanent magnet motors based on finite element analysis",
+        "Sensorless-control of the synchronous reluctance motor",
+        "Position sensorless control of transverse-laminated synchronous reluctance motors",
+        "Active flux concept for motion-sensorless unified AC drives: A review",
+        "Active flux based motion-sensorless vector control of DC-excited synchronous machines",
+        "A unified speed estimation design framework for sensorless AC motor drives based on positive-real property",
+        "Fictitious flux and a globally stable observer for sensorless control of synchronous reluctance motors",
+        "Globally convergent nonlinear observer for the sensorless control of surface-mount permanent magnet synchronous machines"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

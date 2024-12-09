@@ -1,0 +1,94 @@
+{
+    "eid": "2-s2.0-85105281371",
+    "title": "Gain-scheduling offline robust predictive controllers for discrete-time systems with varying parameters",
+    "cover-date": "2022-02-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Gain scheduling",
+        "Polyhedral invariant set",
+        "Predictive controller",
+        "Robust stability"
+    ],
+    "authors": [
+        "Thanyalak Jaherng",
+        "Soorathep Kheawhom",
+        "Pornchai Bumroongsri"
+    ],
+    "citedby-count": 0,
+    "ref-count": 19,
+    "ref-list": [
+        "Output feedback robust MPC for linear systems with norm-bounded model uncertainty and disturbance",
+        "Nonlinear temperature regulation of solar collectors with a fast adaptive polytopic LPV MPC formulation",
+        "Quasi-min-max MPC algorithms for LPV systems",
+        "Uncertainty-resistant stochastic MPC approach for optimal operation of CHP microgrid",
+        "A scheduling quasi-min-max model predictive control algorithm for nonlinear systems",
+        "Model predictive control for linear parameter varying systems using parameter dependent Lyapunov function",
+        "On computational issues for stability analysis of LPV systems using parameter-dependent Lyapunov functions and LMIs",
+        "An efficient off-line formulation of robust model predictive control using linear matrix inequalities",
+        "An ellipsoidal off-line MPC scheme for uncertain polytopic discrete-time systems",
+        "Improving off-line approach to robust MPC based-on nominal performance cost",
+        "An offline formulation of MPC for LPV systems using linear matrix inequalities",
+        "An off-line robust MPC algorithm for uncertain polytopic discrete-time systems using polyhedral invariant sets",
+        "An off-line formulation of tube-based robust MPC using polyhedral invariant sets",
+        "Using SeDuMi 1.02, A Matlab toolbox for optimization over symmetric cones",
+        "Automatic robust convex programming",
+        "Constrained predictive control of nonlinear plants via polytopic linear system embedding",
+        "Robust discrete control of nonlinear processes: application to chemical reactors"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60012718",
+            "affilname": "Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012718",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Mahidol University"
+    ]
+}

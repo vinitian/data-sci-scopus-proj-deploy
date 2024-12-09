@@ -1,0 +1,141 @@
+{
+    "eid": "2-s2.0-85098557969",
+    "title": "Longitudinal Screening for Diabetic Retinopathy in a Nationwide Screening Program: Comparing Deep Learning and Human Graders",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Endocrinology, Diabetes and Metabolism",
+            "@code": "2712",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Endocrinology",
+            "@code": "1310",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Jirawut Limwattanayingyong",
+        "Variya Nganthavee",
+        "Kasem Seresirikachorn",
+        "Tassapol Singalavanija",
+        "Ngamphol Soonthornworasiri",
+        "Varis Ruamviboonsuk",
+        "Chetan Rao",
+        "Rajiv Raman",
+        "Andrzej Grzybowski",
+        "Mike Schaekermann",
+        "Lily H. Peng",
+        "Dale R. Webster",
+        "Christopher Semturs",
+        "Jonathan Krause",
+        "Rory Sayres",
+        "Fred Hersch",
+        "Richa Tiwari",
+        "Yun Liu",
+        "Paisan Ruamviboonsuk"
+    ],
+    "citedby-count": 8,
+    "ref-count": 31,
+    "ref-list": [
+        "IDF diabetes atlas: Global estimates for the prevalence of diabetes for 2015 and 2040",
+        "Screening for diabetic retinopathy: New perspectives and challenges",
+        "The English national screening programme for diabetic retinopathy 2003-2016",
+        "Prevalence of retinopathy and proteinuria in type 1 diabetics in Iceland",
+        "Review of diabetic retinopathy screening methods and programmes adopted in different parts of the world",
+        "A simple risk stratification for time to development of sight-threatening diabetic retinopathy",
+        "Non-attendance at diabetic eye screening and risk of sight-threatening diabetic retinopathy: A population-based cohort study",
+        "Guidelines on diabetic eye care: The International Council of Ophthalmology Recommendations for screening, follow-up, referral, and treatment based on resource settings",
+        "Diabetic retinopathy",
+        "Screening uptake in a well-established diabetic retinopathy screening program the role of geographical access and deprivation",
+        "What works to increase attendance for diabetic retinopathy screening? An evidence synthesis and economic analysis",
+        "Predicted impact of extending the screening interval for diabetic retinopathy: The Scottish Diabetic Retinopathy Screening programme",
+        "Adopting 3-year screening intervals for sight-threatening retinal vascular lesions in type 2 diabetic subjects without retinopathy",
+        "Automatic detection of diabetic retinopathy using an artificial neural network: A screening tool",
+        "Automated early detection of diabetic retinopathy",
+        "Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs",
+        "Development and validation of a deep learning system for diabetic retinopathy and related eye diseases using retinal images from multiethnic populations with diabetes",
+        "Deep learning versus human graders for classifying diabetic retinopathy severity in a nationwide screening program",
+        "Erratum. Diabetic Retinopathy: A Position Statement by the American Diabetes Association. Diabetes Care 2017;40:412-418",
+        "Artificial intelligence for diabetic retinopathy screening: A review",
+        "Single-field fundus photography for diabetic retinopathy screening: A report by the American Academy of Ophthalmology",
+        "The prevalence of diabetic retinopathy in Trang province determined by retinal photography and comprehensive eye examination",
+        "Diabetic retinopathy in the Asia-Pacific",
+        "Developing a screening program to detect sight-threatening diabetic retinopathy in South India",
+        "Global prevalence and major risk factors of diabetic retinopathy",
+        "Incidence of sight-threatening diabetic retinopathy in people with type 2 diabetes mellitus and numbers needed to screen: A systematic review",
+        "Clinical course and risk factors of diabetic retinopathy in patients with type 2 diabetes mellitus in Korea",
+        "Incidence and progression of diabetic retinopathy in urban India: Sankara Nethralaya-Diabetic Retinopathy Epidemiology and Molecular Genetics Study (SN-DREAMS II), report 1",
+        "A decade-long telemedicine screening program for diabetic retinopathy in the north-east of Italy",
+        "Individualised risk assessment for diabetic retinopathy and optimisation of screening intervals: A scientific approach to reducing healthcare costs"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60111162",
+            "affilname": "Google LLC, Asia Pacific",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60111162",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chennai",
+            "@id": "60025134",
+            "affilname": "Sankara Nethralaya",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025134",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Olsztyn WM",
+            "@id": "60024421",
+            "affilname": "Uniwersytet Warminsko-Mazurski w Olsztynie",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024421",
+            "affiliation-country": "Poland"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60023366",
+            "affilname": "Rangsit University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023366",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022464",
+            "affilname": "Chulabhorn Royal Academy",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022464",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nakhon Pathom",
+            "@id": "60012718",
+            "affilname": "Mahidol University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012718",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Mountain View",
+            "@id": "60006191",
+            "affilname": "Google LLC",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006191",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Poznan",
+            "@id": "120797051",
+            "affilname": "Foundation for Ophthalmology Development",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/120797051",
+            "affiliation-country": "Poland"
+        }
+    ],
+    "funding": []
+}

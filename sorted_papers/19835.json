@@ -1,0 +1,102 @@
+{
+    "eid": "2-s2.0-85123219263",
+    "title": "A 2D field-consistent beam element for large displacement analysis using a rational B\u00e9zier representation with varying weights",
+    "cover-date": "2022-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Euler-Bernoulli beam elements",
+        "Field-consistent interpolations",
+        "Geometrically nonlinear analysis",
+        "Locking-free beam elements",
+        "Rational cubic B\u00e9zier curves",
+        "Varying weights"
+    ],
+    "authors": [
+        "Duy Vo",
+        "Nghi Huu Duong",
+        "Jaroon Rungamornrat",
+        "Pruettha Nanakorn"
+    ],
+    "citedby-count": 1,
+    "ref-count": 43,
+    "ref-list": [
+        "Geometrically nonlinear finite element analysis of beams, frames, arches and axisymmetric shells",
+        "Large displacement analysis of three-dimensional beam structures",
+        "A consistent co-rotational formulation for non-linear, three-dimensional, beam-elements",
+        "A variational principle for finite planar deformation of straight slender elastic beams",
+        "Force recovery procedures in nonlinear analysis",
+        "A kinematically exact finite element formulation of elastic\u2013plastic curved beams",
+        "Co-rotational and Lagrangian formulations for elastic three-dimensional beam finite elements",
+        "A consistent co-rotational finite element formulation for geometrically nonlinear dynamic analysis of 3-d beams",
+        "Simple degenerate formulation for large displacement analysis of beams",
+        "Large-deformation tests and total-Lagrangian finite-element analyses of flexible beams",
+        "Non-linear spatial Timoshenko beam element with curvature interpolation",
+        "ncrementally small-deformation theory for nonlinear analysis of structural frames, engineering structures",
+        "A large displacement analysis of a beam using a CAD geometric definition",
+        "A 2D field-consistent beam element for large displacement analysis using the total Lagrangian formulation",
+        "A 2D field-consistent beam element for large displacement analysis using the total Lagrangian formulation",
+        "Geometrically exact finite element formulations for slender beams: Kirchhoff\u2013Love theory versus Simo\u2013Reissner theory",
+        "Stiffness matrix for geometric nonlinear analysis",
+        "Rigid body motion test for nonlinear analysis with beam elements",
+        "Non-linear finite element analysis of solids and structures",
+        "Isogeometric analysis: CAD, finite elements, NURBS, exact geometry and mesh refinement",
+        "A total Lagrangian Timoshenko beam formulation for geometrically nonlinear isogeometric analysis of planar curved beams",
+        "Geometrically nonlinear multi-patch isogeometric analysis of planar curved Euler\u2013Bernoulli beams",
+        "A total Lagrangian Timoshenko beam formulation for geometrically nonlinear isogeometric analysis of spatial beam structures",
+        "The NURBS book",
+        "A corotational finite element formulation for the analysis of planar beams",
+        "Equivalence of finite elements for nearly incompressible elasticity",
+        "On the variational foundations of assumed strain methods",
+        "Invariant Hermitian finite elements for thin Kirchhoff rods. I: The linear plane case",
+        "A locking-free finite element formulation and reduced models for geometrically exact Kirchhoff rods",
+        "An efficient blended mixed B-spline formulation for removing membrane locking in plane curved Kirchhoff rods",
+        "B-spline interpolation of Kirchhoff-Love space rods",
+        "An implicit g1 multi patch B-spline interpolation for Kirchhoff\u2013Love space rod",
+        "Rotation-free isogeometric analysis of an arbitrarily curved plane Bernoulli\u2013Euler beam",
+        "Linear static isogeometric analysis of an arbitrarily curved spatial Bernoulli\u2013Euler beam",
+        "Isogeometric Bernoulli beam element with an exact representation of concentrated loadings",
+        "Nonlinear isogeometric spatial Bernoulli beam",
+        "Geometrically nonlinear multi-patch isogeometric analysis of spatial Euler\u2013Bernoulli beam structures",
+        "Geometrically-exact analysis of initially curved rods",
+        "Shell curvature as an initial deformation: a geometrically exact finite element approach",
+        "An iso-parametric g1-conforming finite element for the nonlinear analysis of Kirchhoff rod. Part I: the 2D case",
+        "Numerical results from large deflection beam and frame problems analysed by means of elliptic integrals",
+        "Large deflections and stability of elastic frame",
+        "Differential correction and arc-length continuation applied to boundary value problems: Examples based on snap-through of circular arches"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011220",
+            "affilname": "Sirindhorn International Institute of Technology, Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011220",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "ASEAN University Network/Southeast",
+        "Second Century Fund",
+        "Sirindhorn International Institute of Technology",
+        "Chulalongkorn University"
+    ]
+}

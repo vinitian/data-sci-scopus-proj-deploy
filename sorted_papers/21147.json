@@ -1,0 +1,83 @@
+{
+    "eid": "2-s2.0-85136232253",
+    "title": "Tokenization-based data augmentation for text classification",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Education",
+            "@code": "3304",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Patawee Prakrankamanant",
+        "Ekapol Chuangsuwanich"
+    ],
+    "citedby-count": 3,
+    "ref-count": 42,
+    "ref-list": [
+        "Character-level convolutional networks for text classification",
+        "Bag of tricks for efficient text classification",
+        "Deep unordered composition rivals syntactic methods for text classification",
+        "Detecting spam comments posted in micro-blogs using the self-extensible spam dictionary",
+        "How robust are character-based word embeddings in tagging and MT against wrod scramlbing or randdm nouse?",
+        "Empirist: Aiphesrobust tokenization and pos-tagging for different genres",
+        "Joint character-level word embedding and adversarial stability training to defend adversarial text",
+        "A comparative study on thai word segmentation approaches",
+        "Liblinear: A library for large linear classification",
+        "Constructing sub-word units for spoken term detection",
+        "Subword regularization: Improving neural network translation models with multiple subword candidates",
+        "Stochastic tokenization with a language model for neural text classification",
+        "Rethinking chinese word segmentation: Tokenization, character classification, or wordbreak identification",
+        "BERT: Pre-training of deep bidirectional transformers for language understanding",
+        "Conditional BERT contextual augmentation",
+        "Aug-bert: An efficient data augmentation algorithm for text classification",
+        "Self-supervised contextual data augmentation for natural language processing",
+        "Don't stop pretraining: Adapt language models to domains and tasks",
+        "Mask and infill: Applying masked language model for sentiment transfer",
+        "Dropout: A simple way to prevent neural networks from overfitting",
+        "Deep word embeddings for visual speech recognition",
+        "Thai spelling correction and word normalization on social text using a two-stage pipeline with neural contextual attention",
+        "Universal language model finetuning for text classification"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

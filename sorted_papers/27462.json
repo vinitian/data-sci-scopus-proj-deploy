@@ -1,0 +1,106 @@
+{
+    "eid": "2-s2.0-85087590569",
+    "title": "Optimized design of QD-LD toward QD-SOA to achieve 35-dB maximum chip gain with 400-mA injected current",
+    "cover-date": "2020-11-15",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Physical and Theoretical Chemistry",
+            "@code": "1606",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Chip gain",
+        "Quantum Dot Laser Diode",
+        "Quantum Dot layer",
+        "Quantum Dot Semiconductor Optical Amplifier"
+    ],
+    "authors": [
+        "Budsara Boriboon",
+        "Duang rudee Worasucheep",
+        "Atsushi Matsumoto",
+        "Kouichi Akahane",
+        "Naokatsu Yamamoto",
+        "Naoya Wada"
+    ],
+    "citedby-count": 2,
+    "ref-count": 36,
+    "ref-list": [
+        "InGaAs-GaAs quantum-dot lasers",
+        "Quantum-dot semiconductor optical amplifiers",
+        "Waveguide avalanche photodetector using quantum-dot superlattice for optical fiber communications",
+        "Characteristics-improvement of QD semiconductor optical amplifier using rapid-thermal annealing process",
+        "The dependence of the characteristic temperature of highly stacked InAs quantum dot laser diodes fabricated using a strain-compensation technique on stacking layer number",
+        "Self-heating effect on modal gain of 1.3-\u03bcm InAs/GaAs QD lasers with different p-doping levels",
+        "A wavelength conversion scheme based on a quantum-dot semiconductor optical amplifier and a delay interferometer",
+        "Coherent wavelength conversion in a quantum dot SOA",
+        "Regenerative wavelength conversion of PAM-4 signals using XGM with blue-shift filtering in a QD-SOA",
+        "Wavelength conversion of 25-Gbit/s PAM-4 signals using a quantum-dot SOA",
+        "On the feasibility of 320 Gb/s all-optical and gate using quantum-dot semiconductor optical amplifier-based mach-zehnder interferometer",
+        "Design of ultrafast all-optical 4-bit parity generator and checker using quantum-dot semiconductor optical amplifier-based Mach\u2013Zehnder interferometer",
+        "Design of ultrafast all-optical pulsed-mode 2 \u00d7 2 crossbar switch using quantum-dot semiconductor optical amplifier-based Mach\u2013Zehnder interferometer",
+        "All-optical D flip-flop using single quantum-dot semiconductor optical amplifier assisted Mach\u2013Zehnder interferometer",
+        "Phase transparent amplification of 40 Gbps 16 QAM signals using a QD-SOA",
+        "Extreme thermal stability of 1550 nm band highly stacked QD-LDs with p-doped structure",
+        "Quantum dot amplifiers for 100 Gbit ethernet",
+        "40 GBd D(Q)PSK and OOK amplification using o-band quantum-dot semiconductor optical amplifiers",
+        "Gain characteristics and femto-second optical pulse response of 1550 nm-band multi-stacked QD-SOA grown on InP(311)B substrate",
+        "Phase-transparent amplification of 16 QAM signals in a QD-SOA",
+        "Dynamic frequency chirp properties of QD-SOAs",
+        "Frequency chirp properties with data pattern dependence in quantum-dot SOAs",
+        "1.3 / 1.5 \u03bcm QD-SOAs for WDM/TDM GPON with extended reach and large upstream / downstream dynamic range",
+        "ITU-T G.984.1, gigabit-capable passive optical networks (GPON): General characteristics",
+        "90 Gb/s hybrid integrated photoreceiver module with high speed 1.5 \u03bcm-band QD-SOA",
+        "Improvement of photodiode responsivity using the InAs quantum dot family for monolithic integration",
+        "Low threshold current operation of stacked InAs/GaAs quantum dot lasers with GaP strain-compensation layers",
+        "Characteristics of highly stacked quantum dot laser fabricated on InP(311)B substrate",
+        "High characteristic temperature of highly stacked quantum-dot laser for 1.55-\u03bcm band",
+        "Highly stacked quantum dot lasers fabricated by a strain-compensation technique",
+        "Photonic integrated device of highly-stacked quantum dot using quantum dot intermixing by ion implantation",
+        "Highly-ordered and highly-stacked (150-layers) quantum dots",
+        "Fundamental characteristics of 1550 nm-band 20-layer-stacked QD-SOA grown on InP(311)B substrate for all-optical logic gate device",
+        "Polarization-insensitive quantum dot semiconductor optical amplifiers using strain-controlled columnar quantum dots",
+        "High characteristic temperature for ridge-waveguide laser with a highly stacked inas quantum dot structure",
+        "Diode Lasers and Photonic Integrated Circuits"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Koganei",
+            "@id": "60032325",
+            "affilname": "Japan National Institute of Information and Communications Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032325",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Graduate School Chulalongkorn University",
+        "Chulalongkorn University",
+        "Ministry of Internal Affairs and Communications"
+    ]
+}

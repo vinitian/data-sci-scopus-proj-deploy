@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85148234648",
+    "title": "Reducing Complexity on Coding Unit Partitioning in Video Coding: A Review",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "coding unit partitioning",
+        "complexity reduction",
+        "High Efficiency Video Coding (HEVC)",
+        "Joint Exploration Test Model (JEM)",
+        "Versatile Video Coding (VVC)",
+        "Video coding"
+    ],
+    "authors": [
+        "Ei Ei Tun",
+        "Supavadee Aramvith"
+    ],
+    "citedby-count": 0,
+    "ref-count": 46,
+    "ref-list": [
+        "Overview of the High Efficiency Video Coding (HEVC) standard",
+        "Overview of the H.264/AVC video coding standard",
+        "Algorithm description of joint exploration test model 1",
+        "Content based hierarchical fast coding unit decision algorithm for HEVC",
+        "A fast HEVC inter CU selection method based on pyramid motion divergence",
+        "Fast CU splitting and pruning for suboptimal CU partitioning in HEVC intra cod-ing",
+        "An effective CU size decision method for hevc en-coders",
+        "Effective CU size decision for HEVC intracoding",
+        "Adaptive keypoint-based CU depth decision for HEVC intra coding",
+        "Selective CU depth range decision algorithm for HEVC encoder",
+        "Fast CU size decision and mode decision algorithm for HEVC intra coding",
+        "Fast coding unit decision algorithm for HEVC",
+        "Fast coding unit size decision algorithm for intra coding in HEVC",
+        "Fast coding unit encoding scheme for HEVC using genetic algo-rithm",
+        "Fast HEVC intra mode decision based on logistic regression classifi-cation",
+        "Fast CU size decisions for HEVC intra frame coding based on support vector machines",
+        "Fast HEVC encoding decisions using data mining",
+        "Machine learning-based coding unit depth decisions for flexible complexity allocation in high efficiency video coding",
+        "Binary and multi-class learning based low complexity optimization for HEVC encoding",
+        "CU partition mode decision for HEVC hardwired intra encoder using convolution neural network",
+        "Reducing complexity of HEVC: A deep learning ap-proach",
+        "AHG5: Enhanced fast algorithm of JVET-E0078",
+        "AHG5: Speed-up for JEM-3.1",
+        "Local-constrained quadtree plus binary tree block partition structure for enhanced video coding",
+        "Probabilistic decision based block partitioning for future video coding",
+        "Effective quadtree plus binary tree block partition decision for future video coding",
+        "Random forest oriented fast QTBT frame partitioning",
+        "CNN oriented fast QTBT partition algorithm for JVET intra cod-ing",
+        "Fast QTBT partitioning decision for interframe coding with convolution neural network",
+        "CNN-based driving of block partitioning for intra slices encoding",
+        "Fast CU partitioning algorithm for H.266/VVC intra-frame cod-ing",
+        "Low-complexity CTU partition structure decision and fast intra mode decision for versatile video coding",
+        "Look-ahead prediction based coding unit size pruning for VVC intra coding",
+        "A fast multi-type-tree split decision algorithm of intra coding unit in VVC",
+        "Tunable VVC frame partitioning based on lightweight machine learning",
+        "Fast CU partition and intra mode decision method for H.266/VVC",
+        "Adaptive CU split decision with pooling-variable CNN for VVC intra encoding",
+        "Deep-QTMT: A deep learning approach for fast QTMT-based cu partition of intra-mode VVC",
+        "Fast CTU partition decision algorithm for VVC intra and inter coding",
+        "CNN-based fast split mode decision algorithm for versatile video coding (VVC) inter prediction",
+        "Light-weight CNN-based VVC inter partitioning acceleration"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

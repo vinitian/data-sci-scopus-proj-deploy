@@ -1,0 +1,149 @@
+{
+    "eid": "2-s2.0-85105019513",
+    "title": "Inter-comparison of transboundary atmospheric dispersion calculations: A summary of outputs from the ASEAN NPSR benchmark exercise",
+    "cover-date": "2021-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Nuclear Energy and Engineering",
+            "@code": "2104",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Waste Management and Disposal",
+            "@code": "2311",
+            "@abbrev": "ENVI"
+        }
+    ],
+    "keywords": [
+        "ASEAN NPSR",
+        "Atmospheric dispersion",
+        "Emergency response",
+        "Long-range",
+        "Transboundary"
+    ],
+    "authors": [
+        "Kampanart Silva",
+        "Piyawan Krisanungkura",
+        "Narakhan Khunsrimek",
+        "Wasin Vechgama",
+        "Tang Jia Hao",
+        "Vitesh Krishnan",
+        "Pham Kim Long",
+        "Tom Charnock",
+        "Somboon Rassame",
+        "Tay Bee Kiat",
+        "Chung Keng Yeow",
+        "Hoang Sy Than",
+        "Nguyen Hao Quang",
+        "Pham Duy Hien"
+    ],
+    "citedby-count": 3,
+    "ref-count": 26,
+    "ref-list": [
+        "Measurements of 129I in the Pacific Ocean at scripps pier and pacific northwest sites: a search for effects from the 2011 Fukushima Daiichi nuclear power plant accident and hanford",
+        "State-of-the-Art Reactor Consequence Analyses (SOARCA) Report, NUREG-1935",
+        "PACE: a Geographic Information System based Level 3 probabilistic accident consequence evaluation program",
+        "Calculations in Support of a Potential Definition of Large Release, NUREG/CR-6094",
+        "ARGOS Decision Support System for Emergency Management",
+        "Regional dispersal of Fukushima-derived fission nuclides by East-Asian monsoon: a synthesis and review",
+        "JRodos User Guide",
+        "Energy, Electricity and Nuclear Power Estimates for the Period up to 2050",
+        "Power Reactor Information System",
+        "The 2007 recommendations of the international commission on radiological protection, ICRP publication 103",
+        "Atlas of Caesium Deposition on Europe after the Chernobyl Accident",
+        "Measurement, simulation, and meteorological interpretation of medium-range transport of radionuclides to Korea during the Fukushima Dai-ichi nuclear accident",
+        "A review of numerical models to predict the atmospheric dispersion of radionuclides",
+        "Atmospheric radionuclides from the Fukushima Dai-ichi nuclear reactor accident observed in Vietnam",
+        "Atmospheric transport of131I and137Cs from Fukushima by the east asian northeast monsoon",
+        "Effect of climate change on seasonal monsoon in Asia and its impact on the variability of monsoon rainfall in Southeast Asia",
+        "Climate Data Online: Dataset Discovery",
+        "Mid-range atmospheric dispersion modelling: intercomparison of simple models in EMRAS-2 project",
+        "The Lagrangian particle dispersion model FLEXPART version 10.4",
+        "Dispersion of Fukushima radionuclides in the global atmosphere and the ocean",
+        "The dynamics of nuclear energy among ASEAN member states",
+        "Enhancing radiation monitoring system in preparation for transboundary atmospheric dispersion from a nuclear power plant accident",
+        "R&D Activities to be conducted by TSO in embarking countries: R&D to support understanding of severe accident and planning of emergency response",
+        "Technical note: the Lagrangian particle dispersion model FLEXPART version 6.2",
+        "An overview of Fukushima radionuclides measured in the northern hemisphere"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60250877",
+            "affilname": "Thailand National Energy Technology Center (ENTEC)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60250877",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "60111140",
+            "affilname": "Public Health England",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60111140",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Hanoi",
+            "@id": "60071423",
+            "affilname": "Vietnam Atomic Energy Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071423",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60017161",
+            "affilname": "National University of Singapore",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017161",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Singapore",
+            "@id": "60003196",
+            "affilname": "DSO National Laboratories",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60003196",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "113168800",
+            "affilname": "Thailand Institute of Nuclear Technology (Public Organization)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/113168800",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "107903705",
+            "affilname": "Office of Atoms for Peace",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/107903705",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "NILU",
+        "Norwegian Institute for Air Research",
+        "Karlsruhe Institute of Technology",
+        "International Atomic Energy Agency",
+        "Office of the Ministry of Higher Education, Science, Research and Innovation, Thailand",
+        "ASEAN Science Technology and Innovation Fund"
+    ]
+}

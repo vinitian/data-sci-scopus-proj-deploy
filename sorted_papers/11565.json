@@ -1,0 +1,143 @@
+{
+    "eid": "2-s2.0-85167902197",
+    "title": "Gene Association Classification for Autism Spectrum Disorder: Leveraging Gene Embedding and Differential Gene Expression Profiles to Identify Disease-Related Genes",
+    "cover-date": "2023-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Process Chemistry and Technology",
+            "@code": "1508",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Fluid Flow and Transfer Processes",
+            "@code": "1507",
+            "@abbrev": "CENG"
+        }
+    ],
+    "keywords": [
+        "embeddings",
+        "gene associations",
+        "machine learning",
+        "network analysis"
+    ],
+    "authors": [
+        "Apichat Suratanee",
+        "Kitiporn Plaimas"
+    ],
+    "citedby-count": 0,
+    "ref-count": 68,
+    "ref-list": [
+        "Genetic heterogeneity in autism: From single gene to a pathway perspective",
+        "Autism Spectrum Disorder: A Review",
+        "An Overview of the Main Genetic, Epigenetic and Environmental Factors Involved in Autism Spectrum Disorder Focusing on Synaptic Activity",
+        "Genetic contributions to autism spectrum disorder",
+        "Genetic and Environmental Contributions to Autism Spectrum Disorder Through Mechanistic Target of Rapamycin",
+        "Autism spectrum disorder research: Knowledge mapping of progress and focus between 2011 and 2022",
+        "Identification, Evaluation, and Management of Children With Autism Spectrum Disorder",
+        "Neuroimaging genetics approaches to identify new biomarkers for the early diagnosis of autism spectrum disorder",
+        "Large-Scale Exome Sequencing Study Implicates Both Developmental and Functional Changes in the Neurobiology of Autism",
+        "SFARI Gene 2.0: A community-driven knowledgebase for the autism spectrum disorders (ASDs)",
+        "Genomic Copy Number Variations in the Autism Clinic-Work in Progress",
+        "De novo mutations revealed by whole-exome sequencing are strongly associated with autism",
+        "Recessive gene disruptions in autism spectrum disorder",
+        "AutDB: A platform to decode the genetic architecture of autism",
+        "AutDB: A gene reference resource for autism research",
+        "AutismKB 2.0: A knowledgebase for the genetic evidence of autism spectrum disorder",
+        "Autism spectrum disorder at the crossroad between genes and environment: Contributions, convergences, and interactions in ASD developmental pathophysiology",
+        "Autistic spectrum disorder (ASD)\u2013Gene, molecular and pathway signatures linking systemic inflammation, mitochondrial dysfunction, transsynaptic signalling, and neurodevelopment",
+        "Signalling pathways in autism spectrum disorder: Mechanisms and therapeutic implications",
+        "Correlation of mutated gene and signalling pathways in ASD",
+        "Network diffusion with centrality measures to identify disease-related genes",
+        "Prediction of Human-Plasmodium vivax Protein Associations From Heterogeneous Network Structures Based on Machine-Learning Approach",
+        "Reverse Nearest Neighbor Search on a Protein-Protein Interaction Network to Infer Protein-Disease Associations",
+        "Network-Based Approaches for Disease-Gene Association Prediction Using Protein-Protein Interaction Networks",
+        "Neuroscience needs Network Science",
+        "Network-based approaches for modeling disease regulation and progression",
+        "Predicting gene-disease associations from the heterogeneous network using graph embedding",
+        "Integrating node embeddings and biological annotations for genes to predict disease-gene associations",
+        "UniProt: The Universal Protein Knowledgebase in 2023",
+        "Identification of risk genes for Alzheimer\u2019s disease by gene embedding",
+        "NCBI GEO: Archive for functional genomics data sets\u2014Update",
+        "Genenames.org: The HGNC resources in 2023",
+        "gprofiler2\u2013An R package for gene list functional enrichment analysis and namespace conversion toolset g:Profiler",
+        "Structural Deep Network Embedding",
+        "DeepWalk: Online learning of social representations",
+        "The STRING database in 2023: Protein-protein association networks and functional enrichment analyses for any sequenced genome of interest",
+        "XGBoost: A Scalable Tree Boosting System",
+        "Scikit-learn: Machine Learning in Python",
+        "The Gene Ontology knowledgebase in 2023",
+        "KEGG for taxonomy-based analysis of pathways and genomes",
+        "The reactome pathway knowledgebase 2022",
+        "Enrichr: A comprehensive gene set enrichment analysis web server 2016 update",
+        "Shigellosis",
+        "ClusterViz: A Cytoscape APP for Cluster Analysis of Biological Network",
+        "Cytoscape: A software environment for integrated models of biomolecular interaction networks",
+        "Detect overlapping and hierarchical community structure in networks",
+        "Topoisomerases facilitate transcription of long genes linked to autism",
+        "Topoisomerase 1 inhibition reversibly impairs synaptic function",
+        "Increased burden of deleterious variants in essential genes in autism spectrum disorder",
+        "MARVEL: An integrated alternative splicing analysis platform for single-cell RNA sequencing data",
+        "Bedaquiline, an FDA-approved drug, inhibits mitochondrial ATP production and metastasis in vivo, by targeting the gamma subunit (ATP5F1C) of the ATP synthase",
+        "The ATP synthase: The understood, the uncertain and the unknown",
+        "High ATP Production Fuels Cancer Drug Resistance and Metastasis: Implications for Mitochondrial ATP Depletion Therapy",
+        "Association of NGF and Mitochondrial Respiration with Autism Spectrum Disorder",
+        "Mutations in the calcium-related gene IL1RAPL1 are associated with autism",
+        "Comprehensive Analysis of RNA-Seq Gene Expression Profiling of Brain Transcriptomes Reveals Novel Genes, Regulators, and Pathways in Autism Spectrum Disorder",
+        "Mitochondrial morphology is associated with respiratory chain uncoupling in autism spectrum disorder",
+        "Mitochondrial abnormalities in temporal lobe of autistic brain",
+        "Pharmacology of the cell/matrix form of adhesion",
+        "Extracellular Matrix Regulation in Physiology and in Brain Disease",
+        "Methadone alters transcriptional programs associated with synapse formation in human cortical organoids",
+        "GeneAnalytics Pathways and Profiling of Shared Autism and Cancer Genes",
+        "Molecular signatures from multi-omics of autism spectrum disorders and schizophrenia",
+        "The role of the host microbiome in autism and neurodegenerative disorders and effect of epigenetic procedures in the brain functions",
+        "Evidence of neurodegeneration in autism spectrum disorder",
+        "Huntingtin gene CAG repeat size affects autism risk: Family-based and case-control association study",
+        "Immunological findings in autism"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "King Mongkut\u2019s University of Technology North Bangkok"
+    ]
+}

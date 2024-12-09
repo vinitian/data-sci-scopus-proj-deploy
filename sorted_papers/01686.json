@@ -1,0 +1,103 @@
+{
+    "eid": "2-s2.0-85132777954",
+    "title": "An End-to-End Personalized Preference Drift Aware Sequential Recommender System with Optimal Item Utilization",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "machine learning",
+        "Neural networks",
+        "recommender systems"
+    ],
+    "authors": [
+        "Saranya Maneeroj",
+        "Nakarin Sritrakool"
+    ],
+    "citedby-count": 1,
+    "ref-count": 58,
+    "ref-list": [
+        "Matrix factorization techniques for recommender systems",
+        "Probabilistic matrix factorization",
+        "Algorithms for non-negative matrix factorization",
+        "Neural collaborative filtering",
+        "XDeepFM: Combining explicit and implicit feature interactions for recommender systems",
+        "Advanced recommendation systems through deep learning",
+        "AutoRec: Autoencoders meet collaborative filtering",
+        "Collaborative denoising auto-encoders for top-n recommender systems",
+        "Restricted Boltzmann machines for recommender systems with implicit feedback",
+        "Neural attentional rating regression with review-level explanations",
+        "Improving recommender systems via a dual training error based correction approach",
+        "Recurrent recommender networks",
+        "Sequential user-based recurrent neural network recommendations",
+        "Recurrent neural networks with top-k gains for session-based recommendations",
+        "Personalizing session-based recommendations with hierarchical recurrent neural networks",
+        "Attention is all you need",
+        "Self-attentive sequential recommendation",
+        "BERT4Rec: Sequential recommendation with bidirectional encoder representations from transformer",
+        "Dual sparse attention network for session-based recommendation",
+        "D\u00e9j\u00e0 vu: The importance of time and causality in recommender systems",
+        "Variational self-attention network for sequential recommendation",
+        "Sparse sequence-tosequence models",
+        "Phased LSTM: Accelerating recurrent network training for long or event-based sequences",
+        "What to do next: Modeling user behaviors by time-LSTM",
+        "Personalized preference drift aware sequential recommender system",
+        "An image is worth 16-16 words: Transformers for image recognition at scale",
+        "Speech-transformer: A no-recurrence sequence-to-sequence model for speech recognition",
+        "Reformer: The efficient transformer",
+        "Efficient contentbased sparse attention with routing transformers",
+        "Long short-term memory",
+        "Learning phrase representations using RNN encoder decoder for statistical machine translation",
+        "Multiple interleaving interests modeling of sequential user behaviors in e-commerce platform",
+        "Modeling Long- and short-term user behaviors for sequential recommendation with deep neural networks",
+        "MBPI: Mixed behaviors and preference interaction for session-based recommendation",
+        "An implicit preference-aware sequential recommendation method based on knowledge graph",
+        "Personalized top-n sequential recommendation via convolutional sequence embedding",
+        "A convolutional attention network for unifying general and sequential recommenders",
+        "Neural time-aware sequential recommendation by jointly modeling preference dynamics and explicit feature couplings",
+        "Collaborative co-attention network for sessionbased recommendation",
+        "LSTPR: Graph-based matrix factorization with long short-term preference ranking",
+        "PEN4Rec: Preference evolution networks for session-based recommendation",
+        "Multi-interest diversifi-cation for end-to-end sequential recommendation",
+        "Degree planning with plan-bert: Multisemester recommendation using future courses of interest",
+        "Big bird: Transformers for longer sequences",
+        "Transformers are RNNs: Fast autoregressive transformers with linear attention",
+        "Item recommendation on monotonic behavior chains",
+        "Fine-grained spoiler detection from large-scale review corpora",
+        "Joint optimization of tree-based index*deep model for recommender systems",
+        "Learning tree-based deep model for recommender systems",
+        "Learning optimal tree models under beam search",
+        "Adam: A method for stochastic optimization"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

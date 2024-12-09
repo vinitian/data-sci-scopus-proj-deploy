@@ -1,0 +1,83 @@
+{
+    "eid": "2-s2.0-85098492314",
+    "title": "A classification of biochemical compounds based on their primitive structures and graph kernels",
+    "cover-date": "2020-11-04",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Biochemical compounds",
+        "Graph classification",
+        "Support vector machine"
+    ],
+    "authors": [
+        "Peemapat Wongsriphisant",
+        "Chidchanok Lursinsap",
+        "Apichat Suratanee",
+        "Kitiporn Plaimas"
+    ],
+    "citedby-count": 0,
+    "ref-count": 19,
+    "ref-list": [
+        "Shortest-path kernels on graphs",
+        "On graph kernels: Hardness results and efficient alternatives",
+        "Efficient graphlet kernels for large graph comparison",
+        "Weisfeiler-lehman graph kernels",
+        "Support-vector networks",
+        "A training algorithm for optimal margin classifiers",
+        "A (sub)graph isomorphism algorithm for matching large graphs",
+        "Comparison of descriptor spaces for chemical compound retrieval and classification",
+        "Spline-fitting with a genetic algorithm: A method for developing classification structure-activity relationships",
+        "Scikit-learn: Machine learning in Python"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Pajaree Songsungsan",
+        "Satanat Kitsiranuwat",
+        "SAST"
+    ]
+}

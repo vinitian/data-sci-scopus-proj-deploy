@@ -1,0 +1,67 @@
+{
+    "eid": "2-s2.0-85071660821",
+    "title": "Applying deep learning in word embedding for making a diagnosis prediction model from orthopedic clinical note",
+    "cover-date": "2019-06-28",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Deep learning",
+        "Diagnosis",
+        "Machine learning",
+        "Medical record",
+        "Text classification",
+        "Word embedding"
+    ],
+    "authors": [
+        "Tanakorn Rattanajariya",
+        "Krerk Piromsopa"
+    ],
+    "citedby-count": 2,
+    "ref-count": 12,
+    "ref-list": [
+        "Factors influencing the diagnostic accuracy and management in acute surgical patients",
+        "Differential diagnosis: The key to reducing diagnosis error, measuring diagnosis and a mechanism to reduce healthcare costs",
+        "The incidence of diagnostic error in medicine",
+        "Machine learning algorithms with ROC curve for predicting and diagnosing the heart disease",
+        "Text classification for assisting moderators in online health communities",
+        "Efficient es- Timation of word representations in vector space",
+        "Semantic expansion using word embedding clustering and convolutional neural network for improving short text classification",
+        "Inverse document frequency (IDF): A measure of deviations from Poisson",
+        "Deep learning",
+        "An introduction to ROC analysis"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "King Chulalongkorn Memorial Hospital"
+    ]
+}

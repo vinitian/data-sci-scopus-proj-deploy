@@ -1,0 +1,64 @@
+{
+    "eid": "2-s2.0-85076257133",
+    "title": "A method of data augmentation for classifying road damage considering influence on classification accuracy",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Data Augmentation",
+        "Deep Learning",
+        "Road Damaged Classification",
+        "YOLOv3"
+    ],
+    "authors": [
+        "Haruki Tsuchiya",
+        "Shinji Fukui",
+        "Yuji Iwahori",
+        "Yoshitsugu Hayashi",
+        "Witsarut Achariyaviriya",
+        "Boonserm Kijsirikul"
+    ],
+    "citedby-count": 18,
+    "ref-count": 7,
+    "ref-list": [
+        "Smart transport strategy for Thailand 4. 0 realizing better quality of life and low-carbon society",
+        "Imagenet: A large-scale hierarchical image database",
+        "Ssd: Single shot multibox detector",
+        "M2det: A single-shot object detector based on multi-level feature pyramid network"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Kariya",
+            "@id": "60026600",
+            "affilname": "Aichi University of Education",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026600",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Kasugai",
+            "@id": "60007976",
+            "affilname": "Chubu University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007976",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Japan Society for the Promotion of Science",
+        "JST",
+        "Chubu University",
+        "JICA"
+    ]
+}

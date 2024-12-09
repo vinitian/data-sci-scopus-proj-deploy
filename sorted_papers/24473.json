@@ -1,0 +1,138 @@
+{
+    "eid": "2-s2.0-85063037528",
+    "title": "The normal tissue complication probability model-based approach considering uncertainties for the selective use of radiation modality in primary liver cancer patients",
+    "cover-date": "2019-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Hematology",
+            "@code": "2720",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Oncology",
+            "@code": "2730",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Radiology, Nuclear Medicine and Imaging",
+            "@code": "2741",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "Model",
+        "Normal tissue complication probability (NTCP)",
+        "Radiation-induced liver disease (RILD)",
+        "Treatment selection"
+    ],
+    "authors": [
+        "Anussara Prayongrat",
+        "Keiji Kobashi",
+        "Yoichi M. Ito",
+        "Norio Katoh",
+        "Masaya Tamura",
+        "Yasuhiro Dekura",
+        "Chie Toramatsu",
+        "Chonlakiet Khorprasert",
+        "Napapat Amornwichet",
+        "Petch Alisanant",
+        "Hiroki Shirato",
+        "Shinichi Shimizu"
+    ],
+    "citedby-count": 15,
+    "ref-count": 35,
+    "ref-list": [
+        "Charged-particle therapy in cancer: clinical uses and future perspectives",
+        "A systematic review of publications on charged particle therapy for hepatocellular carcinoma",
+        "Selection of patients for radiotherapy with protons aiming at reduction of side effects: the model-based approach",
+        "The quest for evidence for proton therapy: model-based approach and precision medicine",
+        "The model-based approach to clinical studies in particle radiotherapy-a new concept in evidence based radiation oncology?",
+        "Identification of patient benefit from proton therapy for advanced head and neck cancer patients based on individual and subgroup normal tissue complication probability analysis",
+        "Toward a model-based patient selection strategy for proton therapy: External validation of photon-derived normal tissue complication probability models in a head and neck proton therapy cohort",
+        "Development and evaluation of an online three-level proton vs photon decision support prototype for head and neck cancer \u2013 comparison of dose, toxicity and cost-effectiveness",
+        "Complication probability as assessed from dose-volume histograms",
+        "Analysis of radiation-induced liver disease using the Lyman NTCP model",
+        "The use of 3-D dose volume analysis to predict radiation hepatitis",
+        "Inclusion of biological factors in parallel-architecture normal-tissue complication probability model for radiation-induced liver disease",
+        "Prediction of radiation-induced liver disease by Lyman normal-tissue complication probability model in three-dimensional conformal radiation therapy for primary liver carcinoma",
+        "Extrapolation of normal tissue complication probability for different fractionations in liver irradiation",
+        "Biologic susceptibility of hepatocellular carcinoma patients treated with radiotherapy to radiation-induced liver disease",
+        "Protons or photons for hepatocellular carcinoma? Let's move forward together",
+        "Impact of model and dose uncertainty on model-based selection of oropharyngeal cancer patients for proton therapy",
+        "Radiation-associated liver injury",
+        "Analysis of radiation-induced liver disease using the Lyman NTCP model: in regard to Dawson et al. IJROBP 2002;53:810-821",
+        "Comparing different NTCP models that predict the incidence of radiation pneumonitis. Normal tissue complication probability",
+        "Histogram reduction method for calculating complication probabilities for three-dimensional treatment planning evaluations",
+        "An MLE method for finding LKB NTCP model parameters using Monte Carlo uncertainty estimates",
+        "Radiation pneumonitis in patients treated for malignant pulmonary lesions with hypofractionated radiation therapy",
+        "Assessing the uncertainty in a normal tissue complication probability difference (\u2206NTCP): radiation[HYPHEN]induced liver disease (RILD) in liver tumour patients treated with proton vs X-ray therapy",
+        "Statistical methods in medical research",
+        "A language and environment for statistical computing",
+        "What is the appropriate size criterion for proton radiotherapy for hepatocellular carcinoma? A dosimetric comparison of spot-scanning proton therapy versus intensity-modulated radiation therapy",
+        "Radiation therapy for liver tumors: ready for inclusion in guidelines?",
+        "Radiation-induced liver disease after radiotherapy for hepatocellular carcinoma: clinical manifestation and dosimetric description",
+        "Fitting of normal tissue tolerance data to an analytic function",
+        "Tolerance of normal tissue to therapeutic irradiation",
+        "Radiation-induced liver disease in three-dimensional conformal radiation therapy for primary liver carcinoma: the risk factors and hepatic radiation tolerance",
+        "Calculation of the uncertainty in complication probability for various dose-response models, applied to the parotid gland",
+        "Assessing the uncertainty in QUANTEC's dose-response relation of lung and spinal cord with a bootstrap analysis",
+        "Selection of external beam radiotherapy approaches for precise and accurate cancer treatment"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Sapporo",
+            "@id": "60171691",
+            "affilname": "Faculty of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60171691",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Sapporo",
+            "@id": "60006040",
+            "affilname": "Hokkaido University Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006040",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Sapporo",
+            "@id": "60171692",
+            "affilname": "Graduate School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60171692",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025639",
+            "affilname": "Tokyo Women's Medical University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025639",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Minato",
+            "@id": "60017391",
+            "affilname": "The Institute of Statistical Mathematics",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017391",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Sapporo",
+            "@id": "60014652",
+            "affilname": "Hokkaido University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014652",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Ministry of Education, Science, Sports, and Culture"
+    ]
+}

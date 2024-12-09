@@ -1,0 +1,90 @@
+{
+    "eid": "2-s2.0-85112386961",
+    "title": "Incorporating Prior Scientific Knowledge into Deep Learning for Precipitation Nowcasting on Radar Images",
+    "cover-date": "2021-06-30",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Deep Learning",
+        "Nowcasting",
+        "Physical Processes",
+        "Radar Images",
+        "Spatial-Temporal Analysis"
+    ],
+    "authors": [
+        "Pattarapong Danpoonkij",
+        "Nutnaree Kleawsirikul",
+        "Patamawadee Leepaisomboon",
+        "Natnapat Gaviphatt",
+        "Hidetomo Sakaino",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 2,
+    "ref-count": 16,
+    "ref-list": [
+        "U-net: Convolutional networks for biomedical image segmentation",
+        "Evaluation of the accuracy of numerical weather prediction models",
+        "Numerical weather prediction basics: Models, numerical methods, and data assimilation",
+        "Operational application of optical flow techniques to radar-based rainfall now casting",
+        "Optical flow models as an open benchmark for radar-based precipitation nowcasting (rainymotion v0.1)",
+        "Deep learning for physical processes: Incorporating prior scientific knowledge",
+        "Determining optical flow",
+        "An iterative image registration technique with an application to stereo vision",
+        "Optical flow estimation in the deep learning age",
+        "Spatio-temporal image pattern prediction method based on a physical model with time-varying optical flow",
+        "PyTorch: An imperative style, high-performance deep learning library"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Mihama",
+            "@id": "60090368",
+            "affilname": "Weathernews Inc.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60090368",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,77 @@
+{
+    "eid": "2-s2.0-85098523336",
+    "title": "TAE-ML:A random forest model for detecting RNA editing sites",
+    "cover-date": "2020-11-04",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Context sequence",
+        "Machine learning",
+        "Random forest",
+        "RNA",
+        "RNA-Editing"
+    ],
+    "authors": [
+        "Pariwat Tongnueasuk",
+        "Duangdao Wichadakul"
+    ],
+    "citedby-count": 1,
+    "ref-count": 17,
+    "ref-list": [
+        "Human C-to-U coding RNA editing is largely nonadaptive",
+        "Widespread RNA editing of embedded alu elements in the human transcriptome",
+        "The emerging role of RNA editing in plasticity",
+        "RNA editing of protein sequences: A rare event in human transcriptomes",
+        "The role of RNA editing in cancer development and metabolic disorders",
+        "Radar: A rigorously annotated database of A-to-I RNA editing",
+        "Darned: A DAtabase of RNA EDiting in humans",
+        "RDDPred: A condition-specific RNA-editing prediction model from RNA-seq data",
+        "ReD-ML: A novel, effective RNA editing detection method based on machine learning",
+        "The Sequence Alignment/Map format and SAMtools",
+        "Comprehensive analysis of RNA-Seq data reveals extensive RNA editing in a human transcriptome",
+        "DbSNP: The NCBI database of genetic variation",
+        "Structure and distribution of Alu family sequences or their analogs within heterogeneous nuclear RNA of HeLa, KB, and L cells",
+        "Study of simple sequence repeat (SSR) markers from wheat expressed sequence tags (ESTs)",
+        "Accurate identification of human Alu and non-Alu RNA editing sites",
+        "RES-Scanner: A software package for genome-wide identification of RNA-editing sites",
+        "GATK hard filtering: Tunable parameters to improve variant calling for next generation sequencing targeted gene panel data"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

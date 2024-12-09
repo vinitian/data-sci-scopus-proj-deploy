@@ -1,0 +1,88 @@
+{
+    "eid": "2-s2.0-85077975261",
+    "title": "Design of soil moisture control prototypes for plant cultivation",
+    "cover-date": "2019-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "automatic control system",
+        "soil moisture sensor",
+        "STM32"
+    ],
+    "authors": [
+        "Tigor Hamonangan Nasution",
+        "Alwi Dahlan Parinduri",
+        "Lukman Adlin Harahap",
+        "Chairul Fahmi Nasution"
+    ],
+    "citedby-count": 0,
+    "ref-count": 13,
+    "ref-list": [
+        "Use of treated municipal wastewater in irrigated agriculture-Review of some practices in Spain and Greece",
+        "Effects of greywater irrigation on plant growth, water use and soil properties",
+        "On the value of soil moisture measurements in vadose zone hydrology: A review",
+        "Monitoring temperature and humidity of server room using Lattepanda and ThingSpeak",
+        "IoT based Hydroponic Farm",
+        "Arduino Based Automatic Plant Watering System",
+        "Automatic Irrigation System using Arduino Controller",
+        "Soil moisture, temperature and humidity measurement using arduino",
+        "Discovering the STM32 Microcontroller",
+        "STM32-based vehicle data acquisition system for Internetof-Vehicles",
+        "Effect of moisture content in the sandy, clay and loamy soil using humidity sensor yl69",
+        "Automated IOT based system for home automation and prediction of electricity usage and comparative analysis of various electricity providers: SmartPlug",
+        "Automatic coffee roaster design using Arduino"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Medan",
+            "@id": "60069397",
+            "affilname": "Universitas Sumatera Utara",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60069397",
+            "affiliation-country": "Indonesia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

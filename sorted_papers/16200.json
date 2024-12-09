@@ -1,0 +1,68 @@
+{
+    "eid": "2-s2.0-85045861780",
+    "title": "What is CBCT and how does it work?",
+    "cover-date": "2018-01-04",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Medicine (all)",
+            "@code": "2700",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Dentistry (all)",
+            "@code": "3500",
+            "@abbrev": "DENT"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Ruben Pauwels"
+    ],
+    "citedby-count": 6,
+    "ref-count": 24,
+    "ref-list": [
+        "Dose reduction in pediatric computed tomography with automated exposure control",
+        "Metal artefact reduction with cone beam CT:an in vitro study",
+        "Iterative reconstruction methods in X-ray CT",
+        "Influence of the artefact reduction algorithm of Picasso Trio CBCT system on the diagnosis of vertical root fractures in teeth with metal posts",
+        "Computation of bremsstrahlung X-ray spectra and comparison with spectra measured with a Ge(Li) detector",
+        "Practical cone-beam algorithm",
+        "Assessment of buccal marginal alveolar peri-implant and periodontal defects using a cone beam CT system with and without the application of metal artefact reduction mode",
+        "Dual-energy CT revisited with multidetector CT: review of principles and clinical applications",
+        "Iterative reconstruction in head CT: image quality of routine and low-dose protocols in comparison with standard filtered back-projection",
+        "Radiation dose vs. image quality for low-dose CT protocols of the head for maxillofacial surgery and oral implant planning",
+        "Comparison between effective radiation dose of CBCT and MSCT scanners for dentomaxillofacial applications",
+        "Prospects and challenges of rendering tissue density in Hounsfield units for cone beam computed tomography",
+        "Motion artefacts in cone beam CT: an in vitro study about the effects on the images",
+        "Cone beam CT: a current overview of devices",
+        "Quantification of metal artifacts on cone beam computed tomography images",
+        "A pragmatic approach to determine the optimal kVp in cone beam CT: balancing contrast-to-noise ratio and radiation dose",
+        "Technical aspects of dental CBCT: state of the art",
+        "Reduction of scatter-induced image noise in cone beam computed tomography: effect of field of view size and position",
+        "Determination of sizespecific exposure settings in dental cone-beam CT",
+        "Region-of-interest tomography for grating-based X-ray differential phase-contrast imaging",
+        "Assessment of metal artefact reduction around dental titanium implants in cone beam CT",
+        "Flat-panel detectors: how much better are they?",
+        "Statistical inversion for medical x-ray tomography with few radiographs:I. General theory",
+        "Cone beam CT image artefacts related to head motion simulated by a robot skull: visual characteristics and impact on image quality"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Leuven",
+            "@id": "60121202",
+            "affilname": "Departement Beeldvorming &amp; Pathologie",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60121202",
+            "affiliation-country": "Belgium"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

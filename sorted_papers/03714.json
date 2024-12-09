@@ -1,0 +1,78 @@
+{
+    "eid": "2-s2.0-85052586247",
+    "title": "H\u221e Observer for Descriptor Nonlinear Systems with Nonlinear Output Equations",
+    "cover-date": "2018-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "analysis",
+        "Descriptor systems",
+        "LMIs",
+        "nonlinear systems"
+    ],
+    "authors": [
+        "G. Phanomchoeng",
+        "A. Zemouche",
+        "W. Jeons",
+        "R. Rajamani",
+        "F. Mazenc"
+    ],
+    "citedby-count": 12,
+    "ref-count": 20,
+    "ref-list": [
+        "On LMI conditions to design observers for Lipschitz nonlinear systems",
+        "A high gain observer with updated gain for a class of MIMO non-triangular systems",
+        "High gain observers with updated gain and homogeneous correction terms",
+        "Observers for lipschitz nonlinear descriptor systems: Application to unknown inputs systems",
+        "Time-varying observers for a class of nonlinear systems",
+        "A simple observer for nonlinear systems, applications to bioreactors",
+        "Adaptive observers design for a class of linear descriptor systems",
+        "State and input simultaneous estimation for a class of nonlinear systems",
+        "Sobolev norms-based state estimation and input recovery for a class of nonlinear systems. Design and experimental results",
+        "Nonlinear observer-based synchronization and unknown input recovery",
+        "Reduced-order observer design for descriptor systems with unknown inputs",
+        "Semi-global observer for multi-output nonlinear systems",
+        "Observers for a class of nonlinear singular systems",
+        "Observer design for a class of nonlinear time-delay systems in descriptor form",
+        "Robust unknown input observers for nonlinear time-delay systems",
+        "Design of observers for linear systems with unknown inputs",
+        "Existence and design of observers for nonlinear systems: Relation to distance to unobservability"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Gif-sur-Yvette",
+            "@id": "60007136",
+            "affilname": "Laboratoire des Signaux et Syst\u00e8mes",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007136",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Nancy",
+            "@id": "60104289",
+            "affilname": "Universit\u00e9 de Lorraine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104289",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Minneapolis",
+            "@id": "60029445",
+            "affilname": "University of Minnesota Twin Cities",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029445",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,105 @@
+{
+    "eid": "2-s2.0-85132412157",
+    "title": "Blockchain associated machine learning and IoT based hypoglycemia detection system with auto-injection feature",
+    "cover-date": "2022-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Automatic injection",
+        "Blockchain",
+        "Hypoglycemia detection",
+        "Internet of things",
+        "Machine learning"
+    ],
+    "authors": [
+        "Rahnuma Mahzabin",
+        "Fahim Hossain Sifat",
+        "Sadia Anjum",
+        "Al Akhir Nayan",
+        "Muhammad Golam Kibria"
+    ],
+    "citedby-count": 2,
+    "ref-count": 25,
+    "ref-list": [
+        "Defining and reporting hypoglycemia in diabetes: a report from the American Diabetes Association Workgroup on Hypoglycemia",
+        "Mechanisms of hypoglycemia-associated autonomic failure and its component syndromes in diabetes",
+        "IoT based smart inhaler for context-aware service provisioning",
+        "Internet of things (IoT) based ECG system for rural health care",
+        "Coronavirus disease situation analysis and prediction using machine learning: a study on Bangladeshi population",
+        "IoT based smart water quality prediction for biofloc aquaculture",
+        "A machine learning approach for early detection of fish diseases by analyzing water quality",
+        "River water quality analysis and prediction using GBM",
+        "Gvoke HypoPen: An auto-injector containing an innovative, liquid-stable glucagon formulation for use in severe acute hypoglycemia",
+        "IoT-based continuous glucose monitoring system: A feasibility study",
+        "A smartwatch-based framework for real-time and online assessment and mobility monitoring",
+        "Evaluation of freestyle libre flash glucose monitoring system on glycemic control, health-related quality of life, and fear of hypoglycemia in patients with Type 1 Diabetes",
+        "Fog computing: An overview of big IoT data analytics",
+        "A novel algorithm for prediction and detection of hypoglycemia based on continuous glucose monitoring and heart rate variability in patients with type 1 diabetes",
+        "Human factors usability and validation studies of a glucagon autoinjector in a simulated severe hypoglycemia rescue situation",
+        "Safety of a hybrid closed-loop insulin delivery system in patients with type 1 diabetes",
+        "Use of artificial intelligence to improve diabetes outcomes in patients using multiple daily injections therapy",
+        "Risk of cardiac arrhythmias during hypoglycemia in patients with type 2 diabetes and cardiovascular risk",
+        "Hypoglycemia-induced blood pressure elevation in patients with diabetes",
+        "Towards wearable-based hypoglycemia detection and warning in diabetes",
+        "Hypoglycemia prediction using machine learning models for patients with type 2 diabetes",
+        "Predicting the risk of inpatient hypoglycemia with machine learning using electronic health records",
+        "Blockchain-based electronic healthcare record system for healthcare 4.0 applications",
+        "A renaissance in glucagon: Ready to use, ready to have!",
+        "Developing IoT applications in the Fog: A distributed dataflow approach"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Dhaka",
+            "@id": "60159848",
+            "affilname": "University of Liberal Arts Bangladesh",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60159848",
+            "affiliation-country": "Bangladesh"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "ICT Division"
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "eid": "2-s2.0-85133374368",
+    "title": "Pulmonary Lesion Classification Framework Using the Weighted Ensemble Classification with Random Forest and CNN Models for EBUS Images",
+    "cover-date": "2022-07-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Clinical Biochemistry",
+            "@code": "1308",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [
+        "convolutional neural network (CNN)",
+        "endobronchial ultrasonography images (EBUS)",
+        "gray-level co-occurrence matrix (GLCM)",
+        "pulmonary lesion",
+        "radiomics features",
+        "random forest",
+        "weighted ensemble"
+    ],
+    "authors": [
+        "Banphatree Khomkham",
+        "Rajalida Lipikorn"
+    ],
+    "citedby-count": 1,
+    "ref-count": 45,
+    "ref-list": [
+        "Global cancer statistics 2020: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries",
+        "Cancer of the lung: Non\u2013small cell lung cancer and small cell lung cancer",
+        "Proportion and number of cancer cases and deaths attributable to potentially modifiable risk factors in the United States",
+        "Toward personalized treatment approaches for non-small-cell lung cancer",
+        "Methods for staging non-small cell lung cancer: Diagnosis and management of lung cancer: American College of Chest Physicians evidence-based clinical practice guidelines",
+        "Lung cancer screening",
+        "Advanced bronchoscopic techniques in diagnosis and staging of lung cancer",
+        "The role of endobronchial ultrasound versus mediastinoscopy for non-small cell lung cancer",
+        "The reasons of false negative results of endobronchial ultrasound-guided transbronchial needle aspiration in the diagnosis of intrapulmonary and mediastinal malignancy",
+        "Analysis of the internal structure of peripheral pulmonary lesions using endobronchial ultrasonography",
+        "Diagnostic value of radial endobronchial ultrasonographic features in predominant solid peripheral pulmonary lesions",
+        "Endobronchial ultrasound elastography in the diagnosis of mediastinal and hilar lymph nodes",
+        "Diagnostic value of elastography and endobronchial ultrasound in the study of hilar and mediastinal lymph nodes",
+        "Diagnostic value of endobronchial ultrasound image features: A specialized review",
+        "Histogram-based quantitative evaluation of endobronchial ultrasonography images of peripheral pulmonary lesion",
+        "The sonographic features of malignant mediastinal lymph nodes and a proposal for an algorithmic approach for sampling during endobronchial ultrasound",
+        "Pulmonary lesion classification from endobronchial ultrasonography images using adaptive weighted-sum of the upper and lower triangular gray-level co-occurrence matrix",
+        "Analysis of co-occurrence texture statistics as a function of gray-level quantization for classifying breast ultrasound",
+        "Detection of cervical cancer cells based on strong feature CNN-SVM network",
+        "3D-GLCM CNN: A 3-Dimensional Gray-Level Co-Occurrence Matrix-Based CNN Model for Polyp Classification via CT Colonography",
+        "A combined deep CNN-LSTM network for the detection of novel coronavirus (COVID-19) using X-ray images",
+        "Accuracy of deep learning for automated detection of pneumonia using chest X-Ray images: A systematic review and meta-analysis",
+        "A GPU-based residual network for medical image classification in smart medicine",
+        "Mask R-CNN-based detection and segmentation for pulmonary nodule 3D visualization diagnosis",
+        "Multiscale rotation-invariant convolutional neural networks for lung texture classification",
+        "Lung pattern classification for interstitial lung diseases using a deep convolutional neural network",
+        "Computer-aided diagnosis of endobronchial ultrasound images using convolutional neural network",
+        "Strided Self-Supervised Low-Dose CT Denoising for Lung Nodule Classification",
+        "Shape and margin-aware lung nodule classification in low-dose CT images via soft activation mapping",
+        "An ensemble learning method based on ordinal regression for COVID-19 diagnosis from chest CT",
+        "Medical image enhancement based on histogram algorithms",
+        "Image enhancement techniques: A study",
+        "Image enhancement by modified contrast-stretching manipulation",
+        "A methodology for evaluation of boundary detection algorithms on medical images",
+        "Fanet: A feedback attention network for improved biomedical image segmentation",
+        "Real-time polyp detection, localization and segmentation in colonoscopy using deep learning",
+        "Pulmonary lesion boundary detection from an endobronchial ultrasonogram using polar sector maximum intensity",
+        "Computational radiomics system to decode the radiographic phenotype",
+        "Using electronic patient records to discover disease correlations and stratify patient cohorts",
+        "Mutual information between discrete and continuous data sets",
+        "A random forest classifier for lymph diseases",
+        "DenseNet-201-based deep neural network with composite learning factor and precomputation for multiple sclerosis classification",
+        "Enhanced transfer learning with imagenet trained classification layer",
+        "Imagenet classification with deep convolutional neural networks",
+        "Dynamically weighted ensemble neural networks for classification"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Development and Promotion of Science and Technology Talents Project"
+    ]
+}

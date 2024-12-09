@@ -1,0 +1,69 @@
+{
+    "eid": "2-s2.0-85072950069",
+    "title": "Extractive text summarization using ontology and graph-based method",
+    "cover-date": "2019-02-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Biomedical",
+        "Extractive summarization",
+        "Graph-based method",
+        "Ontology",
+        "PageRank",
+        "Text summarization",
+        "UMLS",
+        "Word mover\u2019s distance (WMD)"
+    ],
+    "authors": [
+        "Chuleepohn Yongkiatpanich",
+        "Duangdao Wichadakul"
+    ],
+    "citedby-count": 11,
+    "ref-count": 23,
+    "ref-list": [
+        "Text summarization in the biomedical domain: A systematic review of recent research",
+        "The automatic creation of literature abstracts",
+        "WordNet: A lexical database for English",
+        "The unified medical language system (UMLS): Integrating biomedical terminology",
+        "Ontology enhanced clustering based summarization of medical documents",
+        "Medical subject headings (MeSH)",
+        "Different approaches for identifying important concepts in probabilistic biomedical text summarization",
+        "Quantifying the informativeness for biomedical literature summarization: An itemset mining method",
+        "Rouge: A package for automatic evaluation of summaries",
+        "Humumls",
+        "Pythonrouge",
+        "Sumy"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

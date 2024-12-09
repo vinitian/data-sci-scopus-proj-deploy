@@ -1,0 +1,97 @@
+{
+    "eid": "2-s2.0-85133347126",
+    "title": "Optimization of Interdigital Capacitive Sensor for Cell Culture Plates",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "capacitive sensor",
+        "cell culture monitoring",
+        "interdigital capacitor"
+    ],
+    "authors": [
+        "Thet Pai Oo",
+        "Wuthan Jeamsaksiri",
+        "Alongkorn Pimpin",
+        "Suramate Chalermwisutkul"
+    ],
+    "citedby-count": 1,
+    "ref-count": 10,
+    "ref-list": [
+        "Microwaving Biological Cells: Intracellular Analysis with Microwave Dielectric Spectroscopy",
+        "A review of impedance measurements of whole cells",
+        "From Cellular Cultures to Cellular Spheroids: Is Impedance Spectroscopy a Viable Tool for Monitoring Multicellular Spheroid (MCS) Drug Models?",
+        "A Planar One-Port Microwave Microfluidic Sensor for Microliter Liquids Characterization",
+        "Broadband dielectric spectroscopy measurements of liquids combining interdigital capacitor and coplanar waveguide",
+        "Microfluidic Biosensor for Bioengineering: High-frequency Equivalent-Circuit Modeling of Interdigital Capacitor",
+        "Biosensor Using a One-Port Interdigital Capacitor: A Resonance-Based Investigation of the Permittivity Sensitivity for Microfluidic Broadband Bioelectronics Applications",
+        "Liquid measurements at microliter volumes using 1-port coplanar interdigital capacitor",
+        "Modeling of Coplanar Interdigital Capacitor for Microwave Microfluidic Application"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60103462",
+            "affilname": "King Mongkut's University of Technology North Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103462",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011525",
+            "affilname": "Thailand National Electronics and Computer Technology Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011525",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

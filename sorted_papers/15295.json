@@ -1,0 +1,577 @@
+{
+    "eid": "2-s2.0-85100087241",
+    "title": "An Indo-Pacific coral spawning database",
+    "cover-date": "2021-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Statistics and Probability",
+            "@code": "2613",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Education",
+            "@code": "3304",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Statistics, Probability and Uncertainty",
+            "@code": "1804",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Library and Information Sciences",
+            "@code": "3309",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Andrew H. Baird",
+        "James R. Guest",
+        "Alasdair J. Edwards",
+        "Andrew G. Bauman",
+        "Jessica Bouwmeester",
+        "Hanaka Mera",
+        "David Abrego",
+        "Mariana Alvarez-Noriega",
+        "Russel C. Babcock",
+        "Miguel B. Barbosa",
+        "Victor Bonito",
+        "John Burt",
+        "Patrick C. Cabaitan",
+        "Ching Fong Chang",
+        "Suchana Chavanich",
+        "Chaolun A. Chen",
+        "Chieh Jhen Chen",
+        "Wei Jen Chen",
+        "Fung Chen Chung",
+        "Sean R. Connolly",
+        "Vivian R. Cumbo",
+        "Maria Dornelas",
+        "Christopher Doropoulos",
+        "Gal Eyal",
+        "Lee Eyal-Shaham",
+        "Nur Fadli",
+        "Joana Figueiredo",
+        "Jean Fran\u00e7ois Flot",
+        "Sze Hoon Gan",
+        "Elizabeth Gomez",
+        "Erin M. Graham",
+        "Mila Grinblat",
+        "Nataly Guti\u00e9rrez-Isaza",
+        "Saki Harii",
+        "Peter L. Harrison",
+        "Masayuki Hatta",
+        "Nina Ann Jin Ho",
+        "Gaetan Hoarau",
+        "Mia Hoogenboom",
+        "Emily J. Howells",
+        "Akira Iguchi",
+        "Naoko Isomura",
+        "Emmeline A. Jamodiong",
+        "Suppakarn Jandang",
+        "Jude Keyse",
+        "Seiya Kitanobo",
+        "Narinratana Kongjandtre",
+        "Chao Yang Kuo",
+        "Charlon Ligson",
+        "Che Hung Lin",
+        "Jeffrey Low",
+        "Yossi Loya",
+        "Elizaldy A. Maboloc",
+        "Joshua S. Madin",
+        "Takuma Mezaki",
+        "Choo Min",
+        "Masaya Morita",
+        "Aurelie Moya",
+        "Su Hwei Neo",
+        "Matthew R. Nitschke",
+        "Satoshi Nojima",
+        "Yoko Nozawa",
+        "Srisakul Piromvaragorn",
+        "Sakanan Plathong",
+        "Eneour Puill-Stephan",
+        "Kate Quigley",
+        "Catalina Ramirez-Portilla",
+        "Gerard Ricardo",
+        "Kazuhiko Sakai",
+        "Eugenia Sampayo",
+        "Tom Shlesinger",
+        "Leony Sikim",
+        "Chris Simpson",
+        "Carrie A. Sims",
+        "Frederic Sinniger",
+        "Davies A. Spiji",
+        "Tracy Tabalanza",
+        "Chung Hong Tan",
+        "Tullia I. Terraneo",
+        "Gergely Torda",
+        "James True",
+        "Karenne Tun",
+        "Kareen Vicentuan",
+        "Voranop Viyakarn",
+        "Zarinah Waheed",
+        "Selina Ward",
+        "Bette Willis",
+        "Rachael M. Woods",
+        "Erika S. Woolsey",
+        "Hiromi H. Yamamoto",
+        "Syafyudin Yusuf"
+    ],
+    "citedby-count": 21,
+    "ref-count": 128,
+    "ref-list": [
+        "Mass spawning in tropical reef corals",
+        "Patterns in the mass spawning of corals on the Great Barrier Reef from 1981 to 1984",
+        "Systematic and biogeographical patterns in the reproductive biology of scleractinian corals",
+        "Coral reproduction on the world\u2019s southernmost reef at Lord Howe Island, Australia",
+        "Coral mass spawning predicted by rapid seasonal rise in ocean temperature",
+        "Temporal reproductive isolation and gametic compatibility are evolutionary mechanisms in the Acropora humilis species group (Cnidaria; Scleractinia)",
+        "Reproductive strategies in the intercrossing corals Acropora donei and A. tenuis to prevent hybridization",
+        "Sexual production of corals for reef restoration in the Anthropocene",
+        "Multi-species spawning synchrony within scleractinian coral assemblages in the Red Sea",
+        "Seasonality of coral reproduction in the Dampier Archipelago, northern Western Australia",
+        "Is monitoring for mass spawning events in coral assemblages in north Western Australia likely to detect spawning?",
+        "Shifts in phenology due to global climate change: the need for a yardstick",
+        "Split spawning increases robustness of coral larval supply and inter-reef connectivity",
+        "Environmental factors explain spawning day deviation from full moon in the scleractinian coral Acropora",
+        "The Coral Trait Database, a curated database of trait information for coral species from the global oceans",
+        "Overview of distribution patterns of zooxanthellate Scleractinia",
+        "Corals of the world",
+        "Mitochondrial and nuclear genes suggest that stony corals are monophyletic but most families of stony corals are not (order Scleractinia, class Anthozoa, phylum Cnidaria)",
+        "Lobophylliidae (Cnidaria, Scleractinia) reshuffled: Pervasive non-monophyly at genus level",
+        "Towards a phylogenetic classification of reef corals: the Indo-Pacific genera Merulina, Goniastrea and Scapophyllia (Scleractinia, Merulinidae)",
+        "Synchronous spawnings of 105 scleractinian coral species on the Great Barrier Reef",
+        "Open Nomenclature",
+        "Open Nomenclature in the biodiversity era",
+        "Coral Spawning Database",
+        "Predictable and unpredictable spawning events: in situ behavioural data from free-spawning coral reef invertebrates",
+        "Reproduction and distribution of two species of Goniastrea (Scleractinia) from the Great Barrier Reef Province",
+        "Mass spawning of corals on a high-latitude coral-reef",
+        "Effects of Light Dynamics on Coral Spawning Synchrony",
+        "Testing the effectiveness of direct propagation techniques for coral restoration of Acropora spp",
+        "Spawning of coral reef invertebrates and a second spawning season for scleractinian corals in the central Red Sea",
+        "Daytime spawning of Porites rus on the coral reefs of Chumbe Island in Zanzibar, Western Indian Ocean (WIO)",
+        "Sexual reproduction of Acropora reef corals at Moorea, French Polynesia",
+        "First record of multi-species synchronous coral spawning from Malaysia",
+        "Temperature affects the early life history stages of corals more than near future ocean acidification",
+        "Near-future reductions in pH will have no consistent ecological effects on the early life-history stages of reef corals",
+        "Sexual reproduction of corals in northern and southern Taiwan",
+        "High CO2reduces the settlement of a spawning coral on three common species of crustose coralline algae",
+        "Testing industrial-scale coral restoration techniques: Harvesting and culturing wild coral-spawn slicks",
+        "Ocean acidification reduces coral recruitment by disrupting intimate larval-algal settlement interactions",
+        "Interactions among chronic and acute impacts on coral recruits: the importance of size-escape thresholds",
+        "Repetitive sex change in the stony coral Herpolitha limax across a wide geographic range",
+        "Mass coral spawning: A natural large-scale nutrient addition experiment",
+        "Synchronous spawning of Acropora clathrata coral colonies from the western Arabian Gulf (Saudi Arabia)",
+        "Mass spawning of scleractinian corals on Fijian reefs and in particular, Suva Reef",
+        "Condition for mass spawning of scleractinian coral Acropora in the Sekisei Lagoon, Ryukyu Islands",
+        "Ecological and genetic aspects of reproductive isolation by different spawning times in Acropora corals",
+        "Experimental investigation into the effects of suspended sediment on fertilisation, larval survival and settlement in a scleractinian coral",
+        "Biannual spawning, rapid larval development and evidence of self-seeding for scleractinian corals at an isolated system of reefs",
+        "Reef coral reproduction in the eastern Pacific: Costa Rica, Panama, and Galapagos Islands (Ecuador). 3. Agariciidae (Pavona gigantea and Gardineroseris planulata)",
+        "Reef coral reproduction in the eastern Pacific: Costa Rica, Panam\u00e1, and the Gal\u00e1pagos Islands (Ecuador). VI. Agariciidae, Pavona clavus",
+        "Reproductive ecology of the azooxanthellate coral Tubastraea coccinea in the equatorial eastern pacific: Part V. Dendrophylliidae",
+        "Reef coral reproduction in the eastern Pacific: Costa Rica, Panama, and Galapagos Islands (Ecuador). 4. Agariciidae, recruitment and recovery of Pavona varians and Pavona sp",
+        "Gametogenesis and reproductive pattern of the reef-building coral Acropora millepora in northwestern Philippines",
+        "Survival dynamics of scleractinian coral larvae and implications for dispersal",
+        "& Bollard, S. Observations of Acropora spawning in the Mozambique Channel",
+        "Reproductive seasonality in an equatorial assemblage of scleractinian corals",
+        "Cryptic species of Acropora digitifera",
+        "Patterns of coral spawning at Akajima Island, Okinawa, Japan",
+        "Sexual reproduction of coral in Okinawa",
+        "Self- and cross-fertilization in scleractinian corals",
+        "Natural inducers for coral larval metamorphosis",
+        "Early development of zooxanthella-containing eggs of the corals Porites cylindrica and Montipora digitata: The endodermal localization of zooxanthellae",
+        "Timing and process of entry of zooxanthellae into oocytes of hermatypic corals",
+        "Potential gamete wastage in synchronously spawning corals due to hybrid inviability",
+        "Coral spawning in the Gulf of Oman and relationship to latitudinal variation in spawning season in the northwest Indian Ocean",
+        "Historical thermal regimes define limits to coral acclimatization",
+        "Environmental cues controlling spawning in two Hawaiian corals, Montipora verrucosa and M. dilitata",
+        "Coral spawning and spawn-slick observation in the Philippines",
+        "Hybridization and polyploidy in the coral genus",
+        "Latitudinal differences between Palau and Yap in coral reproductive synchrony",
+        "Spawning in the reef corals Pocillopora verrucosa and P. eydouxi at Sesoko Island, Okinawa",
+        "Aspects of sexual reproduction and larval development in the shallow water hermatypic coral, Goniastrea australensis (Edwards and Haime, 1857)",
+        "Reproductive ecology of two faviid corals (Coelenterata: Scleractinia)",
+        "Reproductive strategies in four species of Porites (Scleractinia)",
+        "Broadcast spawning patterns of Favia species on the inshore reefs of Thailand",
+        "Sexual reproduction and early development of the solitary coral Fungia scutaria (Anthozoa: Scleractinia)",
+        "Feasibility of early outplanting of sexually propagated Acropora verweyi for coral reef restoration demonstrated in the Philippines",
+        "Variability of spawning time (lunar day) in Acropora versus merulinid corals: a 7-yr record of in situ coral spawning in Taiwan",
+        "Reproductive patterns of fungiid corals in Okinawa, Japan",
+        "Bidirectional sex change in mushroom stony corals",
+        "Reproductive biology and larval development of the scleractinian corals Favites colemani and F. abdita (Faviidae) in northwestern Philippines",
+        "Reproductive ecology of the scleractinian corals Echinopora gemmacea and Leptoria phrygia (Faviidae) on equatorial reefs in Kenya",
+        "Synchronous daytime spawning of the solitary coral Fungia danai (Fungiidae) in the Chagos Archipelago, central Indian Ocean",
+        "Insecticides and a fungicide affect multiple coral life stages",
+        "Spawning patterns of high latitude scleractinian corals from 2002 to 2006 at Nishidomari, Otsuki, Kochi, Japan",
+        "The transcriptomic response of the coral Acropora digitifera to a competent Symbiodinium strain: the symbiosome as an arrested early phagosome",
+        "Horizontal transmission of Symbiodinium cells between adult and juvenile corals is aided by benthic sediment",
+        "Temporal settlement patterns of larvae of the broadcast spawning reef coral Favites chinensis and the broadcast spawning and brooding reef coral Goniastrea aspera from Okinawa, Japan",
+        "Reproduction and recruitment of scleractinian corals in a high-latitude coral community, Amakusa, southwestern Japan",
+        "A basic experiment of coral culture using sexual reproduction in the open sea",
+        "Significant drop of fertilization of Acropora corals in 1999. An after-effect of heavy coral bleaching?",
+        "Coral spawning in the western Pacific Ocean is related to solar insolation: evidence of multiple spawning events in Palau",
+        "Daytime gamete release from the reef-building coral, Pavona sp., in the Gulf of Thailand",
+        "Reproductive strategies of the coral Turbinaria reniformis in the northern Gulf of Aqaba (Red Sea)",
+        "Observations on the reproduction of Acropora corals along the Tuticorin coast of the Gulf of Mannar, Southeastern India. Indian",
+        "Competency and dispersal potential of planula larvae of a spawning versus a brooding coral",
+        "Gametogenesis, spawning, and planula brooding by the reef coral Goniastrea aspera (Scleractinia) in Okinawa, Japan",
+        "Broadcast spawning by Pocillopora species on the Great Barrier Reef",
+        "Can mesophotic reefs replenish shallow reefs? Reduced coral reproductive performance casts a doubt",
+        "Breakdown in spawning synchrony: A silent threat to coral persistence",
+        "Coral community reproductive patterns: Red Sea versus the Great Barrier Reef",
+        "Using bacterial extract along with differential gene expression in Acropora millepora larvae to decouple the processes of attachment and metamorphosis",
+        "Mass spawning of scleractinian corals in the Dampier Archipelago and the implications for management of coral reefs in Western Australia",
+        "Spatio-temporal patterns of spawning in the coral, Montipora verrucosa in Hawaii",
+        "Multispecific synchronous coral spawning on Pulau Bidong, Malaysia, South China Sea",
+        "Sex steroids in scleractinian coral, Euphyllia ancora: Implication in mass spawning",
+        "Spawning times, reproductive compatibilities and genetic structuring in the Acropora aspera group: evidence for natural hybridization and semi-permeable species boundaries in corals",
+        "Coral communities at high latitude are not pseudopopulations: evidence of spawning at 32\u00b0N, Japan",
+        "Reproduction, recruitment and fragmentation in nine sympatric species of the coral genus",
+        "Reproductive Isolation among Acropora species (Scleractinia: Acroporidae) in a marginal coral assemblage",
+        "Rapid recycling of coral mass-spawning products in permeable reef sediments",
+        "Sexual reproduction in high latitude coral communities at the Solitary Islands, eastern Australia",
+        "Spawning patterns of scleractinian corals at the Solitary Islands - a high latitude coral community in eastern Australia",
+        "Timing of mass spawning in corals: potential influence of the coincidence of lunar factors and associated changes in atmospheric pressure from northern and southern hemisphere case studies",
+        "The effects of temperature on embryonic development and larval survival in two scleractinian corals",
+        "Latitudinal variation in thermal tolerance thresholds of early life stages of corals"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Townsville",
+            "@id": "60019870",
+            "affilname": "James Cook University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019870",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60017161",
+            "affilname": "National University of Singapore",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017161",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": "Brisbane",
+            "@id": "60031004",
+            "affilname": "The University of Queensland",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031004",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Nishihara",
+            "@id": "60027792",
+            "affilname": "University of the Ryukyus",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027792",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Keelung",
+            "@id": "60023529",
+            "affilname": "National Taiwan Ocean University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023529",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "St Andrews",
+            "@id": "60022132",
+            "affilname": "University of St Andrews",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022132",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Kaneohe",
+            "@id": "60021013",
+            "affilname": "Hawai\u02bbi Institute of Marine Biology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021013",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Lismore",
+            "@id": "60011941",
+            "affilname": "Southern Cross University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011941",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Hata",
+            "@id": "60276607",
+            "affilname": "Kuroshio Biological Research Foundation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60276607",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Kunigami",
+            "@id": "60264731",
+            "affilname": "Okinawa Churashima Foundation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60264731",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Nago",
+            "@id": "60194541",
+            "affilname": "National Institute of Technology, Okinawa College",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60194541",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Wollongong",
+            "@id": "60189147",
+            "affilname": "Faculty of Science, Medicine and Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60189147",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Abu Dhabi",
+            "@id": "60104576",
+            "affilname": "NYU Abu Dhabi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104576",
+            "affiliation-country": "United Arab Emirates"
+        },
+        {
+            "affiliation-city": "Thuwal",
+            "@id": "60092945",
+            "affilname": "King Abdullah University of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60092945",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Taipei",
+            "@id": "60092854",
+            "affilname": "Academia Sinica, Biodiversity Research Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60092854",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Sandakan",
+            "@id": "60078099",
+            "affilname": "Reef Guardian Sdn. Bhd.",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60078099",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Terengganu,",
+            "@id": "60078085",
+            "affilname": "Universiti Malaysia Terengganu",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60078085",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": "Manila",
+            "@id": "60071495",
+            "affilname": "University of the Philippines Manila",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071495",
+            "affiliation-country": "Philippines"
+        },
+        {
+            "affiliation-city": "Banda Aceh",
+            "@id": "60069406",
+            "affilname": "Universitas Syiah Kuala",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60069406",
+            "affiliation-country": "Indonesia"
+        },
+        {
+            "affiliation-city": "Makassar",
+            "@id": "60069390",
+            "affilname": "Hasanuddin University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60069390",
+            "affiliation-country": "Indonesia"
+        },
+        {
+            "affiliation-city": "Washington, D.C.",
+            "@id": "60030522",
+            "affilname": "Smithsonian Tropical Research Institute",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030522",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Canberra",
+            "@id": "60029470",
+            "affilname": "Commonwealth Scientific and Industrial Research Organisation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029470",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tsukuba",
+            "@id": "60026857",
+            "affilname": "Geological Survey of Japan",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026857",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Ladkrabang Bangkok",
+            "@id": "60021543",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021543",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Fort Lauderdale",
+            "@id": "60019600",
+            "affilname": "Nova Southeastern University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019600",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Sydney",
+            "@id": "60019544",
+            "affilname": "Macquarie University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019544",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Xiamen",
+            "@id": "60018205",
+            "affilname": "Xiamen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018205",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Kota Kinabalu",
+            "@id": "60017880",
+            "affilname": "Universiti Malaysia Sabah",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017880",
+            "affiliation-country": "Malaysia"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "60014975",
+            "affilname": "Australian Institute of Marine Science",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60014975",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Melbourne",
+            "@id": "60010339",
+            "affilname": "Florida Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010339",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Chonburi",
+            "@id": "60009116",
+            "affilname": "Burapha University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009116",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "60008592",
+            "affilname": "Hong Kong University of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008592",
+            "affiliation-country": "Hong Kong"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60007912",
+            "affilname": "Ochanomizu University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007912",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Hatyai",
+            "@id": "60006314",
+            "affilname": "Prince of Songkla University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006314",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Newcastle",
+            "@id": "60006222",
+            "affilname": "Newcastle University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006222",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Tel Aviv-Yafo",
+            "@id": "60005681",
+            "affilname": "Tel Aviv University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005681",
+            "affiliation-country": "Israel"
+        },
+        {
+            "affiliation-city": "Ramat Gan",
+            "@id": "60002765",
+            "affilname": "Bar-Ilan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002765",
+            "affiliation-country": "Israel"
+        },
+        {
+            "affiliation-city": "Wellington",
+            "@id": "60002316",
+            "affilname": "Victoria University of Wellington",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002316",
+            "affiliation-country": "New Zealand"
+        },
+        {
+            "affiliation-city": "Brussels",
+            "@id": "60000145",
+            "affilname": "Universit\u00e9 Libre de Bruxelles",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000145",
+            "affiliation-country": "Belgium"
+        },
+        {
+            "affiliation-city": "Sausalito",
+            "@id": "125721337",
+            "affilname": "The Hydrous",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125721337",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "125720557",
+            "affilname": "Sustainable Research Vessel",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125720557",
+            "affiliation-country": "France"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "125585862",
+            "affilname": "National Parks Board",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125585862",
+            "affiliation-country": "Singapore"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "119243897",
+            "affilname": "Glenala State High School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/119243897",
+            "affiliation-country": "Australia"
+        },
+        {
+            "affiliation-city": "Korolevu",
+            "@id": "112372528",
+            "affilname": "Reef Explorer Fiji",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112372528",
+            "affiliation-country": "Fiji"
+        }
+    ],
+    "funding": [
+        "ARC Centre of Excellence for Coral Reef Studies"
+    ]
+}

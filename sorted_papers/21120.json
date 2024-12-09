@@ -1,0 +1,106 @@
+{
+    "eid": "2-s2.0-85125255877",
+    "title": "An epidemiology-based model for the operational allocation of COVID-19 vaccines: A case study of Thailand",
+    "cover-date": "2022-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "COVID-19",
+        "Epidemiological model",
+        "Pandemic",
+        "Vaccine administration",
+        "Vaccine allocation"
+    ],
+    "authors": [
+        "Pisit Jarumaneeroj",
+        "Puwadol Oak Dusadeerungsikul",
+        "Tharin Chotivanich",
+        "Tanawin Nopsopon",
+        "Krit Pongpirul"
+    ],
+    "citedby-count": 11,
+    "ref-count": 48,
+    "ref-list": [
+        "Estimating the parameters of susceptible-infected-recovered model of COVID-19 cases in India during lockdown periods",
+        "SIRSi compartmental model for COVID-19 pandemic with immunity loss",
+        "A SIQ mathematical model on COVID-19 investigating the lockdown effect",
+        "Vaccine distribution chains in low- and middle-income countries: A literature review",
+        "Modeling-informed COVID-19 vaccine prioritization strategies by age and serostatus",
+        "Numerical methods for ordinary differential equations",
+        "Is coronavirus disease (COVID-19) seasonal? a critical analysis of empirical and epidemiological studies at global and local scales",
+        "Deriving effective vaccine allocation strategies for pandemic influenza: Comparison of an agent-based simulation and a compartmental model",
+        "An evaluation of COVID-19 in Italy: A data-driven modeling analysis",
+        "The most efficient critical vaccination coverage and its equivalence with maximizing the herd effect",
+        "Dose-optimal vaccine allocation over multiple populations",
+        "Literature review: The vaccine supply chain",
+        "Optimal influenza vaccine distribution with equity",
+        "A quantitative framework for exploring exit strategies from the COVID-19 lockdown",
+        "European and US lockdowns and second waves during the COVID-19 pandemic",
+        "On the reliability of predictions on Covid-19 dynamics: A systematic and critical review of modelling techniques",
+        "Optimal quarantine strategies for the COVID-19 pandemic in a population with a discrete age structure",
+        "Clarifying predictions for COVID-19 from testing data: The example of New York State",
+        "The mathematics of infectious diseases",
+        "A contribution to the mathematical theory of epidemics",
+        "A predictive model for Covid-19 spread \u2013 with application to eight US states and how to end the pandemic",
+        "Predicting optimal lockdown period with parametric approach using three-phase maturation SIRD model for COVID-19 pandemic",
+        "A modified SEIR model to predict the COVID-19 outbreak in Spain and Italy: Simulating control scenarios and multi-scale epidemics",
+        "Modeling the coronavirus disease 2019 pandemic: A comprehensive guide of infectious disease and decision-analytic models",
+        "Vaccine optimization for COVID-19: Who to vaccinate first?",
+        "Optimizing influenza vaccine distribution",
+        "Impact of COVID-19 on the social, economic, environmental and energy domains: Lessons learnt from a global pandemic",
+        "Optimal allocation of pandemic influenza vaccine depends on age, risk and timing",
+        "A discussion on some simple epidemiological models",
+        "Targeted adaptive isolation strategy for COVID-19 pandemic",
+        "A multi-criterion approach to optimal vaccination planning: Method and solution",
+        "Analysis of the outbreak of COVID-19 in Japan by SIQR model",
+        "The coronavirus is here to stay \u2013 here's what that means",
+        "A review on COVID-19 forecasting models",
+        "An inventory-location optimization model for equitable influenza vaccine distribution in developing countries during the COVID-19 pandemic",
+        "Optimal resource allocation response to a smallpox outbreak",
+        "Why is it difficult to accurately predict the COVID-19 epidemic?",
+        "Modeling and forecasting the COVID-19 pandemic in India",
+        "A review of multi-compartment infectious disease models",
+        "Flattening the curves: on-off lock-down strategies for COVID-19 with an application to Brazil",
+        "COVID-19 epidemic prediction and the impact of public health interventions: A review of COVID-19 epidemic models",
+        "Optimal two-phase vaccine allocation to geographically different regions under uncertainty",
+        "Fairness versus efficiency of vaccine allocation strategies",
+        "On the analysis of a multi-regions discrete SIR epidemic model: an optimal control approach",
+        "Transmission dynamics and control methodology of COVID-19: A modeling study"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60020543",
+            "affilname": "Bumrungrad International Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020543",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Baltimore",
+            "@id": "60006183",
+            "affilname": "Johns Hopkins Bloomberg School of Public Health",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006183",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": []
+}

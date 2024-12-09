@@ -1,0 +1,85 @@
+{
+    "eid": "2-s2.0-85129728661",
+    "title": "Closed-form formula for conditional moments of generalized nonlinear drift CEV process",
+    "cover-date": "2022-09-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "3/2-SVM",
+        "Closed-form formula",
+        "Conditional moment",
+        "ECIR Process",
+        "Nonlinear drift CEV process"
+    ],
+    "authors": [
+        "Phiraphat Sutthimat",
+        "Khamron Mekchay",
+        "Sanae Rujivan"
+    ],
+    "citedby-count": 7,
+    "ref-count": 29,
+    "ref-list": [
+        "A parametric nonlinear model of term structure dynamics",
+        "Affine diffusions and related processes: Simulation, theory and applications",
+        "The sub-fractional cev model",
+        "The pricing of commodity contracts",
+        "Modified finite integration method using chebyshev polynomial for solving linear differential equations",
+        "Pricing variance swaps under hybrid cev and stochastic volatility",
+        "An empirical comparison of alternative models of the short-term interest rate",
+        "Is the short rate drift actually nonlinear?",
+        "A simple closed-form formula for the conditional moments of the ornstein-uhlenbeck process",
+        "Analytical formulas for pricing discretely-sampled skewness and kurtosis swaps based on schwartz's one-factor model",
+        "Notes on option pricing i: constant elasticity of variance diffusions",
+        "The integrated square-root process",
+        "Boundary values and finite difference methods for the single factor term structure equation",
+        "The pearson diffusions: a class of statistically tractable diffusion processes",
+        "On the heston model with stochastic interest rates",
+        "Convergence of monte carlo simulations involving the mean-reverting square root process",
+        "Pricing interest-rate-derivative securities",
+        "Nonlinear mean reversion in the short-term interest rate",
+        "Conditional estimation of diffusion processes",
+        "Solution of the extended cir term structure and bond option valuation",
+        "Stochastic processes for interest rates and equilibrium bond prices",
+        "An asymptotic theory of growth under uncertainty",
+        "An analytical option pricing formula for mean-reverting asset with time-dependent parameter",
+        "Diffusions, markov processes and martingales: Volume 2, it\u00f4 calculus",
+        "A simple closed-form formula for pricing discretely-sampled variance swaps under the heston model",
+        "Closed-form formulas for conditional moments of inhomogeneous pearson diffusion processes",
+        "Analytical formula for conditional expectations of path-dependent product of polynomial and exponential functions of extended cox\u2013ingersoll\u2013ross process",
+        "An equilibrium characterization of the term structure",
+        "It\u00f4 conditional moment generator and the estimation of short-rate processes"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Tha Sala",
+            "@id": "60026526",
+            "affilname": "Walailak University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026526",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "DPST",
+        "Development and Promotion of Science and Technology Talents Project",
+        "NSRF"
+    ]
+}

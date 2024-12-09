@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85084385394",
+    "title": "Review of upper limb exoskeleton for rehabilitation and assistive application",
+    "cover-date": "2020-05-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Control strategies",
+        "EMG",
+        "Load transmission methods",
+        "Upper limb exoskeleton"
+    ],
+    "authors": [
+        "Sarasit Sirawattanakul",
+        "Wanayuth Sanngoen"
+    ],
+    "citedby-count": 4,
+    "ref-count": 21,
+    "ref-list": [
+        "Design and development of one degree of freedom upper limb exoskeleton",
+        "Sliding mode control of an exoskeleton robot for use in upper-limb rehabilitation",
+        "Rehabilitation robotics: A wearable exoskeleton for tremor assessment and suppression",
+        "Real-time control for an upper-limb exoskeleton robot using ANFIS",
+        "Design and analysis of low-cost upper limb exoskeleton",
+        "Design of joint Structure for Upper Limb Exoskeleton Robot System",
+        "Task-oriented perception-assist for an upper-limb power-assist exoskeleton robot",
+        "Adaptation strategy for the 3DOF exoskeleton for upper-limb motion assist",
+        "Design and Fabrication of an Intention-Based Upper-Limb Exoskeleton",
+        "Modeling of an Intention-Based Upper-Limb Exoskeleton",
+        "Design and Simulation of Load Dynamic Compensation Controller Based on Dynamic Model for Upper Limb Exoskeleton Robot",
+        "Fuzzy sliding mode control of 5 DoF upper-limb exoskeleton robot",
+        "Fuzzy sliding mode control of an upper limb exoskeleton for robotassisted rehabilitation",
+        "Control of upper-limb power-assist exoskeleton using a humanrobot interface based on motion intention recognition",
+        "Toward low back support with a passive biomimetic exospine",
+        "Robotic Spine Exoskeleton (RoSE): Characterizing the 3-D stiffness of the human torso in the treatment of spine deformity",
+        "Design and experiment of an upper-limb exoskeleton robot",
+        "Design of the structural optimization for the upper limb rehabilitation robot",
+        "Design and fabrication of a 3DoF upper limb exoskeleton",
+        "Surface EMG signal amplification and filtering",
+        "Robust time delay estimation based intelligent PID control of 6dof exoskeleton robot"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60031095",
+            "affilname": "Sripatum University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031095",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Sripatum University",
+        "Chulalongkorn university"
+    ]
+}

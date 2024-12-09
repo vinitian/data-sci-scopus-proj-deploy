@@ -1,0 +1,123 @@
+{
+    "eid": "2-s2.0-85161048462",
+    "title": "MLP-UNet: Glomerulus Segmentation",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "artificial intelligence",
+        "biomedical image processing",
+        "computational complexity",
+        "Computer vision",
+        "convolutional neural networks (CNNs)",
+        "deep learning",
+        "image segmentation",
+        "machine learning",
+        "multi-layer perceptrons (MLP)",
+        "neural networks",
+        "residual neural networks",
+        "semantic segmentation"
+    ],
+    "authors": [
+        "Franchis N. Saikia",
+        "Yuji Iwahori",
+        "Taisei Suzuki",
+        "M. K. Bhuyan",
+        "Aili Wang",
+        "Boonserm Kijsirikul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 40,
+    "ref-list": [
+        "SegNet: A deep convolutional encoder\u2013decoder architecture for image segmentation",
+        "Glomerulosclerosis identification in whole slide images using semantic segmentation",
+        "Region-based convolutional neural nets for localization of glomeruli in trichrome-stained whole kidney sections",
+        "Rich feature hierarchies for accurate object detection and semantic segmentation",
+        "Histopathological image analysis: A review",
+        "Deep residual learning for image recognition",
+        "Identity mappings in deep residual networks",
+        "Densely connected convolutional networks",
+        "Outcome study of renal biopsy patients in Okinawa, Japan",
+        "Deep learning for digital pathology image analysis: A comprehensive tutorial with selected use cases",
+        "Development and evaluation of deep learning\u2013based segmentation of histologic structures in the kidney cortex with multiple histologic stains",
+        "Estimating total glomerular number in human kidneys with a physical disector/fractionator combination",
+        "Segmentation of glomeruli within trichrome images using deep learning",
+        "Reducing the Hausdorff distance in medical image segmentation with convolutional neural networks",
+        "Segmental HOG: New descriptor for glomerulus detection in kidney microscopy image",
+        "ImageNet classification with deep convolutional neural networks",
+        "Axial attention MLP-mixer: A new architecture for image segmentation",
+        "The human body at cellular resolution: The NIH human biomolecular atlas program",
+        "Gradient-based learning applied to document recognition",
+        "Glomerulus extraction by using genetic algorithm for edge patching",
+        "Glomerulus classification with convolutional neural networks",
+        "U-Net: Convolutional networks for biomedical image segmentation",
+        "ImageNet large scale visual recognition challenge",
+        "Physician perspectives on integration of artificial intelligence into diagnostic pathology",
+        "Revisiting unreasonable effectiveness of data in deep learning era",
+        "Going deeper with convolutions",
+        "Rethinking the inception architecture for computer vision",
+        "MLP-mixer: An all-MLP architecture for vision",
+        "ResMLP: Feedforward networks for image classification with data-efficient training",
+        "Classification of glomerular pathological findings using deep learning and nephrologistAI collective intelligence approach",
+        "Medical transformer: Gated axial-attention for medical image segmentation",
+        "Attention is all you need",
+        "Transfuse: Fusing transformers and CNNs for medical image segmentation",
+        "Rethinking semantic segmentation from a sequence-to-sequence perspective with transformers"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Nagoya",
+            "@id": "60271156",
+            "affilname": "Nagoya City University East Medical Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60271156",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Harbin",
+            "@id": "60024758",
+            "affilname": "Harbin University of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024758",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Guwahati",
+            "@id": "60010126",
+            "affilname": "Indian Institute of Technology Guwahati",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60010126",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Kasugai",
+            "@id": "60007976",
+            "affilname": "Chubu University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007976",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

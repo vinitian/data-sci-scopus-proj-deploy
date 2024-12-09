@@ -1,0 +1,96 @@
+{
+    "eid": "2-s2.0-85039057326",
+    "title": "Analysis of training data using clustering to improve semi-supervised self-training",
+    "cover-date": "2018-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Management Information Systems",
+            "@code": "1404",
+            "@abbrev": "BUSI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Active learning",
+        "Cluster analysis",
+        "Self-training",
+        "Semi-supervised classification",
+        "Semi-supervised clustering"
+    ],
+    "authors": [
+        "N. Piroonsup",
+        "S. Sinthupinyo"
+    ],
+    "citedby-count": 28,
+    "ref-count": 41,
+    "ref-list": [
+        "Semi-supervised Learning Literal survey",
+        "Probability of error of some adaptive pattern-recognition machines",
+        "Combining labeled and unlabeled data with co-training",
+        "Text classification from labeled and unlabeled documents using em",
+        "Manifold regularization: a geometric framework for learning from labeled and unlabeled examples",
+        "Transductive inference for text classification using support vector machines",
+        "Semi-supervised self-training of object detection models",
+        "Semi-supervised Pca-based Face Recognition Using Self-training",
+        "Effective self-training for parsing",
+        "A self-training semi-supervised SVM algorithm and its application in an eeg-based brain computer interface speller system",
+        "Joint rayleigh coefficient maximization and graph based semi-supervised for the classification of motor imagery eeg",
+        "Semi-supervised time series classification",
+        "Semi-Supervised Learning",
+        "Unlabeled data can degrade classification performance of generative classifiers",
+        "Unlabeled Data: Now It Helps, Now It Doesn't",
+        "Does unlabeled data provably help? worst-case analysis of the sample complexity of semi-supervised learning",
+        "On the characterization of noise filters for self-training semi-supervised in nearest neighbor classification",
+        "Setred: Self-training with Editing",
+        "Semi-supervised learning based on nearest neighbor rule and cut edges",
+        "Semi-supervised classification by low density separation",
+        "Learning from positive and unlabeled examples",
+        "A self-training approach to cost sensitive uncertainty sampling",
+        "Semiboost: boosting for semi-supervised learning",
+        "A self-trained ensemble with semisupervised svm: an application to pixel classification of remote sensing imagery",
+        "Using Co-training and Self-training in Semi-supervised Multiple Classifier Systems",
+        "Self-labeled techniques for semi-supervised learning: taxonomy, software and empirical study",
+        "Clustering unlabeled data with soms improves classification of labeled real-world data",
+        "Semi-supervised clustering using genetic algorithms",
+        "CBC: clustering based text classification requiring minimal labeled data",
+        "A Refinement Approach to Handling Model Misfit in Semi-supervised Learning",
+        "Tesc: an approach to TExt classification using semi-supervised clustering",
+        "New semi-supervised classification method based on modified cluster assumption",
+        "Using clustering analysis to improve semi-supervised classification",
+        "Applying a semi-supervised learning approach to reduce noise in thai-ocr",
+        "Representative Sampling for Text Classification Using Support Vector Machines",
+        "Active learning using pre-clustering",
+        "Semi-supervised cluster-and-label with feature based re-clustering to reduce noise in thai document images",
+        "Generalized maximum margin clustering and unsupervised kernel learning",
+        "Maximum margin clustering made practical",
+        "Semi-supervised clustering by seeding"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

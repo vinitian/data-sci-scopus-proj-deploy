@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85062225943",
+    "title": "Patient aid message notification system based on hand movement tracking and haar-like features",
+    "cover-date": "2019-01-18",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (miscellaneous)",
+            "@code": "1701",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Haar-like features",
+        "Message notification",
+        "Movement tracking",
+        "Patient monitoring"
+    ],
+    "authors": [
+        "Tanapat Ratchatorn",
+        "Suree Pumrin"
+    ],
+    "citedby-count": 2,
+    "ref-count": 10,
+    "ref-list": [
+        "Speech based text correction tool for the visually impaired",
+        "A study on human-machine interaction computer games robot",
+        "HCI factors affecting quality of information in crisis management systems",
+        "Human computer interaction and medical devices",
+        "The vision-based hand gesture recognition using blob analysis",
+        "Rapid object detection using a boosted cascade of simple features",
+        "An extended set of Haar-like features for rapid object detection",
+        "Joint haarlike features for face detection",
+        "Summed-area tables for texture mapping",
+        "A decision-theoretic generalization of on-line learning and an application to boosting"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Engineering Laboratory",
+        "Chulalongkorn University"
+    ]
+}

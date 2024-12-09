@@ -1,0 +1,135 @@
+{
+    "eid": "2-s2.0-85127352330",
+    "title": "A randomized clinical trial of a booster dose with low versus standard dose of AZD1222 in adult after 2 doses of inactivated vaccines",
+    "cover-date": "2022-04-20",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Molecular Medicine",
+            "@code": "1313",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Immunology and Microbiology (all)",
+            "@code": "2400",
+            "@abbrev": "IMMU"
+        },
+        {
+            "@_fa": "true",
+            "$": "Veterinary (all)",
+            "@code": "3400",
+            "@abbrev": "VETE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Public Health, Environmental and Occupational Health",
+            "@code": "2739",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Infectious Diseases",
+            "@code": "2725",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "anti-SARS-CoV-2 IgG",
+        "AZD1222",
+        "Booster dose",
+        "ChAdOx1 nCoV-19 vaccine",
+        "CoronaVac vaccine",
+        "Neutralizing antibody titer",
+        "SARS-CoV-2 vaccine"
+    ],
+    "authors": [
+        "Sira Nanthapisal",
+        "Thanyawee Puthanakit",
+        "Peera Jaru-Ampornpan",
+        "Rapisa Nantanee",
+        "Pimpayao Sodsai",
+        "Orawan Himananto",
+        "Jiratchaya Sophonphan",
+        "Pintip Suchartlikitwong",
+        "Narin Hiransuthikul",
+        "Pornpimon Angkasekwinai",
+        "Auchara Tangsathapornpong",
+        "Nattiya Hirankarn"
+    ],
+    "citedby-count": 9,
+    "ref-count": 31,
+    "ref-list": [
+        "Infection and Vaccine-Induced Neutralizing-Antibody Responses to the SARS-CoV-2 B.1.617 Variants",
+        "Effectiveness of an Inactivated SARS-CoV-2 Vaccine in Chile",
+        "CoronaVac induces lower neutralising activity against variants of concern than natural infection",
+        "Safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222) against SARS-CoV-2: an interim analysis of four randomised controlled trials in Brazil, South Africa, and the UK",
+        "Low-dose mRNA-1273 COVID-19 vaccine generates durable memory enhanced by cross-reactive T cells",
+        "Safety and immunogenicity of SARS-CoV-2 variant mRNA vaccine boosters in healthy adults: an interim analysis",
+        "Optimize Prime/Boost Vaccine Strategies: trained Immunity as a New Player in the Game",
+        "Prime-boost vaccine strategy against viral infections: mechanisms and benefits",
+        "Immune responses against SARS-CoV-2 variants after heterologous and homologous ChAdOx1 nCoV-19/BNT162b2 vaccination",
+        "Immunogenicity of a third dose viral-vectored COVID-19 vaccine after receiving two-dose inactivated vaccines in healthy adults",
+        "Immunogenicity and Safety of an Intradermal BNT162b2 mRNA Vaccine Booster after Two Doses of Inactivated SARS-CoV-2 Vaccine in Healthy Population",
+        "A serological assay to detect SARS-CoV-2 seroconversion in humans",
+        "Correlates of protection against symptomatic and asymptomatic SARS-CoV-2 infection",
+        "A SARS-CoV-2 surrogate virus neutralization test based on antibody-mediated blockage of ACE2-spike protein-protein interaction",
+        "Safety and immunogenicity of ChAdOx1 nCoV-19 vaccine administered in a prime-boost regimen in young and old adults (COV002): a single-blind, randomised, controlled, phase 2/3 trial",
+        "Immunological memory cells",
+        "Correlation of sample-to-cut-off ratio of anti-SARS-CoV-2 IgG antibody chemiluminescent assay with neutralization activity: a prospective multi-centric study in India",
+        "Safety and immunogenicity of heterologous versus homologous prime-boost schedules with an adenoviral vectored and mRNA COVID-19 vaccine (Com-COV): a single-blind, randomised, non-inferiority trial",
+        "To mix or not to mix? A rapid systematic review of heterologous prime-boost covid-19 vaccination",
+        "WHO approval of Chinese CoronaVac COVID vaccine will be crucial to curbing pandemic",
+        "Safety and immunogenicity of seven COVID-19 vaccines as a third dose (booster) following two doses of ChAdOx1 nCov-19 or BNT162b2 in the UK (COV-BOOST): a blinded, multicentre, randomised, controlled, phase 2 trial",
+        "Immunogenicity and safety of an intradermal fractional third dose of ChAdOx1 nCoV-19/AZD1222 vaccine compared with those of a standard intramuscular third dose in volunteers who previously received two doses of CoronaVac: a randomized controlled trial",
+        "Modeling comparative cost-effectiveness of SARS-CoV-2 vaccine dose fractionation in India"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60013939",
+            "affilname": "Faculty of Medicine, Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60013939",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60012521",
+            "affilname": "Thammasat University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012521",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": null,
+            "@id": "127904527",
+            "affilname": "National Center for Genetic Engineering and Biotechnology (BIOTEC)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/127904527",
+            "affiliation-country": null
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60031780",
+            "affilname": "Thai Red Cross Agency",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031780",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Center of Excellence in Pediatric Infectious Diseases and Vaccines",
+        "Chulalongkorn University Health Service Center",
+        "Department of Microbiology, Faculty of Medicine, Chulalongkorn University",
+        "HIV Netherlands Australia Thailand Research Collaboration",
+        "Ratchadapisek Sompoch Endowment Fund",
+        "Thai Red Cross AIDS Research Centre",
+        "Department of Pediatrics",
+        "Chulalongkorn University",
+        "Thammasat University"
+    ]
+}

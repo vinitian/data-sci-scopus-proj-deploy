@@ -1,0 +1,135 @@
+{
+    "eid": "2-s2.0-85136342867",
+    "title": "Selecting the Most Important Features for Predicting Mild Cognitive Impairment from Thai Verbal Fluency Assessments",
+    "cover-date": "2022-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analytical Chemistry",
+            "@code": "1602",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry",
+            "@code": "1303",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Atomic and Molecular Physics, and Optics",
+            "@code": "3107",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "classification",
+        "feature extraction",
+        "mild cognitive impairment",
+        "MoCA",
+        "phonemic clustering",
+        "phonemic verbal fluency",
+        "silence-based feature",
+        "similarity-based feature",
+        "switching"
+    ],
+    "authors": [
+        "Suppat Metarugcheep",
+        "Proadpran Punyabukkana",
+        "Dittaya Wanvarie",
+        "Solaphat Hemrungrojn",
+        "Chaipat Chunharas",
+        "Ploy N. Pratanwanich"
+    ],
+    "citedby-count": 1,
+    "ref-count": 42,
+    "ref-list": [
+        "Prevalence and risk factors of mild cognitive impairment in menopausal women at HRH Princess Maha Chakri Sirindhorn Medical Center",
+        "Prevalence of mild cognitive impairment (MCI) in pre-retirement period of hospital staff",
+        "The diagnosis and management of mild cognitive impairment: A clinical review",
+        "Mild cognitive impairment",
+        "The Montreal Cognitive Assessment, MoCA: A brief screening tool for mild cognitive impairment",
+        "Application and Revision of montreal cognitive assessment in China\u2019s military retirees with mild cognitive impairment",
+        "Screening for cognitive impairment in Parkinson\u2019s disease: Improving the diagnostic utility of the MoCA through subtest weighting",
+        "Psychometric and diagnostic properties of the Taiwan version of the Quick Mild Cognitive Impairment screen",
+        "Using Automatic Speech Recognition to Assess Thai Speech Language Fluency in the Montreal Cognitive Assessment (MoCA)",
+        "Development of a screening algorithm for Alzheimer\u2019s disease using categorical verbal fluency",
+        "Verbal fluency in normal aging and cognitive decline: Results of a longitudinal study",
+        "Comprehensive verbal fluency features predict executive function performance",
+        "Computerized analysis of verbal fluency: Normative data and the effects of repeated testing, simulated malingering, and traumatic brain injury",
+        "A speech recognition-based solution for the automatic detection of mild cognitive impairment from spontaneous speech",
+        "Verbal fluency patterns in amnestic mild cognitive impairment are characteristic of Alzheimer\u2019s type dementia",
+        "The FAB: A frontal assessment battery at bedside",
+        "Verbal fluency in the Thai elderly, elderly with mild cognitive impairment and elderly with dementia",
+        "Thai",
+        "Use of the Montreal Cognitive Assessment Thai version (MoCA) to discriminate amnestic mild cognitive impairment from Alzheimer\u2019s disease and healthy controls: Machine learning results. Running head: MoCA and amnestic mild cognitive impairment",
+        "Clustering and switching as two components of verbal fluency: Evidence from younger and older healthy adults",
+        "Computerized analysis of a verbal fluency test",
+        "Verbal fluency and early memory decline: Results from the Wisconsin registry for Alzheimer\u2019s prevention",
+        "Lexical factors and cerebral regions influencing verbal fluency performance in MCI",
+        "Binary codes capable of correcting deletions, insertions, and reversals",
+        "The orthographic similarity structure of English words: Insights from network science",
+        "Semantic similarity from natural language and ontology analysis",
+        "Automatic data-driven approaches for evaluating the phonemic verbal fluency task with healthy adults",
+        "Dissociating semantic and phonemic search strategies in the phonemic verbal fluency task in early Dementia",
+        "Temporal parameters of spontaneous speech in Alzheimer\u2019s disease",
+        "Automatic detection of mild cognitive impairment from spontaneous speech using ASR",
+        "Paralinguistic and linguistic fluency features for Alzheimer\u2019s disease detection",
+        "Clustering and switching on verbal fluency: The effects of focal frontal-and temporal-lobe lesions",
+        "Scikit-learn: Machine learning in Python",
+        "Feature selection for classification",
+        "Chi2: Feature selection and discretization of numeric attributes",
+        "Receiver operating characteristic curve in diagnostic test assessment",
+        "Receiver operating characteristic (ROC) curve analysis for medical diagnostic test evaluation",
+        "From local explanations to global understanding with explainable AI for trees",
+        "Xgboost: A scalable tree boosting system"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University Technology Center",
+        "Cognitive Fitness Center, Chulalongkorn Hospital",
+        "Thailand Center of Excellence for Life Sciences",
+        "Ministry of Higher Education, Science, Research and Innovation",
+        "Thailand Science Research and Innovation Fund"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "eid": "2-s2.0-85146339394",
+    "title": "New Switching Patterns Based on Current Space-Vector Diagram Viewpoint to Reduce Input Current Ripple for Three-Level Inverters",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "carrier-based PWM",
+        "current ripple",
+        "matrix converters",
+        "space-vector diagram",
+        "three-level inverters"
+    ],
+    "authors": [
+        "Phongsathorn Sangsuwan",
+        "Paiboon Kiatsookkanatorn",
+        "Somboon Sangwongwanich",
+        "Ariya Sangwongwanich"
+    ],
+    "citedby-count": 0,
+    "ref-count": 18,
+    "ref-list": [
+        "A survey on neutral-point-clamped inverters",
+        "Generalized Discontinuous DC-Link Balancing Modulation Strategy for Three-Level Inverters",
+        "The Nearest Three Virtual Space Vector PWM-A Modulation for the Comprehensive Neutral-Point Balancing in the Three-Level NPC Inverter",
+        "Evaluation of the Low-Frequency Neutral-Point Voltage Oscillations in the Three-Level Inverter",
+        "Improved space vector modulation technique for neutral-point voltage oscillation and common-mode voltage reduction in three-level inverter",
+        "Optimal pulse-width modulation for three-level inverters",
+        "Fast-Processing Modulation Strategy for the Neutral-Point-Clamped Converter With Total Elimination of Low-Frequency Voltage Oscillations in the Neutral Point",
+        "Carrier-Based Realization of Arbitrary Space-Vector PWM Methods for Three-Level Inverters",
+        "A new modulation strategy for capacitor voltage balancing in three-level NPC inverters based on matrix converter theory",
+        "Double-carrier-based modulation theory of three-level inverters and a new discontinuous PWM for neutral-point voltage balancing",
+        "Life-cycle monitoring and voltage-managing unit for dc-link electrolytic capacitors in PWM converters",
+        "Reliability of DC-link capacitors in three-level NPC inverters under different PWM methods",
+        "Analytical closed-form expressions of dc current ripple for threelevel neutral point clamped inverters with space-vector pulse-width modulation",
+        "DC-link ripple current reduction for three-level inverters with optimal switching pattern",
+        "Input current harmonic reduction based on space vector PWM for threelevel inverter operating over a wide range power factor",
+        "Optimized space-vector modulation to reduce neutral point current for extending capacitor lifetime in three-level inverters",
+        "A unified PWM strategy to reduce minimum switching number for matrix converters",
+        "A unified PWM method for matrix converters and its carrier-based realization using dipolar modulation technique"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Phra Nakhon si Ayutthaya",
+            "@id": "60269766",
+            "affilname": "Rajamangala University of Technology Suvarnabhumi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60269766",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Aalborg",
+            "@id": "60022134",
+            "affilname": "Aalborg University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022134",
+            "affiliation-country": "Denmark"
+        }
+    ],
+    "funding": []
+}

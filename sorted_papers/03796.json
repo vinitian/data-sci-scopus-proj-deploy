@@ -1,0 +1,70 @@
+{
+    "eid": "2-s2.0-85112814016",
+    "title": "A fault current boosting technique for grid connected inverters",
+    "cover-date": "2021-05-19",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Current boosting",
+        "Fault current",
+        "Grid-connected inverter",
+        "Short circuit current"
+    ],
+    "authors": [
+        "Preenapan Panya",
+        "Surapong Suwankawin"
+    ],
+    "citedby-count": 0,
+    "ref-count": 6,
+    "ref-list": [
+        "Modified statcom control strategy for fault ride-through capability enhancement of grid-connected pv/wind hybrid power system during voltage sag",
+        "Enhancement of performance, availability, and flexibility of a battery energy storage system based on a modular multilevel cascaded converter (mmcc-ssbc)",
+        "A comprehensive lvrt strategy of two-stage photovoltaic systems under balanced and unbalanced faults",
+        "Establishment of fault current characteristics for solar photovoltaic generator considering low voltage ride through and reactive current injection requirement",
+        "Records from dfrs vs. records from microprocessor-based relays"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

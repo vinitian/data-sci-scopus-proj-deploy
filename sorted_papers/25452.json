@@ -1,0 +1,58 @@
+{
+    "eid": "2-s2.0-85065075356",
+    "title": "Improve Traffic Prediction Using Accident Embedding on Ensemble Deep Neural Networks",
+    "cover-date": "2019-04-10",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Convolutional Neural Networks",
+        "Ensemble",
+        "Long Short-Term Memory",
+        "Stacked Autoencoder",
+        "Traffic Prediction"
+    ],
+    "authors": [
+        "Wanida Liyong",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 8,
+    "ref-count": 21,
+    "ref-list": [
+        "Traffic flow prediction with big data: A deep learning approach",
+        "Deep learning for short-Termtraffic flow prediction",
+        "Long short-Term memory neural network for traffic speed prediction using remotemicrowave sensor data",
+        "Predicting short-Term traffic flow by long short-Term memory recurrent neural network",
+        "Using LSTM and GRU neural network methods for traffic flow prediction",
+        "Learning traffic as images: A deep convolutional neural network for large-scale transportation network speed prediction",
+        "Spatiotemporal recurrent convolutional networks for traffic predictionin transportation networks",
+        "Greedy layer-wise training of deep networks",
+        "A deep learning framework forfinancial time series using stacked autoencoders and long-short termmemory",
+        "Time-seriesextreme event forecasting with neural networks at uber",
+        "Deep learning: A generic approach for extreme condition trafficforecasting"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Foundation",
+        "ITIC",
+        "Intelligent Traffic Information Center",
+        "Metamedia Technology Company Limited"
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "eid": "2-s2.0-85086459363",
+    "title": "Risk and Uncertainty Analysis of Cooling Demand in Multi-Chiller System Using Downside Risk Constraints Method",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Cooling demand uncertainty (CDU)",
+        "downside risk constraints (DRC)",
+        "expected power consumption (EPC)",
+        "expected risk-in-power consumption (ERIPC)",
+        "multi-chiller system (MCS)",
+        "risk-neutral and risk-averse performances"
+    ],
+    "authors": [
+        "Yu Shang",
+        "Sayyad Nojavan",
+        "Kittisak Jermsittiparsert"
+    ],
+    "citedby-count": 0,
+    "ref-count": 35,
+    "ref-list": [
+        "Energy efficiency and economic impact investigations for air-conditioners using wireless sensing and actuator networks",
+        "Development of energy labels based on consumer perspective: Room air conditioners as a case study in Brunei Darussalam",
+        "Comparative economic assessment of the energy performance of air-conditioning within the mexican residential sector",
+        "Development of a water-mist cooling system: A 12,500 Kcal/h air-cooled chiller",
+        "Multi-objective optimization of a PEMFC based CCHP system by meta-heuristics",
+        "Probabilistic approach for uncertainty-based optimal design of chiller plants in buildings",
+        "An outstanding method for saving energy-optimal chiller operation",
+        "Model predictive control of central chiller plant with thermal energy storage via dynamic programming and mixed-integer linear programming",
+        "Optimal chiller loading by genetic algorithm for reducing energy consumption",
+        "A multi-phase genetic algorithm for the efficient management of multi-chiller systems",
+        "A compre-hensive, multi-objective optimization of solar-powered absorption chiller systems for air-conditioning applications",
+        "Improved firefly algorithm approach applied to chiller loading for energy conservation",
+        "A novel approach for optimal chiller loading using particle swarm optimization",
+        "A PSO-based algorithm for optimal multiple chiller systems operation",
+        "Optimal chiller loading for energy conservation using a new differential cuckoo search approach",
+        "Optimal chiller loading by evolution strategy for saving energy",
+        "An innovative approach for demand side management-optimal chiller loading by simulated annealing",
+        "Optimal chiller loading by differential evolution algorithm for reducing energy consumption",
+        "Anovel energy conservation method-Optimal chiller load-ing",
+        "Applying smart models for energy saving in optimal chiller loading",
+        "A new solution for loading optimization of multi-chiller systems by general algebraic modeling system",
+        "Robust optimization based optimal chiller loading under cooling demand uncertainty",
+        "Optimal consumption modeling of multi-chiller system using a robust optimization algorithm with consid-ering the measurement, control and threshold uncertainties",
+        "Risk-constrained optimal chiller loading strat-egy using information gap decision theory",
+        "Robustness enhancement for chiller sequencing control under uncertainty",
+        "Energy, economics and environmental analysis for chillers in office buildings",
+        "HVAC system dynamics and energy use in existing buildings",
+        "GENCO's risk-constrained hydrothermal scheduling",
+        "Risk-constrained optimal operation of fuel cell/photovoltaic/battery/grid hybrid energy system using downside risk constraints method",
+        "Risk-constrained stochastic power procurement of storage-based large electric-ity consumer",
+        "An effi-cient terminal voltage control for PEMFC based on an improved ver-sion of whale optimization algorithm",
+        "Dynamic multi agent-based management and load frequency control of PV/Fuel cell/ wind turbine/ CHP in autonomous microgrid system"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Beijing",
+            "@id": "60108755",
+            "affilname": "China University of Mining &amp; Technology, Beijing",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60108755",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Bonab",
+            "@id": "60108382",
+            "affilname": "University of Bonab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60108382",
+            "affiliation-country": "Iran"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,182 @@
+{
+    "eid": "2-s2.0-85111644065",
+    "title": "Piwi\u2013piRNA complexes induce stepwise changes in nuclear architecture at target loci",
+    "cover-date": "2021-09-15",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Neuroscience (all)",
+            "@code": "2800",
+            "@abbrev": "NEUR"
+        },
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Biochemistry, Genetics and Molecular Biology (all)",
+            "@code": "1300",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Immunology and Microbiology (all)",
+            "@code": "2400",
+            "@abbrev": "IMMU"
+        }
+    ],
+    "keywords": [
+        "chromatin conformation",
+        "heterochromatin formation",
+        "nuclear localization",
+        "RNA silencing",
+        "transcriptional regulation"
+    ],
+    "authors": [
+        "Yuka W. Iwasaki",
+        "Sira Sriswasdi",
+        "Yasuha Kinugasa",
+        "Jun Adachi",
+        "Yasunori Horikoshi",
+        "Aoi Shibuya",
+        "Wataru Iwasaki",
+        "Satoshi Tashiro",
+        "Takeshi Tomonaga",
+        "Haruhiko Siomi"
+    ],
+    "citedby-count": 4,
+    "ref-count": 78,
+    "ref-list": [
+        "Improved proteome and phosphoproteome analysis on a cation exchanger by a combined acid and salt gradient",
+        "Using the lambdaN peptide to tether proteins to RNAs",
+        "The nascent RNA binding complex SFiNX licenses piRNA-guided heterochromatin formation",
+        "Single-molecule super-resolution imaging of chromosomes and in situ haplotype visualization using Oligopaint FISH probes",
+        "OligoMiner provides a rapid, flexible environment for the design of genome-scale oligonucleotide in situ hybridization probes",
+        "The insulator protein SU(HW) fine-tunes nuclear lamina interactions of the Drosophila genome",
+        "Organization and function of the 3D genome",
+        "Genome-lamina interactions are established de novo in the early mouse embryo",
+        "Topological domains in mammalian genomes identified by analysis of chromatin interactions",
+        "Dimerisation of the PICTS complex via LC8/Cut-up drives co-transcriptional transposon silencing in Drosophila",
+        "piRNA-guided co-transcriptional silencing coopts nuclear export factors",
+        "Recruitment to the nuclear periphery can alter expression of genes in human cells",
+        "RanBP2/Nup358 provides a major binding site for NXF1-p15 dimers at the nuclear pore complex and functions in nuclear mRNA export",
+        "Structural basis for the recognition of a nucleoporin FG repeat by the NTF2-like domain of the TAP/p15 mRNA nuclear export factor",
+        "On TADs and LADs: spatial control over gene expression",
+        "Histones and histone modifications in perinuclear chromatin anchoring: from yeast to man",
+        "RNA-mediated feedback control of transcriptional condensates",
+        "NXF1/p15 heterodimers are essential for mRNA nuclear export in Drosophila",
+        "TAP (NXF1) belongs to a multigene family of putative RNA export factors with a conserved modular architecture",
+        "Genome-wide analysis of nuclear mRNA export pathways in Drosophila",
+        "Local nucleosome dynamics facilitate chromatin accessibility in living mammalian cells",
+        "Gene density, transcription, and insulators contribute to the partition of the Drosophila genome into physical domains",
+        "Deep sequencing and high-throughput analysis of PIWI-associated small RNAs",
+        "Piwi modulates chromatin accessibility by regulating multiple factors including histone H1 to repress transposons",
+        "DAVID-WS: a stateful web service to facilitate gene/protein list analysis",
+        "Repeats in genomic DNA: mining and meaning",
+        "The structure of the NXF2/NXT1 heterodimeric complex reveals the combined specificity and versatility of the NTF2-like fold",
+        "Quantitative 3D structured illumination microscopy of nuclear structures",
+        "A genetic locus targeted to the nuclear periphery in living cells maintains its transcriptional competence",
+        "Chromatin enrichment for proteomics",
+        "Fast gapped-read alignment with Bowtie 2",
+        "Piwi induces piRNA-guided transcriptional silencing and establishment of a repressive chromatin state",
+        "Comprehensive mapping of long-range interactions reveals folding principles of the human genome",
+        "Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2",
+        "Genome regulation at the peripheral zone: lamina associated domains in development and disease",
+        "Fluorescence in situ hybridization applications for super-resolution 3D structured illumination microscopy",
+        "A new portrait of constitutive heterochromatin: lessons from Drosophila melanogaster",
+        "damidseq_pipeline: an automated pipeline for processing DamID sequencing datasets",
+        "Phase transfer surfactant-aided trypsin digestion for membrane proteome analysis",
+        "Nuclear RNA export factor variant initiates piRNA-guided co-transcriptional silencing",
+        "Cell-cycle dynamics of chromosomal organization at single-cell resolution",
+        "Establishment of stable cell lines of Drosophila germ-line stem cells",
+        "Spatial partitioning of the regulatory landscape of the X-inactivation centre",
+        "Rewiring of chromatin state and gene expression by transposable elements",
+        "PIWI-interacting RNAs: small RNAs with big functions",
+        "Chrom3D: three-dimensional genome modeling from Hi-C and nuclear lamin-genome contacts",
+        "Characterization of the Drosophila melanogaster genome at the nuclear lamina",
+        "Three-dimensional genome architecture: players and mechanisms",
+        "High-resolution TADs reveal DNA sequences underlying genome organization in flies",
+        "Transcriptional repression mediated by repositioning of genes to the nuclear lamina",
+        "Multiple roles for Piwi in silencing Drosophila transposons",
+        "A regulatory circuit for piwi by the large Maf gene traffic jam in Drosophila",
+        "Roles for the Yb body components Armitage and Yb in primary piRNA biogenesis in Drosophila",
+        "Specific association of Piwi with rasiRNAs derived from retrotransposon and heterochromatic regions in the Drosophila genome",
+        "Fiji: an open-source platform for biological-image analysis",
+        "Molecular principles of Piwi-mediated cotranscriptional silencing through the dimeric SFiNX complex",
+        "NIH Image to ImageJ: 25 years of image analysis",
+        "Three-dimensional folding and functional organization principles of the Drosophila genome",
+        "ngs.plot: Quick mining and visualization of next-generation sequencing data by integrating genomic databases",
+        "Silencio/CG9754 connects the Piwi-piRNA complex to the cellular heterochromatin machinery",
+        "Transcriptional silencing of transposons by Piwi and maelstrom and its impact on chromatin state and gene expression",
+        "Lamina-associated domains: links with chromosome architecture, heterochromatin, and gene repression",
+        "The role of transcription in shaping the spatial organization of the genome",
+        "Identification of in vivo DNA targets of chromatin proteins using tethered dam methyltransferase",
+        "Step-wise methylation of histone H3K9 positions heterochromatin at the nuclear periphery",
+        "TopHat: discovering splice junctions with RNA-Seq",
+        "Nuclear lamina integrity is required for proper spatial organization of chromatin in Drosophila",
+        "Active chromatin and transcription play a key role in chromosome partitioning into topologically associating domains",
+        "GenomeDISCO: a concordance score for chromosome conformation capture experiments using random walks on contact map graphs",
+        "HiCRep: assessing the reproducibility of Hi-C data using a stratum-adjusted correlation coefficient",
+        "Measuring the reproducibility and quality of Hi-C data",
+        "Panoramix enforces piRNA-dependent cotranscriptional silencing",
+        "Model-based analysis of ChIP-Seq (MACS)",
+        "A Pandas complex adapted for piRNA-guided transcriptional silencing and heterochromatin formation",
+        "Lamins organize the global three-dimensional genome from the nuclear periphery"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ibaraki",
+            "@id": "60276334",
+            "affilname": "National Institutes of Biomedical Innovation, Health and Nutrition",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60276334",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Higashihiroshima",
+            "@id": "60030788",
+            "affilname": "Hiroshima University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030788",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025272",
+            "affilname": "The University of Tokyo",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025272",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Tokyo",
+            "@id": "60025252",
+            "affilname": "Keio University School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025252",
+            "affiliation-country": "Japan"
+        },
+        {
+            "affiliation-city": "Kawaguchi",
+            "@id": "60015682",
+            "affilname": "Japan Science and Technology Agency",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015682",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Shinsuke Shibata",
+        "Takeda Science Foundation",
+        "Uehara Memorial Foundation",
+        "JSPS",
+        "JST",
+        "JST CREST",
+        "Nakajima Foundation"
+    ]
+}

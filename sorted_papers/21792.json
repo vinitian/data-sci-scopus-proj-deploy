@@ -1,0 +1,89 @@
+{
+    "eid": "2-s2.0-85112813162",
+    "title": "An implementation of machine learning for parkinson's disease diagnosis",
+    "cover-date": "2021-05-19",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Binary classification",
+        "Long Short-Term memory (LSTM)",
+        "Machine learning",
+        "Neural networks",
+        "Parkinson's disease diagnosis"
+    ],
+    "authors": [
+        "Hassapol Thummikarat",
+        "Prabhas Chongstitvatana"
+    ],
+    "citedby-count": 2,
+    "ref-count": 25,
+    "ref-list": [
+        "Classifier ensemble construction with rotation foreast to improve medical diagnosis performance of machine learning algorithms",
+        "Detecting behavioral microsleeps using EEG and LSTM recurrent neural networks",
+        "Multi-level binarized LSTM in EEG classification for wearable devices",
+        "Patient subtyping via time-aware LSTM networks",
+        "Application of LSTM neural networks in lanfguage modelling",
+        "Deep sentence embedding using long short-term memory networks: Analysis and application to information retrieval",
+        "Long short-term memory recurrent neural network architectures for large scale acoustic modeling",
+        "Fast time series classification using numerosity reduction",
+        "Scene labeling with LSTM recurrent neural networks",
+        "LSTM fully convolutional networks for time series classification",
+        "LSTM guided modulation classification and experimental validation for sub-nyquist rate wideband spectrum sensing",
+        "Pattern extraction for time series classification",
+        "An efficient diagnosis system for detection of Parkinson's disease using fuzzy k-nearest neighbor approach",
+        "An efficient hybrid kernel extream learning machine approach for early diagnosis of Parkinson's disease",
+        "An rnn architecture with dynamic temporal matching for personalized predictions of Parkinson's disease",
+        "Analysis of Parkinson's disease data",
+        "Assesment of Parkinson's disease based on deep neural networks",
+        "Data-driven subtyping of Parkinson's disease using longtitudinal clinincal cecords: A cohort study",
+        "Diagnosing Parkinson by using artificial neural networks and support vector machines",
+        "Parkinson's disease: Cause factors, measurable indicators, and early diagnosis",
+        "Smartphone motor testing to distinguish idiopathic rem sleep behavior disorder, controls, and pd",
+        "Using smartphones and machine learning to quantify Parkinson disease severity the mobile Parkinson disease score",
+        "A comparison of multiple classification methods for diagnosis of Parkinson disease"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

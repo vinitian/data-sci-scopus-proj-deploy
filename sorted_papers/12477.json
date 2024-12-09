@@ -1,0 +1,74 @@
+{
+    "eid": "2-s2.0-85076797147",
+    "title": "A Data Visualization for Helping Students Decide Which General Education Courses to Enroll: Case of Chulalongkorn University",
+    "cover-date": "2019-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Theoretical Computer Science",
+            "@code": "2614",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Data analysis",
+        "Data visualization",
+        "General education",
+        "Markov chain"
+    ],
+    "authors": [
+        "Nagul Cooharojananone",
+        "Jidapa Dilokpabhapbhat",
+        "Thanaporn Rimnong-ang",
+        "Manutsaya Choosuwan",
+        "Pattamon Bunram",
+        "Kanokwan Atchariyachanvanich",
+        "Suporn Pongnumkul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 12,
+    "ref-list": [
+        "Analysis of students\u2019 ratings of teaching quality to understand the role of gender and socio-economic diversity in higher education",
+        "Word cloud of online hotel reviews in Chiang Mai for customer satisfaction analysis",
+        "A novel word cloud graph system design for movie comments",
+        "A novel approach for aspect level sentiment analysis",
+        "Data visualization techniques for real time information a custom and dynamic dashboard for analyzing surveys\u2019 results",
+        "Influence of word clouds on critical thinking in online discussions: A content analysis",
+        "Sketching designs using the five design sheet methodology",
+        "Understanding the effects of online collaborative knowledge-building activities on pre-service teachers\u2019 views of \u201clearning\u201d: A case study using triple cross-validation analysis",
+        "VisMOOC: Visualizing video clickstream data from massive open online courses",
+        "VisMOOC: Visualizing video clickstream data from massive open online courses"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ladkrabang Bangkok",
+            "@id": "60021543",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021543",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "60011525",
+            "affilname": "Thailand National Electronics and Computer Technology Center",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011525",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

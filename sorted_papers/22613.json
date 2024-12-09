@@ -1,0 +1,110 @@
+{
+    "eid": "2-s2.0-85139250530",
+    "title": "Biomedical event extraction on input text corpora using combination technique based capsule network",
+    "cover-date": "2022-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Multidisciplinary",
+            "@code": "1000",
+            "@abbrev": "MULT"
+        }
+    ],
+    "keywords": [
+        "Biomedical event extraction",
+        "biomedical triggers",
+        "CapsNet",
+        "machine learning"
+    ],
+    "authors": [
+        "R. N. Devendra Kumar",
+        "K. Srihari",
+        "C. Arvind",
+        "Wattana Viriyasitavat"
+    ],
+    "citedby-count": 0,
+    "ref-count": 58,
+    "ref-list": [
+        "Best Match: new relevance search for PubMed",
+        "Analysis on improving the response time with PIDSARSA-RAL in ClowdFlows mining platform",
+        "High-performance link-based cluster ensemble approach for categorical data clustering",
+        "Predicting Energy Demands Constructed on Ensemble of Classifiers",
+        "Improving the training pattern in back-propagation neural networks using holt-winters\u2019 seasonal method and gradient boosting model",
+        "Biomedical named entity recognition based on the two channels and sentence-level reading control conditioned LSTM-CRF",
+        "GRAM-CNN: a deep learning approach with local context for named entity recognition in biomedical text",
+        "Bidirectional long short-term memory with CRF for detecting biomedical event trigger in FastText semantic space",
+        "Joint entity and relation extraction based on a hybrid neural network",
+        "Learning local and global contexts using a convolutional recurrent network model for relation classification in biomedical text",
+        "End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures",
+        "A neural joint model for entity and relation extraction from biomedical text",
+        "MCapsNet: Capsule Network for Text with Multi-Task Learning",
+        "Sentiment Analysis by Capsules",
+        "Identifying Aggression and Toxicity in Comments using Capsule Network",
+        "TEES 2.2: Biomedical event extraction for diverse corpora",
+        "Extracting contextualized complex biological events with rich graph-based feature sets",
+        "Adaptable, high recall, event extraction system with minimal configuration",
+        "Biomolecular Event Extraction using a Stacked Generalization based Classifier",
+        "A transition-based model for jointly extracting drugs, diseases and adverse drug events",
+        "A multiple distributed representation method based on neural network for biomedical event extraction",
+        "Extracting Biomedical Events with Parallel Multi-Pooling Convolutional Neural Networks",
+        "Biomedical Event Extraction Using Convolutional Neural Networks and Dependency Parsing",
+        "Biomedical event extraction based on GRU integrating attention mechanism",
+        "Thumbs up?: Sentiment classification using machine learning techniques",
+        "From symbolic to sub-symbolic information in question classification",
+        "The Role of Syntax in Vector Space Models of Compositional Semantics",
+        "Convolutional neural networks for sentence classification",
+        "Improved salient object detection using hybrid Convolution Recurrent Neural Network",
+        "Convolutional neural networks for multimedia sentiment analysis",
+        "Recurrent convolutional neural networks for text classification",
+        "Dynamic routing between capsules",
+        "CapsNet: Capsule Network for Text with Multi-Task Learning",
+        "Analyses on Artificial Intelligence Framework to Detect Crime Pattern. Intelligent Data Analytics for Terror Threat Prediction: Architectures, Methodologies",
+        "Identifying Aggression and Toxicity in Comments using Capsule.Network",
+        "MS-CapsNet: A novel multi-scale capsule network",
+        "Performance evaluation of caps-net based multitask learning architecture for text classification",
+        "3-D Res-CapsNet convolutional neural network on automated breast ultrasound tumor diagnosis",
+        "Convolutional capsnet: A novel artificial neural network approach to detect COVID-19 disease from X-ray images using capsule networks",
+        "DA-CapsNet: dual attention mechanism capsule network",
+        "Spotted hyena optimizer: a novel bio-inspired based metaheuristic technique for engineering applications",
+        "Emperor penguin optimizer: A bio-inspired algorithm for engineering problem",
+        "Tunicate Swarm Algorithm: A new bio-inspired based metaheuristic paradigm for global optimization",
+        "STOA: a bio-inspired based optimization algorithm for industrial engineering problems",
+        "A comparative study of fuzzy optimization through fuzzy number",
+        "Artificial Intelligence and Patentability: Review and Discussions",
+        "Analytical Review Analysis for Screening COVID-19",
+        "Crime tracking system and people\u2019s safety in India using machine learning approaches",
+        "Breast Cancer Image Classification using Transfer Learning and Convolutional Neural Network",
+        "Self-aware Execution Environment Model (SAE2) for the Performance Improvement of Multicore Systems"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199583",
+            "affilname": "Chulalongkorn Business School",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199583",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Coimbatore",
+            "@id": "60114810",
+            "affilname": "Sri Ramakrishna Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60114810",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Coimbatore",
+            "@id": "60114304",
+            "affilname": "SNS College of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60114304",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Coimbatore",
+            "@id": "60114195",
+            "affilname": "Karpagam College of Engineering",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60114195",
+            "affiliation-country": "India"
+        }
+    ],
+    "funding": []
+}

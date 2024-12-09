@@ -1,0 +1,100 @@
+{
+    "eid": "2-s2.0-85088245691",
+    "title": "CU-BEMS, smart building electricity consumption and indoor environmental sensor datasets",
+    "cover-date": "2020-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Statistics and Probability",
+            "@code": "2613",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Education",
+            "@code": "3304",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Statistics, Probability and Uncertainty",
+            "@code": "1804",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Library and Information Sciences",
+            "@code": "3309",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Manisa Pipattanasomporn",
+        "Gopal Chitalia",
+        "Jitkomut Songsiri",
+        "Chaodit Aswakul",
+        "Wanchalerm Pora",
+        "Surapong Suwankawin",
+        "Kulyos Audomvongseree",
+        "Naebboon Hoonchareon"
+    ],
+    "citedby-count": 35,
+    "ref-count": 39,
+    "ref-list": [
+        "Electricity, water, and natural gas consumption of a residential house in Canada from 2012 to 2014",
+        "On the accuracy of appliance identification based on distributed load metering data",
+        "LocEd: Location-aware energy disaggregation framework",
+        "A public data set for energy disaggregation research",
+        "Blued: A fully labeled public dataset for event-based non-intrusive load monitoring research",
+        "The UK-DALE dataset, domestic appliance-level electricity demand and whole-house demand from five UK homes",
+        "The ENERTALK dataset, 15 Hz electricity consumption data from 22 houses in Korea",
+        "The Building Data Genome Project: An open, public data set from non-residential building electrical meters",
+        "BERDS-Berkeley energy disaggregation data set",
+        "BLOND, a building-level office environment dataset of typical electrical appliances",
+        "Tracking the human-building interaction: A longitudinal field study of occupant behavior in air-conditioned offices",
+        "Building fault detection data to aid diagnostic algorithm creation and performance testing",
+        "A structured open data collection on occupant behaviour in buildings",
+        "Longitudinal dataset of human-building interactions in U.S. offices",
+        "Long-term monitoring data from a naturally ventilated office building",
+        "flEECe, an energy use and occupant behavior dataset for net-zero energy affordable senior residential buildings",
+        "Room-level occupant counts and environmental quality from heterogeneous sensing modalities in a smart building",
+        "CU-BEMS, smart building electricity consumption and indoor environmental sensor datasets"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Blacksburg",
+            "@id": "60027090",
+            "affilname": "Virginia Polytechnic Institute and State University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027090",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Hyderabad",
+            "@id": "60000163",
+            "affilname": "International Institute of Information Technology, Hyderabad",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000163",
+            "affiliation-country": "India"
+        }
+    ],
+    "funding": []
+}

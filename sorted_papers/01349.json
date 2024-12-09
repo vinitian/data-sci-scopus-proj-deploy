@@ -1,0 +1,125 @@
+{
+    "eid": "2-s2.0-85105388315",
+    "title": "Nonlinear flexibility based beam element on Winkler Pasternak foundation",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Geotechnical Engineering and Engineering Geology",
+            "@code": "1909",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [
+        "Beam element",
+        "Finite element",
+        "Flexibility based formulation",
+        "Nonlinear analysis",
+        "Soil structure interaction",
+        "Virtual force principle",
+        "Winkler Pasternak foundation"
+    ],
+    "authors": [
+        "Worathep Sae Long",
+        "Suchart Limkatanyu",
+        "Chayanon Hansapinyo",
+        "Woraphot Prachasaree",
+        "Jaroon Rungamornrat",
+        "Minho Kwon"
+    ],
+    "citedby-count": 4,
+    "ref-count": 51,
+    "ref-list": [
+        "Analytical solution for beams with multipoint boundary conditions on two-parameter elastic foundations",
+        "Buckling and postbuckling of concentrically stiffened piezo-composite plates on elastic foundations",
+        "Free vibration analysis of tapered beam-column with pinned ends embedded in Winkler-Pasternak elastic foundation",
+        "Bending response of nanobeams resting on elastic foundation",
+        "Critical review on idealization and modeling for interaction among soil-foundation-structure system",
+        "Modeling of smart magnetically affected flexoelectric/piezoelectric nanostructures incorporating surface effects",
+        "Exact stiffness matrix for beams on elastic foundation",
+        "A regularized force-based Timoshenko fiber element including flexure-shear interaction for cyclic analysis of RC structures",
+        "Winkler boundary conditions for three-point bending tests on 1D nanomaterials",
+        "Linear and nonlinear elastic analysis of closely spaced strip foundations using Pasternak model",
+        "Exact finite element for a beam on a two-parameter elastic foundation: A revisit",
+        "Modeling dowel action of reinforcement bars for finite element analysis of concrete structures",
+        "Practical subgrade model for improved soil-structure interaction analysis: Model development",
+        "Improved displacement-field approximation for geometrical nonlinear flexibility-based planar curved element in state space",
+        "Bending moments in raft of a piled raft system using Winkler analysis",
+        "Elastic and viscoelastic foundation models",
+        "Uncertainty effects of soil and structural properties on the buckling of flexible pipes shallowly buried in Winkler foundation",
+        "Finite element modeling of environmental effects on rigid pavement deformation",
+        "Two-dimensional numerical tunnel model using a Winkler-based beam element and its application into tunnel monitoring systems",
+        "Reinforced concrete frame element with bond interfaces. I: Displacement-based, force-based, and mixed formulations",
+        "Reinforced concrete frame element with bond interfaces. II: State determination and numerical validations",
+        "Frame element with lateral deformable supports: Formulations and numerical validation",
+        "Contact interface fiber section element: Shallow foundation modeling",
+        "Natural stiffness matrix for beams on Winkler foundation: Exact force-based derivation",
+        "Nonlinear Winkler-based beam element with improved displacement shape functions",
+        "Improved nonlinear displacement-based beam element on a two-parameter foundation",
+        "Force at a point in the interior of a semi-infinite solid",
+        "Nonlinear finite element modeling of beams on two-parameter foundations",
+        "Evaluation of nonlinear frame finite-element models",
+        "Finite element analysis of rigid pavement on a nonlinear two parameter foundation model",
+        "Shallow foundation response variability due to soil and model parameter uncertainty",
+        "Nonlinear analysis of composite beams with deformable shear connections",
+        "Inelastic analysis of beams on two-parameter tensionless elastoplastic foundation",
+        "Timoshenko beam element resting on two-parameter elastic foundation",
+        "A comparative study for beams on elastic foundation models to analysis of mode I delamination in DCB specimen",
+        "Fiber beam-column model for nonlinear analysis of r/c frames. Part I: Formulation",
+        "Fiber beam-column model for nonlinear analysis of r/c frames. Part II: Applications",
+        "The modified Vlasov foundation model: An attractive approach for beams resting on elastic supports",
+        "The reason for analogies between physical theories",
+        "Electro-thermo-mechanical nonlinear free vibration of nanobeam resting on the Winkler-Pasternak foundations based on nonlocal elasticity using differential transform method",
+        "Comparison of different numerical models of RC elements for predicting the seismic performance of structures",
+        "Deformation analysis of geocell reinforcement using Winkler model",
+        "Beam elements on two-parameter elastic foundations"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Phayao",
+            "@id": "60114221",
+            "affilname": "University of Phayao",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60114221",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Jinju",
+            "@id": "60023075",
+            "affilname": "Gyeongsang National University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023075",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Hatyai",
+            "@id": "60006314",
+            "affilname": "Prince of Songkla University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006314",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Chaing Mai",
+            "@id": "60000881",
+            "affilname": "Chiang Mai University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000881",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "National Research Foundation of Korea",
+        "Thailand Research Fund",
+        "MSIT"
+    ]
+}

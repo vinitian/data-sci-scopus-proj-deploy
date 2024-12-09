@@ -1,0 +1,81 @@
+{
+    "eid": "2-s2.0-85160398110",
+    "title": "InSAR-Derived Horizontal Velocities in a Global Reference Frame",
+    "cover-date": "2023-05-28",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Geophysics",
+            "@code": "1908",
+            "@abbrev": "EART"
+        },
+        {
+            "@_fa": "true",
+            "$": "Earth and Planetary Sciences (all)",
+            "@code": "1900",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "M. Lazeck\u00fd",
+        "A. J. Hooper",
+        "P. Piromthong"
+    ],
+    "citedby-count": 0,
+    "ref-count": 38,
+    "ref-list": [
+        "ITRF2014 plate motion model",
+        "Measuring two-dimensional movements using a single inSAR pair",
+        "International reference ionosphere 2016: From ionospheric climate to real-time weather predictions",
+        "Accuracy assessment of water vapour measurements from in situ and remote sensing techniques during the DEMEVAP 2011 campaign at OHP",
+        "Rupture kinematics and coseismic slip model of the 2021 mw 7.3 Maduo (China) earthquake: Implications for the seismic hazard of the Kunlun fault",
+        "TOPSAR: Terrain observation by progressive scans",
+        "Canonical wave grouping as the key to optimal tidal analysis",
+        "A network-based enhanced spectral diversity approach for tops time-series analysis",
+        "InSAR time-series estimation of the ionospheric phase delay: An extension of the split range-spectrum technique",
+        "Global monitoring of ionospheric weather by GIRO and GNSS data fusion",
+        "The extended timing annotation dataset for sentinel-1\u2014Product description and first evaluation results",
+        "In-depth verification of sentinel-1 and TerraSAR-x geolocation accuracy using the Australian corner reflector array",
+        "Toward operational compensation of ionospheric effects in sar interferograms: The split-spectrum method",
+        "Three-dimensional displacement field of the 2015 mw8.3 illapel earthquake (Chile) from across- and along-track sentinel-1 tops interferometry",
+        "New maps of global geological provinces and tectonic plates",
+        "The improvement to high-resolution maps of interseismic strain accumulation from incorporating Sentinel-1 along-track measurements",
+        "Ionospheric propagation effects on GNSS signals and new correction approaches",
+        "A geodetic plate motion and global strain rate model",
+        "LiCSAR: An automatic InSAR tool for measuring and monitoring tectonic and volcanic activity",
+        "Interseismic deformation from sentinel-1 burst-overlap interferometry: Application to the southern dead sea fault",
+        "Ionospheric correction of inSAR time series analysis of c-band sentinel-1 tops data",
+        "LoadDef: A python-based toolkit to model elastic deformation caused by surface mass loading on spherically symmetric bodies",
+        "Copernicus sentinel-1 satellites: Sensitivity of antenna offset estimation to orbit and observation modelling",
+        "Copernicus POD service - orbit reprocessing for Copernicus sentinel-1 satellites",
+        "The 2010 reference edition of the IERS conventions",
+        "The gem global active faults database",
+        "High-resolution surface velocities and strain for Anatolia from sentinel-1 inSAR and GNSS data",
+        "The generic mapping tools version 6",
+        "Toward mapping surface deformation in three dimensions using inSAR",
+        "Interferometric processing of sentinel-1 tops data",
+        "Generic atmospheric correction model for interferometric synthetic aperture radar observations",
+        "Range geolocation accuracy of C-/L-Band SAR and its implications for operational stack coregistration"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Leeds",
+            "@id": "60012070",
+            "affilname": "University of Leeds",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60012070",
+            "affiliation-country": "United Kingdom"
+        }
+    ],
+    "funding": [
+        "Natural Environment Research Council",
+        "British Geological Survey"
+    ]
+}

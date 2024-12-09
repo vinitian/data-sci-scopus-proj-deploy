@@ -1,0 +1,64 @@
+{
+    "eid": "2-s2.0-85166943361",
+    "title": "COMPLETE ANALYSIS OF GLOBAL BEHAVIOR OF CERTAIN SYSTEM OF PIECEWISE LINEAR DIFFERENCE EQUATIONS",
+    "cover-date": "2023-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Analysis",
+            "@code": "2603",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Applied Mathematics",
+            "@code": "2604",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Equilibrium point",
+        "Periodic solution",
+        "System of piecewise linear difference equation"
+    ],
+    "authors": [
+        "Atiratch Laoharenoo",
+        "Ratinan Boonklurb",
+        "Watcharapol Rewlirdsirikul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 17,
+    "ref-list": [
+        "Global and Local Behavior of the System of Piecewise Linear Difference Equations xn+1= |xn| \u2212 yn\u2212 b and yn+1= xn\u2212 |yn| + 1 Where b \u2265 4",
+        "Bifurcations in the Lozi map",
+        "On the global behavior of xn+1= |xn| \u2212 yn\u2212 1 and yn+1= xn+ |yn|",
+        "Prime period 4 solution of certain piecewise linear system of difference equation xn+1= |xn| \u2212 yn\u2212 2 and yn+1= xn\u2212 |yn| + 1 with initial conditions x0= 0 and y0\u2208 (Formula Presented)",
+        "Un attracteur etrange du type attracteur de Henon",
+        "Prime period 4 solution and equilibrium point of the system of difference equation xn+1= |xn|\u2212yn\u22122 and yn+1= xn\u2212|yn|+1 where x0= 0 and 0 < y0< (Formula Presented)",
+        "Periodic solutions of a system of piecewise linear difference equations",
+        "On the global character of the system of piecewise linear difference equations xn+1= |xn| \u2212 yn\u2212 1 and yn+1= xn\u2212 |yn|",
+        "Periodic solutions of a generalized system of piecewise linear difference equations",
+        "The stable equilibrium of a system of piecewise linear difference equations",
+        "A necessary condition for eventually equilibrium or periodic to a system of difference equations",
+        "Equilibrium Point and Prime Period 4 in Certain Piecewise Linear System of Difference Equation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Rayong",
+            "@id": "60272485",
+            "affilname": "Kamnoetvidya Science Academy",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60272485",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Kamnoetvidya Science Academy"
+    ]
+}

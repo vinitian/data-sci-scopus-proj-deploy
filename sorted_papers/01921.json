@@ -1,0 +1,112 @@
+{
+    "eid": "2-s2.0-85168855206",
+    "title": "Simulation-Based Headway Optimization for the Bangkok Airport Railway System under Uncertainty",
+    "cover-date": "2023-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Control and Systems Engineering",
+            "@code": "2207",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "particle swarm optimization",
+        "railway system",
+        "simulation-based model",
+        "timetable scheduling",
+        "uncertainty"
+    ],
+    "authors": [
+        "Pruk Sasithong",
+        "Amir Parnianifard",
+        "Nitinun Sinpan",
+        "Suvit Poomrittigul",
+        "Muhammad Saadi",
+        "Lunchakorn Wuttisittikulkij"
+    ],
+    "citedby-count": 0,
+    "ref-count": 32,
+    "ref-list": [
+        "A cooperative scheduling model for timetable optimization in subway systems",
+        "Light-field imaging reconstruction using deep learning enabling intelligent autonomous transportation system",
+        "IoT enabled quality of experience measurement for next generation networks in smart cities",
+        "Nominal and robust train timetabling problems",
+        "Robust, resilient and reliable architecture for v2x communications",
+        "Light field image quality enhancement by a lightweight deformable deep learning framework for intelligent transportation systems",
+        "Models for railway timetable optimization: Applicability and applications in practice",
+        "Multimodal multi-objective optimization: Comparative study of the state-of-the-art",
+        "A novel deep deterministic policy gradient model applied to intelligent transportation system security problems in 5G and 6G network scenarios",
+        "Train headway adjustment using potential function based on multi-agent formation control",
+        "Positive train control with dynamic headway based on an active communication system",
+        "Operational Challenges of the Bangkok Airport Rail Link",
+        "Kriging-Assisted Robust Black-Box Simulation Optimization in Direct Speed Control of DC Motor Under Uncertainty",
+        "Hybrid artificial intelligence and robust optimization for a multi-objective product portfolio problem Case study: The dairy products industry",
+        "Robust optimization\u2014A comprehensive survey",
+        "Particle Swarm Optimization: A Comprehensive Survey",
+        "PSO-Based Initial SOC and Capacity Optimization for Stationary Energy Storage Systems in DC Electric Railway System",
+        "Integrated timetable optimization for minimum total energy consumption of an AC railway system",
+        "Optimization of online timetable re-scheduling in high-speed train services based on PSO",
+        "Train service timetabling in railway open markets by particle swarm optimisation",
+        "A New Approach for Low-Dimensional Constrained Engineering Design Optimization Using Design and Analysis of Simulation Experiments",
+        "Computation resource allocation and task assignment optimization in vehicular fog computing: A contract-matching approach",
+        "Comprehensive optimization of a metro timetable considering passenger waiting time and energy efficiency",
+        "A multiple train trajectory optimization to minimize energy consumption and delay",
+        "Optimal train schedule with headway and passenger flow dynamic models",
+        "Modelling and optimization of average travel time for a metro line by simulation and response surface methodology",
+        "Optimization of train headway in moving block based on a particle swarm optimization algorithm",
+        "Approaches to a real-world train timetabling problem in a railway node",
+        "A stochastic model for the integrated optimization on metro timetable and speed profile with uncertain train mass",
+        "Optimization of urban single-line metro timetable for total passenger travel time under dynamic passenger demand"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Lahore",
+            "@id": "60103839",
+            "affilname": "University of Central Punjab",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60103839",
+            "affiliation-country": "Pakistan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ladkrabang Bangkok",
+            "@id": "60021543",
+            "affilname": "King Mongkut's Institute of Technology Ladkrabang",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021543",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "KMITL Research and Innovation Service"
+    ]
+}

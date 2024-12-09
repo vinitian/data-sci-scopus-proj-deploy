@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85100721630",
+    "title": "VHDL Implementation of ARM Cortex-M0 Laboratory for Graduate Engineering Students",
+    "cover-date": "2020-11-04",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (miscellaneous)",
+            "@code": "2201",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mathematics (miscellaneous)",
+            "@code": "2601",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Education",
+            "@code": "3304",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [
+        "ARM Cortex-M0",
+        "Field Programmable Gate Array",
+        "Laboratory Design",
+        "Microprocessor",
+        "VHDL"
+    ],
+    "authors": [
+        "Ehsan Ali",
+        "Wanchalerm Pora"
+    ],
+    "citedby-count": 1,
+    "ref-count": 22,
+    "ref-list": [
+        "Synthesis and physical design of dlx risc processor",
+        "On computable numbers, with an application to the entscheidungsproblem",
+        "Designing the microprocessor with abel-hdl",
+        "Multicore risc processor implementation by vhdl for educational purposes",
+        "Arm cortex-m programming guide to memory barrier instructions application note"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60023402",
+            "affilname": "Assumption University, Bangkok",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023402",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

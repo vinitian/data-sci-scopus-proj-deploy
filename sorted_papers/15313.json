@@ -1,0 +1,79 @@
+{
+    "eid": "2-s2.0-85119375244",
+    "title": "A modification of newton\u2013raphson power flow for using in LV distribution system",
+    "cover-date": "2021-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Fuel Technology",
+            "@code": "2103",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy (miscellaneous)",
+            "@code": "2101",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Branch model",
+        "Distribution system",
+        "Newton\u2013Raphson method",
+        "Unbalanced"
+    ],
+    "authors": [
+        "Anuwat Chanhome",
+        "Surachai Chaitusaney"
+    ],
+    "citedby-count": 0,
+    "ref-count": 18,
+    "ref-list": [
+        "On the Numerical Analysis Based on Successive Approximations for Power Flow Problems in AC Distribution Systems",
+        "A Comprehensive Load Flow Approach for Grid-connected and Islanded AC Microgrids",
+        "An Improved Hybrid Load Flow Calculation Algorithm for Weakly-meshed Power Distribution System",
+        "Power Flow in Four-wire Distribution Networks\u2014General Approach",
+        "Development of 3-phase Unbalanced Power Flow Using Local Control of Connected PV Systems",
+        "Matrix-based Generalization for Power-mismatch Newton-Raphson Load Flow Computations with Arbitrary Number of Phases",
+        "Linear Three-phase Power Flow for Unbalanced Active Distribution Networks with PV Nodes",
+        "A Study of Neutral Conductors and Grounding Impacts on the Load-flow Solutions of Unbalanced Distribution Systems",
+        "Newton Power Flow Methods for Unbalanced Three-phase Distribution Networks",
+        "Further Developments in Newton\u2019s Method for Power System Applications",
+        "DC-link Voltages Balance Method for Single-phase NPC Inverter Operating with Reactive Power Compensation",
+        "Robust Control of an Autonomous Four Wire Electronically-coupled Distributed Generation Unit"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "eid": "2-s2.0-85078703416",
+    "title": "A Low Voltage CMOS Current Comparator with Offset Compensation",
+    "cover-date": "2019-11-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electronic, Optical and Magnetic Materials",
+            "@code": "2504",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "current comparator",
+        "frequency compensation",
+        "input offset current",
+        "offset current compensation",
+        "variation model"
+    ],
+    "authors": [
+        "Pusit Suriyavejwongs",
+        "Ekachai Leelarasmee",
+        "Wanchalerm Pora"
+    ],
+    "citedby-count": 2,
+    "ref-count": 10,
+    "ref-list": [
+        "Novel approach to high speed CMOS current comparators",
+        "High-performance CMOS current comparator",
+        "A robust high-speed and low-power CMOS current comparator circuit",
+        "High performance CMOS current comparator using resistive feedback network",
+        "A high speed low input current low voltage CMOS current comparator",
+        "A high-speed current conveyor based current comparator",
+        "Inverting amplifier based ultra low power low offset current comparator",
+        "A 0.5mA offset-free current comparator for high precision current-mode signal processing",
+        "High Performance CMOS Current Comparator Design",
+        "Device Mismatch and Tradeoffs in the Design of Analog Circuits"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "114428842",
+            "affilname": "Silicon Craft Technology PLC",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/114428842",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

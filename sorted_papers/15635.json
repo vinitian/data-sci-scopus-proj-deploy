@@ -1,0 +1,86 @@
+{
+    "eid": "2-s2.0-85113984814",
+    "title": "3D Simulation for Train Motion of Bangkok Transit System",
+    "cover-date": "2021-06-27",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "3D Train Model",
+        "Bangkok",
+        "BTS",
+        "Train Simulator"
+    ],
+    "authors": [
+        "Nitinun Sinpan",
+        "Pruk Sasithong",
+        "Chonlakorn Penpinun",
+        "Suebphong Noisri",
+        "Noel Passmore",
+        "Sushank Chaudhary",
+        "Pisit Vanichchanunt",
+        "Lunchakorn Wuttisittikulkii",
+        "Suvit Poomrittigul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 14,
+    "ref-list": [
+        "Operational challenges of the Bangkok airport rail link",
+        "A new operations approach for Bangkok metro green line using short turn operation patterns",
+        "An efficient proposed yangon railway system simulation module",
+        "The simulation of queuing model for Bangkok rapid transit train ticket system using python",
+        "Method for validating the train motion equations used for passenger rail vehicle simulation"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "106606986",
+            "affilname": "Pathumwan Institute of Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/106606986",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Bangkok Mass Transit System Public Company Limited",
+        "Mass Rapid Transit Authority of Thailand",
+        "Second Century Fund",
+        "TSRI Fund",
+        "Chulalongkorn University"
+    ]
+}

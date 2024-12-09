@@ -1,0 +1,70 @@
+{
+    "eid": "2-s2.0-85086259722",
+    "title": "Consensus synthesis of robust cooperative control for homogeneous leader-follower multi-agent systems subject to parametric uncertainty",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Cooperative LQR",
+        "Multi-agent systems",
+        "Parametric uncertainty",
+        "Robust consensus control"
+    ],
+    "authors": [
+        "Tuynh Van Pham",
+        "Dinh Hoa Nguyen",
+        "David Banjerdpongchai"
+    ],
+    "citedby-count": 1,
+    "ref-count": 22,
+    "ref-list": [
+        "Hierarchical decentralized stabilization for networked dynamical systems by LQR selective pole shift",
+        "A sub-optimal consensus design for multi-agent systems based on hierarchical LQR",
+        "Hierarchical consensus for multi-agent systems with low-rank intercon-nection",
+        "Eigenvector-based intergroup connection of low rank for hierarchical multi-agent dynamical systems",
+        "Hierarchical network synthesis for output consensus by eigenvector-based interlayer connec-tions",
+        "An alge-braic approach to hierarchical LQR synthesis for large-scale dynamical systems",
+        "Performance-oriented communi-cation topology design for distributed control of interconnected systems",
+        "Hierarchical decentralized controller synthesis for heterogeneous multi-agent dynamical systems by LQR",
+        "Hier-archically Decentralized Control for Networked Dynamical Systems with Global and Local Objectives",
+        "Hi-erarchically decentralized control for in-wheel-motored electric vehicles with global and local ob-jectives",
+        "Vehicle stability enhancement through hierarchical control for a four-wheel-independently-actuated electric vehicle",
+        "Robust consensus analysis and design under rela-tive state constraints or uncertainties",
+        "Leader-follower consensus for multi-agent systems with three-layer network framework and dynamic interaction jointly connected topol-ogy",
+        "Globally optimal distributed cooperative control for general linear multi-agent systems",
+        "Consensus controllability, observability and robust design for leader-following linear multi-agent systems",
+        "Leader-following consensus of multiple linear systems under switching topologies: An averaging method",
+        "Minimum-rank dynamic output consensus design for heterogeneous nonlinear multi-agent systems",
+        "Robust observer-based control of systems with state perturbations via LMI approach",
+        "Leader-following consensus of multi-agent systems under fixed and switching topologies",
+        "Linear Matrix Inequalities in System and Control Theory"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Fukuoka",
+            "@id": "60011047",
+            "affilname": "Kyushu University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011047",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Institute of Mathematics for Industry, Kyushu University",
+        "Chulalongkorn University",
+        "JICA",
+        "International Institute for Carbon-Neutral Energy Research"
+    ]
+}

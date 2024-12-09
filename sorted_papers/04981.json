@@ -1,0 +1,97 @@
+{
+    "eid": "2-s2.0-85103535376",
+    "title": "Anticipation of Historical Exercise Patterns by a Novel Artificial Pancreas System Reduces Hypoglycemia during and after Moderate-Intensity Physical Activity in People with Type 1 Diabetes",
+    "cover-date": "2021-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Endocrinology, Diabetes and Metabolism",
+            "@code": "2712",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Endocrinology",
+            "@code": "1310",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Medical Laboratory Technology",
+            "@code": "3607",
+            "@abbrev": "HEAL"
+        }
+    ],
+    "keywords": [
+        "Artificial pancreas",
+        "Closed-loop system",
+        "Disturbance anticipation",
+        "Moderate-intensity exercise"
+    ],
+    "authors": [
+        "Jose Garcia-Tirado",
+        "Sue A. Brown",
+        "Nitchakarn Laichuthai",
+        "Patricio Colmegna",
+        "Chaitanya L.K. Koravi",
+        "Basak Ozaslan",
+        "John P. Corbett",
+        "Charlotte L. Barnett",
+        "Michael Pajewski",
+        "Mary C. Oliveri",
+        "Helen Myers",
+        "Marc D. Breton"
+    ],
+    "citedby-count": 18,
+    "ref-count": 29,
+    "ref-list": [
+        "Physical activity/exercise and diabetes: a position statement of the American Diabetes Association",
+        "Exercise management in type 1 diabetes: a consensus statement",
+        "Insulin-based strategies to prevent hypoglycaemia during and after exercise in adult patients with type 1 diabetes on pump therapy: the DIA-BRASPORT randomized study",
+        "Closed-loop artificial pancreas systems: engineering the algorithms",
+        "Safety of a hybrid closed-loop insulin delivery system in patients with type 1 diabetes",
+        "Six-month randomized, multicenter trial of closed-loop control in type 1 diabetes",
+        "Closed-loop control during intense prolonged outdoor exercise in adolescents with type 1 diabetes: the Artificial Pancreas Ski Study",
+        "Randomized trial of a dual-hormone artificial pancreas with dosing adjustment during exercise compared with no adjustment and sensor-augmented pump therapy",
+        "Exercise and the development of the artificial pancreas: one of the more difficult series of hurdles",
+        "Improved open-loop glucose control with basal insulin reduction 90 minutes before aerobic exercise in patients with type 1 diabetes on continuous subcutaneous insulin infusion",
+        "Feasibility of outpatient fully integrated closed-loop control: first studies of wearable artificial pancreas",
+        "The Diabetes Assistant: a smartphone-based system for real-time control of blood glucose",
+        "DiAs web monitoring: a real-time remote monitoring system designed for artificial pancreas outpatient trials",
+        "Impact of daily physical activity as measured by commonly available wearables on meal time glucose control in type 1 diabetes",
+        "In silico analysis of an exercise-safe artificial pancreas with multistage model predictive control and insulin safety system",
+        "Iden-tifiability analysis of three control-oriented models for use in artificial pancreas systems",
+        "Hy-poglycemia prevention via pump attenuation and red-yellow-green \"traffic\" lights using continuous glucose monitoring and insulin pump data",
+        "Anticipating meals with behavioral profiles in an artificial pancreas system-an informed multistage model predictive control approach",
+        "Ensemble Model Predictive Control Strategies Can Reduce Exercise Hypoglycemia in Type 1 Diabetes: In Silico Studies",
+        "Glucose requirements to maintain euglycemia after moderate-intensity afternoon exercise in adolescents with type 1 diabetes are increased in a biphasic manner",
+        "Metrics for glycaemic control-from HbA 1c to continuous glucose monitoring",
+        "International consensus on use of continuous glucose monitoring",
+        "Controlling the AP controller: controller performance assessment and modification",
+        "Performance of omnipod personalized model predictive control algorithm with moderate intensity exercise in adults with type 1 diabetes",
+        "Reduced hypogly-cemia and increased time in target using closed-loop insulin delivery during nightswith or without antecedent afternoon exercise in type 1 diabetes",
+        "Adding heart rate signal to a control-to-range artificial pancreas system improves the protection against hypoglycemia during exercise in type 1 diabetes",
+        "Mitigating reductions in glucose during exercise on closed-loop insulin delivery: the Ex-Snacks study",
+        "Outpatient closed-loop control with unannounced moderate exercise in adolescents using zone model predictive control",
+        "Closed loop control in adolescents and children during winter sports: use of the Tandem Control-IQ AP system"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Charlottesville",
+            "@id": "60030846",
+            "affilname": "University of Virginia School of Medicine",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030846",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "National Institutes of Health"
+    ]
+}

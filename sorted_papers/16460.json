@@ -1,0 +1,67 @@
+{
+    "eid": "2-s2.0-85121999217",
+    "title": "GNSS time and frequency transfers through national positioning, navigation and timing infrastructure",
+    "cover-date": "2022-04-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (miscellaneous)",
+            "@code": "2201",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Earth and Planetary Sciences (miscellaneous)",
+            "@code": "1901",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [
+        "common-view",
+        "GNSS time and frequency transfer"
+    ],
+    "authors": [
+        "Thayathip Thongtan",
+        "Sivinee Sawatdiaree",
+        "Chalermchon Satirapod"
+    ],
+    "citedby-count": 3,
+    "ref-count": 25,
+    "ref-list": [
+        "Unification of GNSS CORS coordinates in Thailand",
+        "GPS precise point positioning software for ground control point establishment in remote sensing applications",
+        "Modelling post-seismic displacements in Thai geodetic network due to the Sumatra-Andaman and Nias earthquakes using GPS observations",
+        "Quantifying Deformation in North Borneo with GPS",
+        "Mean atmospheric temperature model estimation for GNSS meteorology Using AIRS and AMSU data",
+        "Analysis of PWV derived from the GNSS CORS stations for determining the onset of the southwest monsoon in Thailand",
+        "Improving the accuracy of real-time precipitable water vapour using country-wide meteorological model with precise point positioning in Thailand",
+        "Variations of precipitable water vapor using GNSS CORS in Thailand",
+        "Performance of Network-Based RTK GNSS for the Cadastral Survey in Thailand",
+        "Estimations of GNSS receiver internal delay using precise point positioning algorithm",
+        "Precise receiver clock offset estimations according to each Global Navigation Satellite Systems (GNSS) timescales",
+        "Accuracy assessment of integrated GNSS measurements with LIDAR mobile mapping data in urban environments"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "113295996",
+            "affilname": "National Institute of Metrology (Thailand)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/113295996",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": []
+}

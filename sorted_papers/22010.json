@@ -1,0 +1,87 @@
+{
+    "eid": "2-s2.0-85119320105",
+    "title": "Cascading models of cnn and gru with autoencoder loss for precipitation forecast in Thailand",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Autoencoder",
+        "CNN",
+        "Deep Learning",
+        "GRU",
+        "Precipitation Prediction"
+    ],
+    "authors": [
+        "Fuenglada Manokij",
+        "Kanoksri Sarinnapakorn",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 1,
+    "ref-count": 26,
+    "ref-list": [
+        "Development simulation of an unseasonal heavy rainfall event over southern Thailand by WRFROMS coupling model",
+        "Forecasting daily meteorological time series using ARIMA and regression models",
+        "Application of seasonal time series model in the precipitation forecast",
+        "Structured recurrent temporal restricted Boltzmann machines",
+        "An extensive evaluation of seven machine learning methods for rainfall prediction in weather derivatives",
+        "An artificial neural network model for rainfall forecasting in Bangkok, Thailand",
+        "Deep neural network-based feature representation for weather forecasting",
+        "Daily rainfall forecast model from satellite image using convolution neural network",
+        "Convolutional neural network inception-v3: a machine learning approach for leveling short-range rainfall forecast model from satellite image",
+        "Rainfall prediction: A deep learning approach",
+        "A short-term rainfall prediction model using multi-task convolutional neural networks",
+        "Forecasting Thailand\u2019s Precipitation with Cascading Model of CNN and GRU",
+        "Relationships between meteorological parameters and particulate matter in Mae Hong Son province, Thailand",
+        "IoT Based Weather Monitoring System for Effective Analytics",
+        "Outlier Detection for Time Series with Recurrent Autoencoder Ensembles",
+        "Learning discriminative reconstructions for unsupervised outlier removal",
+        "Gradient-based learning applied to document recognition",
+        "Focal loss for dense object detection",
+        "Deep convolutional neural network based regression approach for estimation of remaining useful life",
+        "Dropout: a simple way to prevent neural networks from overfitting"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60001884",
+            "affilname": "Ministry of Higher Education, Science, Research and Innovation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001884",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Hydro-Informatics Institute",
+        "Ministry of Higher Education, Science, Research and Innovation, Thailand"
+    ]
+}

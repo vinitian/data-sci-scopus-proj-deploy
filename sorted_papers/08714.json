@@ -1,0 +1,243 @@
+{
+    "eid": "2-s2.0-85153480360",
+    "title": "A 30-Year Worldwide Research Productivity of Scientific Publication in Full-Endoscopic Decompression Spine Surgery: Quantitative and Qualitative Analysis",
+    "cover-date": "2023-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Surgery",
+            "@code": "2746",
+            "@abbrev": "MEDI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Neurology (clinical)",
+            "@code": "2728",
+            "@abbrev": "MEDI"
+        }
+    ],
+    "keywords": [
+        "bibliometric analysis",
+        "citation analysis",
+        "CiteSpace",
+        "spine",
+        "spine surgery",
+        "VOSviewer"
+    ],
+    "authors": [
+        "Yanting Liu",
+        "Vit Kotheeranurak",
+        "Javier Quillo-Olvera",
+        "Van Isseldyk Facundo",
+        "Sagar Sharma",
+        "Siravich Suvithayasiri",
+        "Khanathip Jitpakdee",
+        "Guang Xun Lin",
+        "Akaworn Mahatthanatrakul",
+        "Hussam Jabri",
+        "Ashwinkumar Vasant Khandge",
+        "Rajendra B. Aher",
+        "Meng Huang Wu",
+        "Angela Wing Hang Ho",
+        "Nang Man Raymond Wong",
+        "Lau Sun Wing",
+        "Kutbuddin Akbary",
+        "Kandarpkumar K. Patel",
+        "Boonserm Pakdeenit",
+        "Kuo Tai Chen",
+        "Yadhu K. Lokanath",
+        "Milin S. Jaiswal",
+        "Tsz King Suen",
+        "Ghazwan A. Hasan",
+        "Luigi Andrew Sabal",
+        "Jin Sung Kim"
+    ],
+    "citedby-count": 4,
+    "ref-count": 18,
+    "ref-list": [
+        "SARS-CoV-2 and the pandemic of COVID-19",
+        "Surgical outcomes for minimally invasive vs open transforaminal lumbar interbody fu-sion: an updated systematic review and meta-analysis",
+        "The bibliometric analysis of scholar-ly production: how great is the impact?",
+        "The PRISMA 2020 statement: an updated guideline for reporting systematic re-views",
+        "AOSpine consensus pa-per on nomenclature for working-channel endoscopic spinal procedures",
+        "The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies",
+        "bibliometrix: an R-tool for comprehensive science mapping analysis",
+        "CiteSpace II: detecting and visualizing emerging trends and transient patterns in scientific literature",
+        "Software survey: VOSviewer, a computer program for bibliometric mapping",
+        "Searching for intellectual turning points: progres-sive knowledge domain visualization",
+        "Bradford\u2019s law and the bibliography of science",
+        "Patterns of connections and move-ments in dual-map overlays: a new method of publication portfolio analysis",
+        "Prevalence of spine degeneration diagnosis by type, age, gender, and obesity using Medicare data",
+        "Full-endoscopic versus micro-endoscopic and open discectomy: a systematic review and meta-analysis of outcomes and complications",
+        "Percutaneous endoscopic lumbar discectomy for L5\u2013S1 disc herniation via an interlami-nar approach versus a transforaminal approach: a prospective randomized controlled study with 2-year follow up",
+        "Full-endoscopic inter-laminar and transforaminal lumbar discectomy versus conventional microsurgical technique: a prospective, random- ized, controlled study",
+        "Learning curve of full-en-doscopic lumbar discectomy"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Seoul",
+            "@id": "60276990",
+            "affilname": "The Catholic University of Korea Seoul St. Mary's Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60276990",
+            "affiliation-country": "South Korea"
+        },
+        {
+            "affiliation-city": "Amman",
+            "@id": "60196713",
+            "affilname": "AlKindy Teaching Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60196713",
+            "affiliation-country": "Jordan"
+        },
+        {
+            "affiliation-city": "Pune",
+            "@id": "60194976",
+            "affilname": "KEM Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60194976",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Xiamen",
+            "@id": "60122372",
+            "affilname": "The First Affiliated Hospital of Xiamen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60122372",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Pune",
+            "@id": "60104927",
+            "affilname": "Dr. D. Y. Patil Medical College, Hospital &amp; Research Centre, Dr. D. Y. Patil Vidyapeeth, Pune",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60104927",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Taipei",
+            "@id": "60031913",
+            "affilname": "Chang Gung Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031913",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60031780",
+            "affilname": "Thai Red Cross Agency",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031780",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pitsanulok",
+            "@id": "60022498",
+            "affilname": "Naresuan University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022498",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022464",
+            "affilname": "Chulabhorn Royal Academy",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022464",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022183",
+            "affilname": "King Chulalongkorn Memorial Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022183",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "60021808",
+            "affilname": "Caritas Medical Centre Hong Kong",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021808",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Ahmedabad",
+            "@id": "60017278",
+            "affilname": "Smt. N.H.L. Municipal Medical College",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017278",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Chonburi",
+            "@id": "60009116",
+            "affilname": "Burapha University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009116",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "60002469",
+            "affilname": "United Christian Hospital Hong Kong",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002469",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Taipei",
+            "@id": "60002350",
+            "affilname": "Taipei Medical University Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002350",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Satara",
+            "@id": "129537039",
+            "affilname": "Yashwant Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129537039",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "129536672",
+            "affilname": "Private Orthopaedic Centre",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129536672",
+            "affiliation-country": "Hong Kong"
+        },
+        {
+            "affiliation-city": "Riyadh",
+            "@id": "128659550",
+            "affilname": "Prince Sultan Military Medical City",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/128659550",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Bengaluru",
+            "@id": "123155151",
+            "affilname": "Aster RV Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/123155151",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Rosario",
+            "@id": "120428485",
+            "affilname": "Hospital Privado de Rosario",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/120428485",
+            "affiliation-country": "Argentina"
+        },
+        {
+            "affiliation-city": "Queretaro",
+            "@id": "117986824",
+            "affilname": "Hospital H+ Quer\u00e9taro",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/117986824",
+            "affiliation-country": "Mexico"
+        },
+        {
+            "affiliation-city": "New Delhi",
+            "@id": "112979512",
+            "affilname": "PSRI Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/112979512",
+            "affiliation-country": "India"
+        },
+        {
+            "affiliation-city": "Hong Kong",
+            "@id": "101938986",
+            "affilname": "Hong Kong Baptist Hospital",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/101938986",
+            "affiliation-country": "Hong Kong"
+        }
+    ],
+    "funding": [
+        "Ministry of Health & Welfare, Republic of Korea",
+        "Korea Health Industry Development Institute"
+    ]
+}

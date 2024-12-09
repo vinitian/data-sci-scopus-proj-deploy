@@ -1,0 +1,72 @@
+{
+    "eid": "2-s2.0-85112838235",
+    "title": "Determination of load security region using SOCP hierarchy",
+    "cover-date": "2021-05-19",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "AC optimal power flow",
+        "Continuation method",
+        "Feasible region",
+        "Second-order cone programming",
+        "Tracing method"
+    ],
+    "authors": [
+        "Pongsakorn Sukheeboon",
+        "Sotdhipong Phichaisawat",
+        "Patchrapa Wongchai"
+    ],
+    "citedby-count": 0,
+    "ref-count": 8,
+    "ref-list": [
+        "Alternative lp and socp hierarchies for acopf problems",
+        "Total transfer capability calculation using modified repeated power flow method",
+        "An optimal power flow formulation with socp relaxation in radial network",
+        "Optimal power flow as a polynomial optimization problem",
+        "Exploring the power flow solution space boundary"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

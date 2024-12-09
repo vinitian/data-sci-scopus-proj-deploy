@@ -1,0 +1,63 @@
+{
+    "eid": "2-s2.0-85147514573",
+    "title": "Scheduling method for aggregated photovoltaic-battery systems considering information notified by distribution system operator",
+    "cover-date": "2023-03-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "aggregator",
+        "battery energy storage system (BESS)",
+        "distribution system",
+        "distribution system operator (DSO)",
+        "photovoltaic (PV) power generation"
+    ],
+    "authors": [
+        "Fumiya Hyodo",
+        "Yuki Sato",
+        "Taisuke Masuta",
+        "Thavatchai Tayjasanant"
+    ],
+    "citedby-count": 0,
+    "ref-count": 23,
+    "ref-list": [
+        "Coordinated operation of a battery energy storage system and thermal generators for supply-demand balance maintenance and efficient use of photovoltaic energy",
+        "Simultaneous Operation Scheduling of Generators and Battery Energy Storage System based on Actual and Forecasted Photovoltaic Power Outputs",
+        "A consensus-based cooperative control of PEV battery and PV active power curtailment for voltage regulation in distribution networks",
+        "Maximizing the profit of a load aggregator by optimal scheduling of day ahead load with EVs",
+        "Aggregator operation in the balancing market through network-constrained transactive energy",
+        "Optimal scheduling and operation of load aggregators with electric energy storage facing price and demand uncertainties",
+        "Optimal charging/discharging control for electric vehicles considering power system constraints and operation costs",
+        "Evolutionary algorithms for energy scheduling under uncertainty considering multiple aggregators",
+        "Coordinated photovoltaic and battery control using OPF in distribution system for supply \u2013 demand balance maintenance of bulk power system",
+        "Evaluation of schedule and operation for aggregators with photovoltaic-battery systems considering distribution network constraints"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nagoya",
+            "@id": "60027762",
+            "affilname": "Meijo University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027762",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": []
+}

@@ -1,0 +1,131 @@
+{
+    "eid": "2-s2.0-85079743365",
+    "title": "CAG : Stylometric Authorship Attribution of Multi-Author Documents Using a Co-Authorship Graph",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "authorship identification",
+        "co-authorship graph",
+        "multi-author documents",
+        "scientometrics",
+        "Set similarity search",
+        "stylometry"
+    ],
+    "authors": [
+        "Raheem Sarwar",
+        "Norawit Urailertprasert",
+        "Nattapol Vannaboot",
+        "Chenyun Yu",
+        "Thanawin Rakthanmanon",
+        "Ekapol Chuangsuwanich",
+        "Sarana Nutanong"
+    ],
+    "citedby-count": 16,
+    "ref-count": 58,
+    "ref-list": [
+        "StyloThai: A scalable framework for stylometric authorship identification of Thai documents",
+        "Ascalable framework for stylometric analysis query processing",
+        "A scalable framework for cross-lingual authorship identification",
+        "An effective and scalable framework for authorship attribution query processing",
+        "A visualizable evidencedriven approach for authorship attribution",
+        "Authorship attribution based on specific vocabulary",
+        "The key factors and their infiuence in authorship attribution",
+        "Authorship attribution for social media forensics",
+        "Stylometric authorship attribution of collaborative documents",
+        "Incorporating topic information in a global feature selection schema for authorship attribution",
+        "An empirical study on forensic analysis of Urdu text using LDA-based authorship attribution",
+        "A scalable framework for stylometric analysis of multi-author documents",
+        "Syntax encoding with application in authorship attribution",
+        "Author identification from citations",
+        "The myth of the double-blind review: Author identi _cation using only citations",
+        "What you submit is who you are: A multimodal approach for deanonymizing scientific publications",
+        "On the robustness of authorship attribution based on character n-Gram features",
+        "N-gram-based author profiles for authorship attribution",
+        "Ensemble-based author identification using character ngrams",
+        "A survey of modern authorship attribution methods",
+        "Augmenting naive Bayes classi _ers with statistical language models",
+        "Language independent authorship attribution using character level language models",
+        "Astroturfing detection in social media: Using binary n-Gram analysis for authorship attribution",
+        "Words versus character n-grams for anti-spam filtering",
+        "Variable length character n-Gram approach for online writeprint identification",
+        "Authorship attribution in fan-_ctional texts given variable length character and word n-grams",
+        "Languages are still a major barrier to global science",
+        "Learning stylometric representations for authorship analysis",
+        "Multi-task learning for author profiling with hierarchical features",
+        "Mining e-mail content for author identification forensics",
+        "Large-scale author verification: Temporal and topical infiuences",
+        "Quantitative authorship attribution: An evaluation of techniques",
+        "From fingerprint to writeprint",
+        "Inference and disputed authorship: The Federalist",
+        "Empirical evaluations of language-based author identi _cation techniques",
+        "Writeprints: A stylometric approach to identitylevel identification and similarity detection in cyberspace",
+        "Tapping into intra-and international collaborations of the Organization of Islamic Cooperation states across science and technology disciplines",
+        "Learning multi-label scene classification",
+        "Predicting literature's early impact with sentiment analysis in Twitter",
+        "Toward identifying features for automatic gender detection: A corpus creation and analysis",
+        "Gender classification from NIR images by using quadrature encoding filters of the most relevant features",
+        "A kernel method for multi-labelled classification",
+        "Multi-label classification: An overview",
+        "Classifier chains for multi-label classification",
+        "An approach for multi-label classification by directed acyclic graph with label correlation maximization",
+        "Leveraging label-specific discriminant mapping features for multi-label learning",
+        "Amodified Hausdorff distance for object matching",
+        "Comparing images using the Hausdorff distance",
+        "A probabilistic nearest neighbour method for statistical pattern recognition",
+        "Use fewer instances of the letter \u00ec': Toward writing style anonymization",
+        "ML-KNN: A lazy learning approach to multi-label learning",
+        "Major trends in knowledge management research: A bibliometric study",
+        "Bibliometrics study on authorship trends in periodontal literature from 1995 to 2010",
+        "A bibliometric perspective on technology-driven innovation in the gulf cooperation council (GCC) countries in relation to its transformative impact on international business",
+        "A bibliometric assessment of scientific productivity and international collaboration of the Islamic World in science and technology (S&T) areas",
+        "Multilingual native language identification",
+        "Building a treebank for French"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Rayong",
+            "@id": "60110787",
+            "affilname": "Vidyasirimedhi Institute of Science and Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60110787",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Singapore City",
+            "@id": "60017161",
+            "affilname": "National University of Singapore",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017161",
+            "affiliation-country": "Singapore"
+        }
+    ],
+    "funding": [
+        "Digital Economy Promotion Agency",
+        "Office of the Higher Education Commission",
+        "Thailand Research Fund"
+    ]
+}

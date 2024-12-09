@@ -1,0 +1,103 @@
+{
+    "eid": "2-s2.0-85103783559",
+    "title": "Locating Shunt Currents in a Multistack System of All-Vanadium Redox Flow Batteries",
+    "cover-date": "2021-03-29",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Chemistry (all)",
+            "@code": "1600",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Environmental Chemistry",
+            "@code": "2304",
+            "@abbrev": "ENVI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Chemical Engineering (all)",
+            "@code": "1500",
+            "@abbrev": "CENG"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        }
+    ],
+    "keywords": [
+        "All-vanadium redox flow battery",
+        "Multistack",
+        "Piping system",
+        "Shunt current",
+        "System efficiency"
+    ],
+    "authors": [
+        "Han Wen Chou",
+        "Feng Zhi Chang",
+        "Hwa Jou Wei",
+        "Bhupendra Singh",
+        "Amornchai Arpornwichanop",
+        "Prathak Jienkulsawad",
+        "Yi Sin Chou",
+        "Yong Song Chen"
+    ],
+    "citedby-count": 6,
+    "ref-count": 22,
+    "ref-list": [
+        "A comparative overview of large-scale battery systems for electricity storage",
+        "The vanadium redox-battery: An efficient storage unit for photovoltaic systems",
+        "Recent advances with UNSW vanadium-based redox flow batteries",
+        "A review of energy storage technologies for wind power applications",
+        "Development of integrally molded bipolar plates for all-vanadium redox flow batteries",
+        "The mechanism and modelling of shunt current in the vanadium redox flow battery",
+        "Thermal hydraulic behavior and efficiency analysis of an all-vanadium redox flow battery",
+        "Studies on pressure losses and flow rate optimization in vanadium redox flow battery",
+        "A technique for calculating shunt leakage and cell currents in bipolar stacks having divided or undivided cells",
+        "Shunt current loss of the vanadium redox flow battery",
+        "An alternative low-loss stack topology for vanadium redox flow battery: Comparative assessment",
+        "Standby thermal model of a vanadium redox flow battery stack with crossover and shunt-current effects",
+        "Investigation of the effect of shunt current on battery efficiency and stack temperature in vanadium redox flow battery",
+        "Shunt currents in vanadium flow batteries: Measurement, modelling and implications for efficiency",
+        "Numerical and experimental studies of stack shunt current for vanadium redox flow battery",
+        "A multi-stack simulation of shunt currents in vanadium redox flow batteries",
+        "Model based examination on influence of stack series connection and pipe diameters on efficiency of vanadium redox flow batteries under consideration of shunt currents",
+        "Design trade-offs among shunt current, pumping loss and compactness in the piping system of a multi-stack vanadium flow battery",
+        "Numerical modelling and in-depth analysis of multi-stack vanadium flow battery module incorporating transport delay",
+        "Practical and commercial issues in the design and manufacture of vanadium flow batteries",
+        "Investigations of high voltage vanadium-metal hydride flow battery toward kWh scale storage with 100 cm2electrodes",
+        "Modeling the effect of shunt current on the charge transfer efficiency of an all-vanadium redox flow battery"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "New Taipei City",
+            "@id": "60095336",
+            "affilname": "Atomic Energy Council, Taiwan",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60095336",
+            "affiliation-country": "Taiwan"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Min-Hsiung",
+            "@id": "60007954",
+            "affilname": "National Chung Cheng University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007954",
+            "affiliation-country": "Taiwan"
+        }
+    ],
+    "funding": [
+        "Advanced Institute of Manufacturing with High-tech Innovations",
+        "Ministry of Education",
+        "Bureau of Energy",
+        "Ministry of Economic Affairs"
+    ]
+}

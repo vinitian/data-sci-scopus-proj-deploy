@@ -1,0 +1,73 @@
+{
+    "eid": "2-s2.0-85099302279",
+    "title": "Enhancement of Robustness to Inductance Variation for Rotor-Position Estimation of Doubly-Fed Induction Machine by Regressor-Vector Selection",
+    "cover-date": "2020-11-24",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanical Engineering",
+            "@code": "2210",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "DFIM",
+        "inductance variation",
+        "position sensorless",
+        "robustness"
+    ],
+    "authors": [
+        "Pratya Vimol",
+        "Suppasorn Munphal",
+        "Surapong Suwankawin"
+    ],
+    "citedby-count": 1,
+    "ref-count": 11,
+    "ref-list": [
+        "A rotor-current-based slip angle estimator for grid-connected doubly fed induction generator requiring the stator inductance only",
+        "Sensorless direct slip position estimator of a dfim based on the air gap pq vector-sensitivity study",
+        "Effects of mismatched parameters in mras sensorless doubly fed induction machine drives",
+        "An MRAS observer for sensorless dfim drives with direct estimation of the torque and flux rotor current components",
+        "Sensorless control of doubly-fed induction generators using a rotor-current-based mras observer",
+        "Stator currentbased sliding-mode observer for sensorless vector control of doublyfed induction generators",
+        "A class of flux observers for doubly-fed induction generators used in small power wind generation systems",
+        "An improved direct decoupled power control of doubly fed induction machine without rotor position sensor and with robustness to parameter variation",
+        "Adaptive tuning of the stator inductance in a rotor-current-based mras observer for sensorless doubly fed induction-machine drives",
+        "Stator inductance self-tuning in an air-gap-power-vector-based observer for the sensorless control of doubly fed induction machines",
+        "A statorequation-based reduced-order observer for positionsensorless vector control system of doubly-fed induction machines"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Japanese Ministry of Research"
+    ]
+}

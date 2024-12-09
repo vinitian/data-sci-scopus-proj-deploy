@@ -1,0 +1,109 @@
+{
+    "eid": "2-s2.0-85138851166",
+    "title": "Development of an Automated Viral Plaque Assay Program and ELISpot Counting Program on 96-Well Plate Platform",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Media Technology",
+            "@code": "2214",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "96- Well plate",
+        "Dynamic thresholding",
+        "ELISpot assay",
+        "k-mean clustering",
+        "Viral plaque assay",
+        "Well-plate"
+    ],
+    "authors": [
+        "Suphanut Plengkham",
+        "Chayatorn Kukiattikoon",
+        "Gridsada Phanomchoeng",
+        "Siwaporn Boonyasuppayalorn"
+    ],
+    "citedby-count": 1,
+    "ref-count": 31,
+    "ref-list": [
+        "The growth of bacteriophage and lysis of the host",
+        "Development of Au-welltomated Platform for Image Capturing and Counting Algorithm for Viral Plaque",
+        "ViralPlaque: A Fiji macro for automated assessment of viral plaque statistics",
+        "Immunotherapy for patients with acute myeloid leukemia using autologous dendritic cells generated from leukemic blasts",
+        "Enzyme-Linked Immunosorbent Spot Assay for the Detection of Wilms' Tumor 1-Specific T Cells Induced by Dendritic Cell Vaccination",
+        "Intratypic variation of herpessimplex virus type 2 isolates detected by monoclonal antibodies against viralglycoproteins",
+        "High throughput virus plaque quantitation using a flatbed scanner",
+        "Human monoclonal antibodies derived from memory B cells following live attenuated dengue virus vaccination or natural infection exhibit similar characteristics",
+        "Simplified dengue virus microwell plaque assay using an automated quantification program",
+        "Functional Analysis of Antibodies against Dengue Virus Type4 Reveals Strain-Dependent Epitope Exposure That Impacts Neutralization and Protection",
+        "The automated counting of spots for the ELISpot assay",
+        "Segmentation of overlapping/aggregating nuclei cells in biological images",
+        "Automated counting of bacterial colonies on agar plates based on images captured at near infrared light",
+        "Automated Counting and Identification of Cell Colonies Based on Distance Transform and Progressive Erosion",
+        "ImageJ",
+        "Optimized digital counting colonies of clonogenic assays using ImageJ software and customized macros: Comparison with manual counting",
+        "Viral Plaque: A Fiji macro for automated assessment of viral plaque statistics",
+        "OpenCFU, a new free and open-source software to count cell colonies and other circular objects",
+        "High throughput virus plaque quantitation using a flatbed scanner",
+        "Viridot: An automated virus plaque (immunofocus) counter for the measurement of serological neutralizing responses with application to dengue virus",
+        "Automated Viral Plaque Counting Using Image Segmentation and Morphological Analysis",
+        "Machine-learningbased automated quantification machine for virus plaque assay counting",
+        "Editorial I Using the Bland-Altman method to measure agreement with repeated measures"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "ChulalongkornUniversity Technology Center"
+    ]
+}

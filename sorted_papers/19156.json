@@ -1,0 +1,75 @@
+{
+    "eid": "2-s2.0-85107938415",
+    "title": "Modeling and simulation of the International Space Station (ISS) electrical power system",
+    "cover-date": "2021-08-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Modeling and Simulation",
+            "@code": "2611",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "International Space Station (ISS)",
+        "load management algorithm",
+        "photovoltaic (PV) systems",
+        "space environment",
+        "system modeling"
+    ],
+    "authors": [
+        "Murat Kuzlu",
+        "Kyle Abalos",
+        "Onur Elma",
+        "Otilia Popescu",
+        "Manisa Pipattanasomporn"
+    ],
+    "citedby-count": 2,
+    "ref-count": 32,
+    "ref-list": [
+        "Direct comparison of ground and in-flight measurements of new multi-junction solar cell technologies",
+        "DC-microgrid system design, control, and analysis",
+        "Space Station power requirements and issues",
+        "Spacecraft thermal environments",
+        "A comparative sizing analysis of a renewable energy supplied stand-alone house considering both demand side and source side dynamics",
+        "On the temperature dependence of photovoltaic module electrical performance: a review of efficiency/power correlations"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Istanbul",
+            "@id": "60019963",
+            "affilname": "Y\u0131ld\u0131z Teknik \u00dcniversitesi",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60019963",
+            "affiliation-country": "Turkey"
+        },
+        {
+            "affiliation-city": "Norfolk",
+            "@id": "60007652",
+            "affilname": "Old Dominion University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007652",
+            "affiliation-country": "United States"
+        }
+    ],
+    "funding": [
+        "Virginia Space Grant Consortium"
+    ]
+}

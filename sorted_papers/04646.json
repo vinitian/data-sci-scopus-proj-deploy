@@ -1,0 +1,76 @@
+{
+    "eid": "2-s2.0-85047618371",
+    "title": "Using a Distributed Roadside Unit for the Data Dissemination Protocol in VANET with the Named Data Architecture",
+    "cover-date": "2018-05-23",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Engineering (all)",
+            "@code": "2200",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "intelligent transport system (ITS)",
+        "named data network (NDN)",
+        "vehicle to roadside unit (V2R)",
+        "Vehicular ad hoc network (VANET)"
+    ],
+    "authors": [
+        "Sasirom Tiennoy",
+        "Chaiyachet Saivichit"
+    ],
+    "citedby-count": 35,
+    "ref-count": 31,
+    "ref-list": [
+        "Queue length estima-tion using connected vehicle technology for adaptive signal control",
+        "Simple analytical models for estimating the queue lengths from probe vehicles at traffic signals",
+        "The strategy and deployment plan for VICS",
+        "Opportunistic resource exchange in inter-vehicle ad-hoc networks",
+        "TrafficView: A scalable traffic monitoring system",
+        "MDDV: A mobility-centric data dissemination algorithm for vehicular networks",
+        "Data dissemination protocol for VANET by utilizing distributed roadside traffic information processing node",
+        "Introduction of NDN with comparison to current Internet architecture based on TCP/IP",
+        "Networking named content",
+        "A content centric approach to dis-semination of information in vehicular networks",
+        "A self-organizing content centric network model for hybrid vehicular ad-hoc networks",
+        "Data nam-ing in vehicle-to-vehicle communications",
+        "Rapid traffic information dissemination using named data",
+        "RUFS: RobUst forwarder selection in vehicular content-centric networks",
+        "Scal-able opportunistic VANET content routing with encounter information",
+        "Navigo: Interest forwarding by geolocations in vehicular named data networking",
+        "Boosting named data networking for data dissemination in urban VANET scenarios",
+        "DMND: Collecting data from mobiles using named data",
+        "Content-centric networking: Is that a solution for upcoming vehicular networks",
+        "CRoWN: Content-centric networking in vehicular ad hoc networks",
+        "VANET via named data networking",
+        "Interest forwarding in vehicular information centric networks: A survey",
+        "A connectionless approach to mobile ad hoc networks in street environments",
+        "MAC for dedicated short range communications in intelligent transport system",
+        "Traffic data analysis on sathorn road with synchro optimization and traffic simulation",
+        "NETSTREAM: Traffic simulator for evaluating traffic information systems"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Ratchadaphiseksomphot Endowment Fund",
+        "Chulalongkorn University"
+    ]
+}

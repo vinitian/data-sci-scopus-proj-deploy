@@ -1,0 +1,88 @@
+{
+    "eid": "2-s2.0-85097340140",
+    "title": "Acne detection with deep neural networks",
+    "cover-date": "2020-08-05",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "Acne vulgaris",
+        "Faster R-CNN",
+        "R-FCN"
+    ],
+    "authors": [
+        "Kuladech Rashataprucksa",
+        "Chavalit Chuangchaichatchavarn",
+        "Sipat Triukose",
+        "Sirin Nitinawarat",
+        "Marisa Pongprutthipan",
+        "Krerk Piromsopa"
+    ],
+    "citedby-count": 12,
+    "ref-count": 14,
+    "ref-list": [
+        "Impact of acne vulgaris on quality of life and self-esteem",
+        "Practical management of acne for clinicians: An international consensus from the global alliance to improve outcomes in acne",
+        "Guidelines of care for the management of acne vulgaris",
+        "Automatic acne detection for medical treatment",
+        "Automated detection, extraction and counting of acne lesions for automatic evaluation and tracking of acne severity",
+        "Rapid object detection using a boosted cascade of simple features",
+        "A facial pore aided detection system using cnn deep learning algorithm",
+        "An automatic diagnosis method of facial acne vulgaris based on convolutional neural network",
+        "Development and accuracy of an artificial intelligence algorithm for acne grading from smartphone photographs",
+        "Development and evaluation of a global acne severity scale (gea scale) suitable for France and Europe",
+        "Faster r-cnn: Towards real-Time object detection with region proposal networks",
+        "Rich feature hierarchies for accurate object detection and semantic segmentation",
+        "Fast r-cnn",
+        "R-fcn: Object detection via region-based fully convolutional networks"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60002620",
+            "affilname": "Faculty of Medicine, Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002620",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "125513541",
+            "affilname": "Pan Rajdhevee Suphanahong Foundation",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/125513541",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Chulalongkorn university"
+    ]
+}

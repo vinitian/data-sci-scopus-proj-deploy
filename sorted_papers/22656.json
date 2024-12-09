@@ -1,0 +1,84 @@
+{
+    "eid": "2-s2.0-85077966228",
+    "title": "Food Image Categorization Using Attentional Bilinear Model",
+    "cover-date": "2019-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Safety, Risk, Reliability and Quality",
+            "@code": "2213",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "Attention Mechanism",
+        "Bilinear Convolutional Neural Network",
+        "Deep learning",
+        "Fine-grained categorization",
+        "Inception Network"
+    ],
+    "authors": [
+        "Vasinee Nussiri",
+        "Peerapon Vateekul"
+    ],
+    "citedby-count": 0,
+    "ref-count": 30,
+    "ref-list": [
+        "Food/non-food image classification and food categorization using pre-trained googlenet model",
+        "Going deeper with convolutions",
+        "Large scale fine-grained categorization and domain-specific transfer learning",
+        "Inceptionv4, inception-resnet and the impact of residual connections on learning",
+        "Bilinear cnn models for fine-grained visual recognition",
+        "Bilinear cnn models for food recognition",
+        "Rethinking the inception architecture for computer vision",
+        "Attention is all you need",
+        "Separating style and content with bilinear models",
+        "Bilinear classifiers for visual recognition",
+        "Low-rank bilinear pooling for finegrained classification",
+        "Compact bilinear pooling",
+        "Kernel pooling for convolutional neural networks",
+        "Higher-order integration of hierarchical convolutional activations for fine-grained visual categorization",
+        "Hierarchical bilinear pooling for fine-grained visual recognition",
+        "Oneto-many face recognition with bilinear cnns",
+        "Multi-region bilinear convolutional neural networks for person re-identification",
+        "Histopathological image classification with bilinear convolutional neural networks",
+        "Factorized convolutional neural networks",
+        "Deep residual learning for image recognition",
+        "Hierarchical Multi-scale Attention Networks for action recognition",
+        "Research on data augmentation for image classification based on convolution neural networks",
+        "Beyond accuracy, F-score and ROC: A family of discriminant measures for performance evaluation",
+        "Large-scale machine learning with stochastic gradient descent"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}

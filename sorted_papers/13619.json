@@ -1,0 +1,85 @@
+{
+    "eid": "2-s2.0-85096910607",
+    "title": "A Relational database management system for life-cycle cost analysis of bim projects",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Building and Construction",
+            "@code": "2215",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Civil and Structural Engineering",
+            "@code": "2205",
+            "@abbrev": "ENGI"
+        }
+    ],
+    "keywords": [
+        "6D BIM.",
+        "Building cost estimating",
+        "Construction data management",
+        "Multi-parametric model",
+        "Sustainable procurement"
+    ],
+    "authors": [
+        "Veerasak Likhitruangsilp",
+        "Hang T.T. Le",
+        "Nobuyoshi Yabuki",
+        "Photios G. Ioannou"
+    ],
+    "citedby-count": 1,
+    "ref-count": 31,
+    "ref-list": [
+        "Towards distributed Product Data Sharing Environment Progress So Far And Future Challenges",
+        "A Lessons Learned Database Structure for Construction Companies",
+        "A Building Information Modeling (BIM)-Integrated System for Evaluating the Impact of Change Orders",
+        "Life cycle Costing: Evaluating Its Use in UK Practice",
+        "Integrating Building Information Modeling and Life cycle Assessment Tools to Design Sustainable Buildings",
+        "Embedding Life cycle Costing in 5D BIM",
+        "The IFC Standard: A Review Of History, Development, and Standardization, Information Technology",
+        "A BIM-Integrated Rational Database Management System for Evaluating Building Life-Cycle Costs",
+        "An Integrated System For Building Life-Cycle Cost Analysis",
+        "Key Knowledge Enabler Factors for Effective BIM Implementation in Construction Organizations",
+        "A Data Warehouse-Based Decision Support System for Sewer Infrastructure Management",
+        "A Project-Oriented Data Warehouse for Construction",
+        "Quantitative Evaluation of The BIM-Assisted Construction Detailed Cost Estimates",
+        "BIM and the 5D Project Cost Manager",
+        "Advantages and Challenges of Using BIM: A Cost Consultant's Perspective",
+        "Building Information Modeling (BIM) for Existing Buildings-Literature Review and Future Needs"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Ho Chi Minh City",
+            "@id": "60109585",
+            "affilname": "University of Architecture Ho Chi Minh City",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60109585",
+            "affiliation-country": "Viet Nam"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Ann Arbor",
+            "@id": "60025778",
+            "affilname": "University of Michigan, Ann Arbor",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60025778",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Suita",
+            "@id": "60024322",
+            "affilname": "Osaka University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60024322",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Department of Civil Engineering, Faculty of Engineering, Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "eid": "2-s2.0-85146274085",
+    "title": "MCSNet: Multi-Channel Sharing Network for Single Image Super-Resolution",
+    "cover-date": "2022-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Signal Processing",
+            "@code": "1711",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Wazir Muhammad",
+        "Supavadee Aramvith",
+        "Watchara Ruangsang"
+    ],
+    "citedby-count": 0,
+    "ref-count": 25,
+    "ref-list": [
+        "Learning Low-Level Vision",
+        "Multi-scale receptive field fusion network for lightweight image superresolution",
+        "Remote Sensing Image Super-Resolution via Dual-Resolution Network Based on Connected Attention Mechanism",
+        "Remote sensing image super-resolution based on convolutional blind denoising adaptive dense connection",
+        "Single-image super-resolution with multilevel residual attention network",
+        "A Very Deep Spatial Transformer Towards Robust Single Image Super-Resolution",
+        "Image Super-Resolution Using Deep Convolutional Networks",
+        "Accelerating the Super-Resolution Convolutional Neural Network",
+        "Accurate Image Super-Resolution Using Very Deep Convolutional Networks",
+        "Deep Networks for Image Super-Resolution with Sparse Prior",
+        "Deeply-Recursive Convolutional Network for Image Super-Resolution",
+        "Image Super-Resolution via Deep Recursive Residual Network",
+        "Memnet: A persistent memory network for image restoration",
+        "Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution",
+        "Multi-scale Xception based depthwise separable convolution for single image super-resolution",
+        "Multi-Scale Inception Based Super-Resolution Using Deep Learning Approach",
+        "Image Reconstruction of Multibranch Feature Multiplexing Fusion Network with Mixed Multilayer Attention",
+        "Accurate spectral super-resolution from single RGB image using multi-scale CNN",
+        "MADNet: A Fast and Lightweight Network for Single-Image Super Resolution",
+        "Image Super-Resolution Via Sparse Representation",
+        "Contour detection and hierarchical image segmentation",
+        "NTIRE 2017 Challenge on Single Image Super-Resolution: Dataset and Study",
+        "Single image superresolution from transformed self-exemplars",
+        "Sketch-based manga retrieval using manga109 dataset"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Khuzdar",
+            "@id": "129087064",
+            "affilname": "Electrical Engineering Department",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/129087064",
+            "affiliation-country": "Pakistan"
+        }
+    ],
+    "funding": [
+        "C2F) Chulalongkorn University Bangkok Thailand",
+        "Ratchadaphiseksomphot Endowment Fund",
+        "Second Century Fund",
+        "Thailand Science research and Innovation Fund Chulalongkorn University",
+        "Electrical Engineering Department Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "eid": "2-s2.0-85126979948",
+    "title": "Distribution Sysem Emergency Operation using a Mobile Vehicle-to-Grid Microgrid",
+    "cover-date": "2021-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Energy Engineering and Power Technology",
+            "@code": "2102",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Renewable Energy, Sustainability and the Environment",
+            "@code": "2105",
+            "@abbrev": "ENER"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Control and Optimization",
+            "@code": "2606",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "battery energy storage system (BESS)",
+        "distribution system",
+        "electric vehicle (EV)",
+        "microgrid",
+        "photovoltaic (PV) power generation",
+        "vehicle-to-grid (V2G)"
+    ],
+    "authors": [
+        "Yuki Sato",
+        "Fumiya Hyodo",
+        "Taisuke Masuta",
+        "Thavatchai Tayjasanant"
+    ],
+    "citedby-count": 1,
+    "ref-count": 17,
+    "ref-list": [
+        "Plug-in electric vehicle to home (V2H) operation under a grid outage",
+        "Optimal minimization of plug-in electric vehicle charging cost with vehicle-to-home and vehicle-to-grid concepts",
+        "Vehicle to Grid to Alleviate Distribution Network Constraints for Supply Demand Schedule and Operation",
+        "Modeling the benefits of vehicle-to-grid technology to a power system",
+        "Decentralized vehicle-to-grid control for primary frequency regulation considering charging demands",
+        "Energy management in smart distribution systems with vehicle-to-grid integrated microgrids",
+        "EV related technology (V2G, V2H)",
+        "Evaluation of achievable vehicle-to-grid capacity using aggregate PEV model",
+        "Coordinated autonomous vehicle parking for vehicle-to-grid services: formulation and disteiduted algorithm",
+        "A game-theoretic framework for vehicle-to-grid frequency regulation considering smart charging mechanism",
+        "Reliability evaluation of distribution systems including vehicle-to-home and vehicle-to-grid"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nagoya",
+            "@id": "60027762",
+            "affilname": "Meijo University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027762",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Meijo Asian Research Center"
+    ]
+}

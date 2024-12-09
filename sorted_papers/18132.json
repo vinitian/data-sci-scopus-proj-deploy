@@ -1,0 +1,69 @@
+{
+    "eid": "2-s2.0-85072847644",
+    "title": "RNA-sequencing of snake venom glands",
+    "cover-date": "2020-01-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Molecular Biology",
+            "@code": "1312",
+            "@abbrev": "BIOC"
+        },
+        {
+            "@_fa": "true",
+            "$": "Genetics",
+            "@code": "1311",
+            "@abbrev": "BIOC"
+        }
+    ],
+    "keywords": [
+        "De novo assembly",
+        "Next-generation sequencing",
+        "RNA-Sequencing",
+        "Snake venom glands",
+        "Toxin transcripts"
+    ],
+    "authors": [
+        "Khin Than Yee",
+        "Olga Vasieva",
+        "Ponlapat Rojnuckarin"
+    ],
+    "citedby-count": 0,
+    "ref-count": 8,
+    "ref-list": [
+        "Next-generation transcriptome assembly",
+        "Sequencing depth and coverage: Key considerations in genomic analyses",
+        "Full-length transcriptome assembly from RNA-Seq data without a reference genome",
+        "Trimmomatic: A flexible trimmer for Illumina sequence data",
+        "De novo transcript sequence reconstruction from RNA-seq using the trinity platform for reference generation and analysis",
+        "NCBI BLAST: A better web interface",
+        "Fast, scalable generation of high-quality protein multiple sequence alignments using Clustal Omega",
+        "SignalP 4.0: Discriminating signal peptides from transmembrane regions"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Liverpool",
+            "@id": "60020661",
+            "affilname": "University of Liverpool",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60020661",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "London",
+            "@id": "120452777",
+            "affilname": "Ingenet Ltd",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/120452777",
+            "affiliation-country": "United Kingdom"
+        }
+    ],
+    "funding": [
+        "Queen Saovabha Memorial Institute"
+    ]
+}

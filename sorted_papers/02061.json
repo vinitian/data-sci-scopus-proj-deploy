@@ -1,0 +1,112 @@
+{
+    "eid": "2-s2.0-85147605084",
+    "title": "Water-soluble organic former selection for methane hydrates by supervised machine learning",
+    "cover-date": "2023-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Energy (all)",
+            "@code": "2100",
+            "@abbrev": "ENER"
+        }
+    ],
+    "keywords": [
+        "Cheminformatics",
+        "Former",
+        "Hydrate",
+        "Machine learning",
+        "Methane",
+        "Storage"
+    ],
+    "authors": [
+        "Phuwadej Pornaroontham",
+        "Kyusung Kim",
+        "Santi Kulprathipanja",
+        "Pramoch Rangsunvigit"
+    ],
+    "citedby-count": 1,
+    "ref-count": 54,
+    "ref-list": [
+        "Thermodynamic features-driven machine learning-based predictions of clathrate hydrate equilibria in the presence of electrolytes",
+        "Perspective: Materials informatics and big data: Realization of the fourth paradigm of science in materials science",
+        "A molecular dynamics study of ethanol-water hydrogen bonding in binary structure I clathrate hydrate with CO2",
+        "Linking microscopic guest properties to macroscopic observables in clathrate hydrates: guest-host hydrogen bonding",
+        "Binary ethanol-methane clathrate hydrate formation in the system CH4-C2H5OH-H2O: Phase equilibria and compositional analyses",
+        "CatBoost: gradient boosting with categorical features support",
+        "Methane hydrate-liquid-vapour-equilibrium phase condition measurements in the presence of natural amino acids",
+        "Yellowbrick: Visualizing the scikit-learn model selection process",
+        "Experimental and modeling studies on enhancing the thermodynamic hydrate inhibition performance of monoethylene glycol via synergistic green material",
+        "Ultra-rapid uptake and the highly stable storage of methane as combustible ice",
+        "Xgboost: A scalable tree boosting system",
+        "Measurements for the dissociation conditions of methane hydrate in the presence of 2, 5-dihydrofuran and 3, 4-dihydro-2H-pyran",
+        "Brief review of regression-based and machine learning methods in genetic epidemiology: the genetic analysis workshop 17 experience",
+        "Mixed hydrates of methane and water-soluble hydrocarbons modeling of empirical results",
+        "Electric power sector CO2 emissions drop as generation mix shifts from coal to natural gas",
+        "Phase equilibrium modeling of structure h clathrate hydrates of methane + water insoluble hydrocarbon promoter using QSPR molecular approach",
+        "Modeling of the thermodynamic equilibrium conditions for the formation of TBAB and TBAC semiclathrates formed in the presence of Xe, Ar, CH4, CO2, N2, and H2",
+        "Matplotlib: A 2D graphics environment",
+        "Thermodynamic model for the prediction of equilibrium conditions of clathrate hydrates of methane + water-soluble or -insoluble hydrate former",
+        "Experimental determination and modeling of structure II hydrates in mixtures of methane+water+1, 4-dioxane",
+        "Measurements for the equilibrium conditions of methane hydrate in the presence of cyclopentanone or 4-hydroxy-4-methyl-2-pentanone additives",
+        "Effects of pyrrolidine on methane hydrate formation: Thermodynamic, kinetic, and morphology perspectives",
+        "Lightgbm: A highly efficient gradient boosting decision tree",
+        "A fugacity model for gas hydrate phase equilibria",
+        "Hydrate phase equilibrium data of mixed methane-tetrahydrofuran hydrates in saline water",
+        "Measurements for the dissociation conditions of methane hydrate in the presence of 2-methyl-2-propanol",
+        "Toward a robust, universal predictor of gas hydrate equilibria by means of a deep learning regression",
+        "Phase equilibrium studies of tetrahydrofuran (THF) + CH4, THF + CO2, CH4 + CO2, and THF + CO2 + CH4 hydrates",
+        "Effect of guest\u2013host hydrogen bonding on thermodynamic stability of clathrate hydrates: Diazine isomers",
+        "From local explanations to global understanding with explainable AI for trees",
+        "Equilibrium conditions for clathrate hydrates formed from methane and aqueous propanol solutions",
+        "Experimental determination and modeling of methane hydrates in mixtures of acetone and water",
+        "Thermodynamic and kinetic promoters for gas hydrate technological applications",
+        "Natural Gas Hydrate in Oceanic and Permafrost Environments",
+        "Sixty years of the van der waals and platteeuw model for clathrate hydrates-a critical review from its statistical thermodynamic basis to its extensions and applications",
+        "Pycaret: An open source, low-code machine learning library in python",
+        "Phase equilibria of clathrate hydrates of tetrahydrofuran + hydrogen sulfide and tetrahydrofuran + methane",
+        "Phase equilibria of methane hydrates in the presence of methanol and/or ethylene glycol aqueous solutions",
+        "Gas hydrate phase equilibrium in methane + ethylene glycol, diethylene glycol, or triethylene glycol + water system",
+        "Effect of mixed thermodynamic and kinetic hydrate promoters on methane hydrate phase boundary and formation kinetics",
+        "Scikit-learn: Machine learning in python",
+        "Experimental determination and thermodynamic modeling of methane and nitrogen hydrates in the presence of THF, propylene oxide, 1, 4-dioxane and acetone",
+        "Ammonia clathrate hydrates as new solid phases for titan, enceladus, and other planetary systems",
+        "Water-soluble structure h clathrate hydrate formers",
+        "Environment and exposure to solvent of protein atoms. Lysozyme and insulin",
+        "Phase equilibrium and dynamic behavior of methane hydrates decomposition via depressurization in the presence of a promoter tert-butanol",
+        "Clathrate hydrates of natural gases",
+        "Prediction of gas hydrate formation condition in the presence of thermodynamic inhibitors with the Elliott\u2013Suresh\u2013Donohue equation of state",
+        "seaborn: statistical data visualization",
+        "Smiles, a chemical language and information system. 1. Introduction to methodology and encoding rules",
+        "Prediction of methane hydrate formation conditions in salt water using machine learning algorithms"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60199582",
+            "affilname": "Center of Excellence on Petrochemical and Materials Technology",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199582",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Nagoya",
+            "@id": "60000264",
+            "affilname": "Nagoya University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000264",
+            "affiliation-country": "Japan"
+        }
+    ],
+    "funding": [
+        "Petroleum and Petrochemical College",
+        "Ratchadaphiseksomphot Endowment Fund",
+        "Thailand Science Research and Innovation Fund Chulalongkorn University",
+        "Chulalongkorn University",
+        "PETROMAT"
+    ]
+}

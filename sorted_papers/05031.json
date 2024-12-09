@@ -1,0 +1,73 @@
+{
+    "eid": "2-s2.0-85158082832",
+    "title": "Geometric and Statistical Assessments on Horizontal Positioning Accuracy in Relation with GNSS CORS Triangulations of NRTK Positioning Services in Thailand",
+    "cover-date": "2023-04-05",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Geography, Planning and Development",
+            "@code": "3305",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Earth and Planetary Sciences (miscellaneous)",
+            "@code": "1901",
+            "@abbrev": "EART"
+        }
+    ],
+    "keywords": [
+        "GNSS Triangulation Network Characterisation",
+        "Horizontal Positioning Accuracy",
+        "Hypothesis Test NRTK-VRS GNSS CORS"
+    ],
+    "authors": [
+        "T. Charoenkalunyuta",
+        "C. Satirapod",
+        "R. Charoenyot",
+        "T. Thongtan"
+    ],
+    "citedby-count": 0,
+    "ref-count": 15,
+    "ref-list": [
+        "Can Long-Range Single-Baseline RTK Provide Service in Shanghai Comparable to Network RTK?",
+        "Performance of Network-Based GNSS Positioning Services in Poland: A Case Study",
+        "A Real-Time KSACORS-Based NRTK GNSS Positioning System for Saudi Coastal Navigation",
+        "Network Real Time Kinematic (NRTK) Positioning\u2013Description, Architectures and Performances",
+        "Application of Running Average Function to Non-Dispersive Errors of Network-Based Real-Time Kinematic Positioning",
+        "Performance of Network-Based RTK GPS in Low-Latitude Region: A Case Study in Thailand",
+        "Performance of Network-Based RTK GNSS for the Cadastral Survey in Thailand"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60001796",
+            "affilname": "Thailand Ministry of Interior",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001796",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Pathum Thani",
+            "@id": "113295996",
+            "affilname": "National Institute of Metrology (Thailand)",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/113295996",
+            "affiliation-country": "Thailand"
+        }
+    ],
+    "funding": [
+        "Department of Lands"
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "eid": "2-s2.0-85114606216",
+    "title": "Chromosome-scale genome sequencing, assembly and annotation of six genomes from subfamily Leishmaniinae",
+    "cover-date": "2021-12-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Statistics and Probability",
+            "@code": "2613",
+            "@abbrev": "MATH"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems",
+            "@code": "1710",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Education",
+            "@code": "3304",
+            "@abbrev": "SOCI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Science Applications",
+            "@code": "1706",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Statistics, Probability and Uncertainty",
+            "@code": "1804",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Library and Information Sciences",
+            "@code": "3309",
+            "@abbrev": "SOCI"
+        }
+    ],
+    "keywords": [],
+    "authors": [
+        "Hatim Almutairi",
+        "Michael D. Urbaniak",
+        "Michelle D. Bates",
+        "Narissara Jariyapan",
+        "Godwin Kwakye-Nuako",
+        "Vanete Thomaz Soccol",
+        "Waleed S. Al-Salem",
+        "Rod J. Dillon",
+        "Paul A. Bates",
+        "Derek Gatherer"
+    ],
+    "citedby-count": 5,
+    "ref-count": 124,
+    "ref-list": [
+        "The history of leishmaniasis",
+        "Phlebotomine sandflies and the spreading of leishmaniases and other diseases of public health concern",
+        "PKDL and other dermal lesions in HIV co-infected patients with Leishmaniasis: review of clinical presentation in relation to immune responses",
+        "A review of visceral leishmaniasis during the conflict in South Sudan and the consequences for East African countries",
+        "Leishmaniasis",
+        "Leishmania (Leishmania) martiniquensis n. sp. (Kinetoplastida: Trypanosomatidae), description of the parasite responsible for cutaneous leishmaniasis in Martinique Island (French West Indies)",
+        "Leishmania (Mundinia) orientalis n. sp. (Trypanosomatidae), a parasite from Thailand responsible for localised cutaneous leishmaniasis",
+        "First isolation of a new species of Leishmania responsible for human cutaneous leishmaniasis in Ghana and classification in the Leishmania enriettii complex",
+        "An autochthonous case of cutaneous bovine leishmaniasis in Switzerland",
+        "Occurrence of Leishmania sp. in cutaneous lesions of horses in Central Europe",
+        "Autochthonous Leishmania siamensis in horse, Florida, USA",
+        "Cutaneous leishmaniasis in red kangaroos: isolation and characterisation of the causative organisms",
+        "The Leishmania genome comes of age",
+        "The genome of the kinetoplastid parasite, Leishmania major",
+        "Genome analysis of Endotrypanum and Porcisia spp., closest phylogenetic relatives of Leishmania, highlights the role of amastins in shaping pathogenicity",
+        "An appraisal of the taxonomy and nomenclature of trypanosomatids presently classified as Leishmania and Endotrypanum",
+        "LGAAP: Leishmaniinae Genome Assembly and Annotation Pipeline",
+        "Assembly of long, error-prone reads using repeat graphs",
+        "Minimap and miniasm: fast mapping and de novo assembly for noisy long sequences",
+        "Twelve years of SAMtools and BCFtools",
+        "BLAST+: architecture and applications",
+        "NCBI",
+        "Pilon: an integrated tool for comprehensive microbial variant detection and genome assembly improvement",
+        "TriTrypDB: a functional genomic resource for the Trypanosomatidae",
+        "Supplementary materials for chromosome-scale genome sequencing, assembly and annotation of six genomes from subfamily Leishmaniinae",
+        "Using MUMmer to identify similar regions in large sequence sets",
+        "Nextgenusfs/funannotate: Funannotate",
+        "TEclass\u2013a tool for automated classification of unknown eukaryotic transposable elements",
+        "MAKER2: an annotation pipeline and genome-database management tool for second-generation genome projects",
+        "Predicting genes in single genomes with AUGUSTUS",
+        "GenomeTools: a comprehensive software library for efficient processing of structured genome annotations",
+        "UniProt: the universal protein knowledgebase in 2021",
+        "Pfam: The protein families database in 2021",
+        "InterProScan 5: genome-scale protein function classification",
+        "L. (Mundinia) martiniquensis: functional annotations",
+        "L. (Mundinia) orientalis: functional annotations",
+        "L. (Mundinia) enriettii: functional annotations",
+        "L. (Mundinia) sp. Ghana: functional annotations",
+        "L. (Mundinia) sp. Namibia: functional annotations",
+        "Porcisia hertigi: functional annotations",
+        "Sustainable data analysis with Snakemake",
+        "L. (Mundinia) martiniquensis raw reads quality reports",
+        "Leishmania (Mundinia) orientalis raw reads quality reports",
+        "Leishmania (Mundinia) enriettii raw reads quality reports",
+        "Leishmania (Mundinia) sp. Ghana raw reads quality reports",
+        "Leishmania (Mundinia) sp. Namibia raw reads quality reports",
+        "Porcisia hertigi raw reads quality reports",
+        "L. (Mundinia) martiniquensis: mapped reads in SAM and BAM format",
+        "L. (Mundinia) orientalis: mapped reads in SAM and BAM format",
+        "L. (Mundinia) enriettii: mapped reads in SAM and BAM format",
+        "L. (Mundinia) sp. Ghana: mapped reads in SAM and BAM format",
+        "L. (Mundinia) sp. Namibia: mapped reads in SAM and BAM format",
+        "Porcisia hertigi: mapped reads in SAM and BAM format",
+        "L. (Mundinia) martiniquensis: classified repeated sequences",
+        "L. (Mundinia) orientalis: classified repeated sequences",
+        "L. (Mundinia) enriettii: classified repeated sequences",
+        "L. (Mundinia) sp. Ghana: classified repeated sequences",
+        "L. (Mundinia) sp. Namibia: classified repeated sequences",
+        "Porcisia hertigi: classified repeated sequences",
+        "MultiQC: summarize analysis results for multiple tools and samples in a single report",
+        "BUSCO: assessing genome assembly and annotation completeness"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Lancaster",
+            "@id": "60117609",
+            "affilname": "Division of Biomedical and Life Sciences, Lancaster University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60117609",
+            "affiliation-country": "United Kingdom"
+        },
+        {
+            "affiliation-city": "Cape Coast",
+            "@id": "60071895",
+            "affilname": "University of Cape Coast Ghana",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071895",
+            "affiliation-country": "Ghana"
+        },
+        {
+            "affiliation-city": "Riyadh",
+            "@id": "60032813",
+            "affilname": "Ministry of Health Saudi Arabia",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032813",
+            "affiliation-country": "Saudi Arabia"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Curitiba",
+            "@id": "60015043",
+            "affilname": "Universidade Federal do Parana",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60015043",
+            "affiliation-country": "Brazil"
+        }
+    ],
+    "funding": [
+        "Ministry of Health and Public Health Authority of Saudi Arabia"
+    ]
+}

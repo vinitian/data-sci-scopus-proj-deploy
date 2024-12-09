@@ -1,0 +1,68 @@
+{
+    "eid": "2-s2.0-85090918748",
+    "title": "High performance peer-to-peer data dissemination for decentralized wireless sensor networks firmware updating",
+    "cover-date": "2020-07-08",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Human-Computer Interaction",
+            "@code": "1709",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Vision and Pattern Recognition",
+            "@code": "1707",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        }
+    ],
+    "keywords": [
+        "6L0WPAN",
+        "BitTorrent",
+        "Data dissemination",
+        "RPL",
+        "Wireless Sensor Networks"
+    ],
+    "authors": [
+        "Natchanon Nuntanirund",
+        "Natawut Nupairoj"
+    ],
+    "citedby-count": 0,
+    "ref-count": 20,
+    "ref-list": [
+        "Mnp: Multihop network reprogramming service for sensor networks",
+        "Ipv6 over low-power wireless personal area networks (6lowpans): Overview, assumptions, problem statement, and goals",
+        "Rpl: Ipv6 routing protocol for low-power and lossy networks",
+        "Cluster-based routing algorithms using spatial data correlation for wireless sensor networks",
+        "An adaptive state-aware routing algorithm for data aggregation in wireless sensor networks",
+        "Scaling rpl to dense and large networks with constrained memory",
+        "Ipv6 multicast forwarding in rpl-based wireless sensor networks",
+        "Multicast protocol for low-power and lossy networks (mpl)",
+        "Firmware update for 6lowpan networks of oma-lwm2m iot devices",
+        "Enabling firmware updates over LPWANs",
+        "Energy-aware distribution of data fragments in unattended wireless sensor networks"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60028190",
+        "affilname": "Chulalongkorn University",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+        "affiliation-country": "Thailand"
+    },
+    "funding": [
+        "Chulalongkorn University Big Data Analytics",
+        "Department of Computer Engineering, Chulalongkorn University"
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "eid": "2-s2.0-85066811100",
+    "title": "Separation of nitrogen dioxide from the gas mixture with nitrogen by use of ZIF materials; computer simulation studies",
+    "cover-date": "2019-10-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Computer Science (all)",
+            "@code": "1700",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Chemistry (all)",
+            "@code": "1600",
+            "@abbrev": "CHEM"
+        },
+        {
+            "@_fa": "true",
+            "$": "Materials Science (all)",
+            "@code": "2500",
+            "@abbrev": "MATE"
+        },
+        {
+            "@_fa": "true",
+            "$": "Mechanics of Materials",
+            "@code": "2211",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Physics and Astronomy (all)",
+            "@code": "3100",
+            "@abbrev": "PHYS"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computational Mathematics",
+            "@code": "2605",
+            "@abbrev": "MATH"
+        }
+    ],
+    "keywords": [
+        "Molecular simulations",
+        "Nitrogen oxides",
+        "NOx",
+        "Zeolitic Imidazolate Frameworks"
+    ],
+    "authors": [
+        "T. Chokbunpiam",
+        "R. Chanajaree",
+        "J. Caro",
+        "W. Janke",
+        "T. Remsungnen",
+        "S. Hannongbua",
+        "S. Fritzsche"
+    ],
+    "citedby-count": 14,
+    "ref-count": 27,
+    "ref-list": [
+        "Exceptional chemical and thermal stability of zeolitic imidazolate frameworks",
+        "Investigating adsorption- and diffusion selectivity of CO2and CH4from air on zeolitic imidazolate Framework-78 using molecular simulations",
+        "Characteristic features of molecular transport in MOF ZIF-8 as revealed by IR microimaging",
+        "Diffusion of CH4and H2in ZIF-8",
+        "Gate opening, diffusion, and adsorption of CO2and N2mixtures in ZIF-8",
+        "Methane in zeolitic imidazolate framework ZIF-90: adsorption and diffusion by molecular dynamics and Gibbs ensemble Monte Carlo",
+        "Importance of ZIF-90 lattice flexibility on diffusion, permeation, and lattice structure for an adsorbed H2/CH4gas mixture: a re-examination by Gibbs ensemble monte arlo and molecular dynamics simulations",
+        "Computer Simulation of Liquids",
+        "Understanding Molecular Simulation From Algorithms to Applications",
+        "Computational screening of porous metal-organic frameworks and zeolites for the removal of SO2and NOx from flue gases",
+        "Competitive coadsorption of CO2 with H2O, NH3, SO2, NO, NO2, N2, O2, and CH4 in M-MOF-74 (M = Mg Co, Ni): the role of hydrogen bonding",
+        "Selection of best impregnated palm shell activated carbon (PSAC) for simultaneous removal of SO2and NOx",
+        "Performance of an activated carbon made from waste palm shell in simultaneous adsorption of SOx and NOx of flue gas at low temperature",
+        "Adsorption of nitrogen, carbon monoxide, carbon dioxide and nitric oxide on molecular sieves",
+        "Efficient calculation of diffusion limitations in metal organic framework materials: a tool for identifying materials for kinetic separations",
+        "High-throughput computational screening of metal\u2013organic frameworks",
+        "High-Throughput screening of metal\u2013organic frameworks for CO2capture in the presence of water",
+        "High-throughput molecular simulations of metal organic frameworks for CO2separation: opportunities and challenges",
+        "Gibbs ensemble techniques",
+        "The condition of microscopic reversibility in Gibbs ensemble Monte Carlo simulations of phase equilibria",
+        "Theoretical study of carbon dioxide adsorption and diffusion in MIL-127(Fe) metal organic framework",
+        "Molecular simulations of a CO2/CO mixture in MIL-127",
+        "Application of molecular dynamics simulations in molecular property prediction II: Diffusion coefficient",
+        "The reaction ensemble method for the computer simulation of chemical and phase equilibria. I. Theory and basic examples",
+        "Reactive canonical Monte Carlo",
+        "Monte Carlo simulation of equilibrium chemical composition of molecular fluid mixtures in the NatomsPT ensemble"
+    ],
+    "affiliation": [
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60091507",
+            "affilname": "Metallurgy and Materials Research Institute Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60091507",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60028190",
+            "affilname": "Chulalongkorn University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028190",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Bangkok",
+            "@id": "60022676",
+            "affilname": "Ramkhamhaeng University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60022676",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Khon Kaen",
+            "@id": "60017165",
+            "affilname": "Khon Kaen University",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017165",
+            "affiliation-country": "Thailand"
+        },
+        {
+            "affiliation-city": "Leipzig",
+            "@id": "60008042",
+            "affilname": "Universit\u00e4t Leipzig",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008042",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Hannover",
+            "@id": "60004935",
+            "affilname": "Gottfried Wilhelm Leibniz Universit\u00e4t Hannover",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60004935",
+            "affiliation-country": "Germany"
+        }
+    ],
+    "funding": [
+        "Office of the Higher Education Commission",
+        "Thailand Research Fund",
+        "Center of Excellence for Innovation in Chemistry"
+    ]
+}

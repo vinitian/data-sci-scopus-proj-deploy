@@ -1,0 +1,99 @@
+{
+    "eid": "2-s2.0-85091889483",
+    "title": "Prediction of Forthcoming Anger of Customer in Call Center Dialogs",
+    "cover-date": "2020-06-01",
+    "subject-areas": [
+        {
+            "@_fa": "true",
+            "$": "Artificial Intelligence",
+            "@code": "1702",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Computer Networks and Communications",
+            "@code": "1705",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Hardware and Architecture",
+            "@code": "1708",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Software",
+            "@code": "1712",
+            "@abbrev": "COMP"
+        },
+        {
+            "@_fa": "true",
+            "$": "Information Systems and Management",
+            "@code": "1802",
+            "@abbrev": "DECI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Electrical and Electronic Engineering",
+            "@code": "2208",
+            "@abbrev": "ENGI"
+        },
+        {
+            "@_fa": "true",
+            "$": "Instrumentation",
+            "@code": "3105",
+            "@abbrev": "PHYS"
+        }
+    ],
+    "keywords": [
+        "Anger Prediction",
+        "Call center dialogs",
+        "Emotion Recognition",
+        "Long Short-term Memory Networks",
+        "Machine Learning",
+        "Recurrent Neural Networks"
+    ],
+    "authors": [
+        "Janjao Mongkolnavin",
+        "Widakorn Saewong"
+    ],
+    "citedby-count": 1,
+    "ref-count": 26,
+    "ref-list": [
+        "Hybrid approach for emotion classification of audio conversation based on text and speech mining",
+        "Mining call center conversations exhibiting similar affective states",
+        "An articulatory-based singing voice synthesis using tongue and lips imaging",
+        "Hidden markov model based speech synthesis: A review",
+        "Deep neural network approaches to speaker and language recognition",
+        "Emotion recognition in spontaneous and acted dialogues",
+        "Advanced lstm: A study about better time dependency modeling in emotion recognition",
+        "Evaluating deep learning architectures for speech emotion recognition",
+        "Spontaneous speech emotion recognition using prior knowledge",
+        "Survey on audiovisual emotion recognition: Databases, features, and data fusion strategies",
+        "Av+ ec 2015: The first affect recognition challenge bridging across audio, video, and physiological data",
+        "Speaker-sensitive emotion recognition via ranking: Studies on acted and spontaneous speech",
+        "Speech-based recognition of self-reported and observed emotion in a dimensional space",
+        "A database of German emotional speech",
+        "Audio-visual feature selection and reduction for emotion classification",
+        "SUSAS ldc99s78.",
+        "Time-frequency feature representation using multi-resolution texture analysis and acoustic activity detector for real-life speech emotion recognition",
+        "Real-life emotion representation and detection in call centers data",
+        "Survey on speech emotion recognition: Features, classification schemes, and databases",
+        "Vocal expression and communication of emotion",
+        "Self-consciousness and emotional expression",
+        "Emotion recognition from speech signal",
+        "INTERSPEECH 2009 emotion challenge feature set (is): Low-level descriptors (lld) and functionals",
+        "Classification of anger voice in call center dialog",
+        "INTERSPEECH 2010 paralinguistic challenge",
+        "Recent developments in opensmile, the munich open-source multimedia feature extractor"
+    ],
+    "affiliation": {
+        "affiliation-city": "Bangkok",
+        "@id": "60199583",
+        "affilname": "Chulalongkorn Business School",
+        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60199583",
+        "affiliation-country": "Thailand"
+    },
+    "funding": []
+}
