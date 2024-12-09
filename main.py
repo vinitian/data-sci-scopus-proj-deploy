@@ -331,13 +331,12 @@ with col1:
 
     #---AI---#
 
-    o1, o2 = st.columns(2)
-    with o1:
-        st.header("Funded Papers By Different Affiliations")
-        st.bar_chart(ogfdf.set_index('index')['sum'])
-    with o2:
-        st.header("Funded Subject Areas by Chulalongkorn University")
-        st.bar_chart(ogfdf2_tran['Chulalongkorn University'])
+ 
+    st.header("Funded Papers By Different Affiliations")
+    st.bar_chart(ogfdf.set_index('index')['sum'])
+  
+    st.header("Funded Subject Areas by Chulalongkorn University")
+    st.bar_chart(ogfdf2_tran['Chulalongkorn University'])
 
 with col2:
     st.title("Network Graph of Top Keywords")
