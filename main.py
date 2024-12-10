@@ -29,20 +29,24 @@ df4_transposed = df4.T
 
 #----------NETWORK GRAPH OF RELATED KEYWORDS-----------#
 
-path = 'sorted_papers/'
-fileNames = [f for f in listdir(path) if isfile(join(path, f))]
+@st.cache_data
+def loadCooccurrence():
+    path = 'sorted_papers/'
+    fileNames = [f for f in listdir(path) if isfile(join(path, f))]
 
-tag_counter = Counter()
-co_occurrence = Counter()
+    tag_counter = Counter()
+    co_occurrence = Counter()
 
-for i in range(0,29217):
-    with open(path+fileNames[i], 'r', encoding="utf8") as file:
-        d = json.load(file)
-        if d["keywords"] != []:
-            kw = d["keywords"]
-            tag_counter.update(kw)
-            for pair in combinations(kw, 2):
-                co_occurrence[frozenset(pair)] += 1
+    for i in range(0,29217):
+        with open(path+fileNames[i], 'r', encoding="utf8") as file:
+            d = json.load(file)
+            if d["keywords"] != []:
+                kw = d["keywords"]
+                tag_counter.update(kw)
+                for pair in combinations(kw, 2):
+                    co_occurrence[frozenset(pair)] += 1
+
+loadCooccurrence()
 
 top_tags = [tag for tag, _ in tag_counter.most_common(30)]
 filtered_co_occurrence = {
