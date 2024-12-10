@@ -45,8 +45,9 @@ def loadCooccurrence():
                 tag_counter.update(kw)
                 for pair in combinations(kw, 2):
                     co_occurrence[frozenset(pair)] += 1
-
-loadCooccurrence()
+    return tag_counter, co_occurrence
+  
+tag_counter, co_occurrence = loadCooccurrence()
 
 top_tags = [tag for tag, _ in tag_counter.most_common(30)]
 filtered_co_occurrence = {
